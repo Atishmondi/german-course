@@ -40,10 +40,10 @@
         'Tschüss is friendly and informal. Auf Wiedersehen is a more formal goodbye. Greetings vary by region, so these are useful starting choices.',
         [['greeting', 'Words used when meeting someone.'], ['informal', 'Friendly language for familiar or relaxed situations.']]
       ),
-      reading: R('A tiny conversation', 'Atish: Hallo, Nico!\nNico: Hallo, Atish!\nAtish: Tschüss!\nNico: Tschüss, Atish!', 'Atish: Hello, Nico!\nNico: Hello, Atish!\nAtish: Bye!\nNico: Bye, Atish!', [
-        Q('Who greets Nico first?', ['Nico', 'Atish', 'Nobody'], 1, 'Atish opens with Hallo, Nico!'),
-        Q('What does Atish say when leaving?', ['Good morning', 'Thank you', 'Bye'], 2, 'Tschüss means bye.'),
-        Q('How does Nico address Atish?', ['By his name', 'By a job title', 'By a family title'], 0, 'Nico includes Atish’s name after the greeting and goodbye.')
+      reading: R('A tiny conversation', 'Leon: Hallo, Nico!\nNico: Hallo, Leon!\nLeon: Tschüss!\nNico: Tschüss, Leon!', 'Leon: Hello, Nico!\nNico: Hello, Leon!\nLeon: Bye!\nNico: Bye, Leon!', [
+        Q('Who greets Nico first?', ['Nico', 'Leon', 'Nobody'], 1, 'Leon opens with Hallo, Nico!'),
+        Q('What does Leon say when leaving?', ['Good morning', 'Thank you', 'Bye'], 2, 'Tschüss means bye.'),
+        Q('How does Nico address Leon?', ['By his name', 'By a job title', 'By a family title'], 0, 'Nico includes Leon’s name after the greeting and goodbye.')
       ]),
       writing: W('Write a tiny informal message to Nico in two short lines. First say hello to Nico. Then say goodbye. Use the friendly greeting and goodbye taught here; no extra sentence is needed.', ['Hallo, Nico! Tschüss!', 'Hallo Nico! Tschuess!'], '^hallo nico (tschüss|tschuess)$', 'Say hello to Nico, then an informal goodbye.', 'Use the friendly hello, the name Nico, and the friendly goodbye.', 'Hallo opens the message; Tschüss closes it. This check covers those two requested phrases.')
     },
@@ -55,12 +55,12 @@
         'Du is informal. Sie with a capital S is formal you, even for one person. Keep ß in heiße, or use ss if necessary.',
         [['verb', 'A word for an action or state.'], ['formal', 'Polite language used with unfamiliar adults in many situations.']]
       ),
-      reading: R('Meeting Atish', 'Nico: Hallo! Wie heißt du?\nAtish: Ich heiße Atish. Wie heißt du?\nNico: Ich heiße Nico.\nAtish: Hallo, Nico!', 'Nico: Hello! What is your name?\nAtish: My name is Atish. What is your name?\nNico: My name is Nico.\nAtish: Hello, Nico!', [
-        Q('What is the first speaker’s name?', ['Atish', 'Anna', 'Nico'], 2, 'Nico introduces himself with Ich heiße Nico.'),
-        Q('What does Atish ask Nico?', ['His name', 'His age', 'His address'], 0, 'Wie heißt du? asks someone’s name.'),
+      reading: R('Meeting Leon', 'Nico: Hallo! Wie heißt du?\nLeon: Ich heiße Leon. Wie heißt du?\nNico: Ich heiße Nico.\nLeon: Hallo, Nico!', 'Nico: Hello! What is your name?\nLeon: My name is Leon. What is your name?\nNico: My name is Nico.\nLeon: Hello, Nico!', [
+        Q('What is the first speaker’s name?', ['Leon', 'Anna', 'Nico'], 2, 'Nico introduces himself with Ich heiße Nico.'),
+        Q('What does Leon ask Nico?', ['His name', 'His age', 'His address'], 0, 'Wie heißt du? asks someone’s name.'),
         Q('How do the speakers address each other?', ['With formal Sie', 'With informal du', 'With no question'], 1, 'Both name questions use du.')
       ]),
-      writing: W('Introduce yourself as Atish, then ask the other person’s name informally. Write two complete sentences using the name phrase and question from this lesson. Keep the message limited to these two ideas.', ['Ich heiße Atish. Wie heißt du?', 'Ich heisse Atish. Wie heisst du?'], '^ich hei(ss|ß)e atish wie hei(ss|ß)t du$', 'Introduce Atish and ask the informal name question.', 'Start with Ich. The question starts with Wie.', 'Ich heiße gives your name. Wie heißt du? asks the other person informally. Only these requested forms are checked.')
+      writing: W('Introduce yourself as Leon, then ask the other person’s name informally. Write two complete sentences using the name phrase and question from this lesson. Keep the message limited to these two ideas.', ['Ich heiße Leon. Wie heißt du?', 'Ich heisse Leon. Wie heisst du?'], '^ich hei(ss|ß)e leon wie hei(ss|ß)t du$', 'Introduce Leon and ask the informal name question.', 'Start with Ich. The question starts with Wie.', 'Ich heiße gives your name. Wie heißt du? asks the other person informally. Only these requested forms are checked.')
     },
     'umlauts': {
       theory: T(
@@ -95,15 +95,15 @@
     'alphabet': {
       theory: T(
         'The alphabet is the set of letters used to write a language. German uses the familiar A–Z letters plus ä, ö, ü and ß. A letter’s name is different from the sound it can make inside a word.',
-        'To spell a name, give its letters in order. Atish is A–T–I–S–H. Ask Wie schreibt man das? when you need to know how something is written.',
+        'To spell a name, give its letters in order. Leon is L–E–O–N. Ask Wie schreibt man das? when you need to know how something is written.',
         ['Read the name as one complete word.', 'Separate it into letters in their original order.', 'Write each letter clearly without adding or dropping one.'],
         'German letter names differ from English names. This written task checks letter order only. Bitte buchstabieren Sie das politely asks someone to spell something aloud.',
         [['alphabet', 'The ordered set of letters used in writing.'], ['buchstabieren', 'To spell a word letter by letter.']]
       ),
-      reading: R('Checking a name', 'Nico: Wie schreibt man das?\nAtish: A, T, I, S, H.\nNico: Atish?\nAtish: Ja, Atish. Danke!', 'Nico: How do you spell that?\nAtish: A, T, I, S, H.\nNico: Atish?\nAtish: Yes, Atish. Thank you!', [
-        Q('Which name is being spelled?', ['Nico', 'Atish', 'Anna'], 1, 'The five letters form Atish.'),
+      reading: R('Checking a name', 'Nico: Wie schreibt man das?\nLeon: L, E, O, N.\nNico: Leon?\nLeon: Ja, Leon. Danke!', 'Nico: How do you spell that?\nLeon: L, E, O, N.\nNico: Leon?\nLeon: Yes, Leon. Thank you!', [
+        Q('Which name is being spelled?', ['Nico', 'Leon', 'Anna'], 1, 'The four letters form Leon.'),
         Q('What does Nico ask for?', ['A translation', 'A number', 'A spelling'], 2, 'Wie schreibt man das? asks how something is written.'),
-        Q('Does Atish confirm Nico’s reading?', ['Yes', 'No', 'He asks to leave'], 0, 'Ja confirms that Nico has the name right.')
+        Q('Does Leon confirm Nico’s reading?', ['Yes', 'No', 'He asks to leave'], 0, 'Ja confirms that Nico has the name right.')
       ], [['ja', 'yes'], ['danke', 'thank you']]),
       writing: W('Write the polite German request “Please spell that.” Then spell the name Nico as separate capital letters. This is a writing task, so focus on the request and the correct sequence of letters.', ['Bitte buchstabieren Sie das. N I C O.'], '^bitte buchstabieren sie das n i c o$', 'Make the polite spelling request, then spell Nico.', 'Use Bitte, the verb buchstabieren, formal Sie, and das.', 'Bitte buchstabieren Sie das is the request. Nico has four letters: N, I, C, O. Spoken letter names are not assessed.')
     },
@@ -130,9 +130,9 @@
         'Lowercase sie can mean she or they; the verb and context help. Capital Sie means formal you. At the start of a sentence, capitalization alone may not distinguish them.',
         [['pronoun', 'A word that stands in for a person or thing.'], ['subject', 'The person or thing the verb describes as doing or being something.']]
       ),
-      reading: R('Who studies what?', 'Ich heiße Atish. Ich lerne Deutsch. Nico lernt auch Deutsch. Wir lernen zusammen. Ihr lernt Englisch.', 'My name is Atish. I am learning German. Nico is also learning German. We study together. You all are learning English.', [
-        Q('Who is speaking about himself?', ['Nico', 'A teacher', 'Atish'], 2, 'The speaker says Ich heiße Atish.'),
-        Q('Who learns German together?', ['Atish and Nico', 'Only Nico', 'Only the people addressed as ihr'], 0, 'Wir refers to Atish and Nico after both are introduced.'),
+      reading: R('Who studies what?', 'Ich heiße Leon. Ich lerne Deutsch. Nico lernt auch Deutsch. Wir lernen zusammen. Ihr lernt Englisch.', 'My name is Leon. I am learning German. Nico is also learning German. We study together. You all are learning English.', [
+        Q('Who is speaking about himself?', ['Nico', 'A teacher', 'Leon'], 2, 'The speaker says Ich heiße Leon.'),
+        Q('Who learns German together?', ['Leon and Nico', 'Only Nico', 'Only the people addressed as ihr'], 0, 'Wir refers to Leon and Nico after both are introduced.'),
         Q('What are the people addressed as ihr learning?', ['German', 'English', 'No language'], 1, 'Ihr lernt Englisch says they are learning English.')
       ], [['auch', 'also'], ['zusammen', 'together'], ['Englisch', 'English']]),
       writing: W('Write two sentences about two groups: “We are learning German. You all are learning German.” Use the informal plural form for the second sentence. Keep both subjects explicit rather than replacing them with names.', ['Wir lernen Deutsch. Ihr lernt Deutsch.'], '^wir lernen deutsch ihr lernt deutsch$', 'Distinguish wir from ihr with their matching verbs.', 'We is wir; informal you all is ihr.', 'Wir takes lernen and ihr takes lernt here. The check covers these two requested pronoun–verb combinations.')
@@ -145,10 +145,10 @@
         'Do not add an extra English-style “am” or another German verb. A describing word after sein, such as müde, does not get an adjective ending in this pattern.',
         [['infinitive', 'The dictionary form of a verb, such as sein.'], ['present tense', 'A verb form used for current states, habits and other present meanings.']]
       ),
-      reading: R('At the study table', 'Ich bin Atish. Ich bin hier. Nico ist auch hier. Er ist müde. Wir sind hier.', 'I am Atish. I am here. Nico is here too. He is tired. We are here.', [
-        Q('Who is tired?', ['Atish', 'Nico', 'Both speakers explicitly'], 1, 'Er refers to Nico, who is described as müde.'),
-        Q('Where are Atish and Nico?', ['At home specifically', 'In India specifically', 'Here'], 2, 'The passage says hier without naming a specific place.'),
-        Q('What does wir include here?', ['Atish and Nico', 'Only Atish', 'Only Nico'], 0, 'The final sentence groups Atish and Nico together.')
+      reading: R('At the study table', 'Ich bin Leon. Ich bin hier. Nico ist auch hier. Er ist müde. Wir sind hier.', 'I am Leon. I am here. Nico is here too. He is tired. We are here.', [
+        Q('Who is tired?', ['Leon', 'Nico', 'Both speakers explicitly'], 1, 'Er refers to Nico, who is described as müde.'),
+        Q('Where are Leon and Nico?', ['At home specifically', 'In India specifically', 'Here'], 2, 'The passage says hier without naming a specific place.'),
+        Q('What does wir include here?', ['Leon and Nico', 'Only Leon', 'Only Nico'], 0, 'The final sentence groups Leon and Nico together.')
       ], [['auch', 'also']]),
       writing: W('Write two short statements meaning “You are here. We are tired.” Address one person informally in the first sentence. Use the present forms of sein and the describing word already taught in this lesson.', ['Du bist hier. Wir sind müde.', 'Du bist hier. Wir sind muede.'], '^du bist hier wir sind m(ü|ue)de$', 'Use bist for du and sind for wir.', 'Keep du with bist and wir with sind.', 'Du bist and wir sind are present forms of sein. Müde describes the group. Only this requested statement pair is checked.')
     },
@@ -250,10 +250,10 @@
         'Wo asks where something is. Wohin asks where to; do not treat them as interchangeable. A question mark helps readers but does not replace the correct verb position.',
         [['yes/no question', 'A question asking whether something is true.'], ['question word', 'A word such as wo, wie or was that requests a detail.']]
       ),
-      reading: R('Questions before studying', 'Atish: Hast du Zeit?\nNico: Ja.\nAtish: Lernst du Deutsch?\nNico: Ja. Wo ist das Buch?\nAtish: Das Buch ist hier.', 'Atish: Do you have time?\nNico: Yes.\nAtish: Are you learning German?\nNico: Yes. Where is the book?\nAtish: The book is here.', [
+      reading: R('Questions before studying', 'Leon: Hast du Zeit?\nNico: Ja.\nLeon: Lernst du Deutsch?\nNico: Ja. Wo ist das Buch?\nLeon: Das Buch ist hier.', 'Leon: Do you have time?\nNico: Yes.\nLeon: Are you learning German?\nNico: Yes. Where is the book?\nLeon: The book is here.', [
         Q('Does Nico have time?', ['Yes', 'No', 'He does not answer'], 0, 'Nico answers Ja to Hast du Zeit?'),
         Q('What is Nico looking for?', ['A bus', 'A bag', 'A book'], 2, 'He asks Wo ist das Buch?'),
-        Q('Where is the book?', ['At home specifically', 'Here', 'In India'], 1, 'Atish replies Das Buch ist hier.')
+        Q('Where is the book?', ['At home specifically', 'Here', 'In India'], 1, 'Leon replies Das Buch ist hier.')
       ], [['ja', 'yes']]),
       writing: W('Write two questions to one person informally: “Do you have time?” and “Where is the book?” Use one yes/no question and one place question, keeping the two requests in the given order.', ['Hast du Zeit? Wo ist das Buch?'], '^hast du zeit wo ist das buch$', 'Use a verb-first question and a wo question.', 'Begin the first with Hast and the second with Wo.', 'Hast du Zeit? starts with the verb. Wo ist das Buch? starts with the requested place detail. These question patterns are checked.')
     },

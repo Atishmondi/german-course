@@ -110,13 +110,13 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible,s
 .blind-note{background:#2d2d2d;border-color:#4c4c4c;color:#d3d3d3}
 .finished-sequence{color:#d9d9d9}
 .finished-sequence span{background:#373737;border-color:#5c5c5c}
-.focus-layout .topbar .breadcrumb:before{content:'German with Atish';font-size:15px;letter-spacing:-.3px}
+.focus-layout .topbar .breadcrumb:before{content:'German A1';font-size:15px;letter-spacing:-.3px}
 @media(max-width:650px){
   .sidebar{background:#1b1b1bf5;border-color:#414141}
   .topbar{background:#1b1b1b}
   .nav-item.active{color:#dcdcdc}
   .nav-item.active:before{background:#c4c4c4}
-  .breadcrumb:before,.focus-layout .topbar .breadcrumb:before{content:'German with Atish';font-size:15px;letter-spacing:-.4px;white-space:nowrap;margin-right:4px}
+  .breadcrumb:before,.focus-layout .topbar .breadcrumb:before{content:'German A1';font-size:15px;letter-spacing:-.4px;white-space:nowrap;margin-right:4px}
   .breadcrumb strong{display:none}
   .lesson-top .brand{font-size:19px}
   .quick-start{min-width:75px;padding:8px 10px;font-size:11px;gap:7px}

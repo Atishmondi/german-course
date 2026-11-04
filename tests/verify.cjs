@@ -33,7 +33,7 @@ for(const d of S.days){
  ok(!d.lessonIds.some(id=>course.book.laterIds.includes(id)),'advanced material outside A1 route');
  const qs=S.retrieval(d);ok(qs.length===3,'three daily retrieval tasks');for(const q of qs)ok(C.isCorrect(q,q.answers[0]),'retrieval canonical answer');
  const v=state.sprint.days[d.number]=S.entry();ok(!S.finish(state,d.number),'day cannot finish from lesson count');
- v.book=true;v.native=true;v.speaking=[0,1,2];v.writingChecks=[0,1,2];v.draft='Hallo Ben. Ich lerne Deutsch und wohne in Berlin. Am Montag habe ich einen Kurs. Können wir uns am Freitag treffen? Ich habe um zehn Uhr Zeit. Bitte schreib mir bald. Viele Grüße, Atish';
+ v.book=true;v.native=true;v.speaking=[0,1,2];v.writingChecks=[0,1,2];v.draft='Hallo Ben. Ich lerne Deutsch und wohne in Berlin. Am Montag habe ich einen Kurs. Können wir uns am Freitag treffen? Ich habe um zehn Uhr Zeit. Bitte schreib mir bald. Viele Grüße, Leon';
  for(const id of d.readingIds){state.skills.reading[id]={correct:[0,1,2],doneAt:null};state.skills.writing[id]={draft:'x',passed:true,doneAt:null};state.sprint.listening[id]={correct:[0,1,2]};}
  v.exam={reading:'80',listening:'80',writing:'80',speaking:[0,1,2,3]};
  ok(!S.finish(state,d.number),'daily blind answers required separately');v.retrieval=[0,1,2];ok(S.finish(state,d.number),'complete day can finish');

@@ -1,4 +1,4 @@
-# German with Atish
+# German A1
 
 A black, distraction-light German A1 study companion. The 21-day intensive route follows the supplied Netzwerk neu A1 Kursbuch (176 PDF pages). Printed page numbers are one lower than PDF page numbers. The supplied HTML is the book's download landing page, not a second textbook.
 

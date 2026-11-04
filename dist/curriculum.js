@@ -22,16 +22,16 @@
       C('And one word to leave.','Tschüss is a friendly goodbye. You can use it with someone you know.',phrase('Tschüss!','Bye!'))
     ],[
       Q('Which word means “hello”?',['Danke','Hallo','Bitte'],1,'Hallo greets someone. Danke means thank you; bitte can mean please.'),
-      B('Greet Atish.',['Hallo,','Atish!'],'Hallo, Atish! is a friendly greeting with a name.'),
+      B('Greet Leon.',['Hallo,','Leon!'],'Hallo, Leon! is a friendly greeting with a name.'),
       T('Say “bye” informally.',['Tschüss','Tschuess'],'It starts with Tsch.','Tschüss is the informal goodbye. Tschuess is a keyboard fallback.')
     ],'Hallo starts a conversation. Tschüss ends it.',['hello','bye'],'dw-intro'),
     L('your-name','first','Say your name','A sentence that belongs to you',3,'Introduce yourself and ask a name.','name',[
-      C('Put your name here.','Ich heiße means “my name is.” Add your name. Learn the whole phrase for now.',phrase('Ich heiße Atish.','My name is Atish.')),
+      C('Put your name here.','Ich heiße means “my name is.” Add your name. Learn the whole phrase for now.',phrase('Ich heiße Leon.','My name is Leon.')),
       C('Ask the other person.','Wie heißt du? asks one person their name informally. The ending changes: heiße with ich, heißt with du.',phrase('Wie heißt du?','What is your name?'))
     ],[
-      Q('What does “Ich heiße Atish” tell you?',['My country','My address','My name'],2,'The phrase gives your name.'),
-      B('Say your name is Atish.',['Ich','heiße','Atish.'],'Ich heiße Atish. Keep the verb heiße after ich.'),
-      T('Complete: Ich ___ Atish.',['heiße','heisse'],'The verb is heißen.','Ich heiße Atish. Use heiße with ich.')
+      Q('What does “Ich heiße Leon” tell you?',['My country','My address','My name'],2,'The phrase gives your name.'),
+      B('Say your name is Leon.',['Ich','heiße','Leon.'],'Ich heiße Leon. Keep the verb heiße after ich.'),
+      T('Complete: Ich ___ Leon.',['heiße','heisse'],'The verb is heißen.','Ich heiße Leon. Use heiße with ich.')
     ],'Ich heiße … gives your name. Wie heißt du? asks a name.',['name-phrase','name'],'dw-intro'),
     L('umlauts','first','Meet ä, ö, ü and ß','Small marks, different sounds',4,'Notice special German letters and listen carefully.','sound',[
       C('The dots change the vowel.','Ä, ö and ü are distinct vowels. Listen to each. For ü, try an i tongue position with rounded lips. Sound practice needs listening, not just spelling.',letters('ä · ö · ü','Three vowels with umlauts')),
@@ -49,12 +49,12 @@
       Q('Which pair usually shares a sound?',['eu / äu','ei / ie','a / ü'],0,'Eu and äu usually share a sound. Use native audio to hear it.'),
       T('Write the German word for “my” shown here.',['mein'],'The vowels are e, then i.','Mein means my. Its vowel team is ei.')
     ],'Look at the order in ei and ie. Learn letter teams with audio.',['my'],'dw-sounds'),
-    L('alphabet','first','Spell your name','Five letters, one small win',4,'Recognise and order the letters in your name.','letters',[
-      C('Your name has five letters.','German uses the familiar A–Z letters with German letter names. Play the model and practise saying each letter separately.',letters('A · T · I · S · H','The letters in Atish')),
+    L('alphabet','first','Spell your name','Four letters, one small win',4,'Recognise and order the letters in your name.','letters',[
+      C('Spell this four-letter name.','German uses the familiar A–Z letters with German letter names. Play the model and practise saying each letter separately.',letters('L · E · O · N','The letters in Leon')),
       C('Ask how something is written.','Wie schreibt man das? asks how to write or spell something. Buchstabieren means to spell a word letter by letter.',phrase('Wie schreibt man das?','How do you spell that?'))
     ],[
-      B('Put the letters of Atish in order.',['A','T','I','S','H'],'Atish is spelled A, T, I, S, H. Practise the German letter names with audio.'),
-      Q('Which letter begins Atish?',['H','A','I'],1,'A is the first letter.'),
+      B('Put the letters of Leon in order.',['L','E','O','N'],'Leon is spelled L, E, O, N. Practise the German letter names with audio.'),
+      Q('Which letter begins Leon?',['N','L','E'],1,'L is the first letter.'),
       T('Which German verb means “to spell”?',['buchstabieren'],'It begins buchst.','Buchstabieren means to spell a word letter by letter.')
     ],'Practise spelling your name with German letter names, not only recognising the written letters.',['spell'],'dw-alphabet'),
     L('numbers','first','Count to ten','Numbers you can hear and use',4,'Recognise the numbers zero to ten.','number',[
@@ -291,14 +291,14 @@
     ],'Genitive can mark possession: das Buch des Mannes, das Buch der Frau.',['book','man','woman'],'umich-cases')
   ];
   const words = [
-    {id:'hello',de:'Hallo',en:'hello',example:'Hallo, Atish!',unit:'first'},
+    {id:'hello',de:'Hallo',en:'hello',example:'Hallo, Leon!',unit:'first'},
     {id:'bye',de:'Tschüss',en:'bye',example:'Tschüss, bis bald!',unit:'first'},
     {id:'thanks',de:'danke',en:'thank you',example:'Danke für deine Hilfe.',unit:'first'},
     {id:'please',de:'bitte',en:'please / you are welcome',example:'Noch einmal bitte.',unit:'first'},
-    {id:'name-phrase',de:'Ich heiße Atish.',en:'My name is Atish.',example:'Hallo! Ich heiße Atish.',unit:'first'},
+    {id:'name-phrase',de:'Ich heiße Leon.',en:'My name is Leon.',example:'Hallo! Ich heiße Leon.',unit:'first'},
     {id:'repeat',de:'Noch einmal bitte.',en:'Again, please.',example:'Noch einmal bitte.',unit:'first'},
     {id:'slow',de:'Langsam bitte.',en:'Slowly, please.',example:'Langsam bitte.',unit:'first'},
-    {id:'name',de:'Name',en:'name',article:'der',plural:'Namen',example:'Mein Name ist Atish.',unit:'first'},
+    {id:'name',de:'Name',en:'name',article:'der',plural:'Namen',example:'Mein Name ist Leon.',unit:'first'},
     {id:'street',de:'Straße',en:'street',article:'die',plural:'Straßen',example:'Die Straße ist hier.',unit:'first'},
     {id:'door',de:'Tür',en:'door',article:'die',plural:'Türen',example:'Die Tür ist offen.',unit:'first'},
     {id:'spell',de:'buchstabieren',en:'to spell',example:'Bitte buchstabieren Sie das.',unit:'first'},
@@ -375,10 +375,10 @@
   const explainedExamples = {
     'hello':[
       [E('Hallo!','Hello!','One friendly word opens a conversation.'),E('Guten Tag!','Good day!','This is a polite daytime greeting. Learn both words as one phrase.')],
-      [E('Tschüss, Atish!','Bye, Atish!','Tschüss is a friendly goodbye; you can add a name.'),E('Auf Wiedersehen!','Goodbye!','This is a more formal goodbye. Learn it as a complete phrase.')]
+      [E('Tschüss, Leon!','Bye, Leon!','Tschüss is a friendly goodbye; you can add a name.'),E('Auf Wiedersehen!','Goodbye!','This is a more formal goodbye. Learn it as a complete phrase.')]
     ],
     'your-name':[
-      [E('Ich heiße Atish.','My name is Atish.','Ich heiße stays together; put your name after it.'),E('Ich heiße Nico.','My name is Nico.','The same sentence works with a different name.')],
+      [E('Ich heiße Leon.','My name is Leon.','Ich heiße stays together; put your name after it.'),E('Ich heiße Nico.','My name is Nico.','The same sentence works with a different name.')],
       [E('Wie heißt du?','What is your name?','Use heißt with du when asking one person informally.'),E('Wie heißen Sie?','What is your name? (formal)','Use heißen Sie when speaking formally. Learn this question as a phrase.')]
     ],
     'umlauts':[
@@ -390,7 +390,7 @@
       [E('die Schule','the school','Sch works together at the beginning of this word.'),E('die Häuser','the houses','Äu is one vowel team; it usually shares a sound with eu.')]
     ],
     'alphabet':[
-      [E('Atish','Atish','Say its five German letter names in order: A, T, I, S, H.'),E('Nico','Nico','A different name has different letters: N, I, C, O. Use German letter names.')],
+      [E('Leon','Leon','Say its four German letter names in order: L, E, O, N.'),E('Nico','Nico','A different name has different letters: N, I, C, O. Use German letter names.')],
       [E('Wie schreibt man das?','How do you spell that?','Ask this when you need to know the written letters.'),E('Bitte buchstabieren Sie das.','Please spell that.','Buchstabieren asks for the letters one at a time; Sie makes this request formal.')]
     ],
     'numbers':[
