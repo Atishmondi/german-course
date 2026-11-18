@@ -687,11 +687,11 @@
      "type": "choice",
      "prompt": "Which verb form goes with ihr?",
      "options": [
-      "spielt",
       "spielen",
-      "spielst"
+      "spielst",
+      "spielt"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "ihr takes -t.",
      "explanation": "ihr spielt.",
      "grammar": true
@@ -735,10 +735,10 @@
      "type": "choice",
      "prompt": "How do you say: they swim?",
      "options": [
-      "sie schwimmen",
-      "sie schwimmt"
+      "sie schwimmt",
+      "sie schwimmen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "They = more than one. Use -en.",
      "explanation": "sie schwimmen.",
      "grammar": true
@@ -767,11 +767,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Wir spielt Fußball.",
       "Wir spielen Fußball.",
+      "Wir spielt Fußball.",
       "Wir spielst Fußball."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "wir takes -en.",
      "explanation": "Wir spielen Fußball.",
      "grammar": true
@@ -780,11 +780,11 @@
      "type": "choice",
      "prompt": "What does hören mean?",
      "options": [
-      "to listen, to hear",
       "to cook",
+      "to listen, to hear",
       "to swim"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the vocabulary.",
      "explanation": "hören = to listen, to hear."
     },
@@ -1535,11 +1535,11 @@
      "type": "choice",
      "prompt": "Which form of haben goes with du?",
      "options": [
-      "habst",
       "hast",
+      "habst",
       "hat"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Look at the haben table.",
      "explanation": "du hast.",
      "grammar": true
@@ -1568,11 +1568,11 @@
      "type": "choice",
      "prompt": "Ben ___ müde.",
      "options": [
-      "ist",
       "bin",
+      "ist",
       "sind"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Ben = er. Look at the er line.",
      "explanation": "Ben ist müde.",
      "grammar": true
@@ -1620,11 +1620,11 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Ihr seid nett.",
       "Ihr sind nett.",
-      "Ihr bist nett."
+      "Ihr bist nett.",
+      "Ihr seid nett."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the ihr line in the sein table.",
      "explanation": "ihr seid.",
      "grammar": true
@@ -1728,11 +1728,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Er haben Zeit.",
       "Er hat Zeit.",
+      "Er haben Zeit.",
       "Er habt Zeit."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "er takes hat.",
      "explanation": "Er hat Zeit.",
      "grammar": true
@@ -1741,11 +1741,11 @@
      "type": "choice",
      "prompt": "What does heute mean?",
      "options": [
-      "today",
       "tomorrow",
+      "today",
       "now"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the vocabulary.",
      "explanation": "heute = today."
     },
@@ -1753,10 +1753,10 @@
      "type": "choice",
      "prompt": "What does Ich habe Hunger. mean?",
      "options": [
-      "I am hungry.",
-      "I am tired."
+      "I am tired.",
+      "I am hungry."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Hunger = hunger.",
      "explanation": "I am hungry."
     },
@@ -2548,10 +2548,10 @@
      "prompt": "Which question is right?",
      "options": [
       "Du Tennis spielst?",
-      "Spielst du Tennis?",
-      "Spielst Tennis du?"
+      "Spielst Tennis du?",
+      "Spielst du Tennis?"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Verb first, then the person.",
      "explanation": "Spielst du Tennis?",
      "grammar": true
@@ -2587,11 +2587,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Ich gern koche.",
       "Ich koche gern.",
+      "Ich gern koche.",
       "Gern ich koche."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "gern comes after the verb and the person.",
      "explanation": "Ich koche gern.",
      "grammar": true
@@ -2610,10 +2610,10 @@
      "type": "choice",
      "prompt": "Leon asks: Tanzt du gern? Which answer fits?",
      "options": [
-      "Ja, ich tanze gern.",
-      "Aus Italien."
+      "Aus Italien.",
+      "Ja, ich tanze gern."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A yes/no question needs ja or nein.",
      "explanation": "Ja, ich tanze gern."
     }
@@ -2682,11 +2682,11 @@
      "type": "choice",
      "prompt": "Which question asks two friends?",
      "options": [
-      "Spielt ihr Tennis?",
       "Spielst du Tennis?",
+      "Spielt ihr Tennis?",
       "Spielen Sie Tennis?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Two friends: ihr.",
      "explanation": "Spielt ihr Tennis?",
      "grammar": true
@@ -2739,11 +2739,11 @@
      "prompt": "In Was machst du gern?, which part is the verb?",
      "options": [
       "Was",
-      "machst",
       "du",
-      "gern"
+      "gern",
+      "machst"
      ],
-     "answer": 1,
+     "answer": 3,
      "hint": "The verb is part 2 in a W-question.",
      "explanation": "machst."
     },
@@ -2761,11 +2761,11 @@
      "type": "choice",
      "prompt": "What does gern mean?",
      "options": [
-      "gladly, like to",
       "also",
+      "gladly, like to",
       "now"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the gern card.",
      "explanation": "gern = gladly."
     }
@@ -3494,10 +3494,10 @@
      "prompt": "Which is right?",
      "options": [
       "Am Montag ich lerne Deutsch.",
-      "Am Montag lerne ich Deutsch.",
-      "Am Montag Deutsch lerne ich."
+      "Am Montag Deutsch lerne ich.",
+      "Am Montag lerne ich Deutsch."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The verb is part 2.",
      "explanation": "Am Montag lerne ich Deutsch.",
      "grammar": true
@@ -3526,11 +3526,11 @@
      "type": "choice",
      "prompt": "Which day comes after Dienstag?",
      "options": [
-      "Mittwoch",
       "Montag",
+      "Mittwoch",
       "Freitag"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the table of days.",
      "explanation": "Mittwoch."
     },
@@ -3607,10 +3607,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Am Samstag spiele ich Tennis.",
-      "Am Samstag ich spiele Tennis."
+      "Am Samstag ich spiele Tennis.",
+      "Am Samstag spiele ich Tennis."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The verb must be in position 2.",
      "explanation": "Am Samstag spiele ich Tennis.",
      "grammar": true
@@ -3650,10 +3650,10 @@
      "type": "choice",
      "prompt": "Ben asks: Hast du am Sonntag Zeit? What does he ask?",
      "options": [
-      "whether you have time on Sunday",
-      "when you have time"
+      "when you have time",
+      "whether you have time on Sunday"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "This is a yes/no question: verb first.",
      "explanation": "He asks about Sunday.",
      "grammar": true
@@ -3672,11 +3672,11 @@
      "type": "choice",
      "prompt": "What does wann mean?",
      "options": [
-      "when",
       "where",
+      "when",
       "who"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the wann card.",
      "explanation": "wann = when."
     },
@@ -3684,10 +3684,10 @@
      "type": "choice",
      "prompt": "Which word means tomorrow?",
      "options": [
-      "morgen",
-      "heute"
+      "heute",
+      "morgen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "heute = today.",
      "explanation": "morgen = tomorrow."
     },
@@ -4496,10 +4496,10 @@
      "prompt": "Which is right?",
      "options": [
       "Er esst Brot.",
-      "Er isst Brot.",
-      "Er esse Brot."
+      "Er esse Brot.",
+      "Er isst Brot."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "er changes e to i.",
      "explanation": "Er isst Brot.",
      "grammar": true
@@ -4601,11 +4601,11 @@
      "type": "choice",
      "prompt": "Which verb changes e to ie?",
      "options": [
-      "sehen",
       "treffen",
-      "essen"
+      "essen",
+      "sehen"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the lesen and sehen card.",
      "explanation": "sehen → sieht.",
      "grammar": true
@@ -4631,11 +4631,11 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Du triffst Ben.",
       "Du treffst Ben.",
-      "Du trifft Ben."
+      "Du trifft Ben.",
+      "Du triffst Ben."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "du: e becomes i and the ending is -st.",
      "explanation": "Du triffst Ben.",
      "grammar": true
@@ -4656,10 +4656,10 @@
      "type": "choice",
      "prompt": "What does oft mean?",
      "options": [
-      "often",
-      "today"
+      "today",
+      "often"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the vocabulary.",
      "explanation": "oft = often."
     },
@@ -4688,10 +4688,10 @@
      "type": "choice",
      "prompt": "Leon says: Ich esse mit Anna. What does he say?",
      "options": [
-      "He eats with Anna.",
-      "He meets Anna."
+      "He meets Anna.",
+      "He eats with Anna."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "essen = to eat. mit = with.",
      "explanation": "He eats with Anna."
     }
@@ -5503,11 +5503,11 @@
      "type": "choice",
      "prompt": "Which verbs need an extra e?",
      "options": [
-      "arbeiten, warten",
       "fahren, schlafen",
-      "essen, lesen"
+      "essen, lesen",
+      "arbeiten, warten"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The stem ends in t.",
      "explanation": "arbeiten and warten.",
      "grammar": true
@@ -5526,11 +5526,11 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Mira arbeitet als Ärztin.",
       "Mira arbeitest als Ärztin.",
-      "Mira arbeit als Ärztin."
+      "Mira arbeit als Ärztin.",
+      "Mira arbeitet als Ärztin."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Mira = sie: stem + extra e + t.",
      "explanation": "Mira arbeitet als Ärztin.",
      "grammar": true
@@ -5558,11 +5558,11 @@
      "type": "choice",
      "prompt": "Which is right for ihr?",
      "options": [
-      "Ihr arbeitet",
       "Ihr arbeit",
+      "Ihr arbeitet",
       "Ihr arbeitest"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "ihr: extra e, then -t.",
      "explanation": "Ihr arbeitet.",
      "grammar": true
@@ -5625,10 +5625,10 @@
      "prompt": "Which is right?",
      "options": [
       "Er fahrt nach Wien.",
-      "Er fährt nach Wien.",
-      "Er fährest nach Wien."
+      "Er fährest nach Wien.",
+      "Er fährt nach Wien."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "er: a becomes ä.",
      "explanation": "Er fährt nach Wien.",
      "grammar": true
@@ -5667,10 +5667,10 @@
      "type": "choice",
      "prompt": "Does ich need the umlaut in fahren?",
      "options": [
-      "No: ich fahre",
-      "Yes: ich fähre"
+      "Yes: ich fähre",
+      "No: ich fahre"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Only du and er/sie change.",
      "explanation": "ich fahre.",
      "grammar": true
@@ -5709,10 +5709,10 @@
      "type": "choice",
      "prompt": "Ben says: Ich bin Arzt. What is his job?",
      "options": [
-      "doctor",
-      "cook"
+      "cook",
+      "doctor"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the jobs table.",
      "explanation": "Arzt = doctor."
     }
@@ -6569,10 +6569,10 @@
      "prompt": "Which is right?",
      "options": [
       "Das Tisch ist neu.",
-      "Der Tisch ist neu.",
-      "Die Tisch ist neu."
+      "Die Tisch ist neu.",
+      "Der Tisch ist neu."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Tisch is masculine.",
      "explanation": "Der Tisch ist neu.",
      "grammar": true
@@ -6672,11 +6672,11 @@
      "type": "choice",
      "prompt": "Which noun is probably die?",
      "options": [
-      "Lampe",
       "Tisch",
+      "Lampe",
       "Buch"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Many nouns ending in -e are die.",
      "explanation": "die Lampe.",
      "grammar": true
@@ -6685,10 +6685,10 @@
      "type": "choice",
      "prompt": "Which noun is always die?",
      "options": [
-      "Lehrerin",
-      "Lehrer"
+      "Lehrer",
+      "Lehrerin"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Nouns ending in -in are always die.",
      "explanation": "die Lehrerin.",
      "grammar": true
@@ -6721,10 +6721,10 @@
      "type": "choice",
      "prompt": "What does Was ist das? ask?",
      "options": [
-      "What is that?",
-      "Who is that?"
+      "Who is that?",
+      "What is that?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the vocabulary of lesson 3.",
      "explanation": "Was = what."
     }
@@ -7598,10 +7598,10 @@
      "prompt": "Which is right?",
      "options": [
       "Die Handy sind neu.",
-      "Die Handys sind neu.",
-      "Die Handys ist neu."
+      "Die Handys ist neu.",
+      "Die Handys sind neu."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Handy adds -s. Many things take sind.",
      "explanation": "Die Handys sind neu.",
      "grammar": true
@@ -7639,11 +7639,11 @@
      "type": "choice",
      "prompt": "Which noun gets -s?",
      "options": [
-      "Handy",
       "Tisch",
-      "Kind"
+      "Kind",
+      "Handy"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at pattern 4.",
      "explanation": "das Handy → die Handys.",
      "grammar": true
@@ -7734,10 +7734,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Die Lampen sind neu.",
-      "Die Lampen ist neu."
+      "Die Lampen ist neu.",
+      "Die Lampen sind neu."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Many things take sind.",
      "explanation": "Die Lampen sind neu.",
      "grammar": true
@@ -7746,11 +7746,11 @@
      "type": "choice",
      "prompt": "der Lehrer → die ___",
      "options": [
-      "Lehrer",
       "Lehrers",
-      "Lehrere"
+      "Lehrere",
+      "Lehrer"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Pattern 5: no change.",
      "explanation": "die Lehrer.",
      "grammar": true
@@ -8579,11 +8579,11 @@
      "type": "choice",
      "prompt": "How do you say 30?",
      "options": [
-      "dreißig",
       "dreizig",
+      "dreißig",
       "dreizehn"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the tens table: 30 has ß.",
      "explanation": "dreißig.",
      "grammar": true
@@ -8612,10 +8612,10 @@
      "type": "choice",
      "prompt": "What is 47?",
      "options": [
-      "vierundsiebzig",
-      "siebenundvierzig"
+      "siebenundvierzig",
+      "vierundsiebzig"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Say the 7 first: sieben, und, vierzig.",
      "explanation": "siebenundvierzig.",
      "grammar": true
@@ -8655,10 +8655,10 @@
      "type": "choice",
      "prompt": "What is 2000?",
      "options": [
-      "zweitausend",
-      "tausendzwei"
+      "tausendzwei",
+      "zweitausend"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Say zwei first, then tausend.",
      "explanation": "zweitausend.",
      "grammar": true
@@ -8789,10 +8789,10 @@
      "type": "choice",
      "prompt": "What does Telefonnummer mean?",
      "options": [
-      "phone number",
-      "address"
+      "address",
+      "phone number"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the form card.",
      "explanation": "Telefonnummer = phone number."
     },
@@ -8810,11 +8810,11 @@
      "type": "choice",
      "prompt": "Mira says: Ich bin einunddreißig Jahre alt. How old is she?",
      "options": [
-      "31",
       "13",
-      "21"
+      "21",
+      "31"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Say the one first: ein + und + dreißig.",
      "explanation": "31.",
      "grammar": true
@@ -9073,11 +9073,11 @@
       "type": "choice",
       "prompt": "What does Ben like to play?",
       "options": [
-       "tennis",
        "guitar",
+       "tennis",
        "football"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Ben's first line.",
       "explanation": "Ben: Ich spiele gern Tennis."
      },
@@ -9096,10 +9096,10 @@
       "type": "choice",
       "prompt": "What else does Mira like to do?",
       "options": [
-       "listen to music",
-       "cook"
+       "cook",
+       "listen to music"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for hören.",
       "explanation": "Ich höre auch gern Musik."
      },
@@ -9119,10 +9119,10 @@
       "type": "choice",
       "prompt": "What does Ben like to drink?",
       "options": [
-       "tea",
-       "coffee"
+       "coffee",
+       "tea"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for trinke gern.",
       "explanation": "Ich trinke gern Tee."
      },
@@ -9153,11 +9153,11 @@
       "type": "choice",
       "prompt": "What do Leon and Anna do now?",
       "options": [
-       "swim",
        "play tennis",
+       "swim",
        "cook"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Leon's line.",
       "explanation": "Wir schwimmen jetzt."
      },
@@ -9237,10 +9237,10 @@
       "type": "choice",
       "prompt": "How does Leon feel?",
       "options": [
-       "tired",
-       "sick"
+       "sick",
+       "tired"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for bin.",
       "explanation": "Ich bin müde."
      },
@@ -9259,10 +9259,10 @@
       "type": "choice",
       "prompt": "What does Leon drink?",
       "options": [
-       "tea",
-       "coffee"
+       "coffee",
+       "tea"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for trinke.",
       "explanation": "Ich trinke Tee."
      },
@@ -9292,10 +9292,10 @@
       "type": "choice",
       "prompt": "What does Anna say about the group?",
       "options": [
-       "They are nice.",
-       "They are tired."
+       "They are tired.",
+       "They are nice."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to the last lines.",
       "explanation": "Wir sind nett."
      }
@@ -9434,10 +9434,10 @@
       "type": "choice",
       "prompt": "What does Leon ask Mira?",
       "options": [
-       "whether she has time on Saturday",
-       "when she works"
+       "when she works",
+       "whether she has time on Saturday"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at the first line.",
       "explanation": "Hast du am Samstag Zeit?"
      },
@@ -9469,11 +9469,11 @@
       "type": "choice",
       "prompt": "Where does Leon drive on Sunday?",
       "options": [
-       "Hamburg",
        "Berlin",
-       "Vienna"
+       "Vienna",
+       "Hamburg"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for nach.",
       "explanation": "Ich fahre nach Hamburg."
      },
@@ -9493,11 +9493,11 @@
       "type": "choice",
       "prompt": "What do Leon and Ben eat?",
       "options": [
-       "pizza",
        "cake",
-       "bread"
+       "bread",
+       "pizza"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for essen.",
       "explanation": "Wir essen Pizza."
      },
@@ -9505,10 +9505,10 @@
       "type": "choice",
       "prompt": "What is Ben's job?",
       "options": [
-       "shop assistant",
-       "cook"
+       "cook",
+       "shop assistant"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Mira's second line.",
       "explanation": "Er arbeitet als Verkäufer."
      },
@@ -9527,11 +9527,11 @@
       "type": "choice",
       "prompt": "Who sleeps a lot on Sunday?",
       "options": [
-       "Anna",
        "Ben",
+       "Anna",
        "Mira"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Leon's last line.",
       "explanation": "Sie schläft am Sonntag gern."
      },
@@ -9613,10 +9613,10 @@
       "type": "choice",
       "prompt": "What is Mira's job?",
       "options": [
-       "doctor",
-       "cook"
+       "cook",
+       "doctor"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for arbeitet als.",
       "explanation": "Mira arbeitet als Ärztin."
      },
@@ -9624,10 +9624,10 @@
       "type": "choice",
       "prompt": "What is Ben's job?",
       "options": [
-       "cook",
-       "doctor"
+       "doctor",
+       "cook"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for ist.",
       "explanation": "Ben ist Koch."
      },
@@ -9635,10 +9635,10 @@
       "type": "choice",
       "prompt": "What do Mira and Ben like to eat?",
       "options": [
-       "pizza",
-       "cake"
+       "cake",
+       "pizza"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for essen.",
       "explanation": "Sie essen gern Pizza."
      },
@@ -9646,10 +9646,10 @@
       "type": "choice",
       "prompt": "Does Frau Weber have time on Wednesday?",
       "options": [
-       "yes",
-       "no"
+       "no",
+       "yes"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for habe ich Zeit.",
       "explanation": "Am Mittwoch habe ich Zeit."
      },
@@ -9657,10 +9657,10 @@
       "type": "choice",
       "prompt": "Does Frau Weber work a lot?",
       "options": [
-       "yes",
-       "no"
+       "no",
+       "yes"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for viel.",
       "explanation": "Ich arbeite viel."
      }
@@ -9805,11 +9805,11 @@
       "type": "choice",
       "prompt": "What is Leon's last name?",
       "options": [
-       "Rossi",
        "Leon",
-       "Weber"
+       "Weber",
+       "Rossi"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for Nachname.",
       "explanation": "Rossi."
      },
@@ -9817,11 +9817,11 @@
       "type": "choice",
       "prompt": "How old is Leon?",
       "options": [
-       "32",
        "23",
+       "32",
        "42"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "zwei + und + dreißig.",
       "explanation": "zweiunddreißig = 32."
      },
@@ -9829,11 +9829,11 @@
       "type": "choice",
       "prompt": "Where does Leon live?",
       "options": [
-       "Berlin",
        "Hamburg",
-       "Vienna"
+       "Vienna",
+       "Berlin"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for wohne in.",
       "explanation": "Ich wohne in Berlin."
      },
@@ -9841,11 +9841,11 @@
       "type": "choice",
       "prompt": "What is his job?",
       "options": [
-       "cook",
        "doctor",
+       "cook",
        "teacher"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for arbeite als.",
       "explanation": "Ich arbeite als Koch."
      },
@@ -9853,10 +9853,10 @@
       "type": "choice",
       "prompt": "Which days does Leon work?",
       "options": [
-       "Monday, Tuesday and Wednesday",
-       "Thursday and Friday"
+       "Thursday and Friday",
+       "Monday, Tuesday and Wednesday"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for am.",
       "explanation": "Am Montag, am Dienstag und am Mittwoch."
      },
@@ -9864,10 +9864,10 @@
       "type": "choice",
       "prompt": "When does Leon have time?",
       "options": [
-       "Thursday",
-       "Friday"
+       "Friday",
+       "Thursday"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read the answer about work.",
       "explanation": "Am Donnerstag habe ich Zeit."
      },
@@ -9886,10 +9886,10 @@
       "type": "choice",
       "prompt": "What does Frau Weber ask for at the end of the form?",
       "options": [
-       "the phone number",
-       "the age"
+       "the age",
+       "the phone number"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at her last question.",
       "explanation": "Und die Telefonnummer?"
      },
@@ -9926,10 +9926,10 @@
       "type": "choice",
       "prompt": "What does Ben do today?",
       "options": [
-       "He reads.",
-       "He cooks."
+       "He cooks.",
+       "He reads."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to the first line.",
       "explanation": "Ich lese heute."
      },
@@ -9937,11 +9937,11 @@
       "type": "choice",
       "prompt": "How many books does Mira have?",
       "options": [
-       "2",
        "3",
+       "2",
        "5"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Bücher.",
       "explanation": "Ich habe zwei Bücher."
      },
@@ -9960,11 +9960,11 @@
       "type": "choice",
       "prompt": "How old is Ben?",
       "options": [
-       "31",
        "13",
+       "31",
        "41"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen: ein + und + dreißig.",
       "explanation": "einunddreißig = 31."
      },
@@ -9984,10 +9984,10 @@
       "type": "choice",
       "prompt": "What does Mira have?",
       "options": [
-       "two dogs",
-       "three cats"
+       "three cats",
+       "two dogs"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Hunde.",
       "explanation": "Ich habe zwei Hunde."
      },
@@ -9995,10 +9995,10 @@
       "type": "choice",
       "prompt": "What does Ben have?",
       "options": [
-       "three cats",
-       "two dogs"
+       "two dogs",
+       "three cats"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Katzen.",
       "explanation": "Ich habe drei Katzen."
      },
@@ -10006,10 +10006,10 @@
       "type": "choice",
       "prompt": "When does Ben have time?",
       "options": [
-       "Saturday",
-       "Sunday"
+       "Sunday",
+       "Saturday"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for am.",
       "explanation": "Am Samstag habe ich Zeit."
      },

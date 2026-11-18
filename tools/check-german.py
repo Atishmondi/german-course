@@ -88,7 +88,7 @@ def wiktionary(files):
         for L in d.get('lessons', []):
             for i, v in enumerate(L.get('vocabulary', [])):
                 w, art = v.get('de'), v.get('article')
-                if not (w and art in gmap.values()) or ' ' in w: continue
+                if not (w and art in gmap.values()) or ' ' in w or w in OK: continue  # OK = checked by hand
                 if not cache.get(w):  # empty = earlier failure (rate limit); never trust a cached miss
                     q = urllib.parse.urlencode({'action': 'parse', 'page': w, 'prop': 'wikitext', 'format': 'json', 'redirects': 1})
                     for attempt in range(4):

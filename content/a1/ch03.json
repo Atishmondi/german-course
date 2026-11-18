@@ -682,10 +682,10 @@
      "type": "choice",
      "prompt": "You see many cinemas. What do you say?",
      "options": [
-      "Das ist ein Kino.",
-      "Das sind Kinos."
+      "Das sind Kinos.",
+      "Das ist ein Kino."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "ein means one. For many things, use sind and no ein.",
      "explanation": "Many things: Das sind Kinos.",
      "grammar": true
@@ -717,11 +717,11 @@
      "type": "choice",
      "prompt": "What does ein mean?",
      "options": [
-      "a, an",
       "the",
-      "no"
+      "no",
+      "a, an"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the first card.",
      "explanation": "ein = a, an."
     },
@@ -792,10 +792,10 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Das ist ein Bahnhof.",
-      "Das ist eine Bahnhof."
+      "Das ist eine Bahnhof.",
+      "Das ist ein Bahnhof."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Bahnhof is a der-word.",
      "explanation": "der Bahnhof becomes ein Bahnhof.",
      "grammar": true
@@ -804,10 +804,10 @@
      "type": "choice",
      "prompt": "Many hotels. Which sentence is right?",
      "options": [
-      "Das sind Hotels.",
-      "Das sind ein Hotels."
+      "Das sind ein Hotels.",
+      "Das sind Hotels."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "There is no ein for many things.",
      "explanation": "Many things: sind and no ein.",
      "grammar": true
@@ -816,11 +816,11 @@
      "type": "choice",
      "prompt": "What does der Hafen mean?",
      "options": [
-      "harbour",
       "station",
-      "market"
+      "market",
+      "harbour"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the vocabulary.",
      "explanation": "der Hafen = harbour."
     },
@@ -837,10 +837,10 @@
      "type": "choice",
      "prompt": "Anna says: Das ist ein Rathaus. What is it?",
      "options": [
-      "a town hall",
-      "a church"
+      "a church",
+      "a town hall"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Rathaus is in the vocabulary.",
      "explanation": "das Rathaus = town hall."
     }
@@ -1701,11 +1701,11 @@
      "type": "choice",
      "prompt": "Which word means not a?",
      "options": [
-      "ein",
       "kein",
+      "ein",
       "nicht"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Add a k in front of ein.",
      "explanation": "kein = not a, no.",
      "grammar": true
@@ -1775,11 +1775,11 @@
      "type": "choice",
      "prompt": "Ist das ein Park? Nein, ___.",
      "options": [
-      "das ist kein Park",
       "das ist nicht Park",
+      "das ist kein Park",
       "das ist keine Park"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A noun with ein: use kein.",
      "explanation": "Park is a der-word: kein Park.",
      "grammar": true
@@ -1810,11 +1810,11 @@
      "type": "choice",
      "prompt": "What does kein mean?",
      "options": [
-      "not a, no",
       "a, an",
+      "not a, no",
       "the"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the first card.",
      "explanation": "kein = not a, no."
     },
@@ -1930,10 +1930,10 @@
      "type": "choice",
      "prompt": "Das ist kein Hafen. What does it say?",
      "options": [
-      "That is not a harbour.",
-      "That is a harbour."
+      "That is a harbour.",
+      "That is not a harbour."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "kein means not a.",
      "explanation": "kein Hafen = not a harbour."
     }
@@ -2819,11 +2819,11 @@
      "type": "choice",
      "prompt": "How do you say: by bus?",
      "options": [
-      "mit dem Bus",
       "zu Fuß",
-      "mit dem Fahrrad"
+      "mit dem Fahrrad",
+      "mit dem Bus"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the table of pieces.",
      "explanation": "by bus = mit dem Bus."
     },
@@ -2892,10 +2892,10 @@
      "type": "choice",
      "prompt": "Which question asks where the station is?",
      "options": [
-      "Wo ist der Bahnhof?",
-      "Wie fährst du?"
+      "Wie fährst du?",
+      "Wo ist der Bahnhof?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Wo = where.",
      "explanation": "Wo ist der Bahnhof?"
     },
@@ -2947,10 +2947,10 @@
      "type": "choice",
      "prompt": "Which verb is for a bus, train or car?",
      "options": [
-      "fahren",
-      "gehen"
+      "gehen",
+      "fahren"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "gehen is for walking.",
      "explanation": "fahren = go by vehicle.",
      "grammar": true
@@ -3047,10 +3047,10 @@
      "type": "choice",
      "prompt": "Which question asks about many buses?",
      "options": [
-      "Wo ist der Bus?",
-      "Wo sind die Busse?"
+      "Wo sind die Busse?",
+      "Wo ist der Bus?"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Many things: sind.",
      "explanation": "Wo sind die Busse?",
      "grammar": true
@@ -3059,11 +3059,11 @@
      "type": "choice",
      "prompt": "What does dort mean?",
      "options": [
-      "over there",
       "here",
-      "where"
+      "where",
+      "over there"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the table.",
      "explanation": "dort = over there."
     },
@@ -3071,11 +3071,11 @@
      "type": "choice",
      "prompt": "What does zu Fuß mean?",
      "options": [
-      "on foot",
       "by car",
-      "by bike"
+      "by bike",
+      "on foot"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "It has no vehicle in it.",
      "explanation": "zu Fuß = on foot."
     }
@@ -3896,11 +3896,11 @@
      "type": "choice",
      "prompt": "Which word means big?",
      "options": [
-      "groß",
       "klein",
-      "alt"
+      "alt",
+      "groß"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the opposites table.",
      "explanation": "groß = big."
     },
@@ -3969,10 +3969,10 @@
      "type": "choice",
      "prompt": "Das Hotel ist zu teuer. What does it mean?",
      "options": [
-      "The hotel is too expensive.",
-      "The hotel is very expensive."
+      "The hotel is very expensive.",
+      "The hotel is too expensive."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "zu before an adjective means too.",
      "explanation": "zu = too.",
      "grammar": true
@@ -4003,11 +4003,11 @@
      "type": "choice",
      "prompt": "What does schön mean?",
      "options": [
-      "beautiful, nice",
       "ugly",
-      "loud"
+      "loud",
+      "beautiful, nice"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the vocabulary.",
      "explanation": "schön = beautiful, nice."
     },
@@ -4108,11 +4108,11 @@
      "type": "choice",
      "prompt": "What is the opposite of laut?",
      "options": [
-      "ruhig",
       "klein",
-      "teuer"
+      "teuer",
+      "ruhig"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the opposites table.",
      "explanation": "laut and ruhig are opposites."
     },
@@ -4965,10 +4965,10 @@
      "type": "choice",
      "prompt": "Which sentence is a polite command?",
      "options": [
-      "Gehen Sie geradeaus!",
-      "Sie gehen geradeaus."
+      "Sie gehen geradeaus.",
+      "Gehen Sie geradeaus!"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A command starts with the verb.",
      "explanation": "Verb first, then Sie.",
      "grammar": true
@@ -5071,11 +5071,11 @@
      "type": "choice",
      "prompt": "What does geradeaus mean?",
      "options": [
-      "straight on",
       "left",
-      "right"
+      "right",
+      "straight on"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the table of directions.",
      "explanation": "geradeaus = straight on."
     },
@@ -5155,10 +5155,10 @@
      "type": "choice",
      "prompt": "Which sentence asks a question?",
      "options": [
-      "Gehen Sie geradeaus?",
-      "Gehen Sie geradeaus!"
+      "Gehen Sie geradeaus!",
+      "Gehen Sie geradeaus?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A question ends with ?.",
      "explanation": "? means a question.",
      "grammar": true
@@ -6068,11 +6068,11 @@
      "type": "choice",
      "prompt": "Which piece means in May?",
      "options": [
-      "im Mai",
       "am Mai",
-      "in Mai"
+      "in Mai",
+      "im Mai"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "For months, learn im as one piece.",
      "explanation": "in May = im Mai."
     },
@@ -6165,10 +6165,10 @@
      "type": "choice",
      "prompt": "In which word is the a long?",
      "options": [
-      "Staat",
-      "Stadt"
+      "Stadt",
+      "Staat"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A double vowel means long.",
      "explanation": "Staat has aa: long.",
      "grammar": true
@@ -6190,11 +6190,11 @@
      "type": "choice",
      "prompt": "What does der Winter mean?",
      "options": [
-      "winter",
       "summer",
-      "autumn"
+      "autumn",
+      "winter"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the table of seasons.",
      "explanation": "der Winter = winter."
     },
@@ -6202,11 +6202,11 @@
      "type": "choice",
      "prompt": "Which season is der Herbst?",
      "options": [
-      "autumn",
       "spring",
+      "autumn",
       "summer"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the table of seasons.",
      "explanation": "der Herbst = autumn."
     },
@@ -6303,11 +6303,11 @@
      "type": "choice",
      "prompt": "Which word has a short a?",
      "options": [
-      "Stadt",
       "Staat",
-      "Bahn"
+      "Bahn",
+      "Stadt"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the spelling clues.",
      "explanation": "Stadt: two consonants after a: short."
     },
@@ -6315,10 +6315,10 @@
      "type": "choice",
      "prompt": "Which spelling clue means a long vowel?",
      "options": [
-      "h after the vowel, like Bahn",
-      "double consonant, like komme"
+      "double consonant, like komme",
+      "h after the vowel, like Bahn"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the clue table.",
      "explanation": "h after the vowel: long."
     }
@@ -6559,11 +6559,11 @@
       "type": "choice",
       "prompt": "Where does Mira come from?",
       "options": [
-       "Vienna",
        "Hamburg",
-       "Berlin"
+       "Berlin",
+       "Vienna"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at Mira's first line.",
       "explanation": "Ich komme mit dem Zug aus Wien."
      },
@@ -6571,11 +6571,11 @@
       "type": "choice",
       "prompt": "How does Mira travel to Hamburg?",
       "options": [
-       "by train",
        "by bus",
+       "by train",
        "on foot"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for mit dem.",
       "explanation": "Ich komme mit dem Zug."
      },
@@ -6583,10 +6583,10 @@
       "type": "choice",
       "prompt": "How does Mira feel?",
       "options": [
-       "tired",
-       "sick"
+       "sick",
+       "tired"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for bin.",
       "explanation": "Ich bin müde."
      },
@@ -6629,11 +6629,11 @@
       "type": "choice",
       "prompt": "What is the Michel?",
       "options": [
-       "a church",
        "a museum",
-       "a market"
+       "a market",
+       "a church"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at Anna's line about the church.",
       "explanation": "Das ist eine Kirche, der Michel."
      },
@@ -6641,11 +6641,11 @@
       "type": "choice",
       "prompt": "Where is Ben?",
       "options": [
-       "at the harbour",
        "at the station",
+       "at the harbour",
        "at the cinema"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Anna answers Wo ist der Hafen?",
       "explanation": "Ben ist auch dort (am Hafen)."
      },
@@ -6703,10 +6703,10 @@
       "type": "choice",
       "prompt": "Where does Ben live?",
       "options": [
-       "in Hamburg",
-       "in Vienna"
+       "in Vienna",
+       "in Hamburg"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for wohne.",
       "explanation": "Ich wohne in Hamburg."
      },
@@ -6736,10 +6736,10 @@
       "type": "choice",
       "prompt": "What else is there?",
       "options": [
-       "a café",
-       "a church"
+       "a church",
+       "a café"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for da.",
       "explanation": "Da ist auch ein Café."
      },
@@ -6758,10 +6758,10 @@
       "type": "choice",
       "prompt": "What is it?",
       "options": [
-       "a museum",
-       "a bank"
+       "a bank",
+       "a museum"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Ben's answer.",
       "explanation": "Das ist ein Museum."
      },
@@ -6963,11 +6963,11 @@
       "type": "choice",
       "prompt": "What is the harbour like?",
       "options": [
-       "big and loud",
        "small and quiet",
-       "new"
+       "new",
+       "big and loud"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at Mira's first line.",
       "explanation": "Der Hafen ist groß, aber er ist laut."
      },
@@ -6975,10 +6975,10 @@
       "type": "choice",
       "prompt": "What is the Elbphilharmonie like?",
       "options": [
-       "new and interesting",
-       "old and loud"
+       "old and loud",
+       "new and interesting"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Anna's first line.",
       "explanation": "Sie ist neu und sehr interessant."
      },
@@ -6986,10 +6986,10 @@
       "type": "choice",
       "prompt": "Is the Michel new?",
       "options": [
-       "no, it is very old",
-       "yes, it is new"
+       "yes, it is new",
+       "no, it is very old"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for alt.",
       "explanation": "Er ist sehr alt."
      },
@@ -7008,10 +7008,10 @@
       "type": "choice",
       "prompt": "How do Anna and Mira go to the Michel?",
       "options": [
-       "on foot",
-       "by bus"
+       "by bus",
+       "on foot"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for Fuß.",
       "explanation": "Wir gehen zu Fuß."
      },
@@ -7019,11 +7019,11 @@
       "type": "choice",
       "prompt": "When is the harbour birthday?",
       "options": [
-       "in May",
        "in winter",
+       "in May",
        "in August"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for im.",
       "explanation": "Im Mai."
      },
@@ -7031,10 +7031,10 @@
       "type": "choice",
       "prompt": "How does Anna go to the harbour in summer?",
       "options": [
-       "by bike",
-       "by train"
+       "by train",
+       "by bike"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for mit dem.",
       "explanation": "Mit dem Fahrrad."
      },
@@ -7082,10 +7082,10 @@
       "type": "choice",
       "prompt": "Whom does Mira ask the way?",
       "options": [
-       "Herr Ali",
-       "Anna"
+       "Anna",
+       "Herr Ali"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to the first line.",
       "explanation": "Mira says: Herr Ali."
      },
@@ -7104,10 +7104,10 @@
       "type": "choice",
       "prompt": "Where does Mira want to go?",
       "options": [
-       "to the town hall",
-       "to the station"
+       "to the station",
+       "to the town hall"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to her first question.",
       "explanation": "Wie komme ich zum Rathaus?"
      },
@@ -7170,10 +7170,10 @@
       "type": "choice",
       "prompt": "When is it?",
       "options": [
-       "in May",
-       "in winter"
+       "in winter",
+       "in May"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for im.",
       "explanation": "Im Mai."
      },
@@ -7181,10 +7181,10 @@
       "type": "choice",
       "prompt": "What is it like?",
       "options": [
-       "very nice, but loud",
-       "small and quiet"
+       "small and quiet",
+       "very nice, but loud"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to the end.",
       "explanation": "Er ist sehr schön, aber laut."
      }

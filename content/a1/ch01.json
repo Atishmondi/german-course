@@ -400,10 +400,10 @@
      "prompt": "You leave your friend Ben. What do you say?",
      "options": [
       "Guten Tag, Ben!",
-      "Tschüss, Ben!",
-      "Guten Abend, Ben!"
+      "Guten Abend, Ben!",
+      "Tschüss, Ben!"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "You are leaving, and Ben is a friend.",
      "explanation": "Tschüss is the casual goodbye."
     },
@@ -449,11 +449,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Ich bin heiße Anna.",
       "Ich heiße Anna.",
+      "Ich bin heiße Anna.",
       "Ich heiße bin Anna."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Count the verbs. One is enough.",
      "explanation": "Ich heiße Anna. has one verb.",
      "grammar": true
@@ -534,10 +534,10 @@
      "prompt": "Which sentence is wrong?",
      "options": [
       "Ich bin Leon.",
-      "Ich bin heiße Leon.",
-      "Ich heiße Leon."
+      "Ich heiße Leon.",
+      "Ich bin heiße Leon."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Count the verbs in each sentence.",
      "explanation": "Two verbs together is wrong. Use bin or heiße.",
      "grammar": true
@@ -546,11 +546,11 @@
      "type": "choice",
      "prompt": "Ich heiße Mira. Ich bin Mira. What is true?",
      "options": [
-      "Both are right and say who I am.",
       "Only Ich heiße Mira. is right.",
-      "Only Ich bin Mira. is right."
+      "Only Ich bin Mira. is right.",
+      "Both are right and say who I am."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the card about the second chunk.",
      "explanation": "Both chunks tell your name.",
      "grammar": true
@@ -559,11 +559,11 @@
      "type": "choice",
      "prompt": "What does ich mean?",
      "options": [
-      "I",
       "you",
+      "I",
       "hello"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "It is the word for yourself.",
      "explanation": "ich = I.",
      "grammar": true
@@ -584,10 +584,10 @@
      "prompt": "In Ich heiße Mira., which word is the verb?",
      "options": [
       "Ich",
-      "heiße",
-      "Mira"
+      "Mira",
+      "heiße"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The verb is the word for the action or state.",
      "explanation": "heiße (am called) is the verb.",
      "grammar": true
@@ -596,11 +596,11 @@
      "type": "choice",
      "prompt": "It is 7 in the evening. Which greeting fits?",
      "options": [
-      "Guten Morgen!",
       "Guten Abend!",
+      "Guten Morgen!",
       "Guten Tag!"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Think about the time of day.",
      "explanation": "Guten Abend is for the evening."
     },
@@ -609,10 +609,10 @@
      "prompt": "You leave your teacher after class. What do you say?",
      "options": [
       "Tschüss!",
-      "Hallo!",
-      "Auf Wiedersehen!"
+      "Auf Wiedersehen!",
+      "Hallo!"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "You are leaving, and you want to be polite.",
      "explanation": "Auf Wiedersehen is the polite goodbye."
     },
@@ -620,11 +620,11 @@
      "type": "choice",
      "prompt": "Which greeting fits any time of day, with friends?",
      "options": [
-      "Hallo",
       "Guten Morgen",
-      "Guten Abend"
+      "Guten Abend",
+      "Hallo"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Morgen and Abend name a time of day.",
      "explanation": "Hallo is casual and fits any time."
     }
@@ -1397,10 +1397,10 @@
      "prompt": "Which question is right?",
      "options": [
       "Wie du heißt?",
-      "Wie heißt du?",
-      "Heißt wie du?"
+      "Heißt wie du?",
+      "Wie heißt du?"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The verb comes right after wie.",
      "explanation": "Wie heißt du? has wie, then the verb, then du.",
      "grammar": true
@@ -1409,11 +1409,11 @@
      "type": "choice",
      "prompt": "Mira asks: Wie geht's? What can Ben say?",
      "options": [
-      "Gut, danke!",
       "Guten Abend!",
+      "Gut, danke!",
       "Tschüss!"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Wie geht's? asks how you are.",
      "explanation": "Gut, danke! = Good, thanks!"
     }
@@ -1457,11 +1457,11 @@
      "type": "choice",
      "prompt": "Wie heißt Sie? What is wrong?",
      "options": [
-      "Sie needs heißen.",
       "wie must come last.",
-      "Nothing is wrong."
+      "Nothing is wrong.",
+      "Sie needs heißen."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the Sie line in the heißen table.",
      "explanation": "With Sie, use heißen.",
      "grammar": true
@@ -1487,10 +1487,10 @@
      "type": "choice",
      "prompt": "Who do you talk to with du?",
      "options": [
-      "your friend Anna",
-      "Frau Weber, your teacher"
+      "Frau Weber, your teacher",
+      "your friend Anna"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "du is for friends.",
      "explanation": "Anna is a friend, so du.",
      "grammar": true
@@ -1499,11 +1499,11 @@
      "type": "choice",
      "prompt": "What does Sie with a big S mean?",
      "options": [
-      "you (polite)",
       "I",
-      "you (to a friend)"
+      "you (to a friend)",
+      "you (polite)"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "German has two words for you.",
      "explanation": "Sie is the polite you.",
      "grammar": true
@@ -1523,11 +1523,11 @@
      "type": "choice",
      "prompt": "Ben says: Ich heiße Ben. Und du? What does Und du? mean?",
      "options": [
-      "And you?",
       "How are you?",
+      "And you?",
       "Goodbye!"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "und means and.",
      "explanation": "Und du? = And you?"
     },
@@ -1547,10 +1547,10 @@
      "type": "choice",
      "prompt": "You meet Herr Ali for the first time, at 11 in the morning. How do you greet him?",
      "options": [
-      "Hallo, Ali!",
-      "Guten Tag, Herr Ali!"
+      "Guten Tag, Herr Ali!",
+      "Hallo, Ali!"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Polite: Herr + family name.",
      "explanation": "Guten Tag, Herr Ali! is polite."
     },
@@ -2432,10 +2432,10 @@
      "type": "choice",
      "prompt": "___ wohnst du? – In Hamburg.",
      "options": [
-      "Woher",
-      "Wo"
+      "Wo",
+      "Woher"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "The answer starts with in.",
      "explanation": "wo is answered with in.",
      "grammar": true
@@ -2472,10 +2472,10 @@
      "prompt": "Which question is right?",
      "options": [
       "Woher du kommst?",
-      "Woher kommst du?",
-      "Kommst woher du?"
+      "Kommst woher du?",
+      "Woher kommst du?"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The verb comes right after the question word.",
      "explanation": "Woher kommst du? has the verb in position 2.",
      "grammar": true
@@ -2510,10 +2510,10 @@
      "prompt": "Where is the verb in a German statement?",
      "options": [
       "position 1",
-      "position 2",
-      "at the end"
+      "at the end",
+      "position 2"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Remember the big rule card.",
      "explanation": "The verb is always part 2.",
      "grammar": true
@@ -2551,10 +2551,10 @@
      "type": "choice",
      "prompt": "Ben asks: Woher kommst du? Which answer fits?",
      "options": [
-      "In Berlin.",
-      "Aus Spanien."
+      "Aus Spanien.",
+      "In Berlin."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "woher is answered with aus.",
      "explanation": "Aus Spanien. answers where from."
     },
@@ -2562,11 +2562,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Ich aus Wien komme.",
       "Ich komme aus Wien.",
+      "Ich aus Wien komme.",
       "Aus ich komme Wien."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "The verb must be in position 2.",
      "explanation": "Ich | komme | aus Wien.",
      "grammar": true
@@ -2603,10 +2603,10 @@
      "prompt": "In Wo wohnen Sie?, which part is in position 2?",
      "options": [
       "Wo",
-      "wohnen",
-      "Sie"
+      "Sie",
+      "wohnen"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Count the parts from the left.",
      "explanation": "wohnen, the verb, is part 2.",
      "grammar": true
@@ -2639,11 +2639,11 @@
      "type": "choice",
      "prompt": "Mira says: Ich wohne in Hamburg. What does she tell you?",
      "options": [
-      "where she lives",
       "where she comes from",
-      "her name"
+      "her name",
+      "where she lives"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "wohnen means to live.",
      "explanation": "Ich wohne in … says where you live."
     }
@@ -3504,10 +3504,10 @@
      "prompt": "Mira ___ aus Österreich.",
      "options": [
       "komme",
-      "kommst",
-      "kommt"
+      "kommt",
+      "kommst"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Mira = sie. Which ending goes with sie?",
      "explanation": "sie takes -t: kommt.",
      "grammar": true
@@ -3672,10 +3672,10 @@
      "type": "choice",
      "prompt": "Wo wohnen Sie, Herr Ali? Who is Sie here?",
      "options": [
-      "Herr Ali: the polite you",
-      "a woman: she"
+      "a woman: she",
+      "Herr Ali: the polite you"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the ending of wohnen.",
      "explanation": "-en: the polite Sie.",
      "grammar": true
@@ -3684,10 +3684,10 @@
      "type": "choice",
      "prompt": "What is an infinitive?",
      "options": [
-      "the dictionary form, ending in -en",
-      "the ending for du"
+      "the ending for du",
+      "the dictionary form, ending in -en"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the first card.",
      "explanation": "kommen and wohnen are infinitives.",
      "grammar": true
@@ -3708,11 +3708,11 @@
      "type": "choice",
      "prompt": "Anna wohnt auch hier. What does auch mean?",
      "options": [
-      "too, also",
       "now",
+      "too, also",
       "but"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the 3-steps card.",
      "explanation": "auch = too, also."
     }
@@ -4494,10 +4494,10 @@
      "prompt": "Sie ___ Herr Ali. (you, polite)",
      "options": [
       "bist",
-      "sind",
-      "ist"
+      "ist",
+      "sind"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Look at the Sie line of the sein table.",
      "explanation": "Sie sind.",
      "grammar": true
@@ -4523,10 +4523,10 @@
      "type": "choice",
      "prompt": "Anna is a student. Which sentence fits?",
      "options": [
-      "Anna ist Student.",
-      "Anna ist Studentin."
+      "Anna ist Studentin.",
+      "Anna ist Student."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Anna is a woman.",
      "explanation": "Student + in = Studentin.",
      "grammar": true
@@ -4545,11 +4545,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Er bin nett.",
       "Er ist nett.",
+      "Er bin nett.",
       "Er bist nett."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Look at the er line of the sein table.",
      "explanation": "er ist.",
      "grammar": true
@@ -4590,11 +4590,11 @@
      "type": "choice",
      "prompt": "Du bin Mira. What is wrong?",
      "options": [
-      "bin is for ich; du needs bist.",
       "Mira must come first.",
+      "bin is for ich; du needs bist.",
       "Nothing is wrong."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Which person goes with bin?",
      "explanation": "du bist.",
      "grammar": true
@@ -4620,11 +4620,11 @@
      "type": "choice",
      "prompt": "Which question asks who someone is?",
      "options": [
-      "Wer ist das?",
       "Wo wohnst du?",
+      "Wer ist das?",
       "Wie geht's?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "wer means who.",
      "explanation": "Wer ist das? = Who is that?",
      "grammar": true
@@ -4667,10 +4667,10 @@
      "type": "choice",
      "prompt": "Mira is a teacher. Which word fits?",
      "options": [
-      "Lehrer",
-      "Lehrerin"
+      "Lehrerin",
+      "Lehrer"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Mira is a woman.",
      "explanation": "Lehrer + in = Lehrerin."
     },
@@ -4678,11 +4678,11 @@
      "type": "choice",
      "prompt": "What does nett mean?",
      "options": [
-      "nice",
       "new",
+      "nice",
       "great"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the last card.",
      "explanation": "nett = nice."
     },
@@ -4690,11 +4690,11 @@
      "type": "choice",
      "prompt": "You say: Das ist Ben. What are you doing?",
      "options": [
-      "introducing Ben",
       "asking Ben's name",
+      "introducing Ben",
       "saying goodbye to Ben"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Das ist + name.",
      "explanation": "Das ist Ben. introduces Ben."
     }
@@ -5624,10 +5624,10 @@
      "type": "choice",
      "prompt": "Which one is a yes/no question?",
      "options": [
-      "Wo wohnst du?",
-      "Wohnst du in Wien?"
+      "Wohnst du in Wien?",
+      "Wo wohnst du?"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Which one starts with the verb?",
      "explanation": "Wohnst du in Wien? starts with the verb.",
      "grammar": true
@@ -5728,10 +5728,10 @@
      "type": "choice",
      "prompt": "Which form is right for ich?",
      "options": [
-      "ich spreche",
-      "ich spriche"
+      "ich spriche",
+      "ich spreche"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Which persons keep the e?",
      "explanation": "ich keeps e: spreche.",
      "grammar": true
@@ -5740,11 +5740,11 @@
      "type": "choice",
      "prompt": "Where is the verb in a yes/no question?",
      "options": [
-      "position 1",
       "position 2",
+      "position 1",
       "at the end"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the yes/no question card.",
      "explanation": "The verb comes first.",
      "grammar": true
@@ -5772,11 +5772,11 @@
      "type": "choice",
      "prompt": "Du sprechst Englisch. What is wrong?",
      "options": [
-      "With du, e becomes i: sprichst.",
       "du needs -en.",
-      "Nothing is wrong."
+      "Nothing is wrong.",
+      "With du, e becomes i: sprichst."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the sprechen table.",
      "explanation": "du sprichst.",
      "grammar": true
@@ -5807,11 +5807,11 @@
      "type": "choice",
      "prompt": "Sprechen Sie Deutsch? Which answer fits?",
      "options": [
-      "Ja, ein bisschen.",
       "Aus Spanien.",
+      "Ja, ein bisschen.",
       "In Berlin."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A yes/no question gets ja or nein.",
      "explanation": "Ja, ein bisschen. = Yes, a little."
     },
@@ -6088,10 +6088,10 @@
       "prompt": "Where does Mira come from?",
       "options": [
        "from Spain",
-       "from Austria",
-       "from Italy"
+       "from Italy",
+       "from Austria"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Read Mira's line.",
       "explanation": "Mira: Ich komme aus Österreich."
      },
@@ -6111,11 +6111,11 @@
       "type": "choice",
       "prompt": "Who comes from Spain?",
       "options": [
-       "Leon",
        "Ben",
+       "Leon",
        "Anna"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Find aus Spanien.",
       "explanation": "Ben: Ich komme aus Spanien."
      },
@@ -6123,11 +6123,11 @@
       "type": "choice",
       "prompt": "Ben lives in the same city as …",
       "options": [
-       "Mira",
        "Leon",
-       "Anna"
+       "Anna",
+       "Mira"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Ben says auch (also).",
       "explanation": "Mira and Ben both live in Hamburg."
      },
@@ -6136,10 +6136,10 @@
       "prompt": "Where does Leon come from?",
       "options": [
        "from Germany",
-       "from Italy",
-       "from Austria"
+       "from Austria",
+       "from Italy"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Read Leon's line.",
       "explanation": "Leon: Ich komme aus Italien."
      },
@@ -6148,10 +6148,10 @@
       "prompt": "Which question does Leon ask Anna?",
       "options": [
        "Wo wohnst du?",
-       "Woher kommst du?",
-       "Wie heißt du?"
+       "Wie heißt du?",
+       "Woher kommst du?"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at the end of Leon's line.",
       "explanation": "Leon asks: Woher kommst du?"
      },
@@ -6159,11 +6159,11 @@
       "type": "choice",
       "prompt": "Where does Anna live?",
       "options": [
-       "in München",
        "in Wien",
+       "in München",
        "in Hamburg"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "München is where she comes from.",
       "explanation": "Anna: Ich wohne in Wien."
      },
@@ -6171,11 +6171,11 @@
       "type": "choice",
       "prompt": "Who lives in Berlin?",
       "options": [
-       "Leon and Herr Ali",
        "Mira and Ben",
+       "Leon and Herr Ali",
        "Anna and Frau Weber"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Find in Berlin twice.",
       "explanation": "Leon and Herr Ali both say Ich wohne in Berlin."
      },
@@ -6183,11 +6183,11 @@
       "type": "choice",
       "prompt": "Which greeting does Herr Ali use?",
       "options": [
+       "Guten Tag!",
        "Hallo!",
-       "Guten Morgen!",
-       "Guten Tag!"
+       "Guten Morgen!"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Read the start of his line.",
       "explanation": "Herr Ali: Guten Tag!"
      },
@@ -6223,10 +6223,10 @@
       "type": "choice",
       "prompt": "How does Frau Weber ask Mira's name?",
       "options": [
-       "Wie heißt du?",
-       "Wie heißen Sie?"
+       "Wie heißen Sie?",
+       "Wie heißt du?"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Frau Weber is polite.",
       "explanation": "She asks: Wie heißen Sie?"
      },
@@ -6245,10 +6245,10 @@
       "type": "choice",
       "prompt": "Where does Mira come from?",
       "options": [
-       "from Vienna, in Austria",
-       "from Spain"
+       "from Spain",
+       "from Vienna, in Austria"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for aus.",
       "explanation": "Ich komme aus Österreich, aus Wien."
      },
@@ -6256,10 +6256,10 @@
       "type": "choice",
       "prompt": "Where does Mira live?",
       "options": [
-       "in Berlin",
-       "in Hamburg"
+       "in Hamburg",
+       "in Berlin"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for wohne in.",
       "explanation": "Ich wohne in Hamburg."
      },
@@ -6278,10 +6278,10 @@
       "type": "choice",
       "prompt": "Where does Ben come from?",
       "options": [
-       "from Spain",
-       "from Italy"
+       "from Italy",
+       "from Spain"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for aus.",
       "explanation": "Ich komme aus Spanien."
      },
@@ -6289,10 +6289,10 @@
       "type": "choice",
       "prompt": "Where does Ben live?",
       "options": [
-       "in Hamburg",
-       "in Berlin"
+       "in Berlin",
+       "in Hamburg"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to his last answer: he says auch (also).",
       "explanation": "Ich wohne auch in Hamburg."
      },
@@ -6495,10 +6495,10 @@
       "type": "choice",
       "prompt": "Where does Anna live now?",
       "options": [
-       "in Munich",
-       "in Vienna"
+       "in Vienna",
+       "in Munich"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for jetzt (now).",
       "explanation": "Aber sie wohnt jetzt in Wien."
      },
@@ -6506,10 +6506,10 @@
       "type": "choice",
       "prompt": "What is Anna?",
       "options": [
-       "a teacher",
-       "a student"
+       "a student",
+       "a teacher"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Studentin or Lehrerin.",
       "explanation": "Anna ist Studentin."
      },
@@ -6528,10 +6528,10 @@
       "type": "choice",
       "prompt": "Where does Ben live?",
       "options": [
-       "in Hamburg",
-       "in Berlin"
+       "in Berlin",
+       "in Hamburg"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Ben's part.",
       "explanation": "Er wohnt in Hamburg."
      },
@@ -6539,10 +6539,10 @@
       "type": "choice",
       "prompt": "How much German does Ben speak?",
       "options": [
-       "a lot",
-       "a little"
+       "a little",
+       "a lot"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for ein bisschen.",
       "explanation": "ein bisschen Deutsch = a little German."
      },
@@ -6550,11 +6550,11 @@
       "type": "choice",
       "prompt": "Who is the teacher?",
       "options": [
-       "Anna",
        "Frau Weber",
+       "Anna",
        "Leon"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Lehrerin.",
       "explanation": "Frau Weber ist Lehrerin."
      },
@@ -6562,10 +6562,10 @@
       "type": "choice",
       "prompt": "Which two people live in Hamburg?",
       "options": [
-       "Ben and Frau Weber",
-       "Anna and Leon"
+       "Anna and Leon",
+       "Ben and Frau Weber"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Frau Weber wohnt auch in Hamburg.",
       "explanation": "Ben and Frau Weber live in Hamburg."
      },
@@ -6584,10 +6584,10 @@
       "type": "choice",
       "prompt": "Who speaks Italian?",
       "options": [
-       "Frau Weber and Leon",
-       "Anna and Ben"
+       "Anna and Ben",
+       "Frau Weber and Leon"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for Italienisch.",
       "explanation": "Frau Weber and Leon speak Italienisch."
      }
@@ -6612,10 +6612,10 @@
       "type": "choice",
       "prompt": "How many S letters are in his family name?",
       "options": [
-       "one",
-       "two"
+       "two",
+       "one"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen to the spelling.",
       "explanation": "R – O – S – S – I."
      },
@@ -6634,10 +6634,10 @@
       "type": "choice",
       "prompt": "Where does Leon come from?",
       "options": [
-       "Italy",
-       "Spain"
+       "Spain",
+       "Italy"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for aus.",
       "explanation": "Ich komme aus Italien."
      },
@@ -6678,10 +6678,10 @@
       "type": "choice",
       "prompt": "Who lives in Berlin too?",
       "options": [
-       "Anna",
-       "Frau Weber"
+       "Frau Weber",
+       "Anna"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Frau Weber introducing someone.",
       "explanation": "Das ist Anna. Sie wohnt auch in Berlin."
      },

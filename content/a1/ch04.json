@@ -581,11 +581,11 @@
      "type": "choice",
      "prompt": "Which question asks what you eat?",
      "options": [
-      "Was isst du?",
       "Wer isst du?",
+      "Was isst du?",
       "Wo isst du?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The answer will be a food word. Which question word means what?",
      "explanation": "was = what.",
      "grammar": true
@@ -682,10 +682,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Mira isst Kuchen.",
-      "Mira esse Kuchen."
+      "Mira esse Kuchen.",
+      "Mira isst Kuchen."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Mira = she. essen changes for er/sie.",
      "explanation": "Mira isst Kuchen.",
      "grammar": true
@@ -711,11 +711,11 @@
      "type": "choice",
      "prompt": "What does Milch mean?",
      "options": [
-      "milk",
       "water",
-      "juice"
+      "juice",
+      "milk"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the food table.",
      "explanation": "Milch = milk."
     },
@@ -733,11 +733,11 @@
      "type": "choice",
      "prompt": "In Ben trinkt Wasser., which word is the object?",
      "options": [
+      "Wasser",
       "Ben",
-      "trinkt",
-      "Wasser"
+      "trinkt"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Ask: what does Ben drink?",
      "explanation": "Wasser is what he drinks.",
      "grammar": true
@@ -765,11 +765,11 @@
      "type": "choice",
      "prompt": "Which word means apple?",
      "options": [
-      "Apfel",
       "Käse",
-      "Suppe"
+      "Suppe",
+      "Apfel"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the food table.",
      "explanation": "der Apfel = apple."
     },
@@ -787,11 +787,11 @@
      "type": "choice",
      "prompt": "Ben says: Ich esse gern Käse. What does Ben like?",
      "options": [
-      "cheese",
       "soup",
-      "eggs"
+      "eggs",
+      "cheese"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Find the object.",
      "explanation": "Käse = cheese."
     }
@@ -1657,11 +1657,11 @@
      "type": "choice",
      "prompt": "Which one does not change as an object?",
      "options": [
-      "die Banane",
       "der Apfel",
+      "die Banane",
       "der Saft"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Only masculine words change.",
      "explanation": "die Banane stays die Banane.",
      "grammar": true
@@ -1752,11 +1752,11 @@
      "type": "choice",
      "prompt": "Which word means fish?",
      "options": [
-      "Fisch",
       "Käse",
-      "Wurst"
+      "Wurst",
+      "Fisch"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the examples with keinen.",
      "explanation": "der Fisch = fish."
     },
@@ -1869,11 +1869,11 @@
      "type": "choice",
      "prompt": "Ben trinkt keine Milch. What does keine mean?",
      "options": [
-      "no",
       "a",
+      "no",
       "the"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "kein is ein with a no-sign.",
      "explanation": "keine = no."
     },
@@ -2764,11 +2764,11 @@
      "type": "choice",
      "prompt": "Which word changes as an object?",
      "options": [
-      "der Tisch",
       "die Lampe",
-      "das Buch"
+      "das Buch",
+      "der Tisch"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Only masculine words change.",
      "explanation": "der Tisch becomes den Tisch.",
      "grammar": true
@@ -2881,11 +2881,11 @@
      "type": "choice",
      "prompt": "What does brauchen mean?",
      "options": [
-      "to need",
       "to buy",
+      "to need",
       "to eat"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the table of verbs.",
      "explanation": "brauchen = to need."
     },
@@ -2944,10 +2944,10 @@
      "type": "choice",
      "prompt": "Which verb takes an object?",
      "options": [
-      "kaufen",
-      "sein"
+      "sein",
+      "kaufen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "One of them is like an equals sign.",
      "explanation": "kaufen takes an object.",
      "grammar": true
@@ -2985,11 +2985,11 @@
      "type": "choice",
      "prompt": "Ich habe keinen Hunger. What does it mean?",
      "options": [
-      "I am not hungry.",
       "I am tired.",
+      "I am not hungry.",
       "I have a dog."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "keinen Hunger = no hunger.",
      "explanation": "Ich habe keinen Hunger = I am not hungry."
     },
@@ -3842,10 +3842,10 @@
      "type": "choice",
      "prompt": "What does möchten mean?",
      "options": [
-      "would like",
-      "to buy"
+      "to buy",
+      "would like"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "It is the polite want.",
      "explanation": "möchten = would like."
     },
@@ -3933,11 +3933,11 @@
      "type": "choice",
      "prompt": "What does bitte mean here: Ich möchte einen Kaffee, bitte?",
      "options": [
-      "please",
       "sorry",
+      "please",
       "thanks"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "You say it when you ask for something.",
      "explanation": "bitte = please."
     },
@@ -5066,10 +5066,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Ich mag den Salat.",
-      "Ich mag der Salat."
+      "Ich mag der Salat.",
+      "Ich mag den Salat."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Salat is masculine and it is the object.",
      "explanation": "den Salat.",
      "grammar": true
@@ -5119,11 +5119,11 @@
      "type": "choice",
      "prompt": "What does lieber mean?",
      "options": [
-      "prefer to",
       "always",
-      "never"
+      "never",
+      "prefer to"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the lieber card.",
      "explanation": "lieber = rather, prefer."
     },
@@ -5184,11 +5184,11 @@
      "type": "choice",
      "prompt": "Die Suppe ist heiß. What does heiß mean?",
      "options": [
-      "hot",
       "cold",
+      "hot",
       "sweet"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the adjective table.",
      "explanation": "heiß = hot."
     },
@@ -6107,10 +6107,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "ein Kilo Äpfel",
-      "ein Kilo die Äpfel"
+      "ein Kilo die Äpfel",
+      "ein Kilo Äpfel"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "No article after the quantity.",
      "explanation": "ein Kilo Äpfel.",
      "grammar": true
@@ -6158,10 +6158,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Was kosten die Äpfel?",
-      "Was kostet die Äpfel?"
+      "Was kostet die Äpfel?",
+      "Was kosten die Äpfel?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Many apples: kosten.",
      "explanation": "Was kosten die Äpfel?",
      "grammar": true
@@ -6200,11 +6200,11 @@
      "type": "choice",
      "prompt": "How do you say 2,50 €?",
      "options": [
-      "zwei Euro fünfzig",
       "fünfzig Euro zwei",
+      "zwei Euro fünfzig",
       "zwei fünfzig Cent"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Euro first, then the cents.",
      "explanation": "zwei Euro fünfzig."
     }
@@ -6225,11 +6225,11 @@
      "type": "choice",
      "prompt": "What does Flasche mean?",
      "options": [
-      "bottle",
       "packet",
-      "litre"
+      "litre",
+      "bottle"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the quantity table.",
      "explanation": "die Flasche = bottle."
     },
@@ -6290,10 +6290,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "zwei Kilo Äpfel",
-      "zwei Kilos Äpfel"
+      "zwei Kilos Äpfel",
+      "zwei Kilo Äpfel"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Kilo stays the same after a number.",
      "explanation": "zwei Kilo Äpfel.",
      "grammar": true
@@ -6312,10 +6312,10 @@
      "type": "choice",
      "prompt": "0,80 € is said as …",
      "options": [
-      "achtzig Cent",
-      "acht Euro"
+      "acht Euro",
+      "achtzig Cent"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Under one euro: Cent only.",
      "explanation": "achtzig Cent."
     },
@@ -6353,10 +6353,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "ein Stück Kuchen",
-      "ein Stück der Kuchen"
+      "ein Stück der Kuchen",
+      "ein Stück Kuchen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "No article after the quantity.",
      "explanation": "ein Stück Kuchen.",
      "grammar": true
@@ -7191,10 +7191,10 @@
      "type": "choice",
      "prompt": "Where do you buy rolls?",
      "options": [
-      "in der Bäckerei",
-      "in der Metzgerei"
+      "in der Metzgerei",
+      "in der Bäckerei"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the shop table.",
      "explanation": "In the bakery."
     },
@@ -7250,10 +7250,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Ich nehme den Käse.",
-      "Ich nehme der Käse."
+      "Ich nehme der Käse.",
+      "Ich nehme den Käse."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Käse is masculine and it is the object.",
      "explanation": "den Käse.",
      "grammar": true
@@ -7312,10 +7312,10 @@
      "type": "choice",
      "prompt": "Which shop sells meat?",
      "options": [
-      "die Metzgerei",
-      "die Bäckerei"
+      "die Bäckerei",
+      "die Metzgerei"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the shop table.",
      "explanation": "die Metzgerei."
     },
@@ -7333,10 +7333,10 @@
      "type": "choice",
      "prompt": "Which piece means in the supermarket?",
      "options": [
-      "im Supermarkt",
-      "auf dem Supermarkt"
+      "auf dem Supermarkt",
+      "im Supermarkt"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the where-you-buy table.",
      "explanation": "im Supermarkt."
     },
@@ -7376,10 +7376,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Haben Sie einen Joghurt?",
-      "Haben Sie ein Joghurt?"
+      "Haben Sie ein Joghurt?",
+      "Haben Sie einen Joghurt?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Joghurt is masculine.",
      "explanation": "einen Joghurt.",
      "grammar": true
@@ -7430,10 +7430,10 @@
      "type": "choice",
      "prompt": "What does Sonst noch etwas? mean?",
      "options": [
-      "Anything else?",
-      "How much?"
+      "How much?",
+      "Anything else?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The seller asks it after your first order.",
      "explanation": "Anything else?"
     },
@@ -8281,10 +8281,10 @@
      "type": "choice",
      "prompt": "What does morgens mean?",
      "options": [
-      "in the morning",
-      "in the evening"
+      "in the evening",
+      "in the morning"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the morgens card.",
      "explanation": "morgens = in the morning."
     },
@@ -8420,11 +8420,11 @@
      "type": "choice",
      "prompt": "Who eats in Morgens isst Mira Käse.? Which word is the subject?",
      "options": [
-      "Mira",
       "Morgens",
-      "Käse"
+      "Käse",
+      "Mira"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The subject follows the verb when the time is first.",
      "explanation": "Mira is the subject.",
      "grammar": true
@@ -8462,10 +8462,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Ich trinke morgens Kaffee.",
-      "Ich morgens trinke Kaffee."
+      "Ich morgens trinke Kaffee.",
+      "Ich trinke morgens Kaffee."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The verb stays in part 2.",
      "explanation": "Ich trinke morgens Kaffee.",
      "grammar": true
@@ -8527,10 +8527,10 @@
      "type": "choice",
      "prompt": "Which piece means for breakfast?",
      "options": [
-      "zum Frühstück",
-      "im Frühstück"
+      "im Frühstück",
+      "zum Frühstück"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the meals card.",
      "explanation": "zum Frühstück."
     }
@@ -9321,10 +9321,10 @@
      "type": "choice",
      "prompt": "You want the tea. What do you say to Möchtest du einen Tee?",
      "options": [
-      "Ja, bitte.",
-      "Nein, danke."
+      "Nein, danke.",
+      "Ja, bitte."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the yes card.",
      "explanation": "Ja, bitte."
     },
@@ -9441,10 +9441,10 @@
      "type": "choice",
      "prompt": "Möchtest du einen Tee? – Danke. What does it mean here?",
      "options": [
-      "No, thanks.",
-      "Yes, please."
+      "Yes, please.",
+      "No, thanks."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the no card.",
      "explanation": "Danke alone often means no."
     },
@@ -9462,10 +9462,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Noch ein Brötchen?",
-      "Noch einen Brötchen?"
+      "Noch einen Brötchen?",
+      "Noch ein Brötchen?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Brötchen is neuter.",
      "explanation": "Noch ein Brötchen?",
      "grammar": true
@@ -9491,11 +9491,11 @@
      "type": "choice",
      "prompt": "Which word has ü?",
      "options": [
-      "Küche",
       "Käse",
-      "Löffel"
+      "Löffel",
+      "Küche"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the dots.",
      "explanation": "Küche."
     },
@@ -9513,11 +9513,11 @@
      "type": "choice",
      "prompt": "Which word has ö?",
      "options": [
-      "Brötchen",
       "Frühstück",
-      "Äpfel"
+      "Äpfel",
+      "Brötchen"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Look at the dots.",
      "explanation": "Brötchen."
     },
@@ -9566,10 +9566,10 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Möchtest du noch einen Kaffee?",
-      "Möchtest du noch ein Kaffee?"
+      "Möchtest du noch ein Kaffee?",
+      "Möchtest du noch einen Kaffee?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Kaffee is masculine.",
      "explanation": "noch einen Kaffee.",
      "grammar": true
@@ -9784,11 +9784,11 @@
       "type": "choice",
       "prompt": "When do Mira and Leon eat together?",
       "options": [
-       "on Sunday",
        "on Saturday",
+       "on Sunday",
        "on Monday"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Mira's first line.",
       "explanation": "Am Sonntag essen wir zusammen."
      },
@@ -9796,10 +9796,10 @@
       "type": "choice",
       "prompt": "What is wrong with Leon's fridge?",
       "options": [
-       "It is empty.",
-       "It is new."
+       "It is new.",
+       "It is empty."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Leon's first line. Check the word list for leer.",
       "explanation": "Der Kühlschrank ist leer."
      },
@@ -9831,11 +9831,11 @@
       "type": "choice",
       "prompt": "What does Mira not eat?",
       "options": [
-       "ham and sausage",
        "tomatoes",
-       "eggs"
+       "eggs",
+       "ham and sausage"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for keinen and keine.",
       "explanation": "Ich esse keinen Schinken, und ich esse keine Wurst."
      },
@@ -9843,11 +9843,11 @@
       "type": "choice",
       "prompt": "What does Mira eat?",
       "options": [
-       "tomatoes and eggs",
        "cheese and ham",
-       "rice"
+       "rice",
+       "tomatoes and eggs"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Read Mira's third line.",
       "explanation": "Ich esse Tomaten und Eier."
      },
@@ -9855,10 +9855,10 @@
       "type": "choice",
       "prompt": "Who has no plate?",
       "options": [
-       "Leon",
-       "Mira"
+       "Mira",
+       "Leon"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for keinen Teller.",
       "explanation": "Leon: Ich habe keinen Teller."
      },
@@ -9866,10 +9866,10 @@
       "type": "choice",
       "prompt": "What does Mira have?",
       "options": [
-       "two plates and a spoon",
-       "a fridge and a fork"
+       "a fridge and a fork",
+       "two plates and a spoon"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Mira's answer to Leon's question.",
       "explanation": "Ich habe zwei Teller und einen Löffel."
      },
@@ -9889,11 +9889,11 @@
       "type": "choice",
       "prompt": "What does Leon buy at the end?",
       "options": [
-       "the juice",
        "the tea",
-       "the coffee"
+       "the coffee",
+       "the juice"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at Leon's last line.",
       "explanation": "Ich kaufe den Saft."
      }
@@ -9907,11 +9907,11 @@
       "type": "choice",
       "prompt": "What does Anna cook?",
       "options": [
-       "soup",
        "salad",
+       "soup",
        "fish"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Anna's first sentence.",
       "explanation": "Ich koche heute Suppe."
      },
@@ -9919,10 +9919,10 @@
       "type": "choice",
       "prompt": "What does Ben say Anna needs?",
       "options": [
-       "potatoes and a tomato",
-       "fish and rice"
+       "fish and rice",
+       "potatoes and a tomato"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Ben's first answer.",
       "explanation": "Du brauchst Kartoffeln und eine Tomate."
      },
@@ -9930,10 +9930,10 @@
       "type": "choice",
       "prompt": "Does Anna have potatoes?",
       "options": [
-       "no",
-       "yes"
+       "yes",
+       "no"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for keine.",
       "explanation": "Ich habe keine Kartoffeln."
      },
@@ -9952,10 +9952,10 @@
       "type": "choice",
       "prompt": "Does Anna eat meat?",
       "options": [
-       "no",
-       "yes"
+       "yes",
+       "no"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for kein.",
       "explanation": "Ich esse kein Fleisch."
      },
@@ -9996,10 +9996,10 @@
       "type": "choice",
       "prompt": "What does Ben say about hunger and thirst?",
       "options": [
-       "He is hungry and thirsty.",
-       "He is not hungry."
+       "He is not hungry.",
+       "He is hungry and thirsty."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Hunger und Durst.",
       "explanation": "Ich habe Hunger und Durst."
      },
@@ -10007,11 +10007,11 @@
       "type": "choice",
       "prompt": "What does Anna drink?",
       "options": [
-       "water",
        "juice",
+       "water",
        "milk"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for trinke.",
       "explanation": "Ich trinke Wasser."
      }
@@ -10174,11 +10174,11 @@
       "type": "choice",
       "prompt": "Who sells the food?",
       "options": [
-       "Herr Ali",
        "Leon",
-       "Ben"
+       "Ben",
+       "Herr Ali"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at the first speaker.",
       "explanation": "Herr Ali asks: Was möchten Sie?"
      },
@@ -10221,10 +10221,10 @@
       "type": "choice",
       "prompt": "What does Herr Ali say about the cheese?",
       "options": [
-       "It is fresh and not spicy.",
-       "It is sweet."
+       "It is sweet.",
+       "It is fresh and not spicy."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read his answer about the cheese.",
       "explanation": "Der Käse ist nicht scharf. Er ist frisch."
      },
@@ -10232,10 +10232,10 @@
       "type": "choice",
       "prompt": "Why does Mira want water?",
       "options": [
-       "She is thirsty.",
-       "She is hungry."
+       "She is hungry.",
+       "She is thirsty."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for Durst.",
       "explanation": "Ich habe Durst."
      },
@@ -10254,10 +10254,10 @@
       "type": "choice",
       "prompt": "Does Mira like cake?",
       "options": [
-       "no",
-       "yes"
+       "yes",
+       "no"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for keinen.",
       "explanation": "Ich mag keinen Kuchen."
      },
@@ -10265,10 +10265,10 @@
       "type": "choice",
       "prompt": "What does Mira prefer to eat?",
       "options": [
-       "cheese",
-       "cake"
+       "cake",
+       "cheese"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for lieber.",
       "explanation": "Ich esse lieber Käse."
      },
@@ -10276,11 +10276,11 @@
       "type": "choice",
       "prompt": "How much does the water cost?",
       "options": [
-       "80 cents",
        "2 euros",
-       "50 cents"
+       "50 cents",
+       "80 cents"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Read Herr Ali's last line.",
       "explanation": "Achtzig Cent."
      }
@@ -10305,11 +10305,11 @@
       "type": "choice",
       "prompt": "How much does the yoghurt cost?",
       "options": [
-       "60 cents",
        "6 euros",
+       "60 cents",
        "3 euros"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Frau Weber's first answer.",
       "explanation": "Sechzig Cent."
      },
@@ -10317,11 +10317,11 @@
       "type": "choice",
       "prompt": "How many yoghurts does Leon buy?",
       "options": [
-       "two",
        "one",
-       "six"
+       "six",
+       "two"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for the number.",
       "explanation": "Ich möchte zwei Joghurt."
      },
@@ -10329,10 +10329,10 @@
       "type": "choice",
       "prompt": "What else does Leon need?",
       "options": [
-       "a packet of rice",
-       "a bottle of water"
+       "a bottle of water",
+       "a packet of rice"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for brauche.",
       "explanation": "Ich brauche eine Packung Reis."
      },
@@ -10340,11 +10340,11 @@
       "type": "choice",
       "prompt": "How much does the rice cost?",
       "options": [
-       "3 euros",
        "2 euros",
+       "3 euros",
        "60 cents"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to her answer about the rice.",
       "explanation": "Die Packung kostet drei Euro."
      },
@@ -10363,10 +10363,10 @@
       "type": "choice",
       "prompt": "What does Frau Weber ask?",
       "options": [
-       "if he likes eggs",
-       "if he has a spoon"
+       "if he has a spoon",
+       "if he likes eggs"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for mögen.",
       "explanation": "Mögen Sie Eier?"
      },
@@ -10374,10 +10374,10 @@
       "type": "choice",
       "prompt": "Does Leon like eggs?",
       "options": [
-       "yes",
-       "no"
+       "no",
+       "yes"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to his answer.",
       "explanation": "Ja, ich mag Eier."
      },
@@ -10385,11 +10385,11 @@
       "type": "choice",
       "prompt": "How many eggs does Leon buy?",
       "options": [
-       "six",
        "two",
+       "six",
        "three"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for the number.",
       "explanation": "Ich möchte sechs Eier."
      },
@@ -10587,11 +10587,11 @@
       "type": "choice",
       "prompt": "What does Mira order to drink?",
       "options": [
-       "coffee",
        "orange juice",
+       "coffee",
        "tea"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Mira's first line.",
       "explanation": "Einen Kaffee."
      },
@@ -10610,10 +10610,10 @@
       "type": "choice",
       "prompt": "What does Ben always eat in the morning?",
       "options": [
-       "muesli",
-       "rolls"
+       "rolls",
+       "muesli"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for immer.",
       "explanation": "Ich esse morgens immer Müsli."
      },
@@ -10621,10 +10621,10 @@
       "type": "choice",
       "prompt": "What does Herr Ali offer Ben?",
       "options": [
-       "an egg",
-       "a cake"
+       "a cake",
+       "an egg"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for Möchten Sie auch …?",
       "explanation": "Möchten Sie auch ein Ei?"
      },
@@ -10632,10 +10632,10 @@
       "type": "choice",
       "prompt": "Why does Ben say no?",
       "options": [
-       "He does not like eggs.",
-       "He is full."
+       "He is full.",
+       "He does not like eggs."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Ben's answer.",
       "explanation": "Ich mag keine Eier."
      },
@@ -10643,10 +10643,10 @@
       "type": "choice",
       "prompt": "What does Ben take instead?",
       "options": [
-       "fruit",
-       "cheese"
+       "cheese",
+       "fruit"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for nehme.",
       "explanation": "Ich nehme Obst."
      },
@@ -10665,10 +10665,10 @@
       "type": "choice",
       "prompt": "Does Mira want another roll?",
       "options": [
-       "no, she is full",
-       "yes, please"
+       "yes, please",
+       "no, she is full"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at the last line.",
       "explanation": "Nein, danke. Ich bin satt."
      }
@@ -10682,11 +10682,11 @@
       "type": "choice",
       "prompt": "What does Anna order to eat?",
       "options": [
-       "soup",
        "salad",
+       "soup",
        "cake"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Anna's first sentence.",
       "explanation": "Eine Suppe."
      },
@@ -10705,10 +10705,10 @@
       "type": "choice",
       "prompt": "What does Leon take to eat?",
       "options": [
-       "a salad and a piece of cake",
-       "a soup and a roll"
+       "a soup and a roll",
+       "a salad and a piece of cake"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Leon's first order.",
       "explanation": "Einen Salat und ein Stück Kuchen."
      },
@@ -10716,11 +10716,11 @@
       "type": "choice",
       "prompt": "What does Leon order to drink?",
       "options": [
-       "cola",
        "juice",
+       "cola",
        "water"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Cola.",
       "explanation": "Eine Cola."
      },
@@ -10750,10 +10750,10 @@
       "type": "choice",
       "prompt": "What is hot?",
       "options": [
-       "the soup",
-       "the cake"
+       "the cake",
+       "the soup"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Leon's second line.",
       "explanation": "Die Suppe ist heiß."
      },
@@ -10772,10 +10772,10 @@
       "type": "choice",
       "prompt": "What does Leon offer Anna?",
       "options": [
-       "a piece of cake",
-       "a salad"
+       "a salad",
+       "a piece of cake"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Leon's last line.",
       "explanation": "Möchtest du ein Stück?"
      },

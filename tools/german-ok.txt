@@ -15,3 +15,11 @@ komm-
 Bank (no plural)
 # unit after a number stays Gramm (200 Gramm)
 Gramm (no plural)
+# plural-only nouns taught with die (Wiktionary has no or a singular entry)
+Geschwister
+Öffnungszeiten
+Hausaufgaben
+# LanguageTool style hint (word repeated), not an error
+Leider
+# date "der erste Mai" (lowercase as an ordinal date is correct)
+erste
