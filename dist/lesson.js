@@ -18,6 +18,16 @@
 
   // ---------- shared question widget ----------
   // opt: {next: label for the next button, redo: true while replaying a finished lesson}
+  // "Report it": flags kept in their own localStorage key (not in progress state); Settings downloads them for the next German check.
+  const REPORTS='german-reports';
+  const readReports=()=>{try{return JSON.parse(localStorage.getItem(REPORTS))||[];}catch{return [];}};
+  const reported=key=>readReports().some(r=>r.key===key);
+  if(typeof document!=='undefined')document.addEventListener('click',e=>{
+    const b=e.target.closest('[data-report]');if(!b||b.disabled)return;
+    const qel=b.closest('.lp-q'), list=readReports();
+    list.push({key:b.dataset.report,prompt:qel?.querySelector('.lp-prompt')?.textContent||'',answer:qel?.querySelector('.lp-fb')?.textContent.replace('⚑ Looks wrong? Report it','').trim()||'',at:new Date().toISOString()});
+    try{localStorage.setItem(REPORTS,JSON.stringify(list));b.textContent='⚑ Reported, thanks';b.disabled=true;}catch{b.textContent='Could not save the report';}
+  });
   function renderQuestion(q,key,state,opt={}){
     const a=K.record(state,key); const st=K.live(state,key); const done=st!=='open'; const tries=a?a.tries:0;
     const practising=!!(state.practice&&state.practice[key]);
@@ -44,7 +54,8 @@
       fb=`<p class="lp-fb-bad">Not quite, try again. <span class="lp-tries">Tries: ${tries}</span></p>`;
       if(tries>=K.HINT_AFTER)fb+=`<div class="lp-hint"><b>Hint</b><p>${esc(q.hint)}</p></div><div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="reveal">Show answer</button></div>`;
     }
-    if(done)fb+=`<div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="retry">Try again</button><button type="button" class="lp-btn lp-next" data-act="next">${esc(opt.next||'Next')} →</button></div>`;
+    if(done)fb+=`<div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="retry">Try again</button><button type="button" class="lp-btn lp-next" data-act="next">${esc(opt.next||'Next')} →</button></div>`+
+      `<button type="button" class="lp-link lp-report" data-report="${esc(key)}"${reported(key)?' disabled':''}>${reported(key)?'⚑ Reported, thanks':'⚑ Looks wrong? Report it'}</button>`;
     const note=practising&&!opt.redo?'<p class="lp-practice">Practice try. Your first answer stays your score.</p>':'';
     return `<div class="lp-q" data-key="${esc(key)}" data-type="${q.type}">${note}<p class="lp-prompt" lang="de">${esc(q.prompt)}</p>${body}<div class="lp-fb" aria-live="polite">${fb}</div></div>`;
   }

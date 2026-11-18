@@ -4,3 +4,4 @@ node_modules/
 .sites-checkout/
 *.tar.gz
 dist/book-scans.js
+tools/.cache/

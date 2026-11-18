@@ -445,6 +445,9 @@
           <p class="lede">Progress is saved in this browser only. Export it now and then to keep a copy.</p>
           <div class="row"><button class="btn" type="button" data-export>Export progress</button>
             <label class="btn" for="imp">Import progress</label><input id="imp" class="sr-only" type="file" accept="application/json,.json"></div></section>
+        <section class="section"><h2>Reported questions</h2>
+          <p class="lede">Questions you marked "Looks wrong". Download the list and give it to the next German check.</p>
+          <div class="row"><button class="btn" type="button" data-reports>Download reports (${(()=>{try{return (JSON.parse(localStorage.getItem('german-reports'))||[]).length;}catch{return 0;}})()})</button></div></section>
         <section class="section card"><h2>Reset progress</h2><p class="lede">This deletes all progress in this browser. Your settings stay. Type <b>RESET</b> to confirm.</p>
           <label class="sr-only" for="rst">Type RESET to confirm</label><input id="rst" class="field" autocomplete="off" spellcheck="false">
           <div class="row" style="margin-top:12px"><button class="btn danger" type="button" data-reset disabled>Reset progress</button></div></section>`;
@@ -462,6 +465,10 @@
           const blob=new Blob([JSON.stringify(state,null,1)],{type:'application/json'});
           const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`german-progress-${CORE.dateKey()}.json`;
           document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);toast('Progress exported.');
+        }else if('reports' in b.dataset){
+          let list='[]';try{list=localStorage.getItem('german-reports')||'[]';}catch{}
+          const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([list],{type:'application/json'}));a.download=`german-reports-${CORE.dateKey()}.json`;
+          document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);toast('Reports downloaded.');
         }else if('reset' in b.dataset){
           if(v.querySelector('#rst').value.trim().toUpperCase()!=='RESET')return;
           const keep=state.settings;state=CORE.defaults(planId);state.settings=keep;lastAnswered=0;save();toast('Progress reset. A fresh start.');go('#/home');

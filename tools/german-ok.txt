@@ -1,0 +1,13 @@
+# Words the German checker may flag but are correct here (names, chosen spellings). One per line.
+Mira
+Leon
+Ben
+Anna
+Weber
+Ali
+Rossi
+Bauer
+# number words are correct but missing from the macOS dictionary
+hundertfünfundzwanzig
+# stem notation used when teaching endings
+komm-
