@@ -1,6 +1,6 @@
 /* Shell styles. Owns the design tokens shared with lesson.css. Cool ink page, warm amber accent, liquid-glass bars, laptop layout (1280-1600px). */
 :root{
-  --bg:#0a0d14; --surface:#10151f; --surface-2:#171d2a; --surface-3:#1f2636; --line:#242c3b; --line-strong:#3a455c;
+  --bg:#000; --surface:#0e0e10; --surface-2:#16161a; --surface-3:#1e1e23; --line:#26262c; --line-strong:#3a3a42;
   --ink:#eef1f6; --sub:#a9b2c3; --muted:#7b859a; --accent:#f2b866; --accent-hover:#f8c97f; --accent-ink:#1b1306; --accent-soft:rgba(242,184,102,.13);
   --ok:#5fd38d; --bad:#ff6b6b; --warn:#ffc857;
   --m:#7fb0ff; --f:#ff8fa3; --n:#7ee0a8; --pl:#ffc857; /* gender: masculine, feminine, neuter, plural */
@@ -9,11 +9,11 @@
   --side:252px; --crumb-h:60px; --max:960px; --tap:48px;
   --ease:cubic-bezier(.23,1,.32,1); --ease-out:var(--ease); --ease-in:cubic-bezier(.55,0,1,.45); --ease-io:cubic-bezier(.77,0,.175,1);
   --dur-instant:100ms; --dur-fast:150ms; --dur-base:200ms; --dur-slow:250ms; --dur-page:400ms; --dur-exit:160ms; --press:.97;
-  --glass-tint:rgba(15,21,33,.64); --glass-edge:rgba(255,255,255,.18); --glass-blur:14px;
+  --glass-tint:rgba(14,14,16,.64); --glass-edge:rgba(255,255,255,.18); --glass-blur:14px;
 }
 *,*::before,*::after{box-sizing:border-box}
 html{color-scheme:dark;scrollbar-color:var(--line-strong) var(--bg)}
-body{margin:0;background:var(--bg) radial-gradient(900px 620px at 88% 30%,rgba(86,120,230,.11),transparent 70%) fixed,radial-gradient(760px 560px at 16% 96%,rgba(242,184,102,.06),transparent 70%) fixed;color:var(--ink);font:400 18px/1.55 var(--font);-webkit-font-smoothing:antialiased;min-height:100vh;min-width:1100px}
+body{margin:0;background:radial-gradient(900px 620px at 88% 30%,rgba(86,120,230,.07),transparent 70%) fixed,radial-gradient(760px 560px at 16% 96%,rgba(242,184,102,.05),transparent 70%) fixed,var(--bg);color:var(--ink);font:400 18px/1.55 var(--font);-webkit-font-smoothing:antialiased;min-height:100vh;min-width:1100px}
 ::selection{background:var(--accent);color:var(--accent-ink)}
 h1,h2,h3{font-family:var(--display);line-height:1.15;margin:0 0 .5em;font-weight:700;letter-spacing:-.02em;text-wrap:balance}
 h1{font-size:2.4rem} h2{font-size:1.4rem} h3{font-size:1.1rem}
@@ -28,7 +28,7 @@ input,textarea{caret-color:var(--accent)}
 .noscript{padding:24px;max-width:var(--max);margin:auto}
 
 /* Sidebar */
-.side{position:fixed;inset:0 auto 0 0;width:var(--side);z-index:30;display:flex;flex-direction:column;gap:28px;padding:24px 16px;border-right:1px solid var(--line);background:linear-gradient(180deg,#0c111b,#080b11)}
+.side{position:fixed;inset:0 auto 0 0;width:var(--side);z-index:30;display:flex;flex-direction:column;gap:28px;padding:24px 16px;border-right:1px solid var(--line);background:linear-gradient(180deg,#0b0b0d,#000)}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;font-family:var(--display);font-weight:700;font-size:1.15rem;line-height:1.1;padding:0 8px}
 .brand small{display:block;font-family:var(--font);font-weight:500;font-size:.78rem;color:var(--sub);letter-spacing:0}
 .brand-mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--accent);color:var(--accent-ink);font-size:1rem;font-weight:800}
@@ -250,7 +250,7 @@ html.lg .crumbs,html.lg .lp-nav{-webkit-backdrop-filter:blur(6px) url(#lg-bar) s
 html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);backdrop-filter:blur(6px) url(#lg-card) saturate(1.5)}
 .lp-top{background:color-mix(in srgb,var(--bg) 88%,transparent);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
 @supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
-  .crumbs,.lp-nav,.toast{background:rgba(15,21,33,.96)}.lp-top{background:var(--bg)}
+  .crumbs,.lp-nav,.toast{background:rgba(14,14,16,.96)}.lp-top{background:var(--bg)}
 }
 @media (prefers-reduced-motion:reduce){
   html.lg .crumbs,html.lg .lp-nav,html.lg .toast{-webkit-backdrop-filter:blur(var(--glass-blur)) saturate(1.5)!important;backdrop-filter:blur(var(--glass-blur)) saturate(1.5)!important}
