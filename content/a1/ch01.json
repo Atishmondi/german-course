@@ -1,0 +1,6828 @@
+{
+ "level": "a1",
+ "chapter": 1,
+ "title": "Guten Tag!",
+ "printedPages": [
+  8,
+  17
+ ],
+ "lessons": [
+  {
+   "id": "a1-c01-01",
+   "level": "a1",
+   "chapter": 1,
+   "n": 1,
+   "title": "Hello! I am Mira: greetings and ich heiße / ich bin",
+   "goal": "Greet people, say goodbye and tell someone your name.",
+   "minutes": 25,
+   "printedPages": [
+    8,
+    9
+   ],
+   "grammar": {
+    "topic": "sein-haben",
+    "point": "To say your name, use one chunk: Ich heiße … or Ich bin …",
+    "oneLine": "Ich heiße Mira. or Ich bin Mira. One verb, never both.",
+    "mistake": {
+     "wrong": "Ich bin heiße Mira.",
+     "right": "Ich heiße Mira.",
+     "why": "Each chunk already has its verb. Use bin or heiße, not both."
+    }
+   },
+   "terms": [
+    {
+     "term": "verb",
+     "meaning": "the word for an action or a state, like come, live or am"
+    },
+    {
+     "term": "ich",
+     "meaning": "I: the word you use for yourself"
+    },
+    {
+     "term": "chunk",
+     "meaning": "a group of words you learn as one piece, like a single word"
+    },
+    {
+     "term": "statement",
+     "meaning": "a sentence that tells something and ends with a full stop"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Hello: pick by the time of day",
+     "body": "Germans often greet by the time of day. Guten Morgen in the morning. Guten Tag during the day. Guten Abend in the evening. Hallo works at any time, but it is casual: use it with friends.",
+     "examples": [
+      {
+       "de": "Guten Morgen, Mira!",
+       "en": "Good morning, Mira!",
+       "why": "It is morning, so Guten Morgen.",
+       "parts": [
+        [
+         "Guten Morgen, Mira!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Abend, Ben!",
+       "en": "Good evening, Ben!",
+       "why": "It is evening, so Guten Abend.",
+       "parts": [
+        [
+         "Guten Abend, Ben!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo, Anna!",
+       "en": "Hi, Anna!",
+       "why": "Anna is a friend. Hallo is casual and fits any time.",
+       "parts": [
+        [
+         "Hallo, Anna!",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "time",
+       "greeting",
+       "English"
+      ],
+      "rows": [
+       [
+        "🌅 morning",
+        "Guten Morgen",
+        "good morning"
+       ],
+       [
+        "☀️ day",
+        "Guten Tag",
+        "hello, good day"
+       ],
+       [
+        "🌙 evening",
+        "Guten Abend",
+        "good evening"
+       ],
+       [
+        "👋 any time, casual",
+        "Hallo",
+        "hi, hello"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Goodbye: a friend or polite?",
+     "body": "To say goodbye, look at the person. Tschüss is casual: for friends and family. Auf Wiedersehen is polite: for a teacher, a doctor or someone you do not know well.",
+     "examples": [
+      {
+       "de": "Tschüss, Ben!",
+       "en": "Bye, Ben!",
+       "why": "Ben is a friend, so the casual word.",
+       "parts": [
+        [
+         "Tschüss, Ben!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Auf Wiedersehen!",
+       "en": "Goodbye!",
+       "why": "Polite: for people you do not know well.",
+       "parts": [
+        [
+         "Auf Wiedersehen!",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Leaving a friend? 👉 Tschüss!",
+      "Leaving a teacher? 👉 Auf Wiedersehen!"
+     ]
+    },
+    {
+     "title": "A verb, and your first chunk: Ich heiße",
+     "body": "A verb is the word for an action or a state, like come, live or am. Every German sentence needs one verb. To say your name, use the chunk Ich heiße + name. It means I am called. Learn it as one piece. Why heiße ends in -e comes in lesson 4.",
+     "examples": [
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira.",
+       "why": "Ich = I. heiße = am called. Then the name.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Ich heiße Leon.",
+       "en": "My name is Leon.",
+       "why": "Same chunk, new name.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Leon.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo! Ich heiße Anna.",
+       "en": "Hi! My name is Anna.",
+       "why": "Greeting first, then the chunk.",
+       "parts": [
+        [
+         "Hallo!",
+         "other"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Ich",
+       "subject"
+      ],
+      [
+       "heiße",
+       "verb"
+      ],
+      [
+       "Mira.",
+       "other"
+      ]
+     ],
+     "more": "Think of a phone contact card. It has a fixed label: Name: Mira. German does the same. Ich heiße is the label, and you just add your name. Do not take it apart yet. Step 1: say Ich heiße. Step 2: add your name. Done. Why the verb ends in -e is a question for lesson 4. For now it is one block, like a Lego brick you click on. English does this too: you say \"How are you?\" without thinking about each word. Extra example: Ich heiße Leon. = I am called Leon."
+    },
+    {
+     "title": "The second chunk: Ich bin",
+     "body": "There is a second way: Ich bin + name. bin means am, so Ich bin Ben is I am Ben. It means the same as Ich heiße Ben. Pick the one you like. Note: ich has a small i unless it starts the sentence.",
+     "examples": [
+      {
+       "de": "Ich bin Ben.",
+       "en": "I am Ben.",
+       "why": "bin = am.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo, ich bin Mira.",
+       "en": "Hi, I'm Mira.",
+       "why": "ich comes after Hallo, so it has a small i.",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag! Ich bin Leon.",
+       "en": "Hello! I am Leon.",
+       "why": "Greeting, then Ich bin + name.",
+       "parts": [
+        [
+         "Guten Tag!",
+         "other"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Leon.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Ich bin …",
+      "Ich bin + your name",
+      "Ich bin Ben."
+     ],
+     "more": "Ich bin is a second brick, just like Ich heiße. Think of two doors into the same room. Door one: Ich heiße Ben. Door two: Ich bin Ben. Both lead to I give my name. Pick the door you find easier to say. bin is the German word for am. So Ich bin Anna is word for word I am Anna, just like English. Extra example: Hallo, ich bin Mira. = Hello, I am Mira. Tip: start with Ich bin. It is shorter."
+    },
+    {
+     "title": "One verb only",
+     "body": "Each chunk already has its verb: heiße or bin. So use one chunk, not both. Ich bin heiße Mira is wrong. It says I am am-called Mira.",
+     "examples": [
+      {
+       "de": "Ich heiße Ben.",
+       "en": "My name is Ben.",
+       "why": "One verb: heiße.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin Ben.",
+       "en": "I am Ben.",
+       "why": "One verb: bin.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "✅ right",
+       "❌ wrong"
+      ],
+      "rows": [
+       [
+        "Ich heiße Mira.",
+        "Ich bin heiße Mira."
+       ],
+       [
+        "Ich bin Mira.",
+        "Ich heiße bin Mira."
+       ]
+      ]
+     },
+     "more": "A sentence is like a car. A car needs one engine. Two engines do not make it faster, they make it break. In German the engine is the verb. Ich heiße already has an engine: heiße. Ich bin has its own: bin. So pick one brick and stop. Ich bin heiße Mira puts two engines in one car. Wrong example in English: I am am called Mira. It sounds odd, right? German feels the same. Right: Ich bin Mira. = I am Mira. Right: Ich heiße Mira. = I am called Mira."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:iB_sassbnOw",
+     "yt:5aNdCmSruYA"
+    ],
+    "nicosWeg": [
+     "nw:a1-01",
+     "nw:a1-03"
+    ],
+    "practice": []
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "It is 8 in the morning. You meet Mira. What do you say?",
+     "options": [
+      "Guten Abend, Mira!",
+      "Guten Morgen, Mira!",
+      "Auf Wiedersehen, Mira!"
+     ],
+     "answer": 1,
+     "hint": "Look at the time column in the greeting table.",
+     "explanation": "Guten Morgen is the morning greeting."
+    },
+    {
+     "type": "choice",
+     "prompt": "You leave your friend Ben. What do you say?",
+     "options": [
+      "Guten Tag, Ben!",
+      "Tschüss, Ben!",
+      "Guten Abend, Ben!"
+     ],
+     "answer": 1,
+     "hint": "You are leaving, and Ben is a friend.",
+     "explanation": "Tschüss is the casual goodbye."
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ Mira. (am called)",
+     "answers": [
+      "heiße",
+      "heisse"
+     ],
+     "hint": "Use the chunk Ich heiße.",
+     "explanation": "Ich heiße Mira. = My name is Mira.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ Ben. (am)",
+     "answers": [
+      "bin"
+     ],
+     "hint": "Use the chunk Ich bin.",
+     "explanation": "Ich bin Ben. = I am Ben.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: My name is Leon.",
+     "tokens": [
+      "Leon.",
+      "Ich",
+      "heiße"
+     ],
+     "answer": [
+      "Ich",
+      "heiße",
+      "Leon."
+     ],
+     "hint": "Ich, then the verb, then the name.",
+     "explanation": "Ich + heiße + name.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Ich bin heiße Anna.",
+      "Ich heiße Anna.",
+      "Ich heiße bin Anna."
+     ],
+     "answer": 1,
+     "hint": "Count the verbs. One is enough.",
+     "explanation": "Ich heiße Anna. has one verb.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Hi, I am Anna.",
+     "tokens": [
+      "Hallo,",
+      "Anna.",
+      "ich",
+      "bin"
+     ],
+     "answer": [
+      "Hallo,",
+      "ich",
+      "bin",
+      "Anna."
+     ],
+     "hint": "Greeting first, then the chunk Ich bin.",
+     "explanation": "Hallo + ich bin + name.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: Good evening! I am Leon. (use bin)",
+    "answers": [
+     "Guten Abend! Ich bin Leon."
+    ],
+    "hint": "Evening greeting first, then the chunk Ich bin + name.",
+    "explanation": "Guten Abend + Ich bin + Leon.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "Which sentence means My name is Ben?",
+     "options": [
+      "Ich Ben.",
+      "Ich heiße Ben.",
+      "Heiße Ben."
+     ],
+     "answer": 1,
+     "hint": "You need ich and the verb heiße.",
+     "explanation": "Ich heiße Ben. has ich, the verb and the name.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ Anna. (am)",
+     "answers": [
+      "bin"
+     ],
+     "hint": "Which chunk means I am?",
+     "explanation": "Ich bin = I am.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: I am called Mira.",
+     "tokens": [
+      "heiße",
+      "Mira.",
+      "Ich"
+     ],
+     "answer": [
+      "Ich",
+      "heiße",
+      "Mira."
+     ],
+     "hint": "Ich first, then heiße, then the name.",
+     "explanation": "Ich + heiße + Mira.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is wrong?",
+     "options": [
+      "Ich bin Leon.",
+      "Ich bin heiße Leon.",
+      "Ich heiße Leon."
+     ],
+     "answer": 1,
+     "hint": "Count the verbs in each sentence.",
+     "explanation": "Two verbs together is wrong. Use bin or heiße.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Ich heiße Mira. Ich bin Mira. What is true?",
+     "options": [
+      "Both are right and say who I am.",
+      "Only Ich heiße Mira. is right.",
+      "Only Ich bin Mira. is right."
+     ],
+     "answer": 0,
+     "hint": "Look at the card about the second chunk.",
+     "explanation": "Both chunks tell your name.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What does ich mean?",
+     "options": [
+      "I",
+      "you",
+      "hello"
+     ],
+     "answer": 0,
+     "hint": "It is the word for yourself.",
+     "explanation": "ich = I.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Hallo! Ich ___ Leon. (am called)",
+     "answers": [
+      "heiße",
+      "heisse"
+     ],
+     "hint": "Use the chunk with heiße.",
+     "explanation": "Ich heiße Leon. = My name is Leon.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "In Ich heiße Mira., which word is the verb?",
+     "options": [
+      "Ich",
+      "heiße",
+      "Mira"
+     ],
+     "answer": 1,
+     "hint": "The verb is the word for the action or state.",
+     "explanation": "heiße (am called) is the verb.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "It is 7 in the evening. Which greeting fits?",
+     "options": [
+      "Guten Morgen!",
+      "Guten Abend!",
+      "Guten Tag!"
+     ],
+     "answer": 1,
+     "hint": "Think about the time of day.",
+     "explanation": "Guten Abend is for the evening."
+    },
+    {
+     "type": "choice",
+     "prompt": "You leave your teacher after class. What do you say?",
+     "options": [
+      "Tschüss!",
+      "Hallo!",
+      "Auf Wiedersehen!"
+     ],
+     "answer": 2,
+     "hint": "You are leaving, and you want to be polite.",
+     "explanation": "Auf Wiedersehen is the polite goodbye."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which greeting fits any time of day, with friends?",
+     "options": [
+      "Hallo",
+      "Guten Morgen",
+      "Guten Abend"
+     ],
+     "answer": 0,
+     "hint": "Morgen and Abend name a time of day.",
+     "explanation": "Hallo is casual and fits any time."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Hallo",
+     "en": "hi, hello (casual)",
+     "examples": [
+      {
+       "de": "Hallo, Mira!",
+       "en": "Hi, Mira!"
+      },
+      {
+       "de": "Hallo! Ich bin Ben.",
+       "en": "Hi! I am Ben."
+      }
+     ]
+    },
+    {
+     "de": "Guten Morgen",
+     "en": "good morning",
+     "examples": [
+      {
+       "de": "Guten Morgen, Anna!",
+       "en": "Good morning, Anna!"
+      },
+      {
+       "de": "Guten Morgen! Ich heiße Leon.",
+       "en": "Good morning! My name is Leon."
+      }
+     ]
+    },
+    {
+     "de": "Guten Tag",
+     "en": "hello, good day (daytime)",
+     "examples": [
+      {
+       "de": "Guten Tag!",
+       "en": "Hello!"
+      },
+      {
+       "de": "Guten Tag! Ich bin Mira.",
+       "en": "Hello! I am Mira."
+      }
+     ]
+    },
+    {
+     "de": "Guten Abend",
+     "en": "good evening",
+     "examples": [
+      {
+       "de": "Guten Abend, Ben!",
+       "en": "Good evening, Ben!"
+      },
+      {
+       "de": "Guten Abend! Ich heiße Anna.",
+       "en": "Good evening! My name is Anna."
+      }
+     ]
+    },
+    {
+     "de": "Tschüss",
+     "en": "bye (casual)",
+     "examples": [
+      {
+       "de": "Tschüss, Leon!",
+       "en": "Bye, Leon!"
+      },
+      {
+       "de": "Tschüss, Mira!",
+       "en": "Bye, Mira!"
+      }
+     ]
+    },
+    {
+     "de": "Auf Wiedersehen",
+     "en": "goodbye (polite)",
+     "examples": [
+      {
+       "de": "Auf Wiedersehen!",
+       "en": "Goodbye!"
+      },
+      {
+       "de": "Auf Wiedersehen, Ben!",
+       "en": "Goodbye, Ben!"
+      }
+     ]
+    },
+    {
+     "de": "ich",
+     "en": "I",
+     "examples": [
+      {
+       "de": "Ich bin Anna.",
+       "en": "I am Anna."
+      },
+      {
+       "de": "Hallo, ich heiße Ben.",
+       "en": "Hi, my name is Ben."
+      }
+     ]
+    },
+    {
+     "de": "heißen",
+     "forms": "ich heiße (more forms in lessons 2 and 4)",
+     "en": "to be called",
+     "examples": [
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira."
+      },
+      {
+       "de": "Ich heiße Leon.",
+       "en": "My name is Leon."
+      }
+     ]
+    },
+    {
+     "de": "sein",
+     "forms": "ich bin (more forms in lesson 5)",
+     "en": "to be",
+     "examples": [
+      {
+       "de": "Ich bin Ben.",
+       "en": "I am Ben."
+      },
+      {
+       "de": "Ich bin Anna.",
+       "en": "I am Anna."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say a morning greeting, then your name with Ich heiße.",
+     "Say hi to a friend, then your name with Ich bin.",
+     "Say goodbye to a friend, then to a teacher."
+    ],
+    "examples": [
+     "Guten Morgen! Ich heiße Mira.",
+     "Hallo! Ich bin Ben.",
+     "Tschüss! … Auf Wiedersehen!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: Good morning!",
+     "answers": [
+      "Guten Morgen!"
+     ],
+     "hint": "It is the morning greeting.",
+     "explanation": "Guten Morgen = good morning."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Bye! (to a friend)",
+     "answers": [
+      "Tschüss!",
+      "Tschüs!"
+     ],
+     "hint": "The casual goodbye.",
+     "explanation": "Tschüss is the casual goodbye."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: My name is Anna. (use heiße)",
+     "answers": [
+      "Ich heiße Anna.",
+      "Ich heisse Anna."
+     ],
+     "hint": "Use the chunk Ich heiße.",
+     "explanation": "Ich + heiße + Anna."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Goodbye! (polite)",
+     "answers": [
+      "Auf Wiedersehen!"
+     ],
+     "hint": "The polite goodbye has two words.",
+     "explanation": "Auf Wiedersehen is the polite goodbye."
+    }
+   ]
+  },
+  {
+   "id": "a1-c01-02",
+   "level": "a1",
+   "chapter": 1,
+   "n": 2,
+   "title": "du or Sie? Asking someone's name",
+   "goal": "Choose du or Sie and ask for a name in a friendly or a polite way.",
+   "minutes": 25,
+   "printedPages": [
+    9,
+    10
+   ],
+   "grammar": {
+    "topic": "w-questions",
+    "point": "Use du with friends and Sie with strangers; each has its own verb form: Wie heißt du? / Wie heißen Sie?",
+    "oneLine": "Friend: Wie heißt du? Polite: Wie heißen Sie?",
+    "mistake": {
+     "wrong": "Wie heißt Sie?",
+     "right": "Wie heißen Sie?",
+     "why": "With Sie the verb form is heißen. heißt goes with du."
+    }
+   },
+   "terms": [
+    {
+     "term": "pronoun",
+     "meaning": "a short word that stands for a person, such as ich, du or Sie"
+    },
+    {
+     "term": "informal",
+     "meaning": "friendly and relaxed: how you talk to friends and family"
+    },
+    {
+     "term": "formal",
+     "meaning": "polite: how you talk to strangers, at work and in offices"
+    },
+    {
+     "term": "question word",
+     "meaning": "a word that starts a question, such as wie (how)"
+    },
+    {
+     "term": "W-question",
+     "meaning": "a question that starts with a question word; most of them start with W"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Pronouns: little words for people",
+     "body": "A pronoun is a short word that stands for a person. ich = I. German has two words for you: du for a friend, Sie for polite talk. You always have to pick one.",
+     "examples": [
+      {
+       "de": "Ich bin Mira.",
+       "en": "I am Mira.",
+       "why": "ich: the person speaking.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Und du?",
+       "en": "And you?",
+       "why": "du: Mira is talking to a friend.",
+       "parts": [
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Und Sie?",
+       "en": "And you?",
+       "why": "Sie: the polite you.",
+       "parts": [
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "pronoun",
+       "means",
+       "use it for"
+      ],
+      "rows": [
+       [
+        "ich",
+        "I",
+        "yourself"
+       ],
+       [
+        "du",
+        "you (friendly)",
+        "friends, family, children, other students"
+       ],
+       [
+        "Sie",
+        "you (polite)",
+        "strangers, a teacher, people at work"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "du or Sie? Look at the person",
+     "body": "Use du (informal) with friends, family and children. Use Sie (formal) with adults you do not know, at work or in an office. Sie always has a big S. With Sie, people say Herr (Mr) or Frau (Ms) + family name.",
+     "examples": [
+      {
+       "de": "Hallo, Leon!",
+       "en": "Hi, Leon!",
+       "why": "A friend: first name, casual greeting.",
+       "parts": [
+        [
+         "Hallo, Leon!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag, Frau Weber!",
+       "en": "Hello, Ms Weber!",
+       "why": "Polite: Frau + family name.",
+       "parts": [
+        [
+         "Guten Tag, Frau Weber!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag, Herr Ali!",
+       "en": "Hello, Mr Ali!",
+       "why": "Polite: Herr + family name.",
+       "parts": [
+        [
+         "Guten Tag, Herr Ali!",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "A friend? 👉 du",
+      "A stranger, or at work? 👉 Sie",
+      "Sie + Herr / Frau + family name: Frau Weber, Herr Ali"
+     ],
+     "more": "Imagine two outfits. Jeans for friends, a suit for an office. du is the jeans word. Sie is the suit word. Step 1: look at the person. Step 2: friend, family or child? Say du. Step 3: stranger, teacher or boss? Say Sie. If you are unsure, pick Sie. Being too polite is safe. Being too casual can be rude. Sie always has a big S, so you can tell it from other words. Example: Guten Tag, Frau Weber! Wie heißen Sie? = Good day, Ms Weber! What is your name?"
+    },
+    {
+     "title": "Ask a friend: Wie heißt du?",
+     "body": "wie means how. A question that starts with a question word is a W-question. Germans ask: How are you called? Learn Wie heißt du? as a chunk. Answer with Ich heiße … from lesson 1. Und du? asks the same question back.",
+     "examples": [
+      {
+       "de": "Wie heißt du?",
+       "en": "What's your name?",
+       "why": "Friendly: du.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißt",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Ich heiße Ben. Und du?",
+       "en": "I'm Ben. And you?",
+       "why": "Answer, then ask back with Und du?",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ],
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo! Wie heißt du?",
+       "en": "Hi! What's your name?",
+       "why": "Casual greeting, then the du question.",
+       "parts": [
+        [
+         "Hallo!",
+         "other"
+        ],
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißt",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Wie",
+       "other"
+      ],
+      [
+       "heißt",
+       "verb"
+      ],
+      [
+       "du?",
+       "subject"
+      ]
+     ]
+    },
+    {
+     "title": "Ask politely: Wie heißen Sie?",
+     "body": "With Sie the verb changes: heißen, not heißt. The verb form must fit the pronoun. For now, learn the three forms as chunks. Lesson 4 shows the rule behind them.",
+     "examples": [
+      {
+       "de": "Wie heißen Sie?",
+       "en": "What is your name?",
+       "why": "Polite: Sie goes with heißen.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag! Wie heißen Sie?",
+       "en": "Hello! What is your name?",
+       "why": "Polite greeting, then the Sie question.",
+       "parts": [
+        [
+         "Guten Tag!",
+         "other"
+        ],
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin Mira Bauer.",
+       "en": "I am Mira Bauer.",
+       "why": "The answer uses a chunk from lesson 1, with first name + family name.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira Bauer.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "pronoun",
+       "form of heißen",
+       "example"
+      ],
+      "rows": [
+       [
+        "ich",
+        "heiße",
+        "Ich heiße Mira."
+       ],
+       [
+        "du",
+        "heißt",
+        "Wie heißt du?"
+       ],
+       [
+        "Sie",
+        "heißen",
+        "Wie heißen Sie?"
+       ]
+      ]
+     },
+     "more": "Think of a name tag that changes shape for each person. With friends the tag says heißt. With Sie the tag says heißen. You do not build them yet. You just match them like keys to locks. du fits heißt. Sie fits heißen. Step 1: choose du or Sie. Step 2: take the matching verb. Lesson 4 shows the pattern, so for now, copy it. Extra example: Wie heißen Sie? = What is your name? (polite). Wie heißt du? = What is your name? (friend)."
+    },
+    {
+     "title": "The verb comes right after wie",
+     "body": "Look at the order in a W-question: question word first, verb second, person third. Wie heißt du? is right. Wie du heißt? is wrong.",
+     "examples": [
+      {
+       "de": "Wie heißt du?",
+       "en": "What's your name?",
+       "why": "wie, then the verb, then du.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißt",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wie heißen Sie?",
+       "en": "What is your name?",
+       "why": "wie, then the verb, then Sie.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wie du heißt? ❌",
+       "en": "(wrong order)",
+       "why": "The verb must come right after wie.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "heißt? ❌",
+         "verb"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Wie",
+       "other"
+      ],
+      [
+       "heißen",
+       "verb"
+      ],
+      [
+       "Sie?",
+       "subject"
+      ]
+     ],
+     "more": "Picture a train with cars in a fixed order. Car 1: the question word. Car 2: the verb. Car 3: the person. German never swaps the cars. Wie heißt du? has wie first, heißt second, du third. Wie du heißt? puts du in the verb's seat. The train will not leave. English is different: you can say You are called what? as a joke, but a real question flips the order. Extra example: Wie heißen Sie? = Wie, then heißen, then Sie. Easy."
+    },
+    {
+     "title": "How are you? Wie geht's?",
+     "body": "Wie geht's? means How are you? It is casual, so use it with du people. A good answer is Gut, danke! (Good, thanks!). Learn both as chunks. und means and.",
+     "examples": [
+      {
+       "de": "Hallo, Mira! Wie geht's?",
+       "en": "Hi, Mira! How are you?",
+       "why": "A casual question for a friend.",
+       "parts": [
+        [
+         "Hallo, Mira!",
+         "other"
+        ],
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "geht's?",
+         "verb"
+        ]
+       ]
+      },
+      {
+       "de": "Gut, danke!",
+       "en": "Good, thanks!",
+       "why": "A short, happy answer.",
+       "parts": [
+        [
+         "Gut,",
+         "adjective"
+        ],
+        [
+         "danke!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin Ben, und du?",
+       "en": "I'm Ben, and you?",
+       "why": "und = and.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Ben,",
+         "other"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Wie geht's?",
+      "👉 Gut, danke!"
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:cCEnhEDLmIk",
+     "yt:a0E2SkAAX6o"
+    ],
+    "nicosWeg": [
+     "nw:a1-01",
+     "nw:a1-05"
+    ],
+    "practice": [
+     "link:lingolia-pronouns"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "You talk to your friend Ben. Which word for you?",
+     "options": [
+      "du",
+      "Sie"
+     ],
+     "answer": 0,
+     "hint": "Friends get the friendly word.",
+     "explanation": "With a friend, use du.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "You talk to a new doctor. du or Sie?",
+     "options": [
+      "du",
+      "Sie"
+     ],
+     "answer": 1,
+     "hint": "An adult you do not know gets the polite word.",
+     "explanation": "With strangers, use Sie.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wie ___ du? (heißen)",
+     "answers": [
+      "heißt",
+      "heisst"
+     ],
+     "hint": "Look at the du line in the heißen table.",
+     "explanation": "du goes with heißt.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wie ___ Sie? (heißen)",
+     "answers": [
+      "heißen",
+      "heissen"
+     ],
+     "hint": "Look at the Sie line in the heißen table.",
+     "explanation": "Sie goes with heißen.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: What's your name? (to a friend)",
+     "tokens": [
+      "heißt",
+      "Wie",
+      "du?"
+     ],
+     "answer": [
+      "Wie",
+      "heißt",
+      "du?"
+     ],
+     "hint": "Question word, then verb, then person.",
+     "explanation": "Wie + heißt + du.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question is right?",
+     "options": [
+      "Wie du heißt?",
+      "Wie heißt du?",
+      "Heißt wie du?"
+     ],
+     "answer": 1,
+     "hint": "The verb comes right after wie.",
+     "explanation": "Wie heißt du? has wie, then the verb, then du.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira asks: Wie geht's? What can Ben say?",
+     "options": [
+      "Gut, danke!",
+      "Guten Abend!",
+      "Tschüss!"
+     ],
+     "answer": 0,
+     "hint": "Wie geht's? asks how you are.",
+     "explanation": "Gut, danke! = Good, thanks!"
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: Hello! What is your name? (polite, daytime)",
+    "answers": [
+     "Guten Tag! Wie heißen Sie?",
+     "Guten Tag! Wie heissen Sie?"
+    ],
+    "hint": "Daytime greeting, then wie, the Sie form of heißen, and Sie.",
+    "explanation": "Guten Tag + Wie heißen Sie?",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "You meet Herr Ali. Which question do you ask?",
+     "options": [
+      "Wie heißt du?",
+      "Wie heißen Sie?"
+     ],
+     "answer": 1,
+     "hint": "Herr Ali is a polite situation.",
+     "explanation": "Polite: Wie heißen Sie?",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Hallo, Leon! Wie ___ du? (heißen)",
+     "answers": [
+      "heißt",
+      "heisst"
+     ],
+     "hint": "Which form of heißen goes with du?",
+     "explanation": "du heißt.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Wie heißt Sie? What is wrong?",
+     "options": [
+      "Sie needs heißen.",
+      "wie must come last.",
+      "Nothing is wrong."
+     ],
+     "answer": 0,
+     "hint": "Look at the Sie line in the heißen table.",
+     "explanation": "With Sie, use heißen.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: What is your name? (polite)",
+     "tokens": [
+      "Sie?",
+      "Wie",
+      "heißen"
+     ],
+     "answer": [
+      "Wie",
+      "heißen",
+      "Sie?"
+     ],
+     "hint": "wie, then the verb, then Sie.",
+     "explanation": "Wie + heißen + Sie.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Who do you talk to with du?",
+     "options": [
+      "your friend Anna",
+      "Frau Weber, your teacher"
+     ],
+     "answer": 0,
+     "hint": "du is for friends.",
+     "explanation": "Anna is a friend, so du.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What does Sie with a big S mean?",
+     "options": [
+      "you (polite)",
+      "I",
+      "you (to a friend)"
+     ],
+     "answer": 0,
+     "hint": "German has two words for you.",
+     "explanation": "Sie is the polite you.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Guten Tag, Frau Weber! Wie ___ Sie? (heißen)",
+     "answers": [
+      "heißen",
+      "heissen"
+     ],
+     "hint": "Which form of heißen goes with Sie?",
+     "explanation": "Sie heißen.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Ben says: Ich heiße Ben. Und du? What does Und du? mean?",
+     "options": [
+      "And you?",
+      "How are you?",
+      "Goodbye!"
+     ],
+     "answer": 0,
+     "hint": "und means and.",
+     "explanation": "Und du? = And you?"
+    },
+    {
+     "type": "choice",
+     "prompt": "What does Wie geht's? mean?",
+     "options": [
+      "How are you?",
+      "What is your name?",
+      "Good morning!"
+     ],
+     "answer": 0,
+     "hint": "It is the casual chunk from the last card.",
+     "explanation": "Wie geht's? = How are you?"
+    },
+    {
+     "type": "choice",
+     "prompt": "You meet Herr Ali for the first time, at 11 in the morning. How do you greet him?",
+     "options": [
+      "Hallo, Ali!",
+      "Guten Tag, Herr Ali!"
+     ],
+     "answer": 1,
+     "hint": "Polite: Herr + family name.",
+     "explanation": "Guten Tag, Herr Ali! is polite."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means thanks?",
+     "options": [
+      "danke",
+      "gut",
+      "und"
+     ],
+     "answer": 0,
+     "hint": "You say it after Gut.",
+     "explanation": "danke = thanks."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "du",
+     "en": "you (to a friend)",
+     "examples": [
+      {
+       "de": "Wie heißt du?",
+       "en": "What's your name?"
+      },
+      {
+       "de": "Und du?",
+       "en": "And you?"
+      }
+     ]
+    },
+    {
+     "de": "Sie",
+     "en": "you (polite)",
+     "examples": [
+      {
+       "de": "Wie heißen Sie?",
+       "en": "What is your name?"
+      },
+      {
+       "de": "Und Sie?",
+       "en": "And you?"
+      }
+     ]
+    },
+    {
+     "de": "wie",
+     "en": "how",
+     "examples": [
+      {
+       "de": "Wie heißt du?",
+       "en": "What's your name?"
+      },
+      {
+       "de": "Wie geht's?",
+       "en": "How are you?"
+      }
+     ]
+    },
+    {
+     "de": "Herr",
+     "article": "der",
+     "plural": "die Herren",
+     "en": "Mr; gentleman",
+     "examples": [
+      {
+       "de": "Guten Tag, Herr Ali!",
+       "en": "Hello, Mr Ali!"
+      },
+      {
+       "de": "Auf Wiedersehen, Herr Ali!",
+       "en": "Goodbye, Mr Ali!"
+      }
+     ]
+    },
+    {
+     "de": "Frau",
+     "article": "die",
+     "plural": "die Frauen",
+     "en": "Ms, Mrs; woman",
+     "examples": [
+      {
+       "de": "Guten Tag, Frau Weber!",
+       "en": "Hello, Ms Weber!"
+      },
+      {
+       "de": "Auf Wiedersehen, Frau Weber!",
+       "en": "Goodbye, Ms Weber!"
+      }
+     ]
+    },
+    {
+     "de": "Wie geht's?",
+     "en": "How are you? (casual)",
+     "examples": [
+      {
+       "de": "Hallo, Ben! Wie geht's?",
+       "en": "Hi, Ben! How are you?"
+      },
+      {
+       "de": "Wie geht's, Mira?",
+       "en": "How are you, Mira?"
+      }
+     ]
+    },
+    {
+     "de": "gut",
+     "en": "good, well",
+     "examples": [
+      {
+       "de": "Gut, danke!",
+       "en": "Good, thanks!"
+      },
+      {
+       "de": "Gut!",
+       "en": "Good!"
+      }
+     ]
+    },
+    {
+     "de": "danke",
+     "en": "thanks",
+     "examples": [
+      {
+       "de": "Gut, danke!",
+       "en": "Good, thanks!"
+      },
+      {
+       "de": "Danke, Anna!",
+       "en": "Thanks, Anna!"
+      }
+     ]
+    },
+    {
+     "de": "und",
+     "en": "and",
+     "examples": [
+      {
+       "de": "Ich bin Ben, und du?",
+       "en": "I'm Ben, and you?"
+      },
+      {
+       "de": "Mira und Ben",
+       "en": "Mira and Ben"
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Ask a friend for their name.",
+     "Ask Frau Weber for her name, politely.",
+     "Ask a friend how they are, then answer the question yourself."
+    ],
+    "examples": [
+     "Hallo! Wie heißt du?",
+     "Guten Tag! Wie heißen Sie?",
+     "Wie geht's? … Gut, danke!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: What's your name? (to a friend)",
+     "answers": [
+      "Wie heißt du?",
+      "Wie heisst du?"
+     ],
+     "hint": "wie, the du form of heißen, then du.",
+     "explanation": "Wie heißt du?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: What is your name? (to Herr Ali)",
+     "answers": [
+      "Wie heißen Sie?",
+      "Wie heissen Sie?"
+     ],
+     "hint": "Herr Ali gets the polite form.",
+     "explanation": "Wie heißen Sie?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: How are you? (casual)",
+     "answers": [
+      "Wie geht's?",
+      "Wie gehts?",
+      "Wie geht es dir?"
+     ],
+     "hint": "Use the casual chunk with geht's.",
+     "explanation": "Wie geht's? = How are you?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Good, thanks!",
+     "answers": [
+      "Gut, danke!"
+     ],
+     "hint": "Two short words.",
+     "explanation": "Gut, danke!"
+    }
+   ]
+  },
+  {
+   "id": "a1-c01-03",
+   "level": "a1",
+   "chapter": 1,
+   "n": 3,
+   "title": "Where from, where you live: the verb in second place",
+   "goal": "Ask and say where you come from and where you live, with the verb in the right place.",
+   "minutes": 25,
+   "printedPages": [
+    10,
+    11
+   ],
+   "grammar": {
+    "topic": "word-order-v2",
+    "point": "The verb is always the second part: in statements and in W-questions",
+    "oneLine": "Ich komme aus Wien. Woher kommst du? The verb is part 2.",
+    "mistake": {
+     "wrong": "Woher du kommst?",
+     "right": "Woher kommst du?",
+     "why": "In a W-question the verb comes right after the question word."
+    }
+   },
+   "terms": [
+    {
+     "term": "subject",
+     "meaning": "the part that says who the sentence is about: ich, du, Sie, Ben"
+    },
+    {
+     "term": "position",
+     "meaning": "the place of a part in the sentence: first, second, third"
+    },
+    {
+     "term": "statement",
+     "meaning": "a sentence that tells something and ends with a full stop"
+    },
+    {
+     "term": "question word",
+     "meaning": "the word that opens a W-question: woher (where from), wo (where), wie (how)"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Count parts, not words",
+     "body": "A sentence is made of parts. A part is one word or a few words that belong together. Mira Bauer is one part. The subject is the part that says who: ich, du, Sie, Ben.",
+     "examples": [
+      {
+       "de": "Ich bin Mira Bauer.",
+       "en": "I am Mira Bauer.",
+       "why": "3 parts: Ich | bin | Mira Bauer.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira Bauer.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Wie heißen Sie?",
+       "en": "What is your name?",
+       "why": "3 parts: Wie | heißen | Sie.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira.",
+       "why": "The subject is Ich.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "part 1",
+       "part 2",
+       "part 3"
+      ],
+      "rows": [
+       [
+        "Ich",
+        "bin",
+        "Mira Bauer."
+       ],
+       [
+        "Ich",
+        "heiße",
+        "Mira."
+       ],
+       [
+        "Wie",
+        "heißen",
+        "Sie?"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Where you come from: Ich komme aus …",
+     "body": "kommen means to come. Ich komme aus + a country or a city = I come from. aus means from, and aus + the place is one part. Learn Ich komme aus as a chunk.",
+     "examples": [
+      {
+       "de": "Ich komme aus Spanien.",
+       "en": "I come from Spain.",
+       "why": "aus + a country.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus Spanien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich komme aus Wien.",
+       "en": "I'm from Vienna.",
+       "why": "aus + a city works too.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich komme aus Deutschland.",
+       "en": "I come from Germany.",
+       "why": "Same chunk, new country.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus Deutschland.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Ich",
+       "subject"
+      ],
+      [
+       "komme",
+       "verb"
+      ],
+      [
+       "aus Spanien.",
+       "other"
+      ]
+     ]
+    },
+    {
+     "title": "Where you live: Ich wohne in …",
+     "body": "wohnen means to live, in a place. Ich wohne in + a city or a country = I live in. Learn Ich wohne in as a chunk.",
+     "examples": [
+      {
+       "de": "Ich wohne in Berlin.",
+       "en": "I live in Berlin.",
+       "why": "in + a city.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in Berlin.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich wohne in Hamburg.",
+       "en": "I live in Hamburg.",
+       "why": "Same chunk, new city.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in Hamburg.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich wohne in Österreich.",
+       "en": "I live in Austria.",
+       "why": "in + a country.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in Österreich.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Ich wohne …",
+      "Ich wohne in …",
+      "Ich wohne in Berlin."
+     ]
+    },
+    {
+     "title": "The big rule: the verb is part 2",
+     "body": "A statement is a sentence that tells something. It ends with a full stop. Position means the place of a part: first, second, third. In a German statement the verb is always in position 2.",
+     "examples": [
+      {
+       "de": "Ich komme aus Italien.",
+       "en": "I come from Italy.",
+       "why": "komme is part 2.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus Italien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich wohne in Hamburg.",
+       "en": "I live in Hamburg.",
+       "why": "wohne is part 2.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in Hamburg.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich heiße Ben.",
+       "en": "My name is Ben.",
+       "why": "heiße is part 2.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "1",
+       "2 = verb",
+       "3"
+      ],
+      "rows": [
+       [
+        "Ich",
+        "komme",
+        "aus Italien."
+       ],
+       [
+        "Ich",
+        "wohne",
+        "in Hamburg."
+       ],
+       [
+        "Ich",
+        "heiße",
+        "Ben."
+       ]
+      ]
+     },
+     "more": "Imagine seats on a bus with numbered seats. Seat 2 belongs to the verb. Always. Who sits in seat 1 can change, but the verb stays in seat 2. Step 1: count the parts. Step 2: put the verb in seat 2. Ich wohne in Berlin: Ich is seat 1, wohne is seat 2, in Berlin is seat 3 (it counts as one part). Now put In Berlin in seat 1: In Berlin wohne ich. The verb still sits in seat 2. English moves the verb around freely. German keeps it fixed. Extra example: Aus Wien komme ich. = From Vienna I come (I come from Vienna).",
+     "parts": [
+      [
+       "Ich",
+       "subject"
+      ],
+      [
+       "komme",
+       "verb"
+      ],
+      [
+       "aus Italien.",
+       "place"
+      ]
+     ]
+    },
+    {
+     "title": "Question words: woher and wo",
+     "body": "woher means where from. wo means where. Answer woher with aus. Answer wo with in.",
+     "examples": [
+      {
+       "de": "Woher? – Aus Spanien.",
+       "en": "Where from? – From Spain.",
+       "why": "woher gets an answer with aus.",
+       "parts": [
+        [
+         "Woher?",
+         "question"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Aus Spanien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Wo? – In Berlin.",
+       "en": "Where? – In Berlin.",
+       "why": "wo gets an answer with in.",
+       "parts": [
+        [
+         "Wo?",
+         "question"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "In Berlin.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "question word",
+       "means",
+       "answer with"
+      ],
+      "rows": [
+       [
+        "woher?",
+        "where from?",
+        "aus … (Aus Wien.)"
+       ],
+       [
+        "wo?",
+        "where?",
+        "in … (In Berlin.)"
+       ],
+       [
+        "wie?",
+        "how?",
+        "Wie heißt du? → Ich heiße … (lesson 2)"
+       ]
+      ]
+     },
+     "parts": [
+      [
+       "Woher",
+       "question"
+      ],
+      [
+       "kommst",
+       "verb"
+      ],
+      [
+       "du?",
+       "subject"
+      ]
+     ]
+    },
+    {
+     "title": "W-questions: the verb is part 2 too",
+     "body": "In a W-question the question word is part 1. The verb is part 2. The person comes after the verb. Woher kommst du? is right. Woher du kommst? is wrong.",
+     "examples": [
+      {
+       "de": "Woher kommst du?",
+       "en": "Where are you from?",
+       "why": "woher | kommst | du.",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wo wohnen Sie?",
+       "en": "Where do you live?",
+       "why": "wo | wohnen | Sie.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohnen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Woher du kommst? ❌",
+       "en": "(wrong order)",
+       "why": "The verb must come right after woher.",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "kommst? ❌",
+         "verb"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Woher",
+       "other"
+      ],
+      [
+       "kommst",
+       "verb"
+      ],
+      [
+       "du?",
+       "subject"
+      ]
+     ],
+     "more": "Same bus, same seats. In a W-question the question word takes seat 1. The verb stays in seat 2. The person gets seat 3. Woher kommst du? has woher first, kommst second, du third. The verb never moves out of seat 2. Wrong: Woher du kommst? Here du sits in seat 2. The verb loses its seat. Extra example: Wo wohnen Sie? = Where do you live? (polite). Step: question word, verb, person. Say it three times out loud."
+    },
+    {
+     "title": "Forms for du and Sie",
+     "body": "Like heißen, these verbs change with the person. Learn these forms as chunks for now. Lesson 4 shows the pattern behind them.",
+     "examples": [
+      {
+       "de": "Woher kommen Sie?",
+       "en": "Where are you from?",
+       "why": "Polite: Sie + kommen.",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wo wohnst du?",
+       "en": "Where do you live?",
+       "why": "Friendly: du + wohnst.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohnst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Woher kommst du?",
+       "en": "Where are you from?",
+       "why": "Friendly: du + kommst.",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "",
+       "kommen",
+       "wohnen"
+      ],
+      "rows": [
+       [
+        "ich",
+        "komme",
+        "wohne"
+       ],
+       [
+        "du",
+        "kommst",
+        "wohnst"
+       ],
+       [
+        "Sie",
+        "kommen",
+        "wohnen"
+       ]
+      ]
+     },
+     "more": "Think of verbs as clothes that change for each person. Today you only copy them, like copying a phone number. du gets one ending, Sie gets another. Do not worry about why. Lesson 4 explains the pattern. Copy now: du kommst, Sie kommen. du wohnst, Sie wohnen. Extra example: Woher kommen Sie? = Where do you come from? (polite). Wo wohnst du? = Where do you live? (friend). Match: du with -st, Sie with -en."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:W7ntnruGJ9k",
+     "yt:RI4lOt4riXs",
+     "yt:-WHUtw33SQU"
+    ],
+    "nicosWeg": [
+     "nw:a1-07"
+    ],
+    "practice": [
+     "link:lingolia-sentence-structure"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which word is the verb in Ich wohne in Berlin.?",
+     "options": [
+      "Ich",
+      "wohne",
+      "Berlin"
+     ],
+     "answer": 1,
+     "hint": "The verb is in position 2.",
+     "explanation": "wohne is the verb, in position 2.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: I come from Italy.",
+     "tokens": [
+      "komme",
+      "Italien.",
+      "Ich",
+      "aus"
+     ],
+     "answer": [
+      "Ich",
+      "komme",
+      "aus",
+      "Italien."
+     ],
+     "hint": "Ich, then the verb, then aus + the country.",
+     "explanation": "Ich + komme + aus Italien.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "___ wohnst du? – In Hamburg.",
+     "options": [
+      "Woher",
+      "Wo"
+     ],
+     "answer": 1,
+     "hint": "The answer starts with in.",
+     "explanation": "wo is answered with in.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Woher ___ du? (kommen)",
+     "answers": [
+      "kommst"
+     ],
+     "hint": "Look at the du line in the kommen table.",
+     "explanation": "du kommst.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Where do you live? (polite)",
+     "tokens": [
+      "wohnen",
+      "Sie?",
+      "Wo"
+     ],
+     "answer": [
+      "Wo",
+      "wohnen",
+      "Sie?"
+     ],
+     "hint": "Question word, then verb, then person.",
+     "explanation": "Wo + wohnen + Sie.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question is right?",
+     "options": [
+      "Woher du kommst?",
+      "Woher kommst du?",
+      "Kommst woher du?"
+     ],
+     "answer": 1,
+     "hint": "The verb comes right after the question word.",
+     "explanation": "Woher kommst du? has the verb in position 2.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ in Wien. (wohnen)",
+     "answers": [
+      "wohne"
+     ],
+     "hint": "Use the chunk Ich wohne in.",
+     "explanation": "Ich wohne in Wien.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: I come from Austria, and I live in Berlin.",
+    "answers": [
+     "Ich komme aus Österreich, und ich wohne in Berlin.",
+     "Ich komme aus Österreich und wohne in Berlin.",
+     "Ich komme aus Oesterreich, und ich wohne in Berlin.",
+     "Ich komme aus Oesterreich und wohne in Berlin."
+    ],
+    "hint": "Two chunks: Ich komme aus … and Ich wohne in …, joined with und.",
+    "explanation": "Ich komme aus Österreich + und + ich wohne in Berlin. The verb is part 2 each time.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "Where is the verb in a German statement?",
+     "options": [
+      "position 1",
+      "position 2",
+      "at the end"
+     ],
+     "answer": 1,
+     "hint": "Remember the big rule card.",
+     "explanation": "The verb is always part 2.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: I live in Hamburg.",
+     "tokens": [
+      "Ich",
+      "in",
+      "wohne",
+      "Hamburg."
+     ],
+     "answer": [
+      "Ich",
+      "wohne",
+      "in",
+      "Hamburg."
+     ],
+     "hint": "Ich, then the verb, then in + the city.",
+     "explanation": "Ich + wohne + in Hamburg.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wo ___ du? (wohnen)",
+     "answers": [
+      "wohnst"
+     ],
+     "hint": "Look at the du line in the wohnen table.",
+     "explanation": "du wohnst.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Ben asks: Woher kommst du? Which answer fits?",
+     "options": [
+      "In Berlin.",
+      "Aus Spanien."
+     ],
+     "answer": 1,
+     "hint": "woher is answered with aus.",
+     "explanation": "Aus Spanien. answers where from."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Ich aus Wien komme.",
+      "Ich komme aus Wien.",
+      "Aus ich komme Wien."
+     ],
+     "answer": 1,
+     "hint": "The verb must be in position 2.",
+     "explanation": "Ich | komme | aus Wien.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Woher ___ Sie? (kommen)",
+     "answers": [
+      "kommen"
+     ],
+     "hint": "Look at the Sie line in the kommen table.",
+     "explanation": "Sie kommen.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Where are you from? (to a friend)",
+     "tokens": [
+      "Woher",
+      "du?",
+      "kommst"
+     ],
+     "answer": [
+      "Woher",
+      "kommst",
+      "du?"
+     ],
+     "hint": "Question word, then verb, then du.",
+     "explanation": "Woher + kommst + du.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "In Wo wohnen Sie?, which part is in position 2?",
+     "options": [
+      "Wo",
+      "wohnen",
+      "Sie"
+     ],
+     "answer": 1,
+     "hint": "Count the parts from the left.",
+     "explanation": "wohnen, the verb, is part 2.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "How many parts does Ich komme aus Österreich. have?",
+     "options": [
+      "3",
+      "4"
+     ],
+     "answer": 0,
+     "hint": "aus + the place belongs together as one part.",
+     "explanation": "Ich | komme | aus Österreich = 3 parts.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What does wo mean?",
+     "options": [
+      "where",
+      "where from",
+      "how"
+     ],
+     "answer": 0,
+     "hint": "Look at the question word table.",
+     "explanation": "wo = where."
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira says: Ich wohne in Hamburg. What does she tell you?",
+     "options": [
+      "where she lives",
+      "where she comes from",
+      "her name"
+     ],
+     "answer": 0,
+     "hint": "wohnen means to live.",
+     "explanation": "Ich wohne in … says where you live."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "woher",
+     "en": "where from",
+     "examples": [
+      {
+       "de": "Woher kommst du?",
+       "en": "Where are you from?"
+      },
+      {
+       "de": "Woher kommen Sie?",
+       "en": "Where are you from?"
+      }
+     ]
+    },
+    {
+     "de": "wo",
+     "en": "where",
+     "examples": [
+      {
+       "de": "Wo wohnst du?",
+       "en": "Where do you live?"
+      },
+      {
+       "de": "Wo wohnen Sie?",
+       "en": "Where do you live?"
+      }
+     ]
+    },
+    {
+     "de": "kommen",
+     "forms": "ich komme, du kommst, Sie kommen",
+     "en": "to come",
+     "examples": [
+      {
+       "de": "Ich komme aus Spanien.",
+       "en": "I come from Spain."
+      },
+      {
+       "de": "Woher kommst du?",
+       "en": "Where are you from?"
+      }
+     ]
+    },
+    {
+     "de": "wohnen",
+     "forms": "ich wohne, du wohnst, Sie wohnen",
+     "en": "to live (in a place)",
+     "examples": [
+      {
+       "de": "Ich wohne in Berlin.",
+       "en": "I live in Berlin."
+      },
+      {
+       "de": "Wo wohnen Sie?",
+       "en": "Where do you live?"
+      }
+     ]
+    },
+    {
+     "de": "aus",
+     "en": "from",
+     "examples": [
+      {
+       "de": "Ich komme aus Wien.",
+       "en": "I'm from Vienna."
+      },
+      {
+       "de": "Aus Italien.",
+       "en": "From Italy."
+      }
+     ]
+    },
+    {
+     "de": "in",
+     "en": "in",
+     "examples": [
+      {
+       "de": "Ich wohne in Hamburg.",
+       "en": "I live in Hamburg."
+      },
+      {
+       "de": "In Berlin.",
+       "en": "In Berlin."
+      }
+     ]
+    },
+    {
+     "de": "Deutschland",
+     "en": "Germany",
+     "examples": [
+      {
+       "de": "Ich komme aus Deutschland.",
+       "en": "I come from Germany."
+      },
+      {
+       "de": "Ich wohne in Deutschland.",
+       "en": "I live in Germany."
+      }
+     ]
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "examples": [
+      {
+       "de": "Ich komme aus Österreich.",
+       "en": "I come from Austria."
+      },
+      {
+       "de": "Ich wohne in Österreich.",
+       "en": "I live in Austria."
+      }
+     ]
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "examples": [
+      {
+       "de": "Ich komme aus Italien.",
+       "en": "I come from Italy."
+      },
+      {
+       "de": "Ich wohne in Italien.",
+       "en": "I live in Italy."
+      }
+     ]
+    },
+    {
+     "de": "Spanien",
+     "en": "Spain",
+     "examples": [
+      {
+       "de": "Ich komme aus Spanien.",
+       "en": "I come from Spain."
+      },
+      {
+       "de": "Ich wohne in Spanien.",
+       "en": "I live in Spain."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say where you come from.",
+     "Say where you live.",
+     "Ask a friend where they come from and where they live."
+    ],
+    "examples": [
+     "Ich komme aus Österreich.",
+     "Ich wohne in Hamburg.",
+     "Woher kommst du? Wo wohnst du?"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: I come from Germany.",
+     "answers": [
+      "Ich komme aus Deutschland."
+     ],
+     "hint": "The chunk Ich komme aus + the country.",
+     "explanation": "Ich + komme + aus Deutschland."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Where do you live? (to a friend)",
+     "answers": [
+      "Wo wohnst du?"
+     ],
+     "hint": "wo, then the du form of wohnen, then du.",
+     "explanation": "Wo + wohnst + du."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Where are you from? (polite)",
+     "answers": [
+      "Woher kommen Sie?"
+     ],
+     "hint": "woher, then the Sie form of kommen, then Sie.",
+     "explanation": "Woher + kommen + Sie."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: I live in Vienna.",
+     "answers": [
+      "Ich wohne in Wien."
+     ],
+     "hint": "The chunk Ich wohne in + the city. Vienna is Wien.",
+     "explanation": "Ich + wohne + in Wien."
+    }
+   ]
+  },
+  {
+   "id": "a1-c01-04",
+   "level": "a1",
+   "chapter": 1,
+   "n": 4,
+   "title": "Verb endings: ich -e, du -st, er/sie -t, Sie -en",
+   "goal": "Change the verbs kommen, wohnen and heißen to fit ich, du, er, sie and Sie.",
+   "minutes": 30,
+   "printedPages": [
+    11,
+    12
+   ],
+   "grammar": {
+    "topic": "present-tense",
+    "point": "A regular verb drops -en and takes the ending that matches the subject",
+    "oneLine": "Take off -en and add: ich -e, du -st, er/sie -t, Sie -en.",
+    "mistake": {
+     "wrong": "Er komme aus Wien.",
+     "right": "Er kommt aus Wien.",
+     "why": "The ending -e belongs only to ich. er, sie and names take -t."
+    }
+   },
+   "terms": [
+    {
+     "term": "infinitive",
+     "meaning": "the dictionary form of a verb; it ends in -en, like kommen"
+    },
+    {
+     "term": "stem",
+     "meaning": "what is left when you take -en off the infinitive: komm- from kommen"
+    },
+    {
+     "term": "ending",
+     "meaning": "the small piece glued to the stem; it changes with the person"
+    },
+    {
+     "term": "conjugate",
+     "meaning": "to give a verb the ending that fits the subject"
+    },
+    {
+     "term": "er / sie",
+     "meaning": "er = he, sie (small s) = she"
+    }
+   ],
+   "cards": [
+    {
+     "title": "The infinitive and the stem",
+     "body": "The infinitive is the dictionary form of a verb. It ends in -en: kommen, wohnen. Take off -en and you get the stem: komm-, wohn-. The stem stays the same. Only the end changes.",
+     "examples": [
+      {
+       "de": "kommen → komm-",
+       "en": "to come → stem komm-",
+       "why": "Take off -en.",
+       "parts": [
+        [
+         "kommen",
+         "verb"
+        ],
+        [
+         "→",
+         "other"
+        ],
+        [
+         "komm-",
+         "verb"
+        ]
+       ]
+      },
+      {
+       "de": "wohnen → wohn-",
+       "en": "to live → stem wohn-",
+       "why": "Take off -en.",
+       "parts": [
+        [
+         "wohnen",
+         "verb"
+        ],
+        [
+         "→",
+         "other"
+        ],
+        [
+         "wohn-",
+         "verb"
+        ]
+       ]
+      },
+      {
+       "de": "heißen → heiß-",
+       "en": "to be called → stem heiß-",
+       "why": "Take off -en.",
+       "parts": [
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "→",
+         "other"
+        ],
+        [
+         "heiß-",
+         "verb"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "kommen",
+      "kommen − en",
+      "= komm- (the stem)"
+     ],
+     "more": "Think of a verb as a tree: the stem is the trunk and the ending is a branch. The trunk stays. Only the branch changes. kommen has the trunk komm- and the branch -en. Step 1: find the -en at the end of the dictionary word. Step 2: cut it off. Step 3: what is left is the stem. kommen without -en is komm-. wohnen without -en is wohn-. Why German does it: the trunk carries the meaning, the branch tells who. Extra example: sagen (to say) gives sag-."
+    },
+    {
+     "title": "Stem + ending",
+     "body": "An ending is the small piece you glue to the stem. It must fit the person. Now you see why it is ich komme but du kommst. Giving a verb its ending is called conjugating.",
+     "examples": [
+      {
+       "de": "Ich wohne in Wien.",
+       "en": "I live in Vienna.",
+       "why": "ich: wohn + e.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "e",
+         "ending"
+        ],
+        [
+         "in Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Du wohnst in Berlin.",
+       "en": "You live in Berlin.",
+       "why": "du: wohn + st.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "in Berlin.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Sie wohnen in Hamburg.",
+       "en": "You live in Hamburg.",
+       "why": "polite Sie: wohn + en.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "in Hamburg.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "person",
+       "ending",
+       "kommen",
+       "wohnen"
+      ],
+      "rows": [
+       [
+        "ich",
+        "-e",
+        "komme",
+        "wohne"
+       ],
+       [
+        "du",
+        "-st",
+        "kommst",
+        "wohnst"
+       ],
+       [
+        "er / sie",
+        "-t",
+        "kommt",
+        "wohnt"
+       ],
+       [
+        "Sie",
+        "-en",
+        "kommen",
+        "wohnen"
+       ]
+      ]
+     },
+     "more": "Picture a Lego brick (the stem) and a small clip (the ending). Same brick, different clips for different people. Step 1: pick the stem, like wohn-. Step 2: ask who is it. Step 3: clip on the matching ending. ich gets -e, du gets -st, Sie gets -en. So: ich wohne, du wohnst, Sie wohnen. Why German does it: the clip tells you who is acting, so German can be short. Extra example: komm- + st = kommst. Du kommst aus Italien. = You come from Italy.",
+     "parts": [
+      [
+       "Du",
+       "subject"
+      ],
+      [
+       "wohn",
+       "verb"
+      ],
+      [
+       "st",
+       "ending"
+      ],
+      [
+       "in Berlin.",
+       "place"
+      ]
+     ]
+    },
+    {
+     "title": "er and sie: he and she",
+     "body": "er means he. sie with a small s means she. Both take the ending -t. A name works the same way: Ben = er, Mira = sie. The verb is still part 2.",
+     "examples": [
+      {
+       "de": "Er kommt aus Italien.",
+       "en": "He comes from Italy.",
+       "why": "er: komm + t.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "aus Italien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Mira wohnt jetzt in Wien.",
+       "en": "Mira lives in Vienna now.",
+       "why": "Mira = sie, so -t. jetzt = now.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "jetzt",
+         "time"
+        ],
+        [
+         "in Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ben wohnt in Hamburg, aber er kommt aus Spanien.",
+       "en": "Ben lives in Hamburg, but he comes from Spain.",
+       "why": "Ben = er, so -t twice. aber = but.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "in Hamburg,",
+         "place"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "er",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "aus Spanien.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Ben",
+       "subject"
+      ],
+      [
+       "wohnt",
+       "verb"
+      ],
+      [
+       "in Hamburg.",
+       "other"
+      ]
+     ]
+    },
+    {
+     "title": "sie or Sie? Look at the ending",
+     "body": "Small sie (she) takes -t: sie wohnt. Big Sie (polite you) takes -en: Sie wohnen. At the start of a sentence both have a big S. Then the ending tells you who it is.",
+     "examples": [
+      {
+       "de": "Sie kommt aus Spanien.",
+       "en": "She comes from Spain.",
+       "why": "-t, so it is she.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "aus Spanien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Sie kommen aus Spanien.",
+       "en": "You come from Spain.",
+       "why": "-en, so it is the polite you.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "aus Spanien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Wo wohnen Sie, Frau Weber?",
+       "en": "Where do you live, Ms Weber?",
+       "why": "-en: polite you.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "Sie,",
+         "subject"
+        ],
+        [
+         "Frau Weber?",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "word",
+       "means",
+       "ending",
+       "example"
+      ],
+      "rows": [
+       [
+        "sie",
+        "she",
+        "-t",
+        "sie kommt"
+       ],
+       [
+        "Sie",
+        "you (polite)",
+        "-en",
+        "Sie kommen"
+       ]
+      ]
+     },
+     "more": "Two words sound the same, but they wear different shoes. Small sie (she) wears -t. Big Sie (polite you) wears -en. Look at the shoes, the verb ending. Sie kommt aus Spanien: -t means she. Sie kommen aus Spanien: -en means you, polite. Why German works this way: at the start of a sentence both start with a big S, so the verb ending is your only clue. Step 1: look at the verb ending. Step 2: -t means she, -en means polite you. Extra example: Sie wohnt in Wien. = She lives in Vienna."
+    },
+    {
+     "title": "heißen: one small change",
+     "body": "The stem of heißen is heiß-. The letter ß is a sharp s sound, so the stem already ends in s. That is why du gets only -t: du heißt, not du heißst. er and sie get heißt too.",
+     "examples": [
+      {
+       "de": "Du heißt Ben.",
+       "en": "Your name is Ben.",
+       "why": "heiß + t: the s-sound is already there.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "heiß",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Er heißt Leon.",
+       "en": "His name is Leon.",
+       "why": "er: heiß + t.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "heiß",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "Leon.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Sie heißt Mira.",
+       "en": "Her name is Mira.",
+       "why": "small sie: heiß + t.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "heiß",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "person",
+       "heißen"
+      ],
+      "rows": [
+       [
+        "ich",
+        "heiße"
+       ],
+       [
+        "du",
+        "heißt"
+       ],
+       [
+        "er / sie",
+        "heißt"
+       ],
+       [
+        "Sie",
+        "heißen"
+       ]
+      ]
+     },
+     "more": "Think of a snake that already has an s at the end. The stem heiß- ends in the sharp s sound. The du ending -st also has an s. So heiß + st would give a double s sound: heißst. German skips one s, so du gets only -t. Step 1: stem heiß-. Step 2: du ending would be -st. Step 3: the s is already there, so just add -t. Result: du heißt. Extra example: Du heißt Ben. = Your name is Ben. This is the only odd one so far. er and sie also say heißt."
+    },
+    {
+     "title": "Find the form in 3 steps",
+     "body": "To find the right form, ask: Who is the subject? Which ending goes with that person? Then glue the ending to the stem.",
+     "examples": [
+      {
+       "de": "Du kommst aus Wien.",
+       "en": "You come from Vienna.",
+       "why": "du → -st → kommst.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "aus Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Anna wohnt auch hier.",
+       "en": "Anna lives here too.",
+       "why": "Anna = sie → -t → wohnt. auch = too, hier = here.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "auch",
+         "other"
+        ],
+        [
+         "hier.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Who? 👉 du",
+      "Ending for du 👉 -st",
+      "komm + st = kommst",
+      "Du kommst aus Wien."
+     ],
+     "more": "Think of a recipe with three steps. Step 1: who is the subject? Step 2: which ending fits that person? Step 3: glue it onto the stem. Example: Who? du. Ending? -st. Stem? komm-. Result: kommst. Do the same every time and you cannot go wrong. A recipe works because you do not have to think, you just follow. Extra example: Who? er. Ending? -t. Stem wohn-. Result: er wohnt. Er wohnt in Berlin. = He lives in Berlin."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:qdTEFPqjfkY",
+     "yt:9h8p08qziG0"
+    ],
+    "nicosWeg": [
+     "nw:a1-07",
+     "nw:a1-08"
+    ],
+    "practice": [
+     "link:lingolia-verbs"
+    ]
+   },
+   "drills": [
+    {
+     "type": "type",
+     "prompt": "Ich ___ aus Spanien. (kommen)",
+     "answers": [
+      "komme"
+     ],
+     "hint": "ich takes the ending -e.",
+     "explanation": "komm + e = komme.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Er ___ in Berlin. (wohnen)",
+     "answers": [
+      "wohnt"
+     ],
+     "hint": "er takes the ending -t.",
+     "explanation": "wohn + t = wohnt.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira ___ aus Österreich.",
+     "options": [
+      "komme",
+      "kommst",
+      "kommt"
+     ],
+     "answer": 2,
+     "hint": "Mira = sie. Which ending goes with sie?",
+     "explanation": "sie takes -t: kommt.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Du ___ Leon. (heißen)",
+     "answers": [
+      "heißt",
+      "heisst"
+     ],
+     "hint": "The stem heiß- already ends in an s-sound.",
+     "explanation": "du heißt: only -t.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: She lives in Vienna.",
+     "tokens": [
+      "wohnt",
+      "Wien.",
+      "Sie",
+      "in"
+     ],
+     "answer": [
+      "Sie",
+      "wohnt",
+      "in",
+      "Wien."
+     ],
+     "hint": "she = sie, which takes -t.",
+     "explanation": "Sie + wohnt + in Wien.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Sie kommen aus Wien. Who is it?",
+     "options": [
+      "she",
+      "you (polite)"
+     ],
+     "answer": 1,
+     "hint": "Look at the ending: -t or -en?",
+     "explanation": "-en goes with the polite Sie.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "What is the stem of wohnen?",
+     "answers": [
+      "wohn",
+      "wohn-"
+     ],
+     "hint": "Take off -en.",
+     "explanation": "wohnen − en = wohn-.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: Anna lives in Berlin, but she comes from Spain.",
+    "answers": [
+     "Anna wohnt in Berlin, aber sie kommt aus Spanien.",
+     "Anna wohnt in Berlin, kommt aber aus Spanien.",
+     "Anna kommt aus Spanien, aber sie wohnt in Berlin."
+    ],
+    "hint": "Anna = sie, so both verbs take -t. but = aber.",
+    "explanation": "Anna wohnt … aber sie kommt …: -t for sie.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Du ___ in Hamburg. (wohnen)",
+     "answers": [
+      "wohnst"
+     ],
+     "hint": "du takes the ending -st.",
+     "explanation": "wohn + st = wohnst.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which ending goes with er and sie?",
+     "options": [
+      "-e",
+      "-st",
+      "-t",
+      "-en"
+     ],
+     "answer": 2,
+     "hint": "Look at the ending table.",
+     "explanation": "er and sie take -t.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ben ___ aus Spanien. (kommen)",
+     "answers": [
+      "kommt"
+     ],
+     "hint": "Ben = er.",
+     "explanation": "er: komm + t = kommt.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which form is right?",
+     "options": [
+      "du heißst",
+      "du heißt"
+     ],
+     "answer": 1,
+     "hint": "The stem heiß- already ends in an s-sound.",
+     "explanation": "du heißt.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: He comes from Italy.",
+     "tokens": [
+      "kommt",
+      "Er",
+      "aus",
+      "Italien."
+     ],
+     "answer": [
+      "Er",
+      "kommt",
+      "aus",
+      "Italien."
+     ],
+     "hint": "he = er, which takes -t.",
+     "explanation": "Er + kommt + aus Italien.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Er komme aus Wien. What is wrong?",
+     "options": [
+      "-e is for ich; er needs kommt.",
+      "er must come last.",
+      "Nothing is wrong."
+     ],
+     "answer": 0,
+     "hint": "Which person takes -e?",
+     "explanation": "Only ich takes -e. er kommt.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Sie ___ Mira. (heißen; sie = she)",
+     "answers": [
+      "heißt",
+      "heisst"
+     ],
+     "hint": "small sie works like er.",
+     "explanation": "sie heißt.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Wo wohnen Sie, Herr Ali? Who is Sie here?",
+     "options": [
+      "Herr Ali: the polite you",
+      "a woman: she"
+     ],
+     "answer": 0,
+     "hint": "Look at the ending of wohnen.",
+     "explanation": "-en: the polite Sie.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What is an infinitive?",
+     "options": [
+      "the dictionary form, ending in -en",
+      "the ending for du"
+     ],
+     "answer": 0,
+     "hint": "Look at the first card.",
+     "explanation": "kommen and wohnen are infinitives.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means but?",
+     "options": [
+      "aber",
+      "auch",
+      "hier"
+     ],
+     "answer": 0,
+     "hint": "Look at the card about er and sie.",
+     "explanation": "aber = but."
+    },
+    {
+     "type": "choice",
+     "prompt": "Anna wohnt auch hier. What does auch mean?",
+     "options": [
+      "too, also",
+      "now",
+      "but"
+     ],
+     "answer": 0,
+     "hint": "Look at the 3-steps card.",
+     "explanation": "auch = too, also."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "er",
+     "en": "he",
+     "examples": [
+      {
+       "de": "Er kommt aus Italien.",
+       "en": "He comes from Italy."
+      },
+      {
+       "de": "Er heißt Ben.",
+       "en": "His name is Ben."
+      }
+     ]
+    },
+    {
+     "de": "sie",
+     "en": "she",
+     "examples": [
+      {
+       "de": "Sie wohnt in Wien.",
+       "en": "She lives in Vienna."
+      },
+      {
+       "de": "Sie heißt Anna.",
+       "en": "Her name is Anna."
+      }
+     ]
+    },
+    {
+     "de": "auch",
+     "en": "too, also",
+     "examples": [
+      {
+       "de": "Anna wohnt auch hier.",
+       "en": "Anna lives here too."
+      },
+      {
+       "de": "Ich komme auch aus Spanien.",
+       "en": "I come from Spain too."
+      }
+     ]
+    },
+    {
+     "de": "aber",
+     "en": "but",
+     "examples": [
+      {
+       "de": "Ben wohnt in Hamburg, aber er kommt aus Spanien.",
+       "en": "Ben lives in Hamburg, but he comes from Spain."
+      },
+      {
+       "de": "Ich wohne in Wien, aber ich komme aus Italien.",
+       "en": "I live in Vienna, but I come from Italy."
+      }
+     ]
+    },
+    {
+     "de": "jetzt",
+     "en": "now",
+     "examples": [
+      {
+       "de": "Mira wohnt jetzt in Wien.",
+       "en": "Mira lives in Vienna now."
+      },
+      {
+       "de": "Ich wohne jetzt in Berlin.",
+       "en": "I live in Berlin now."
+      }
+     ]
+    },
+    {
+     "de": "hier",
+     "en": "here",
+     "examples": [
+      {
+       "de": "Ich wohne hier.",
+       "en": "I live here."
+      },
+      {
+       "de": "Leon wohnt auch hier.",
+       "en": "Leon lives here too."
+      }
+     ]
+    },
+    {
+     "de": "Freund",
+     "article": "der",
+     "plural": "die Freunde",
+     "en": "friend (male)",
+     "examples": [
+      {
+       "de": "Leon, Freund aus Italien.",
+       "en": "Leon, a friend from Italy."
+      },
+      {
+       "de": "Hallo, Freund!",
+       "en": "Hi, friend!"
+      }
+     ]
+    },
+    {
+     "de": "Freundin",
+     "article": "die",
+     "plural": "die Freundinnen",
+     "en": "friend (female)",
+     "examples": [
+      {
+       "de": "Anna, Freundin aus München.",
+       "en": "Anna, a friend from Munich."
+      },
+      {
+       "de": "Hallo, Freundin!",
+       "en": "Hi, friend!"
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say where a friend lives. Use er or sie.",
+     "Tell Ben where he comes from: Du kommst …",
+     "Say someone's name with heißt."
+    ],
+    "examples": [
+     "Sie wohnt in Hamburg.",
+     "Du kommst aus Spanien.",
+     "Er heißt Leon."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: She comes from Austria.",
+     "answers": [
+      "Sie kommt aus Österreich.",
+      "Sie kommt aus Oesterreich."
+     ],
+     "hint": "she = sie, which takes -t.",
+     "explanation": "sie: komm + t."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: You live in Hamburg. (to a friend)",
+     "answers": [
+      "Du wohnst in Hamburg."
+     ],
+     "hint": "du takes -st.",
+     "explanation": "du: wohn + st."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: His name is Leon.",
+     "answers": [
+      "Er heißt Leon.",
+      "Er heisst Leon."
+     ],
+     "hint": "he = er. Remember the heißen table.",
+     "explanation": "er heißt."
+    },
+    {
+     "type": "type",
+     "prompt": "Write the ich form of wohnen.",
+     "answers": [
+      "wohne",
+      "ich wohne"
+     ],
+     "hint": "ich takes -e.",
+     "explanation": "wohn + e = wohne."
+    }
+   ]
+  },
+  {
+   "id": "a1-c01-05",
+   "level": "a1",
+   "chapter": 1,
+   "n": 5,
+   "title": "sein: bin, bist, ist, sind, and introducing others",
+   "goal": "Use the verb sein and introduce other people with Das ist.",
+   "minutes": 30,
+   "printedPages": [
+    12,
+    13
+   ],
+   "grammar": {
+    "topic": "sein-haben",
+    "point": "sein is irregular: ich bin, du bist, er/sie ist, Sie sind",
+    "oneLine": "sein breaks the stem + ending pattern, so learn bin, bist, ist, sind by heart.",
+    "mistake": {
+     "wrong": "Du bin Leon.",
+     "right": "Du bist Leon.",
+     "why": "bin belongs only to ich. The du form of sein is bist."
+    }
+   },
+   "terms": [
+    {
+     "term": "irregular verb",
+     "meaning": "a verb that does not follow the stem + ending pattern, so you learn its forms by heart"
+    },
+    {
+     "term": "introduce",
+     "meaning": "to tell someone who another person is"
+    },
+    {
+     "term": "das",
+     "meaning": "this or that: Das ist Ben. = This is Ben."
+    },
+    {
+     "term": "wer",
+     "meaning": "who: the question word for people"
+    }
+   ],
+   "cards": [
+    {
+     "title": "sein: a verb that breaks the pattern",
+     "body": "An irregular verb does not follow the stem + ending pattern from lesson 4. sein (to be) is the most important one. You know ich bin already. The other forms look different, so learn them by heart.",
+     "examples": [
+      {
+       "de": "Ich bin Mira.",
+       "en": "I am Mira.",
+       "why": "ich → bin.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Du bist Ben.",
+       "en": "You are Ben.",
+       "why": "du → bist.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "bist",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Sie ist Anna.",
+       "en": "She is Anna.",
+       "why": "sie → ist.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Sie sind Herr Ali.",
+       "en": "You are Mr Ali.",
+       "why": "polite Sie → sind.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "Herr Ali.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "person",
+       "sein",
+       "English"
+      ],
+      "rows": [
+       [
+        "ich",
+        "bin",
+        "I am"
+       ],
+       [
+        "du",
+        "bist",
+        "you are"
+       ],
+       [
+        "er / sie",
+        "ist",
+        "he / she is"
+       ],
+       [
+        "Sie",
+        "sind",
+        "you are (polite)"
+       ]
+      ]
+     },
+     "more": "Think of a stubborn friend who always has his own special seat. Most verbs follow the stem + ending recipe. sein does not. It is like a person whose name changes each time you meet them: ich bin, du bist, er ist, Sie sind. You cannot build them. You just know them, like your phone number. Why? sein is used so often that it kept its old forms through history. Tip: say the four forms out loud each day for a week. Extra example: Du bist nett. = You are nice."
+    },
+    {
+     "title": "Still part 2",
+     "body": "Each person has its own form of sein: du bist, er ist, Sie sind. Never build it from a stem: there is no du seinst. The verb is still in position 2.",
+     "examples": [
+      {
+       "de": "Du bist nett.",
+       "en": "You are nice.",
+       "why": "du → bist, in position 2.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "bist",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Er ist neu.",
+       "en": "He is new.",
+       "why": "er → ist.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Sie sind Frau Weber.",
+       "en": "You are Ms Weber.",
+       "why": "polite Sie → sind.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "Frau Weber.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Du",
+       "subject"
+      ],
+      [
+       "bist",
+       "verb"
+      ],
+      [
+       "nett.",
+       "other"
+      ]
+     ],
+     "more": "Think of sein as a coat rack with a hook for each person. Each hook holds one form: bin for ich, bist for du, ist for er and sie, sind for Sie. A hook cannot be built from a stem. There is no du seinst. If you say it, a German will smile. The verb still sits in seat 2. Step 1: who is it? Step 2: grab the matching form. Extra example: Er ist neu. = He is new. Sie sind Frau Weber. = You are Ms Weber."
+    },
+    {
+     "title": "Who is that? Das ist …",
+     "body": "To introduce someone, say Das ist + name. das means this or that. To ask, say Wer ist das? wer means who. das takes ist, like er and sie.",
+     "examples": [
+      {
+       "de": "Wer ist das? – Das ist Anna.",
+       "en": "Who is that? – That is Anna.",
+       "why": "Question with wer, answer with Das ist.",
+       "parts": [
+        [
+         "Wer",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das?",
+         "subject"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist Frau Weber.",
+       "en": "This is Ms Weber.",
+       "why": "das → ist.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Frau Weber.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist Ben. Er kommt aus Spanien.",
+       "en": "This is Ben. He comes from Spain.",
+       "why": "Introduce, then say more with er.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ],
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "komm",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "aus Spanien.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Wer ist das?",
+      "Das ist …",
+      "Das ist Leon."
+     ]
+    },
+    {
+     "title": "Jobs: no word for 'a'",
+     "body": "To say what someone does, use sein + the job. German uses no word for 'a' here. Ben ist Student. = Ben is a student.",
+     "examples": [
+      {
+       "de": "Ben ist Student.",
+       "en": "Ben is a student.",
+       "why": "No word for 'a'.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Student.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin Lehrer.",
+       "en": "I am a teacher.",
+       "why": "ich → bin, then the job.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Lehrer.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Frau Weber ist Lehrerin.",
+       "en": "Ms Weber is a teacher.",
+       "why": "Frau Weber = sie → ist.",
+       "parts": [
+        [
+         "Frau Weber",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Lehrer",
+         "noun"
+        ],
+        [
+         "in.",
+         "ending"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Ben",
+       "subject"
+      ],
+      [
+       "ist",
+       "verb"
+      ],
+      [
+       "Student.",
+       "other"
+      ]
+     ],
+     "more": "English says a student, a teacher. German drops the a when you say what someone does for a living. It is like a name tag: you just write the job. Step 1: sein form. Step 2: the job word. Ben ist Student. Frau Weber ist Lehrerin. No ein, no a. Why German does it: a job is seen as what someone is, like a label, not one of many students. Extra example: Ich bin Lehrer. = I am a teacher."
+    },
+    {
+     "title": "-in: the word for a woman",
+     "body": "Many job words have two forms. For a man: Lehrer, Student. For a woman, add -in: Lehrerin, Studentin.",
+     "examples": [
+      {
+       "de": "Leon ist Student.",
+       "en": "Leon is a student.",
+       "why": "Leon is a man: Student.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Student.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Mira ist Studentin.",
+       "en": "Mira is a student.",
+       "why": "Mira is a woman: Student + in.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Student",
+         "noun"
+        ],
+        [
+         "in.",
+         "ending"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "man",
+       "woman",
+       "English"
+      ],
+      "rows": [
+       [
+        "Lehrer",
+        "Lehrerin",
+        "teacher"
+       ],
+       [
+        "Student",
+        "Studentin",
+        "student"
+       ]
+      ]
+     },
+     "more": "Think of a job word as a badge. The basic badge is for a man. To show a woman, stick a small -in on the end, like adding a sticker. Lehrer + in = Lehrerin. Student + in = Studentin. Step 1: start with the man word. Step 2: add -in for a woman. Why German does it: it shows right in the word who is meant. Extra example: Leon ist Lehrer. = Leon is a teacher. Anna ist Lehrerin. = Anna is a teacher."
+    },
+    {
+     "title": "Say what someone is like",
+     "body": "After a form of sein you can also say what someone is like: nett (nice), neu (new), super (great).",
+     "examples": [
+      {
+       "de": "Frau Weber ist nett.",
+       "en": "Ms Weber is nice.",
+       "why": "ist + nett.",
+       "parts": [
+        [
+         "Frau Weber",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin neu hier.",
+       "en": "I am new here.",
+       "why": "bin + neu.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "neu",
+         "adjective"
+        ],
+        [
+         "hier.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Leon ist super!",
+       "en": "Leon is great!",
+       "why": "ist + super.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "super!",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Leon",
+       "subject"
+      ],
+      [
+       "ist",
+       "verb"
+      ],
+      [
+       "neu.",
+       "other"
+      ]
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:wqw336j-F3E",
+     "yt:rMb8979j1v0",
+     "yt:wKDc4a5uPTk"
+    ],
+    "nicosWeg": [
+     "nw:a1-06",
+     "nw:a1-08"
+    ],
+    "practice": [
+     "link:lingolia-verbs"
+    ]
+   },
+   "drills": [
+    {
+     "type": "type",
+     "prompt": "Du ___ Ben. (sein)",
+     "answers": [
+      "bist"
+     ],
+     "hint": "sein is irregular. Look at the du line of the sein table.",
+     "explanation": "du bist.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ___ Frau Weber. (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "das works like er and sie.",
+     "explanation": "Das ist …",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Sie ___ Herr Ali. (you, polite)",
+     "options": [
+      "bist",
+      "sind",
+      "ist"
+     ],
+     "answer": 1,
+     "hint": "Look at the Sie line of the sein table.",
+     "explanation": "Sie sind.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Who is that?",
+     "tokens": [
+      "ist",
+      "Wer",
+      "das?"
+     ],
+     "answer": [
+      "Wer",
+      "ist",
+      "das?"
+     ],
+     "hint": "Question word, verb, then das.",
+     "explanation": "Wer + ist + das.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Anna is a student. Which sentence fits?",
+     "options": [
+      "Anna ist Student.",
+      "Anna ist Studentin."
+     ],
+     "answer": 1,
+     "hint": "Anna is a woman.",
+     "explanation": "Student + in = Studentin.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ Lehrerin. (sein)",
+     "answers": [
+      "bin"
+     ],
+     "hint": "You know this one from lesson 1.",
+     "explanation": "ich bin.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Er bin nett.",
+      "Er ist nett.",
+      "Er bist nett."
+     ],
+     "answer": 1,
+     "hint": "Look at the er line of the sein table.",
+     "explanation": "er ist.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: This is Leon. He is a teacher.",
+    "answers": [
+     "Das ist Leon. Er ist Lehrer."
+    ],
+    "hint": "Das ist + name. Then er + ist + the job, with no word for 'a'.",
+    "explanation": "Das ist Leon. Er ist Lehrer.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Ich ___ Studentin. (sein)",
+     "answers": [
+      "bin"
+     ],
+     "hint": "ich → ?",
+     "explanation": "ich bin.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Er ___ nett. (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "er → ?",
+     "explanation": "er ist.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Du bin Mira. What is wrong?",
+     "options": [
+      "bin is for ich; du needs bist.",
+      "Mira must come first.",
+      "Nothing is wrong."
+     ],
+     "answer": 0,
+     "hint": "Which person goes with bin?",
+     "explanation": "du bist.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: That is Frau Weber.",
+     "tokens": [
+      "Das",
+      "Frau Weber.",
+      "ist"
+     ],
+     "answer": [
+      "Das",
+      "ist",
+      "Frau Weber."
+     ],
+     "hint": "das, then the verb, then the name.",
+     "explanation": "Das + ist + Frau Weber.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question asks who someone is?",
+     "options": [
+      "Wer ist das?",
+      "Wo wohnst du?",
+      "Wie geht's?"
+     ],
+     "answer": 0,
+     "hint": "wer means who.",
+     "explanation": "Wer ist das? = Who is that?",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Frau Weber, Sie ___ Lehrerin. (sein)",
+     "answers": [
+      "sind"
+     ],
+     "hint": "polite Sie → ?",
+     "explanation": "Sie sind.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Why is sein called irregular?",
+     "options": [
+      "Its forms do not follow the stem + ending pattern.",
+      "It has no ich form."
+     ],
+     "answer": 0,
+     "hint": "Look at the first card.",
+     "explanation": "bin, bist, ist, sind do not come from a stem.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence says Ben is a student?",
+     "options": [
+      "Ben ist Student.",
+      "Ben Student ist."
+     ],
+     "answer": 0,
+     "hint": "The verb is in position 2.",
+     "explanation": "Ben | ist | Student.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira is a teacher. Which word fits?",
+     "options": [
+      "Lehrer",
+      "Lehrerin"
+     ],
+     "answer": 1,
+     "hint": "Mira is a woman.",
+     "explanation": "Lehrer + in = Lehrerin."
+    },
+    {
+     "type": "choice",
+     "prompt": "What does nett mean?",
+     "options": [
+      "nice",
+      "new",
+      "great"
+     ],
+     "answer": 0,
+     "hint": "Look at the last card.",
+     "explanation": "nett = nice."
+    },
+    {
+     "type": "choice",
+     "prompt": "You say: Das ist Ben. What are you doing?",
+     "options": [
+      "introducing Ben",
+      "asking Ben's name",
+      "saying goodbye to Ben"
+     ],
+     "answer": 0,
+     "hint": "Das ist + name.",
+     "explanation": "Das ist Ben. introduces Ben."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "sein",
+     "forms": "ich bin, du bist, er/sie ist, Sie sind",
+     "en": "to be",
+     "examples": [
+      {
+       "de": "Du bist nett.",
+       "en": "You are nice."
+      },
+      {
+       "de": "Das ist Anna.",
+       "en": "That is Anna."
+      }
+     ]
+    },
+    {
+     "de": "wer",
+     "en": "who",
+     "examples": [
+      {
+       "de": "Wer ist das?",
+       "en": "Who is that?"
+      },
+      {
+       "de": "Wer ist Frau Weber?",
+       "en": "Who is Ms Weber?"
+      }
+     ]
+    },
+    {
+     "de": "das",
+     "en": "this, that",
+     "examples": [
+      {
+       "de": "Das ist Ben.",
+       "en": "This is Ben."
+      },
+      {
+       "de": "Wer ist das?",
+       "en": "Who is that?"
+      }
+     ]
+    },
+    {
+     "de": "Lehrer",
+     "article": "der",
+     "plural": "die Lehrer",
+     "en": "teacher (male)",
+     "examples": [
+      {
+       "de": "Ich bin Lehrer.",
+       "en": "I am a teacher."
+      },
+      {
+       "de": "Herr Ali ist Lehrer.",
+       "en": "Mr Ali is a teacher."
+      }
+     ]
+    },
+    {
+     "de": "Lehrerin",
+     "article": "die",
+     "plural": "die Lehrerinnen",
+     "en": "teacher (female)",
+     "examples": [
+      {
+       "de": "Frau Weber ist Lehrerin.",
+       "en": "Ms Weber is a teacher."
+      },
+      {
+       "de": "Sie ist Lehrerin.",
+       "en": "She is a teacher."
+      }
+     ]
+    },
+    {
+     "de": "Student",
+     "article": "der",
+     "plural": "die Studenten",
+     "en": "student (male)",
+     "examples": [
+      {
+       "de": "Ben ist Student.",
+       "en": "Ben is a student."
+      },
+      {
+       "de": "Leon ist auch Student.",
+       "en": "Leon is a student too."
+      }
+     ]
+    },
+    {
+     "de": "Studentin",
+     "article": "die",
+     "plural": "die Studentinnen",
+     "en": "student (female)",
+     "examples": [
+      {
+       "de": "Mira ist Studentin.",
+       "en": "Mira is a student."
+      },
+      {
+       "de": "Ich bin Studentin.",
+       "en": "I am a student."
+      }
+     ]
+    },
+    {
+     "de": "nett",
+     "en": "nice, kind",
+     "examples": [
+      {
+       "de": "Frau Weber ist nett.",
+       "en": "Ms Weber is nice."
+      },
+      {
+       "de": "Du bist nett.",
+       "en": "You are nice."
+      }
+     ]
+    },
+    {
+     "de": "neu",
+     "en": "new",
+     "examples": [
+      {
+       "de": "Ich bin neu hier.",
+       "en": "I am new here."
+      },
+      {
+       "de": "Leon ist neu.",
+       "en": "Leon is new."
+      }
+     ]
+    },
+    {
+     "de": "super",
+     "en": "great",
+     "examples": [
+      {
+       "de": "Das ist super!",
+       "en": "That's great!"
+      },
+      {
+       "de": "Anna ist super.",
+       "en": "Anna is great."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Introduce a friend: Das ist …",
+     "Say what you are: Ich bin Student or Ich bin Studentin.",
+     "Ask who someone is, then answer."
+    ],
+    "examples": [
+     "Das ist Ben. Er kommt aus Spanien.",
+     "Ich bin Studentin.",
+     "Wer ist das? – Das ist Frau Weber."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: You are nice. (to a friend)",
+     "answers": [
+      "Du bist nett."
+     ],
+     "hint": "du → bist.",
+     "explanation": "Du + bist + nett."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: She is new.",
+     "answers": [
+      "Sie ist neu."
+     ],
+     "hint": "she = sie → ist.",
+     "explanation": "Sie + ist + neu."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: That is Mira.",
+     "answers": [
+      "Das ist Mira."
+     ],
+     "hint": "das → ist.",
+     "explanation": "Das + ist + Mira."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: I am a teacher. (a woman)",
+     "answers": [
+      "Ich bin Lehrerin."
+     ],
+     "hint": "No word for 'a'. Add -in for a woman.",
+     "explanation": "Ich + bin + Lehrerin."
+    }
+   ]
+  },
+  {
+   "id": "a1-c01-06",
+   "level": "a1",
+   "chapter": 1,
+   "n": 6,
+   "title": "Spelling, languages and two kinds of questions",
+   "goal": "Spell words, talk about languages and ask both W-questions and yes/no questions.",
+   "minutes": 30,
+   "printedPages": [
+    14,
+    15
+   ],
+   "grammar": {
+    "topic": "w-questions",
+    "point": "A W-question has the verb in position 2; a yes/no question starts with the verb",
+    "oneLine": "Question word + verb for W-questions, verb first for yes/no questions.",
+    "mistake": {
+     "wrong": "Sprechst du Englisch?",
+     "right": "Sprichst du Englisch?",
+     "why": "Two things: the question starts with the verb, and with du the e of sprechen becomes i. (In fast speech you will also hear Du sprichst Englisch? with a rising voice. That is fine to hear, but write and learn verb first.)"
+    }
+   },
+   "terms": [
+    {
+     "term": "umlaut",
+     "meaning": "the two dots over a, o or u: ä, ö, ü"
+    },
+    {
+     "term": "sharp s",
+     "meaning": "the letter ß; it sounds like ss"
+    },
+    {
+     "term": "spell",
+     "meaning": "to say a word letter by letter"
+    },
+    {
+     "term": "stem change",
+     "meaning": "when the vowel inside the stem changes, like e → i in sprechen"
+    },
+    {
+     "term": "yes/no question",
+     "meaning": "a question you answer with ja (yes) or nein (no); it has no question word, and the verb comes first"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Four extra letters",
+     "body": "German has the same 26 letters as English, plus four. An umlaut is the two dots over a vowel: ä, ö, ü. The two dots change the sound. The sharp s, ß, sounds like ss. You know some already: Österreich, Tschüss, heißen.",
+     "examples": [
+      {
+       "de": "Österreich",
+       "en": "Austria",
+       "why": "ö: say 'ay' as in 'say', but round your lips. (Close to 'ur' in 'fur', without the r.)",
+       "parts": [
+        [
+         "Österreich",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Tschüss",
+       "en": "bye",
+       "why": "ü: say 'ee' as in 'see', but round your lips as if whistling.",
+       "parts": [
+        [
+         "Tschüss",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "heißen",
+       "en": "to be called",
+       "why": "ß sounds like ss.",
+       "parts": [
+        [
+         "heiß",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "letter",
+       "say it like",
+       "example"
+      ],
+      "rows": [
+       [
+        "ä",
+        "like 'e' in 'bed'",
+        "Länder (countries)"
+       ],
+       [
+        "ö",
+        "'ay' in 'say' with round lips",
+        "Österreich"
+       ],
+       [
+        "ü",
+        "'ee' in 'see' with round lips",
+        "Tschüss"
+       ],
+       [
+        "ß",
+        "ss",
+        "heißen"
+       ]
+      ]
+     },
+     "more": "Think of the alphabet as a piano with four extra keys. The dots on ä, ö, ü are like a little hat that changes the sound, so they are not the same letter as a, o, u. And ß is a special key that sounds like a double s. Step 1: see two dots. Step 2: say the new sound, not the old one. Why they exist: German used to write a small e above the letter, and over time it became two dots. Extra example: heißen sounds like hy-ssen. Tschüss = goodbye (casual)."
+    },
+    {
+     "title": "Spelling: Wie schreibt man das?",
+     "body": "To spell means to say a word letter by letter. To ask for it, say Wie schreibt man das? (How do you write that?). Learn it as a chunk. Then say the letters one by one.",
+     "examples": [
+      {
+       "de": "Wie schreibt man das?",
+       "en": "How do you spell that?",
+       "why": "The chunk for asking.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "schreibt",
+         "verb"
+        ],
+        [
+         "man",
+         "subject"
+        ],
+        [
+         "das?",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "A – N – N – A.",
+       "en": "A-N-N-A.",
+       "why": "Say each letter.",
+       "parts": [
+        [
+         "A – N – N – A.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "W – E – B – E – R.",
+       "en": "W-E-B-E-R.",
+       "why": "Spelling a family name.",
+       "parts": [
+        [
+         "W – E – B – E – R.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Wie heißen Sie?",
+      "Weber.",
+      "Wie schreibt man das?",
+      "W – E – B – E – R."
+     ]
+    },
+    {
+     "title": "Languages often end in -isch",
+     "body": "Many languages end in -isch: Spanisch, Italienisch, Englisch. German is Deutsch. In Austria people speak Deutsch too. Language names start with a big letter.",
+     "examples": [
+      {
+       "de": "Spanien → Spanisch",
+       "en": "Spain → Spanish",
+       "why": "Country, then language with -isch.",
+       "parts": [
+        [
+         "Spanien",
+         "noun"
+        ],
+        [
+         "→",
+         "other"
+        ],
+        [
+         "Spanisch",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Österreich → Deutsch",
+       "en": "Austria → German",
+       "why": "Austrians speak German.",
+       "parts": [
+        [
+         "Österreich",
+         "noun"
+        ],
+        [
+         "→",
+         "other"
+        ],
+        [
+         "Deutsch",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Deutsch und Englisch",
+       "en": "German and English",
+       "why": "Big letters for languages.",
+       "parts": [
+        [
+         "Deutsch",
+         "noun"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Englisch",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "country",
+       "language"
+      ],
+      "rows": [
+       [
+        "Deutschland",
+        "Deutsch"
+       ],
+       [
+        "Österreich",
+        "Deutsch"
+       ],
+       [
+        "Spanien",
+        "Spanisch"
+       ],
+       [
+        "Italien",
+        "Italienisch"
+       ],
+       [
+        "England",
+        "Englisch"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "sprechen: the e becomes i",
+     "body": "sprechen means to speak. It takes the normal endings. But for du and er/sie, the e in the stem changes to i. This is a stem change. ich and Sie keep the e.",
+     "examples": [
+      {
+       "de": "Ich spreche Englisch.",
+       "en": "I speak English.",
+       "why": "ich keeps e: sprech + e.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "sprech",
+         "verb"
+        ],
+        [
+         "e",
+         "ending"
+        ],
+        [
+         "Englisch.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Du sprichst Deutsch.",
+       "en": "You speak German.",
+       "why": "du: e → i, then -st.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "sprich",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Leon spricht Italienisch.",
+       "en": "Leon speaks Italian.",
+       "why": "Leon = er: e → i, then -t.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "sprich",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "Italienisch.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Sie sprechen Spanisch, Herr Ali.",
+       "en": "You speak Spanish, Mr Ali.",
+       "why": "polite Sie keeps e.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "sprech",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "Spanisch,",
+         "object"
+        ],
+        [
+         "Herr Ali.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "person",
+       "sprechen",
+       "stem"
+      ],
+      "rows": [
+       [
+        "ich",
+        "spreche",
+        "sprech- (e)"
+       ],
+       [
+        "du",
+        "sprichst",
+        "sprich- (i)"
+       ],
+       [
+        "er / sie",
+        "spricht",
+        "sprich- (i)"
+       ],
+       [
+        "Sie",
+        "sprechen",
+        "sprech- (e)"
+       ]
+      ]
+     },
+     "more": "Think of the stem as a trunk that sometimes bends in the middle. For sprechen, the e in spr-e-ch bends to i, but only for du and er/sie. Step 1: ich spreche (normal). Step 2: du sprichst (e becomes i). Step 3: er spricht (e becomes i). Step 4: Sie sprechen (normal again). Why it happens: it is an old sound change that stuck. Do not try to build it, just learn this one. Extra example: Anna spricht Spanisch. = Anna speaks Spanish."
+    },
+    {
+     "title": "A little: ein bisschen",
+     "body": "To say you speak a little, put ein bisschen before the language. ein bisschen and the language are one part, after the verb.",
+     "examples": [
+      {
+       "de": "Ich spreche ein bisschen Deutsch.",
+       "en": "I speak a little German.",
+       "why": "ein bisschen + language.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "sprech",
+         "verb"
+        ],
+        [
+         "e",
+         "ending"
+        ],
+        [
+         "ein bisschen",
+         "other"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Mira spricht ein bisschen Spanisch.",
+       "en": "Mira speaks a little Spanish.",
+       "why": "Mira = sie → spricht.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "sprich",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "ein bisschen",
+         "other"
+        ],
+        [
+         "Spanisch.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Ich",
+       "subject"
+      ],
+      [
+       "spreche",
+       "verb"
+      ],
+      [
+       "ein bisschen Deutsch.",
+       "other"
+      ]
+     ]
+    },
+    {
+     "title": "Yes/no questions: the verb goes first",
+     "body": "A yes/no question is one you answer with ja (yes) or nein (no). It has no question word. The verb moves to position 1, and the person comes right after it. The verb form stays the same.",
+     "examples": [
+      {
+       "de": "Sprichst du Deutsch? – Ja.",
+       "en": "Do you speak German? – Yes.",
+       "why": "Verb first, then du.",
+       "parts": [
+        [
+         "Sprich",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Deutsch?",
+         "object"
+        ],
+        [
+         "– Ja.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Kommen Sie aus Spanien? – Nein.",
+       "en": "Are you from Spain? – No.",
+       "why": "Verb first, then Sie.",
+       "parts": [
+        [
+         "Komm",
+         "verb"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "aus Spanien?",
+         "place"
+        ],
+        [
+         "– Nein.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Wohnt Anna in Wien? – Ja.",
+       "en": "Does Anna live in Vienna? – Yes.",
+       "why": "Verb first, then Anna.",
+       "parts": [
+        [
+         "Wohn",
+         "verb"
+        ],
+        [
+         "t",
+         "ending"
+        ],
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "in Wien?",
+         "place"
+        ],
+        [
+         "– Ja.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Sprichst",
+       "verb"
+      ],
+      [
+       "du",
+       "subject"
+      ],
+      [
+       "Deutsch?",
+       "other"
+      ]
+     ],
+     "more": "Think of a question as a flipped sentence. Normal: Du wohnst in Berlin. For a yes/no question, flip the verb to the front: Wohnst du in Berlin? Step 1: write the statement. Step 2: move the verb to position 1. Step 3: the person comes right after it. The verb stays the same. English adds do or does (Do you live in Berlin?). German skips that and just moves the verb. Extra example: Bist du Mira? = Are you Mira? Answer: Ja or Nein."
+    },
+    {
+     "title": "Two kinds of questions",
+     "body": "W-question: question word in position 1, verb in position 2. Yes/no question: verb in position 1. English adds do or does. German just moves the verb.",
+     "examples": [
+      {
+       "de": "Wo wohnst du?",
+       "en": "Where do you live?",
+       "why": "W-question: wo, then the verb.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wohnst du in Berlin?",
+       "en": "Do you live in Berlin?",
+       "why": "yes/no question: the verb first.",
+       "parts": [
+        [
+         "Wohn",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "in Berlin?",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Bist du Mira?",
+       "en": "Are you Mira?",
+       "why": "yes/no question with sein: bist first.",
+       "parts": [
+        [
+         "Bist",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Mira?",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "kind",
+       "1",
+       "2",
+       "3"
+      ],
+      "rows": [
+       [
+        "W-question",
+        "Woher",
+        "kommst",
+        "du?"
+       ],
+       [
+        "yes/no",
+        "Kommst",
+        "du",
+        "aus Wien?"
+       ]
+      ]
+     },
+     "more": "Think of two kinds of questions as two doors. Door one: you want information, so start with a question word (W-question). The verb comes second. Door two: you want ja or nein, so start with the verb. Step 1: do I want a detail or a yes/no? Step 2: pick the door. Wo wohnst du? asks for a place. Wohnst du in Berlin? asks yes or no. Extra example: Woher kommen Sie? is door one. Kommen Sie aus Spanien? is door two.",
+     "parts": [
+      [
+       "Wohnst",
+       "verb"
+      ],
+      [
+       "du",
+       "subject"
+      ],
+      [
+       "in Berlin?",
+       "place"
+      ]
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:1WT_cuee12Y",
+     "yt:s-e4cXgmEy4",
+     "yt:quKwjiPerJE",
+     "yt:mzlMUjgLzps"
+    ],
+    "nicosWeg": [
+     "nw:a1-04"
+    ],
+    "practice": []
+   },
+   "drills": [
+    {
+     "type": "type",
+     "prompt": "Du ___ Englisch. (sprechen)",
+     "answers": [
+      "sprichst"
+     ],
+     "hint": "With du, the e in the stem becomes i.",
+     "explanation": "sprich + st = sprichst.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Anna ___ Spanisch. (sprechen)",
+     "answers": [
+      "spricht"
+     ],
+     "hint": "Anna = sie: e becomes i, then -t.",
+     "explanation": "sprich + t = spricht.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which one is a yes/no question?",
+     "options": [
+      "Wo wohnst du?",
+      "Wohnst du in Wien?"
+     ],
+     "answer": 1,
+     "hint": "Which one starts with the verb?",
+     "explanation": "Wohnst du in Wien? starts with the verb.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Do you speak German? (to a friend)",
+     "tokens": [
+      "Deutsch?",
+      "Sprichst",
+      "du"
+     ],
+     "answer": [
+      "Sprichst",
+      "du",
+      "Deutsch?"
+     ],
+     "hint": "Verb first, then du.",
+     "explanation": "Sprichst + du + Deutsch.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ ein bisschen Deutsch. (sprechen)",
+     "answers": [
+      "spreche"
+     ],
+     "hint": "ich keeps the e.",
+     "explanation": "sprech + e = spreche.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Are you from Spain? (polite)",
+     "tokens": [
+      "Spanien?",
+      "aus",
+      "Kommen",
+      "Sie"
+     ],
+     "answer": [
+      "Kommen",
+      "Sie",
+      "aus",
+      "Spanien?"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Kommen + Sie + aus Spanien.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What do people speak in Italy?",
+     "options": [
+      "Italienisch",
+      "Spanisch",
+      "Englisch"
+     ],
+     "answer": 0,
+     "hint": "Look at the language table.",
+     "explanation": "Italien → Italienisch."
+    },
+    {
+     "type": "choice",
+     "prompt": "How do you ask someone to spell a word?",
+     "options": [
+      "Wie schreibt man das?",
+      "Wie geht's?",
+      "Wer ist das?"
+     ],
+     "answer": 0,
+     "hint": "Look at the spelling card.",
+     "explanation": "Wie schreibt man das? = How do you spell that?"
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: Does Leon speak English?",
+    "answers": [
+     "Spricht Leon Englisch?"
+    ],
+    "hint": "Yes/no question: the verb first. Leon = er, so e becomes i.",
+    "explanation": "Spricht + Leon + Englisch?",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Er ___ Deutsch. (sprechen)",
+     "answers": [
+      "spricht"
+     ],
+     "hint": "er: e becomes i.",
+     "explanation": "er spricht.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which form is right for ich?",
+     "options": [
+      "ich spreche",
+      "ich spriche"
+     ],
+     "answer": 0,
+     "hint": "Which persons keep the e?",
+     "explanation": "ich keeps e: spreche.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Where is the verb in a yes/no question?",
+     "options": [
+      "position 1",
+      "position 2",
+      "at the end"
+     ],
+     "answer": 0,
+     "hint": "Look at the yes/no question card.",
+     "explanation": "The verb comes first.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Does Mira live in Hamburg?",
+     "tokens": [
+      "Hamburg?",
+      "in",
+      "Mira",
+      "Wohnt"
+     ],
+     "answer": [
+      "Wohnt",
+      "Mira",
+      "in",
+      "Hamburg?"
+     ],
+     "hint": "Verb first, then Mira.",
+     "explanation": "Wohnt + Mira + in Hamburg.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Du sprechst Englisch. What is wrong?",
+     "options": [
+      "With du, e becomes i: sprichst.",
+      "du needs -en.",
+      "Nothing is wrong."
+     ],
+     "answer": 0,
+     "hint": "Look at the sprechen table.",
+     "explanation": "du sprichst.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "___ du aus Italien? (kommen) — a yes/no question",
+     "answers": [
+      "Kommst"
+     ],
+     "hint": "Verb first, du form.",
+     "explanation": "Kommst du aus Italien?",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Wo wohnst du? What kind of question is it?",
+     "options": [
+      "a W-question",
+      "a yes/no question"
+     ],
+     "answer": 0,
+     "hint": "Does it start with a question word?",
+     "explanation": "wo is a question word: W-question.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Sprechen Sie Deutsch? Which answer fits?",
+     "options": [
+      "Ja, ein bisschen.",
+      "Aus Spanien.",
+      "In Berlin."
+     ],
+     "answer": 0,
+     "hint": "A yes/no question gets ja or nein.",
+     "explanation": "Ja, ein bisschen. = Yes, a little."
+    },
+    {
+     "type": "choice",
+     "prompt": "What are the two dots on ä, ö, ü called?",
+     "options": [
+      "umlaut",
+      "sharp s"
+     ],
+     "answer": 0,
+     "hint": "Look at the first card.",
+     "explanation": "The two dots are an umlaut."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which letter sounds like ss?",
+     "options": [
+      "ß",
+      "ü",
+      "ö"
+     ],
+     "answer": 0,
+     "hint": "It is called sharp s.",
+     "explanation": "ß sounds like ss."
+    },
+    {
+     "type": "choice",
+     "prompt": "What do people speak in Austria?",
+     "options": [
+      "Deutsch",
+      "Italienisch"
+     ],
+     "answer": 0,
+     "hint": "Look at the language table.",
+     "explanation": "Österreich → Deutsch."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means no?",
+     "options": [
+      "nein",
+      "ja"
+     ],
+     "answer": 0,
+     "hint": "ja means yes.",
+     "explanation": "nein = no."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "sprechen",
+     "forms": "ich spreche, du sprichst, er/sie spricht, Sie sprechen",
+     "en": "to speak",
+     "examples": [
+      {
+       "de": "Ich spreche Englisch.",
+       "en": "I speak English."
+      },
+      {
+       "de": "Er spricht Deutsch.",
+       "en": "He speaks German."
+      }
+     ]
+    },
+    {
+     "de": "Sprache",
+     "article": "die",
+     "plural": "die Sprachen",
+     "en": "language",
+     "examples": [
+      {
+       "de": "Sprache: Deutsch.",
+       "en": "Language: German."
+      },
+      {
+       "de": "Sprachen: Deutsch und Englisch.",
+       "en": "Languages: German and English."
+      }
+     ]
+    },
+    {
+     "de": "Deutsch",
+     "en": "German (language)",
+     "examples": [
+      {
+       "de": "Ich spreche Deutsch.",
+       "en": "I speak German."
+      },
+      {
+       "de": "Sprichst du Deutsch?",
+       "en": "Do you speak German?"
+      }
+     ]
+    },
+    {
+     "de": "Englisch",
+     "en": "English",
+     "examples": [
+      {
+       "de": "Du sprichst Englisch.",
+       "en": "You speak English."
+      },
+      {
+       "de": "Sprechen Sie Englisch?",
+       "en": "Do you speak English?"
+      }
+     ]
+    },
+    {
+     "de": "Spanisch",
+     "en": "Spanish",
+     "examples": [
+      {
+       "de": "Ben spricht Spanisch.",
+       "en": "Ben speaks Spanish."
+      },
+      {
+       "de": "Ich spreche ein bisschen Spanisch.",
+       "en": "I speak a little Spanish."
+      }
+     ]
+    },
+    {
+     "de": "Italienisch",
+     "en": "Italian",
+     "examples": [
+      {
+       "de": "Leon spricht Italienisch.",
+       "en": "Leon speaks Italian."
+      },
+      {
+       "de": "Sprichst du Italienisch?",
+       "en": "Do you speak Italian?"
+      }
+     ]
+    },
+    {
+     "de": "schreiben",
+     "forms": "ich schreibe, du schreibst, er/sie schreibt, Sie schreiben",
+     "en": "to write",
+     "examples": [
+      {
+       "de": "Wie schreibt man das?",
+       "en": "How do you spell that?"
+      },
+      {
+       "de": "Ich schreibe A – N – N – A.",
+       "en": "I write A-N-N-A."
+      }
+     ]
+    },
+    {
+     "de": "ein bisschen",
+     "en": "a little",
+     "examples": [
+      {
+       "de": "Ich spreche ein bisschen Deutsch.",
+       "en": "I speak a little German."
+      },
+      {
+       "de": "Ja, ein bisschen.",
+       "en": "Yes, a little."
+      }
+     ]
+    },
+    {
+     "de": "ja",
+     "en": "yes",
+     "examples": [
+      {
+       "de": "Ja, ich spreche Deutsch.",
+       "en": "Yes, I speak German."
+      },
+      {
+       "de": "Bist du Mira? – Ja.",
+       "en": "Are you Mira? – Yes."
+      }
+     ]
+    },
+    {
+     "de": "nein",
+     "en": "no",
+     "examples": [
+      {
+       "de": "Nein, ich komme aus Italien.",
+       "en": "No, I come from Italy."
+      },
+      {
+       "de": "Wohnst du in Wien? – Nein.",
+       "en": "Do you live in Vienna? – No."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say which languages you speak, and which one only a little.",
+     "Ask a friend if they speak English.",
+     "Spell your first name letter by letter."
+    ],
+    "examples": [
+     "Ich spreche Englisch und ein bisschen Deutsch.",
+     "Sprichst du Englisch?",
+     "M – I – R – A."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: She speaks Italian.",
+     "answers": [
+      "Sie spricht Italienisch."
+     ],
+     "hint": "she: e becomes i, then -t.",
+     "explanation": "Sie + spricht + Italienisch."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Do you live in Berlin? (to a friend)",
+     "answers": [
+      "Wohnst du in Berlin?"
+     ],
+     "hint": "Yes/no question: verb first.",
+     "explanation": "Wohnst + du + in Berlin?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: I speak a little English.",
+     "answers": [
+      "Ich spreche ein bisschen Englisch."
+     ],
+     "hint": "ich keeps the e. a little = ein bisschen.",
+     "explanation": "Ich + spreche + ein bisschen Englisch."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: How do you spell that?",
+     "answers": [
+      "Wie schreibt man das?"
+     ],
+     "hint": "The spelling chunk.",
+     "explanation": "Wie schreibt man das?"
+    }
+   ]
+  }
+ ],
+ "skillDays": [
+  {
+   "id": "a1-c01-d1",
+   "level": "a1",
+   "chapter": 1,
+   "day": 1,
+   "reading": {
+    "title": "Hallo, Kurs!",
+    "text": "Mira: Hallo! Ich heiße Mira. Ich komme aus Österreich, aus Wien. Ich wohne in Hamburg.\nBen: Guten Morgen! Ich bin Ben. Ich komme aus Spanien, aus Madrid. Ich wohne auch in Hamburg.\nLeon: Hallo! Ich heiße Leon. Ich komme aus Italien. Ich wohne in Berlin. Und du, Anna? Woher kommst du?\nAnna: Hallo, Leon! Ich komme aus Deutschland, aus München. Ich wohne in Wien.\nHerr Ali: Guten Tag! Ich heiße Ali. Ich komme aus Deutschland. Ich wohne in Berlin.\nFrau Weber: Guten Abend! Willkommen im Kurs! Auf Wiedersehen und bis morgen!",
+    "glossary": [
+     {
+      "de": "auch",
+      "en": "also, too"
+     },
+     {
+      "de": "Willkommen im Kurs!",
+      "en": "Welcome to the course!"
+     },
+     {
+      "de": "bis morgen",
+      "en": "see you tomorrow"
+     }
+    ],
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where does Mira come from?",
+      "options": [
+       "from Spain",
+       "from Austria",
+       "from Italy"
+      ],
+      "answer": 1,
+      "hint": "Read Mira's line.",
+      "explanation": "Mira: Ich komme aus Österreich."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Mira live?",
+      "options": [
+       "in Hamburg",
+       "in Wien",
+       "in Berlin"
+      ],
+      "answer": 0,
+      "hint": "Look for Ich wohne in … in Mira's line.",
+      "explanation": "Mira: Ich wohne in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who comes from Spain?",
+      "options": [
+       "Leon",
+       "Ben",
+       "Anna"
+      ],
+      "answer": 1,
+      "hint": "Find aus Spanien.",
+      "explanation": "Ben: Ich komme aus Spanien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Ben lives in the same city as …",
+      "options": [
+       "Mira",
+       "Leon",
+       "Anna"
+      ],
+      "answer": 0,
+      "hint": "Ben says auch (also).",
+      "explanation": "Mira and Ben both live in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Leon come from?",
+      "options": [
+       "from Germany",
+       "from Italy",
+       "from Austria"
+      ],
+      "answer": 1,
+      "hint": "Read Leon's line.",
+      "explanation": "Leon: Ich komme aus Italien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Which question does Leon ask Anna?",
+      "options": [
+       "Wo wohnst du?",
+       "Woher kommst du?",
+       "Wie heißt du?"
+      ],
+      "answer": 1,
+      "hint": "Look at the end of Leon's line.",
+      "explanation": "Leon asks: Woher kommst du?"
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Anna live?",
+      "options": [
+       "in München",
+       "in Wien",
+       "in Hamburg"
+      ],
+      "answer": 1,
+      "hint": "München is where she comes from.",
+      "explanation": "Anna: Ich wohne in Wien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who lives in Berlin?",
+      "options": [
+       "Leon and Herr Ali",
+       "Mira and Ben",
+       "Anna and Frau Weber"
+      ],
+      "answer": 0,
+      "hint": "Find in Berlin twice.",
+      "explanation": "Leon and Herr Ali both say Ich wohne in Berlin."
+     },
+     {
+      "type": "choice",
+      "prompt": "Which greeting does Herr Ali use?",
+      "options": [
+       "Hallo!",
+       "Guten Morgen!",
+       "Guten Tag!"
+      ],
+      "answer": 2,
+      "hint": "Read the start of his line.",
+      "explanation": "Herr Ali: Guten Tag!"
+     },
+     {
+      "type": "choice",
+      "prompt": "What time of day is it when Frau Weber writes?",
+      "options": [
+       "morning",
+       "evening"
+      ],
+      "answer": 1,
+      "hint": "Look at her greeting.",
+      "explanation": "Guten Abend = good evening."
+     }
+    ]
+   },
+   "listening": {
+    "title": "Der erste Tag",
+    "script": "Frau Weber: Guten Morgen! Willkommen im Kurs! Wie heißen Sie?\nMira: Guten Morgen, Frau Weber. Ich heiße Mira.\nFrau Weber: Woher kommen Sie, Mira?\nMira: Ich komme aus Österreich, aus Wien. Ich wohne in Hamburg.\nBen: Hallo! Ich bin Ben. Wie heißt du?\nMira: Ich heiße Mira. Woher kommst du, Ben?\nBen: Ich komme aus Spanien. Und du? Wo wohnst du?\nMira: In Hamburg. Und du?\nBen: Ich wohne auch in Hamburg. Wie geht's?\nMira: Gut, danke! Tschüss, Ben! Auf Wiedersehen, Frau Weber!\nFrau Weber: Auf Wiedersehen!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "What time of day is it?",
+      "options": [
+       "morning",
+       "evening"
+      ],
+      "answer": 0,
+      "hint": "Listen to the first greeting.",
+      "explanation": "Frau Weber says Guten Morgen."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Frau Weber ask Mira's name?",
+      "options": [
+       "Wie heißt du?",
+       "Wie heißen Sie?"
+      ],
+      "answer": 1,
+      "hint": "Frau Weber is polite.",
+      "explanation": "She asks: Wie heißen Sie?"
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the name of the student that Frau Weber talks to?",
+      "options": [
+       "Mira",
+       "Anna"
+      ],
+      "answer": 0,
+      "hint": "Listen to her answer.",
+      "explanation": "Ich heiße Mira."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Mira come from?",
+      "options": [
+       "from Vienna, in Austria",
+       "from Spain"
+      ],
+      "answer": 0,
+      "hint": "Listen for aus.",
+      "explanation": "Ich komme aus Österreich, aus Wien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Mira live?",
+      "options": [
+       "in Berlin",
+       "in Hamburg"
+      ],
+      "answer": 1,
+      "hint": "Listen for wohne in.",
+      "explanation": "Ich wohne in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "Does Ben say du or Sie to Mira?",
+      "options": [
+       "du",
+       "Sie"
+      ],
+      "answer": 0,
+      "hint": "Listen to his question.",
+      "explanation": "Ben asks: Wie heißt du?"
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Ben come from?",
+      "options": [
+       "from Spain",
+       "from Italy"
+      ],
+      "answer": 0,
+      "hint": "Listen for aus.",
+      "explanation": "Ich komme aus Spanien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Ben live?",
+      "options": [
+       "in Hamburg",
+       "in Berlin"
+      ],
+      "answer": 0,
+      "hint": "Listen to his last answer: he says auch (also).",
+      "explanation": "Ich wohne auch in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "Ben asks Wie geht's? What does Mira say?",
+      "options": [
+       "Gut, danke!",
+       "Guten Abend!"
+      ],
+      "answer": 0,
+      "hint": "Listen to her answer.",
+      "explanation": "Gut, danke! = Good, thanks!"
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Mira say goodbye to Frau Weber?",
+      "options": [
+       "Tschüss!",
+       "Auf Wiedersehen!"
+      ],
+      "answer": 1,
+      "hint": "Frau Weber gets the polite goodbye.",
+      "explanation": "Auf Wiedersehen, Frau Weber!"
+     }
+    ]
+   },
+   "writing": {
+    "items": [
+     {
+      "type": "type",
+      "prompt": "Hallo! Ich ___ Mira. (am called)",
+      "answers": [
+       "heiße",
+       "heisse"
+      ],
+      "hint": "Use the chunk Ich heiße.",
+      "explanation": "Ich heiße Mira."
+     },
+     {
+      "type": "type",
+      "prompt": "Wie ___ du? (heißen) — to a friend",
+      "answers": [
+       "heißt",
+       "heisst"
+      ],
+      "hint": "Which form of heißen goes with du?",
+      "explanation": "Wie heißt du?"
+     },
+     {
+      "type": "type",
+      "prompt": "Guten Tag! Wie ___ Sie? (heißen) — polite",
+      "answers": [
+       "heißen",
+       "heissen"
+      ],
+      "hint": "Which form of heißen goes with Sie?",
+      "explanation": "Wie heißen Sie?"
+     },
+     {
+      "type": "build",
+      "prompt": "Build: I come from Spain.",
+      "tokens": [
+       "Ich",
+       "Spanien.",
+       "komme",
+       "aus"
+      ],
+      "answer": [
+       "Ich",
+       "komme",
+       "aus",
+       "Spanien."
+      ],
+      "hint": "The verb is part 2.",
+      "explanation": "Ich + komme + aus Spanien."
+     },
+     {
+      "type": "type",
+      "prompt": "Woher ___ du? (kommen)",
+      "answers": [
+       "kommst"
+      ],
+      "hint": "Which form of kommen goes with du?",
+      "explanation": "Woher kommst du?"
+     },
+     {
+      "type": "type",
+      "prompt": "Ich ___ in Berlin. (wohnen)",
+      "answers": [
+       "wohne"
+      ],
+      "hint": "Use the chunk Ich wohne in.",
+      "explanation": "Ich wohne in Berlin."
+     },
+     {
+      "type": "type",
+      "prompt": "Make it polite: Wie heißt du?",
+      "answers": [
+       "Wie heißen Sie?",
+       "Wie heissen Sie?"
+      ],
+      "hint": "Swap du for Sie, and use the Sie form of heißen.",
+      "explanation": "Polite: Wie heißen Sie?"
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Where do you live? (polite)",
+      "tokens": [
+       "wohnen",
+       "Sie?",
+       "Wo"
+      ],
+      "answer": [
+       "Wo",
+       "wohnen",
+       "Sie?"
+      ],
+      "hint": "Question word, verb, person.",
+      "explanation": "Wo + wohnen + Sie."
+     },
+     {
+      "type": "type",
+      "prompt": "Make it friendly: Woher kommen Sie?",
+      "answers": [
+       "Woher kommst du?"
+      ],
+      "hint": "Swap Sie for du, and use the du form of kommen.",
+      "explanation": "Friendly: Woher kommst du?"
+     },
+     {
+      "type": "type",
+      "prompt": "Write in German: Good evening! I am Ben.",
+      "answers": [
+       "Guten Abend! Ich bin Ben.",
+       "Guten Abend! Ich heiße Ben.",
+       "Guten Abend! Ich heisse Ben."
+      ],
+      "hint": "Evening greeting, then a name chunk.",
+      "explanation": "Guten Abend! Ich bin Ben."
+     }
+    ],
+    "free": {
+     "prompt": "You are Leon. Write 4 or 5 short sentences: greet, say your name, say that you come from Italy and live in Berlin, then ask a friend for their name.",
+     "minWords": 15,
+     "model": "Guten Tag! Ich heiße Leon. Ich komme aus Italien. Ich wohne in Berlin. Wie heißt du?",
+     "checks": [
+      {
+       "label": "says the name with heiße or bin",
+       "pattern": "\\bich (heiße|heisse|bin) leon\\b"
+      },
+      {
+       "label": "uses Ich komme aus",
+       "pattern": "\\bich komme aus\\b"
+      },
+      {
+       "label": "uses Ich wohne in",
+       "pattern": "\\bich wohne in\\b"
+      },
+      {
+       "label": "asks a name with Wie heißt du?",
+       "pattern": "\\bwie (heißt|heisst) du\\b"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "a1-c01-d2",
+   "level": "a1",
+   "chapter": 1,
+   "day": 2,
+   "reading": {
+    "title": "Wer ist das?",
+    "text": "Wer ist das? Das ist Anna. Sie kommt aus Deutschland, aus München. Aber sie wohnt jetzt in Wien. Anna ist Studentin. Sie spricht Deutsch und Englisch.\nDas ist Ben. Er kommt aus Spanien und wohnt in Hamburg. Ben ist auch Student. Er spricht Spanisch, Englisch und ein bisschen Deutsch.\nUnd das ist Frau Weber. Sie ist Lehrerin. Sie wohnt auch in Hamburg. Frau Weber spricht Deutsch und Italienisch.\nLeon ist neu. Er kommt aus Italien und wohnt in Berlin. Er spricht Italienisch und ein bisschen Deutsch. Leon ist nett!",
+    "glossary": [
+     {
+      "de": "München",
+      "en": "Munich"
+     },
+     {
+      "de": "Wien",
+      "en": "Vienna"
+     }
+    ],
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where does Anna come from?",
+      "options": [
+       "from Munich",
+       "from Vienna",
+       "from Hamburg"
+      ],
+      "answer": 0,
+      "hint": "Read the first lines.",
+      "explanation": "Sie kommt aus Deutschland, aus München."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Anna live now?",
+      "options": [
+       "in Munich",
+       "in Vienna"
+      ],
+      "answer": 1,
+      "hint": "Look for jetzt (now).",
+      "explanation": "Aber sie wohnt jetzt in Wien."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is Anna?",
+      "options": [
+       "a teacher",
+       "a student"
+      ],
+      "answer": 1,
+      "hint": "Look for Studentin or Lehrerin.",
+      "explanation": "Anna ist Studentin."
+     },
+     {
+      "type": "choice",
+      "prompt": "Which languages does Anna speak?",
+      "options": [
+       "German and English",
+       "German and Italian"
+      ],
+      "answer": 0,
+      "hint": "Read Anna's part.",
+      "explanation": "Sie spricht Deutsch und Englisch."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Ben live?",
+      "options": [
+       "in Hamburg",
+       "in Berlin"
+      ],
+      "answer": 0,
+      "hint": "Read Ben's part.",
+      "explanation": "Er wohnt in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "How much German does Ben speak?",
+      "options": [
+       "a lot",
+       "a little"
+      ],
+      "answer": 1,
+      "hint": "Look for ein bisschen.",
+      "explanation": "ein bisschen Deutsch = a little German."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who is the teacher?",
+      "options": [
+       "Anna",
+       "Frau Weber",
+       "Leon"
+      ],
+      "answer": 1,
+      "hint": "Look for Lehrerin.",
+      "explanation": "Frau Weber ist Lehrerin."
+     },
+     {
+      "type": "choice",
+      "prompt": "Which two people live in Hamburg?",
+      "options": [
+       "Ben and Frau Weber",
+       "Anna and Leon"
+      ],
+      "answer": 0,
+      "hint": "Frau Weber wohnt auch in Hamburg.",
+      "explanation": "Ben and Frau Weber live in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who is new?",
+      "options": [
+       "Ben",
+       "Leon"
+      ],
+      "answer": 1,
+      "hint": "Look for neu.",
+      "explanation": "Leon ist neu."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who speaks Italian?",
+      "options": [
+       "Frau Weber and Leon",
+       "Anna and Ben"
+      ],
+      "answer": 0,
+      "hint": "Look for Italienisch.",
+      "explanation": "Frau Weber and Leon speak Italienisch."
+     }
+    ]
+   },
+   "listening": {
+    "title": "Wie schreibt man das?",
+    "script": "Frau Weber: Guten Tag! Wie heißen Sie?\nLeon: Guten Tag. Ich heiße Leon Rossi.\nFrau Weber: Rossi? Wie schreibt man das?\nLeon: R – O – S – S – I.\nFrau Weber: Danke. Woher kommen Sie, Herr Rossi?\nLeon: Ich komme aus Italien. Ich wohne jetzt in Berlin.\nFrau Weber: Sprechen Sie Englisch?\nLeon: Ja. Und ich spreche ein bisschen Deutsch.\nFrau Weber: Super! Das ist Anna. Sie wohnt auch in Berlin.\nAnna: Hallo, Leon! Wie geht's?\nLeon: Gut, danke! Sprichst du Italienisch?\nAnna: Nein. Ich spreche Deutsch und Spanisch.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "What is Leon's family name?",
+      "options": [
+       "Rossi",
+       "Weber"
+      ],
+      "answer": 0,
+      "hint": "Listen to his first answer.",
+      "explanation": "Ich heiße Leon Rossi."
+     },
+     {
+      "type": "choice",
+      "prompt": "How many S letters are in his family name?",
+      "options": [
+       "one",
+       "two"
+      ],
+      "answer": 1,
+      "hint": "Listen to the spelling.",
+      "explanation": "R – O – S – S – I."
+     },
+     {
+      "type": "choice",
+      "prompt": "Does Frau Weber say du or Sie to Leon?",
+      "options": [
+       "du",
+       "Sie"
+      ],
+      "answer": 1,
+      "hint": "Listen to her questions.",
+      "explanation": "She asks Wie heißen Sie? and Sprechen Sie Englisch?"
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Leon come from?",
+      "options": [
+       "Italy",
+       "Spain"
+      ],
+      "answer": 0,
+      "hint": "Listen for aus.",
+      "explanation": "Ich komme aus Italien."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Leon live now?",
+      "options": [
+       "in Berlin",
+       "in Hamburg"
+      ],
+      "answer": 0,
+      "hint": "Listen for jetzt.",
+      "explanation": "Ich wohne jetzt in Berlin."
+     },
+     {
+      "type": "choice",
+      "prompt": "Does Leon speak English?",
+      "options": [
+       "yes",
+       "no"
+      ],
+      "answer": 0,
+      "hint": "Listen to his answer to Sprechen Sie Englisch?",
+      "explanation": "Leon says Ja."
+     },
+     {
+      "type": "choice",
+      "prompt": "How much German does Leon speak?",
+      "options": [
+       "a little",
+       "very well"
+      ],
+      "answer": 0,
+      "hint": "Listen for ein bisschen.",
+      "explanation": "ein bisschen Deutsch."
+     },
+     {
+      "type": "choice",
+      "prompt": "Who lives in Berlin too?",
+      "options": [
+       "Anna",
+       "Frau Weber"
+      ],
+      "answer": 0,
+      "hint": "Listen to Frau Weber introducing someone.",
+      "explanation": "Das ist Anna. Sie wohnt auch in Berlin."
+     },
+     {
+      "type": "choice",
+      "prompt": "How is Leon?",
+      "options": [
+       "good",
+       "not good"
+      ],
+      "answer": 0,
+      "hint": "Listen to his answer to Wie geht's?",
+      "explanation": "Gut, danke!"
+     },
+     {
+      "type": "choice",
+      "prompt": "Does Anna speak Italian?",
+      "options": [
+       "yes",
+       "no"
+      ],
+      "answer": 1,
+      "hint": "Listen to her last line.",
+      "explanation": "Nein. Ich spreche Deutsch und Spanisch."
+     }
+    ]
+   },
+   "writing": {
+    "items": [
+     {
+      "type": "type",
+      "prompt": "Ben ___ aus Spanien. (kommen)",
+      "answers": [
+       "kommt"
+      ],
+      "hint": "Ben = er.",
+      "explanation": "er kommt."
+     },
+     {
+      "type": "type",
+      "prompt": "Du ___ in Wien. (wohnen)",
+      "answers": [
+       "wohnst"
+      ],
+      "hint": "du takes -st.",
+      "explanation": "du wohnst."
+     },
+     {
+      "type": "type",
+      "prompt": "Sie ___ Anna. (heißen; sie = she)",
+      "answers": [
+       "heißt",
+       "heisst"
+      ],
+      "hint": "Remember the heißen table.",
+      "explanation": "sie heißt."
+     },
+     {
+      "type": "type",
+      "prompt": "Das ___ Frau Weber. (sein)",
+      "answers": [
+       "ist"
+      ],
+      "hint": "das works like er and sie.",
+      "explanation": "Das ist Frau Weber."
+     },
+     {
+      "type": "type",
+      "prompt": "Du ___ nett. (sein)",
+      "answers": [
+       "bist"
+      ],
+      "hint": "Look at the du line of the sein table.",
+      "explanation": "du bist."
+     },
+     {
+      "type": "type",
+      "prompt": "Leon ___ Italienisch. (sprechen)",
+      "answers": [
+       "spricht"
+      ],
+      "hint": "er: e becomes i.",
+      "explanation": "Leon spricht."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Is Anna a student?",
+      "tokens": [
+       "Anna",
+       "Ist",
+       "Studentin?"
+      ],
+      "answer": [
+       "Ist",
+       "Anna",
+       "Studentin?"
+      ],
+      "hint": "Yes/no question: verb first. Anna is a woman.",
+      "explanation": "Ist + Anna + Studentin?"
+     },
+     {
+      "type": "type",
+      "prompt": "Make it a yes/no question: Du sprichst Deutsch.",
+      "answers": [
+       "Sprichst du Deutsch?"
+      ],
+      "hint": "Move the verb to position 1.",
+      "explanation": "Sprichst du Deutsch?"
+     },
+     {
+      "type": "type",
+      "prompt": "Change ich to er: Ich wohne in Berlin.",
+      "answers": [
+       "Er wohnt in Berlin."
+      ],
+      "hint": "er takes -t.",
+      "explanation": "Er wohnt in Berlin."
+     },
+     {
+      "type": "type",
+      "prompt": "Write in German: This is Ben. He is a student.",
+      "answers": [
+       "Das ist Ben. Er ist Student."
+      ],
+      "hint": "Das ist + name, then er ist + job.",
+      "explanation": "Das ist Ben. Er ist Student."
+     }
+    ],
+    "free": {
+     "prompt": "Introduce Anna in 4 or 5 short sentences. Start with Das ist Anna. Say where she comes from, where she lives, what she is and what she speaks.",
+     "minWords": 15,
+     "model": "Das ist Anna. Sie kommt aus München. Sie wohnt jetzt in Wien. Sie ist Studentin. Sie spricht Deutsch und Englisch.",
+     "checks": [
+      {
+       "label": "introduces with Das ist",
+       "pattern": "\\bdas ist anna\\b"
+      },
+      {
+       "label": "says where she comes from",
+       "pattern": "\\b(sie|anna) kommt aus\\b"
+      },
+      {
+       "label": "says where she lives",
+       "pattern": "\\b(sie|anna) wohnt\\b"
+      },
+      {
+       "label": "uses ist for her job",
+       "pattern": "\\b(sie|anna) ist (studentin|lehrerin)\\b"
+      },
+      {
+       "label": "says what she speaks",
+       "pattern": "\\b(sie|anna) spricht\\b"
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

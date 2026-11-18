@@ -1,0 +1,599 @@
+{
+ "book": "A1",
+ "pdfPages": 176,
+ "pageOffset": "printed = pdf - 1",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Guten Tag!",
+   "printedPages": [
+    8,
+    17
+   ],
+   "pdfPages": [
+    9,
+    18
+   ],
+   "communication": [
+    "greet and say goodbye",
+    "introduce yourself and others",
+    "ask how someone is and react",
+    "talk about where you live, come from, languages",
+    "say numbers 1-20",
+    "give phone number and email",
+    "spell words"
+   ],
+   "grammar": [
+    "W-question (question word + verb)",
+    "statement, verb in position 2",
+    "personal pronouns in short texts",
+    "sein, heissen, kommen, wohnen (intro forms)"
+   ],
+   "vocab": [
+    "numbers 1-20",
+    "countries and languages",
+    "contact-detail labels"
+   ],
+   "pronunciation": [
+    "alphabet incl. umlauts and sharp s"
+   ],
+   "strategy": [
+    "writing and saying an email address"
+   ],
+   "culture": [
+    "countries and languages; du/Sie; D-A-CH"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 2,
+   "title": "Freunde, Kollegen und ich",
+   "printedPages": [
+    18,
+    27
+   ],
+   "pdfPages": [
+    19,
+    28
+   ],
+   "communication": [
+    "talk about hobbies",
+    "arrange to meet, name weekdays",
+    "talk about work, jobs, working hours",
+    "numbers from 20 up (tens, hundreds, thousands, million)",
+    "fill in a form"
+   ],
+   "grammar": [
+    "irregular verbs (stem change, extra e) + all personal pronouns",
+    "yes/no question (verb first)",
+    "definite article der/das/die",
+    "noun singular and plural",
+    "haben and sein full present"
+   ],
+   "vocab": [
+    "hobbies",
+    "weekdays",
+    "numbers 20+",
+    "jobs"
+   ],
+   "pronunciation": [
+    "sentence melody in questions and answers"
+   ],
+   "strategy": [
+    "learn nouns with article and plural"
+   ],
+   "culture": [
+    "joining a club"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 3,
+   "title": "In Hamburg",
+   "printedPages": [
+    28,
+    37
+   ],
+   "pdfPages": [
+    29,
+    38
+   ],
+   "communication": [
+    "name places and buildings",
+    "ask and answer about places",
+    "name transport",
+    "ask what a thing is",
+    "ask for and describe a route",
+    "seasons and months"
+   ],
+   "grammar": [
+    "indefinite article ein/eine",
+    "negation article kein/keine",
+    "imperative with Sie",
+    "adjective after sein"
+   ],
+   "vocab": [
+    "places and buildings",
+    "transport",
+    "directions",
+    "months and seasons"
+   ],
+   "pronunciation": [
+    "long and short vowels"
+   ],
+   "strategy": [
+    "understand texts via international words"
+   ],
+   "culture": [
+    "Hamburg events; seasons in D-A-CH"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 4,
+   "title": "Guten Appetit!",
+   "printedPages": [
+    44,
+    53
+   ],
+   "pdfPages": [
+    45,
+    54
+   ],
+   "communication": [
+    "plan shopping, write a list",
+    "buy goods, ask price",
+    "offer food, accept or decline",
+    "say likes and dislikes",
+    "describe meals"
+   ],
+   "grammar": [
+    "accusative (articles, direct object)",
+    "essen, moegen, moechten",
+    "time expression in position 1, verb stays second",
+    "common food verbs with object"
+   ],
+   "vocab": [
+    "food and drink",
+    "quantities and units",
+    "shops",
+    "meals"
+   ],
+   "pronunciation": [
+    "umlauts a-umlaut, o-umlaut, u-umlaut"
+   ],
+   "strategy": [
+    "group vocabulary; W-questions to find info in a text"
+   ],
+   "culture": [
+    "food jobs, mealtime politeness"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 5,
+   "title": "Alltag und Familie",
+   "printedPages": [
+    54,
+    63
+   ],
+   "pdfPages": [
+    55,
+    64
+   ],
+   "communication": [
+    "tell time (official and everyday)",
+    "say when things start, end, last",
+    "family and daily routine",
+    "make appointments, phone",
+    "apologise for being late"
+   ],
+   "grammar": [
+    "am / um / von-bis",
+    "possessive articles (nom. and acc.)",
+    "muessen, koennen, wollen",
+    "modal verb + infinitive at the end"
+   ],
+   "vocab": [
+    "parts of the day, routines",
+    "family members"
+   ],
+   "pronunciation": [
+    "r (inside word and at end)"
+   ],
+   "strategy": [
+    "prepare an appointment phone call"
+   ],
+   "culture": [
+    "punctuality"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 6,
+   "title": "Zeit mit Freunden",
+   "printedPages": [
+    64,
+    73
+   ],
+   "pdfPages": [
+    65,
+    74
+   ],
+   "communication": [
+    "dates and birthdays",
+    "write and read invitations",
+    "plan leisure, ask someone to join",
+    "order food and drink",
+    "pay, tip",
+    "describe an event (war/hatte)",
+    "radio recommendation"
+   ],
+   "grammar": [
+    "ordinals up to 31",
+    "separable verbs (also with modal)",
+    "accusative personal pronouns",
+    "fuer + accusative",
+    "war and hatte (simple past)"
+   ],
+   "vocab": [
+    "leisure and events",
+    "restaurant words"
+   ],
+   "pronunciation": [
+    "ei, eu, au"
+   ],
+   "strategy": [
+    "listen/read for key facts, not every word"
+   ],
+   "culture": [
+    "informal eating places; zusammen oder getrennt, tipping"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 7,
+   "title": "Arbeitsalltag",
+   "printedPages": [
+    80,
+    89
+   ],
+   "pdfPages": [
+    81,
+    90
+   ],
+   "communication": [
+    "describe a working day",
+    "workplace exchange, polite requests",
+    "say where you are, go to, come from",
+    "describe a sequence (zuerst, dann)",
+    "read and write a short letter",
+    "office small talk"
+   ],
+   "grammar": [
+    "und, oder, aber (main clauses)",
+    "dative articles and plural -n",
+    "mit + dative",
+    "zu, bei, aus, von + dative",
+    "in + dative, contractions zum zur beim vom im",
+    "ja/nein/doch"
+   ],
+   "vocab": [
+    "office",
+    "banking and media",
+    "tasks and people"
+   ],
+   "pronunciation": [
+    "s, sch, st"
+   ],
+   "strategy": [
+    "plan a letter"
+   ],
+   "culture": [
+    "small-talk topics at work"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 8,
+   "title": "Fit und gesund",
+   "printedPages": [
+    90,
+    99
+   ],
+   "pdfPages": [
+    91,
+    100
+   ],
+   "communication": [
+    "give and understand instructions",
+    "age, height, weight; decline personal question",
+    "symptoms at the doctor",
+    "ask what is allowed, for how long",
+    "pass on instructions with sollen",
+    "permission, obligation, prohibition",
+    "health tips"
+   ],
+   "grammar": [
+    "imperative du/ihr/Sie (incl. sein, stem change)",
+    "separable verb in imperative",
+    "duerfen, sollen (with muessen)"
+   ],
+   "vocab": [
+    "body parts",
+    "illnesses, symptoms",
+    "medicine forms, health roles"
+   ],
+   "pronunciation": [
+    "p/b, t/d, k/g"
+   ],
+   "strategy": [
+    "guess words from known parts and context"
+   ],
+   "culture": [
+    "household remedies"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 9,
+   "title": "Meine Wohnung",
+   "printedPages": [
+    100,
+    109
+   ],
+   "pdfPages": [
+    101,
+    110
+   ],
+   "communication": [
+    "read housing ad (size, rent, place)",
+    "describe a home",
+    "plan furniture, where to put it",
+    "say where things are",
+    "accept or decline invitation",
+    "give opinion of rooms",
+    "who you live with",
+    "write short home description"
+   ],
+   "grammar": [
+    "adjective with sein, nicht/sehr/zu",
+    "in + accusative (where to) vs dative (where)",
+    "nine two-way prepositions with dative (position)"
+   ],
+   "vocab": [
+    "rooms",
+    "furniture and appliances",
+    "colours",
+    "housing types"
+   ],
+   "pronunciation": [
+    "long and short e"
+   ],
+   "strategy": [
+    "build text from sentence chunks"
+   ],
+   "culture": [
+    "housing and living arrangements"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 10,
+   "title": "Studium und Beruf",
+   "printedPages": [
+    116,
+    125
+   ],
+   "pdfPages": [
+    117,
+    126
+   ],
+   "communication": [
+    "describe study/work day",
+    "report what happened",
+    "job seeking, applications",
+    "say job is fun/tiring/well paid",
+    "telephone call opening and closing",
+    "ask for repetition or spelling"
+   ],
+   "grammar": [
+    "Perfekt with haben/sein, verb bracket",
+    "past participle regular, extra e",
+    "-ieren verbs without ge",
+    "irregular participles",
+    "sein with movement/change, bleiben, passieren",
+    "war/hatte instead of Perfekt for sein/haben"
+   ],
+   "vocab": [
+    "jobs and workplaces",
+    "study",
+    "applications"
+   ],
+   "pronunciation": [
+    "h"
+   ],
+   "strategy": [
+    "phoning, clarification phrases"
+   ],
+   "culture": [
+    "seasonal jobs"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 11,
+   "title": "Die Jacke gefaellt mir!",
+   "printedPages": [
+    126,
+    135
+   ],
+   "pdfPages": [
+    127,
+    136
+   ],
+   "communication": [
+    "talk about clothes, preferences",
+    "compliments",
+    "buy clothes (size, colour, fit)",
+    "find department in a store",
+    "ask for information politely",
+    "report completed shopping",
+    "find info about Berlin"
+   ],
+   "grammar": [
+    "welcher, dieser (nom/acc/dat)",
+    "dative personal pronouns incl. Ihnen",
+    "gefallen, stehen, passen, helfen",
+    "participles of separable verbs (ge inside)",
+    "participles of inseparable verbs (no ge)"
+   ],
+   "vocab": [
+    "clothes",
+    "shops and departments"
+   ],
+   "pronunciation": [
+    "stress on prefix verbs"
+   ],
+   "strategy": [
+    "read store directory"
+   ],
+   "culture": [
+    "Berlin"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 12,
+   "title": "Ab in den Urlaub!",
+   "printedPages": [
+    136,
+    145
+   ],
+   "pdfPages": [
+    137,
+    146
+   ],
+   "communication": [
+    "suggest a city tour",
+    "understand and give transit route",
+    "write a postcard",
+    "read/write a travel report",
+    "describe weather",
+    "talk about destinations",
+    "order day activities"
+   ],
+   "grammar": [
+    "man",
+    "denn (reason)",
+    "wer/wen/wem/was",
+    "question words overview",
+    "temporal prepositions ab, an, in, nach, seit, vor + dative"
+   ],
+   "vocab": [
+    "holiday types, travel gear",
+    "sights",
+    "compass points",
+    "weather"
+   ],
+   "pronunciation": [
+    "f, v, w"
+   ],
+   "strategy": [
+    "retell a text from key facts"
+   ],
+   "culture": [
+    "holiday destinations in Germany"
+   ],
+   "weight": "medium"
+  }
+ ],
+ "plateaus": [
+  {
+   "afterChapter": 3,
+   "pages": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "pdfPages": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "note": "famous people, D-A-CH cities"
+  },
+  {
+   "afterChapter": 6,
+   "pages": [
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ],
+   "pdfPages": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ],
+   "note": "regional dishes"
+  },
+  {
+   "afterChapter": 9,
+   "pages": [
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ],
+   "pdfPages": [
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
+   ],
+   "note": "review"
+  },
+  {
+   "afterChapter": 12,
+   "pages": [
+    146,
+    147,
+    148,
+    149,
+    150,
+    151
+   ],
+   "pdfPages": [
+    147,
+    148,
+    149,
+    150,
+    151,
+    152
+   ],
+   "note": "trip through D-A-CH"
+  }
+ ],
+ "appendix": [
+  "grammar overview, printed 152-159 (word order, verbs present, werden/wissen, modals, war/hatte, Perfekt, articles, possessives, welcher/dieser, pronouns, prepositions, ordinals, question words)",
+  "irregular verb list, printed 160-161",
+  "alphabetical word list, printed 162-174",
+  "source credits, printed 175"
+ ]
+}

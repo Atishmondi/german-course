@@ -1,0 +1,572 @@
+{
+ "book": "A2",
+ "pdfPages": 180,
+ "pageOffset": "Scanned spreads, each duplicated: PDF pages come in identical pairs (even N, N+1) showing two printed pages. Printed left page p sits on PDF p+2 and again on p+3 (e.g. PDF 12 and 13 show printed 10-11; PDF 82 and 83 show 80-81; PDF 154 shows 152-153). PDF 6-7 and 8-9 are the two contents spreads (printed 4-7). So pdfPages = [printedStart+2, printedEnd+3]; read only the even PDF page of each pair.",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Und was machst du?",
+   "printedPages": [
+    8,
+    17
+   ],
+   "pdfPages": [
+    10,
+    20
+   ],
+   "communication": [
+    "introduce yourself",
+    "report on past events",
+    "talk with others / make small talk",
+    "give reasons and justify",
+    "find information on a homepage",
+    "order in a restaurant"
+   ],
+   "grammar": [
+    "genitive with names (Julias Schwester)",
+    "review of the perfect tense (regular and irregular, sein/haben)",
+    "subordinate clause with weil (verb at end)"
+   ],
+   "vocab": [
+    "leisure",
+    "activities",
+    "at the restaurant"
+   ],
+   "pronunciation": [
+    "ch as in ich vs ach"
+   ],
+   "strategy": [
+    "learn words in sense groups"
+   ],
+   "culture": [
+    "eating in Germany/Lunch",
+    "Die Netzwerk-WG: Das sind wir / Wir haben was mitgebracht"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 2,
+   "title": "Nach der Schulzeit",
+   "printedPages": [
+    18,
+    27
+   ],
+   "pdfPages": [
+    20,
+    30
+   ],
+   "communication": [
+    "understand reports about school years",
+    "talk about school",
+    "write comments",
+    "understand a radio broadcast",
+    "give opinions",
+    "present info about school systems"
+   ],
+   "grammar": [
+    "modal verbs in the preterite (musste, wollte, konnte...)",
+    "review of the perfect/preterite use",
+    "possessive articles in the dative",
+    "articles review"
+   ],
+   "vocab": [
+    "school experiences",
+    "school types",
+    "school subjects"
+   ],
+   "pronunciation": [
+    "e sounds (unstressed/e)"
+   ],
+   "strategy": [
+    "use important set phrases when speaking (Redemittel)"
+   ],
+   "culture": [
+    "school system / Schulhomepage",
+    "Das Schulprojekt, In der Schule"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 3,
+   "title": "Immer online?",
+   "printedPages": [
+    28,
+    37
+   ],
+   "pdfPages": [
+    30,
+    40
+   ],
+   "communication": [
+    "talk about pros and cons",
+    "make comparisons",
+    "give opinions",
+    "talk about films and plots",
+    "understand film descriptions",
+    "write a comment"
+   ],
+   "grammar": [
+    "adjectives: comparative and superlative",
+    "comparisons with so wie / als",
+    "subordinate clause with dass"
+   ],
+   "vocab": [
+    "media",
+    "media activities",
+    "film"
+   ],
+   "pronunciation": [
+    "b or w; stress in words"
+   ],
+   "strategy": [
+    "read long texts"
+   ],
+   "culture": [
+    "Filmorte, Kino! Kino!",
+    "Habt ihr Zeit? / Warte mal / Picknick im Park"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 4,
+   "title": "Grosse und kleine Gefuehle",
+   "printedPages": [
+    44,
+    53
+   ],
+   "pdfPages": [
+    46,
+    56
+   ],
+   "communication": [
+    "talk about feelings",
+    "congratulate",
+    "express condolences",
+    "thank",
+    "express joy or regret",
+    "talk about an event",
+    "understand blogs"
+   ],
+   "grammar": [
+    "subordinate clause with wenn (conditions, repeated events)",
+    "reflexive verbs (accusative reflexive pronoun)",
+    "wenn vs als introduced in context"
+   ],
+   "vocab": [
+    "festivals",
+    "events",
+    "feelings",
+    "thank you"
+   ],
+   "pronunciation": [
+    "emotional speaking / intonation"
+   ],
+   "strategy": [
+    "structure texts"
+   ],
+   "culture": [
+    "a festival in the north",
+    "Hier fuehle ich mich wohl",
+    "Schlechte Laune / Alles wieder gut / Die Nachricht"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 5,
+   "title": "Leben in der Stadt",
+   "printedPages": [
+    54,
+    63
+   ],
+   "pdfPages": [
+    56,
+    66
+   ],
+   "communication": [
+    "talk about things in town",
+    "have conversations at banks and offices",
+    "ask for and give directions",
+    "describe a city tour",
+    "request politely",
+    "talk about an app"
+   ],
+   "grammar": [
+    "adjective endings after the definite article",
+    "prepositions without article / accusative + dative",
+    "Konjunktiv II: koennte (polite requests)"
+   ],
+   "vocab": [
+    "city",
+    "application",
+    "bank",
+    "offices"
+   ],
+   "pronunciation": [
+    "friendly politeness / polite intonation"
+   ],
+   "strategy": [
+    "manage a situation / handle conversations"
+   ],
+   "culture": [
+    "Rund um den Ring: Wien",
+    "Ein Job fuer Max / Das Probearbeiten"
+   ],
+   "weight": "medium"
+  },
+  {
+   "n": 6,
+   "title": "Arbeitswelten",
+   "printedPages": [
+    64,
+    73
+   ],
+   "pdfPages": [
+    66,
+    76
+   ],
+   "communication": [
+    "talk about a job",
+    "conduct a conversation at a vehicle",
+    "talk about leisure",
+    "read information from texts",
+    "describe jobs, wishes and a dream job",
+    "phone"
+   ],
+   "grammar": [
+    "adjective endings after the indefinite article",
+    "werden (become / future)"
+   ],
+   "vocab": [
+    "work",
+    "activities",
+    "phone"
+   ],
+   "pronunciation": [
+    "m or n"
+   ],
+   "strategy": [
+    "telephoning in German"
+   ],
+   "culture": [
+    "Telefonieren am Arbeitsplatz",
+    "Die moderne Arbeitswelt",
+    "Wann fahren wir? / Der Schnupperkurs / Das Alphabet"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 7,
+   "title": "Ganz schoen mobil",
+   "printedPages": [
+    80,
+    89
+   ],
+   "pdfPages": [
+    82,
+    92
+   ],
+   "communication": [
+    "ask for information",
+    "understand/give directions",
+    "pros and cons of transport",
+    "give your own opinion",
+    "describe a graph",
+    "short stories"
+   ],
+   "grammar": [
+    "indirect questions: W-questions and yes/no with ob",
+    "location prepositions (Ortsangaben)"
+   ],
+   "vocab": [
+    "public transport",
+    "traffic",
+    "way to work"
+   ],
+   "pronunciation": [
+    "difficult words"
+   ],
+   "strategy": [
+    "write a story"
+   ],
+   "culture": [
+    "Verkehr in D-A-CH",
+    "Unterwegs / Die Lehrerdiele / Der Weg zu Anna"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 8,
+   "title": "Gelernt ist gelernt!",
+   "printedPages": [
+    90,
+    99
+   ],
+   "pdfPages": [
+    92,
+    102
+   ],
+   "communication": [
+    "understand learning problems",
+    "give advice",
+    "report on professional life",
+    "interview",
+    "present"
+   ],
+   "grammar": [
+    "Konjunktiv II: sollte (advice)",
+    "interrogative article Was fuer ein(e)?"
+   ],
+   "vocab": [
+    "learning",
+    "exams",
+    "presentations"
+   ],
+   "pronunciation": [
+    "b, d and g at word end"
+   ],
+   "strategy": [
+    "prepare a presentation"
+   ],
+   "culture": [
+    "Verein 'Nachbarn fuer Nachbarn'",
+    "Luca lernt Griechisch / Die Praesentation / Machen wir weiter"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 9,
+   "title": "Sportlich, sportlich",
+   "printedPages": [
+    100,
+    109
+   ],
+   "pdfPages": [
+    102,
+    112
+   ],
+   "communication": [
+    "express hope and disappointment",
+    "comment",
+    "understand and write",
+    "ask questions and answer",
+    "describe a travel report",
+    "sequences and contrasts"
+   ],
+   "grammar": [
+    "connecting sentences: deshalb, trotzdem",
+    "verbs with dative and accusative"
+   ],
+   "vocab": [
+    "sport",
+    "fans",
+    "competitions"
+   ],
+   "pronunciation": [
+    "r or l"
+   ],
+   "strategy": [
+    "read difficult texts"
+   ],
+   "culture": [
+    "A place for sport",
+    "Was ist los? / Nach dem Wettbewerb / Hallo?"
+   ],
+   "weight": "light"
+  },
+  {
+   "n": 10,
+   "title": "Zusammen leben",
+   "printedPages": [
+    116,
+    125
+   ],
+   "pdfPages": [
+    118,
+    128
+   ],
+   "communication": [
+    "ask for a favor",
+    "complain",
+    "decide",
+    "give places (location)",
+    "plan a party",
+    "report experiences",
+    "present a city",
+    "react to information",
+    "write a story"
+   ],
+   "grammar": [
+    "two-way prepositions (Wechselpraepositionen)",
+    "position and direction verbs",
+    "subordinate clause with als and dass"
+   ],
+   "vocab": [
+    "living",
+    "neighbors",
+    "places",
+    "moving house",
+    "animals"
+   ],
+   "pronunciation": [
+    "sentence stress (Satzakzent)"
+   ],
+   "strategy": [
+    "text writing"
+   ],
+   "culture": [
+    "The Germans and their pets",
+    "Nach der WG-Party",
+    "Vor dem Aufbau",
+    "Das WG-Casting"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 11,
+   "title": "Wie die Zeit vergeht!",
+   "printedPages": [
+    126,
+    135
+   ],
+   "pdfPages": [
+    128,
+    138
+   ],
+   "communication": [
+    "understand time problems",
+    "express wishes",
+    "give advice",
+    "plan together",
+    "text exchange",
+    "exchange info",
+    "understand proverbs"
+   ],
+   "grammar": [
+    "Konjunktiv II",
+    "verbs with prepositions",
+    "W-questions with preposition (Woran? Worauf?)"
+   ],
+   "vocab": [
+    "time",
+    "free time",
+    "wishes",
+    "plans"
+   ],
+   "pronunciation": [
+    "sentence stress (Satzakzent)"
+   ],
+   "strategy": [
+    "describe words / paraphrase words"
+   ],
+   "culture": [
+    "Living in another time",
+    "Spruchwoerter",
+    "Traeume",
+    "Annas Tag",
+    "Kommt Zeit, kommt Rat"
+   ],
+   "weight": "heavy"
+  },
+  {
+   "n": 12,
+   "title": "Gute Unterhaltung!",
+   "printedPages": [
+    136,
+    145
+   ],
+   "pdfPages": [
+    138,
+    148
+   ],
+   "communication": [
+    "plan a festival visit",
+    "ask for something",
+    "talk about music",
+    "present a musician or a band",
+    "understand newspaper reports",
+    "get precise information about people",
+    "talk about painting",
+    "describe a picture"
+   ],
+   "grammar": [
+    "indefinite pronouns",
+    "relative clauses in nominative and accusative"
+   ],
+   "vocab": [
+    "music",
+    "describing pictures",
+    "paintings"
+   ],
+   "pronunciation": [
+    "Rueckfragen (echo questions)"
+   ],
+   "strategy": [
+    "describe a picture"
+   ],
+   "culture": [
+    "Malerei gestern und heute",
+    "Anna malt",
+    "Lieblingsbilder"
+   ],
+   "weight": "medium"
+  }
+ ],
+ "plateaus": [
+  {
+   "name": "Plattform 1",
+   "printedPages": [
+    38,
+    43
+   ],
+   "pdfPages": [
+    40,
+    45
+   ],
+   "theme": "Review/train, Sprachmittlung, Landeskunde: Filmorte in D-A-CH"
+  },
+  {
+   "name": "Plattform 2",
+   "printedPages": [
+    74,
+    79
+   ],
+   "pdfPages": [
+    76,
+    81
+   ],
+   "theme": "Review/train, Sprachmittlung, Landeskunde: Feste in D-A-CH"
+  },
+  {
+   "name": "Plattform 3",
+   "printedPages": [
+    110,
+    115
+   ],
+   "pdfPages": [
+    112,
+    117
+   ],
+   "theme": "Review/train, Sprachmittlung, Landeskunde: Zu Fuss ueber die Alpen"
+  },
+  {
+   "name": "Plattform 4",
+   "printedPages": [
+    146,
+    151
+   ],
+   "pdfPages": [
+    148,
+    153
+   ],
+   "theme": "Review/train, Sprachmittlung, Landeskunde: Poesie und Prosa"
+  }
+ ],
+ "appendix": [
+  "Grammatikuebersicht printed 152-163 (PDF 154-165): sentences/word order, subordinate clauses, verbs (tenses, modals, Konjunktiv II, reflexive, imperative, perfect, separable), nouns and articles, adjectives, prepositions",
+  "Unregelmaessige Verben printed 164 (PDF 166)",
+  "Alphabetische Wortliste printed 165-174 (PDF 167-177)",
+  "Quellenverzeichnis printed 175 (PDF 177-178)",
+  "Remaining PDF pages ~179-180 unchecked (probably back cover)"
+ ],
+ "notes": "Chapter ranges inferred from contents-page starts (10 printed pages per chapter, 6 per plateau); chapter end pages not individually viewed. Grammar lists come from the Inhalt and Anhang overview; small print."
+}

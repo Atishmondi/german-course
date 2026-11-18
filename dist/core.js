@@ -1,80 +1,156 @@
-
+// Saved state, migration and answer checking. Pure logic: no DOM, no localStorage (app.js does storage).
 (function(root){
   'use strict';
-  const VERSION=1;
-  const normalise=s=>String(s).normalize('NFC').toLocaleLowerCase('de').replace(/[.,!?;:„“"'’]/g,'').replace(/\s+/g,' ').trim();
-  const defaults=()=>({version:VERSION,progress:{},active:null,saved:[],seen:[],reviews:{},days:{},skills:{reading:{},writing:{}},sprint:root.GERMAN_SPRINT.defaults(),settings:{goal:5,speed:0.8,focus:false,breaks:true,reduced:false}});
-  function clean(input,course){
-    const state=defaults();
-    if(!input||typeof input!=='object'||input.version!==VERSION)throw new Error('This is not a German learning progress file.');
-    const lessons=new Map(course.lessons.map(l=>[l.id,l]));
-    const words=new Set(course.words.map(w=>w.id));
-    for(const [id,p] of Object.entries(input.progress||{})){
-      if(!lessons.has(id)||!p||typeof p!=='object')continue;
-      const total=lessons.get(id).cards.length+lessons.get(id).practice.length+1;
-      state.progress[id]={step:Math.max(0,Math.min(total,Math.trunc(Number(p.step)||0))),assisted:!!p.assisted,blindCorrect:!!p.blindCorrect,replaying:!!p.replaying,
-        completedAt:typeof p.completedAt==='string'&&!Number.isNaN(Date.parse(p.completedAt))?p.completedAt:null,
-        correct:Array.isArray(p.correct)?[...new Set(p.correct.filter(n=>Number.isInteger(n)&&n>=0&&n<lessons.get(id).practice.length))]:[],
-        taught:Array.isArray(p.taught)?[...new Set(p.taught.filter(n=>Number.isInteger(n)&&n>=0&&n<lessons.get(id).cards.length))]:[],
-        attempts:p.attempts&&typeof p.attempts==='object'?Object.fromEntries(Object.entries(p.attempts).filter(([key])=>/^\d{1,2}$/.test(key)).map(([key,value])=>[key,Math.max(0,Math.min(10000,Number(value)||0))])):{},
-        answer:typeof p.answer==='string'?p.answer.slice(0,1000):'',build:Array.isArray(p.build)?p.build.filter(n=>Number.isInteger(n)&&n>=0&&n<50):[]};
-    }
-    if(lessons.has(input.active)&&state.progress[input.active]&&(!state.progress[input.active].completedAt||state.progress[input.active].replaying))state.active=input.active;
-    for(const key of ['saved','seen'])state[key]=[...new Set((Array.isArray(input[key])?input[key]:[]).filter(id=>words.has(id)))];
-    for(const [id,r] of Object.entries(input.reviews||{})){
-      if(words.has(id)&&r&&Number.isFinite(r.due))state.reviews[id]={due:r.due,level:Math.max(0,Math.min(4,Math.trunc(Number(r.level)||0)))};
-    }
-    for(const [date,day] of Object.entries(input.days||{})){
-      if(/^\d{4}-\d{2}-\d{2}$/.test(date)&&day&&typeof day==='object')state.days[date]={minutes:Math.max(0,Math.min(1440,Number(day.minutes)||0)),lessons:Math.max(0,Number(day.lessons)||0)};
-    }
-    for(const [id,entry] of Object.entries(input.skills?.reading||{})){
-      if(lessons.has(id)&&entry&&typeof entry==='object')state.skills.reading[id]={correct:[...new Set((Array.isArray(entry.correct)?entry.correct:[]).filter(i=>Number.isInteger(i)&&i>=0&&i<3))],doneAt:typeof entry.doneAt==='string'?entry.doneAt:null};
-    }
-    for(const [id,entry] of Object.entries(input.skills?.writing||{})){
-      if(lessons.has(id)&&entry&&typeof entry==='object')state.skills.writing[id]={draft:typeof entry.draft==='string'?entry.draft.slice(0,5000):'',passed:!!entry.passed,doneAt:typeof entry.doneAt==='string'?entry.doneAt:null};
-    }
-    state.sprint=root.GERMAN_SPRINT.clean(input.sprint);
-    const setting=input.settings||{};
-    state.settings={goal:[3,5,10].includes(setting.goal)?setting.goal:5,speed:[0.65,0.8,1].includes(setting.speed)?setting.speed:0.8,focus:!!setting.focus,breaks:setting.breaks!==false,reduced:!!setting.reduced};
-    return state;
-  }
-  const dateKey=(d=new Date())=>[d.getFullYear(),String(d.getMonth()+1).padStart(2,'0'),String(d.getDate()).padStart(2,'0')].join('-');
-  function due(state,now=Date.now()){return Object.keys(state.reviews).filter(id=>state.reviews[id].due<=now).sort((a,b)=>state.reviews[a].due-state.reviews[b].due);}
-  function next(state,course){const order=course.book?.order||course.lessons.map(l=>l.id);return order.map(id=>course.lessons.find(l=>l.id===id)).find(l=>l&&!state.progress[l.id]?.completedAt)||course.lessons.find(l=>!state.progress[l.id]?.completedAt)||null;}
-  function finish(state,lesson,now=Date.now()){
-    const progress=state.progress[lesson.id];
-    if(!progress||new Set(progress.correct).size!==lesson.practice.length||!progress.blindCorrect)return false;
-    if(lesson.requireTeachingEvidence&&lesson.cards.some((_,i)=>!progress.taught?.includes(i)))return false;
-    const first=!progress.completedAt;
-    progress.step=lesson.cards.length+lesson.practice.length+1;
-    progress.completedAt=progress.completedAt||new Date(now).toISOString();
-    progress.replaying=false;
-    state.active=null;
-    if(first){const key=dateKey(new Date(now));state.days[key]??={minutes:0,lessons:0};state.days[key].lessons++;state.days[key].minutes+=lesson.minutes;}
-    for(const id of lesson.words||[]){
-      if(!state.seen.includes(id))state.seen.push(id);
-      if(!state.reviews[id])state.reviews[id]={due:now+86400000,level:0};
-    }
-    return true;
-  }
-  function review(state,id,remembered,now=Date.now()){
-    const current=state.reviews[id]||{level:0};
-    const level=remembered?Math.min(4,current.level+1):0;
-    const days=[0,1,3,7,14][level];
-    state.reviews[id]={level,due:remembered?now+days*86400000:now+10*60000};
-    if(!state.seen.includes(id))state.seen.push(id);
-  }
-  function isCorrect(question,value){
-    if(question.type==='choice')return value===question.answer;
-    if(question.type==='build')return normalise(value)===normalise(question.answer.join(' '));
-    if(question.type==='writing')return writingFeedback(question,value).correct;
-    return question.answers.some(a=>normalise(value)===normalise(a));
-  }
-  function writingFeedback(question,value){
-    const answer=normalise(value),exact=question.answers.some(a=>normalise(a)===answer);
-    const criteria=(question.checks||[]).map(c=>({label:c.label,passed:new RegExp(c.pattern,'u').test(answer)}));
-    return {correct:!!answer&&(exact||(criteria.length>0&&criteria.every(c=>c.passed))),criteria};
-  }
-  root.KLEIN_CORE={VERSION,normalise,defaults,clean,dateKey,due,next,finish,review,isCorrect,writingFeedback};
-})(typeof window==='undefined'?globalThis:window);
+  const VERSION=2;
+  const HINT_AFTER=2; // wrong tries before the hint shows and "Show answer" unlocks
 
+  const normalise=s=>String(s??'').normalize('NFC').toLocaleLowerCase('de').replace(/ß/g,'ss')
+    .replace(/[.,!?;:„“”"'’‚‘«»()\-–—]/g,' ').replace(/\s+/g,' ').trim();
+
+  const defaults=planId=>({version:VERSION,planId:planId||null,
+    position:{day:1},          // furthest unlocked plan day the learner is on
+    days:{},                   // "<n>": {startedAt, doneAt}
+    lessons:{},                // "<lessonId>": {step, completedAt, completedOnDay, redo}  redo: replaying a finished lesson
+    practice:{},               // "<qkey>": {tries, correct, revealed, value}  "Try again" / redo answers; never scored
+    skillDays:{},              // "<skillDayId>": {step, doneAt}
+    answers:{},                // "<qkey>": {tries, correct, revealed, value}
+    notYet:{},                 // "<qkey>": true  -> revealed answers come back in recall
+    recall:{},                 // "<lessonId>@<rung>": {passed, revealed, doneAt}
+    words:{},                  // "<wordId>": {level, due}
+    drafts:{},                 // "<key>": free-writing text
+    streak:{count:0,last:null},
+    stats:{correct:0,answered:0},
+    settings:{reminders:true,interval:5,celebrate:true,sound:false,reduced:false,speed:0.85}});
+
+  const isObj=v=>!!v&&typeof v==='object'&&!Array.isArray(v);
+  const isDate=v=>typeof v==='string'&&!Number.isNaN(Date.parse(v));
+  const int=(v,min,max,d)=>{const n=Math.trunc(Number(v));return Number.isFinite(n)?Math.max(min,Math.min(max,n)):d;};
+  const KEY=/^[\w@|:.-]{1,120}$/;
+  const pick=(obj,fn)=>Object.fromEntries(Object.entries(isObj(obj)?obj:{}).filter(([k])=>KEY.test(k)).map(([k,v])=>[k,fn(v)]).filter(([,v])=>v!==undefined));
+
+  // Shape-checks a v2 state. Unknown keys are dropped; nothing throws.
+  function clean(input,planId){
+    const s=defaults(planId);
+    if(!isObj(input))return s;
+    s.planId=typeof input.planId==='string'?input.planId:s.planId;
+    s.position={day:int(input.position?.day,1,999,1)};
+    s.days=pick(input.days,v=>isObj(v)?{startedAt:isDate(v.startedAt)?v.startedAt:null,doneAt:isDate(v.doneAt)?v.doneAt:null}:undefined);
+    s.lessons=pick(input.lessons,v=>isObj(v)?{step:int(v.step,0,999,0),completedAt:isDate(v.completedAt)?v.completedAt:null,completedOnDay:v.completedOnDay==null?null:int(v.completedOnDay,1,999,null),redo:!!v.redo&&isDate(v.completedAt)}:undefined);
+    s.skillDays=pick(input.skillDays,v=>isObj(v)?{step:int(v.step,0,999,0),doneAt:isDate(v.doneAt)?v.doneAt:null}:undefined);
+    const ans=v=>isObj(v)?{tries:int(v.tries,0,999,0),correct:!!v.correct,revealed:!!v.revealed,value:typeof v.value==='string'?v.value.slice(0,2000):Array.isArray(v.value)?v.value.filter(Number.isInteger).slice(0,60):Number.isInteger(v.value)?v.value:null}:undefined;
+    s.answers=pick(input.answers,ans);
+    s.practice=pick(input.practice,ans);
+    s.notYet=pick(input.notYet,v=>v===true?true:undefined);
+    s.recall=pick(input.recall,v=>isObj(v)?{passed:!!v.passed,revealed:!!v.revealed,doneAt:isDate(v.doneAt)?v.doneAt:null}:undefined);
+    s.words=pick(input.words,v=>isObj(v)&&Number.isFinite(v.due)?{level:int(v.level,0,5,0),due:v.due}:undefined);
+    s.drafts=pick(input.drafts,v=>typeof v==='string'?v.slice(0,5000):undefined);
+    s.streak={count:int(input.streak?.count,0,9999,0),last:/^\d{4}-\d{2}-\d{2}$/.test(input.streak?.last||'')?input.streak.last:null};
+    s.stats={correct:int(input.stats?.correct,0,1e7,0),answered:int(input.stats?.answered,0,1e7,0)};
+    const st=input.settings||{};
+    s.settings={reminders:st.reminders!==false,interval:[3,5,10].includes(st.interval)?st.interval:5,celebrate:st.celebrate!==false,
+      sound:!!st.sound,reduced:!!st.reduced,speed:[0.7,0.85,1].includes(st.speed)?st.speed:0.85};
+    return s;
+  }
+
+  // Any stored value -> {state, backup}. backup is the old raw value when it is not v2 (caller saves it once).
+  // Idempotent: migrate(JSON of migrate(x).state) gives the same state.
+  function migrate(raw,planId){
+    let data=raw;
+    if(typeof raw==='string'){try{data=JSON.parse(raw);}catch{data=null;}}
+    if(isObj(data)&&data.version===VERSION)return {state:clean(data,planId),backup:null};
+    return {state:defaults(planId),backup:data==null?null:raw};
+  }
+
+  const qkey=(owner,section,i)=>`${owner}|${section}|${i}`;
+
+  function isCorrect(q,value){
+    if(!q)return false;
+    if(q.type==='choice')return value!=null&&value!==''&&Number(value)===q.answer;
+    if(q.type==='build'){
+      const text=Array.isArray(value)?value.map(i=>q.tokens[i]).join(' '):value;
+      return normalise(text)===normalise(q.answer.join(' '));
+    }
+    return (q.answers||[]).some(a=>normalise(value)===normalise(a));
+  }
+
+  const st=a=>!a?'open':a.correct?'correct':a.revealed?'revealed':'open';
+  // status = the first try (this is the score). live = what the learner sees now (a practice retry if one exists).
+  const status=(state,key)=>st(state.answers[key]);
+  const record=(state,key)=>(state.practice&&state.practice[key])||state.answers[key]||null;
+  const live=(state,key)=>st(record(state,key));
+  const fresh=()=>({tries:0,correct:false,revealed:false,value:null});
+
+  // One try. Returns what the UI should show next. Practice tries (after "Try again" or in a redo) never touch answers or stats.
+  function attempt(state,key,q,value){
+    const p=state.practice&&state.practice[key];
+    if(p){if(p.correct||p.revealed)return view(p);p.tries++;p.value=value;if(isCorrect(q,value))p.correct=true;return view(p);}
+    const a=state.answers[key]||(state.answers[key]=fresh());
+    if(a.correct||a.revealed)return view(a);
+    const ok=isCorrect(q,value);
+    a.tries++;a.value=value;
+    state.stats.answered++;
+    if(ok){a.correct=true;state.stats.correct++;delete state.notYet[key];}
+    return view(a);
+  }
+  // "Try again": only once the question is answered or revealed. Clears the visible answer; the first try stays the score.
+  function retry(state,key){
+    if(live(state,key)==='open')return false;
+    (state.practice||(state.practice={}))[key]=fresh();return true;
+  }
+  // Redo a finished lesson from the start. keys = every question key of the lesson. completedAt/completedOnDay and answers stay.
+  function startRedo(state,lessonId,keys){
+    const rec=state.lessons[lessonId];if(!rec||!rec.completedAt)return false;
+    rec.redo=true;rec.step=0;
+    const p=state.practice||(state.practice={});keys.forEach(k=>{p[k]=fresh();});return true;
+  }
+  // "Reset answers": show these questions fresh again. Only questions whose first try is finished (or already practising) get a
+  // practice entry; an unanswered one keeps counting as the first try. answers, stats, completedAt, completedOnDay never change.
+  function resetKeys(state,keys){
+    const p=state.practice||(state.practice={});let n=0;
+    keys.forEach(k=>{if(p[k]||status(state,k)!=='open'){p[k]=fresh();n++;}});return n;
+  }
+  function endRedo(state,lessonId){
+    const rec=state.lessons[lessonId];if(rec)rec.redo=false;
+    for(const k of Object.keys(state.practice||{}))if(k.startsWith(lessonId+'|'))delete state.practice[k];
+  }
+  const view=a=>({correct:a.correct,revealed:a.revealed,tries:a.tries,showHint:!a.correct&&!a.revealed&&a.tries>=HINT_AFTER,
+    canReveal:!a.correct&&!a.revealed&&a.tries>=HINT_AFTER,done:a.correct||a.revealed});
+
+  function reveal(state,key){
+    const p=state.practice&&state.practice[key];
+    if(p){if(p.correct||p.revealed||p.tries<HINT_AFTER)return false;p.revealed=true;return true;}
+    const a=state.answers[key];
+    if(!a||a.correct||a.revealed||a.tries<HINT_AFTER)return false;
+    a.revealed=true;state.notYet[key]=true;return true;
+  }
+
+  // questions: array; returns {done, right, total} for a section owned by `owner`. First tries only, unless useLive (redo score).
+  function section(state,owner,name,questions,useLive){
+    let right=0,done=0;
+    questions.forEach((_,i)=>{const s=(useLive?live:status)(state,qkey(owner,name,i));if(s!=='open')done++;if(s==='correct')right++;});
+    return {done:done===questions.length,right,total:questions.length};
+  }
+
+  function writingFeedback(free,text){
+    const words=String(text||'').trim().split(/\s+/).filter(Boolean).length;
+    const norm=normalise(text);
+    const checks=(free.checks||[]).map(c=>{let passed=false;try{passed=new RegExp(c.pattern,'iu').test(norm);}catch{}return {label:c.label,passed};});
+    return {words,enough:words>=(free.minWords||0),checks,passed:words>=(free.minWords||0)&&checks.every(c=>c.passed)};
+  }
+
+  const dateKey=(d=new Date())=>[d.getFullYear(),String(d.getMonth()+1).padStart(2,'0'),String(d.getDate()).padStart(2,'0')].join('-');
+  function touchStreak(state,now=new Date()){
+    const today=dateKey(now);if(state.streak.last===today)return state.streak.count;
+    const y=new Date(now);y.setDate(y.getDate()-1);
+    state.streak.count=state.streak.last===dateKey(y)?state.streak.count+1:1;state.streak.last=today;return state.streak.count;
+  }
+
+  // Word review ladder in calendar days (vocabulary only; lesson recall uses plan days, see plan.js).
+  function reviewWord(state,id,remembered,now=Date.now()){
+    const cur=state.words[id]||{level:0};
+    const level=remembered?Math.min(5,cur.level+1):0;
+    state.words[id]={level,due:remembered?now+[0,1,3,7,14,30][level]*864e5:now+10*6e4};
+  }
+
+  root.KLEIN_CORE={VERSION,HINT_AFTER,normalise,defaults,clean,migrate,qkey,isCorrect,status,live,record,attempt,retry,resetKeys,startRedo,endRedo,reveal,section,writingFeedback,dateKey,touchStreak,reviewWord};
+})(typeof window==='undefined'?globalThis:window);

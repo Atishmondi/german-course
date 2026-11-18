@@ -1,178 +1,579 @@
-
-/* German A1: local-first German practice. No app accounts, analytics, microphone access, or tracking. */
+// App shell: storage, hash router, sidebar + breadcrumb, and the Home / Chapters / Day / Progress / Grammar / Words / Settings screens.
+// Players (lesson.js) and the plan (plan.js) are mounted through the interfaces in active/app-interfaces.md.
 (function(){
   'use strict';
-  const course=window.GERMAN_COURSE;
-  const C=window.KLEIN_CORE;
-  const root=document.getElementById('app');
-  if(!course?.lessons?.length||!C){root.innerHTML='<main class="noscript"><h1>The lessons could not load.</h1><p>Reload this page to try again. Your saved progress stays in this browser.</p></main>';return;}
-  const STORAGE='klein-german-v1';
-  let state=C.defaults(),memoryOnly=false,toastTimer,selected=null,build=[],answer='',feedback=null,hint=false,revealed=false,wordFilter='seen',search='',reviewSession=null,dialog=null;
-  let theorySection='intro',labChoice=null,labFeedback=null,labReadingIndex=0,readingTranslation=false;
-  try{const raw=localStorage.getItem(STORAGE);if(raw){const input=JSON.parse(raw);state=C.clean(input,course);if(input.sprint&&input.sprint.planId!==window.GERMAN_SPRINT.PLAN_ID&&!localStorage.getItem('german-progress-before-full35'))localStorage.setItem('german-progress-before-full35',raw);}}catch{memoryOnly=true;}
-  let route=location.hash.slice(1)||'today';
-  const e=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const lessonById=id=>course.lessons.find(l=>l.id===id);
-  const wordById=id=>course.words.find(w=>w.id===id);
-  const wordDe=w=>[w.article,w.de].filter(Boolean).join(' ');
-  const completed=()=>course.lessons.filter(l=>state.progress[l.id]?.completedAt).length;
-  const totalSteps=l=>l.cards.length+l.practice.length+1;
-  const icons={
-    sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/>',
-    home:'<path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1Z"/>',
-    path:'<circle cx="6" cy="5" r="2"/><circle cx="18" cy="19" r="2"/><path d="M6 7v3a3 3 0 0 0 3 3h6a3 3 0 0 1 3 3v1M15 5h6m-3-3v6"/>',
-    book:'<path d="M12 5C9 3 5 3 2 4v15c3-1 7-1 10 1 3-2 7-2 10-1V4c-3-1-7-1-10 1Zm0 0v15"/>',
-    review:'<path d="M3 10a9 9 0 1 1 2 8M3 4v6h6M12 7v5l3 2"/>',
-    settings:'<path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3" fill="currentColor" stroke="none"/><circle cx="15" cy="17" r="3" fill="currentColor" stroke="none"/>',
-    arrow:'<path d="M4 12h15m-6-6 6 6-6 6"/>',
-    chevron:'<path d="m9 5 7 7-7 7"/>',
-    back:'<path d="m14 6-6 6 6 6"/>',
-    check:'<path d="m5 12 4 4L19 6"/>',
-    clock:'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
-    speaker:'<path d="m11 4-6 5H2v6h3l6 5ZM15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/>',
-    focus:'<path d="M8 3H4a1 1 0 0 0-1 1v4m13-5h4a1 1 0 0 1 1 1v4M3 16v4a1 1 0 0 0 1 1h4m8 0h4a1 1 0 0 0 1-1v-4"/><circle cx="12" cy="12" r="3"/>',
-    plant:'<path d="M12 21V11M12 14C4 14 3 8 3 4c7 0 10 3 9 10Zm0-3c0-6 4-9 9-9 0 5-2 10-9 10"/>',
-    blocks:'<rect x="2" y="13" width="8" height="8" rx="2"/><rect x="14" y="13" width="8" height="8" rx="2"/><rect x="8" y="2" width="8" height="8" rx="2"/>',
-    bag:'<path d="M4 7h16l1 14H3L4 7Z"/><path d="M8 8V6a4 4 0 0 1 8 0v2"/>',
-    link:'<path d="m10 7 3-3a5 5 0 0 1 7 7l-3 3m-3 3-3 3a5 5 0 0 1-7-7l3-3m1 6 8-8"/>',
-    flower:'<path d="M12 8c-6-9-12-1-5 4-9 4-1 13 5 4 6 9 14 0 5-4 7-5 1-13-5-4Z"/><circle cx="12" cy="12" r="2"/>',
-    search:'<circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/>',
-    save:'<path d="M6 3h12v19l-6-4-6 4V3Z"/>',
-    download:'<path d="M12 3v12m-5-5 5 5 5-5M3 17v4h18v-4"/>',
-    upload:'<path d="M12 16V4m-5 5 5-5 5 5M3 17v4h18v-4"/>',
-    close:'<path d="m5 5 14 14M5 19 19 5"/>',
-    hand:'<path d="M8 12V5a2 2 0 0 1 4 0v6-8a2 2 0 0 1 4 0v8-5a2 2 0 0 1 4 0v9c0 5-3 7-7 7-3 0-5-2-7-5l-3-4a2 2 0 0 1 3-3l2 2Z"/>',
-    name:'<rect x="3" y="4" width="18" height="16" rx="3"/><path d="M3 9h18M7 14h6m-6 3h10"/>',
-    sound:'<path d="M3 9v6m4-10v14m5-17v20m5-17v14m4-10v6"/>',
-    letters:'<path d="m3 20 6-16 6 16M5 15h8m5-8v13m0-8c6-4 6 9 0 5"/>',
-    number:'<path d="M8 3 5 21M17 3l-3 18M3 9h18M2 15h18"/>',
-    person:'<circle cx="12" cy="7" r="4"/><path d="M4 22v-3a8 8 0 0 1 16 0v3"/>',
-    question:'<circle cx="12" cy="12" r="10"/><path d="M9 8a3 3 0 1 1 4 3c-1 1-1 2-1 3m0 3h.01"/>',
-    cup:'<path d="M4 8h12v6a6 6 0 0 1-12 0V8Zm12 1h2a3 3 0 0 1 0 6h-2M3 22h15M7 2v2m5-2v2"/>'
-  };
-  const icon=(name,size=20)=>`<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]||icons.book}</svg>`;
-  const arrow=()=>icon('arrow',16);
-  const brand=()=>`<a class="brand" href="#today" aria-label="German A1 home"><span class="brand-mark">DE</span><span class="brand-text"><span>German</span><small>A1 · 5 weeks</small></span></a>`;
-  function save(){try{localStorage.setItem(STORAGE,JSON.stringify(state));memoryOnly=false;}catch{if(!memoryOnly)toast('Saving is unavailable in this browser. Export progress from Settings.');memoryOnly=true;}}
-  function toast(message){const el=document.getElementById('toast');el.textContent=message;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),3600);}
-  function navigate(to){if('speechSynthesis'in window)window.speechSynthesis.cancel();if(location.hash.slice(1)===to){route=to;render();}else location.hash=to;}
-  window.addEventListener('hashchange',()=>{route=location.hash.slice(1)||'today';sprintUI.trackRoute(route);resetQuestion();labChoice=null;labFeedback=null;labReadingIndex=0;readingTranslation=false;render();window.scrollTo(0,0);});
-  function nav(){return `<aside class="sidebar">${brand()}<div><p class="nav-label">Your learning space</p><nav class="nav-links" aria-label="Main navigation">${[['today','home','Today'],['plan','path','35-day plan'],['theory','blocks','Theory'],['reading','book','Reading'],['writing','name','Writing'],['more','settings','More']].map(([id,ico,title])=>`<a class="nav-item ${(route.startsWith('day/')?'today':route.startsWith('textbook')?'theory':route==='path'?'theory':route.split('/')[0])===id?'active':''}" href="#${id}" ${(route.startsWith('day/')?'today':route.startsWith('textbook')?'theory':route==='path'?'theory':route.split('/')[0])===id?'aria-current="page"':''}>${icon(ico)}<span>${title}</span>${id==='review'&&C.due(state).length?`<span class="badge">${C.due(state).length}</span>`:''}</a>`).join('')}</nav></div><div class="sidebar-bottom"><div class="little-note"><div class="plant">${icon('plant',25)}</div><strong>Small is a good start.</strong><p>One session at a time.<br>Your place will be here.</p></div></div></aside>`;}
-  const pageTitle={'book-pages':'Book reader',appendix:'Book reference',coverage:'A1 coverage',grammar:'Grammar reference',vocabulary:'Vocabulary practice',recall:'Recall',speaking:'Speaking',plan:'35-day plan',day:'Daily plan',textbook:'Textbook',listening:'Listening',today:'Today',path:'Learning path',theory:'Theory',reading:'Reading',writing:'Writing',more:'Your tools',words:'Word bank',review:'Review',settings:'Settings'};
-  function frame(html){const directLesson=lessonById(state.active)||C.next(state,course);const startButton=`<button class="btn quick-start" data-action="sprint-start">${state.sprint.startedAt?'Continue':'Start'}${icon('arrow',15)}</button>`;return `<div class="layout ${state.settings.focus?'focus-layout':''}">${nav()}<div class="workspace"><header class="topbar"><div class="breadcrumb"><span class="crumb-home">My German</span><span class="crumb-home">/</span><strong>${pageTitle[route.split('/')[0]]||'Today'}</strong></div><div class="top-tools">${startButton}<span class="local-badge"><i></i>${memoryOnly?'This session only':'Progress saved on this device'}</span><button class="focus-toggle" data-action="focus" aria-pressed="${state.settings.focus}" aria-label="${state.settings.focus?'Show navigation':'Hide navigation for focus'}">${icon('focus',16)}${state.settings.focus?'Show navigation':'Focus view'}</button>${state.settings.focus?'<a href="#today" class="tiny text-link">Today</a>':''}</div></header><main id="main" class="content" tabindex="-1">${html}<footer class="footer-line"><span>${icon('plant',12)}A little practice today. A little more familiar tomorrow.</span><button data-action="navigate" data-to="settings">Resources & settings ${'↗'}</button></footer></main></div></div>`;}
-  function intro(label,title,sub,extra=''){return `<div class="page-intro"><div><p class="eyebrow">${e(label)}</p><h1>${e(title)}</h1><p>${e(sub)}</p></div>${extra}</div>`;}
-  function ring(){const count=completed(),percent=Math.round(100*count/course.lessons.length),circ=245;return `<div class="progress-ring"><svg width="86" height="86" viewBox="0 0 86 86" aria-hidden="true"><circle cx="43" cy="43" r="39" stroke="#2c2c2c" stroke-width="6" fill="none"/><circle cx="43" cy="43" r="39" stroke="#dedede" stroke-width="6" fill="none" stroke-dasharray="${circ}" stroke-dashoffset="${circ*(1-percent/100)}" stroke-linecap="round"/></svg><div class="ring-center"><strong>${count}</strong><span>of ${course.lessons.length} lessons</span></div></div>`;}
-  function unitCard(unit,index){const lessons=course.lessons.filter(l=>l.unit===unit.id),count=lessons.filter(l=>state.progress[l.id]?.completedAt).length,next=C.next(state,course),isCurrent=next?.unit===unit.id;return `<button class="unit-card ${isCurrent?'current':''}" data-action="unit" data-id="${e(unit.id)}"><div class="unit-icon ${e(unit.color)}">${icon(unit.icon,22)}</div><p class="eyebrow">Unit ${String(index+1).padStart(2,'0')}${isCurrent?' · Up next':''}</p><h3>${e(unit.title)}</h3><div class="unit-progress"><span>${count} / ${lessons.length} lessons</span><span class="small-line"><i style="width:${100*count/lessons.length}%"></i></span></div></button>`;}
-  function today(){const next=lessonById(state.active)||C.next(state,course),hasStarted=!!(next&&state.progress[next.id]?.step),count=completed(),due=C.due(state).length,day=state.days[C.dateKey()]||{minutes:0,lessons:0};const hello=course.words.find(w=>C.normalise(w.de)==='hallo')||course.words[0];return frame(`${intro('Your next small step',count?'Welcome back.':'Understand it. Read it. Write it.','Theory, reading and writing. One small step at a time.',`<span class="date-label">${new Date().toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long'})}</span>`)}<div class="today-grid"><section class="hero" aria-labelledby="next-title"><div class="hero-copy"><div class="hero-tag">${icon('plant',12)}${next?'YOUR NEXT LITTLE WIN':'A WHOLE SET OF LITTLE WINS'}</div><h2 id="next-title">${next?(hasStarted?'Pick up where<br>you left off.':(count?'A new little<br>piece of German.':'Your first<br>“Hallo.”')):'Look how far<br>you’ve come.'}</h2><p>${next?e(next.goal):'Revisit a lesson or practise the words you have met.'}</p><button class="btn" data-action="${next?'start':'navigate'}" ${next?`data-id="${e(next.id)}"`:'data-to="review"'}>${next?(hasStarted?'Continue lesson':'Start'):'Review your words'}${arrow()}</button><div class="hero-foot"><span>${icon('clock',11)}${next?`${next.minutes} minutes`:'At your pace'}</span><span>·</span><span>${next?'One idea at a time':'Keep it familiar'}</span></div></div><div class="hero-art" aria-hidden="true"><div class="halo"></div><span class="art-dot"></span><span class="art-plus">✦</span><div class="name-card"><div class="card-band">DEUTSCH, BIT BY BIT</div><div class="hello">Hallo.</div><div class="below">A small word. A real beginning.</div></div><div class="art-stamp">✳</div></div></section><section class="summary-card" aria-label="Your learning progress"><div class="summary-header"><h3>Your little progress</h3>${icon('plant',19)}</div><div class="ring-row">${ring()}<div class="ring-copy"><strong>${day.lessons?'You showed up today.':'Every lesson counts.'}</strong><p>${day.lessons?`${day.lessons} lesson${day.lessons===1?'':'s'} completed today.`:'Start small.<br>Build from there.'}</p></div></div><div class="small-divider"></div><div class="goal-wrap"><p class="goal-heading">A gentle daily intention</p><div class="goal-options">${[3,5,10].map(n=>`<button class="goal-option ${state.settings.goal===n?'selected':''}" data-action="goal" data-value="${n}" aria-pressed="${state.settings.goal===n}">${n} min</button>`).join('')}</div><p class="tiny muted" style="font-size:10px;margin-top:9px">A guide, never a deadline.</p></div></section></div>${modeLinks()}<div class="section-head"><div><h2>Your complete course.</h2><p>Start at the beginning. Explore when you feel ready.</p></div><a href="#theory">All 22 grammar topics ${icon('arrow',14)}</a></div><section class="unit-preview" aria-label="Course units">${course.units.map(unitCard).join('')}</section><div class="bottom-grid"><section class="daily-word"><div><p class="eyebrow">A useful little word</p><p class="word" lang="de">${e(wordDe(hello))}</p><p class="translation">${e(hello.en)}</p></div><div class="word-side"><div class="word-icon">${icon('hand',33)}</div><button class="icon-button" data-action="speak" data-text="${e(wordDe(hello))}" aria-label="Listen to ${e(wordDe(hello))}">${icon('speaker',16)}</button></div></section><section class="mini-review"><span class="tiny-symbol">${icon('review',20)}</span><div><h3>${due?`${due} word${due===1?' is':'s are'} ready to revisit.`:'Let it settle in.'}</h3><p>${due?'A few familiar words. About two minutes.':'New words return in gentle reviews after you finish a lesson.'}</p><button data-action="navigate" data-to="review">${due?'Start a tiny review':'How review works'}${icon('arrow',13)}</button></div></section></div>`);}
-  function pathPage(){return frame(`${intro('Your learning path','Small steps. Real sentences.','Follow the order, or revisit any topic. Nothing is locked.')}<div>${course.units.map((u,i)=>{const lessons=course.lessons.filter(l=>l.unit===u.id);return `<section class="path-unit" id="unit-${e(u.id)}"><div class="unit-heading"><div class="unit-icon ${e(u.color)}">${icon(u.icon,22)}</div><div><h2>${String(i+1).padStart(2,'0')} · ${e(u.title)}</h2><p>${e(u.description)}</p></div><span class="count">${lessons.filter(l=>state.progress[l.id]?.completedAt).length}/${lessons.length}</span></div><div class="lesson-list">${lessons.map((l,j)=>{const p=state.progress[l.id],done=!!p?.completedAt,resume=!done&&p?.step>0;return `<button class="lesson-row ${done?'done':''} ${resume?'resume':''}" data-action="start" data-id="${e(l.id)}"><span class="lesson-number">${done?icon('check',16):String(j+1).padStart(2,'0')}</span><span class="lesson-info"><h3>${e(l.title)}</h3><p>${e(l.subtitle)}</p></span>${resume?'<span class="tag">Continue here</span>':''}<span class="lesson-duration">${l.minutes} min</span>${icon('chevron',16)}</button>`;}).join('')}</div></section>`;}).join('')}</div><p class="path-note">These ${course.lessons.length} short lessons introduce the topics in your roadmap. Completing them is a beginning, not a CEFR certificate. Use the fuller DW course, native listening and conversation alongside them.</p>`);}
-  function filteredWords(){return course.words.filter(w=>(wordFilter==='all'||(wordFilter==='saved'?state.saved.includes(w.id):state.seen.includes(w.id)))&&C.normalise([w.article,w.de,w.en,w.plural||''].join(' ')).includes(C.normalise(search)));}
-  function vocabGrid(){const words=filteredWords();return words.length?`<div class="words-grid">${words.map(w=>`<article class="vocab-card"><div class="vocab-top"><span>${e(course.units.find(u=>u.id===w.unit)?.title||'German')}</span>${state.seen.includes(w.id)?icon('check',13):''}</div><p class="de" lang="de">${e(wordDe(w))}</p><p class="en">${e(w.en)}</p>${w.plural?`<p class="plural">Plural: <span lang="de">${e(w.plural)}</span></p>`:''}<p class="example" lang="de">${e(w.example)}</p>${w.exampleTranslation?`<p class="tiny">${e(w.exampleTranslation)}</p>`:''}${w.example2?`<p class="example" lang="de">${e(w.example2)}</p><p class="tiny">${e(w.example2Translation)}</p>`:''}<div class="vocab-actions"><button data-action="speak" data-text="${e(wordDe(w))}" aria-label="Listen to ${e(wordDe(w))}">${icon('speaker',14)}Listen</button><button class="${state.saved.includes(w.id)?'saved':''}" data-action="bookmark" data-id="${e(w.id)}" aria-pressed="${state.saved.includes(w.id)}">${icon('save',13)}${state.saved.includes(w.id)?'Saved':'Save'}</button></div></article>`).join('')}</div>`:`<div class="empty"><div class="empty-icon">${icon('book',30)}</div><h2>${search?'No matching words.':wordFilter==='saved'?'Keep a phrase close.':'Your first words are ahead.'}</h2><p>${search?'Try a German word or its English meaning.':wordFilter==='saved'?'Tap Save on a word to keep it here.':'Words appear here after a lesson. You can also explore the full word bank.'}</p>${!search?'<button class="btn light" data-action="filter" data-value="all">Explore the word bank '+arrow()+'</button>':''}</div>`;}
-  function wordsPage(){return frame(`${intro('Your word bank','Useful words, kept close.','Hear a word, see it in a sentence, come back to it.')}<div class="filter-bar"><div class="tabs" role="group" aria-label="Filter words">${[['seen','Words I’ve met'],['saved','Saved'],['all','All words']].map(([v,t])=>`<button class="${wordFilter===v?'active':''}" data-action="filter" data-value="${v}" aria-pressed="${wordFilter===v}">${t}</button>`).join('')}</div><label class="search">${icon('search',16)}<input id="word-search" type="search" placeholder="Find a word…" value="${e(search)}" aria-label="Search German and English words"></label></div><div id="vocab-results">${vocabGrid()}</div>`);}
-  function reviewPage(){const due=C.due(state);if(reviewSession){const w=wordById(reviewSession.queue[reviewSession.index]);if(!w)return reviewFinish();return frame(`${intro('A tiny review','Make a familiar word stick.','Try to remember it before turning the card.')}<section class="review-shell"><div class="review-counter"><span>Word ${reviewSession.index+1} of ${reviewSession.queue.length}</span><button class="text-link tiny" data-action="end-review">Stop here</button></div><div class="review-card"><p class="eyebrow">${reviewSession.flipped?'In German':'How would you say…'}</p><p class="review-word" ${reviewSession.flipped?'lang="de"':''}>${e(reviewSession.flipped?wordDe(w):w.en)}</p>${reviewSession.flipped?`<p class="review-example" lang="de">${e(w.example)}</p><button class="icon-button" data-action="speak" data-text="${e(wordDe(w))}" aria-label="Listen to the word">${icon('speaker',18)}</button>`:'<p class="tiny muted">Say it aloud or think it first.</p>'}</div><div class="review-buttons">${reviewSession.flipped?`<button class="btn light" data-action="rate-review" data-value="again">Show me again</button><button class="btn lime" data-action="rate-review" data-value="remembered">I remembered it ${icon('check',15)}</button>`:'<button class="btn" data-action="flip-review">Turn the card '+arrow()+'</button>'}</div></section>`);}
-    return frame(`${intro('Gentle repetition','A little familiar. A little stronger.','Review a few words, then get on with your day.')}<div class="empty"><div class="empty-icon">${icon('review',31)}</div><h2>${due.length?`${due.length} familiar word${due.length===1?'':'s'} waiting.`:state.seen.length?'You’re caught up.':'First, meet a few words.'}</h2><p>${due.length?'Review up to five words in this round. About two minutes.':state.seen.length?'Your next reviews will appear when they are due. You can practise early if you want.':'Complete your first little lesson. Its words will return tomorrow for a short review.'}</p>${due.length?'<button class="btn" data-action="begin-review">Start a tiny review '+arrow()+'</button>':state.seen.length?'<button class="btn light" data-action="begin-review" data-value="early">Practise a few now '+arrow()+'</button>':`<button class="btn" data-action="start" data-id="${e(course.lessons[0].id)}">Meet your first word ${arrow()}</button>`}</div><p class="path-note">Reviews are spaced after roughly 1, 3, 7 and 14 days of successful recall. “Show me again” brings a word back sooner. Your own recall guides the schedule; there are no penalties.</p>`);}
-  function reviewFinish(){const count=reviewSession?.index||0;reviewSession=null;return frame(`<div class="finish"><div class="finish-art">${icon('plant',49)}</div><h1>A little more familiar.</h1><p>You revisited ${count} word${count===1?'':'s'}. Your next reviews are saved.</p><div class="finish-actions" style="margin-top:27px"><button class="btn" data-action="navigate" data-to="today">Back to today ${arrow()}</button></div></div>`);}
-  function settingsPage(){return frame(`${intro('Make yourself comfortable','Your pace. Your space.','Keep what helps. Change what doesn’t.')}<div class="settings-grid"><section class="panel settings-section"><h2>A quieter learning space</h2><p>You can change these whenever you need.</p><label class="setting"><span><strong>Focus view</strong><small>Hide the navigation while you choose your next step.</small></span><input class="switch" type="checkbox" data-setting="focus" ${state.settings.focus?'checked':''}></label><label class="setting"><span><strong>Less movement</strong><small>Remove small transitions and button movement.</small></span><input class="switch" type="checkbox" data-setting="reduced" ${state.settings.reduced?'checked':''}></label><label class="setting"><span><strong>Gentle break suggestions</strong><small>A reminder to rest after a completed lesson.</small></span><input class="switch" type="checkbox" data-setting="breaks" ${state.settings.breaks?'checked':''}></label><label class="setting"><span><strong>Listening speed</strong><small>Audio uses a German voice installed on your device.</small></span><select data-setting="speed"><option value="0.65" ${state.settings.speed===0.65?'selected':''}>Extra slow</option><option value="0.8" ${state.settings.speed===0.8?'selected':''}>Slow</option><option value="1" ${state.settings.speed===1?'selected':''}>Normal</option></select></label><button class="btn subtle" data-action="speak" data-text="Hallo. Mein Name ist Leon.">${icon('speaker',16)}Try the German voice</button><p class="storage-note">Device voices vary. If a German voice is unavailable, use the publisher audio linked in the textbook companion. This site does not record you or grade pronunciation.</p></section><section class="panel settings-section"><h2>Your progress stays with you</h2><p>Saved in this browser on this device. No cloud sync.</p><button class="btn light wide" data-action="export">${icon('download',16)}Export progress</button><button class="btn light wide" data-action="import">${icon('upload',16)}Import progress</button><input id="import-file" type="file" accept="application/json,.json" hidden><p class="storage-note">Keep using the same file or website address. Export a backup before changing devices, opening a different copy, or clearing browser data. Import that backup to restore your place.</p><button class="text-link small" style="margin-top:23px" data-action="reset-dialog">Start over on this device</button><h2 style="margin-top:31px;margin-bottom:14px">A few trusted resources</h2>${course.sources.map(s=>`<a class="source-link" href="${e(s.url)}" target="_blank" rel="noopener noreferrer">${e(s.title)} ↗</a>`).join('')}</section></div>`);}
-  const topicFor=l=>course.topics?.find(t=>t.lessonIds.length===1&&t.lessonIds[0]===l.id)||course.topics?.find(t=>t.lessonIds.includes(l.id));
-  const labLesson=()=>lessonById(route.split('/')[1]);
-  const sectionNames={intro:'Introduction',simple:'Part 1 · Simple sentences',beyond:'Part 2 · Beyond a simple sentence'};
-  function modeLinks(){return `<section class="mode-links" aria-label="Choose a learning skill">${[['theory','blocks','Theory','Understand the rule. See why it works.'],['reading','book','Reading','Read German. Understand the meaning.'],['writing','name','Writing','Write your own German. Check the pattern.']].map(([to,ico,title,body])=>`<a href="#${to}" class="mode-link">${icon(ico,23)}<span><strong>${title}</strong><small>${body}</small></span>${icon('arrow',16)}</a>`).join('')}</section>`;}
-  function theoryHub(){const topics=course.topics||[];return frame(`<div class="course-notice"><strong>Follow the book in your daily plan</strong><a class="text-link" href="#textbook">Netzwerk neu A1 chapters ↗</a></div>${intro('Theory · Your complete outline','Understand German, step by step.','Every topic you listed has a place here. Read the rule, see examples, then use it.')}<div class="course-notice"><strong>${topics.length} topics · ${course.lessons.length} small lessons</strong><span>The five-week route follows the textbook. Advanced topics stay available below.</span></div><div class="tabs syllabus-tabs" role="group" aria-label="Choose a part of the course">${Object.entries(sectionNames).map(([id,title])=>`<button class="${theorySection===id?'active':''}" data-action="theory-section" data-value="${id}" aria-pressed="${theorySection===id}">${e(title)}</button>`).join('')}</div><section class="syllabus-list">${topics.filter(t=>t.section===theorySection).map(t=>`<article class="syllabus-topic"><div class="syllabus-heading"><span class="lesson-number">${t.number}</span><div><h2>${e(t.title)}</h2><p>${t.lessonIds.every(id=>course.book.laterIds.includes(id))?'Optional after A1 · ':''}${t.lessonIds.length} small lesson${t.lessonIds.length===1?'':'s'} · Theory, reading and writing</p></div><a class="btn light" href="#theory/${e(t.lessonIds[0])}">Open ${arrow()}</a></div>${t.lessonIds.length>1?`<div class="topic-parts">${t.lessonIds.map(id=>`<a href="#theory/${e(id)}">${e(lessonById(id)?.title)} ${icon('chevron',12)}</a>`).join('')}</div>`:''}</article>`).join('')}</section><p class="path-note">A case is a grammatical form linked to a word’s job. A noun names something. A verb expresses an action or state. Each topic explains the terms it needs before asking you to use them.</p>`);}
-  function grammarReference(l){const refs=l.theory?.references;if(!refs?.length)return '';return `<details class="grammar-reference"><summary>Open the grammar reference tables</summary>${refs.map(r=>`<section><h3>${e(r.title)}</h3><div class="grammar-table-scroll"><table><thead><tr>${r.headers.map(h=>`<th>${e(h)}</th>`).join('')}</tr></thead><tbody>${r.rows.map(row=>`<tr>${row.map((v,i)=>`<${i===0?'th':'td'}>${e(v)}</${i===0?'th':'td'}>`).join('')}</tr>`).join('')}</tbody></table></div><p>${e(r.note)}</p>${r.url?`<a class="text-link tiny" href="${e(r.url)}" target="_blank" rel="noopener noreferrer">Reference from University of Michigan ↗</a>`:''}</section>`).join('')}</details>`;}
-  function theoryDetail(){const l=labLesson();if(!l?.theory)return theoryHub();const t=l.theory,topic=topicFor(l);return frame(`${intro('Theory · Plain English',l.id==='gender-articles'?'Noun gender and definite/indefinite articles':topic?.title||l.title,l.subtitle)}<div class="theory-overview panel"><p class="eyebrow">What this means</p><p class="theory-definition">${e(t.definition)}</p><div class="theory-rule"><strong>The useful rule</strong><p>${e(t.rule)}</p></div><div class="theory-terms">${(t.terms||[]).map(x=>`<div><strong>${e(x.term)}</strong><span>${e(x.meaning)}</span></div>`).join('')}</div></div><div class="theory-passes">${l.cards.map((card,i)=>`<section class="theory-pass"><p class="eyebrow">Learning pass ${i+1} of 2</p><h2>${e(card.title)}</h2><p class="theory-body">${e(card.body)}</p>${examplePair(card)}</section>`).join('')}</div><section class="panel theory-how"><h2>Use it in three small steps</h2><ol>${t.steps.map(x=>`<li>${e(x)}</li>`).join('')}</ol><p class="theory-watch"><strong>Watch for this:</strong> ${e(t.watch)}</p></section>${grammarReference(l)}${sprintUI.lessonVocabulary(l)}<div class="theory-actions"><button class="btn" data-action="start" data-id="${e(l.id)}">Start this full lesson ${arrow()}</button><a class="btn light" href="#reading/${e(l.id)}">Try reading</a><a class="btn light" href="#writing/${e(l.id)}">Try writing</a></div>${sourceNote(l)}`);}
-  function skillHub(kind){const reading=kind==='reading',done=course.lessons.filter(l=>reading?(state.skills.reading[l.id]?.correct.length===3):state.skills.writing[l.id]?.passed).length;return frame(`${intro(reading?'Reading · Lesen':'Writing · Schreiben',reading?'Read it. Understand it.':'Make your own sentences.',reading?'Short German passages, useful word help, and three questions about the meaning.':'Guided sentences and short messages. Feedback checks the grammar pattern you are practising.')}<div class="course-notice"><strong>${done} / ${course.lessons.length} ${reading?'readings':'writing tasks'} practised</strong><span>These are extra practice spaces. Start opens the full learn → practise → read → write → blind sequence.</span></div><div class="skill-collections">${course.units.map((unit,i)=>`<details class="skill-collection" ${i===0?'open':''}><summary><span>${e(unit.title)}</span><small>${course.lessons.filter(l=>l.unit===unit.id).length} ${reading?'readings':'writing tasks'}</small></summary><div class="lesson-list">${course.lessons.filter(l=>l.unit===unit.id).map(l=>{const complete=reading?state.skills.reading[l.id]?.correct.length===3:state.skills.writing[l.id]?.passed;return `<a class="lesson-row ${complete?'done':''}" href="#${kind}/${e(l.id)}"><span class="lesson-number">${icon(complete?'check':reading?'book':'name',17)}</span><span class="lesson-info"><h3>${e(topicFor(l)?.title||l.title)}</h3><p>${e(reading?l.reading.title:l.title)}</p></span>${icon('chevron',16)}</a>`;}).join('')}</div></details>`).join('')}</div>`);}
-  function readingPassage(l){const r=l.reading;return `<section class="reading-passage" aria-label="German reading passage"><div class="reading-heading"><p class="eyebrow">Read this in German</p><button class="icon-button" data-action="speak" data-text="${e(r.text)}" aria-label="Listen to this passage, optionally">${icon('speaker',15)}</button></div><h2>${e(r.title)}</h2><p class="reading-text" lang="de">${e(r.text)}</p>${r.glossary?.length?`<details class="reading-glossary"><summary>Words to help</summary><dl>${r.glossary.map(w=>`<div><dt lang="de">${e(w.de)}</dt><dd>${e(w.en)}</dd></div>`).join('')}</dl></details>`:''}<button class="translation-toggle" data-action="reading-translation">${readingTranslation?'Hide':'Show'} the English translation</button>${readingTranslation?`<p class="reading-translation">${e(r.translation)}</p>`:''}</section>`;}
-  function readingLab(){const l=labLesson();if(l){const r=state.skills.reading[l.id];if(r?.correct.includes(labReadingIndex)){labReadingIndex=[0,1,2].find(i=>!r.correct.includes(i))??2;}}if(!l?.reading)return skillHub('reading');const entry=state.skills.reading[l.id]||{correct:[],doneAt:null};if(entry.correct.length===3)return frame(`${intro('Reading practice complete','You read for meaning.',l.reading.title)}<section class="panel skill-complete"><div class="finish-art">${icon('book',45)}</div><h2>Three comprehension questions answered.</h2><p>Your reading practice is saved. Try using the same idea in writing.</p><div class="theory-actions"><a class="btn" href="#writing/${e(l.id)}">Write with this pattern ${arrow()}</a><button class="btn light" data-action="restart-reading" data-id="${e(l.id)}">Read again</button><a class="text-link" href="#reading">All readings</a></div></section>`);labReadingIndex=Math.min(labReadingIndex,2);const q=l.reading.questions[labReadingIndex];return frame(`${intro('Reading · Comprehension',l.reading.title,'Read the passage first. Then answer one question at a time.')}<div class="skill-workspace">${readingPassage(l)}<section class="reading-question"><p class="eyebrow">Question ${labReadingIndex+1} of 3</p><h2>${e(q.prompt)}</h2><div class="question-options">${q.options.map((option,i)=>`<button class="choice ${labChoice===i?'selected':''} ${labFeedback?.correct&&i===q.answer?'right':''}" data-action="lab-choice" data-value="${i}" ${labFeedback?.correct?'disabled':''}><span class="key">${i+1}</span><span>${e(option)}</span></button>`).join('')}</div>${labFeedback?`<div class="feedback-box ${labFeedback.correct?'':'retry'}" role="status"><div><strong>${labFeedback.correct?'You found the meaning.':'Read that part once more.'}</strong><p>${e(labFeedback.correct?q.explanation:'Look for the detail the question asks about. You can use the word help and translation.')}</p></div></div>`:''}<div class="theory-actions"><button class="btn" data-action="${labFeedback?.correct?'next-reading':'check-reading'}">${labFeedback?.correct?(labReadingIndex===2?'Save reading practice':'Next question'):'Check my answer'} ${arrow()}</button><a class="text-link small" href="#theory/${e(l.id)}">Read the theory</a></div></section></div>`);}
-  function writingCriteria(q,value){const result=C.writingFeedback(q,value);return `<div class="writing-criteria" aria-label="Target grammar checks">${result.criteria.map(c=>`<div>${icon(c.passed?'check':'question',15)}<span>${e(c.label)}</span></div>`).join('')}</div>`;}
-  function writingLab(){const l=labLesson();if(!l?.writing)return skillHub('writing');const q=l.writing,draft=state.skills.writing[l.id]?.draft||'';return frame(`${intro('Writing · Guided practice',topicFor(l)?.title||l.title,'Write the phrase or short message yourself. The check focuses on the target pattern.')}<div class="skill-workspace"><section class="panel writing-task"><p class="eyebrow">Your writing task</p><h2>${e(l.title)}</h2><p class="writing-prompt">${e(q.prompt)}</p><label for="lab-writing-answer" class="eyebrow">Your German text</label><textarea id="lab-writing-answer" class="type-answer writing-answer" rows="4" placeholder="Write your German here…" spellcheck="false">${e(draft)}</textarea><div class="accent-keys" role="group" aria-label="German characters">${['ä','ö','ü','ß'].map(c=>`<button data-action="lab-accent" data-value="${c}">${c}</button>`).join('')}</div>${labFeedback?`${writingCriteria(q,draft)}<div class="feedback-box ${labFeedback.correct?'':'retry'}" role="status"><div><strong>${labFeedback.correct?'The target pattern is there.':'One part needs another look.'}</strong><p>${e(labFeedback.correct?q.explanation:q.hint)}</p></div></div>`:''}<div class="theory-actions"><button class="btn" data-action="check-writing">Check my writing ${icon('check',16)}</button><button class="btn light" data-action="writing-example">See two explained examples</button></div><p class="writing-scope">This checks the listed pattern and task, rather than every possible issue in free writing. Your draft stays saved on this device.</p></section>${revealed?`<section class="theory-pass"><h2>Two examples of the pattern</h2>${examplePair(l.cards[1])}</section>`:''}<div class="theory-actions"><a class="text-link small" href="#theory/${e(l.id)}">Read the full theory</a><a class="text-link small" href="#reading/${e(l.id)}">Practise reading</a><button class="btn light" data-action="start" data-id="${e(l.id)}">Start the full lesson</button></div></div>`);}
-  function morePage(){return frame(`${intro('Your learning tools','Keep useful things close.','Your textbook, audio, words, review schedule and settings.')}<div class="tools-grid">${[['book-pages/0','book','Book reader','Every page of your supplied PDF, with saved notes.'],['appendix','blocks','Book reference','Look up grammar, verbs and word-list entries.'],['textbook','book','Textbook companion','12 chapters from your supplied Netzwerk neu A1 PDF.'],['listening','speaker','Listening practice','Original dialogues and announcements with comprehension checks.'],['plan','path','35-day plan','All daily study blocks and readiness checks.'],['words','book','Word bank','Save words and see them in a sentence.'],['review','review','Review','Revisit familiar words when they are due.'],['settings','settings','Settings & resources','Adjust focus, voice and progress backups.']].map(([to,ico,title,body])=>`<a class="panel tool-card" href="#${to}">${icon(ico,27)}<h2>${title}</h2><p>${body}</p>${arrow()}</a>`).join('')}</div>`);}
-  function startLesson(id){const l=lessonById(id);if(!l)return;const p=state.progress[id];if(p?.completedAt&&!p.replaying){dialog={type:'repeat',id};render();return;}state.progress[id]??={step:0,correct:[],taught:[],attempts:{},assisted:false,blindCorrect:false,completedAt:null,answer:'',build:[]};state.active=id;save();resetQuestion();navigate('lesson/'+id);}
-  function resetQuestion(){selected=null;answer='';build=[];feedback=null;hint=false;revealed=false;readingTranslation=false;}
-  function visual(v){let inner='';if(v.type==='tokens'&&Array.isArray(v.tokens)){inner=`<div class="visual-tokens">${v.tokens.map(t=>`<div class="visual-token ${e(t.role)}"><strong lang="de">${e(t.text)}</strong><small>${({subject:'who / what',verb:'action / state',object:'the object',extra:'extra detail'})[t.role]||e(t.role)}</small></div>`).join('')}</div>${v.en?`<p class="big-en">${e(v.en)}</p>`:''}`;}else if(v.type==='contrast'&&v.left&&v.right){inner=`<div class="contrast">${[v.left,v.right].map(x=>`<div class="contrast-card"><p class="big-de" lang="de">${e(x.de)}</p><p class="big-en">${e(x.en)}</p></div>`).join('')}</div>`;}else{inner=`<span class="symbol-bg" aria-hidden="true">${v.type==='letters'?'Aa':v.type==='timeline'?'←':'✳'}</span><p class="big-de" lang="de">${e(v.de)}</p><p class="big-en">${e(v.en)}</p>`;}
-    const phrase=v.de||(v.tokens?v.tokens.map(t=>t.text).join(' '):v.left?.de);
-    return `<div class="visual">${inner}${phrase?`<button class="icon-button listen-visual" data-action="speak" data-text="${e(phrase)}" aria-label="Listen to this German example">${icon('speaker',17)}</button>`:''}</div>`;}
-  function currentLesson(){return lessonById(route.slice(7));}
-  function isBlind(l,p){return p.step===l.cards.length+l.practice.length;}
-  function currentPractice(){const l=currentLesson(),p=l&&state.progress[l.id];return p?(isBlind(l,p)?l.blind:l.practice[p.step-l.cards.length]):null;}
-  function shuffledIndices(count,seed){const arr=Array.from({length:count},(_,i)=>i);let n=seed.split('').reduce((s,c)=>s+c.charCodeAt(0),0);for(let i=count-1;i>0;i--){n=(n*9301+49297)%233280;const j=n%(i+1);[arr[i],arr[j]]=[arr[j],arr[i]];}return arr;}
-  function sentence(tokens){return tokens.join(' ').replace(/\s+([,.!?;:])/g,'$1');}
-  function practiceBody(q,l,p){const blind=isBlind(l,p),locked=feedback?.correct;let body='';if(q.type==='choice'){body=`<div class="question-options" role="group" aria-label="Choose an answer">${q.options.map((option,i)=>`<button class="choice ${selected===i?'selected':''} ${feedback?(i===q.answer&&feedback.correct?'right':selected===i&&!feedback.correct?'wrong':''):''}" data-action="choice" data-value="${i}" ${locked?'disabled':''} aria-pressed="${selected===i}"><span class="key">${i+1}</span><span class="choice-text" lang="${q.skill==='reading'?'en':'de'}">${e(option)}</span>${feedback?.correct&&i===q.answer?icon('check',18):''}</button>`).join('')}</div><p class="keyboard-tip">Choose 1, 2 or 3. Press Enter to check.</p>`;}else if(q.type==='build'){const indices=shuffledIndices(q.tokens.length,l.id+p.step);body=`<div class="answer-zone" aria-label="Your sentence">${build.length?build.map((i,j)=>`<button class="word-token in-answer" data-action="remove-token" data-value="${j}" ${locked?'disabled':''} aria-label="Remove ${e(q.tokens[i])}">${e(q.tokens[i])}</button>`).join(''):'<span class="placeholder">Tap the words to build your sentence.</span>'}</div><div class="token-bank" aria-label="Available words">${indices.map(i=>`<button class="word-token ${build.includes(i)?'used':''}" data-action="add-token" data-value="${i}" ${locked||build.includes(i)?'disabled':''}>${e(q.tokens[i])}</button>`).join('')}</div><p class="keyboard-tip">Tap a word in your sentence to put it back.</p>`;}else{body=`<label for="type-answer" class="eyebrow" style="display:block;margin-bottom:9px">Your answer in German</label>${q.type==='writing'?`<textarea id="type-answer" class="type-answer writing-answer" rows="4" spellcheck="false" placeholder="Write your sentence or short message…" ${locked?'disabled':''} aria-describedby="answer-feedback">${e(answer||p.answer||'')}</textarea>`:`<input id="type-answer" class="type-answer" type="text" value="${e(answer||p.answer||'')}" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Try it here…" ${locked?'disabled':''} aria-describedby="answer-feedback">`}<div class="accent-keys" role="group" aria-label="German characters">${['ä','ö','ü','ß'].map(c=>`<button data-action="accent" data-value="${c}" ${locked?'disabled':''}>${c}</button>`).join('')}</div><p class="keyboard-tip">${q.type==='writing'?'Use new lines if useful. Ctrl/⌘ + Enter checks your writing.':'Press Enter to check. Capital letters and punctuation are relaxed in practice.'}</p>`;}
-    if(q.type==='writing'&&feedback)body+=writingCriteria(q,answer||p.answer||'');
-    if(q.type==='writing')body+='<p class="writing-scope">Write the full phrase or message. Feedback checks this lesson’s target pattern.</p>';
-    if(hint&&!blind)body+=`<p class="hint">${e(q.hint||(q.type==='build'?'Find the word that starts the sentence. Place the action word next. Use the example card if you need it.':'Revisit the example, then try the same pattern with this question.'))}</p>`;
-    if(feedback)body+=`<div id="answer-feedback" class="feedback-box ${feedback.correct?'':'retry'}" role="status" aria-live="polite"><span class="feedback-icon">${icon(feedback.correct?'check':'plant',19)}</span><div><strong>${feedback.correct?(q.type==='writing'?'The target pattern is there.':'That’s it.'):'A small adjustment.'}</strong><p>${e(feedback.text)}</p></div></div>`;
-    else body+='<span id="answer-feedback" class="sr-only" role="status"></span>';
-    if(revealed&&!blind)body+=`<div class="hint"><strong>Example:</strong> <span lang="de">${e(q.type==='choice'?q.options[q.answer]:q.type==='build'?sentence(q.answer):q.answers[0])}</span><br>Try entering it yourself. This lesson will be marked “practised with help.”</div>`;
-    if(!locked)body+=blind?'<div class="support-actions"><button data-action="relearn">I need another look at the lesson</button></div>':`<div class="support-actions"><button data-action="hint">${hint?'Hide hint':'A little hint'}</button><button data-action="reveal">Show an example</button></div>`;
-    return body;
-  }
-  function teachingNote(l,index){if(l.full)return '';const t=l.theory;if(!t)return '';return `<div class="lesson-theory-note"><p class="eyebrow">Theory · ${index===0?'What it means':'How to use it'}</p>${index===0?`<p>${e(t.definition)}</p><div class="theory-terms">${t.terms.map(x=>`<div><strong>${e(x.term)}</strong><span>${e(x.meaning)}</span></div>`).join('')}</div>`:`<p><strong>The rule:</strong> ${e(t.rule)}</p><ol>${t.steps.map(x=>`<li>${e(x)}</li>`).join('')}</ol><p class="theory-watch"><strong>Watch for this:</strong> ${e(t.watch)}</p>`}</div>`;}
-  function examplePair(card){return `<div class="example-pair" aria-label="Two explained examples">${(card.examples||[]).map((x,i)=>`<article class="example-box"><div class="example-head"><span class="eyebrow">Example ${i+1}</span><button class="icon-button" data-action="speak" data-text="${e(x.de)}" aria-label="Listen to example ${i+1}">${icon('speaker',14)}</button></div><p class="example-de" lang="de">${e(x.de)}</p><p class="example-en">${e(x.en)}</p><p class="example-why"><strong>Why it works:</strong> ${e(x.why)}</p></article>`).join('')}</div>`;}
-  function lessonPage(){const l=currentLesson();if(!l)return frame('<div class="empty"><h1>That lesson isn’t here.</h1><a class="btn" href="#path">Open your learning path</a></div>');let p=state.progress[l.id];if(!p){state.progress[l.id]={step:0,correct:[],taught:[],attempts:{},assisted:false,blindCorrect:false,completedAt:null,answer:'',build:[]};p=state.progress[l.id];state.active=l.id;save();}if(p.completedAt&&!p.replaying)return finishPage(l);const total=totalSteps(l),isCard=p.step<l.cards.length,blind=isBlind(l,p),card=l.cards[p.step],q=blind?l.blind:l.practice[p.step-l.cards.length];if(!isCard&&!q){return frame('<div class="empty"><h2>This lesson needs its next exercise.</h2><a href="#today">Return to Today</a></div>');}
-    if(!isCard&&q.type==='build'&&!build.length&&p.build?.length)build=p.build.filter(i=>i>=0&&i<q.tokens.length);
-    const stageLabel=isCard?`Learn ${p.step+1} of 2 · Theory`:blind?'Blind try · Just you':q.skill==='reading'?'Reading · Understand the meaning':q.skill==='writing'?'Writing · Use the pattern':`Practice ${p.step-l.cards.length+1} of 3`;
-    return `<div class="lesson-shell"><header class="lesson-top">${brand()}<button class="save-exit" data-action="exit-lesson">${icon('close',14)}Save & exit</button></header><main id="main" tabindex="-1"><div class="lesson-progress-row"><div class="lesson-bar" role="progressbar" aria-label="Lesson progress" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${p.step}"><i style="width:${100*p.step/total}%"></i></div><span class="step-label">${p.step+1} of ${total} little steps</span></div><div class="learning-sequence extended-sequence" aria-label="Lesson sequence">${[[0,2,'Learn ×2'],[2,5,'Practise ×3'],[5,6,'Read'],[6,7,'Write'],[7,8,'Blind']].map(([from,to,label])=>`<span class="${p.step>=from&&p.step<to?'current':p.step>=to?'passed':''}">${p.step>=to?'✓ ':''}${label}</span>`).join('<i></i>')}</div><section class="lesson-stage"><div class="lesson-titlebar"><p class="eyebrow">${e(stageLabel)}</p><span class="step-time">${icon('clock',12)}At your pace</span></div><h1>${e(isCard?card.title:blind?'Now, without the examples.':q.skill==='reading'?'Read for meaning.':q.skill==='writing'?'Write your own German.':q.type==='build'?'Put the words in place.':q.type==='type'?'Make it yours.':'Choose what fits.')}</h1>${isCard?`<p class="explanation">${e(card.body)}</p>${teachingNote(l,p.step)}${visual(card.visual)}${l.full&&p.step===0?sprintUI.lessonVocabulary(l):''}${examplePair(card)}${l.full&&p.step===1?grammarReference(l)+sprintUI.workshops(l):''}`:`${blind?'<p class="blind-note">A fresh question. No examples or hints on this screen. You can return to the lesson if you need another look.</p>':''}${q.skill==='reading'?readingPassage(l):''}<p class="practice-prompt">${e(q.prompt)}</p>${practiceBody(q,l,p)}`}<div class="lesson-control"><button class="back-step" data-action="previous" ${p.step===0?'disabled':''}>${icon('back',14)}Back</button><button class="btn ${feedback?.correct?'lime':''}" data-action="${isCard||feedback?.correct?'next-step':'check'}">${isCard?(p.step===0?'Learn it again':'Start practice'):feedback?.correct?(blind?'Finish this lesson':'Keep going'):'Check answer'}${arrow()}</button></div>${isCard?sourceNote(l):''}</section></main></div>`;
-  }
-  function sourceNote(l){const s=course.sources.find(x=>x.id===l.source);return s?`<p class="source-note">Want to go deeper? <a href="${e(s.url)}" target="_blank" rel="noopener noreferrer">${e(s.title)} ↗</a></p>`:'';}
-  function finishPage(l){const p=state.progress[l.id],next=C.next(state,course);return `<div class="lesson-shell"><header class="lesson-top">${brand()}<button class="save-exit" data-action="navigate" data-to="today">Back to today</button></header><main id="main" class="finish" tabindex="-1"><div class="finish-art">${icon('plant',54)}</div><p class="eyebrow" style="margin-bottom:12px">${p.assisted?'Practised with help · Progress saved':'One little lesson complete'}</p><h1>You did a little German.</h1><p>${p.assisted?'You practised with an example, then answered the blind question on your own.':'Two teaching passes, three drills, a reading, a writing task and a correct blind answer.'}</p><div class="finished-sequence"><span>✓ 2 learning passes</span><span>✓ 3 practice questions</span><span>✓ Reading + writing</span><span>✓ Blind try passed</span></div><div class="takeaway"><p class="eyebrow">Take this with you</p><p>${e(l.takeaway)}</p></div><div class="finish-actions"><button class="btn" data-action="navigate" data-to="today">That’s enough for now ${icon('check',16)}</button>${l.full?`<button class="btn light" data-action="flow-next" data-day="${l.planDay}">Continue today’s tasks ${arrow()}</button>`:next?`<button class="btn light" data-action="start" data-id="${e(next.id)}">One more little lesson ${arrow()}</button>`:''}</div>${state.settings.breaks?`<div class="break-suggestion">${icon('cup',17)}<span>Look away from the screen, relax your shoulders, take a sip. Your next step can wait.</span></div>`:''}</main></div>`;}
-  function renderDialog(){if(!dialog)return '';const repeat=dialog.type==='repeat';return `<div class="dialog-backdrop"><section class="dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title"><h2 id="dialog-title">${repeat?'Practise this lesson again?':'Start fresh on this device?'}</h2><p>${repeat?'You can take the eight steps again. Your completed lesson count stays the same.':'This removes this browser’s lessons, words and review schedule. Export a backup first if you want to keep them.'}</p><div class="dialog-actions"><button class="btn light" data-action="close-dialog">Keep my place</button><button class="btn" data-action="${repeat?'repeat-lesson':'confirm-reset'}">${repeat?'Practise again':'Start fresh'}</button></div></section></div>`;}
-  const credits=()=>'<footer class="site-credits" aria-label="Credits" contenteditable="false"><span>Credits</span><strong>Atish</strong></footer>';
-  function render(){sprintUI.remember();document.body.classList.toggle('reduced-motion',state.settings.reduced);const pages={appendix:()=>window.GERMAN_APPENDIX({frame,intro,e}), 'book-pages':()=>window.GERMAN_BOOK.reader({frame,intro,e,getState:()=>state}),today:()=>sprintUI.home(),plan:()=>sprintUI.plan(),textbook:()=>sprintUI.textbook(),listening:()=>sprintUI.listening(),path:pathPage,theory:()=>sprintUI.theoryCourse(),grammar:theoryHub,coverage:()=>sprintUI.coverage(),vocabulary:()=>sprintUI.vocabulary(),recall:()=>sprintUI.recall(),speaking:()=>sprintUI.speaking(),reading:()=>skillHub('reading'),writing:()=>skillHub('writing'),more:morePage,words:wordsPage,review:reviewPage,settings:settingsPage};const isLesson=route.startsWith('lesson/');const subview=route.startsWith('book-pages/')?pages['book-pages']:route.startsWith('vocabulary/')?()=>sprintUI.vocabulary():route.startsWith('recall/')?()=>sprintUI.recall():route.startsWith('speaking/')?()=>sprintUI.speaking():route.startsWith('day/')?()=>sprintUI.dayPage():route.startsWith('textbook/')?()=>sprintUI.textbook():route.startsWith('listening/')?()=>sprintUI.listening():route.startsWith('theory/')?theoryDetail:route.startsWith('reading/')?readingLab:route.startsWith('writing/')?writingLab:null;root.innerHTML=(isLesson?lessonPage():subview?subview():(pages[route]||today)())+renderDialog()+credits()+sprintUI.picker();document.title=(isLesson?currentLesson()?.title||'Lesson':pageTitle[route.split('/')[0]]||'Today')+' · German A1';if(dialog)requestAnimationFrame(()=>root.querySelector('.dialog button')?.focus());}
-  function stepForward(){const l=currentLesson(),p=state.progress[l.id];if(p.step<l.cards.length){p.taught??=[];if(!p.taught.includes(p.step))p.taught.push(p.step);}if(p.step>=l.cards.length&&!feedback?.correct)return;if(isBlind(l,p)&&!p.blindCorrect)return;p.step++;p.answer='';p.build=[];resetQuestion();if(p.step>=totalSteps(l)&&!C.finish(state,l)){p.step=0;toast('Complete the theory, three drills, reading, writing and the blind try first.');}save();render();window.scrollTo(0,0);root.querySelector('h1')?.setAttribute('tabindex','-1');root.querySelector('h1')?.focus({preventScroll:true});}
-  function check(){const l=currentLesson(),p=state.progress[l.id],q=currentPractice();if(!q||feedback?.correct)return;const blind=isBlind(l,p),value=q.type==='choice'?selected:q.type==='build'?build.map(i=>q.tokens[i]).join(' '):(document.getElementById('type-answer')?.value||'');if(value===null||String(value).trim()===''){toast(q.type==='build'?'Tap a word to begin.':'Try an answer first. A guess is welcome.');return;}if(q.type==='type'||q.type==='writing'){answer=value;p.answer=value;}p.attempts??={};p.attempts[p.step]=(p.attempts[p.step]||0)+1;const correct=C.isCorrect(q,value);feedback={correct,text:correct?q.explanation:blind?'Not yet. Try again from memory, or return to the lesson for another look.':((q.type==='type'||q.type==='writing')?q.hint||'Compare your answer with the example. You can try again.':q.type==='build'?'These words need a different order. Tap a word to move it back, or look at the example.':'Try another option. You can look at the example whenever you need it.')};if(correct){if(blind)p.blindCorrect=true;else{const index=p.step-l.cards.length;if(!p.correct.includes(index))p.correct.push(index);if(q.skill==='reading'){state.skills.reading[l.id]??={correct:[],doneAt:null};if(!state.skills.reading[l.id].correct.includes(0))state.skills.reading[l.id].correct.push(0);}if(q.skill==='writing'){state.skills.writing[l.id]={draft:value,passed:true,doneAt:new Date().toISOString()};}}}else if(blind)p.blindCorrect=false;save();render();if(!correct&&(q.type==='type'||q.type==='writing'))document.getElementById('type-answer')?.focus();}
-  async function speak(text,button){if(!('speechSynthesis'in window)){toast('This browser has no speech playback. Native audio is linked in Resources.');return;}const synth=window.speechSynthesis;let voices=synth.getVoices();if(!voices.length){voices=await new Promise(resolve=>{const timeout=setTimeout(()=>resolve(synth.getVoices()),800);synth.addEventListener('voiceschanged',()=>{clearTimeout(timeout);resolve(synth.getVoices());},{once:true});});}const voice=voices.find(v=>v.lang.toLowerCase()==='de-de')||voices.find(v=>v.lang.toLowerCase().startsWith('de'));if(!voice){toast('No German device voice is available. Use the publisher audio in the textbook companion.');return;}synth.cancel();const utterance=new SpeechSynthesisUtterance(text);utterance.lang='de-DE';utterance.voice=voice;utterance.rate=state.settings.speed;button?.classList.add('playing');utterance.onend=()=>button?.classList.remove('playing');utterance.onerror=()=>{button?.classList.remove('playing');toast('Audio could not play. Try again, or use the publisher recordings.');};synth.speak(utterance);}
-  root.addEventListener('click',event=>{
-    const b=event.target.closest('[data-action]');if(!b||b.disabled)return;
-    const action=b.dataset.action,id=b.dataset.id,value=b.dataset.value;
-    if(action==='book-zoom'){const img=document.getElementById('scan-page');const wide=img.classList.toggle('enlarged');b.setAttribute('aria-pressed',String(wide));b.textContent=wide?'Fit page to screen':'Enlarge page';return;}
-    if(sprintUI.handle(action,b))return;
-    if(action==='theory-section'){theorySection=value;render();return;}
-    if(action==='reading-translation'){readingTranslation=!readingTranslation;if(route.startsWith('lesson/')){state.progress[currentLesson().id].assisted=true;save();}render();return;}
-    if(action==='lab-choice'){labChoice=Number(value);labFeedback=null;render();return;}
-    if(action==='check-reading'){const l=labLesson(),q=l?.reading.questions[labReadingIndex];if(!q||labChoice===null){toast('Choose an answer first.');return;}labFeedback={correct:C.isCorrect(q,labChoice)};render();return;}
-    if(action==='next-reading'){if(!labFeedback?.correct)return;const l=labLesson();state.skills.reading[l.id]??={correct:[],doneAt:null};const r=state.skills.reading[l.id];if(!r.correct.includes(labReadingIndex))r.correct.push(labReadingIndex);if(r.correct.length===3)r.doneAt=new Date().toISOString();labReadingIndex=Math.min(2,labReadingIndex+1);labChoice=null;labFeedback=null;save();render();return;}
-    if(action==='restart-reading'){state.skills.reading[id]={correct:[],doneAt:null};labReadingIndex=0;labChoice=null;labFeedback=null;save();render();return;}
-    if(action==='check-writing'){const l=labLesson(),input=document.getElementById('lab-writing-answer');if(!l||!input?.value.trim()){toast('Write a phrase or sentence first.');return;}const result=C.writingFeedback(l.writing,input.value);state.skills.writing[l.id]={draft:input.value,passed:result.correct,doneAt:result.correct?new Date().toISOString():null};labFeedback=result;save();render();return;}
-    if(action==='writing-example'){revealed=!revealed;render();return;}
-    if(action==='lab-accent'){const input=document.getElementById('lab-writing-answer'),l=labLesson();if(input&&l){const start=input.selectionStart??input.value.length,end=input.selectionEnd??start;input.value=input.value.slice(0,start)+value+input.value.slice(end);state.skills.writing[l.id]={draft:input.value,passed:false,doneAt:null};labFeedback=null;save();input.focus();input.setSelectionRange(start+value.length,start+value.length);}return;}
-    if(action==='navigate')return navigate(b.dataset.to);
-    if(action==='start')return startLesson(id);
-    if(action==='speak')return speak(b.dataset.text,b);
-    if(action==='focus'){state.settings.focus=!state.settings.focus;save();render();return;}
-    if(action==='goal'){state.settings.goal=Number(value);save();render();toast(`${value} minutes is your gentle intention. You can stop sooner.`);return;}
-    if(action==='unit'){navigate('path');setTimeout(()=>document.getElementById('unit-'+id)?.scrollIntoView({behavior:state.settings.reduced?'instant':'smooth',block:'start'}),60);return;}
-    if(action==='filter'){wordFilter=value;render();return;}
-    if(action==='bookmark'){state.saved=state.saved.includes(id)?state.saved.filter(x=>x!==id):[...state.saved,id];save();render();return;}
-    if(action==='exit-lesson'){save();resetQuestion();navigate('today');return;}
-    if(action==='previous'){const l=currentLesson(),p=state.progress[l.id];p.step=Math.max(0,p.step-1);p.answer='';p.build=[];save();resetQuestion();render();return;}
-    if(action==='next-step')return stepForward();
-    if(action==='check')return check();
-    if(action==='choice'){selected=Number(value);feedback=null;render();return;}
-    if(action==='add-token'){const q=currentPractice();const n=Number(value);if(!build.includes(n)&&n<q.tokens.length)build.push(n);feedback=null;const p=state.progress[currentLesson().id];p.build=[...build];save();render();return;}
-    if(action==='remove-token'){build.splice(Number(value),1);state.progress[currentLesson().id].build=[...build];feedback=null;save();render();return;}
-    if(action==='accent'){const input=document.getElementById('type-answer');if(input){const start=input.selectionStart??input.value.length,end=input.selectionEnd??start;input.value=input.value.slice(0,start)+value+input.value.slice(end);answer=input.value;state.progress[currentLesson().id].answer=answer;save();input.focus();input.setSelectionRange(start+value.length,start+value.length);}return;}
-    if(action==='hint'){hint=!hint;render();return;}
-    if(action==='reveal'){const l=currentLesson();if(isBlind(l,state.progress[l.id]))return;revealed=true;state.progress[l.id].assisted=true;save();render();return;}
-    if(action==='relearn'){const l=currentLesson(),p=state.progress[l.id];p.step=0;p.blindCorrect=false;p.answer='';p.build=[];resetQuestion();save();render();window.scrollTo(0,0);return;}
-    if(action==='begin-review'){const queue=(value==='early'?state.seen:C.due(state)).slice(0,5);if(!queue.length)return;reviewSession={queue,index:0,flipped:false};render();return;}
-    if(action==='flip-review'){reviewSession.flipped=true;render();return;}
-    if(action==='rate-review'){C.review(state,reviewSession.queue[reviewSession.index],value==='remembered');reviewSession.index++;reviewSession.flipped=false;save();render();return;}
-    if(action==='end-review'){reviewSession=null;render();return;}
-    if(action==='export'){const blob=new Blob([JSON.stringify(state,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='german-progress-'+C.dateKey()+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),5000);toast('Your progress backup is ready.');return;}
-    if(action==='import'){document.getElementById('import-file').click();return;}
-    if(action==='reset-dialog'){dialog={type:'reset'};render();return;}
-    if(action==='close-dialog'){dialog=null;render();return;}
-    if(action==='confirm-reset'){state=C.defaults();dialog=null;reviewSession=null;save();navigate('today');return;}
-    if(action==='repeat-lesson'){const l=lessonById(dialog.id),finished=state.progress[l.id]?.completedAt;state.progress[l.id]={step:0,correct:[],taught:[],attempts:{},completedAt:finished||null,replaying:true,assisted:false,blindCorrect:false,answer:'',build:[]};state.active=l.id;dialog=null;resetQuestion();save();navigate('lesson/'+l.id);return;}
-  });
-  root.addEventListener('input',event=>{const input=event.target;
-    if(input.id==='page-notes'){const key=input.dataset.page;state.sprint.bookPages[key]??={done:false,note:''};state.sprint.bookPages[key].note=input.value.slice(0,8000);save();return;}if(sprintUI.input(input))return;if(input.id==='word-search'){search=input.value;document.getElementById('vocab-results').innerHTML=vocabGrid();}if(input.id==='lab-writing-answer'){const l=labLesson();if(l){state.skills.writing[l.id]={draft:input.value,passed:false,doneAt:null};labFeedback=null;save();}}if(input.id==='type-answer'){answer=input.value;const l=currentLesson();if(l){state.progress[l.id].answer=answer;save();}if(feedback&&!feedback.correct){feedback=null;const box=root.querySelector('.feedback-box');if(box)box.remove();}}});
-  root.addEventListener('change',async event=>{const input=event.target;
-    if(input.id==='book-jump'){navigate('book-pages/'+Number(input.value));return;}
-    if(input.dataset.bookPage!==undefined){const page=Number(input.dataset.bookPage);state.sprint.bookPages[page]??={done:false,note:''};state.sprint.bookPages[page].done=input.checked;
-      const day=window.GERMAN_BOOK.dayFor(page);if(!input.checked&&state.sprint.days[day])state.sprint.days[day].completedAt=null;save();return;}if(sprintUI.change(input))return;if(input.dataset.setting){const name=input.dataset.setting;state.settings[name]=input.type==='checkbox'?input.checked:Number(input.value);save();render();}if(input.id==='import-file'&&input.files?.length){try{const file=input.files[0];if(file.size>2e6)throw new Error('Choose a German learning progress file under 2 MB.');const loaded=C.clean(JSON.parse(await file.text()),course);dialog={type:'import',pending:loaded};dialog=null;state=loaded;reviewSession=null;save();render();toast('Your saved place and reviews are restored.');}catch(error){toast(error.message||'That progress file could not be read.');}input.value='';}});
-  document.addEventListener('keydown',event=>{if(dialog){if(event.key==='Escape'){dialog=null;render();}if(event.key==='Tab'){const buttons=[...root.querySelectorAll('.dialog button')];if(buttons.length&&event.shiftKey&&document.activeElement===buttons[0]){event.preventDefault();buttons.at(-1).focus();}else if(buttons.length&&!event.shiftKey&&document.activeElement===buttons.at(-1)){event.preventDefault();buttons[0].focus();}}return;}if(!route.startsWith('lesson/'))return;const input=['INPUT','TEXTAREA'].includes(event.target.tagName);if(event.target.tagName==='TEXTAREA'&&event.key==='Enter'&&!event.ctrlKey&&!event.metaKey)return;if(event.key==='Enter'&&!event.target.closest('button,a')){event.preventDefault();const l=currentLesson();if(state.progress[l.id].completedAt&&!state.progress[l.id].replaying)return;if(state.progress[l.id].step<l.cards.length||feedback?.correct)stepForward();else check();}else if(!input&&/^[1-3]$/.test(event.key)){const q=currentPractice();if(q?.type==='choice'&&!feedback?.correct){selected=Number(event.key)-1;feedback=null;render();}}});
-  document.addEventListener('visibilitychange',()=>{if(document.hidden&&'speechSynthesis'in window)window.speechSynthesis.cancel();});
-  const sprintUI=window.GERMAN_SPRINT_UI({getState:()=>state,save,frame,intro,e,icon,arrow,navigate,startLesson,lessonById,speak,toast,render});
-  render();
-})();
+  const KEY='klein-german-v1', BACKUP='german-progress-v1-backup';
+  const DATA=window.GERMAN_FULL_DATA||null, CORE=window.KLEIN_CORE, PL=window.GERMAN_PLAN,
+    MOT=window.GERMAN_MOTIVATION, PLAYER=window.GERMAN_PLAYER;
+  const LEVELS=(DATA&&DATA.levels)||null, planId=(LEVELS&&LEVELS.planId)||null;
+  const appEl=document.getElementById('app'), toastsEl=document.getElementById('toasts');
 
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const pct=(a,b)=>b?Math.round(a/b*100):0;
+
+  function toast(msg,ms=4500){
+    const t=document.createElement('div');t.className='toast';t.textContent=msg;
+    toastsEl.appendChild(t);setTimeout(()=>t.remove(),ms);
+  }
+
+  if(!CORE){appEl.innerHTML='<main class="empty" id="main"><h1>Something is missing</h1><p class="lede">core.js did not load. Please reload the page.</p></main>';return;}
+
+  // ---------- Storage ----------
+  function load(){
+    let raw=null;try{raw=localStorage.getItem(KEY);}catch{}
+    const res=CORE.migrate(raw,planId);
+    if(res.backup!=null){
+      try{if(!localStorage.getItem(BACKUP))localStorage.setItem(BACKUP,typeof res.backup==='string'?res.backup:JSON.stringify(res.backup));}catch{}
+    }
+    return res.state;
+  }
+  let state=load(), lastAnswered=state.stats.answered, saveWarned=false;
+  function save(){
+    if(state.stats.answered>lastAnswered){CORE.touchStreak(state);lastAnswered=state.stats.answered;paintStreak();}
+    try{localStorage.setItem(KEY,JSON.stringify(state));saveWarned=false;}
+    catch{if(!saveWarned){saveWarned=true;toast('This browser is not saving progress right now. Export it in Settings to keep it safe.',8000);}}
+  }
+  const getState=()=>state;
+  MOT&&MOT.connect&&MOT.connect({getState,toast});
+
+  // ---------- Plan ----------
+  let plan=null, planError=null;
+  if(DATA&&PL){try{plan=PL.build(DATA);}catch(e){planError=e;console.error('GERMAN_PLAN.build failed',e);}}
+  const dayMap=new Map((plan&&plan.days||[]).map(d=>[d.n,d]));
+  const dayAt=n=>dayMap.get(n);
+  const days=()=>plan?plan.days:[];
+  const findDay=fn=>days().find(fn);
+  const levelEndWeek={};
+  if(LEVELS){let w=0;for(const l of LEVELS.levels){w+=l.weeks;levelEndWeek[l.id]=w;}}
+  const levelTitle=id=>(LEVELS&&LEVELS.levels.find(l=>l.id===id)||{}).title||String(id||'').toUpperCase();
+
+  // ---------- Speech ----------
+  function germanVoice(){
+    const vs=window.speechSynthesis?speechSynthesis.getVoices():[];
+    return vs.find(v=>/^de[-_]DE/i.test(v.lang))||vs.find(v=>/^de\b/i.test(v.lang))||null;
+  }
+  function speak(text,rate){
+    if(!window.speechSynthesis||!window.SpeechSynthesisUtterance){toast('Read-aloud is not available in this browser.');return null;}
+    speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(String(text||''));
+    u.lang='de-DE';u.rate=rate||state.settings.speed||0.85;
+    const v=germanVoice();if(v)u.voice=v;
+    speechSynthesis.speak(u);return u;
+  }
+  if(window.speechSynthesis)speechSynthesis.getVoices(); // warms the voice list in Chrome
+
+  // ---------- Shell: fixed left sidebar + breadcrumb bar (laptop layout) ----------
+  const I={
+    home:'<path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M10 20v-5h4v5"/>',
+    chapters:'<path d="M4 4h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2H4z"/><path d="M20 4h-6a2 2 0 0 0-2 2v14a2 2 0 0 1 2-2h6z"/>',
+    grammar:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5M9 8h6"/>',
+    words:'<rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',
+    progress:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+    settings:'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/>',
+    back:'<path d="M15 18l-6-6 6-6"/>'
+  };
+  const icon=k=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${I[k]}</svg>`;
+  const NAV=[['home','Home'],['chapters','Chapters'],['grammar','Grammar'],['words','Words'],['progress','Progress'],['settings','Settings']];
+
+  appEl.innerHTML=`<aside class="side" aria-label="Sidebar">
+      <a class="brand" href="#/home"><span class="brand-mark" aria-hidden="true">DE</span><span>German<small>one step at a time</small></span></a>
+      <nav class="side-nav" aria-label="Main">${NAV.map(([k,l])=>`<a href="#/${k}" data-nav="${k}">${icon(k)}<span>${l}</span></a>`).join('')}</nav>
+      <div class="side-now" id="sidenow"></div>
+      <p class="side-foot">Credits · Atish</p>
+    </aside>
+    <div class="stage">
+      <nav class="crumbs" id="crumbs" aria-label="Where you are"></nav>
+      <main id="main" tabindex="-1"></main>
+    </div>`;
+  const mainEl=document.getElementById('main'), crumbsEl=document.getElementById('crumbs');
+
+  function paintStreak(){paintTop();}
+  function paintTop(){
+    const d=dayAt(state.position.day)||days()[days().length-1], c=state.streak.count;
+    document.getElementById('sidenow').innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'')
+      +(c?`<span class="streak"><span aria-hidden="true">🔥</span> ${c}<span class="sr-only"> day streak</span></span>`:'');
+  }
+  function applyReduced(){document.documentElement.classList.toggle('reduced',!!state.settings.reduced);}
+
+  // ---------- Shared bits ----------
+  const notice=(v,emoji,title,text,actions='')=>{v.innerHTML=`<section class="empty"><div class="big" aria-hidden="true">${emoji}</div><h1>${esc(title)}</h1><p class="lede">${text}</p><div class="row" style="justify-content:center">${actions}</div></section>`;};
+  const homeBtn='<a class="btn primary" href="#/home">Go to Home →</a>';
+  function needPlan(v){
+    if(!DATA){notice(v,'✍️','Course content is being written','The lessons are on their way. Your saved progress is safe in this browser. Please check back soon.','<a class="btn" href="#/settings">Settings</a>');return false;}
+    if(!PL){notice(v,'🧩','Not built yet','The course plan (plan.js) is not built yet. Please check back soon.');return false;}
+    if(planError||!plan){notice(v,'🧩','The plan could not be built','Something in the course data needs fixing. Your progress is safe.');return false;}
+    return true;
+  }
+  const isLocked=n=>n>state.position.day;
+  const dayDoneAt=n=>state.days[n]&&state.days[n].doneAt;
+
+  // Level › Chapter › Day naming. Chapter titles come from the lessons (chapterTitle).
+  const chTitle=(lv,ch)=>{const l=(DATA&&DATA.lessons||[]).find(x=>x.level===lv&&x.chapter===ch&&x.chapterTitle);return l?l.chapterTitle:'';};
+  const chName=(lv,ch)=>`Ch ${ch}${chTitle(lv,ch)?' '+chTitle(lv,ch):''}`;
+  const chapterDays=(lv,ch)=>days().filter(d=>d.kind==='learn'&&d.level===lv&&d.chapter===ch);
+  function dayLabel(d){
+    if(d.kind==='learn'){const cd=chapterDays(d.level,d.chapter);return `Day ${cd.indexOf(d)+1}`;}
+    return d.kind==='review'?`Week ${d.week} review`:d.kind==='mock'?'Practice mock':'Catch-up day';
+  }
+  function dayCrumbs(d){
+    const c=[{t:levelTitle(d.level),h:`#/chapters/${d.level}`}];
+    if(d.kind==='learn')c.push({t:chName(d.level,d.chapter),h:`#/chapters/${d.level}/${d.chapter}`});
+    c.push({t:dayLabel(d),h:`#/day/${d.n}`});return c;
+  }
+  const lessonPos=(d,id)=>`Lesson ${d.lessonIds.indexOf(id)+1} of ${d.lessonIds.length}`;
+
+  function partHref(p,n){
+    return {recall:`#/recall/${n}`,review:`#/review/${n}`,lesson:`#/lesson/${encodeURIComponent(p.id)}`,
+      skills:`#/skills/${encodeURIComponent(p.id)}`,mock:`#/mock/${encodeURIComponent(p.id)}`}[p.kind]||'#/home';
+  }
+  function partMin(d,p){
+    if(p.minutes)return p.minutes;
+    if(p.kind==='lesson')return (plan.lessonById.get(p.id)||{}).minutes||25;
+    if(p.kind==='skills')return (plan.skillDayById.get(p.id)||{}).minutes||40;
+    if(p.kind==='recall')return 10;
+    return d.minutes||60;
+  }
+  const partLabel={recall:'Quick review',lesson:'Lesson',skills:'Practice',review:'Review',mock:'Practice mock'};
+  function partName(d,p){
+    if(p.kind==='lesson')return `${lessonPos(d,p.id)}: ${p.title}`;
+    if(p.kind==='skills')return 'Practice: reading, listening, writing';
+    if(p.kind==='recall')return 'Quick review of earlier lessons';
+    return p.title||partLabel[p.kind];
+  }
+
+  // Right/total over every answer that belongs to this day's lessons, skill day, mock and review (first tries only).
+  function dayScore(d){
+    const owners=new Set([...(d.lessonIds||[]),d.skillDayId,d.mockId,`day-${d.n}`].filter(Boolean));
+    let right=0,total=0;
+    for(const [k,a] of Object.entries(state.answers)){if(owners.has(k.split('|')[0])){total++;if(a.correct)right++;}}
+    return {right,total};
+  }
+
+  // The one next step for day n: {label, why, href} or {label, why, finish:n}; null when the day is not open.
+  function nextStep(d){
+    const n=d.n;
+    if(isLocked(n)||d.available===false||dayDoneAt(n))return null;
+    const parts=PL.dayParts(plan,state,n), next=parts.find(p=>!p.done);
+    if(!next)return {label:`Finish ${dayLabel(d)}`,why:'Every part is done. This closes the day and opens the next one.',finish:n};
+    const href=partHref(next,n);
+    if(next.kind==='lesson'){
+      const L=plan.lessonById.get(next.id)||{}, r=state.lessons[next.id]||{};
+      return {label:`${r.step>0?'Continue':'Start'} ${lessonPos(d,next.id)}: ${L.title||next.title}`,why:L.goal||'',href};
+    }
+    if(next.kind==='skills'){const r=state.skillDays[next.id]||{};
+      return {label:`${r.step>0?'Continue':'Go to'} Practice`,why:'Use today’s lessons in a short text, a dialogue and some writing.',href};}
+    if(next.kind==='recall')return {label:'Start quick Review',why:'A few questions from earlier lessons, so they stay in your head.',href};
+    if(next.kind==='review')return {label:`Start ${d.title||'Review'}`,why:'Mixed questions from this week. Answers you revealed come back here.',href};
+    return {label:'Start practice mock',why:'A test in the exam style. Passing is a good sign, not a certificate.',href};
+  }
+  const stepBtn=s=>s.finish?`<button class="btn primary go" type="button" data-finish="${s.finish}">${esc(s.label)} →</button>`
+    :`<a class="btn primary go" href="${s.href}">${esc(s.label)} →</a>`;
+  const meter=(label,a,b,unit)=>`<div class="meter"><p class="barlabel"><span>${esc(label)}</span><span>${a} of ${b} ${unit}</span></p>
+    <div class="bar" role="progressbar" aria-label="${esc(label)}" aria-valuemin="0" aria-valuemax="${b}" aria-valuenow="${a}"><i style="width:${pct(a,b)}%"></i></div></div>`;
+  const redoBtn=id=>`<button type="button" class="btn small" data-redo="${esc(id)}">Redo lesson</button>`;
+
+  function partList(d){
+    const n=d.n, parts=PL.dayParts(plan,state,n), next=parts.find(p=>!p.done), locked=isLocked(n)||d.available===false;
+    return `<ul class="list" aria-label="Parts of ${esc(dayLabel(d))}">${parts.map(p=>{
+      const inner=`<span class="tick" aria-hidden="true">${p.done?'✓':''}</span>
+        <span class="t"><b>${esc(partName(d,p))}</b><small>${p.done?'Done':p===next&&!locked?'Next up':locked?'Not open yet':'To do'} · about ${partMin(d,p)} min</small></span>`;
+      const cls=`item ${p.done?'done':''} ${p===next&&!locked?'next':''} ${locked?'locked':''}`;
+      return `<li class="${p.kind==='lesson'&&p.done?'has-redo':''}">${locked?`<span class="${cls}">${inner}</span>`:`<a class="${cls}" href="${partHref(p,n)}">${inner}</a>`}${p.kind==='lesson'&&p.done&&!locked?redoBtn(p.id):''}</li>`;}).join('')}</ul>`;
+  }
+  // Delegated: "Redo lesson" buttons and "Finish day" anywhere on a screen.
+  function bindDayActions(v){
+    v.addEventListener('click',e=>{
+      const r=e.target.closest('[data-redo]');
+      if(r){const L=plan.lessonById.get(r.dataset.redo);if(L&&CORE.startRedo(state,L.id,PLAYER.lessonKeys(L))){save();go(`#/lesson/${encodeURIComponent(L.id)}`);}return;}
+      const f=e.target.closest('[data-finish]');if(f)finishDay(Number(f.dataset.finish),f);
+    });
+  }
+
+  function endOfCourse(v){
+    if(DATA.partial)return notice(v,'✍️','You are up to date','The next days are still being written. Lovely work so far.','<a class="btn" href="#/progress">See your progress</a>');
+    return notice(v,'🏁','Course complete','You finished every day of the plan. Take the practice mocks again to check yourself honestly.','<a class="btn primary" href="#/chapters">Open Chapters →</a>');
+  }
+
+  // ---------- Day view (#/day/n) ----------
+  function renderDay(v,n){
+    const d=dayAt(n);
+    if(!d)return notice(v,'🔎','Day not found','That day is not in the plan.',homeBtn);
+    const where=d.kind==='learn'?`${chName(d.level,d.chapter)}, ${dayLabel(d)}`:dayLabel(d);
+    if(isLocked(n))return notice(v,'🔒',`${where} is locked`,'It opens when you finish the day before it. One day at a time.',homeBtn);
+    const head=`<h1>${esc(where)}</h1>`;
+    if(d.available===false){v.innerHTML=head+`<div class="card hero soon"><h2>Coming soon</h2><p class="lede">The lessons for this day are still being written. Your progress is safe.</p>${homeBtn}</div>`;return;}
+    const parts=PL.dayParts(plan,state,n), done=parts.filter(p=>p.done).length, s=nextStep(d);
+    const hero=dayDoneAt(n)?`<div class="card hero"><h2>This day is done ✓</h2><p class="lede">You can open any part again, or redo a lesson.</p>${homeBtn}</div>`
+      :`<div class="card hero">${stepBtn(s)}<p class="why">${esc(s.why)}</p></div>`;
+    v.innerHTML=head+hero+`<div class="section">${meter('This day',done,parts.length,'parts')}</div><div class="section">${partList(d)}</div>`;
+    bindDayActions(v);
+  }
+
+  async function finishDay(n,btn){
+    const d=dayAt(n);if(!d)return;
+    btn.disabled=true;
+    const score=dayScore(d);
+    if(!PL.finishDay(plan,state,n,new Date())){btn.disabled=false;toast('Finish every part first, then close the day.');return;}
+    save();paintTop();
+    const cel=(k,i)=>MOT?MOT.celebrate(k,Object.assign({streak:state.streak.count},i)):Promise.resolve();
+    await cel('day',{title:d.title,learned:d.title,right:score.right,total:score.total});
+    if(d.dayInWeek===6)await cel('week',{title:`Week ${d.week}`,learned:`Week ${d.week} is done. Rest day next, then onwards.`});
+    if(d.dayInWeek===6&&levelEndWeek[d.level]===d.week)await cel('level',{level:levelTitle(d.level),learned:`All of ${levelTitle(d.level)}. Take the practice mock again any time.`});
+    go('#/home');
+  }
+
+  // ---------- Screens ----------
+  const screens={
+    home(v){
+      if(!needPlan(v))return;
+      const n=state.position.day, d=dayAt(n);
+      if(!d)return days().length?endOfCourse(v):notice(v,'✍️','Course content is being written','Please check back soon.');
+      const lvDays=days().filter(x=>x.level===d.level), lvDone=lvDays.filter(x=>dayDoneAt(x.n)).length;
+      const parts=PL.dayParts(plan,state,n), pdone=parts.filter(p=>p.done).length, s=nextStep(d);
+      let chMeter='';
+      if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);
+        chMeter=meter(chName(d.level,d.chapter),ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length,ids.length,'lessons');}
+      const where=d.kind==='learn'?`${chName(d.level,d.chapter)} · ${dayLabel(d)}`:dayLabel(d);
+      v.innerHTML=`<section class="home-hero">
+          <p class="home-where"><span class="badge">${esc(levelTitle(d.level))}</span> ${esc(where)}</p>
+          <h1>${s?'Your next step':'Coming soon'}</h1>
+          ${s?`${stepBtn(s)}<p class="why">${esc(s.why)}</p>`
+            :`<p class="lede">The lessons for this day are still being written. Your progress is safe. You can redo finished lessons in Chapters while you wait.</p><a class="btn" href="#/chapters/${d.level}">Open Chapters →</a>`}
+        </section>
+        <section class="meters section" aria-label="Your progress">
+          ${meter(`Level ${levelTitle(d.level)}`,lvDone,lvDays.length,'days')}${chMeter}${meter(`Today (${dayLabel(d)})`,pdone,parts.length,'parts')}
+        </section>
+        ${d.available===false?'':`<section class="section"><h2>Today’s plan</h2>${partList(d)}</section>`}`;
+      bindDayActions(v);
+    },
+    day(v,arg){if(!needPlan(v))return;renderDay(v,parseInt(arg,10)||0);},
+
+    // #/chapters, #/chapters/<level>, #/chapters/<level>/<chapter>: level tabs, then chapters › days › lessons.
+    chapters(v,arg){
+      if(!needPlan(v))return;
+      const [lvArg,chArg]=String(arg||'').split('/');
+      const cur=dayAt(state.position.day)||{};
+      const lv=LEVELS.levels.some(l=>l.id===lvArg)?lvArg:(cur.level||LEVELS.levels[0].id);
+      const L=LEVELS.levels.find(l=>l.id===lv), openCh=chArg?Number(chArg):(cur.level===lv?cur.chapter:1);
+      const lvDays=days().filter(d=>d.level===lv);
+      const dayState=d=>dayDoneAt(d.n)?['done','Done']:d.available===false?['soon','Coming soon']:isLocked(d.n)?['locked','Locked']:d.n===state.position.day?['now','Today']:['open','Open'];
+      const dayBlock=d=>{const [cls,txt]=dayState(d);
+        return `<div class="dayrow ${cls}"><div class="dayhead"><a href="#/day/${d.n}">${esc(dayLabel(d))}</a><span class="pill ${cls}">${txt}</span></div>
+          ${cls==='soon'?'<p class="muted">The lessons for this day are still being written.</p>':partList(d)}</div>`;};
+      let html=`<h1>Chapters</h1>
+        <div class="seg" role="group" aria-label="Level">${LEVELS.levels.map(l=>`<a href="#/chapters/${l.id}" aria-current="${l.id===lv?'page':'false'}">${esc(l.title)}</a>`).join('')}</div>
+        <p class="lede section">${esc(L.book||'')}. A day opens when you finish the one before it.</p>`;
+      for(const ch of Object.keys(L.chapterDays).map(Number)){
+        const cd=chapterDays(lv,ch), ids=cd.flatMap(d=>d.lessonIds), ld=ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length;
+        const allDone=cd.length&&cd.every(d=>dayDoneAt(d.n)), soon=cd.every(d=>d.available===false);
+        html+=`<details class="chap${allDone?' done':''}" id="ch-${ch}"${ch===openCh?' open':''}>
+          <summary><span class="chn">${ch}</span><span class="t"><b>${esc(chTitle(lv,ch)||`Chapter ${ch}`)}</b><small>${soon?'Coming soon':`${ld} of ${ids.length} lessons done`}</small></span>${allDone?'<span class="pill done">Done ✓</span>':''}</summary>
+          <div class="chap-body">${cd.map(dayBlock).join('')}</div></details>`;
+      }
+      const other=lvDays.filter(d=>d.kind!=='learn');
+      if(other.length)html+=`<h2 class="section">Review and test days</h2><div class="others">${other.map(d=>{const [cls,txt]=dayState(d);
+        return cls==='locked'||cls==='soon'?`<span class="other ${cls}">${esc(dayLabel(d))}<small>${txt}</small></span>`:`<a class="other ${cls}" href="#/day/${d.n}">${esc(dayLabel(d))}<small>${txt}</small></a>`;}).join('')}</div>`;
+      v.innerHTML=html;
+      bindDayActions(v);
+      if(chArg){const el=v.querySelector(`#ch-${CSS.escape(chArg)}`);if(el)requestAnimationFrame(()=>el.scrollIntoView({block:'start'}));}
+    },
+
+    progress(v){
+      if(!needPlan(v))return;
+      let s={};try{s=PL.stats(plan,state)||{};}catch(e){console.error(e);}
+      const acc=s.accuracy==null?null:s.accuracy<=1?Math.round(s.accuracy*100):Math.round(s.accuracy);
+      const tile=(b,l)=>`<div class="stat"><b>${b}</b><span>${l}</span></div>`;
+      const totalWeeks=LEVELS.levels.reduce((a,l)=>a+l.weeks,0);
+      const perWeek=Array.from({length:totalWeeks},()=>0);
+      for(const d of days())if(dayDoneAt(d.n)&&perWeek[d.week-1]!=null)perWeek[d.week-1]++;
+      const cur=(dayAt(state.position.day)||{}).week||0;
+      const W=520,H=150,pad=18,bw=(W-pad)/totalWeeks;
+      const bars=perWeek.map((c,i)=>{const h=c/6*(H-40);const x=pad+i*bw+2;
+        return `<rect x="${x}" y="${H-20-h}" width="${bw-4}" height="${Math.max(h,1.5)}" rx="2" fill="${c?'var(--ok)':'var(--line)'}"${i+1===cur?' stroke="var(--ink)" stroke-width="1.5"':''}><title>Week ${i+1}: ${c} of 6 days</title></rect>`
+          +((i===0||(i+1)%4===0)?`<text x="${x+(bw-4)/2}" y="${H-6}" text-anchor="middle">${i+1}</text>`:'');}).join('');
+      const summary=perWeek.map((c,i)=>c?`week ${i+1}: ${c}`:'').filter(Boolean).join(', ')||'no days finished yet';
+      v.innerHTML=`<h1>Progress</h1>
+        <div class="stats section">${tile(s.daysDone??0,'days done')}${tile(s.lessonsDone??0,'lessons done')}${tile(acc==null?'–':acc+'%','answers right')}${tile(s.wordsSeen??0,'words seen')}</div>
+        <div class="stats" style="margin-top:10px">${tile(state.streak.count,'day streak 🔥')}${tile(state.stats.answered,'answers given')}</div>
+        <p class="honest section">Lessons done ≠ exam ready: take the practice mocks.</p>
+        <section class="section"><h2>By level</h2>${LEVELS.levels.map(L=>{const b=(s.byLevel||{})[L.id]||{done:0,total:0};
+          return `<div style="margin-top:14px"><p class="barlabel"><span>${esc(L.title)}</span><span>${b.done} of ${b.total}</span></p><div class="bar ok"><i style="width:${pct(b.done,b.total)}%"></i></div></div>`;}).join('')}</section>
+        <section class="section chart"><h2>Days finished per week</h2>
+          <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Days finished per week, out of 6: ${esc(summary)}">
+            <line x1="${pad}" x2="${W}" y1="${H-20}" y2="${H-20}" stroke="var(--line)"/>${bars}
+            <text x="0" y="${H-20-(H-40)+4}">6</text><text x="0" y="${H-17}">0</text></svg>
+          <p class="muted" style="font-size:.85rem">Each bar is one week (6 study days). The outlined bar is this week.</p></section>`;
+    },
+
+    grammar(v){
+      if(!DATA)return needPlan(v);
+      const res=(DATA.resources&&DATA.resources.videos)||{};
+      const videoLinks=keys=>(keys||[]).map(k=>{const r=res[k]||{};const id=String(k).startsWith('yt:')?k.slice(3):r.id;
+        const url=r.url||(id?`https://www.youtube.com/watch?v=${encodeURIComponent(id)}`:null);
+        return url?`<a href="${esc(url)}" target="_blank" rel="noopener">▶ ${esc(r.title||'Grammar video')}</a>`:'';}).join('');
+      // cells are strings, or {t,g} with g = m|f|n|pl for gender colour
+      const cell=c=>c&&typeof c==='object'?`<td class="g-${esc(c.g)}">${esc(c.t)}</td>`:`<td>${esc(c)}</td>`;
+      const table=t=>t&&t.headers?`<table class="tbl"><thead><tr>${t.headers.map(h=>`<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${(t.rows||[]).map(r=>`<tr>${r.map(cell).join('')}</tr>`).join('')}</tbody></table>`:'';
+      const GROUPS=['Articles & nouns','Pronouns','Verbs','Word order','Questions','Prepositions','Adjectives','Connectors','Numbers & time'];
+      const gi=g=>{const i=GROUPS.indexOf(g);return i<0?GROUPS.length:i;};
+      const core=(DATA.grammarTables||[]).map(t=>({t,text:CORE.normalise([t.title,t.why,t.group,t.chapter,...t.headers,...t.rows.flat().map(c=>c&&c.t||c),
+        ...(t.notes||[]),...(t.examples||[]).flatMap(e=>[e.de,e.en])].join(' '))}));
+      const embeds=keys=>{const h=(keys||[]).map(k=>PLAYER&&PLAYER.videoHtml?PLAYER.videoHtml(k,DATA.resources||{}):'').join('');
+        return h?`<div class="vids">${h}</div>`:'<p class="soon-vid">Video coming soon</p>';};
+      const coreHtml=(t,open)=>`<article class="card ref core"><h3><button type="button" class="ct-toggle" data-ct="${esc(t.id)}" aria-expanded="${open}" aria-controls="ct-${esc(t.id)}">${esc(t.title)}</button></h3>
+        <div id="ct-${esc(t.id)}"${open?'':' hidden'}><p class="one">${esc(t.why)}</p>${table(t)}
+          ${(t.notes||[]).length?`<ul class="notes">${t.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>`:''}
+          ${(t.examples||[]).length?`<ul class="ex">${t.examples.map(e=>`<li><b lang="de">${esc(e.de)}</b><span class="muted">${esc(e.en)}</span></li>`).join('')}</ul>`:''}
+          ${embeds(t.videos)}<div class="links"><span class="muted"><span class="badge">${esc(levelTitle(t.level))}</span> Taught in ${esc(t.chapter)}</span></div></div></article>`;
+      const lvIds=(LEVELS?LEVELS.levels.map(l=>l.id):['a1','a2','b1']).filter(id=>core.some(c=>c.t.level===id));
+      const curLv=(dayAt(state.position.day)||{}).level;
+      let lvSel=lvIds.includes(curLv)?curLv:(lvIds[0]||'all'), openIds=null;
+      const items=(DATA.lessons||[]).map(l=>{const g=l.grammar||{},m=g.mistake||{};
+        return {l,text:CORE.normalise([l.title,g.point,g.oneLine,m.wrong,m.right,m.why,...(l.cards||[]).map(c=>c.title)].join(' ')),
+          html:`<article class="card ref"><h3>${esc(g.point||l.title)}</h3><p class="one">${esc(g.oneLine||'')}</p>
+            ${m.wrong?`<p class="mistake"><s>${esc(m.wrong)}</s> → <b>${esc(m.right)}</b><br><span class="muted">${esc(m.why||'')}</span></p>`:''}
+            ${(l.cards||[]).map(c=>table(c.table)).join('')}
+            <div class="links">${videoLinks(l.media&&l.media.grammarVideos)}<a href="#/day/${plan&&plan.dayOfLesson?plan.dayOfLesson.get(l.id)||'':''}" class="muted">From: ${esc(l.title)}</a></div></article>`};});
+      v.innerHTML=`<h1>Grammar</h1>
+        <label class="sr-only" for="gq">Search grammar</label><input id="gq" class="search" type="search" placeholder="Search, e.g. accusative, den, verb" autocomplete="off">
+        ${core.length?`<section class="section" aria-labelledby="ct-h"><h2 id="ct-h">Core tables</h2>
+          <div class="ct-bar"><div class="seg" role="group" aria-label="Level">${[...lvIds,'all'].map(id=>`<button type="button" data-lv="${id}" aria-pressed="${id===lvSel}">${id==='all'?'All':esc(levelTitle(id))}</button>`).join('')}</div>
+          <p class="legend" aria-label="Colour key"><span class="g-m">masculine</span><span class="g-f">feminine</span><span class="g-n">neuter</span><span class="g-pl">plural</span></p></div>
+          <div id="clist"></div></section><h2 class="section">From your lessons</h2>`:''}
+        <div id="glist" class="section"></div>`;
+      const list=v.querySelector('#glist'), q=v.querySelector('#gq'), clist=v.querySelector('#clist');
+      const paintCore=term=>{
+        if(!clist)return;
+        // while searching, look in every level so nothing is hidden by the level filter
+        const hits=core.filter(c=>term?c.text.includes(term):lvSel==='all'||c.t.level===lvSel)
+          .sort((a,b)=>gi(a.t.group)-gi(b.t.group)||lvIds.indexOf(a.t.level)-lvIds.indexOf(b.t.level));
+        if(!hits.length){clist.innerHTML=`<p class="lede">${term?'No core table matches that search.':'No core tables for this level yet.'}</p>`;return;}
+        if(!openIds)openIds=new Set(hits.filter(c=>c.t.group===hits[0].t.group).map(c=>c.t.id));
+        let html='',grp=null;
+        for(const c of hits){
+          if(c.t.group!==grp){grp=c.t.group;html+=`<p class="eyebrow section">${esc(grp)}</p>`;}
+          html+=coreHtml(c.t,!!term||openIds.has(c.t.id));
+        }
+        clist.innerHTML=html;
+      };
+      v.addEventListener('click',e=>{
+        const lb=e.target.closest('[data-lv]');
+        if(lb){lvSel=lb.dataset.lv;openIds=null;v.querySelectorAll('[data-lv]').forEach(b=>b.setAttribute('aria-pressed',String(b===lb)));paint();return;}
+        const tb=e.target.closest('[data-ct]');if(!tb)return;
+        const open=tb.getAttribute('aria-expanded')!=='true',body=v.querySelector('#'+CSS.escape(tb.getAttribute('aria-controls')));
+        tb.setAttribute('aria-expanded',String(open));if(body)body.hidden=!open;
+        if(openIds)open?openIds.add(tb.dataset.ct):openIds.delete(tb.dataset.ct);
+      });
+      const paint=()=>{
+        const term=CORE.normalise(q.value);
+        paintCore(term);
+        const hits=items.filter(i=>!term||i.text.includes(term));
+        if(!items.length){list.innerHTML='<p class="lede">Grammar notes appear here as lessons are written.</p>';return;}
+        if(!hits.length){list.innerHTML='<p class="lede">No grammar matches that search.</p>';return;}
+        let html='',lv=null,ch=null;
+        for(const i of hits){
+          if(i.l.level!==lv){lv=i.l.level;ch=null;html+=`<h2 class="section"><span class="badge">${esc(levelTitle(lv))}</span></h2>`;}
+          if(i.l.chapter!==ch){ch=i.l.chapter;html+=`<p class="eyebrow section">Chapter ${esc(ch)}</p>`;}
+          html+=i.html;
+        }
+        list.innerHTML=html;
+      };
+      q.addEventListener('input',paint);paint();
+    },
+
+    words(v){
+      if(!DATA)return needPlan(v);
+      const all=[],seen=new Set(); // the same word taught twice is listed once
+      for(const l of DATA.lessons||[])if(state.lessons[l.id]&&state.lessons[l.id].completedAt)
+        (l.vocabulary||[]).forEach((w,i)=>{const k=CORE.normalise(w.de+'|'+w.en);if(seen.has(k))return;seen.add(k);all.push({id:`${l.id}:${i}`,de:(w.article?w.article+' ':'')+w.de,en:w.en,extra:w.plural||w.forms||'',ex:(w.examples||[])[0]});});
+      const isDue=w=>{const r=state.words[w.id];return !r||r.due<=Date.now();};
+      const list=()=>{
+        const due=all.filter(isDue).length;
+        v.innerHTML=`<p class="eyebrow">${all.length} words from finished lessons</p><h1>Words</h1>
+          ${all.length?`<button class="btn primary big" type="button" data-practice ${due?'':'disabled'}>${due?`Practise ${Math.min(due,20)} due word${due>1?'s':''}`:'Nothing due right now ✓'}</button>
+          <div class="section"><label class="sr-only" for="wq">Search words</label><input id="wq" class="search" type="search" placeholder="Search German or English" autocomplete="off"></div>
+          <ul class="words section" id="wl"></ul>`:'<div class="card section"><p class="lede">Words appear here after you finish your first lesson.</p></div>'}`;
+        if(!all.length)return;
+        const ul=v.querySelector('#wl'),q=v.querySelector('#wq');
+        const paint=()=>{const t=CORE.normalise(q.value);
+          const hits=all.filter(w=>!t||CORE.normalise(w.de+' '+w.en).includes(t));
+          ul.innerHTML=hits.map(w=>`<li><span class="de">${esc(w.de)}${w.extra?` <span class="muted">· ${esc(w.extra)}</span>`:''}</span><span class="en">${esc(w.en)}</span></li>`).join('')||'<li class="muted">No words match.</li>';};
+        q.addEventListener('input',paint);paint();
+        v.querySelector('[data-practice]').addEventListener('click',()=>practise(all.filter(isDue).slice(0,20)));
+      };
+      const practise=queue=>{
+        let i=0,known=0,shown=false;
+        const card=()=>{
+          if(i>=queue.length){v.innerHTML=`<section class="empty"><div class="big" aria-hidden="true">✨</div><h1>Practice done</h1><p class="lede">You knew ${known} of ${queue.length}. The rest come back soon.</p><button class="btn primary" type="button" data-back>Back to words</button></section>`;
+            v.querySelector('[data-back]').addEventListener('click',list);v.querySelector('[data-back]').focus();return;}
+          const w=queue[i];
+          v.innerHTML=`<p class="barlabel"><span>Word ${i+1} of ${queue.length}</span><button class="btn" type="button" data-stop>Save &amp; pause</button></p>
+            <div class="bar"><i style="width:${pct(i,queue.length)}%"></i></div>
+            <div class="card flash section"><p class="eyebrow">What does this mean?</p><p class="q" lang="de">${esc(w.de)}</p>
+              <button class="btn" type="button" data-say>🔊 Hear it</button>
+              <p class="a" aria-live="polite">${shown?esc(w.en):''}</p>${shown&&w.ex?`<p class="muted" lang="de">${esc(w.ex.de)}</p>`:''}</div>
+            <div class="row section">${shown?`<button class="btn primary" style="flex:1" type="button" data-yes>I knew it</button><button class="btn" style="flex:1" type="button" data-no>Not yet</button>`
+              :`<button class="btn primary big" type="button" data-show>Show answer</button>`}</div>`;
+          const on=(s,f)=>{const b=v.querySelector(s);if(b)b.addEventListener('click',f);return b;};
+          on('[data-stop]',list);on('[data-say]',()=>speak(w.de));
+          const grade=ok=>{CORE.reviewWord(state,w.id,ok);if(ok)known++;save();i++;shown=false;card();};
+          (on('[data-show]',()=>{shown=true;card();})||on('[data-yes]',()=>grade(true))).focus();
+          on('[data-no]',()=>grade(false));
+        };
+        card();
+      };
+      list();
+    },
+
+    settings(v){
+      const s=state.settings;
+      const sw=(k,l,sub)=>`<div class="set"><label for="s-${k}">${l}<small>${sub}</small></label><input class="switch" type="checkbox" id="s-${k}" data-k="${k}" ${s[k]?'checked':''}></div>`;
+      const seg=(k,l,vals,fmt)=>`<div class="set"><span class="lbl" id="l-${k}">${l}</span><div class="seg" role="group" aria-labelledby="l-${k}">${vals.map(x=>`<button type="button" data-seg="${k}" data-v="${x}" aria-pressed="${s[k]===x}">${fmt(x)}</button>`).join('')}</div></div>`;
+      const canAsk='Notification' in window&&Notification.permission==='default';
+      v.innerHTML=`<h1>Settings</h1>
+        <section class="section"><h2>Motivation</h2>
+          ${sw('reminders','Gentle reminders','A short encouraging note while you study')}
+          ${seg('interval','Reminder every',[3,5,10],x=>x+' min')}
+          ${canAsk?`<div class="set"><span class="lbl">Notifications<small>Show reminders when this tab is in the background</small></span><button class="btn" type="button" data-notify>Allow</button></div>`:''}
+          ${sw('celebrate','Celebrations','A full-screen moment when you finish something')}
+          ${sw('sound','Sound','A tiny chime with celebrations')}
+          ${sw('reduced','Reduce motion','No confetti or moving effects')}</section>
+        <section class="section"><h2>Listening</h2>
+          ${seg('speed','Speech speed',[0.7,0.85,1],x=>x===1?'1×':x+'×')}
+          <div class="set"><span class="lbl">Test the German voice</span><button class="btn" type="button" data-test>🔊 Play</button></div></section>
+        <section class="section"><h2>Your progress file</h2>
+          <p class="lede">Progress is saved in this browser only. Export it now and then to keep a copy.</p>
+          <div class="row"><button class="btn" type="button" data-export>Export progress</button>
+            <label class="btn" for="imp">Import progress</label><input id="imp" class="sr-only" type="file" accept="application/json,.json"></div></section>
+        <section class="section card"><h2>Reset progress</h2><p class="lede">This deletes all progress in this browser. Your settings stay. Type <b>RESET</b> to confirm.</p>
+          <label class="sr-only" for="rst">Type RESET to confirm</label><input id="rst" class="field" autocomplete="off" spellcheck="false">
+          <div class="row" style="margin-top:12px"><button class="btn danger" type="button" data-reset disabled>Reset progress</button></div></section>`;
+      v.addEventListener('change',e=>{
+        const k=e.target.dataset&&e.target.dataset.k;
+        if(k){s[k]=e.target.checked;save();if(k==='reduced')applyReduced();}
+      });
+      v.addEventListener('click',e=>{
+        const b=e.target.closest('button');if(!b)return;
+        if(b.dataset.seg){s[b.dataset.seg]=Number(b.dataset.v);save();
+          v.querySelectorAll(`[data-seg="${b.dataset.seg}"]`).forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
+        else if('test' in b.dataset)speak('Hallo! Ich heiße Mira. Ich lerne Deutsch.');
+        else if('notify' in b.dataset)Notification.requestPermission().then(p=>{toast(p==='granted'?'Notifications are on.':'Notifications stay off. Reminders show in the page.');route();});
+        else if('export' in b.dataset){
+          const blob=new Blob([JSON.stringify(state,null,1)],{type:'application/json'});
+          const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`german-progress-${CORE.dateKey()}.json`;
+          document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);toast('Progress exported.');
+        }else if('reset' in b.dataset){
+          if(v.querySelector('#rst').value.trim().toUpperCase()!=='RESET')return;
+          const keep=state.settings;state=CORE.defaults(planId);state.settings=keep;lastAnswered=0;save();toast('Progress reset. A fresh start.');go('#/home');
+        }
+      });
+      const rst=v.querySelector('#rst');
+      rst.addEventListener('input',()=>{v.querySelector('[data-reset]').disabled=rst.value.trim().toUpperCase()!=='RESET';});
+      v.querySelector('#imp').addEventListener('change',e=>{
+        const f=e.target.files&&e.target.files[0];if(!f)return;
+        if(f.size>5e6){toast('That file is too big to be a progress export.');return;}
+        f.text().then(text=>{
+          let parsed;try{parsed=JSON.parse(text);}catch{toast('That file is not valid JSON.');return;}
+          const res=CORE.migrate(parsed,planId);
+          if(res.backup!=null){toast('That file is not a progress export from this course.');return;}
+          if(!confirm('Replace the progress in this browser with the imported file?'))return;
+          state=res.state;lastAnswered=state.stats.answered;save();applyReduced();toast('Progress imported.');go('#/home');
+        }).catch(()=>toast('Could not read that file.'));
+        e.target.value='';
+      });
+    }
+  };
+
+  // ---------- Players ----------
+  function mountPlayer(kind,v,arg){
+    if(!needPlan(v))return;
+    if(!PLAYER)return notice(v,'🧩','Not built yet','The lesson player (lesson.js) is not built yet. Please check back soon.',homeBtn);
+    let n,item,fn,label;
+    if(kind==='lesson'){item=plan.lessonById.get(arg);n=plan.dayOfLesson.get(arg);fn='mountLesson';label='lesson';}
+    else if(kind==='skills'){item=plan.skillDayById.get(arg);n=(findDay(d=>d.skillDayId===arg)||{}).n;fn='mountSkillDay';label='Practice';}
+    else if(kind==='mock'){item=plan.mockById.get(arg);n=(findDay(d=>d.mockId===arg)||{}).n;fn='mountMock';label='practice mock';}
+    else{n=parseInt(arg,10);fn='mountRecall';label='Review';
+      if(dayAt(n))item=kind==='review'?PL.reviewSet(plan,state,n):PL.dueRecall(plan,state,n);}
+    if(!item||n==null)return notice(v,'🔎','Not found',`That ${label} is not in the plan yet.`,homeBtn);
+    if(isLocked(n))return notice(v,'🔒','Not open yet','This opens when you reach its day. One day at a time.',homeBtn);
+    if(typeof PLAYER[fn]!=='function')return notice(v,'🧩','Not built yet',`The ${label} player is not built yet.`,homeBtn);
+    if(Array.isArray(item)&&!item.length)return notice(v,'✨','Nothing to review right now','Everything due is already done. On to the next part.',homeBtn);
+    if(!state.days[n])state.days[n]={startedAt:new Date().toISOString(),doneAt:null};
+    save();
+    const api={getState,save,core:CORE,plan,data:DATA,resources:DATA.resources||{},
+      celebrate:(k,i)=>MOT?MOT.celebrate(k,i):Promise.resolve(),
+      onDone:result=>onDone(kind,arg,result||{}),onExit:()=>go(`#/day/${n}`),speak,dayN:n};
+    if(MOT)MOT.start({getState,toast});
+    try{PLAYER[fn](v,item,api);}
+    catch(e){console.error(e);notice(v,'🛠️','This part could not open','Your progress is safe. Please go back and try again.',homeBtn);}
+  }
+
+  async function onDone(kind,id,result){
+    if(kind==='lesson'){
+      const L=plan.lessonById.get(id), was=!!(state.lessons[id]&&state.lessons[id].completedAt);
+      const ok=PL.completeLesson(plan,state,id,new Date());
+      if(result.redo){CORE.endRedo(state,id);save();toast('Redo finished. Your first score is still saved.');return go(`#/day/${plan.dayOfLesson.get(id)}`);}
+      for(const k of Object.keys(state.practice||{}))if(k.startsWith(id+'|'))delete state.practice[k]; // tidy "Try again" answers
+      save();
+      if(was)return go(`#/day/${plan.dayOfLesson.get(id)}`);
+      if(ok&&MOT){
+        const sec=CORE.section(state,id,'check',L.check||[]);
+        await MOT.celebrate('lesson',{title:L.title,learned:(L.grammar&&L.grammar.oneLine)||L.title,
+          right:result.right!=null?result.right:sec.right,total:result.total!=null?result.total:sec.total,streak:state.streak.count});
+      }else if(!ok)toast('Nearly there: finish the drills, the new sentence on your own and the quiz to complete this lesson.');
+    }else if(kind==='skills'){
+      const r=state.skillDays[id]||(state.skillDays[id]={step:0,doneAt:null});
+      if(!r.doneAt)r.doneAt=new Date().toISOString();save();toast('Practice done. Nice.');
+    }else if(kind==='mock')toast('Practice mock finished. It is practice, not a certificate.');
+    go('#/home');
+  }
+
+  // ---------- Breadcrumb: Level › Chapter › Day › Lesson. Back always goes up one crumb. ----------
+  function crumbsFor(name,arg){
+    const TOP={home:'Home',chapters:'Chapters',grammar:'Grammar',words:'Words',progress:'Progress',settings:'Settings'};
+    if(!plan||name==='home'||(TOP[name]&&name!=='chapters'))return [{t:TOP[name]||'Home',h:`#/${TOP[name]?name:'home'}`}];
+    if(name==='chapters'){const [lv,ch]=String(arg||'').split('/');const L=LEVELS.levels.find(l=>l.id===lv);
+      const c=[{t:'Chapters',h:'#/chapters'}];if(L)c.push({t:L.title,h:`#/chapters/${lv}`});if(L&&ch)c.push({t:chName(lv,Number(ch)),h:`#/chapters/${lv}/${ch}`});return c;}
+    let d=null,last=null;
+    if(name==='day')d=dayAt(parseInt(arg,10));
+    else if(name==='lesson'){const n=plan.dayOfLesson.get(arg);d=dayAt(n);if(d)last={t:lessonPos(d,arg),h:`#/lesson/${encodeURIComponent(arg)}`};}
+    else if(name==='skills'){d=findDay(x=>x.skillDayId===arg);last={t:'Practice',h:`#/skills/${encodeURIComponent(arg)}`};}
+    else if(name==='recall'||name==='review'){d=dayAt(parseInt(arg,10));if(d&&d.kind==='learn')last={t:'Review',h:location.hash};}
+    else if(name==='mock')d=findDay(x=>x.mockId===arg);
+    if(!d)return [{t:'Home',h:'#/home'}];
+    return [...dayCrumbs(d),...(last?[last]:[])];
+  }
+  function paintCrumbs(name,arg){
+    const c=crumbsFor(name,arg), up=c.length>1?c[c.length-2]:name==='home'?null:{t:'Home',h:'#/home'};
+    crumbsEl.innerHTML=`${up?`<a class="back" href="${up.h}">${icon('back')}<span>Back<span class="sr-only"> to ${esc(up.t)}</span></span></a>`:''}
+      <ol>${c.map((x,i)=>`<li>${i===c.length-1?`<span aria-current="page">${esc(x.t)}</span>`:`<a href="${x.h}">${esc(x.t)}</a>`}</li>`).join('')}</ol>`;
+  }
+
+  // ---------- Router ----------
+  function go(hash){if(location.hash===hash)route();else location.hash=hash;}
+  function route(){
+    if(MOT)MOT.stop();
+    if(window.speechSynthesis)speechSynthesis.cancel();
+    let [name,...rest]=(location.hash.replace(/^#\/?/,'')||'home').split('/');
+    if(name==='today')name='home';if(name==='plan')name='chapters';   // old links keep working
+    const arg=decodeURIComponent(rest.join('/'));
+    const isPlayer=['lesson','skills','recall','review','mock'].includes(name);
+    document.body.classList.toggle('playing',isPlayer);
+    const navKey=isPlayer||name==='day'?'chapters':name;
+    document.querySelectorAll('[data-nav]').forEach(a=>a.dataset.nav===navKey?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));
+    const v=document.createElement('div');mainEl.replaceChildren(v); // fresh node: players bind delegated events to it
+    paintTop();
+    if(isPlayer)mountPlayer(name,v,arg);
+    else if(screens[name])screens[name](v,arg);
+    else notice(v,'🔎','Page not found','That address does not exist.',homeBtn);
+    paintCrumbs(name,arg);
+    const h1=v.querySelector('h1');
+    document.title=(h1?h1.textContent.trim()+' · ':'')+'German';
+    window.scrollTo(0,0);mainEl.focus({preventScroll:true});
+  }
+
+  applyReduced();
+  window.addEventListener('hashchange',route);
+  route();
+  window.GERMAN_APP={getState,save,go,route,toast,speak};
+})();

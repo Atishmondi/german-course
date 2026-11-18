@@ -1,0 +1,1011 @@
+{
+ "level": "zz",
+ "chapter": 1,
+ "title": "Hallo!",
+ "printedPages": [
+  8,
+  17
+ ],
+ "lessons": [
+  {
+   "id": "zz-c01-01",
+   "level": "zz",
+   "chapter": 1,
+   "n": 1,
+   "title": "Say hello 1",
+   "goal": "Greet people.",
+   "minutes": 20,
+   "printedPages": [
+    8,
+    9
+   ],
+   "grammar": {
+    "topic": "greetings",
+    "point": "Hallo works all day.",
+    "oneLine": "Hallo = hello.",
+    "mistake": {
+     "wrong": "Gute Tag.",
+     "right": "Guten Tag.",
+     "why": "Tag is masculine, so guten."
+    }
+   },
+   "terms": [
+    {
+     "term": "greeting",
+     "meaning": "a word to say hello"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Hello",
+     "body": "Say Hallo to anyone.",
+     "examples": [
+      {
+       "de": "Hallo, Ben!",
+       "en": "Hello, Ben!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo, Anna!",
+       "en": "Hello, Anna!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Anna!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Hallo",
+       "other"
+      ],
+      [
+       "Ben",
+       "subject"
+      ]
+     ],
+     "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening."
+    },
+    {
+     "title": "Good day",
+     "body": "Guten Tag is polite.",
+     "examples": [
+      {
+       "de": "Guten Tag, Frau Weber.",
+       "en": "Good day, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag, Herr Ali.",
+       "en": "Good day, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "friendly",
+       "polite"
+      ],
+      "rows": [
+       [
+        "Hallo",
+        "Guten Tag"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Goodbye",
+     "body": "Say Tschüss to friends.",
+     "examples": [
+      {
+       "de": "Tschüss, Leon!",
+       "en": "Bye, Leon!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Leon!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Tschüss, Mira!",
+       "en": "Bye, Mira!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Mira!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Tschüss",
+      "Tschüss, Leon!"
+     ]
+    },
+    {
+     "title": "Polite goodbye",
+     "body": "Auf Wiedersehen is polite.",
+     "examples": [
+      {
+       "de": "Auf Wiedersehen, Frau Weber.",
+       "en": "Goodbye, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Auf Wiedersehen, Herr Ali.",
+       "en": "Goodbye, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Auf Wiedersehen",
+       "other"
+      ],
+      [
+       "Herr Ali",
+       "subject"
+      ]
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [],
+    "nicosWeg": [],
+    "practice": []
+   },
+   "drills": [
+    {
+     "type": "build",
+     "prompt": "Build: Hello Ben (1)",
+     "tokens": [
+      "Ben!",
+      "Hallo,"
+     ],
+     "answer": [
+      "Hallo,",
+      "Ben!"
+     ],
+     "hint": "Greeting first.",
+     "explanation": "Hallo comes first."
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Say yes to Leon (1)",
+    "answers": [
+     "ja"
+    ],
+    "hint": "Think of yes.",
+    "explanation": "Ja means yes."
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Yes? (1)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira ist... (1)",
+     "options": [
+      "müde",
+      "froh"
+     ],
+     "answer": 1,
+     "hint": "Read line 1.",
+     "explanation": "Mira says she is happy."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Tag",
+     "article": "der",
+     "plural": "die Tage",
+     "en": "day",
+     "examples": [
+      {
+       "de": "Guten Tag!",
+       "en": "Good day!"
+      },
+      {
+       "de": "Der Tag ist schön.",
+       "en": "The day is nice."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Greet Mira."
+    ],
+    "examples": [
+     "Hallo, Mira!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Recall: yes (1)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes."
+    }
+   ]
+  },
+  {
+   "id": "zz-c01-02",
+   "level": "zz",
+   "chapter": 1,
+   "n": 2,
+   "title": "Say hello 2",
+   "goal": "Greet people.",
+   "minutes": 20,
+   "printedPages": [
+    8,
+    9
+   ],
+   "grammar": {
+    "topic": "greetings",
+    "point": "Hallo works all day.",
+    "oneLine": "Hallo = hello.",
+    "mistake": {
+     "wrong": "Gute Tag.",
+     "right": "Guten Tag.",
+     "why": "Tag is masculine, so guten."
+    }
+   },
+   "terms": [
+    {
+     "term": "greeting",
+     "meaning": "a word to say hello"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Hello",
+     "body": "Say Hallo to anyone.",
+     "examples": [
+      {
+       "de": "Hallo, Ben!",
+       "en": "Hello, Ben!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo, Anna!",
+       "en": "Hello, Anna!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Anna!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Hallo",
+       "other"
+      ],
+      [
+       "Ben",
+       "subject"
+      ]
+     ],
+     "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening."
+    },
+    {
+     "title": "Good day",
+     "body": "Guten Tag is polite.",
+     "examples": [
+      {
+       "de": "Guten Tag, Frau Weber.",
+       "en": "Good day, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag, Herr Ali.",
+       "en": "Good day, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "friendly",
+       "polite"
+      ],
+      "rows": [
+       [
+        "Hallo",
+        "Guten Tag"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Goodbye",
+     "body": "Say Tschüss to friends.",
+     "examples": [
+      {
+       "de": "Tschüss, Leon!",
+       "en": "Bye, Leon!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Leon!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Tschüss, Mira!",
+       "en": "Bye, Mira!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Mira!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Tschüss",
+      "Tschüss, Leon!"
+     ]
+    },
+    {
+     "title": "Polite goodbye",
+     "body": "Auf Wiedersehen is polite.",
+     "examples": [
+      {
+       "de": "Auf Wiedersehen, Frau Weber.",
+       "en": "Goodbye, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Auf Wiedersehen, Herr Ali.",
+       "en": "Goodbye, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Auf Wiedersehen",
+       "other"
+      ],
+      [
+       "Herr Ali",
+       "subject"
+      ]
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [],
+    "nicosWeg": [],
+    "practice": []
+   },
+   "drills": [
+    {
+     "type": "build",
+     "prompt": "Build: Hello Ben (2)",
+     "tokens": [
+      "Ben!",
+      "Hallo,"
+     ],
+     "answer": [
+      "Hallo,",
+      "Ben!"
+     ],
+     "hint": "Greeting first.",
+     "explanation": "Hallo comes first."
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Say yes to Leon (2)",
+    "answers": [
+     "ja"
+    ],
+    "hint": "Think of yes.",
+    "explanation": "Ja means yes."
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Yes? (2)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira ist... (2)",
+     "options": [
+      "müde",
+      "froh"
+     ],
+     "answer": 1,
+     "hint": "Read line 1.",
+     "explanation": "Mira says she is happy."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Tag",
+     "article": "der",
+     "plural": "die Tage",
+     "en": "day",
+     "examples": [
+      {
+       "de": "Guten Tag!",
+       "en": "Good day!"
+      },
+      {
+       "de": "Der Tag ist schön.",
+       "en": "The day is nice."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Greet Mira."
+    ],
+    "examples": [
+     "Hallo, Mira!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Recall: yes (2)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes."
+    }
+   ]
+  },
+  {
+   "id": "zz-c01-03",
+   "level": "zz",
+   "chapter": 1,
+   "n": 3,
+   "title": "Say hello 3",
+   "goal": "Greet people.",
+   "minutes": 20,
+   "printedPages": [
+    8,
+    9
+   ],
+   "grammar": {
+    "topic": "greetings",
+    "point": "Hallo works all day.",
+    "oneLine": "Hallo = hello.",
+    "mistake": {
+     "wrong": "Gute Tag.",
+     "right": "Guten Tag.",
+     "why": "Tag is masculine, so guten."
+    }
+   },
+   "terms": [
+    {
+     "term": "greeting",
+     "meaning": "a word to say hello"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Hello",
+     "body": "Say Hallo to anyone.",
+     "examples": [
+      {
+       "de": "Hallo, Ben!",
+       "en": "Hello, Ben!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Hallo, Anna!",
+       "en": "Hello, Anna!",
+       "why": "informal",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Anna!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Hallo",
+       "other"
+      ],
+      [
+       "Ben",
+       "subject"
+      ]
+     ],
+     "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening."
+    },
+    {
+     "title": "Good day",
+     "body": "Guten Tag is polite.",
+     "examples": [
+      {
+       "de": "Guten Tag, Frau Weber.",
+       "en": "Good day, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Guten Tag, Herr Ali.",
+       "en": "Good day, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Guten Tag,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "table": {
+      "headers": [
+       "friendly",
+       "polite"
+      ],
+      "rows": [
+       [
+        "Hallo",
+        "Guten Tag"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Goodbye",
+     "body": "Say Tschüss to friends.",
+     "examples": [
+      {
+       "de": "Tschüss, Leon!",
+       "en": "Bye, Leon!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Leon!",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Tschüss, Mira!",
+       "en": "Bye, Mira!",
+       "why": "informal",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Mira!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Tschüss",
+      "Tschüss, Leon!"
+     ]
+    },
+    {
+     "title": "Polite goodbye",
+     "body": "Auf Wiedersehen is polite.",
+     "examples": [
+      {
+       "de": "Auf Wiedersehen, Frau Weber.",
+       "en": "Goodbye, Ms Weber.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Frau Weber.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Auf Wiedersehen, Herr Ali.",
+       "en": "Goodbye, Mr Ali.",
+       "why": "polite",
+       "parts": [
+        [
+         "Auf Wiedersehen,",
+         "other"
+        ],
+        [
+         "Herr Ali.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Auf Wiedersehen",
+       "other"
+      ],
+      [
+       "Herr Ali",
+       "subject"
+      ]
+     ]
+    }
+   ],
+   "media": {
+    "grammarVideos": [],
+    "nicosWeg": [],
+    "practice": []
+   },
+   "drills": [
+    {
+     "type": "build",
+     "prompt": "Build: Hello Ben (3)",
+     "tokens": [
+      "Ben!",
+      "Hallo,"
+     ],
+     "answer": [
+      "Hallo,",
+      "Ben!"
+     ],
+     "hint": "Greeting first.",
+     "explanation": "Hallo comes first."
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Say yes to Leon (3)",
+    "answers": [
+     "ja"
+    ],
+    "hint": "Think of yes.",
+    "explanation": "Ja means yes."
+   },
+   "check": [
+    {
+     "type": "type",
+     "prompt": "Yes? (3)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira ist... (3)",
+     "options": [
+      "müde",
+      "froh"
+     ],
+     "answer": 1,
+     "hint": "Read line 1.",
+     "explanation": "Mira says she is happy."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Tag",
+     "article": "der",
+     "plural": "die Tage",
+     "en": "day",
+     "examples": [
+      {
+       "de": "Guten Tag!",
+       "en": "Good day!"
+      },
+      {
+       "de": "Der Tag ist schön.",
+       "en": "The day is nice."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Greet Mira."
+    ],
+    "examples": [
+     "Hallo, Mira!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Recall: yes (3)",
+     "answers": [
+      "ja"
+     ],
+     "hint": "Think of yes.",
+     "explanation": "Ja means yes."
+    }
+   ]
+  }
+ ],
+ "skillDays": [
+  {
+   "id": "zz-c01-d1",
+   "level": "zz",
+   "chapter": 1,
+   "day": 1,
+   "reading": {
+    "title": "Mira",
+    "text": "Mira ist froh. Sie sagt Hallo zu Ben.",
+    "glossary": [
+     {
+      "de": "froh",
+      "en": "happy"
+     }
+    ],
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Mira ist... (1)",
+      "options": [
+       "müde",
+       "froh"
+      ],
+      "answer": 1,
+      "hint": "Read line 1.",
+      "explanation": "Mira says she is happy."
+     },
+     {
+      "type": "choice",
+      "prompt": "Mira ist... (2)",
+      "options": [
+       "müde",
+       "froh"
+      ],
+      "answer": 1,
+      "hint": "Read line 1.",
+      "explanation": "Mira says she is happy."
+     }
+    ]
+   },
+   "listening": {
+    "title": "Hallo",
+    "script": "Mira: Hallo, Ben!\nBen: Hallo, Mira!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Mira ist... (3)",
+      "options": [
+       "müde",
+       "froh"
+      ],
+      "answer": 1,
+      "hint": "Read line 1.",
+      "explanation": "Mira says she is happy."
+     },
+     {
+      "type": "choice",
+      "prompt": "Mira ist... (4)",
+      "options": [
+       "müde",
+       "froh"
+      ],
+      "answer": 1,
+      "hint": "Read line 1.",
+      "explanation": "Mira says she is happy."
+     }
+    ]
+   },
+   "writing": {
+    "items": [
+     {
+      "type": "type",
+      "prompt": "Write yes.",
+      "answers": [
+       "ja"
+      ],
+      "hint": "Think of yes.",
+      "explanation": "Ja means yes."
+     }
+    ],
+    "free": {
+     "prompt": "Greet two people.",
+     "minWords": 3,
+     "model": "Hallo Ben. Hallo Anna.",
+     "checks": [
+      {
+       "label": "uses Hallo",
+       "pattern": "\\bhallo\\b"
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

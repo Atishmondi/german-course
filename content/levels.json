@@ -1,0 +1,31 @@
+{
+ "planId": "de-a1-b1-26w-v1",
+ "week": {"learn": 5, "review": 1, "off": 1},
+ "minutesPerDay": 130,
+ "lessonsPerLearnDay": 3,
+ "reviewLadder": [1, 3, 7, 21],
+ "plattformAfterChapters": [3, 6, 9, 12],
+ "levels": [
+  {
+   "id": "a1", "title": "A1", "book": "Netzwerk neu A1", "pdf": "five-week-sources/Netzwerk_neu_A1.pdf", "pdfPageOffset": 1,
+   "weeks": 7,
+   "chapterDays": {"1": 2, "2": 3, "3": 2, "4": 3, "5": 3, "6": 3, "7": 3, "8": 3, "9": 3, "10": 3, "11": 3, "12": 2},
+   "mockDays": 2, "bufferDays": 0,
+   "rules": {"vocab": [8, 12], "drills": 5, "check": 10, "checkGrammar": 6, "readingWords": [80, 140], "skillQuestions": 10, "writingItems": 10, "freeWritingWords": [15, 40], "retrieval": 4, "speaking": 3, "cards": 4}
+  },
+  {
+   "id": "a2", "title": "A2", "book": "Netzwerk neu A2", "pdf": "five-week-sources/Netzwerk_neu_A2.pdf", "pdfPageOffset": 2,
+   "weeks": 8,
+   "chapterDays": {"1": 3, "2": 3, "3": 3, "4": 3, "5": 3, "6": 3, "7": 3, "8": 3, "9": 3, "10": 4, "11": 4, "12": 3},
+   "mockDays": 2, "bufferDays": 0,
+   "rules": {"vocab": [10, 15], "drills": 5, "check": 10, "checkGrammar": 6, "readingWords": [100, 220], "skillQuestions": 10, "writingItems": 10, "freeWritingWords": [40, 70], "retrieval": 4, "speaking": 3, "cards": 4}
+  },
+  {
+   "id": "b1", "title": "B1", "book": "Netzwerk neu B1", "pdf": "five-week-sources/Netzwerk_neu_B1.pdf", "pdfPageOffset": 2,
+   "weeks": 11,
+   "chapterDays": {"1": 4, "2": 5, "3": 4, "4": 5, "5": 4, "6": 4, "7": 4, "8": 4, "9": 4, "10": 5, "11": 4, "12": 3},
+   "mockDays": 3, "bufferDays": 2,
+   "rules": {"vocab": [12, 18], "drills": 6, "check": 10, "checkGrammar": 6, "readingWords": [200, 400], "skillQuestions": 10, "writingItems": 10, "freeWritingWords": [80, 130], "retrieval": 4, "speaking": 3, "cards": 4}
+  }
+ ]
+}
