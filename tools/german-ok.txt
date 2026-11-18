@@ -11,3 +11,5 @@ Bauer
 hundertfünfundzwanzig
 # stem notation used when teaching endings
 komm-
+# Bank = money bank: plural Banken (Wiktionary lists Bänke = benches)
+Bank (no plural)

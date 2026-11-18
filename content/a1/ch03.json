@@ -1,0 +1,7348 @@
+{
+ "level": "a1",
+ "chapter": 3,
+ "title": "In Hamburg",
+ "printedPages": [
+  28,
+  37
+ ],
+ "lessons": [
+  {
+   "id": "a1-c03-01",
+   "level": "a1",
+   "chapter": 3,
+   "n": 1,
+   "title": "ein / eine: a place in the city",
+   "goal": "Name places in a city and say what a thing is, with ein or eine.",
+   "minutes": 30,
+   "printedPages": [
+    28,
+    29
+   ],
+   "grammar": {
+    "topic": "articles-indefinite",
+    "point": "ein for der-words and das-words; eine for die-words; no ein for many things",
+    "oneLine": "der → ein, das → ein, die → eine. Many things: no ein.",
+    "mistake": {
+     "wrong": "Das ist ein Bank.",
+     "right": "Das ist eine Bank.",
+     "why": "Bank is a die-word, so it takes eine."
+    }
+   },
+   "terms": [
+    {
+     "term": "ein / eine",
+     "meaning": "a or an: the word for one thing that is new"
+    },
+    {
+     "term": "indefinite article",
+     "meaning": "the little word for a or an: ein or eine"
+    },
+    {
+     "term": "definite article",
+     "meaning": "the little word for the: der, die or das"
+    },
+    {
+     "term": "das sind",
+     "meaning": "those are: the plural of das ist"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Was ist das? Das ist ein …",
+     "body": "To say what a thing is, use Das ist ein … and then the noun. ein means a or an. Ask with Was ist das? The verb ist is always part 2.",
+     "examples": [
+      {
+       "de": "Das ist ein Bahnhof.",
+       "en": "That is a station.",
+       "why": "der Bahnhof becomes ein Bahnhof.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Bahnhof.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Hotel.",
+       "en": "That is a hotel.",
+       "why": "das Hotel becomes ein Hotel.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Was ist das?",
+       "en": "What is that?",
+       "why": "W-question: the verb is part 2.",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Point at it: Was ist das?",
+      "Answer: Das ist …",
+      "Add ein + the noun",
+      "Das ist ein Kino."
+     ],
+     "parts": [
+      [
+       "Das",
+       "subject"
+      ],
+      [
+       "ist",
+       "verb"
+      ],
+      [
+       "ein",
+       "article"
+      ],
+      [
+       "Kino.",
+       "noun"
+      ]
+     ],
+     "more": "Picture yourself on a walk. You point at a big building and your friend asks: Was ist das? You answer with a small pattern. Step 1: say Das ist. Step 2: say ein, like the English word a. Step 3: say the place. Das ist ein Kino. The verb ist stays in part 2, just like in chapter 1. Extra example: Das ist ein Park. = That is a park."
+    },
+    {
+     "title": "A die-word needs eine",
+     "body": "A noun with die takes eine, with an e on the end. The noun does not change. die Bank becomes eine Bank. The ending -e on ein shows that the noun is a die-word.",
+     "examples": [
+      {
+       "de": "Das ist eine Bank.",
+       "en": "That is a bank.",
+       "why": "die Bank becomes eine Bank.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Bank.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist eine Kirche.",
+       "en": "That is a church.",
+       "why": "die Kirche becomes eine Kirche.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Kirche.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Hamburg ist eine Stadt.",
+       "en": "Hamburg is a city.",
+       "why": "die Stadt becomes eine Stadt.",
+       "parts": [
+        [
+         "Hamburg",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Stadt.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of ein as a plain T-shirt and eine as the same T-shirt with a little badge: the e. Only the die-words wear the badge. So the question is always the same: is it a die-word? Step 1: look at the noun: die Bank. Step 2: die means badge, so eine. Step 3: say it. Extra example: Das ist eine Uhr. = That is a clock. (die Uhr)",
+     "table": {
+      "headers": [
+       "the",
+       "a / an",
+       "example"
+      ],
+      "rows": [
+       [
+        "die Bank",
+        "eine Bank",
+        "Das ist eine Bank."
+       ],
+       [
+        "die Kirche",
+        "eine Kirche",
+        "Das ist eine Kirche."
+       ],
+       [
+        "die Stadt",
+        "eine Stadt",
+        "Das ist eine Stadt."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "The table: der, die, das → ein, eine, ein",
+     "body": "Learn the three together. der and das both become ein. Only die becomes eine. So you look at the word for the, then pick: der → ein, das → ein, die → eine.",
+     "examples": [
+      {
+       "de": "Das ist ein Hafen.",
+       "en": "That is a harbour.",
+       "why": "der Hafen becomes ein Hafen.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hafen.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Museum.",
+       "en": "That is a museum.",
+       "why": "das Museum becomes ein Museum.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Museum.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist eine Kirche.",
+       "en": "That is a church.",
+       "why": "die Kirche becomes eine Kirche.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Kirche.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Here is the secret: you only need to remember one odd thing. der and das share the same a-word, ein. Only die is different. Step 1: ask yourself: der, die or das? Step 2: der or das? Say ein. Step 3: die? Add the e and say eine. That is the whole system. Extra example: das Foto becomes ein Foto. der Computer becomes ein Computer.",
+     "table": {
+      "headers": [
+       "",
+       "der-word",
+       "die-word",
+       "das-word"
+      ],
+      "rows": [
+       [
+        "the",
+        "der Bahnhof",
+        "die Bank",
+        "das Hotel"
+       ],
+       [
+        "a / an",
+        "ein Bahnhof",
+        "eine Bank",
+        "ein Hotel"
+       ],
+       [
+        "ending on ein",
+        "none",
+        "-e",
+        "none"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "The or a? Known and new",
+     "body": "Say ein for a new thing, the first time. Say der, die or das when you talk about that same thing again. You both know it now.",
+     "examples": [
+      {
+       "de": "Das ist ein Park.",
+       "en": "That is a park.",
+       "why": "First time: ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Park.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Der Park ist neu.",
+       "en": "The park is new.",
+       "why": "Second time: der.",
+       "parts": [
+        [
+         "Der Park",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Hotel ist alt.",
+       "en": "The hotel is old.",
+       "why": "We know this hotel: das.",
+       "parts": [
+        [
+         "Das Hotel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "First time: ein Park",
+      "Next time: der Park",
+      "Das ist ein Park.",
+      "Der Park ist neu."
+     ],
+     "more": "In English it is the same: I see a dog. The dog is big. First it is a dog, a stranger. Then it is the dog, because you both know it. German does it the same way. Step 1: new thing? Use ein or eine. Step 2: talk about it again? Use der, die or das. Extra example: Das ist eine Kirche. Die Kirche ist alt."
+    },
+    {
+     "title": "Many things: no ein",
+     "body": "ein means one. So there is no ein for many things. For many, use no article and sind: Das sind Kinos. The plural endings are the ones from chapter 2. Ask: Was sind das?",
+     "examples": [
+      {
+       "de": "Das sind Kinos.",
+       "en": "Those are cinemas.",
+       "why": "Many: sind, no ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "Kinos.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das sind Banken.",
+       "en": "Those are banks.",
+       "why": "die Bank has the plural Banken.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "Banken.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Was sind das?",
+       "en": "What are those?",
+       "why": "Many things: sind.",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "das?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "ein is like the number one. You cannot say one cinemas. So for many cinemas you drop it. Step 1: one thing? Das ist ein Kino. Step 2: many things? Das sind Kinos. The verb changes too: ist for one, sind for many. Extra example: Das ist ein Park. Das sind Parks.",
+     "table": {
+      "headers": [
+       "one",
+       "many"
+      ],
+      "rows": [
+       [
+        "Das ist ein Kino.",
+        "Das sind Kinos."
+       ],
+       [
+        "Das ist ein Hotel.",
+        "Das sind Hotels."
+       ],
+       [
+        "Das ist eine Bank.",
+        "Das sind Banken."
+       ],
+       [
+        "Das ist ein Park.",
+        "Das sind Parks."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Find the form in 3 steps",
+     "body": "When you are not sure, use three steps. They work for every place in this lesson.",
+     "examples": [
+      {
+       "de": "Das ist ein Rathaus.",
+       "en": "That is a town hall.",
+       "why": "das Rathaus: ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Rathaus.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist eine Kirche.",
+       "en": "That is a church.",
+       "why": "die Kirche: eine.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Kirche.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Markt.",
+       "en": "That is a market.",
+       "why": "der Markt: ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Markt.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Which word? Kirche = die",
+      "die → eine (der, das → ein)",
+      "Das ist eine Kirche."
+     ],
+     "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:6Of-BqbiNLM",
+     "yt:Re-5t9qA-AU"
+    ],
+    "nicosWeg": [
+     "nw:a1-21",
+     "nw:a1-22"
+    ],
+    "practice": [
+     "link:lingolia-nouns-and-articles-articles-noun-markers"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which word goes with der Bahnhof?",
+     "options": [
+      "ein",
+      "eine"
+     ],
+     "answer": 0,
+     "hint": "der-words and das-words take ein.",
+     "explanation": "der Bahnhof becomes ein Bahnhof.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Bank. (ein / eine)",
+     "answers": [
+      "eine"
+     ],
+     "hint": "Bank is a die-word. A die-word takes the ending -e.",
+     "explanation": "die Bank becomes eine Bank.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Museum. (ein / eine)",
+     "answers": [
+      "ein"
+     ],
+     "hint": "Museum is a das-word. Look at the table.",
+     "explanation": "das Museum becomes ein Museum.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: That is a station.",
+     "tokens": [
+      "ist",
+      "ein",
+      "Bahnhof.",
+      "Das"
+     ],
+     "answer": [
+      "Das",
+      "ist",
+      "ein",
+      "Bahnhof."
+     ],
+     "hint": "Das ist, then ein, then the noun.",
+     "explanation": "Das ist ein Bahnhof.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Das ist ein Kirche.",
+      "Das ist eine Kirche."
+     ],
+     "answer": 1,
+     "hint": "Kirche is a die-word.",
+     "explanation": "die Kirche becomes eine Kirche.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Was ___ das? (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "One thing: use ist.",
+     "explanation": "Was ist das?"
+    },
+    {
+     "type": "choice",
+     "prompt": "You see many cinemas. What do you say?",
+     "options": [
+      "Das ist ein Kino.",
+      "Das sind Kinos."
+     ],
+     "answer": 1,
+     "hint": "ein means one. For many things, use sind and no ein.",
+     "explanation": "Many things: Das sind Kinos.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: That is a park.",
+     "answers": [
+      "Das ist ein Park."
+     ],
+     "hint": "Park is a der-word.",
+     "explanation": "der Park becomes ein Park.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: That is a town hall, and that is a church.",
+    "answers": [
+     "Das ist ein Rathaus, und das ist eine Kirche.",
+     "Das ist ein Rathaus und das ist eine Kirche."
+    ],
+    "hint": "Two parts joined by und. Rathaus is a das-word, Kirche is a die-word.",
+    "explanation": "Rathaus: ein. Kirche: eine.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does ein mean?",
+     "options": [
+      "a, an",
+      "the",
+      "no"
+     ],
+     "answer": 0,
+     "hint": "Look at the first card.",
+     "explanation": "ein = a, an."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word goes with die Bank?",
+     "options": [
+      "ein",
+      "eine"
+     ],
+     "answer": 1,
+     "hint": "A die-word takes the -e.",
+     "explanation": "die Bank becomes eine Bank.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word goes with das Hotel?",
+     "options": [
+      "ein",
+      "eine"
+     ],
+     "answer": 0,
+     "hint": "das-words take ein.",
+     "explanation": "das Hotel becomes ein Hotel.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Hafen. (ein / eine)",
+     "answers": [
+      "ein"
+     ],
+     "hint": "Hafen is a der-word.",
+     "explanation": "der Hafen becomes ein Hafen.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Stadt. (ein / eine)",
+     "answers": [
+      "eine"
+     ],
+     "hint": "Stadt is a die-word.",
+     "explanation": "die Stadt becomes eine Stadt.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: That is a church.",
+     "tokens": [
+      "ist",
+      "eine",
+      "Kirche.",
+      "Das"
+     ],
+     "answer": [
+      "Das",
+      "ist",
+      "eine",
+      "Kirche."
+     ],
+     "hint": "Kirche is a die-word.",
+     "explanation": "Das ist eine Kirche.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Das ist ein Bahnhof.",
+      "Das ist eine Bahnhof."
+     ],
+     "answer": 0,
+     "hint": "Bahnhof is a der-word.",
+     "explanation": "der Bahnhof becomes ein Bahnhof.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Many hotels. Which sentence is right?",
+     "options": [
+      "Das sind Hotels.",
+      "Das sind ein Hotels."
+     ],
+     "answer": 0,
+     "hint": "There is no ein for many things.",
+     "explanation": "Many things: sind and no ein.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What does der Hafen mean?",
+     "options": [
+      "harbour",
+      "station",
+      "market"
+     ],
+     "answer": 0,
+     "hint": "Look at the vocabulary.",
+     "explanation": "der Hafen = harbour."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: What is that?",
+     "answers": [
+      "Was ist das?"
+     ],
+     "hint": "Question word, then ist, then das.",
+     "explanation": "Was ist das?"
+    },
+    {
+     "type": "choice",
+     "prompt": "Anna says: Das ist ein Rathaus. What is it?",
+     "options": [
+      "a town hall",
+      "a church"
+     ],
+     "answer": 0,
+     "hint": "Rathaus is in the vocabulary.",
+     "explanation": "das Rathaus = town hall."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Bahnhof",
+     "en": "station, train station",
+     "examples": [
+      {
+       "de": "Das ist ein Bahnhof.",
+       "en": "That is a station."
+      },
+      {
+       "de": "Der Bahnhof ist neu.",
+       "en": "The station is new."
+      }
+     ],
+     "article": "der",
+     "plural": "die Bahnhöfe"
+    },
+    {
+     "de": "Hafen",
+     "en": "harbour, port",
+     "examples": [
+      {
+       "de": "Das ist ein Hafen.",
+       "en": "That is a harbour."
+      },
+      {
+       "de": "Der Hafen ist alt.",
+       "en": "The harbour is old."
+      }
+     ],
+     "article": "der",
+     "plural": "die Häfen"
+    },
+    {
+     "de": "Bank",
+     "en": "bank",
+     "examples": [
+      {
+       "de": "Das ist eine Bank.",
+       "en": "That is a bank."
+      },
+      {
+       "de": "Die Bank ist neu.",
+       "en": "The bank is new."
+      }
+     ],
+     "article": "die",
+     "plural": "die Banken"
+    },
+    {
+     "de": "Museum",
+     "en": "museum",
+     "examples": [
+      {
+       "de": "Das ist ein Museum.",
+       "en": "That is a museum."
+      },
+      {
+       "de": "Das Museum ist alt.",
+       "en": "The museum is old."
+      }
+     ],
+     "article": "das",
+     "plural": "die Museen"
+    },
+    {
+     "de": "Kino",
+     "en": "cinema",
+     "examples": [
+      {
+       "de": "Das ist ein Kino.",
+       "en": "That is a cinema."
+      },
+      {
+       "de": "Das Kino ist neu.",
+       "en": "The cinema is new."
+      }
+     ],
+     "article": "das",
+     "plural": "die Kinos"
+    },
+    {
+     "de": "Restaurant",
+     "en": "restaurant",
+     "examples": [
+      {
+       "de": "Das ist ein Restaurant.",
+       "en": "That is a restaurant."
+      },
+      {
+       "de": "Das Restaurant ist super.",
+       "en": "The restaurant is great."
+      }
+     ],
+     "article": "das",
+     "plural": "die Restaurants"
+    },
+    {
+     "de": "Kirche",
+     "en": "church",
+     "examples": [
+      {
+       "de": "Das ist eine Kirche.",
+       "en": "That is a church."
+      },
+      {
+       "de": "Die Kirche ist alt.",
+       "en": "The church is old."
+      }
+     ],
+     "article": "die",
+     "plural": "die Kirchen"
+    },
+    {
+     "de": "Park",
+     "en": "park",
+     "examples": [
+      {
+       "de": "Das ist ein Park.",
+       "en": "That is a park."
+      },
+      {
+       "de": "Hier ist ein Park.",
+       "en": "Here is a park."
+      }
+     ],
+     "article": "der",
+     "plural": "die Parks"
+    },
+    {
+     "de": "Markt",
+     "en": "market",
+     "examples": [
+      {
+       "de": "Das ist ein Markt in Hamburg.",
+       "en": "That is a market in Hamburg."
+      },
+      {
+       "de": "Der Markt ist super.",
+       "en": "The market is great."
+      }
+     ],
+     "article": "der",
+     "plural": "die Märkte"
+    },
+    {
+     "de": "Rathaus",
+     "en": "town hall",
+     "examples": [
+      {
+       "de": "Das ist ein Rathaus.",
+       "en": "That is a town hall."
+      },
+      {
+       "de": "Das Rathaus ist alt.",
+       "en": "The town hall is old."
+      }
+     ],
+     "article": "das",
+     "plural": "die Rathäuser"
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Point at a place and say what it is.",
+     "Say what a place is. Use a die-word.",
+     "Say what many things are."
+    ],
+    "examples": [
+     "Das ist ein Bahnhof.",
+     "Das ist eine Kirche.",
+     "Das sind Kinos."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: That is a cinema.",
+     "answers": [
+      "Das ist ein Kino."
+     ],
+     "hint": "Kino is a das-word.",
+     "explanation": "das Kino becomes ein Kino."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: That is a bank.",
+     "answers": [
+      "Das ist eine Bank."
+     ],
+     "hint": "Bank is a die-word.",
+     "explanation": "die Bank becomes eine Bank."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Those are restaurants.",
+     "answers": [
+      "Das sind Restaurants."
+     ],
+     "hint": "Many things: sind and no ein.",
+     "explanation": "Das sind Restaurants."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: That is a market.",
+     "answers": [
+      "Das ist ein Markt."
+     ],
+     "hint": "Markt is a der-word.",
+     "explanation": "der Markt becomes ein Markt."
+    }
+   ]
+  },
+  {
+   "id": "a1-c03-02",
+   "level": "a1",
+   "chapter": 3,
+   "n": 2,
+   "title": "kein / keine: not a",
+   "goal": "Say that something is not a place, with kein, keine and nicht.",
+   "minutes": 30,
+   "printedPages": [
+    30,
+    31
+   ],
+   "grammar": {
+    "topic": "negation-kein-nicht",
+    "point": "kein for der- and das-words, keine for die-words and many things; nicht for describing words",
+    "oneLine": "ein → kein, eine → keine. Many things: keine. A describing word: nicht.",
+    "mistake": {
+     "wrong": "Das ist nicht ein Kino.",
+     "right": "Das ist kein Kino.",
+     "why": "Before a noun with ein, German uses kein. It does not use nicht ein."
+    }
+   },
+   "terms": [
+    {
+     "term": "negation",
+     "meaning": "a word that says no: kein, keine, nicht"
+    },
+    {
+     "term": "kein / keine",
+     "meaning": "not a, no: ein and eine with a k in front"
+    },
+    {
+     "term": "nicht",
+     "meaning": "not: it stands before a describing word"
+    },
+    {
+     "term": "describing word",
+     "meaning": "a word like neu or müde that says what something is like"
+    }
+   ],
+   "cards": [
+    {
+     "title": "kein: not a",
+     "body": "kein means not a or no. Put it where ein stood. You often say it after nein, and then you say what the thing really is.",
+     "examples": [
+      {
+       "de": "Nein, das ist kein Kino.",
+       "en": "No, that is not a cinema.",
+       "why": "ein Kino becomes kein Kino.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Kino.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Museum.",
+       "en": "That is a museum.",
+       "why": "Now say what it is: ein Museum.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Museum.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ist das ein Kino?",
+       "en": "Is that a cinema?",
+       "why": "Yes/no question: the verb is first.",
+       "parts": [
+        [
+         "Ist",
+         "verb"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Kino?",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Ist das ein Kino?",
+      "Nein, das ist kein Kino.",
+      "Das ist ein Museum."
+     ],
+     "parts": [
+      [
+       "Das",
+       "subject"
+      ],
+      [
+       "ist",
+       "verb"
+      ],
+      [
+       "kein",
+       "negation"
+      ],
+      [
+       "Kino.",
+       "noun"
+      ]
+     ],
+     "more": "Imagine a friend points at a building and says: a cinema? You say no. English says: that is not a cinema. German adds a k to ein and makes kein. Step 1: say nein. Step 2: say Das ist. Step 3: say kein and the noun. Step 4: say what it really is. Extra example: Das ist kein Park. Das ist ein Markt."
+    },
+    {
+     "title": "kein for der-words and das-words",
+     "body": "For a der-word or a das-word, ein becomes kein. Just add a k in front. The noun does not change.",
+     "examples": [
+      {
+       "de": "Das ist kein Bahnhof.",
+       "en": "That is not a station.",
+       "why": "der Bahnhof: ein becomes kein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Bahnhof.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist kein Hotel.",
+       "en": "That is not a hotel.",
+       "why": "das Hotel: ein becomes kein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist kein Markt.",
+       "en": "That is not a market.",
+       "why": "der Markt: ein becomes kein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Markt.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "A der-word and a das-word are twins for ein, and they are twins for kein too. Step 1: find the noun and its article: der Markt or das Hotel. Step 2: der or das? Then use ein for yes. Step 3: for no, put a k in front of ein: kein. That is all. Extra example: Das ist kein Hafen. = That is not a harbour.",
+     "table": {
+      "headers": [
+       "yes",
+       "no",
+       "example"
+      ],
+      "rows": [
+       [
+        "ein Bahnhof",
+        "kein Bahnhof",
+        "Das ist kein Bahnhof."
+       ],
+       [
+        "ein Hotel",
+        "kein Hotel",
+        "Das ist kein Hotel."
+       ],
+       [
+        "ein Markt",
+        "kein Markt",
+        "Das ist kein Markt."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "keine for die-words",
+     "body": "For a die-word, eine becomes keine. Again just add a k in front. The ending -e stays.",
+     "examples": [
+      {
+       "de": "Das ist keine Bank.",
+       "en": "That is not a bank.",
+       "why": "die Bank: eine becomes keine.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Bank.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist keine Kirche.",
+       "en": "That is not a church.",
+       "why": "die Kirche: eine becomes keine.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Kirche.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist keine Schule.",
+       "en": "That is not a school.",
+       "why": "die Schule: eine becomes keine.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Schule.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Remember the badge from the last lesson: eine had a little e. With keine you keep the badge and add a k in front of the whole word. Step 1: find the noun: die Bank. Step 2: die? Then yes is eine. Step 3: no is keine. Say it: Das ist keine Bank. Extra example: Das ist keine Brücke. = That is not a bridge.",
+     "table": {
+      "headers": [
+       "yes",
+       "no",
+       "example"
+      ],
+      "rows": [
+       [
+        "eine Bank",
+        "keine Bank",
+        "Das ist keine Bank."
+       ],
+       [
+        "eine Kirche",
+        "keine Kirche",
+        "Das ist keine Kirche."
+       ],
+       [
+        "eine Schule",
+        "keine Schule",
+        "Das ist keine Schule."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "keine for many things, and the whole set",
+     "body": "For many things, use keine too, with sind. Look at the whole set: der-word kein, die-word keine, das-word kein, many things keine.",
+     "examples": [
+      {
+       "de": "Das sind keine Hotels.",
+       "en": "Those are not hotels.",
+       "why": "Many things: keine + sind.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Hotels.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das sind keine Parks.",
+       "en": "Those are not parks.",
+       "why": "Many things: keine + sind.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Parks.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Sind das Banken?",
+       "en": "Are those banks?",
+       "why": "Many things: sind.",
+       "parts": [
+        [
+         "Sind",
+         "verb"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "Banken?",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Many things have no ein, but for no you still need a word. That word is keine. It is like a single word that works for every die-word and for all the plurals. Step 1: many things? Say Das sind. Step 2: add keine. Step 3: add the plural noun. Extra example: Das sind keine Kinos. = Those are not cinemas.",
+     "table": {
+      "headers": [
+       "",
+       "der-word",
+       "die-word",
+       "das-word",
+       "many"
+      ],
+      "rows": [
+       [
+        "a",
+        "ein",
+        "eine",
+        "ein",
+        "–"
+       ],
+       [
+        "not a / no",
+        "kein",
+        "keine",
+        "kein",
+        "keine"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "nicht or kein?",
+     "body": "kein goes with a noun that had ein or no article. nicht goes with a describing word like neu or müde. nicht stands right before it. Both mean not.",
+     "examples": [
+      {
+       "de": "Das ist kein Hotel.",
+       "en": "That is not a hotel.",
+       "why": "A noun: kein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das Hotel ist nicht neu.",
+       "en": "The hotel is not new.",
+       "why": "neu describes the hotel: nicht.",
+       "parts": [
+        [
+         "Das Hotel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bin nicht müde.",
+       "en": "I am not tired.",
+       "why": "müde describes me: nicht.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Ask yourself one question: what do I say no to? If it is a thing, a noun with ein, use kein. If it is a description, like new or tired, use nicht. Step 1: look at the word after ist or bin. Step 2: a noun? kein. Step 3: a word like neu or müde? nicht. Extra example: Der Park ist nicht alt. = The park is not old.",
+     "table": {
+      "headers": [
+       "say no to",
+       "use",
+       "example"
+      ],
+      "rows": [
+       [
+        "a noun with ein / eine",
+        "kein / keine",
+        "Das ist kein Kino."
+       ],
+       [
+        "a describing word",
+        "nicht",
+        "Das Kino ist nicht neu."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Answer yes or no",
+     "body": "A yes/no question starts with the verb. Answer with ja or nein and a full sentence. For no, use kein or keine.",
+     "examples": [
+      {
+       "de": "Ist das ein Kino?",
+       "en": "Is that a cinema?",
+       "why": "Verb first.",
+       "parts": [
+        [
+         "Ist",
+         "verb"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Kino?",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ja, das ist ein Kino.",
+       "en": "Yes, that is a cinema.",
+       "why": "Ja + ein.",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Kino.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Nein, das ist kein Kino.",
+       "en": "No, that is not a cinema.",
+       "why": "Nein + kein.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Kino.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Ist das eine Kirche?",
+      "Ja, das ist eine Kirche.",
+      "Nein, das ist keine Kirche."
+     ],
+     "more": "A good answer is short and complete. Step 1: say ja or nein. Step 2: say the full sentence with Das ist. Step 3: for ja use ein or eine. For nein use kein or keine. If the question is about many things, ask Sind das …? and answer Das sind keine … Extra example: Ist das eine Bank? Nein, das ist keine Bank."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:vC_7XBaqsc4",
+     "yt:Re-5t9qA-AU"
+    ],
+    "nicosWeg": [
+     "nw:a1-23"
+    ],
+    "practice": [
+     "link:lingolia-nouns-and-articles"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which word means not a?",
+     "options": [
+      "ein",
+      "kein",
+      "nicht"
+     ],
+     "answer": 1,
+     "hint": "Add a k in front of ein.",
+     "explanation": "kein = not a, no.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Bahnhof. (kein / keine)",
+     "answers": [
+      "kein"
+     ],
+     "hint": "Bahnhof is a der-word.",
+     "explanation": "ein Bahnhof becomes kein Bahnhof.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Kirche. (kein / keine)",
+     "answers": [
+      "keine"
+     ],
+     "hint": "Kirche is a die-word.",
+     "explanation": "eine Kirche becomes keine Kirche.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: That is not a cinema.",
+     "tokens": [
+      "ist",
+      "kein",
+      "Kino.",
+      "Das"
+     ],
+     "answer": [
+      "Das",
+      "ist",
+      "kein",
+      "Kino."
+     ],
+     "hint": "Das ist, then kein, then the noun.",
+     "explanation": "Das ist kein Kino.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Das ist keine Museum.",
+      "Das ist kein Museum."
+     ],
+     "answer": 1,
+     "hint": "Museum is a das-word.",
+     "explanation": "das Museum: kein.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das sind ___ Hotels. (kein / keine)",
+     "answers": [
+      "keine"
+     ],
+     "hint": "For many things, use keine.",
+     "explanation": "Many things: keine.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Ist das ein Park? Nein, ___.",
+     "options": [
+      "das ist kein Park",
+      "das ist nicht Park",
+      "das ist keine Park"
+     ],
+     "answer": 0,
+     "hint": "A noun with ein: use kein.",
+     "explanation": "Park is a der-word: kein Park.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das Hotel ist ___ neu. (nicht / kein)",
+     "answers": [
+      "nicht"
+     ],
+     "hint": "neu is a describing word.",
+     "explanation": "nicht goes before neu.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: That is not a bank, that is a church.",
+    "answers": [
+     "Das ist keine Bank, das ist eine Kirche."
+    ],
+    "hint": "Bank and Kirche are die-words. Say what it is not, then what it is.",
+    "explanation": "keine Bank, eine Kirche.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does kein mean?",
+     "options": [
+      "not a, no",
+      "a, an",
+      "the"
+     ],
+     "answer": 0,
+     "hint": "Look at the first card.",
+     "explanation": "kein = not a, no."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word goes with das Hotel?",
+     "options": [
+      "kein",
+      "keine"
+     ],
+     "answer": 0,
+     "hint": "das-words take kein.",
+     "explanation": "das Hotel becomes kein Hotel.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word goes with die Bank?",
+     "options": [
+      "kein",
+      "keine"
+     ],
+     "answer": 1,
+     "hint": "die-words take keine.",
+     "explanation": "die Bank becomes keine Bank.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Park. (kein / keine)",
+     "answers": [
+      "kein"
+     ],
+     "hint": "Park is a der-word.",
+     "explanation": "kein Park.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Das ist ___ Stadt. (kein / keine)",
+     "answers": [
+      "keine"
+     ],
+     "hint": "Stadt is a die-word.",
+     "explanation": "keine Stadt.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Those are not cinemas.",
+     "tokens": [
+      "sind",
+      "keine",
+      "Kinos.",
+      "Das"
+     ],
+     "answer": [
+      "Das",
+      "sind",
+      "keine",
+      "Kinos."
+     ],
+     "hint": "Many things: sind and keine.",
+     "explanation": "Das sind keine Kinos.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Das ist keine Hotel.",
+      "Das ist kein Hotel."
+     ],
+     "answer": 1,
+     "hint": "Hotel is a das-word.",
+     "explanation": "das Hotel: kein.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What do you use with a describing word like neu?",
+     "options": [
+      "kein",
+      "nicht"
+     ],
+     "answer": 1,
+     "hint": "kein is for nouns.",
+     "explanation": "nicht goes with describing words.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Der Markt ist ___ alt. (nicht / kein)",
+     "answers": [
+      "nicht"
+     ],
+     "hint": "alt describes the market.",
+     "explanation": "nicht goes before alt.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Anna says: Nein, das ist kein Kino. Is it a cinema?",
+     "options": [
+      "no",
+      "yes"
+     ],
+     "answer": 0,
+     "hint": "kein means not a.",
+     "explanation": "kein Kino = not a cinema."
+    },
+    {
+     "type": "choice",
+     "prompt": "Das ist kein Hafen. What does it say?",
+     "options": [
+      "That is not a harbour.",
+      "That is a harbour."
+     ],
+     "answer": 0,
+     "hint": "kein means not a.",
+     "explanation": "kein Hafen = not a harbour."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Café",
+     "en": "café",
+     "examples": [
+      {
+       "de": "Das ist ein Café.",
+       "en": "That is a café."
+      },
+      {
+       "de": "Das Café ist nicht neu.",
+       "en": "The café is not new."
+      }
+     ],
+     "article": "das",
+     "plural": "die Cafés"
+    },
+    {
+     "de": "Schule",
+     "en": "school",
+     "examples": [
+      {
+       "de": "Das ist keine Schule.",
+       "en": "That is not a school."
+      },
+      {
+       "de": "Die Schule ist neu.",
+       "en": "The school is new."
+      }
+     ],
+     "article": "die",
+     "plural": "die Schulen"
+    },
+    {
+     "de": "Supermarkt",
+     "en": "supermarket",
+     "examples": [
+      {
+       "de": "Das ist ein Supermarkt.",
+       "en": "That is a supermarket."
+      },
+      {
+       "de": "Der Supermarkt ist nicht alt.",
+       "en": "The supermarket is not old."
+      }
+     ],
+     "article": "der",
+     "plural": "die Supermärkte"
+    },
+    {
+     "de": "Apotheke",
+     "en": "pharmacy",
+     "examples": [
+      {
+       "de": "Das ist eine Apotheke.",
+       "en": "That is a pharmacy."
+      },
+      {
+       "de": "Das ist keine Apotheke.",
+       "en": "That is not a pharmacy."
+      }
+     ],
+     "article": "die",
+     "plural": "die Apotheken"
+    },
+    {
+     "de": "Krankenhaus",
+     "en": "hospital",
+     "examples": [
+      {
+       "de": "Das ist ein Krankenhaus.",
+       "en": "That is a hospital."
+      },
+      {
+       "de": "Das Krankenhaus ist alt.",
+       "en": "The hospital is old."
+      }
+     ],
+     "article": "das",
+     "plural": "die Krankenhäuser"
+    },
+    {
+     "de": "Straße",
+     "en": "street, road",
+     "examples": [
+      {
+       "de": "Das ist eine Straße.",
+       "en": "That is a street."
+      },
+      {
+       "de": "Die Straße ist alt.",
+       "en": "The street is old."
+      }
+     ],
+     "article": "die",
+     "plural": "die Straßen"
+    },
+    {
+     "de": "Brücke",
+     "en": "bridge",
+     "examples": [
+      {
+       "de": "Das ist eine Brücke.",
+       "en": "That is a bridge."
+      },
+      {
+       "de": "Das ist keine Straße.",
+       "en": "That is not a street."
+      }
+     ],
+     "article": "die",
+     "plural": "die Brücken"
+    },
+    {
+     "de": "Turm",
+     "en": "tower",
+     "examples": [
+      {
+       "de": "Das ist ein Turm.",
+       "en": "That is a tower."
+      },
+      {
+       "de": "Der Turm ist alt.",
+       "en": "The tower is old."
+      }
+     ],
+     "article": "der",
+     "plural": "die Türme"
+    },
+    {
+     "de": "nicht",
+     "en": "not",
+     "examples": [
+      {
+       "de": "Das Café ist nicht neu.",
+       "en": "The café is not new."
+      },
+      {
+       "de": "Ich bin nicht müde.",
+       "en": "I am not tired."
+      }
+     ]
+    },
+    {
+     "de": "kein / keine",
+     "en": "not a, no",
+     "examples": [
+      {
+       "de": "Das ist kein Museum.",
+       "en": "That is not a museum."
+      },
+      {
+       "de": "Das sind keine Kinos.",
+       "en": "Those are not cinemas."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say that something is not a cinema.",
+     "Say that something is not a bank.",
+     "Say that two things are not parks."
+    ],
+    "examples": [
+     "Das ist kein Kino.",
+     "Das ist keine Bank.",
+     "Das sind keine Parks."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: That is not a station.",
+     "answers": [
+      "Das ist kein Bahnhof."
+     ],
+     "hint": "Bahnhof is a der-word.",
+     "explanation": "kein Bahnhof."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: That is not a church.",
+     "answers": [
+      "Das ist keine Kirche."
+     ],
+     "hint": "Kirche is a die-word.",
+     "explanation": "keine Kirche."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Those are not parks.",
+     "answers": [
+      "Das sind keine Parks."
+     ],
+     "hint": "Many things: sind and keine.",
+     "explanation": "Das sind keine Parks."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: The cinema is not new.",
+     "answers": [
+      "Das Kino ist nicht neu."
+     ],
+     "hint": "neu is a describing word: nicht.",
+     "explanation": "nicht goes before neu."
+    }
+   ]
+  },
+  {
+   "id": "a1-c03-03",
+   "level": "a1",
+   "chapter": 3,
+   "n": 3,
+   "title": "Getting around: transport and Wo ist …?",
+   "goal": "Say how you travel and ask where a place is.",
+   "minutes": 30,
+   "printedPages": [
+    32,
+    33
+   ],
+   "grammar": {
+    "topic": "vocabulary",
+    "point": "Transport is a whole piece: mit dem Bus, mit der U-Bahn, zu Fuß; ask Wo ist …? and answer with hier, da, dort",
+    "oneLine": "Learn mit dem Bus as one piece. fahren = by vehicle, gehen = on foot.",
+    "mistake": {
+     "wrong": "Ich fahre mit Bus.",
+     "right": "Ich fahre mit dem Bus.",
+     "why": "The piece is mit dem Bus. Do not drop dem."
+    }
+   },
+   "terms": [
+    {
+     "term": "means of transport",
+     "meaning": "the way you travel: bus, train, bike"
+    },
+    {
+     "term": "piece",
+     "meaning": "a group of words you learn together, like mit dem Bus"
+    },
+    {
+     "term": "zu Fuß",
+     "meaning": "on foot: one piece"
+    },
+    {
+     "term": "hier / da / dort",
+     "meaning": "here / there / over there"
+    }
+   ],
+   "cards": [
+    {
+     "title": "How do you travel? Wie fährst du?",
+     "body": "Ask Wie fährst du? Answer with Ich fahre mit dem Bus. mit dem Bus is one piece: learn it whole. Why it is dem comes in chapter 7. The verb fahren is still part 2.",
+     "examples": [
+      {
+       "de": "Wie fährst du?",
+       "en": "How do you travel?",
+       "why": "W-question: the verb is part 2.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "fährst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Ich fahre mit dem Bus.",
+       "en": "I go by bus.",
+       "why": "mit dem Bus: one piece.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Bus.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Wir fahren mit dem Zug.",
+       "en": "We go by train.",
+       "why": "wir + fahren.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "fahren",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Zug.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Ask: Wie fährst du?",
+      "Answer: Ich fahre …",
+      "Add the piece: mit dem Bus",
+      "Ich fahre mit dem Bus."
+     ],
+     "parts": [
+      [
+       "Ich",
+       "subject"
+      ],
+      [
+       "fahre",
+       "verb"
+      ],
+      [
+       "mit",
+       "preposition"
+      ],
+      [
+       "dem Bus.",
+       "noun"
+      ]
+     ],
+     "more": "You already know fahren from chapter 2: ich fahre, du fährst. Now we say how. Think of mit dem Bus as a ticket that you cannot tear apart. Step 1: ask Wie fährst du? Step 2: answer Ich fahre. Step 3: add the ticket: mit dem Bus. Do not leave out dem. Extra example: Ich fahre mit dem Auto. = I go by car."
+    },
+    {
+     "title": "Ways to travel: learn each as one piece",
+     "body": "Six ways to travel. Learn each piece whole, with its little words. You will see dem and der. Do not worry why. That comes in chapter 7. For now, copy the piece.",
+     "examples": [
+      {
+       "de": "Ich fahre mit der U-Bahn.",
+       "en": "I go by underground.",
+       "why": "mit der U-Bahn: one piece.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "der U-Bahn.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich fahre mit dem Fahrrad.",
+       "en": "I go by bike.",
+       "why": "mit dem Fahrrad: one piece.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Fahrrad.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Mira fährt mit dem Auto.",
+       "en": "Mira goes by car.",
+       "why": "mit dem Auto: one piece.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Auto.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a phone book of pieces. Each piece is a ready-made block: mit dem Bus, mit der U-Bahn, mit dem Zug, mit dem Fahrrad, mit dem Auto. You do not build them from small parts today. You just pick the block you need. Say each one out loud three times. Extra example: Anna fährt mit dem Zug. = Anna goes by train.",
+     "table": {
+      "headers": [
+       "English",
+       "German piece"
+      ],
+      "rows": [
+       [
+        "by bus",
+        "mit dem Bus"
+       ],
+       [
+        "by underground",
+        "mit der U-Bahn"
+       ],
+       [
+        "by train",
+        "mit dem Zug"
+       ],
+       [
+        "by bike",
+        "mit dem Fahrrad"
+       ],
+       [
+        "by car",
+        "mit dem Auto"
+       ],
+       [
+        "on foot",
+        "zu Fuß"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "On foot: gehen and zu Fuß",
+     "body": "fahren is for a bus, train, bike or car. gehen is for walking. Say zu Fuß gehen. gehen is a regular verb: take off -en and add the endings from chapter 1.",
+     "examples": [
+      {
+       "de": "Ich gehe zu Fuß.",
+       "en": "I walk. (I go on foot.)",
+       "why": "ich + geh + e.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "gehe",
+         "verb"
+        ],
+        [
+         "zu Fuß.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Du gehst zu Fuß.",
+       "en": "You walk.",
+       "why": "du + geh + st.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "gehst",
+         "verb"
+        ],
+        [
+         "zu Fuß.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Wir gehen zu Fuß.",
+       "en": "We walk.",
+       "why": "wir + geh + en.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "zu Fuß.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "more": "In English you go by bus and you go on foot. German uses two different verbs. If something carries you, use fahren. If your own feet do the work, use gehen. Step 1: ride or walk? Step 2: pick fahren or gehen. Step 3: add the piece: mit dem Bus or zu Fuß. gehen is easy: it follows the normal pattern. Extra example: Er geht zu Fuß. = He walks.",
+     "table": {
+      "headers": [
+       "person",
+       "gehen"
+      ],
+      "rows": [
+       [
+        "ich",
+        "gehe"
+       ],
+       [
+        "du",
+        "gehst"
+       ],
+       [
+        "er / sie",
+        "geht"
+       ],
+       [
+        "wir",
+        "gehen"
+       ],
+       [
+        "ihr",
+        "geht"
+       ],
+       [
+        "sie / Sie",
+        "gehen"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Start with the transport: the verb stays second",
+     "body": "You can start with mit dem Zug. Then the verb must still be part 2, so ich moves behind it. Same meaning, other chair order.",
+     "examples": [
+      {
+       "de": "Ich fahre mit dem Zug nach Hamburg.",
+       "en": "I go to Hamburg by train.",
+       "why": "Chair 1 is ich.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Zug",
+         "noun"
+        ],
+        [
+         "nach Hamburg.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Mit dem Zug fahre ich nach Hamburg.",
+       "en": "By train I go to Hamburg.",
+       "why": "Chair 1 is mit dem Zug. The verb is still part 2.",
+       "parts": [
+        [
+         "Mit",
+         "preposition"
+        ],
+        [
+         "dem Zug",
+         "noun"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "nach Hamburg.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Fährst du mit dem Zug nach Hamburg?",
+       "en": "Do you go to Hamburg by train?",
+       "why": "Yes/no question: the verb is first.",
+       "parts": [
+        [
+         "Fährst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Zug",
+         "noun"
+        ],
+        [
+         "nach Hamburg?",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Remember the chairs from chapter 1. The verb always sits on chair 2. Chair 1 can be ich, but it can also be a whole piece like mit dem Zug. Step 1: pick what goes first. Step 2: put the verb next. Step 3: put the rest after it. Nothing else changes. Extra example: Mit dem Bus fahre ich nach Berlin. = By bus I go to Berlin.",
+     "table": {
+      "headers": [
+       "chair 1",
+       "chair 2 (verb)",
+       "chair 3",
+       "chair 4"
+      ],
+      "rows": [
+       [
+        "Ich",
+        "fahre",
+        "mit dem Zug",
+        "nach Hamburg."
+       ],
+       [
+        "Mit dem Zug",
+        "fahre",
+        "ich",
+        "nach Hamburg."
+       ],
+       [
+        "Wir",
+        "fahren",
+        "mit dem Bus",
+        "nach Berlin."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Where is it? Wo ist …? hier, da, dort",
+     "body": "Ask Wo ist …? The verb ist is part 2 and the thing comes after it. Answer with hier (here), da (there) or dort (over there). For many things, ask Wo sind …?",
+     "examples": [
+      {
+       "de": "Wo ist der Bahnhof?",
+       "en": "Where is the station?",
+       "why": "Wo + ist + thing.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der Bahnhof?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Der Bahnhof ist dort.",
+       "en": "The station is over there.",
+       "why": "dort = over there.",
+       "parts": [
+        [
+         "Der Bahnhof",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "dort.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Wo sind die Busse?",
+       "en": "Where are the buses?",
+       "why": "Many things: sind.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "die Busse?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine you have a toy. Hier is when it is in your hand. Da is when it is on the table next to you. Dort is when it is across the room. Step 1: ask Wo ist? Step 2: say the thing. Step 3: answer with hier, da or dort. Many things need sind: Wo sind die Busse? Extra example: Hier ist ein Taxi. = Here is a taxi.",
+     "table": {
+      "headers": [
+       "word",
+       "means",
+       "how far"
+      ],
+      "rows": [
+       [
+        "hier",
+        "here",
+        "close to me"
+       ],
+       [
+        "da",
+        "there",
+        "a bit away"
+       ],
+       [
+        "dort",
+        "over there",
+        "far away"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Ask and answer: put it together",
+     "body": "Now join the pieces. Ask Wie fährst du? and answer with fahren or gehen. Ask Wo ist …? and answer with hier, da or dort. All verbs stay in part 2.",
+     "examples": [
+      {
+       "de": "Wie fährt Anna? Sie fährt mit der U-Bahn.",
+       "en": "How does Anna travel? She goes by underground.",
+       "why": "er/sie + fährt.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "Anna?",
+         "subject"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "der U-Bahn.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Wo ist das Taxi? Da ist das Taxi.",
+       "en": "Where is the taxi? The taxi is there.",
+       "why": "da at chair 1: the verb is still part 2.",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das Taxi?",
+         "subject"
+        ],
+        [
+         "Da",
+         "place"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das Taxi.",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wie gehst du? Ich gehe zu Fuß.",
+       "en": "How do you go? I walk.",
+       "why": "du + gehst, ich + gehe.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "gehst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "gehe",
+         "verb"
+        ],
+        [
+         "zu Fuß.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Wie fährst du? Ich fahre mit dem Bus.",
+      "Wo ist der Bahnhof? Dort.",
+      "Wie fährt Mira? Mit der U-Bahn."
+     ],
+     "more": "A question and an answer are like a ping-pong game. The question hits one word, the answer sends it back. How do you travel? I go by bus. Where is it? Over there. Step 1: look at the question word: wie or wo. Step 2: pick the answer: for wie, a piece like mit dem Bus. For wo, a word like dort. Extra example: Wo ist die U-Bahn? Dort ist die U-Bahn."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:dIbr0bSKvYM",
+     "yt:S3SRcxJB31Q"
+    ],
+    "nicosWeg": [
+     "nw:a1-43"
+    ],
+    "practice": [
+     "link:lingolia-sentence-structure"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "How do you say: by bus?",
+     "options": [
+      "mit dem Bus",
+      "zu Fuß",
+      "mit dem Fahrrad"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of pieces.",
+     "explanation": "by bus = mit dem Bus."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which piece means on foot?",
+     "options": [
+      "zu Fuß",
+      "mit dem Zug"
+     ],
+     "answer": 0,
+     "hint": "This piece has no mit.",
+     "explanation": "on foot = zu Fuß."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: by train",
+     "answers": [
+      "mit dem Zug"
+     ],
+     "hint": "Learn it as one piece.",
+     "explanation": "by train = mit dem Zug."
+    },
+    {
+     "type": "build",
+     "prompt": "Build: I go by bus.",
+     "tokens": [
+      "fahre",
+      "mit",
+      "dem",
+      "Bus.",
+      "Ich"
+     ],
+     "answer": [
+      "Ich",
+      "fahre",
+      "mit",
+      "dem",
+      "Bus."
+     ],
+     "hint": "Ich, then fahre, then the piece mit dem Bus.",
+     "explanation": "Ich fahre mit dem Bus.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Du ___ mit dem Bus. (fahren)",
+     "answers": [
+      "fährst"
+     ],
+     "hint": "fahren changes a to ä for du.",
+     "explanation": "Du fährst mit dem Bus.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Ich ___ zu Fuß. (gehen)",
+     "answers": [
+      "gehe"
+     ],
+     "hint": "ich takes -e.",
+     "explanation": "Ich gehe zu Fuß.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question asks where the station is?",
+     "options": [
+      "Wo ist der Bahnhof?",
+      "Wie fährst du?"
+     ],
+     "answer": 0,
+     "hint": "Wo = where.",
+     "explanation": "Wo ist der Bahnhof?"
+    },
+    {
+     "type": "build",
+     "prompt": "Build: The station is over there.",
+     "tokens": [
+      "Bahnhof",
+      "ist",
+      "dort.",
+      "Der"
+     ],
+     "answer": [
+      "Der",
+      "Bahnhof",
+      "ist",
+      "dort."
+     ],
+     "hint": "Thing, then ist, then dort.",
+     "explanation": "Der Bahnhof ist dort.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: I go to Hamburg by train.",
+    "answers": [
+     "Ich fahre mit dem Zug nach Hamburg.",
+     "Mit dem Zug fahre ich nach Hamburg.",
+     "Ich fahre nach Hamburg mit dem Zug."
+    ],
+    "hint": "fahren, then the piece mit dem Zug, then nach Hamburg.",
+    "explanation": "Ich + fahre + mit dem Zug + nach Hamburg.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does Wie fährst du? ask?",
+     "options": [
+      "How do you travel?",
+      "Where is the station?"
+     ],
+     "answer": 0,
+     "hint": "wie = how.",
+     "explanation": "wie = how."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which verb is for a bus, train or car?",
+     "options": [
+      "fahren",
+      "gehen"
+     ],
+     "answer": 0,
+     "hint": "gehen is for walking.",
+     "explanation": "fahren = go by vehicle.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wir ___ mit dem Zug. (fahren)",
+     "answers": [
+      "fahren"
+     ],
+     "hint": "wir takes -en.",
+     "explanation": "Wir fahren mit dem Zug.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Anna ___ mit der U-Bahn. (fahren)",
+     "answers": [
+      "fährt"
+     ],
+     "hint": "A name works like er/sie. fahren changes a to ä.",
+     "explanation": "Anna fährt mit der U-Bahn.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Du ___ zu Fuß. (gehen)",
+     "answers": [
+      "gehst"
+     ],
+     "hint": "du takes -st.",
+     "explanation": "Du gehst zu Fuß.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Mira goes by bicycle.",
+     "tokens": [
+      "fährt",
+      "mit",
+      "dem",
+      "Fahrrad.",
+      "Mira"
+     ],
+     "answer": [
+      "Mira",
+      "fährt",
+      "mit",
+      "dem",
+      "Fahrrad."
+     ],
+     "hint": "Name, then fährt, then the piece.",
+     "explanation": "Mira fährt mit dem Fahrrad.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: By train I go to Hamburg.",
+     "tokens": [
+      "dem",
+      "Zug",
+      "fahre",
+      "ich",
+      "nach",
+      "Hamburg.",
+      "Mit"
+     ],
+     "answer": [
+      "Mit",
+      "dem",
+      "Zug",
+      "fahre",
+      "ich",
+      "nach",
+      "Hamburg."
+     ],
+     "hint": "The verb stays part 2, so ich moves after it.",
+     "explanation": "Mit dem Zug fahre ich nach Hamburg.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Mit dem Bus ich fahre nach Hamburg.",
+      "Mit dem Bus fahre ich nach Hamburg."
+     ],
+     "answer": 1,
+     "hint": "The verb is always part 2.",
+     "explanation": "The verb sits in position 2.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question asks about many buses?",
+     "options": [
+      "Wo ist der Bus?",
+      "Wo sind die Busse?"
+     ],
+     "answer": 1,
+     "hint": "Many things: sind.",
+     "explanation": "Wo sind die Busse?",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "What does dort mean?",
+     "options": [
+      "over there",
+      "here",
+      "where"
+     ],
+     "answer": 0,
+     "hint": "Look at the table.",
+     "explanation": "dort = over there."
+    },
+    {
+     "type": "choice",
+     "prompt": "What does zu Fuß mean?",
+     "options": [
+      "on foot",
+      "by car",
+      "by bike"
+     ],
+     "answer": 0,
+     "hint": "It has no vehicle in it.",
+     "explanation": "zu Fuß = on foot."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Bus",
+     "en": "bus",
+     "examples": [
+      {
+       "de": "Der Bus ist neu.",
+       "en": "The bus is new."
+      },
+      {
+       "de": "Ich fahre mit dem Bus.",
+       "en": "I go by bus."
+      }
+     ],
+     "article": "der",
+     "plural": "die Busse"
+    },
+    {
+     "de": "U-Bahn",
+     "en": "underground, metro",
+     "examples": [
+      {
+       "de": "Die U-Bahn ist super.",
+       "en": "The underground is great."
+      },
+      {
+       "de": "Wir fahren mit der U-Bahn.",
+       "en": "We go by underground."
+      }
+     ],
+     "article": "die",
+     "plural": "die U-Bahnen"
+    },
+    {
+     "de": "Zug",
+     "en": "train",
+     "examples": [
+      {
+       "de": "Der Zug ist alt.",
+       "en": "The train is old."
+      },
+      {
+       "de": "Ich fahre mit dem Zug nach Hamburg.",
+       "en": "I go to Hamburg by train."
+      }
+     ],
+     "article": "der",
+     "plural": "die Züge"
+    },
+    {
+     "de": "Fahrrad",
+     "en": "bicycle",
+     "examples": [
+      {
+       "de": "Das Fahrrad ist neu.",
+       "en": "The bicycle is new."
+      },
+      {
+       "de": "Du fährst mit dem Fahrrad.",
+       "en": "You go by bike."
+      }
+     ],
+     "article": "das",
+     "plural": "die Fahrräder"
+    },
+    {
+     "de": "Schiff",
+     "en": "ship, boat",
+     "examples": [
+      {
+       "de": "Das ist ein Schiff.",
+       "en": "That is a ship."
+      },
+      {
+       "de": "Das Schiff ist dort.",
+       "en": "The ship is over there."
+      }
+     ],
+     "article": "das",
+     "plural": "die Schiffe"
+    },
+    {
+     "de": "Taxi",
+     "en": "taxi",
+     "examples": [
+      {
+       "de": "Hier ist ein Taxi.",
+       "en": "Here is a taxi."
+      },
+      {
+       "de": "Wo ist das Taxi?",
+       "en": "Where is the taxi?"
+      }
+     ],
+     "article": "das",
+     "plural": "die Taxis"
+    },
+    {
+     "de": "gehen",
+     "forms": "geht, ist gegangen",
+     "en": "to go, to walk",
+     "examples": [
+      {
+       "de": "Ich gehe zu Fuß.",
+       "en": "I walk."
+      },
+      {
+       "de": "Wir gehen nach Hamburg.",
+       "en": "We go to Hamburg."
+      }
+     ]
+    },
+    {
+     "de": "dort",
+     "en": "over there",
+     "examples": [
+      {
+       "de": "Der Bahnhof ist dort.",
+       "en": "The station is over there."
+      },
+      {
+       "de": "Dort ist ein Park.",
+       "en": "There is a park over there."
+      }
+     ]
+    },
+    {
+     "de": "da",
+     "en": "there",
+     "examples": [
+      {
+       "de": "Da ist das Taxi.",
+       "en": "The taxi is there."
+      },
+      {
+       "de": "Der Park ist da.",
+       "en": "The park is there."
+      }
+     ]
+    },
+    {
+     "de": "zu Fuß",
+     "en": "on foot",
+     "examples": [
+      {
+       "de": "Ich gehe zu Fuß.",
+       "en": "I walk."
+      },
+      {
+       "de": "Du gehst zu Fuß.",
+       "en": "You walk."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say how you go to the city.",
+     "Ask where the station is.",
+     "Say how a friend travels."
+    ],
+    "examples": [
+     "Ich fahre mit dem Bus.",
+     "Wo ist der Bahnhof?",
+     "Anna fährt mit der U-Bahn."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: I go by bike.",
+     "answers": [
+      "Ich fahre mit dem Fahrrad."
+     ],
+     "hint": "fahren, then the piece mit dem Fahrrad.",
+     "explanation": "Ich fahre mit dem Fahrrad."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Where is the hotel?",
+     "answers": [
+      "Wo ist das Hotel?"
+     ],
+     "hint": "Wo, then ist, then the thing.",
+     "explanation": "Wo ist das Hotel?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: We walk.",
+     "answers": [
+      "Wir gehen zu Fuß."
+     ],
+     "hint": "gehen with wir, and the piece zu Fuß.",
+     "explanation": "Wir gehen zu Fuß."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Mira goes by underground.",
+     "answers": [
+      "Mira fährt mit der U-Bahn."
+     ],
+     "hint": "A name works like er/sie: fährt.",
+     "explanation": "Mira fährt mit der U-Bahn."
+    }
+   ]
+  },
+  {
+   "id": "a1-c03-04",
+   "level": "a1",
+   "chapter": 3,
+   "n": 4,
+   "title": "Describe places: sein + adjective",
+   "goal": "Say what a place is like, with sein and an adjective.",
+   "minutes": 30,
+   "printedPages": [
+    34,
+    35
+   ],
+   "grammar": {
+    "topic": "adjectives",
+    "point": "After sein, the adjective has no ending; nicht, sehr and zu stand right before it",
+    "oneLine": "Der Hafen ist groß. No ending after sein.",
+    "mistake": {
+     "wrong": "Der Hafen ist große.",
+     "right": "Der Hafen ist groß.",
+     "why": "After sein the adjective never gets an ending."
+    }
+   },
+   "terms": [
+    {
+     "term": "adjective",
+     "meaning": "a describing word that says what something is like: groß, alt, schön"
+    },
+    {
+     "term": "sehr",
+     "meaning": "very: it goes right before an adjective"
+    },
+    {
+     "term": "zu",
+     "meaning": "too, before an adjective"
+    },
+    {
+     "term": "opposite",
+     "meaning": "a word that means the reverse: groß and klein"
+    }
+   ],
+   "cards": [
+    {
+     "title": "Say what a place is like: sein + adjective",
+     "body": "A describing word is called an adjective. It says what something is like: big, old, nice. Put the adjective after sein. The verb is still part 2.",
+     "examples": [
+      {
+       "de": "Der Hafen ist groß.",
+       "en": "The harbour is big.",
+       "why": "sein + adjective.",
+       "parts": [
+        [
+         "Der Hafen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Museum ist alt.",
+       "en": "The museum is old.",
+       "why": "sein + adjective.",
+       "parts": [
+        [
+         "Das Museum",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die Stadt ist schön.",
+       "en": "The city is beautiful.",
+       "why": "sein + adjective.",
+       "parts": [
+        [
+         "Die Stadt",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Say the thing: der Hafen",
+      "Add the verb: ist",
+      "Add the adjective: groß",
+      "Der Hafen ist groß."
+     ],
+     "parts": [
+      [
+       "Der Hafen",
+       "subject"
+      ],
+      [
+       "ist",
+       "verb"
+      ],
+      [
+       "groß.",
+       "adjective"
+      ]
+     ],
+     "more": "You know sein from chapter 1: Ben ist nett. nett was an adjective already! Now we use the same pattern for places. Step 1: say the thing: der Hafen. Step 2: say ist. Step 3: say the describing word: groß. Think of ist as an equals sign: harbour = big. Extra example: Der Park ist klein. = The park is small."
+    },
+    {
+     "title": "After sein, the adjective has no ending",
+     "body": "After sein, the adjective never changes. groß stays groß for der-words, die-words, das-words and for many things. Only sein changes: ist for one, sind for many.",
+     "examples": [
+      {
+       "de": "Der Park ist groß.",
+       "en": "The park is big.",
+       "why": "der-word: groß.",
+       "parts": [
+        [
+         "Der Park",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die Kirche ist groß.",
+       "en": "The church is big.",
+       "why": "die-word: still groß.",
+       "parts": [
+        [
+         "Die Kirche",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die Parks sind groß.",
+       "en": "The parks are big.",
+       "why": "many: sind, still groß.",
+       "parts": [
+        [
+         "Die Parks",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "In English you say: a big park, big parks, the park is big. The word big never changes. German is the same after sein, so this is the easy part. Step 1: pick the adjective. Step 2: do not touch it. Step 3: pick ist or sind. Later, in front of a noun, adjectives get an ending. That is for a later chapter. Not today. Extra example: Das Hotel ist klein. Die Hotels sind klein.",
+     "table": {
+      "headers": [
+       "noun",
+       "sein",
+       "adjective"
+      ],
+      "rows": [
+       [
+        "der Park",
+        "ist",
+        "groß"
+       ],
+       [
+        "die Kirche",
+        "ist",
+        "groß"
+       ],
+       [
+        "das Museum",
+        "ist",
+        "groß"
+       ],
+       [
+        "die Parks",
+        "sind",
+        "groß"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Opposites help you learn",
+     "body": "Learn adjectives in pairs. Two words that mean the opposite are easy to remember together. Say the pair out loud.",
+     "examples": [
+      {
+       "de": "Der Hafen ist laut.",
+       "en": "The harbour is loud.",
+       "why": "laut = loud.",
+       "parts": [
+        [
+         "Der Hafen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "laut.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Der Park ist ruhig.",
+       "en": "The park is quiet.",
+       "why": "ruhig = quiet, the opposite of laut.",
+       "parts": [
+        [
+         "Der Park",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ruhig.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die Brücke ist alt, aber der Turm ist neu.",
+       "en": "The bridge is old, but the tower is new.",
+       "why": "alt and neu are opposites.",
+       "parts": [
+        [
+         "Die Brücke",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "alt,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "der Turm",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a see-saw. On one side sits big, on the other small. When you know one side, you know the other. Step 1: learn groß and klein as a team. Step 2: learn alt and neu. Step 3: learn laut and ruhig. Use aber (but) to join two opposites. Extra example: Das Hotel ist klein, aber das Café ist groß.",
+     "table": {
+      "headers": [
+       "adjective",
+       "opposite"
+      ],
+      "rows": [
+       [
+        "groß (big)",
+        "klein (small)"
+       ],
+       [
+        "alt (old)",
+        "neu (new)"
+       ],
+       [
+        "laut (loud)",
+        "ruhig (quiet)"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "sehr: very",
+     "body": "sehr means very. Put it right before the adjective. It makes the adjective stronger. sehr never changes, and neither does the adjective.",
+     "examples": [
+      {
+       "de": "Der Hafen ist sehr groß.",
+       "en": "The harbour is very big.",
+       "why": "sehr + adjective.",
+       "parts": [
+        [
+         "Der Hafen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die Stadt ist sehr schön.",
+       "en": "The city is very beautiful.",
+       "why": "sehr + adjective.",
+       "parts": [
+        [
+         "Die Stadt",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Café ist sehr teuer.",
+       "en": "The café is very expensive.",
+       "why": "sehr + adjective.",
+       "parts": [
+        [
+         "Das Café",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "teuer.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "sehr is like a volume knob. Without it the word is normal. With it the word is turned up. Step 1: say the sentence with the adjective: Der Hafen ist groß. Step 2: put sehr right before the adjective. Step 3: say it. Do not put sehr anywhere else. Extra example: Die U-Bahn ist sehr laut. = The underground is very loud.",
+     "table": {
+      "headers": [
+       "normal",
+       "stronger"
+      ],
+      "rows": [
+       [
+        "groß",
+        "sehr groß"
+       ],
+       [
+        "schön",
+        "sehr schön"
+       ],
+       [
+        "teuer",
+        "sehr teuer"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "nicht and zu: not and too",
+     "body": "nicht means not: Der Markt ist nicht groß. zu before an adjective means too: Das Hotel ist zu teuer. Both stand right before the adjective, just like sehr.",
+     "examples": [
+      {
+       "de": "Der Markt ist nicht groß.",
+       "en": "The market is not big.",
+       "why": "nicht + adjective.",
+       "parts": [
+        [
+         "Der Markt",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Hotel ist zu teuer.",
+       "en": "The hotel is too expensive.",
+       "why": "zu + adjective means too.",
+       "parts": [
+        [
+         "Das Hotel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "zu",
+         "other"
+        ],
+        [
+         "teuer.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Die U-Bahn ist zu laut.",
+       "en": "The underground is too loud.",
+       "why": "zu + adjective means too.",
+       "parts": [
+        [
+         "Die U-Bahn",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "zu",
+         "other"
+        ],
+        [
+         "laut.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "You have three little helpers that go before an adjective: nicht, sehr and zu. They all work in the same place. Step 1: say the adjective. Step 2: pick a helper: nicht (not), sehr (very) or zu (too). Step 3: put it right before the adjective. Be careful: zu in zu Fuß is a different piece. Here zu means too. Extra example: Der Park ist zu klein. = The park is too small.",
+     "table": {
+      "headers": [
+       "word",
+       "means",
+       "example"
+      ],
+      "rows": [
+       [
+        "nicht",
+        "not",
+        "nicht groß"
+       ],
+       [
+        "sehr",
+        "very",
+        "sehr groß"
+       ],
+       [
+        "zu",
+        "too",
+        "zu groß"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Ask: Wie ist …?",
+     "body": "Ask what something is like with Wie ist …? The verb ist is part 2. For many things, ask Wie sind …? The answer uses sein + an adjective.",
+     "examples": [
+      {
+       "de": "Wie ist der Hafen?",
+       "en": "What is the harbour like?",
+       "why": "Wie + ist + thing.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der Hafen?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Der Hafen ist groß und laut.",
+       "en": "The harbour is big and loud.",
+       "why": "Two adjectives joined by und.",
+       "parts": [
+        [
+         "Der Hafen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "groß",
+         "adjective"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "laut.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Wie sind die Parks?",
+       "en": "What are the parks like?",
+       "why": "Many things: sind.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "die Parks?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Wie ist der Hafen?",
+      "Der Hafen ist groß.",
+      "Der Hafen ist groß und laut."
+     ],
+     "more": "Wie ist …? is like asking: tell me about it. You get an answer with describing words. Step 1: ask Wie ist der Hafen? Step 2: answer with the thing, ist and an adjective. Step 3: you can join two adjectives with und. Extra example: Wie ist Hamburg? Hamburg ist sehr schön. = What is Hamburg like? Hamburg is very nice."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:hf3CGRBV15s",
+     "yt:_zxq6dkt_xE"
+    ],
+    "nicosWeg": [
+     "nw:a1-24",
+     "nw:a1-27"
+    ],
+    "practice": [
+     "link:lingolia-adjectives"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which word means big?",
+     "options": [
+      "groß",
+      "klein",
+      "alt"
+     ],
+     "answer": 0,
+     "hint": "Look at the opposites table.",
+     "explanation": "groß = big."
+    },
+    {
+     "type": "type",
+     "prompt": "Das Museum ___ alt. (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "One thing: ist.",
+     "explanation": "Das Museum ist alt.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Die Parks ___ groß. (sein)",
+     "answers": [
+      "sind"
+     ],
+     "hint": "Many things: sind.",
+     "explanation": "Die Parks sind groß.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: The harbour is big.",
+     "tokens": [
+      "Hafen",
+      "ist",
+      "groß.",
+      "Der"
+     ],
+     "answer": [
+      "Der",
+      "Hafen",
+      "ist",
+      "groß."
+     ],
+     "hint": "Thing, then ist, then the adjective.",
+     "explanation": "Der Hafen ist groß.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Der Hafen ist große.",
+      "Der Hafen ist groß."
+     ],
+     "answer": 1,
+     "hint": "After sein the adjective has no ending.",
+     "explanation": "No ending after sein.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: The city is very beautiful.",
+     "answers": [
+      "Die Stadt ist sehr schön."
+     ],
+     "hint": "sehr goes right before the adjective.",
+     "explanation": "Die Stadt ist sehr schön.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Das Hotel ist zu teuer. What does it mean?",
+     "options": [
+      "The hotel is too expensive.",
+      "The hotel is very expensive."
+     ],
+     "answer": 0,
+     "hint": "zu before an adjective means too.",
+     "explanation": "zu = too.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wie ___ der Hafen? (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "Wie + ist + thing.",
+     "explanation": "Wie ist der Hafen?",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: The harbour is very big, but the park is small.",
+    "answers": [
+     "Der Hafen ist sehr groß, aber der Park ist klein."
+    ],
+    "hint": "Two sentences joined by aber. sehr goes before groß.",
+    "explanation": "sehr groß, aber klein.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does schön mean?",
+     "options": [
+      "beautiful, nice",
+      "ugly",
+      "loud"
+     ],
+     "answer": 0,
+     "hint": "Look at the vocabulary.",
+     "explanation": "schön = beautiful, nice."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Die Stadt ist schöne.",
+      "Die Stadt ist schön."
+     ],
+     "answer": 1,
+     "hint": "No ending after sein.",
+     "explanation": "No ending after sein.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Die Kirche ___ sehr alt. (sein)",
+     "answers": [
+      "ist"
+     ],
+     "hint": "One thing: ist.",
+     "explanation": "Die Kirche ist sehr alt.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Die Brücken ___ klein. (sein)",
+     "answers": [
+      "sind"
+     ],
+     "hint": "Many things: sind.",
+     "explanation": "Die Brücken sind klein.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: The museum is old.",
+     "tokens": [
+      "Museum",
+      "ist",
+      "alt.",
+      "Das"
+     ],
+     "answer": [
+      "Das",
+      "Museum",
+      "ist",
+      "alt."
+     ],
+     "hint": "Thing, ist, adjective.",
+     "explanation": "Das Museum ist alt.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: The park is not big.",
+     "tokens": [
+      "Park",
+      "ist",
+      "nicht",
+      "groß.",
+      "Der"
+     ],
+     "answer": [
+      "Der",
+      "Park",
+      "ist",
+      "nicht",
+      "groß."
+     ],
+     "hint": "nicht goes right before the adjective.",
+     "explanation": "Der Park ist nicht groß.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: The hotel is too expensive.",
+     "answers": [
+      "Das Hotel ist zu teuer."
+     ],
+     "hint": "zu goes right before the adjective.",
+     "explanation": "Das Hotel ist zu teuer.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means very?",
+     "options": [
+      "sehr",
+      "zu"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of helpers.",
+     "explanation": "sehr = very."
+    },
+    {
+     "type": "choice",
+     "prompt": "What is the opposite of laut?",
+     "options": [
+      "ruhig",
+      "klein",
+      "teuer"
+     ],
+     "answer": 0,
+     "hint": "Look at the opposites table.",
+     "explanation": "laut and ruhig are opposites."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which question asks what the harbour is like?",
+     "options": [
+      "Wie ist der Hafen?",
+      "Wo ist der Hafen?"
+     ],
+     "answer": 0,
+     "hint": "wie asks what it is like.",
+     "explanation": "Wie ist der Hafen?",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Mira says: Der Turm ist sehr alt. What does she say?",
+     "options": [
+      "The tower is very old.",
+      "The tower is new."
+     ],
+     "answer": 0,
+     "hint": "sehr means very.",
+     "explanation": "sehr alt = very old."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "groß",
+     "en": "big, tall",
+     "examples": [
+      {
+       "de": "Die Stadt ist sehr groß.",
+       "en": "The city is very big."
+      },
+      {
+       "de": "Der Hafen ist groß.",
+       "en": "The harbour is big."
+      }
+     ]
+    },
+    {
+     "de": "klein",
+     "en": "small",
+     "examples": [
+      {
+       "de": "Das Hotel ist klein.",
+       "en": "The hotel is small."
+      },
+      {
+       "de": "Der Park ist nicht klein.",
+       "en": "The park is not small."
+      }
+     ]
+    },
+    {
+     "de": "schön",
+     "en": "beautiful, nice",
+     "examples": [
+      {
+       "de": "Hamburg ist schön.",
+       "en": "Hamburg is beautiful."
+      },
+      {
+       "de": "Die Kirche ist sehr schön.",
+       "en": "The church is very beautiful."
+      }
+     ]
+    },
+    {
+     "de": "laut",
+     "en": "loud",
+     "examples": [
+      {
+       "de": "Der Markt ist laut.",
+       "en": "The market is loud."
+      },
+      {
+       "de": "Die U-Bahn ist zu laut.",
+       "en": "The underground is too loud."
+      }
+     ]
+    },
+    {
+     "de": "ruhig",
+     "en": "quiet, calm",
+     "examples": [
+      {
+       "de": "Der Park ist ruhig.",
+       "en": "The park is quiet."
+      },
+      {
+       "de": "Das Café ist nicht ruhig.",
+       "en": "The café is not quiet."
+      }
+     ]
+    },
+    {
+     "de": "teuer",
+     "en": "expensive",
+     "examples": [
+      {
+       "de": "Das Hotel ist teuer.",
+       "en": "The hotel is expensive."
+      },
+      {
+       "de": "Das Café ist zu teuer.",
+       "en": "The café is too expensive."
+      }
+     ]
+    },
+    {
+     "de": "interessant",
+     "en": "interesting",
+     "examples": [
+      {
+       "de": "Das Museum ist interessant.",
+       "en": "The museum is interesting."
+      },
+      {
+       "de": "Der Hafen ist sehr interessant.",
+       "en": "The harbour is very interesting."
+      }
+     ]
+    },
+    {
+     "de": "sehr",
+     "en": "very",
+     "examples": [
+      {
+       "de": "Der Turm ist sehr alt.",
+       "en": "The tower is very old."
+      },
+      {
+       "de": "Das Kino ist sehr neu.",
+       "en": "The cinema is very new."
+      }
+     ]
+    },
+    {
+     "de": "zu",
+     "en": "too (before an adjective)",
+     "examples": [
+      {
+       "de": "Der Bus ist zu laut.",
+       "en": "The bus is too loud."
+      },
+      {
+       "de": "Das Restaurant ist zu teuer.",
+       "en": "The restaurant is too expensive."
+      }
+     ]
+    },
+    {
+     "de": "Sehenswürdigkeit",
+     "en": "sight, tourist attraction",
+     "examples": [
+      {
+       "de": "Der Hafen ist eine Sehenswürdigkeit.",
+       "en": "The harbour is a sight."
+      },
+      {
+       "de": "Das ist keine Sehenswürdigkeit.",
+       "en": "That is not a sight."
+      }
+     ],
+     "article": "die",
+     "plural": "die Sehenswürdigkeiten"
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say what your city is like.",
+     "Say that a place is very big.",
+     "Say that something is too expensive."
+    ],
+    "examples": [
+     "Hamburg ist sehr schön.",
+     "Der Hafen ist sehr groß.",
+     "Das Hotel ist zu teuer."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: The market is loud.",
+     "answers": [
+      "Der Markt ist laut."
+     ],
+     "hint": "Thing, ist, adjective.",
+     "explanation": "Der Markt ist laut."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: The café is not expensive.",
+     "answers": [
+      "Das Café ist nicht teuer."
+     ],
+     "hint": "nicht goes right before the adjective.",
+     "explanation": "Das Café ist nicht teuer."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: The bridge is very old.",
+     "answers": [
+      "Die Brücke ist sehr alt."
+     ],
+     "hint": "sehr goes right before the adjective.",
+     "explanation": "Die Brücke ist sehr alt."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: What is the city like?",
+     "answers": [
+      "Wie ist die Stadt?"
+     ],
+     "hint": "wie + ist + thing.",
+     "explanation": "Wie ist die Stadt?"
+    }
+   ]
+  },
+  {
+   "id": "a1-c03-05",
+   "level": "a1",
+   "chapter": 3,
+   "n": 5,
+   "title": "Ask for and give directions: the Sie command",
+   "goal": "Ask the way and give directions with polite commands.",
+   "minutes": 35,
+   "printedPages": [
+    35,
+    36
+   ],
+   "grammar": {
+    "topic": "imperative",
+    "point": "The polite command (imperative with Sie): verb first, then Sie",
+    "oneLine": "Gehen Sie geradeaus! Verb first + Sie, same form as Sie gehen.",
+    "mistake": {
+     "wrong": "Sie gehen geradeaus!",
+     "right": "Gehen Sie geradeaus!",
+     "why": "A command starts with the verb, then Sie."
+    }
+   },
+   "terms": [
+    {
+     "term": "imperative",
+     "meaning": "a command: it tells someone what to do"
+    },
+    {
+     "term": "command",
+     "meaning": "a sentence that tells a person to do something"
+    },
+    {
+     "term": "Entschuldigung",
+     "meaning": "excuse me, sorry: it gets attention"
+    },
+    {
+     "term": "zum / zur",
+     "meaning": "pieces for to the: zum Bahnhof, zur Bank. Why comes in chapter 7"
+    }
+   ],
+   "cards": [
+    {
+     "title": "A polite command: verb first, then Sie",
+     "body": "A command tells someone what to do. It is called the imperative. With Sie, put the verb first and Sie right after it. The verb has the same form as Sie gehen. End with !",
+     "examples": [
+      {
+       "de": "Gehen Sie geradeaus!",
+       "en": "Go straight on!",
+       "why": "Verb first, then Sie.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "geradeaus!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Nehmen Sie die U-Bahn!",
+       "en": "Take the underground!",
+       "why": "Same form as Sie nehmen.",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "die U-Bahn!",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Fahren Sie mit dem Bus!",
+       "en": "Go by bus!",
+       "why": "fahren + Sie.",
+       "parts": [
+        [
+         "Fahren",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Bus!",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "parts": [
+      [
+       "Gehen",
+       "verb"
+      ],
+      [
+       "Sie",
+       "subject"
+      ],
+      [
+       "geradeaus!",
+       "other"
+      ]
+     ],
+     "more": "Imagine a statement: Sie gehen geradeaus. You are saying what they do. Now flip the first two words: Gehen Sie geradeaus! Now you are telling them what to do. Step 1: write the statement with Sie. Step 2: swap the verb and Sie, so the verb goes first. Step 3: add an exclamation mark. The verb form stays the same. Extra example: Sie nehmen das Taxi. becomes Nehmen Sie das Taxi!",
+     "table": {
+      "headers": [
+       "statement",
+       "command"
+      ],
+      "rows": [
+       [
+        "Sie gehen geradeaus.",
+        "Gehen Sie geradeaus!"
+       ],
+       [
+        "Sie nehmen die U-Bahn.",
+        "Nehmen Sie die U-Bahn!"
+       ],
+       [
+        "Sie fahren mit dem Bus.",
+        "Fahren Sie mit dem Bus!"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Command or question? Look at the end mark",
+     "body": "A command and a yes/no question both start with the verb. Only the end mark and your voice are different. ! tells, ? asks. Only sein is odd: Seien Sie nett!",
+     "examples": [
+      {
+       "de": "Gehen Sie geradeaus?",
+       "en": "Do you go straight on?",
+       "why": "Question: ? at the end.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "geradeaus?",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Gehen Sie geradeaus!",
+       "en": "Go straight on!",
+       "why": "Command: ! at the end.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "geradeaus!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Seien Sie nett!",
+       "en": "Be nice!",
+       "why": "sein is the odd one. Just learn Seien Sie.",
+       "parts": [
+        [
+         "Seien",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "nett!",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Two sentences can look the same but mean different things. The little mark at the end tells you. A question mark means: I want to know. An exclamation mark means: please do it. Step 1: look at the first word. A verb? It is a question or a command. Step 2: look at the end mark. Extra example: Nehmen Sie die U-Bahn? asks. Nehmen Sie die U-Bahn! tells. Only sein is odd, so learn Seien Sie as it is.",
+     "table": {
+      "headers": [
+       "sentence",
+       "end mark",
+       "meaning"
+      ],
+      "rows": [
+       [
+        "Gehen Sie links?",
+        "?",
+        "a question"
+       ],
+       [
+        "Gehen Sie links!",
+        "!",
+        "a command"
+       ],
+       [
+        "Sie gehen links.",
+        ".",
+        "a statement"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "bitte and dann: please and then",
+     "body": "bitte means please. It makes a command polite. Put it right after Sie, or at the start. dann means then. Use it to give steps one after another.",
+     "examples": [
+      {
+       "de": "Gehen Sie bitte geradeaus!",
+       "en": "Please go straight on!",
+       "why": "bitte after Sie.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "geradeaus!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Nehmen Sie dann die U-Bahn!",
+       "en": "Then take the underground!",
+       "why": "dann after Sie.",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "dann",
+         "time"
+        ],
+        [
+         "die U-Bahn!",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Bitte nehmen Sie das Taxi!",
+       "en": "Please take the taxi!",
+       "why": "bitte can start the sentence. The verb is still next.",
+       "parts": [
+        [
+         "Bitte",
+         "other"
+        ],
+        [
+         "nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "das Taxi!",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Gehen Sie geradeaus!",
+      "Gehen Sie bitte geradeaus!",
+      "Gehen Sie dann links!"
+     ],
+     "more": "Giving a route is like giving steps in a recipe. First do this. Then do that. bitte is the sweet word that makes the command friendly. Step 1: say the command. Step 2: add bitte after Sie for politeness. Step 3: add dann before the next step. Extra example: Gehen Sie geradeaus. Gehen Sie dann links. = Go straight. Then go left."
+    },
+    {
+     "title": "Directions: links, rechts, geradeaus",
+     "body": "Three direction words: links, rechts, geradeaus. Learn die erste Straße (the first street) and die zweite Straße as pieces. Why erste has an e comes later.",
+     "examples": [
+      {
+       "de": "Gehen Sie links!",
+       "en": "Go left!",
+       "why": "links = left.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "links!",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Gehen Sie rechts!",
+       "en": "Go right!",
+       "why": "rechts = right.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "rechts!",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Nehmen Sie die zweite Straße rechts!",
+       "en": "Take the second street on the right!",
+       "why": "die zweite Straße: one piece.",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "die zweite Straße",
+         "object"
+        ],
+        [
+         "rechts!",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Stand at a crossing and point. Left hand: links. Right hand: rechts. Straight ahead: geradeaus. Step 1: pick the verb: gehen, fahren or nehmen. Step 2: add Sie. Step 3: add the direction. To count streets, use die erste Straße, die zweite Straße. Copy them as they are. Extra example: Nehmen Sie die erste Straße links! = Take the first street on the left.",
+     "table": {
+      "headers": [
+       "German",
+       "English"
+      ],
+      "rows": [
+       [
+        "links",
+        "left"
+       ],
+       [
+        "rechts",
+        "right"
+       ],
+       [
+        "geradeaus",
+        "straight on"
+       ],
+       [
+        "die erste Straße",
+        "the first street"
+       ],
+       [
+        "die zweite Straße",
+        "the second street"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Ask the way: Entschuldigung, … zum / zur …",
+     "body": "Start with Entschuldigung (excuse me). Then ask Wo ist …? or Wie komme ich zum Bahnhof? zum and zur are pieces: learn zum Bahnhof, zum Museum, zur Bank. Why comes in chapter 7.",
+     "examples": [
+      {
+       "de": "Entschuldigung, wo ist der Bahnhof?",
+       "en": "Excuse me, where is the station?",
+       "why": "Wo + ist + thing.",
+       "parts": [
+        [
+         "Entschuldigung,",
+         "other"
+        ],
+        [
+         "wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der Bahnhof?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wie komme ich zum Hafen?",
+       "en": "How do I get to the harbour?",
+       "why": "zum Hafen: one piece.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zum Hafen?",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Wie komme ich zur Kirche?",
+       "en": "How do I get to the church?",
+       "why": "zur Kirche: one piece.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zur Kirche?",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine you are lost. First you get attention: Entschuldigung. Then you ask. Wie komme ich … is the whole question: how do I come to … ? Then add where you want to go. The little piece zum or zur comes before the place. Learn them with the place: zum Bahnhof, zur Bank. Extra example: Wie komme ich zum Museum? = How do I get to the museum?",
+     "table": {
+      "headers": [
+       "place",
+       "piece",
+       "example"
+      ],
+      "rows": [
+       [
+        "der Bahnhof",
+        "zum Bahnhof",
+        "Wie komme ich zum Bahnhof?"
+       ],
+       [
+        "das Museum",
+        "zum Museum",
+        "Wie komme ich zum Museum?"
+       ],
+       [
+        "die Bank",
+        "zur Bank",
+        "Wie komme ich zur Bank?"
+       ],
+       [
+        "die Kirche",
+        "zur Kirche",
+        "Wie komme ich zur Kirche?"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "A whole route: ask and answer",
+     "body": "Now put everything together. One person asks the way with Entschuldigung. The other uses Sie commands, bitte and dann. Herr Ali says Sie, because he does not know Mira.",
+     "examples": [
+      {
+       "de": "Entschuldigung, wie komme ich zum Rathaus?",
+       "en": "Excuse me, how do I get to the town hall?",
+       "why": "Mira asks.",
+       "parts": [
+        [
+         "Entschuldigung,",
+         "other"
+        ],
+        [
+         "wie",
+         "question"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zum Rathaus?",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Gehen Sie geradeaus. Nehmen Sie dann die zweite Straße links.",
+       "en": "Go straight on. Then take the second street on the left.",
+       "why": "Herr Ali gives the route.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "geradeaus.",
+         "other"
+        ],
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "dann",
+         "time"
+        ],
+        [
+         "die zweite Straße",
+         "object"
+        ],
+        [
+         "links.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Das Rathaus ist dort.",
+       "en": "The town hall is over there.",
+       "why": "Herr Ali ends with dort.",
+       "parts": [
+        [
+         "Das Rathaus",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "dort.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "steps": [
+      "Entschuldigung, wie komme ich zum Rathaus?",
+      "Gehen Sie geradeaus.",
+      "Nehmen Sie dann die zweite Straße links.",
+      "Das Rathaus ist dort."
+     ],
+     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Herr Ali and Mira do not know each other, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi."
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:1xYlWmPJmbA",
+     "yt:4ebH7pms42c"
+    ],
+    "nicosWeg": [
+     "nw:a1-42",
+     "nw:a1-41"
+    ],
+    "practice": [
+     "link:dw-deutschtrainer"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which sentence is a polite command?",
+     "options": [
+      "Gehen Sie geradeaus!",
+      "Sie gehen geradeaus."
+     ],
+     "answer": 0,
+     "hint": "A command starts with the verb.",
+     "explanation": "Verb first, then Sie.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "___ Sie geradeaus! (gehen)",
+     "answers": [
+      "Gehen"
+     ],
+     "hint": "Verb first, then Sie. Use the Sie form.",
+     "explanation": "Gehen Sie geradeaus!",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "___ Sie die U-Bahn! (nehmen)",
+     "answers": [
+      "Nehmen"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Nehmen Sie die U-Bahn!",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Take the underground!",
+     "tokens": [
+      "Sie",
+      "die",
+      "U-Bahn!",
+      "Nehmen"
+     ],
+     "answer": [
+      "Nehmen",
+      "Sie",
+      "die",
+      "U-Bahn!"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Nehmen Sie die U-Bahn!",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means left?",
+     "options": [
+      "links",
+      "rechts",
+      "geradeaus"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of directions.",
+     "explanation": "links = left."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Sie gehen links!",
+      "Gehen Sie links!"
+     ],
+     "answer": 1,
+     "hint": "The verb goes first in a command.",
+     "explanation": "Gehen Sie links!",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Take the second street on the right.",
+     "answers": [
+      "Nehmen Sie die zweite Straße rechts!"
+     ],
+     "hint": "Verb first, then Sie, then die zweite Straße.",
+     "explanation": "Nehmen Sie die zweite Straße rechts!",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wie komme ich ___ Bahnhof? (zum / zur)",
+     "answers": [
+      "zum"
+     ],
+     "hint": "Learn zum Bahnhof as one piece.",
+     "explanation": "zum Bahnhof."
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: Excuse me, how do I get to the town hall?",
+    "answers": [
+     "Entschuldigung, wie komme ich zum Rathaus?"
+    ],
+    "hint": "Start with Entschuldigung. Learn zum Rathaus as one piece.",
+    "explanation": "Entschuldigung + Wie komme ich zum Rathaus?",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does geradeaus mean?",
+     "options": [
+      "straight on",
+      "left",
+      "right"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of directions.",
+     "explanation": "geradeaus = straight on."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which command is correct?",
+     "options": [
+      "Fahren Sie mit dem Bus!",
+      "Sie fahren mit dem Bus!"
+     ],
+     "answer": 0,
+     "hint": "A command starts with the verb.",
+     "explanation": "Verb first, then Sie.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "___ Sie bitte links! (gehen)",
+     "answers": [
+      "Gehen"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Gehen Sie bitte links!",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "___ Sie das Taxi! (nehmen)",
+     "answers": [
+      "Nehmen"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Nehmen Sie das Taxi!",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Go straight on!",
+     "tokens": [
+      "Sie",
+      "geradeaus!",
+      "Gehen"
+     ],
+     "answer": [
+      "Gehen",
+      "Sie",
+      "geradeaus!"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Gehen Sie geradeaus!",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: Then take the first street.",
+     "tokens": [
+      "Sie",
+      "dann",
+      "die",
+      "erste",
+      "Straße!",
+      "Nehmen"
+     ],
+     "answer": [
+      "Nehmen",
+      "Sie",
+      "dann",
+      "die",
+      "erste",
+      "Straße!"
+     ],
+     "hint": "dann comes right after Sie.",
+     "explanation": "Nehmen Sie dann die erste Straße!",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence asks a question?",
+     "options": [
+      "Gehen Sie geradeaus?",
+      "Gehen Sie geradeaus!"
+     ],
+     "answer": 0,
+     "hint": "A question ends with ?.",
+     "explanation": "? means a question.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word means please?",
+     "options": [
+      "bitte",
+      "dann",
+      "dort"
+     ],
+     "answer": 0,
+     "hint": "Look at the card about bitte and dann.",
+     "explanation": "bitte = please."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which piece goes with die Bank?",
+     "options": [
+      "zur Bank",
+      "zum Bank"
+     ],
+     "answer": 0,
+     "hint": "Learn zur Bank as one piece.",
+     "explanation": "zur Bank."
+    },
+    {
+     "type": "type",
+     "prompt": "Wie komme ich ___ Museum? (zum / zur)",
+     "answers": [
+      "zum"
+     ],
+     "hint": "Learn zum Museum as one piece.",
+     "explanation": "zum Museum."
+    },
+    {
+     "type": "choice",
+     "prompt": "Herr Ali says: Nehmen Sie die U-Bahn! What does he say?",
+     "options": [
+      "Take the underground!",
+      "I take the underground."
+     ],
+     "answer": 0,
+     "hint": "A command starts with the verb.",
+     "explanation": "Nehmen Sie = you take, as a command."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "links",
+     "en": "left",
+     "examples": [
+      {
+       "de": "Gehen Sie links!",
+       "en": "Go left!"
+      },
+      {
+       "de": "Das Hotel ist links.",
+       "en": "The hotel is on the left."
+      }
+     ]
+    },
+    {
+     "de": "rechts",
+     "en": "right",
+     "examples": [
+      {
+       "de": "Nehmen Sie die erste Straße rechts!",
+       "en": "Take the first street on the right!"
+      },
+      {
+       "de": "Die Bank ist rechts.",
+       "en": "The bank is on the right."
+      }
+     ]
+    },
+    {
+     "de": "geradeaus",
+     "en": "straight on",
+     "examples": [
+      {
+       "de": "Gehen Sie geradeaus!",
+       "en": "Go straight on!"
+      },
+      {
+       "de": "Der Bahnhof ist geradeaus.",
+       "en": "The station is straight on."
+      }
+     ]
+    },
+    {
+     "de": "dann",
+     "en": "then",
+     "examples": [
+      {
+       "de": "Gehen Sie dann links!",
+       "en": "Then go left!"
+      },
+      {
+       "de": "Nehmen Sie dann die U-Bahn!",
+       "en": "Then take the underground!"
+      }
+     ]
+    },
+    {
+     "de": "bitte",
+     "en": "please",
+     "examples": [
+      {
+       "de": "Gehen Sie bitte geradeaus!",
+       "en": "Please go straight on!"
+      },
+      {
+       "de": "Nehmen Sie bitte das Taxi!",
+       "en": "Please take the taxi!"
+      }
+     ]
+    },
+    {
+     "de": "Entschuldigung",
+     "en": "excuse me, sorry",
+     "examples": [
+      {
+       "de": "Entschuldigung, wo ist der Bahnhof?",
+       "en": "Excuse me, where is the station?"
+      },
+      {
+       "de": "Entschuldigung, wie komme ich zum Hafen?",
+       "en": "Excuse me, how do I get to the harbour?"
+      }
+     ]
+    },
+    {
+     "de": "nehmen",
+     "forms": "nimmt, hat genommen",
+     "en": "to take",
+     "examples": [
+      {
+       "de": "Nehmen Sie die U-Bahn!",
+       "en": "Take the underground!"
+      },
+      {
+       "de": "Ich nehme das Taxi.",
+       "en": "I take the taxi."
+      }
+     ]
+    },
+    {
+     "de": "Ampel",
+     "en": "traffic light",
+     "examples": [
+      {
+       "de": "Da ist eine Ampel.",
+       "en": "There is a traffic light."
+      },
+      {
+       "de": "Die Ampel ist dort.",
+       "en": "The traffic light is over there."
+      }
+     ],
+     "article": "die",
+     "plural": "die Ampeln"
+    },
+    {
+     "de": "Kreuzung",
+     "en": "crossing, junction",
+     "examples": [
+      {
+       "de": "Das ist eine Kreuzung.",
+       "en": "That is a crossing."
+      },
+      {
+       "de": "Die Kreuzung ist da.",
+       "en": "The crossing is there."
+      }
+     ],
+     "article": "die",
+     "plural": "die Kreuzungen"
+    },
+    {
+     "de": "weit",
+     "en": "far",
+     "examples": [
+      {
+       "de": "Ist der Bahnhof weit?",
+       "en": "Is the station far?"
+      },
+      {
+       "de": "Das Rathaus ist nicht weit.",
+       "en": "The town hall is not far."
+      }
+     ]
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Ask a stranger the way to the station.",
+     "Tell someone to go straight on.",
+     "Tell someone to take the underground."
+    ],
+    "examples": [
+     "Entschuldigung, wie komme ich zum Bahnhof?",
+     "Gehen Sie geradeaus!",
+     "Nehmen Sie die U-Bahn!"
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: Go right!",
+     "answers": [
+      "Gehen Sie rechts!"
+     ],
+     "hint": "Verb first, then Sie.",
+     "explanation": "Gehen Sie rechts!"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Please take the taxi!",
+     "answers": [
+      "Nehmen Sie bitte das Taxi!",
+      "Bitte nehmen Sie das Taxi!"
+     ],
+     "hint": "Verb and Sie, and bitte for please.",
+     "explanation": "Nehmen Sie bitte das Taxi!"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: Excuse me, where is the station?",
+     "answers": [
+      "Entschuldigung, wo ist der Bahnhof?"
+     ],
+     "hint": "Start with Entschuldigung, then Wo ist …?",
+     "explanation": "Entschuldigung, wo ist der Bahnhof?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: How do I get to the bank?",
+     "answers": [
+      "Wie komme ich zur Bank?"
+     ],
+     "hint": "Learn zur Bank as one piece.",
+     "explanation": "Wie komme ich zur Bank?"
+    }
+   ]
+  },
+  {
+   "id": "a1-c03-06",
+   "level": "a1",
+   "chapter": 3,
+   "n": 6,
+   "title": "Months and seasons, long and short vowels",
+   "goal": "Say when something happens with im + month or season, and hear long and short vowels.",
+   "minutes": 30,
+   "printedPages": [
+    36,
+    37
+   ],
+   "grammar": {
+    "topic": "time-expressions",
+    "point": "im + month or season says in that month or season; the verb stays in position 2 when the time comes first",
+    "oneLine": "im Januar, im Sommer. Wann …? – Im Mai. Time first: the verb is still part 2.",
+    "mistake": {
+     "wrong": "Im Mai ich spiele Tennis.",
+     "right": "Im Mai spiele ich Tennis.",
+     "why": "The verb is always part 2, so ich goes after it."
+    }
+   },
+   "terms": [
+    {
+     "term": "month",
+     "meaning": "one of the twelve parts of the year"
+    },
+    {
+     "term": "season",
+     "meaning": "one of the four parts of the year: spring, summer, autumn, winter"
+    },
+    {
+     "term": "long vowel",
+     "meaning": "a vowel you hold, like the a in Staat"
+    },
+    {
+     "term": "short vowel",
+     "meaning": "a vowel you say quickly, like the a in Stadt"
+    }
+   ],
+   "cards": [
+    {
+     "title": "The twelve months",
+     "body": "German has twelve months. Learn them in order and say them out loud. Every month is a der-word: der Januar, der Mai. The year is das Jahr.",
+     "examples": [
+      {
+       "de": "Der Mai ist schön.",
+       "en": "May is nice.",
+       "why": "der Mai: a der-word.",
+       "parts": [
+        [
+         "Der Mai",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Der August ist sehr schön.",
+       "en": "August is very nice.",
+       "why": "der August: a der-word.",
+       "parts": [
+        [
+         "Der August",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Jahr hat zwölf Monate.",
+       "en": "The year has twelve months.",
+       "why": "zwölf from chapter 2.",
+       "parts": [
+        [
+         "Das Jahr",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "zwölf Monate.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a row of twelve boxes, one for each month. They are in the same order as in English, and many look almost the same: Januar, Juli, August. Step 1: say all twelve in order. Step 2: learn the four that look different: März, Mai, Juni, Oktober. Step 3: remember they are all der-words. Extra example: Der Juli ist ein Monat. = July is a month.",
+     "table": {
+      "headers": [
+       "1",
+       "2",
+       "3",
+       "4"
+      ],
+      "rows": [
+       [
+        "Januar",
+        "Februar",
+        "März",
+        "April"
+       ],
+       [
+        "Mai",
+        "Juni",
+        "Juli",
+        "August"
+       ],
+       [
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "im + month: when?",
+     "body": "To say in a month, put im before it: im Mai, im Januar. im is one piece. Ask with Wann? (when?). The verb is part 2.",
+     "examples": [
+      {
+       "de": "Wann kommst du nach Hamburg?",
+       "en": "When do you come to Hamburg?",
+       "why": "Wann + verb + du.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "nach Hamburg?",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich komme im Mai.",
+       "en": "I come in May.",
+       "why": "im + month.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "im Mai.",
+         "time"
+        ]
+       ]
+      },
+      {
+       "de": "Wann hast du Zeit?",
+       "en": "When do you have time?",
+       "why": "Wann + hast + du.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Zeit?",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "You know am Montag from chapter 2. For months, German uses im instead of am. Learn im Mai as one block. Step 1: ask Wann? Step 2: answer with im and the month. Step 3: keep the verb in part 2. Why it is im and not am comes in chapter 7. Extra example: Wann kommst du? Ich komme im Juli. = When do you come? I come in July.",
+     "table": {
+      "headers": [
+       "month",
+       "in the month"
+      ],
+      "rows": [
+       [
+        "Januar",
+        "im Januar"
+       ],
+       [
+        "Mai",
+        "im Mai"
+       ],
+       [
+        "Oktober",
+        "im Oktober"
+       ],
+       [
+        "Dezember",
+        "im Dezember"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "The four seasons",
+     "body": "There are four seasons, and each is a der-word. Use im before them too: im Frühling, im Sommer, im Herbst, im Winter. Germany, Austria and Switzerland all have the four seasons.",
+     "examples": [
+      {
+       "de": "Ich bin im Frühling in Hamburg.",
+       "en": "I am in Hamburg in spring.",
+       "why": "im + season.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "im Frühling",
+         "time"
+        ],
+        [
+         "in Hamburg.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Wir schwimmen im Sommer gern.",
+       "en": "We like to swim in summer.",
+       "why": "im + season.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "schwimmen",
+         "verb"
+        ],
+        [
+         "im Sommer",
+         "time"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Im Herbst fahre ich nach Wien.",
+       "en": "In autumn I go to Vienna.",
+       "why": "Time first: the verb is still part 2.",
+       "parts": [
+        [
+         "Im Herbst",
+         "time"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "nach Wien.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "A year is a circle of four parts. Spring is the start, when things grow. Summer is warm. Autumn is when leaves fall. Winter is cold. Step 1: learn the four words with der. Step 2: add im to say in the season. Step 3: say the whole sentence. Extra example: Im Winter koche ich gern. = In winter I like to cook.",
+     "table": {
+      "headers": [
+       "season",
+       "months",
+       "say it"
+      ],
+      "rows": [
+       [
+        "der Frühling",
+        "März, April, Mai",
+        "im Frühling"
+       ],
+       [
+        "der Sommer",
+        "Juni, Juli, August",
+        "im Sommer"
+       ],
+       [
+        "der Herbst",
+        "September, Oktober, November",
+        "im Herbst"
+       ],
+       [
+        "der Winter",
+        "Dezember, Januar, Februar",
+        "im Winter"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Start with the time: the verb stays second",
+     "body": "You can put im Mai first. Then the verb is still part 2, so the subject moves behind it. It is the same rule as with am Montag in chapter 2.",
+     "examples": [
+      {
+       "de": "Ich spiele im Mai Tennis.",
+       "en": "I play tennis in May.",
+       "why": "Chair 1 is ich.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "im Mai",
+         "time"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Im Mai spiele ich Tennis.",
+       "en": "In May I play tennis.",
+       "why": "Chair 1 is im Mai: the verb is still part 2.",
+       "parts": [
+        [
+         "Im Mai",
+         "time"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Wann fährst du nach Berlin?",
+       "en": "When do you go to Berlin?",
+       "why": "Question word first, then the verb.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "fährst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "nach Berlin?",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Remember the chairs. The verb always sits on chair 2. If you put im Mai on chair 1, the verb stays on chair 2 and ich has to move to chair 3. Step 1: pick what goes on chair 1. Step 2: put the verb on chair 2. Step 3: put everything else after it. Extra example: Im Sommer schwimme ich gern. = In summer I like to swim.",
+     "table": {
+      "headers": [
+       "chair 1",
+       "chair 2 (verb)",
+       "chair 3",
+       "chair 4"
+      ],
+      "rows": [
+       [
+        "Ich",
+        "spiele",
+        "im Mai",
+        "Tennis."
+       ],
+       [
+        "Im Mai",
+        "spiele",
+        "ich",
+        "Tennis."
+       ],
+       [
+        "Wann",
+        "fährst",
+        "du",
+        "nach Berlin?"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Hamburg through the year",
+     "body": "Use im + month or season for events. Hamburg has a big harbour party in May. A big fair, the Dom, takes place in spring, summer and winter. Ask Wann ist …?",
+     "examples": [
+      {
+       "de": "Wann ist der Hafengeburtstag?",
+       "en": "When is the harbour birthday?",
+       "why": "Wann + ist + thing.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der Hafengeburtstag?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Der Hafengeburtstag ist im Mai.",
+       "en": "The harbour birthday is in May.",
+       "why": "im Mai.",
+       "parts": [
+        [
+         "Der Hafengeburtstag",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "im Mai.",
+         "time"
+        ]
+       ]
+      },
+      {
+       "de": "Der Dom in Hamburg ist im Frühling, im Sommer und im Winter.",
+       "en": "The Dom in Hamburg is in spring, in summer and in winter.",
+       "why": "Three times, joined with und.",
+       "parts": [
+        [
+         "Der Dom in Hamburg",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "im Frühling,",
+         "time"
+        ],
+        [
+         "im Sommer",
+         "time"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "im Winter.",
+         "time"
+        ]
+       ]
+      }
+     ],
+     "more": "Hamburg celebrates its harbour every year in May. The city also has a big fair, the Dom, three times a year. Use these to practise. Step 1: ask Wann ist …? Step 2: answer with the event, ist and im + month or season. Step 3: join two or three times with und. Extra example: Der Weihnachtsmarkt ist im Winter. = The Christmas market is in winter.",
+     "table": {
+      "headers": [
+       "event",
+       "when"
+      ],
+      "rows": [
+       [
+        "der Hafengeburtstag (harbour birthday)",
+        "im Mai"
+       ],
+       [
+        "der Dom (big fair)",
+        "im Frühling, im Sommer, im Winter"
+       ],
+       [
+        "der Weihnachtsmarkt (Christmas market)",
+        "im Winter"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Long and short vowels",
+     "body": "A vowel can be long or short. Staat has a long a. Stadt has a short a. The spelling gives a clue. h or a double vowel after it: long. A double consonant or several consonants after it: short.",
+     "examples": [
+      {
+       "de": "Hamburg ist eine Stadt.",
+       "en": "Hamburg is a city. (short a)",
+       "why": "Stadt: d and t after the a: short.",
+       "parts": [
+        [
+         "Hamburg",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Stadt.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Hamburg ist ein Staat.",
+       "en": "Hamburg is a state. (long a)",
+       "why": "Staat: aa: long.",
+       "parts": [
+        [
+         "Hamburg",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Staat.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Die Bahn ist neu.",
+       "en": "The railway is new. (long a)",
+       "why": "Bahn: ah: long. Compare Bank: nk: short.",
+       "parts": [
+        [
+         "Die Bahn",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Say the pair Staat and Stadt out loud. In Staat you hold the a, like in ahhh. In Stadt the a is quick, like a tap. English has this too: think of bean and bin. Step 1: look at the letters after the vowel. Step 2: h, aa, ee, oo or ie: hold it. Step 3: two or more consonants: make it quick. Extra pair: Bahn is long and Bank is short.",
+     "table": {
+      "headers": [
+       "spelling clue",
+       "vowel",
+       "example"
+      ],
+      "rows": [
+       [
+        "h after the vowel",
+        "long",
+        "Bahn, geht"
+       ],
+       [
+        "double vowel (aa)",
+        "long",
+        "Staat"
+       ],
+       [
+        "ie",
+        "long i",
+        "liest"
+       ],
+       [
+        "double consonant",
+        "short",
+        "komme, Tennis"
+       ],
+       [
+        "two or more consonants",
+        "short",
+        "Bank, Stadt"
+       ]
+      ]
+     }
+    }
+   ],
+   "media": {
+    "grammarVideos": [
+     "yt:Vg7Df5o9JU0",
+     "yt:6hHDoDo7PNo"
+    ],
+    "nicosWeg": [
+     "nw:a1-54"
+    ],
+    "practice": [
+     "link:lingolia-sentence-structure"
+    ]
+   },
+   "drills": [
+    {
+     "type": "choice",
+     "prompt": "Which piece means in May?",
+     "options": [
+      "im Mai",
+      "am Mai",
+      "in Mai"
+     ],
+     "answer": 0,
+     "hint": "For months, learn im as one piece.",
+     "explanation": "in May = im Mai."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: in June",
+     "answers": [
+      "im Juni"
+     ],
+     "hint": "im + the month.",
+     "explanation": "im Juni."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which month is the first month of the year?",
+     "options": [
+      "Januar",
+      "Dezember",
+      "Mai"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of months.",
+     "explanation": "Januar is the first month."
+    },
+    {
+     "type": "type",
+     "prompt": "Ich komme ___ Sommer. (im / am)",
+     "answers": [
+      "im"
+     ],
+     "hint": "For seasons, use im.",
+     "explanation": "im Sommer.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: I play tennis in May.",
+     "tokens": [
+      "spiele",
+      "im",
+      "Mai",
+      "Tennis.",
+      "Ich"
+     ],
+     "answer": [
+      "Ich",
+      "spiele",
+      "im",
+      "Mai",
+      "Tennis."
+     ],
+     "hint": "Ich, then the verb, then the rest.",
+     "explanation": "Ich spiele im Mai Tennis.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: In May I play tennis.",
+     "tokens": [
+      "Mai",
+      "spiele",
+      "ich",
+      "Tennis.",
+      "Im"
+     ],
+     "answer": [
+      "Im",
+      "Mai",
+      "spiele",
+      "ich",
+      "Tennis."
+     ],
+     "hint": "The verb stays part 2, so ich moves behind it.",
+     "explanation": "Im Mai spiele ich Tennis.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Im Mai ich spiele Tennis.",
+      "Im Mai spiele ich Tennis."
+     ],
+     "answer": 1,
+     "hint": "The verb is always part 2.",
+     "explanation": "Im Mai (1), spiele (2), ich (3).",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "In which word is the a long?",
+     "options": [
+      "Staat",
+      "Stadt"
+     ],
+     "answer": 0,
+     "hint": "A double vowel means long.",
+     "explanation": "Staat has aa: long.",
+     "grammar": true
+    }
+   ],
+   "blind": {
+    "type": "type",
+    "prompt": "Write in German: In July I go to Hamburg by train.",
+    "answers": [
+     "Im Juli fahre ich mit dem Zug nach Hamburg.",
+     "Ich fahre im Juli mit dem Zug nach Hamburg."
+    ],
+    "hint": "If im Juli is first, the verb is part 2.",
+    "explanation": "Im Juli + fahre + ich + mit dem Zug + nach Hamburg.",
+    "grammar": true
+   },
+   "check": [
+    {
+     "type": "choice",
+     "prompt": "What does der Winter mean?",
+     "options": [
+      "winter",
+      "summer",
+      "autumn"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of seasons.",
+     "explanation": "der Winter = winter."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which season is der Herbst?",
+     "options": [
+      "autumn",
+      "spring",
+      "summer"
+     ],
+     "answer": 0,
+     "hint": "Look at the table of seasons.",
+     "explanation": "der Herbst = autumn."
+    },
+    {
+     "type": "type",
+     "prompt": "Ich komme ___ Dezember. (im / am)",
+     "answers": [
+      "im"
+     ],
+     "hint": "For months, use im.",
+     "explanation": "im Dezember.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Wir schwimmen ___ Sommer gern. (im / am)",
+     "answers": [
+      "im"
+     ],
+     "hint": "For seasons, use im.",
+     "explanation": "im Sommer.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: In summer I swim.",
+     "tokens": [
+      "Sommer",
+      "schwimme",
+      "ich.",
+      "Im"
+     ],
+     "answer": [
+      "Im",
+      "Sommer",
+      "schwimme",
+      "ich."
+     ],
+     "hint": "The verb stays part 2.",
+     "explanation": "Im Sommer schwimme ich.",
+     "grammar": true
+    },
+    {
+     "type": "build",
+     "prompt": "Build: When do you come?",
+     "tokens": [
+      "kommst",
+      "du?",
+      "Wann"
+     ],
+     "answer": [
+      "Wann",
+      "kommst",
+      "du?"
+     ],
+     "hint": "Question word, then the verb.",
+     "explanation": "Wann kommst du?",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "Which sentence is right?",
+     "options": [
+      "Wann du kommst?",
+      "Wann kommst du?"
+     ],
+     "answer": 1,
+     "hint": "In a W-question the verb is part 2.",
+     "explanation": "Wann + kommst + du.",
+     "grammar": true
+    },
+    {
+     "type": "type",
+     "prompt": "Im Herbst ___ ich nach Wien. (fahren)",
+     "answers": [
+      "fahre"
+     ],
+     "hint": "ich takes -e.",
+     "explanation": "Im Herbst fahre ich nach Wien.",
+     "grammar": true
+    },
+    {
+     "type": "choice",
+     "prompt": "When is the harbour birthday in Hamburg?",
+     "options": [
+      "im Mai",
+      "im Dezember"
+     ],
+     "answer": 0,
+     "hint": "Look at the card about Hamburg.",
+     "explanation": "Der Hafengeburtstag is in May."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which word has a short a?",
+     "options": [
+      "Stadt",
+      "Staat",
+      "Bahn"
+     ],
+     "answer": 0,
+     "hint": "Look at the spelling clues.",
+     "explanation": "Stadt: two consonants after a: short."
+    },
+    {
+     "type": "choice",
+     "prompt": "Which spelling clue means a long vowel?",
+     "options": [
+      "h after the vowel, like Bahn",
+      "double consonant, like komme"
+     ],
+     "answer": 0,
+     "hint": "Look at the clue table.",
+     "explanation": "h after the vowel: long."
+    }
+   ],
+   "vocabulary": [
+    {
+     "de": "Frühling",
+     "en": "spring",
+     "examples": [
+      {
+       "de": "Im Frühling bin ich in Hamburg.",
+       "en": "In spring I am in Hamburg."
+      },
+      {
+       "de": "Der Frühling ist schön.",
+       "en": "Spring is nice."
+      }
+     ],
+     "article": "der",
+     "plural": "die Frühlinge"
+    },
+    {
+     "de": "Sommer",
+     "en": "summer",
+     "examples": [
+      {
+       "de": "Im Sommer schwimme ich gern.",
+       "en": "In summer I like to swim."
+      },
+      {
+       "de": "Der Sommer ist sehr schön.",
+       "en": "Summer is very nice."
+      }
+     ],
+     "article": "der",
+     "plural": "die Sommer"
+    },
+    {
+     "de": "Herbst",
+     "en": "autumn, fall",
+     "examples": [
+      {
+       "de": "Im Herbst fahre ich nach Wien.",
+       "en": "In autumn I go to Vienna."
+      },
+      {
+       "de": "Der Herbst ist ruhig.",
+       "en": "Autumn is quiet."
+      }
+     ],
+     "article": "der",
+     "plural": "die Herbste"
+    },
+    {
+     "de": "Winter",
+     "en": "winter",
+     "examples": [
+      {
+       "de": "Im Winter koche ich gern.",
+       "en": "In winter I like to cook."
+      },
+      {
+       "de": "Wir sind im Winter in Wien.",
+       "en": "We are in Vienna in winter."
+      }
+     ],
+     "article": "der",
+     "plural": "die Winter"
+    },
+    {
+     "de": "Januar",
+     "en": "January",
+     "examples": [
+      {
+       "de": "Im Januar bin ich müde.",
+       "en": "In January I am tired."
+      },
+      {
+       "de": "Wann kommst du? Im Januar.",
+       "en": "When do you come? In January."
+      }
+     ],
+     "article": "der"
+    },
+    {
+     "de": "Mai",
+     "en": "May",
+     "examples": [
+      {
+       "de": "Im Mai spiele ich Tennis.",
+       "en": "In May I play tennis."
+      },
+      {
+       "de": "Der Mai ist schön.",
+       "en": "May is nice."
+      }
+     ],
+     "article": "der"
+    },
+    {
+     "de": "August",
+     "en": "August",
+     "examples": [
+      {
+       "de": "Im August fahren wir nach Italien.",
+       "en": "In August we go to Italy."
+      },
+      {
+       "de": "Der August ist sehr schön.",
+       "en": "August is very nice."
+      }
+     ],
+     "article": "der"
+    },
+    {
+     "de": "Dezember",
+     "en": "December",
+     "examples": [
+      {
+       "de": "Im Dezember koche ich viel.",
+       "en": "In December I cook a lot."
+      },
+      {
+       "de": "Wann bist du in Hamburg? Im Dezember.",
+       "en": "When are you in Hamburg? In December."
+      }
+     ],
+     "article": "der"
+    },
+    {
+     "de": "Monat",
+     "en": "month",
+     "examples": [
+      {
+       "de": "Der Mai ist ein Monat.",
+       "en": "May is a month."
+      },
+      {
+       "de": "Das Jahr hat zwölf Monate.",
+       "en": "The year has twelve months."
+      }
+     ],
+     "article": "der",
+     "plural": "die Monate"
+    },
+    {
+     "de": "Jahreszeit",
+     "en": "season",
+     "examples": [
+      {
+       "de": "Der Winter ist eine Jahreszeit.",
+       "en": "Winter is a season."
+      },
+      {
+       "de": "Das Jahr hat vier Jahreszeiten.",
+       "en": "The year has four seasons."
+      }
+     ],
+     "article": "die",
+     "plural": "die Jahreszeiten"
+    }
+   ],
+   "speaking": {
+    "prompts": [
+     "Say when you come to Hamburg.",
+     "Say what you do in summer.",
+     "Say when the harbour birthday is."
+    ],
+    "examples": [
+     "Ich komme im Mai.",
+     "Im Sommer schwimme ich gern.",
+     "Der Hafengeburtstag ist im Mai."
+    ]
+   },
+   "retrieval": [
+    {
+     "type": "type",
+     "prompt": "Write in German: in January",
+     "answers": [
+      "im Januar"
+     ],
+     "hint": "im + the month.",
+     "explanation": "im Januar."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: I come in August.",
+     "answers": [
+      "Ich komme im August.",
+      "Im August komme ich."
+     ],
+     "hint": "Ich + komme + im August.",
+     "explanation": "Ich komme im August."
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: When do you have time?",
+     "answers": [
+      "Wann hast du Zeit?"
+     ],
+     "hint": "Wann, then the verb, then du.",
+     "explanation": "Wann hast du Zeit?"
+    },
+    {
+     "type": "type",
+     "prompt": "Write in German: In winter we cook.",
+     "answers": [
+      "Im Winter kochen wir.",
+      "Wir kochen im Winter."
+     ],
+     "hint": "The verb stays part 2, so wir goes behind it.",
+     "explanation": "Im Winter kochen wir."
+    }
+   ]
+  }
+ ],
+ "skillDays": [
+  {
+   "id": "a1-c03-d1",
+   "level": "a1",
+   "chapter": 3,
+   "day": 1,
+   "reading": {
+    "title": "Willkommen in Hamburg",
+    "text": "Anna: Hallo, Mira! Willkommen in Hamburg!\nMira: Danke, Anna! Ich komme mit dem Zug aus Wien. Ich bin müde.\nAnna: Das ist der Bahnhof. Er ist alt. Hier ist die U-Bahn.\nMira: Was ist das? Ist das ein Kino?\nAnna: Nein, das ist kein Kino. Das ist das Rathaus.\nMira: Und das? Ist das eine Bank?\nAnna: Nein, das ist keine Bank. Das ist eine Kirche, der Michel.\nMira: Wo ist der Hafen?\nAnna: Dort! Ben ist auch dort. Er geht zu Fuß. Wir fahren mit dem Bus.\nMira: Super! Ich habe Zeit und Hunger.",
+    "glossary": [
+     {
+      "de": "Willkommen",
+      "en": "welcome"
+     },
+     {
+      "de": "der Michel",
+      "en": "Hamburg's famous church (St. Michaelis)"
+     }
+    ],
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where does Mira come from?",
+      "options": [
+       "Vienna",
+       "Hamburg",
+       "Berlin"
+      ],
+      "answer": 0,
+      "hint": "Look at Mira's first line.",
+      "explanation": "Ich komme mit dem Zug aus Wien."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Mira travel to Hamburg?",
+      "options": [
+       "by train",
+       "by bus",
+       "on foot"
+      ],
+      "answer": 0,
+      "hint": "Look for mit dem.",
+      "explanation": "Ich komme mit dem Zug."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Mira feel?",
+      "options": [
+       "tired",
+       "sick"
+      ],
+      "answer": 0,
+      "hint": "Look for bin.",
+      "explanation": "Ich bin müde."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is old?",
+      "options": [
+       "the station",
+       "the cinema",
+       "the church"
+      ],
+      "answer": 0,
+      "hint": "Look at Anna's second line.",
+      "explanation": "Der Bahnhof: Er ist alt."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the first building Mira asks about?",
+      "options": [
+       "the town hall",
+       "a cinema",
+       "a bank"
+      ],
+      "answer": 0,
+      "hint": "Anna says what it really is.",
+      "explanation": "Das ist das Rathaus."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is the second building a bank?",
+      "options": [
+       "no, it is a church",
+       "yes, it is a bank"
+      ],
+      "answer": 0,
+      "hint": "Look for keine.",
+      "explanation": "Das ist keine Bank. Das ist eine Kirche."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the Michel?",
+      "options": [
+       "a church",
+       "a museum",
+       "a market"
+      ],
+      "answer": 0,
+      "hint": "Look at Anna's line about the church.",
+      "explanation": "Das ist eine Kirche, der Michel."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where is Ben?",
+      "options": [
+       "at the harbour",
+       "at the station",
+       "at the cinema"
+      ],
+      "answer": 0,
+      "hint": "Anna answers Wo ist der Hafen?",
+      "explanation": "Ben ist auch dort (am Hafen)."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Ben travel?",
+      "options": [
+       "on foot",
+       "by bus"
+      ],
+      "answer": 0,
+      "hint": "Look for Fuß.",
+      "explanation": "Er geht zu Fuß."
+     },
+     {
+      "type": "choice",
+      "prompt": "How do Anna and Mira travel?",
+      "options": [
+       "by bus",
+       "by underground"
+      ],
+      "answer": 0,
+      "hint": "Look for wir fahren.",
+      "explanation": "Wir fahren mit dem Bus."
+     }
+    ]
+   },
+   "listening": {
+    "title": "Wie fährst du?",
+    "script": "Ben: Hallo, Mira! Wie fährst du nach Hamburg?\nMira: Ich fahre mit dem Zug. Und du, Ben?\nBen: Ich wohne in Hamburg. Ich fahre mit dem Fahrrad.\nMira: Super! Wo ist das Hotel?\nBen: Das Hotel ist dort. Da ist auch ein Café.\nMira: Ist das ein Kino?\nBen: Nein, das ist kein Kino. Das ist ein Museum.\nMira: Und das? Ist das eine Bank?\nBen: Ja, das ist eine Bank. Wir gehen zu Fuß, Mira.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "How does Mira travel to Hamburg?",
+      "options": [
+       "by train",
+       "by bus"
+      ],
+      "answer": 0,
+      "hint": "Listen to Mira's first answer.",
+      "explanation": "Ich fahre mit dem Zug."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Ben travel?",
+      "options": [
+       "by bike",
+       "on foot"
+      ],
+      "answer": 0,
+      "hint": "Listen to Ben's first answer.",
+      "explanation": "Ich fahre mit dem Fahrrad."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Ben live?",
+      "options": [
+       "in Hamburg",
+       "in Vienna"
+      ],
+      "answer": 0,
+      "hint": "Listen for wohne.",
+      "explanation": "Ich wohne in Hamburg."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Mira look for?",
+      "options": [
+       "the hotel",
+       "the station"
+      ],
+      "answer": 0,
+      "hint": "Listen to her question with wo.",
+      "explanation": "Wo ist das Hotel?"
+     },
+     {
+      "type": "choice",
+      "prompt": "Where is the hotel?",
+      "options": [
+       "over there",
+       "here"
+      ],
+      "answer": 0,
+      "hint": "Listen for the little word.",
+      "explanation": "Das Hotel ist dort."
+     },
+     {
+      "type": "choice",
+      "prompt": "What else is there?",
+      "options": [
+       "a café",
+       "a church"
+      ],
+      "answer": 0,
+      "hint": "Listen for da.",
+      "explanation": "Da ist auch ein Café."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is the first place a cinema?",
+      "options": [
+       "no",
+       "yes"
+      ],
+      "answer": 0,
+      "hint": "Listen for kein.",
+      "explanation": "Das ist kein Kino."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is it?",
+      "options": [
+       "a museum",
+       "a bank"
+      ],
+      "answer": 0,
+      "hint": "Listen to Ben's answer.",
+      "explanation": "Das ist ein Museum."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is the second place a bank?",
+      "options": [
+       "yes",
+       "no"
+      ],
+      "answer": 0,
+      "hint": "Listen to the last answer.",
+      "explanation": "Ja, das ist eine Bank."
+     },
+     {
+      "type": "choice",
+      "prompt": "How do Ben and Mira go?",
+      "options": [
+       "on foot",
+       "by bus",
+       "by train"
+      ],
+      "answer": 0,
+      "hint": "Listen to the last line.",
+      "explanation": "Wir gehen zu Fuß."
+     }
+    ]
+   },
+   "writing": {
+    "items": [
+     {
+      "type": "type",
+      "prompt": "Das ist ___ Hotel. (ein / eine)",
+      "answers": [
+       "ein"
+      ],
+      "hint": "Hotel is a das-word.",
+      "explanation": "das Hotel becomes ein Hotel."
+     },
+     {
+      "type": "type",
+      "prompt": "Das ist ___ Kirche. (ein / eine)",
+      "answers": [
+       "eine"
+      ],
+      "hint": "Kirche is a die-word.",
+      "explanation": "die Kirche becomes eine Kirche."
+     },
+     {
+      "type": "type",
+      "prompt": "Das ist ___ Museum. (kein / keine)",
+      "answers": [
+       "kein"
+      ],
+      "hint": "Museum is a das-word.",
+      "explanation": "kein Museum."
+     },
+     {
+      "type": "type",
+      "prompt": "Das sind ___ Parks. (kein / keine)",
+      "answers": [
+       "keine"
+      ],
+      "hint": "Many things: keine.",
+      "explanation": "keine Parks."
+     },
+     {
+      "type": "type",
+      "prompt": "Ich ___ mit dem Zug. (fahren)",
+      "answers": [
+       "fahre"
+      ],
+      "hint": "ich takes -e.",
+      "explanation": "Ich fahre mit dem Zug."
+     },
+     {
+      "type": "type",
+      "prompt": "Anna ___ zu Fuß. (gehen)",
+      "answers": [
+       "geht"
+      ],
+      "hint": "A name works like er/sie: -t.",
+      "explanation": "Anna geht zu Fuß."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Where is the station?",
+      "tokens": [
+       "ist",
+       "der",
+       "Bahnhof?",
+       "Wo"
+      ],
+      "answer": [
+       "Wo",
+       "ist",
+       "der",
+       "Bahnhof?"
+      ],
+      "hint": "Wo, then ist, then the thing.",
+      "explanation": "Wo ist der Bahnhof?"
+     },
+     {
+      "type": "build",
+      "prompt": "Build: By bus I go to Hamburg.",
+      "tokens": [
+       "dem",
+       "Bus",
+       "fahre",
+       "ich",
+       "nach",
+       "Hamburg.",
+       "Mit"
+      ],
+      "answer": [
+       "Mit",
+       "dem",
+       "Bus",
+       "fahre",
+       "ich",
+       "nach",
+       "Hamburg."
+      ],
+      "hint": "The verb stays part 2.",
+      "explanation": "Mit dem Bus fahre ich nach Hamburg."
+     },
+     {
+      "type": "type",
+      "prompt": "Make it negative: Das ist ein Kino.",
+      "answers": [
+       "Das ist kein Kino."
+      ],
+      "hint": "Replace ein with kein.",
+      "explanation": "ein becomes kein."
+     },
+     {
+      "type": "type",
+      "prompt": "Make it plural: Das ist ein Hotel.",
+      "answers": [
+       "Das sind Hotels."
+      ],
+      "hint": "Many things: sind and no ein.",
+      "explanation": "Das sind Hotels."
+     }
+    ],
+    "free": {
+     "prompt": "You are Mira. Write 3 or 4 short sentences. Say how you travel to Hamburg. Say that something is a church and that it is not a cinema. Ask where the station is.",
+     "minWords": 15,
+     "model": "Ich fahre mit dem Zug nach Hamburg. Das ist eine Kirche. Das ist kein Kino. Wo ist der Bahnhof?",
+     "checks": [
+      {
+       "label": "says how you travel with mit dem / mit der",
+       "pattern": "\\bmit (dem|der) \\w+"
+      },
+      {
+       "label": "uses ein or eine",
+       "pattern": "\\b(ein|eine) \\w+"
+      },
+      {
+       "label": "uses kein or keine",
+       "pattern": "\\bkeine?\\b"
+      },
+      {
+       "label": "asks Wo ist …?",
+       "pattern": "\\bwo ist\\b"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "a1-c03-d2",
+   "level": "a1",
+   "chapter": 3,
+   "day": 2,
+   "reading": {
+    "title": "Hamburg im Jahr",
+    "text": "Mira: Hamburg ist sehr schön! Der Hafen ist groß, aber er ist laut.\nAnna: Ja! Das ist die Elbphilharmonie. Sie ist neu und sehr interessant.\nMira: Und der Michel? Ist er neu?\nAnna: Nein, er ist sehr alt. Er ist eine Kirche.\nMira: Ist der Michel weit?\nAnna: Nein, er ist nicht weit. Wir gehen zu Fuß.\nMira: Wann ist der Hafengeburtstag?\nAnna: Im Mai. Im Sommer fahre ich oft mit dem Fahrrad zum Hafen.\nMira: Und im Winter?\nAnna: Im Winter ist der Weihnachtsmarkt. Er ist sehr schön, aber ein bisschen teuer.",
+    "glossary": [
+     {
+      "de": "die Elbphilharmonie",
+      "en": "Hamburg's famous concert hall at the harbour"
+     },
+     {
+      "de": "der Michel",
+      "en": "Hamburg's famous church (St. Michaelis)"
+     },
+     {
+      "de": "der Hafengeburtstag",
+      "en": "harbour birthday: a big yearly party at the port"
+     },
+     {
+      "de": "der Weihnachtsmarkt",
+      "en": "Christmas market"
+     }
+    ],
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "What is the harbour like?",
+      "options": [
+       "big and loud",
+       "small and quiet",
+       "new"
+      ],
+      "answer": 0,
+      "hint": "Look at Mira's first line.",
+      "explanation": "Der Hafen ist groß, aber er ist laut."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the Elbphilharmonie like?",
+      "options": [
+       "new and interesting",
+       "old and loud"
+      ],
+      "answer": 0,
+      "hint": "Look at Anna's first line.",
+      "explanation": "Sie ist neu und sehr interessant."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is the Michel new?",
+      "options": [
+       "no, it is very old",
+       "yes, it is new"
+      ],
+      "answer": 0,
+      "hint": "Look for alt.",
+      "explanation": "Er ist sehr alt."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is the Michel far?",
+      "options": [
+       "no",
+       "yes"
+      ],
+      "answer": 0,
+      "hint": "Look for nicht.",
+      "explanation": "Er ist nicht weit."
+     },
+     {
+      "type": "choice",
+      "prompt": "How do Anna and Mira go to the Michel?",
+      "options": [
+       "on foot",
+       "by bus"
+      ],
+      "answer": 0,
+      "hint": "Look for Fuß.",
+      "explanation": "Wir gehen zu Fuß."
+     },
+     {
+      "type": "choice",
+      "prompt": "When is the harbour birthday?",
+      "options": [
+       "in May",
+       "in winter",
+       "in August"
+      ],
+      "answer": 0,
+      "hint": "Look for im.",
+      "explanation": "Im Mai."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Anna go to the harbour in summer?",
+      "options": [
+       "by bike",
+       "by train"
+      ],
+      "answer": 0,
+      "hint": "Look for mit dem.",
+      "explanation": "Mit dem Fahrrad."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Mira ask about at the end?",
+      "options": [
+       "winter",
+       "autumn"
+      ],
+      "answer": 0,
+      "hint": "Look at her last line.",
+      "explanation": "Und im Winter?"
+     },
+     {
+      "type": "choice",
+      "prompt": "When is the Christmas market?",
+      "options": [
+       "in winter",
+       "in summer"
+      ],
+      "answer": 0,
+      "hint": "Look at Anna's last line.",
+      "explanation": "Im Winter ist der Weihnachtsmarkt."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the Christmas market like?",
+      "options": [
+       "very nice, but a bit expensive",
+       "big and loud",
+       "old and quiet"
+      ],
+      "answer": 0,
+      "hint": "Look at the last sentence.",
+      "explanation": "Er ist sehr schön, aber ein bisschen teuer."
+     }
+    ]
+   },
+   "listening": {
+    "title": "Wie komme ich zum Rathaus?",
+    "script": "Mira: Entschuldigung, Herr Ali. Wie komme ich zum Rathaus?\nHerr Ali: Gehen Sie geradeaus. Nehmen Sie dann die erste Straße links.\nMira: Die erste Straße links. Ist das weit?\nHerr Ali: Nein, das ist nicht weit. Dort ist eine Kirche, der Michel.\nMira: Danke! Wann ist der Hafengeburtstag?\nHerr Ali: Im Mai. Er ist sehr schön, aber laut.\nMira: Super! Auf Wiedersehen, Herr Ali!\nHerr Ali: Auf Wiedersehen!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Whom does Mira ask the way?",
+      "options": [
+       "Herr Ali",
+       "Anna"
+      ],
+      "answer": 0,
+      "hint": "Listen to the first line.",
+      "explanation": "Mira says: Herr Ali."
+     },
+     {
+      "type": "choice",
+      "prompt": "How does Herr Ali speak to Mira?",
+      "options": [
+       "politely, with Sie",
+       "with du"
+      ],
+      "answer": 0,
+      "hint": "Listen to the commands.",
+      "explanation": "Gehen Sie, Nehmen Sie: polite."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where does Mira want to go?",
+      "options": [
+       "to the town hall",
+       "to the station"
+      ],
+      "answer": 0,
+      "hint": "Listen to her first question.",
+      "explanation": "Wie komme ich zum Rathaus?"
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the first step?",
+      "options": [
+       "go straight on",
+       "turn right"
+      ],
+      "answer": 0,
+      "hint": "Listen to Herr Ali's first command.",
+      "explanation": "Gehen Sie geradeaus."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is the next step?",
+      "options": [
+       "take the first street on the left",
+       "take the underground"
+      ],
+      "answer": 0,
+      "hint": "Listen for dann.",
+      "explanation": "Nehmen Sie dann die erste Straße links."
+     },
+     {
+      "type": "choice",
+      "prompt": "Is it far?",
+      "options": [
+       "no",
+       "yes"
+      ],
+      "answer": 0,
+      "hint": "Listen for nicht.",
+      "explanation": "Das ist nicht weit."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is over there?",
+      "options": [
+       "a church",
+       "a cinema"
+      ],
+      "answer": 0,
+      "hint": "Listen for dort.",
+      "explanation": "Dort ist eine Kirche, der Michel."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Mira ask about next?",
+      "options": [
+       "the harbour birthday",
+       "the market"
+      ],
+      "answer": 0,
+      "hint": "Listen after Danke.",
+      "explanation": "Wann ist der Hafengeburtstag?"
+     },
+     {
+      "type": "choice",
+      "prompt": "When is it?",
+      "options": [
+       "in May",
+       "in winter"
+      ],
+      "answer": 0,
+      "hint": "Listen for im.",
+      "explanation": "Im Mai."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is it like?",
+      "options": [
+       "very nice, but loud",
+       "small and quiet"
+      ],
+      "answer": 0,
+      "hint": "Listen to the end.",
+      "explanation": "Er ist sehr schön, aber laut."
+     }
+    ]
+   },
+   "writing": {
+    "items": [
+     {
+      "type": "type",
+      "prompt": "Write in German: The harbour is very big.",
+      "answers": [
+       "Der Hafen ist sehr groß.",
+       "Der Hafen ist sehr gross."
+      ],
+      "hint": "sehr goes right before the adjective.",
+      "explanation": "Der Hafen ist sehr groß."
+     },
+     {
+      "type": "type",
+      "prompt": "Das Hotel ist ___ teuer. (too)",
+      "answers": [
+       "zu"
+      ],
+      "hint": "Which little word means too?",
+      "explanation": "zu + adjective = too."
+     },
+     {
+      "type": "type",
+      "prompt": "Der Park ___ nicht groß. (sein)",
+      "answers": [
+       "ist"
+      ],
+      "hint": "One thing: ist.",
+      "explanation": "Der Park ist nicht groß."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: The tower is old.",
+      "tokens": [
+       "Turm",
+       "ist",
+       "alt.",
+       "Der"
+      ],
+      "answer": [
+       "Der",
+       "Turm",
+       "ist",
+       "alt."
+      ],
+      "hint": "Thing, ist, adjective.",
+      "explanation": "Der Turm ist alt."
+     },
+     {
+      "type": "type",
+      "prompt": "___ Sie geradeaus! (gehen)",
+      "answers": [
+       "Gehen"
+      ],
+      "hint": "A command starts with the verb, then Sie.",
+      "explanation": "Gehen Sie geradeaus!"
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Then take the second street on the left.",
+      "tokens": [
+       "Sie",
+       "dann",
+       "die",
+       "zweite",
+       "Straße",
+       "links!",
+       "Nehmen"
+      ],
+      "answer": [
+       "Nehmen",
+       "Sie",
+       "dann",
+       "die",
+       "zweite",
+       "Straße",
+       "links!"
+      ],
+      "hint": "Verb first, then Sie, then dann.",
+      "explanation": "Nehmen Sie dann die zweite Straße links!"
+     },
+     {
+      "type": "type",
+      "prompt": "Wie komme ich ___ Bahnhof? (zum / zur)",
+      "answers": [
+       "zum"
+      ],
+      "hint": "Learn zum Bahnhof as one piece.",
+      "explanation": "zum Bahnhof."
+     },
+     {
+      "type": "type",
+      "prompt": "Ich komme ___ Mai. (im / am)",
+      "answers": [
+       "im"
+      ],
+      "hint": "For months, use im.",
+      "explanation": "im Mai."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: In summer I go by bike.",
+      "tokens": [
+       "Sommer",
+       "fahre",
+       "ich",
+       "mit",
+       "dem",
+       "Fahrrad.",
+       "Im"
+      ],
+      "answer": [
+       "Im",
+       "Sommer",
+       "fahre",
+       "ich",
+       "mit",
+       "dem",
+       "Fahrrad."
+      ],
+      "hint": "The verb stays part 2.",
+      "explanation": "Im Sommer fahre ich mit dem Fahrrad."
+     },
+     {
+      "type": "type",
+      "prompt": "Make it a command with Sie: Sie nehmen die U-Bahn.",
+      "answers": [
+       "Nehmen Sie die U-Bahn!"
+      ],
+      "hint": "Put the verb first and Sie next.",
+      "explanation": "Nehmen Sie die U-Bahn!"
+     }
+    ],
+    "free": {
+     "prompt": "You are Herr Ali. Mira asks: Entschuldigung, wie komme ich zum Bahnhof? Answer in 3 or 4 short sentences. Say go straight on, then take the first street on the right, and say the station is not far.",
+     "minWords": 15,
+     "model": "Gehen Sie geradeaus. Nehmen Sie dann die erste Straße rechts. Der Bahnhof ist nicht weit. Er ist dort.",
+     "checks": [
+      {
+       "label": "uses a Sie command (verb first)",
+       "pattern": "\\b(gehen|nehmen|fahren) sie\\b"
+      },
+      {
+       "label": "says which street",
+       "pattern": "\\bdie (erste|zweite) stra(ß|ss)e\\b"
+      },
+      {
+       "label": "says the station is not far",
+       "pattern": "\\bnicht weit\\b"
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -114,13 +114,34 @@ def wiktionary(files):
     cache_f.write_text(json.dumps(cache, ensure_ascii=False))
     return flags
 
+def articles(items):
+    """der/die/das + a course noun whose gender (from the vocabulary lists) can't take that article in any case."""
+    gender, plurals = {}, set()
+    for f in sorted((ROOT / 'content').glob('*/ch*.json')):
+        for L in json.loads(f.read_text(encoding='utf-8')).get('lessons', []):
+            for v in L.get('vocabulary', []):
+                if v.get('article') in ('der', 'die', 'das') and ' ' not in v.get('de', ''): gender[v['de']] = v['article']
+                plurals.add(re.sub(r'^die\s+', '', v.get('plural') or '').strip())
+    flags = []
+    for p, t in items:
+        for m in re.finditer(r'\b(der|die|das|Der|Die|Das)\s+([A-ZÄÖÜ][a-zäöüß]+)\b', t):
+            art, noun = m.group(1).lower(), m.group(2)
+            start = not re.search(r'[^.!?:\s]', t[:m.start()].rsplit('.', 1)[-1].split('?')[-1].split('!')[-1].split(':')[-1])
+            g = gender.get(noun)
+            if not g or g == art or noun in plurals: continue
+            # das never fits m/f; der fits f only as dative/genitive (not sentence-initial); die fits m/n only in plural
+            if art == 'das' or art == 'die' or (art == 'der' and (g == 'das' or start)):
+                flags.append((p, t, f'article: "{m.group(1)} {noun}" but {noun} is {g}'))
+    return flags
+
 def main():
     files = sys.argv[1:] or sorted(str(p) for p in (ROOT / 'content').glob('*/ch*.json'))
     items = sentences(files)
     print(f'{len(items)} German strings from {len(files)} file(s)')
     groups = {'LanguageTool (grammar + spelling)': languagetool(items),
               'macOS German spell checker': macos_spell(items),
-              'Wiktionary (noun gender + plural)': wiktionary(files)}
+              'Wiktionary (noun gender + plural)': wiktionary(files),
+              'Article + noun gender in sentences': articles(items)}
     lines = ['# German check report', '', f'{len(items)} strings checked. Three independent sources; a string flagged by 2+ sources is most likely wrong.',
              'Add false alarms (names, chosen spellings) to tools/german-ok.txt, one word per line.', '']
     hits = {}
