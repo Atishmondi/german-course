@@ -237,6 +237,8 @@
       v.innerHTML=`<section class="home-hero">
           <p class="home-where"><span class="badge">${esc(levelTitle(d.level))}</span> ${esc(where)}</p>
           <h1>${s?'Your next step':'Coming soon'}</h1>
+          ${(()=>{let sec=0;try{const k=new Date();sec=(JSON.parse(localStorage.getItem('german-study-time'))||{})[`${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`]||0;}catch{}
+            const m=Math.floor(sec/60);return `<p class="home-timer"><b>${m} min</b> of learning today · goal 120 min${m>=120?' ✓':''}</p><div class="bar" aria-hidden="true"><i style="width:${Math.min(100,Math.round(m/1.2))}%"></i></div>`;})()}
           ${s?`${stepBtn(s)}<p class="why">${esc(s.why)}</p>`
             :`<p class="lede">The lessons for this day are still being written. Your progress is safe. You can redo finished lessons in Chapters while you wait.</p><a class="btn" href="#/chapters/${d.level}">Open Chapters →</a>`}
         </section>

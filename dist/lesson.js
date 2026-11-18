@@ -18,6 +18,21 @@
 
   // ---------- shared question widget ----------
   // opt: {next: label for the next button, redo: true while replaying a finished lesson}
+  // Study timer: counts only teaching screens (Start, Learn, Words), not drills/quiz/practice questions.
+  // Stored per local date in its own key {"2026-11-20": seconds}; pauses when the tab is hidden or after 3 min with no input.
+  const TIMER='german-study-time', LEARN_PHASES=new Set(['Start','Learn','Words']);
+  const today=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;};
+  const studySeconds=(day=today())=>{try{return (JSON.parse(localStorage.getItem(TIMER))||{})[day]||0;}catch{return 0;}};
+  if(typeof document!=='undefined'){
+    let lastInput=Date.now();
+    ['pointerdown','keydown','scroll','wheel'].forEach(ev=>document.addEventListener(ev,()=>{lastInput=Date.now();},{passive:true,capture:true}));
+    setInterval(()=>{
+      if(document.visibilityState!=='visible'||Date.now()-lastInput>180000||!LEARN_PHASES.has(window.GERMAN_STUDY_PHASE)||!document.querySelector('.lp-main'))return;
+      try{const all=JSON.parse(localStorage.getItem(TIMER))||{};all[today()]=(all[today()]||0)+5;localStorage.setItem(TIMER,JSON.stringify(all));}catch{}
+      const t=document.querySelector('[data-study-timer]');if(t)t.textContent=`${Math.floor(studySeconds()/60)} min learning today`;
+    },5000);
+    window.addEventListener('hashchange',()=>{if(!/^#\/lesson\//.test(location.hash))window.GERMAN_STUDY_PHASE=null;});
+  }
   // "Report it": flags kept in their own localStorage key (not in progress state); Settings downloads them for the next German check.
   const REPORTS='german-reports';
   const readReports=()=>{try{return JSON.parse(localStorage.getItem(REPORTS))||[];}catch{return [];}};
@@ -82,6 +97,7 @@
       if(s.nextLabel)return s.nextLabel;if(!n)return 'Finish';if(n.phase!==s.phase)return `Next: ${n.phase}`;return s.q?'Next question':'Next';};
     function draw(focus=true){
       const s=cfg.screens[i], p=phases.indexOf(s.phase);
+      if(typeof window!=='undefined')window.GERMAN_STUDY_PHASE=cfg.kind==='lesson'?s.phase:null;
       const pct=Math.round((i+1)/cfg.screens.length*100);
       const qhtml=s.q?renderQuestion(s.q,s.key,state(),{next:nextName(i),redo:redo()}):'';
       const open=isOpen(s);
@@ -89,7 +105,7 @@
       el.innerHTML=`<div class="lp${reduced()?' lp-reduced':''}">
         <header class="lp-top"><div class="lp-meta">
             <ol class="lp-phases" aria-label="Parts of this ${esc(cfg.kind||'lesson')}">${phases.map((ph,k)=>`<li class="${k<p?'is-done':k===p?'is-now':''}">${tabs?`<button type="button" class="lp-phase" data-act="phase" data-i="${cfg.screens.findIndex(x=>x.phase===ph)}"${k===p?' aria-current="step"':''}>${esc(ph)}</button>`:`<span${k===p?' aria-current="step"':''}>${esc(ph)}</span>`}</li>`).join('')}</ol>
-            <span class="lp-tools">${cfg.over?`<button type="button" class="lp-pause lp-over" data-act="over-ask">${esc(cfg.over.label)}</button>`:''}<button type="button" class="lp-pause" data-act="pause">Save &amp; pause</button></span></div>
+            <span class="lp-tools">${cfg.kind==='lesson'?`<span class="lp-timer" data-study-timer>${Math.floor(studySeconds()/60)} min learning today</span>`:''}${cfg.over?`<button type="button" class="lp-pause lp-over" data-act="over-ask">${esc(cfg.over.label)}</button>`:''}<button type="button" class="lp-pause" data-act="pause">Save &amp; pause</button></span></div>
           <div class="lp-bar" role="progressbar" aria-label="${esc(cfg.title)} progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${pct}"><i style="width:${pct}%"></i></div></header>
         ${cfg.banner?cfg.banner():''}
         ${notice?`<p class="lp-notice" role="status">${esc(notice)}</p>`:''}${ask==='all'?confirmHtml(s):''}

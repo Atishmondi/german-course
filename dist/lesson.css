@@ -239,3 +239,5 @@
 .lp-legend{gap:8px 18px}
 /* sticky header: opaque so text never shows through the breadcrumb bar */
 
+
+.lp-timer{align-self:center;font-size:14px;color:var(--sub);margin-right:8px;white-space:nowrap}

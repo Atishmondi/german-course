@@ -258,3 +258,5 @@ html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);bac
 @media (prefers-reduced-transparency:reduce){
   .crumbs,.lp-nav,.toast,.lp-top{background:var(--surface-2)!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
 }
+
+.home-timer{margin:18px 0 8px;color:var(--sub)}.home-timer b{color:var(--ink)}
