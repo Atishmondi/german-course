@@ -43,6 +43,9 @@ Status key: ☐ to do · ☑ done
 
 28. ☐ **Colour-coded sentences everywhere** (16 roles now, A1). For A2/B1 add roles for the later grammar when those chapters are written: passive (werden + participle), subordinate-clause verb at the end, relative pronoun, reflexive pronoun, genitive, Konjunktiv II, zu + infinitive, modal + infinitive.
 
+29. ☐ **New colour theme for the whole site** (it looks awkward / without taste), guided by Instagram design reels you share. **Do NOT touch the grammar colours** (subject, verb, … chips and der/die/das): they are perfect.
+30. ☐ **Liquid glass effect** on the site (the liquid-glass-react look), rebuilt in plain JS/CSS/SVG since the site has no React. Full effect in Chrome/Brave; frosted fallback elsewhere.
+
 ## Order after the 21:00 reset
 1. Redesign: items 7, 9–15 (one agent, using eli5 + awwwards + impeccable)
 2. Rewrite chapter 1: items 1–4

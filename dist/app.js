@@ -13,7 +13,7 @@
 
   function toast(msg,ms=4500){
     const t=document.createElement('div');t.className='toast';t.textContent=msg;
-    toastsEl.appendChild(t);setTimeout(()=>t.remove(),ms);
+    toastsEl.appendChild(t);setTimeout(()=>{t.classList.add('out');setTimeout(()=>t.remove(),160)},ms);
   }
 
   if(!CORE){appEl.innerHTML='<main class="empty" id="main"><h1>Something is missing</h1><p class="lede">core.js did not load. Please reload the page.</p></main>';return;}
