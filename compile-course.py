@@ -125,7 +125,7 @@ def lesson(f, lv, ch, n, L, R):
             err(f, lid, f'cards[{i}].steps', 'need a list of at least 2 strings')
         if pa is not None and bad_parts(pa): err(f, lid, f'cards[{i}].parts', bad_parts(pa))
         mo = c.get('more')
-        if mo is not None and not (nonempty(mo) and len(mo.split()) <= 150): err(f, lid, f'cards[{i}].more', 'must be text of at most 150 words')
+        if not (nonempty(mo) and len(mo.split()) <= 150): err(f, lid, f'cards[{i}].more', 'every card needs "more" (Explain it more simply), at most 150 words')
         if not any(c.get(k) for k in ('table', 'steps', 'parts')):
             err(f, lid, f'cards[{i}]', 'needs a visual: table, steps or parts')
         ex = c.get('examples')

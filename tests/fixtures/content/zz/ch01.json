@@ -129,7 +129,8 @@
         "Guten Tag"
        ]
       ]
-     }
+     },
+     "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber."
     },
     {
      "title": "Goodbye",
@@ -169,7 +170,8 @@
      "steps": [
       "Tschüss",
       "Tschüss, Leon!"
-     ]
+     ],
+     "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!"
     },
     {
      "title": "Polite goodbye",
@@ -215,7 +217,8 @@
        "Herr Ali",
        "subject"
       ]
-     ]
+     ],
+     "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!"
     }
    ],
    "media": {
@@ -431,7 +434,8 @@
         "Guten Tag"
        ]
       ]
-     }
+     },
+     "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber."
     },
     {
      "title": "Goodbye",
@@ -471,7 +475,8 @@
      "steps": [
       "Tschüss",
       "Tschüss, Leon!"
-     ]
+     ],
+     "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!"
     },
     {
      "title": "Polite goodbye",
@@ -517,7 +522,8 @@
        "Herr Ali",
        "subject"
       ]
-     ]
+     ],
+     "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!"
     }
    ],
    "media": {
@@ -733,7 +739,8 @@
         "Guten Tag"
        ]
       ]
-     }
+     },
+     "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber."
     },
     {
      "title": "Goodbye",
@@ -773,7 +780,8 @@
      "steps": [
       "Tschüss",
       "Tschüss, Leon!"
-     ]
+     ],
+     "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!"
     },
     {
      "title": "Polite goodbye",
@@ -819,7 +827,8 @@
        "Herr Ali",
        "subject"
       ]
-     ]
+     ],
+     "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!"
     }
    ],
    "media": {

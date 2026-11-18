@@ -114,7 +114,8 @@
         "hi, hello"
        ]
       ]
-     }
+     },
+     "more": "Think of a clock on the wall. Each part of the day has its own greeting. Step 1: look at the time. Step 2: pick the matching one. Guten means good, so Guten Morgen is word for word good morning, just like English. Not sure which to use? Say Hallo. It works all day, but it is casual. Extra example: Guten Morgen, Anna! = Good morning, Anna!"
     },
     {
      "title": "Goodbye: a friend or polite?",
@@ -146,7 +147,8 @@
      "steps": [
       "Leaving a friend? 👉 Tschüss!",
       "Leaving a teacher? 👉 Auf Wiedersehen!"
-     ]
+     ],
+     "more": "Think of clothes. Tschüss is jeans: relaxed, for friends and family. Auf Wiedersehen is a suit: polite, for a teacher or a doctor. Step 1: who is the person? Step 2: close to you? Say Tschüss. Step 3: not close? Say Auf Wiedersehen. It literally means until we see again. Extra example: Tschüss, Mira! = Bye, Mira!"
     },
     {
      "title": "A verb, and your first chunk: Ich heiße",
@@ -932,7 +934,8 @@
         "strangers, a teacher, people at work"
        ]
       ]
-     }
+     },
+     "more": "A pronoun is a stand-in. Instead of saying your own name again and again, you say ich. Think of a badge that says me. For the person you talk to, German has two badges. du is the friendly badge. Sie is the polite badge. English has just one word, you, so this part is new. Step 1: look at the person. Step 2: pick du or Sie before you speak. Extra example: Ich bin Leon. Und du? = I am Leon. And you?"
     },
     {
      "title": "du or Sie? Look at the person",
@@ -1066,7 +1069,8 @@
        "du?",
        "subject"
       ]
-     ]
+     ],
+     "more": "Treat Wie heißt du? as one ready-made block, like a sandwich you do not cut open. Word for word it is How are-called you? Step 1: say Wie heißt du? Step 2: wait for the answer. Step 3: ask back with Und du? Why heißt ends in -t comes in lesson 4. Extra example: Hallo! Wie heißt du? – Ich heiße Anna. = Hi! What is your name? – I am Anna."
     },
     {
      "title": "Ask politely: Wie heißen Sie?",
@@ -1307,7 +1311,8 @@
      "steps": [
       "Wie geht's?",
       "👉 Gut, danke!"
-     ]
+     ],
+     "more": "Wie geht's? is a small ritual, like a wave of the hand. Word for word it is How goes it? English does the same: How's it going? Step 1: ask Wie geht's? Step 2: answer Gut, danke! Step 3: ask back with Und du? Learn each as a block. Extra example: Gut, danke! Und du? = Good, thanks! And you?"
     }
    ],
    "media": {
@@ -1875,7 +1880,8 @@
         "Sie?"
        ]
       ]
-     }
+     },
+     "more": "Think of a sentence as a train. A part is one train car. A car can hold one word, or a few words that travel together. Anna Weber is two words but one car, because it is one name. Step 1: read the sentence. Step 2: ask who? That car is the subject. Step 3: count the cars. Extra example: Ich heiße Anna Weber. = Ich | heiße | Anna Weber. Three parts, four words."
     },
     {
      "title": "Where you come from: Ich komme aus …",
@@ -1952,7 +1958,8 @@
        "aus Spanien.",
        "other"
       ]
-     ]
+     ],
+     "more": "Ich komme aus is a ready-made block with a gap, like a sticker that says I come from ___. Step 1: say Ich komme aus. Step 2: fill the gap with a country or a city. aus + the place stick together as one part. The order is the same as in English. Extra example: Ich komme aus Italien. = I come from Italy."
     },
     {
      "title": "Where you live: Ich wohne in …",
@@ -2020,7 +2027,8 @@
       "Ich wohne …",
       "Ich wohne in …",
       "Ich wohne in Berlin."
-     ]
+     ],
+     "more": "Ich wohne in is a block with a gap too: I live in ___. Think of a pin on a map. Step 1: say Ich wohne in. Step 2: add the place. Do not mix them up: aus is where you started, in is where you are now. Extra example: Ich wohne in Wien. = I live in Vienna."
     },
     {
      "title": "The big rule: the verb is part 2",
@@ -2204,7 +2212,8 @@
        "du?",
        "subject"
       ]
-     ]
+     ],
+     "more": "Think of two arrows. woher points back to where you started, and the answer uses aus. wo is a pin on the map where you are now, and the answer uses in. Step 1: look at the question word. Step 2: woher means aus, wo means in. Both start with wo, which sounds like where. Extra example: Woher? – Aus Wien. Wo? – In Hamburg. = Where from? – From Vienna. Where? – In Hamburg."
     },
     {
      "title": "W-questions: the verb is part 2 too",
@@ -3187,7 +3196,8 @@
        "in Hamburg.",
        "other"
       ]
-     ]
+     ],
+     "more": "Every person has a stand-in word. Ben is a he, so er. Mira is a she, so sie. Both take -t, like one key for two doors. Step 1: who is it? Step 2: he or she? Step 3: stem + t. kommen: komm + t = kommt. A name does the same job as er or sie. Later you will meet another sie, but not yet. Extra example: Sie wohnt in Berlin. = She lives in Berlin."
     },
     {
      "title": "sie or Sie? Look at the ending",
@@ -4208,7 +4218,8 @@
       "Wer ist das?",
       "Das ist …",
       "Das ist Leon."
-     ]
+     ],
+     "more": "Das ist + name is like pointing a finger and saying: this is ... Step 1: point at the person. Step 2: say Das ist. Step 3: add the name. To ask, swap it: Wer ist das? means who is that? das is the same word in the question and the answer. ist is still part 2. Extra example: Das ist Ben. = This is Ben."
     },
     {
      "title": "Jobs: no word for 'a'",
@@ -4439,7 +4450,8 @@
        "neu.",
        "other"
       ]
-     ]
+     ],
+     "more": "A describing word is like a sticker on a name tag. It says what someone is like. Step 1: say who. Step 2: say the right form of sein: bin, bist, ist or sind. Step 3: stick on the word: nett, neu or super. These words stay the same here. Extra example: Du bist nett. = You are nice."
     }
    ],
    "media": {
@@ -5062,7 +5074,8 @@
       "Weber.",
       "Wie schreibt man das?",
       "W – E – B – E – R."
-     ]
+     ],
+     "more": "Spelling is saying letters one by one, like beads on a string. Wie schreibt man das? is one block. Word for word it is How writes one that? Step 1: ask the block. Step 2: listen to the letters. Step 3: write them down. Extra example: Wie schreibt man das? – M – I – R – A. = How do you spell that? – M-I-R-A."
     },
     {
      "title": "Languages often end in -isch",
@@ -5153,7 +5166,8 @@
         "Englisch"
        ]
       ]
-     }
+     },
+     "more": "Many language names share a tail: -isch. English does too: Spanisch is Spanish, Englisch is English. Step 1: think of the country. Step 2: change the end to -isch. Deutsch is the odd one out, so learn it by itself. Always write language names with a big letter. Extra example: Italien → Italienisch = Italy → Italian."
     },
     {
      "title": "sprechen: the e becomes i",
@@ -5359,7 +5373,8 @@
        "ein bisschen Deutsch.",
        "other"
       ]
-     ]
+     ],
+     "more": "ein bisschen is a pinch, like a pinch of salt. It makes the language smaller: a little. Step 1: say Ich spreche. Step 2: add ein bisschen. Step 3: add the language. The pinch and the language together are one part. Extra example: Ich spreche ein bisschen Englisch. = I speak a little English."
     },
     {
      "title": "Yes/no questions: the verb goes first",

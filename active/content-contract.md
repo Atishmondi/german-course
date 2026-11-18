@@ -48,7 +48,7 @@ Spec of record for all course content. Size rules per level are in `content/leve
    {"title": "...", "body": "≤60 words, plain English", "examples": [{"de": "...", "en": "...", "why": "...", "parts": [["Ich","subject"],["heiße","verb"],["Mira.","other"]]}, ...≥2],   // learner LOVES colour-coded parts: colour-code examples wherever possible (≥ half per lesson, compiler-checked; parts must spell "de")
     "steps": ["ich + heiß + e", "= ich heiße"],                       // optional: step-by-step build-up, shown one line at a time
     "parts": [["Ich", "subject"], ["heiße", "verb"], ["Mira", "other"]], // optional: colour-coded sentence; roles: subject verb verb2 object dative article noun adjective ending question negation time place preposition conjunction other (verb2 = second verb part at the end: infinitive, separable prefix, participle). A2/B1 will add roles for passive, verb-final clauses, relative/reflexive pronouns, genitive, Konjunktiv II and zu-infinitive (add to PART_ROLES + lesson.js ROLES before writing those chapters)
-    "more": "≤150 words",   // "Explain it more simply": the hard part in ELI5 style (everyday comparison, tiny steps, why it works this way). Required on every hard card; each lesson has ≥1. Shown behind a button.
+    "more": "≤150 words",   // "Explain it more simply": the hard part in ELI5 style (everyday comparison, tiny steps, why it works this way). REQUIRED ON EVERY CARD (the learner loves it). Shown behind a button.
     "table": {"headers": ["", "masculine", "feminine", "neuter", "plural"], "rows": [["nominative", "der", "die", "das", "die"], ["accusative", "den", "die", "das", "die"]]}}   // table optional
  ],
  "media": {
