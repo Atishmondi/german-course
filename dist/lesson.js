@@ -87,7 +87,7 @@
           <section class="lp-main${s.wide?' is-wide':''}">
             <h2 class="lp-h" tabindex="-1">${esc(s.title)}</h2>${s.sub?`<p class="lp-sub" aria-live="polite">${s.sub()}</p>`:''}
             ${s.html?s.html():''}${qhtml}
-            ${touched(s.reset)?(ask==='section'?confirmHtml(s):`<div class="lp-reset"><button type="button" class="lp-link" data-act="reset-ask">↺ Reset answers</button><span>Your first score stays saved</span></div>`):''}
+            ${s.key&&s.q?(K.status(state(),s.key)!=='open'||state().practice?.[s.key]?`<div class="lp-reset"><button type="button" class="lp-link" data-act="reset-one">↺ Reset this question</button><span>Your first score stays saved</span></div>`:''):touched(s.reset)?(ask==='section'?confirmHtml(s):`<div class="lp-reset"><button type="button" class="lp-link" data-act="reset-ask">↺ Reset answers</button><span>Your first score stays saved</span></div>`):''}
           </section>
         </main>
         <nav class="lp-nav" aria-label="Lesson steps">${i>0?`<button type="button" class="lp-btn lp-ghost" data-act="back">← Back: ${esc(cfg.screens[i-1].phase===s.phase?'previous':cfg.screens[i-1].phase)}</button>`:'<span></span>'}
@@ -122,6 +122,7 @@
       if(act==='phase')return go(Number(b.dataset.i));
       if(act==='reset-ask'||act==='over-ask'){ask=act==='over-ask'?'all':'section';return draw(false);}
       if(act==='reset-cancel'){ask=null;draw(false);el.querySelector('[data-act="reset-ask"],[data-act="over-ask"]')?.focus({preventScroll:true});return;}
+      if(act==='reset-one'){K.resetKeys(state(),[s.key]);delete pending[s.key];notice='Question cleared. Your first score is still saved.';api.save();return draw(false);}
       if(act==='reset-yes'){
         const all=ask==='all', r=all?{keys:cfg.over.keys()}:s.reset;
         K.resetKeys(state(),r.keys);r.keys.forEach(k=>delete pending[k]);
