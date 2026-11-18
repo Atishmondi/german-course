@@ -15,6 +15,8 @@
       state.progress[id]={step:Math.max(0,Math.min(total,Math.trunc(Number(p.step)||0))),assisted:!!p.assisted,blindCorrect:!!p.blindCorrect,replaying:!!p.replaying,
         completedAt:typeof p.completedAt==='string'&&!Number.isNaN(Date.parse(p.completedAt))?p.completedAt:null,
         correct:Array.isArray(p.correct)?[...new Set(p.correct.filter(n=>Number.isInteger(n)&&n>=0&&n<lessons.get(id).practice.length))]:[],
+        taught:Array.isArray(p.taught)?[...new Set(p.taught.filter(n=>Number.isInteger(n)&&n>=0&&n<lessons.get(id).cards.length))]:[],
+        attempts:p.attempts&&typeof p.attempts==='object'?Object.fromEntries(Object.entries(p.attempts).filter(([key])=>/^\d{1,2}$/.test(key)).map(([key,value])=>[key,Math.max(0,Math.min(10000,Number(value)||0))])):{},
         answer:typeof p.answer==='string'?p.answer.slice(0,1000):'',build:Array.isArray(p.build)?p.build.filter(n=>Number.isInteger(n)&&n>=0&&n<50):[]};
     }
     if(lessons.has(input.active)&&state.progress[input.active]&&(!state.progress[input.active].completedAt||state.progress[input.active].replaying))state.active=input.active;
@@ -42,6 +44,7 @@
   function finish(state,lesson,now=Date.now()){
     const progress=state.progress[lesson.id];
     if(!progress||new Set(progress.correct).size!==lesson.practice.length||!progress.blindCorrect)return false;
+    if(lesson.requireTeachingEvidence&&lesson.cards.some((_,i)=>!progress.taught?.includes(i)))return false;
     const first=!progress.completedAt;
     progress.step=lesson.cards.length+lesson.practice.length+1;
     progress.completedAt=progress.completedAt||new Date(now).toISOString();

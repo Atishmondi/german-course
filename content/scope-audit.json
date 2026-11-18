@@ -1,0 +1,3910 @@
+{
+  "source": "user-provided Netzwerk neu A1",
+  "auditType": "book-scope inventory, not a proficiency assessment or lesson-coverage claim",
+  "pageConvention": {
+    "pages": "printed full-volume page numbers, inclusive",
+    "sourcePdfPages": "one-based PDF/image page numbers",
+    "conversion": "PDF page = printed page + 1"
+  },
+  "sourceBasis": {
+    "method": "Direct visual inspection of rendered user-provided pages with view_image",
+    "inspectedSourcePdfPages": [
+      5,
+      6,
+      7,
+      8,
+      18,
+      28,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      54,
+      64,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      90,
+      100,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      126,
+      136,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "tableOfContentsPdfPages": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "chapterRecapPdfPages": [
+      18,
+      28,
+      38,
+      54,
+      64,
+      74,
+      90,
+      100,
+      110,
+      126,
+      136,
+      146
+    ],
+    "grammarAndVerbAppendixPdfPages": [
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "platformReviewPdfPages": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "scopeLimit": "Chapter inventories are grounded in the full TOC and every chapter recap, supplemented by the complete grammar/verb appendix and all platform reviews. Ordinary chapter exercise pages and the alphabetical word list were not inspected for this audit."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Guten Tag!",
+      "pages": [
+        8,
+        17
+      ],
+      "sourcePdfPages": [
+        5,
+        18
+      ],
+      "goals": [
+        {
+          "id": "ch01-g01",
+          "category": "function",
+          "title": "Choose a greeting and a farewell for the time of day and social situation",
+          "keywords": [
+            "Hallo",
+            "Guten Morgen",
+            "Guten Tag",
+            "Guten Abend",
+            "Gute Nacht",
+            "Tschüss",
+            "Auf Wiedersehen"
+          ]
+        },
+        {
+          "id": "ch01-g02",
+          "category": "function",
+          "title": "Introduce yourself and introduce a third person by name",
+          "keywords": [
+            "ich heiße",
+            "ich bin",
+            "mein Name",
+            "Das ist",
+            "Herr",
+            "Frau"
+          ]
+        },
+        {
+          "id": "ch01-g03",
+          "category": "function",
+          "title": "Ask how someone is and give a short response and return question",
+          "keywords": [
+            "Wie geht es",
+            "gut",
+            "sehr gut",
+            "ganz gut",
+            "Danke",
+            "und dir",
+            "und Ihnen"
+          ]
+        },
+        {
+          "id": "ch01-g04",
+          "category": "function",
+          "title": "Ask and answer about a person's home, origin and languages",
+          "keywords": [
+            "wo",
+            "woher",
+            "wohnen",
+            "kommen aus",
+            "sprechen",
+            "Sprachen"
+          ]
+        },
+        {
+          "id": "ch01-g05",
+          "category": "function",
+          "title": "Exchange a telephone number and an email address accurately",
+          "keywords": [
+            "Telefonnummer",
+            "E-Mail-Adresse",
+            "Nummer",
+            "@",
+            "Punkt",
+            "Unterstrich"
+          ]
+        },
+        {
+          "id": "ch01-g06",
+          "category": "function",
+          "title": "Spell a name or other short personal detail and check the letters",
+          "keywords": [
+            "buchstabieren",
+            "Vorname",
+            "Familienname",
+            "Alphabet"
+          ]
+        },
+        {
+          "id": "ch01-g07",
+          "category": "vocabulary",
+          "title": "Recognize and produce the numbers from zero through twenty",
+          "keywords": [
+            "null",
+            "eins",
+            "zwei",
+            "drei",
+            "vier",
+            "fünf",
+            "sechs",
+            "sieben",
+            "acht",
+            "neun",
+            "zehn",
+            "elf",
+            "zwölf",
+            "dreizehn",
+            "vierzehn",
+            "fünfzehn",
+            "sechzehn",
+            "siebzehn",
+            "achtzehn",
+            "neunzehn",
+            "zwanzig"
+          ]
+        },
+        {
+          "id": "ch01-g08",
+          "category": "vocabulary",
+          "title": "Name the countries and languages used in beginner introductions",
+          "keywords": [
+            "Deutschland",
+            "Österreich",
+            "Schweiz",
+            "Spanien",
+            "Japan",
+            "Deutsch",
+            "Spanisch",
+            "Englisch",
+            "Französisch",
+            "Russisch"
+          ]
+        },
+        {
+          "id": "ch01-g09",
+          "category": "vocabulary",
+          "title": "Recognize the labels and address symbols needed for personal contact details",
+          "keywords": [
+            "Name",
+            "Vorname",
+            "Familienname",
+            "Telefon",
+            "E-Mail",
+            "Adresse",
+            "at",
+            "Punkt",
+            "Unterstrich",
+            "Bindestrich"
+          ]
+        },
+        {
+          "id": "ch01-g10",
+          "category": "grammar",
+          "title": "Build a simple statement with the conjugated verb in the second position",
+          "keywords": [
+            "Aussagesatz",
+            "Subjekt",
+            "Verb",
+            "Position 2"
+          ]
+        },
+        {
+          "id": "ch01-g11",
+          "category": "grammar",
+          "title": "Build an information question with a question word followed by the verb",
+          "keywords": [
+            "W-Frage",
+            "wer",
+            "wie",
+            "wo",
+            "woher",
+            "welche Sprachen"
+          ]
+        },
+        {
+          "id": "ch01-g12",
+          "category": "grammar",
+          "title": "Conjugate sein, heißen, kommen and wohnen for introductory exchanges",
+          "keywords": [
+            "ich",
+            "du",
+            "er",
+            "sie",
+            "Sie",
+            "bin",
+            "bist",
+            "ist",
+            "sind",
+            "heiße",
+            "heißt",
+            "komme",
+            "wohnst"
+          ]
+        },
+        {
+          "id": "ch01-g13",
+          "category": "grammar",
+          "title": "Use personal pronouns to refer back to a named person in a short text",
+          "keywords": [
+            "er",
+            "sie",
+            "Referenz",
+            "Name",
+            "Personalpronomen"
+          ]
+        },
+        {
+          "id": "ch01-g14",
+          "category": "pronunciation",
+          "title": "Say the German alphabet including the additional German letters",
+          "keywords": [
+            "A bis Z",
+            "ä",
+            "ö",
+            "ü",
+            "ß",
+            "Buchstabenname",
+            "buchstabieren"
+          ]
+        },
+        {
+          "id": "ch01-g15",
+          "category": "strategy",
+          "title": "Break an email address into spoken chunks and reconstruct it from those chunks",
+          "keywords": [
+            "Name",
+            "at",
+            "Domain",
+            "Punkt",
+            "Unterstrich",
+            "notieren",
+            "kontrollieren"
+          ]
+        },
+        {
+          "id": "ch01-g16",
+          "category": "culture",
+          "title": "Use du and first names or Sie and a title consistently in an introduction",
+          "keywords": [
+            "du",
+            "Sie",
+            "Herr",
+            "Frau",
+            "Ihr",
+            "dein",
+            "formell",
+            "informell"
+          ]
+        },
+        {
+          "id": "ch01-g17",
+          "category": "culture",
+          "title": "Recognize that German is used across Germany, Austria and Switzerland and that country and language are different categories",
+          "keywords": [
+            "D-A-CH",
+            "Deutschland",
+            "Österreich",
+            "Schweiz",
+            "Land",
+            "Sprache"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Freunde, Kollegen und ich",
+      "pages": [
+        18,
+        27
+      ],
+      "sourcePdfPages": [
+        5,
+        28
+      ],
+      "goals": [
+        {
+          "id": "ch02-g01",
+          "category": "function",
+          "title": "Ask about hobbies and say which activities you enjoy or do not enjoy",
+          "keywords": [
+            "Was machst du gern",
+            "gern",
+            "nicht gern",
+            "sehr gern",
+            "Es geht so"
+          ]
+        },
+        {
+          "id": "ch02-g02",
+          "category": "function",
+          "title": "Suggest a shared activity and accept or decline a proposed weekday",
+          "keywords": [
+            "Gehen wir",
+            "zusammen",
+            "am Montag",
+            "Ja gern",
+            "leider nicht",
+            "Wann"
+          ]
+        },
+        {
+          "id": "ch02-g03",
+          "category": "function",
+          "title": "Ask and answer about a job, a course of study, working days and days off",
+          "keywords": [
+            "von Beruf",
+            "arbeiten",
+            "studieren",
+            "freihaben",
+            "Arbeitszeit"
+          ]
+        },
+        {
+          "id": "ch02-g04",
+          "category": "function",
+          "title": "Complete a simple registration form with personal details",
+          "keywords": [
+            "Formular",
+            "Vorname",
+            "Familienname",
+            "Adresse",
+            "Telefon",
+            "E-Mail",
+            "Beruf"
+          ]
+        },
+        {
+          "id": "ch02-g05",
+          "category": "vocabulary",
+          "title": "Name common leisure activities using an appropriate verb phrase",
+          "keywords": [
+            "Musik hören",
+            "lesen",
+            "kochen",
+            "reisen",
+            "schwimmen",
+            "joggen",
+            "Fußball spielen",
+            "ins Kino gehen"
+          ]
+        },
+        {
+          "id": "ch02-g06",
+          "category": "vocabulary",
+          "title": "Name all seven weekdays and use them to arrange an activity",
+          "keywords": [
+            "Montag",
+            "Dienstag",
+            "Mittwoch",
+            "Donnerstag",
+            "Freitag",
+            "Samstag",
+            "Sonntag",
+            "am"
+          ]
+        },
+        {
+          "id": "ch02-g07",
+          "category": "vocabulary",
+          "title": "Construct numbers above twenty including tens, hundreds, thousands, million and milliard",
+          "keywords": [
+            "einundzwanzig",
+            "dreißig",
+            "sechzig",
+            "siebzig",
+            "hundert",
+            "tausend",
+            "Million",
+            "Milliarde",
+            "Zahlendreher"
+          ]
+        },
+        {
+          "id": "ch02-g08",
+          "category": "vocabulary",
+          "title": "Identify common occupations and basic male and female job labels",
+          "keywords": [
+            "Arzt",
+            "Ärztin",
+            "Ingenieur",
+            "Ingenieurin",
+            "Student",
+            "Studentin",
+            "Taxifahrer",
+            "Lehrer",
+            "Lehrerin"
+          ]
+        },
+        {
+          "id": "ch02-g09",
+          "category": "grammar",
+          "title": "Choose all subject pronouns and match them to present-tense verb endings",
+          "keywords": [
+            "ich",
+            "du",
+            "er",
+            "es",
+            "sie",
+            "wir",
+            "ihr",
+            "sie",
+            "Sie",
+            "-e",
+            "-st",
+            "-t",
+            "-en"
+          ]
+        },
+        {
+          "id": "ch02-g10",
+          "category": "grammar",
+          "title": "Use the extra e in common verb forms such as arbeiten and recognize special heißen forms",
+          "keywords": [
+            "arbeiten",
+            "arbeitest",
+            "arbeitet",
+            "heißen",
+            "heißt",
+            "Konjugation"
+          ]
+        },
+        {
+          "id": "ch02-g11",
+          "category": "grammar",
+          "title": "Apply the present-tense stem change in common verbs such as lesen and sprechen",
+          "keywords": [
+            "lesen",
+            "liest",
+            "sprechen",
+            "sprichst",
+            "spricht",
+            "unregelmäßig"
+          ]
+        },
+        {
+          "id": "ch02-g12",
+          "category": "grammar",
+          "title": "Use the complete present-tense forms of sein and haben",
+          "keywords": [
+            "bin",
+            "bist",
+            "ist",
+            "sind",
+            "seid",
+            "habe",
+            "hast",
+            "hat",
+            "haben",
+            "habt"
+          ]
+        },
+        {
+          "id": "ch02-g13",
+          "category": "grammar",
+          "title": "Ask a yes-or-no question by placing the conjugated verb first",
+          "keywords": [
+            "Ja-Nein-Frage",
+            "Verbposition 1",
+            "Subjekt",
+            "ja",
+            "nein"
+          ]
+        },
+        {
+          "id": "ch02-g14",
+          "category": "grammar",
+          "title": "Learn the grammatical gender of a noun with der, das or die",
+          "keywords": [
+            "maskulin",
+            "neutrum",
+            "feminin",
+            "der",
+            "das",
+            "die"
+          ]
+        },
+        {
+          "id": "ch02-g15",
+          "category": "grammar",
+          "title": "Recognize the common noun plural patterns and plural die",
+          "keywords": [
+            "Plural",
+            "-en",
+            "-n",
+            "-e",
+            "-er",
+            "-s",
+            "Umlaut",
+            "Nullplural"
+          ]
+        },
+        {
+          "id": "ch02-g16",
+          "category": "pronunciation",
+          "title": "Use an appropriate sentence melody for information questions, yes-or-no questions and answers",
+          "keywords": [
+            "Satzmelodie",
+            "W-Frage",
+            "Ja-Nein-Frage",
+            "Aussage",
+            "steigend",
+            "fallend"
+          ]
+        },
+        {
+          "id": "ch02-g17",
+          "category": "strategy",
+          "title": "Store a noun together with its article and plural rather than as an isolated English equivalent",
+          "keywords": [
+            "Artikel",
+            "Nomen",
+            "Plural",
+            "Lernkarte",
+            "Farbmarkierung"
+          ]
+        },
+        {
+          "id": "ch02-g18",
+          "category": "culture",
+          "title": "Use a club registration or first meeting to ask about another person's interests and introduce yourself",
+          "keywords": [
+            "Club",
+            "Verein",
+            "Anmeldung",
+            "Mitglied",
+            "Hobby",
+            "Kontakt"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "In Hamburg",
+      "pages": [
+        28,
+        37
+      ],
+      "sourcePdfPages": [
+        5,
+        38
+      ],
+      "goals": [
+        {
+          "id": "ch03-g01",
+          "category": "function",
+          "title": "Ask what a place or object is and identify or correct it",
+          "keywords": [
+            "Was ist das",
+            "Ist das",
+            "Das ist",
+            "Das sind",
+            "ja",
+            "nein"
+          ]
+        },
+        {
+          "id": "ch03-g02",
+          "category": "function",
+          "title": "Ask politely for a place and follow or give a short walking route",
+          "keywords": [
+            "Entschuldigung",
+            "Wo ist bitte",
+            "links",
+            "rechts",
+            "geradeaus",
+            "dann",
+            "Gehen Sie"
+          ]
+        },
+        {
+          "id": "ch03-g03",
+          "category": "function",
+          "title": "Check that you understood a route and thank the helper",
+          "keywords": [
+            "Also hier",
+            "und dann",
+            "genau",
+            "Vielen Dank",
+            "Bitte gern"
+          ]
+        },
+        {
+          "id": "ch03-g04",
+          "category": "function",
+          "title": "Say in which month or season a familiar activity takes place",
+          "keywords": [
+            "Monat",
+            "Jahreszeit",
+            "im",
+            "Sommer",
+            "Winter",
+            "Hobby"
+          ]
+        },
+        {
+          "id": "ch03-g05",
+          "category": "vocabulary",
+          "title": "Name essential places and buildings in a town",
+          "keywords": [
+            "Bahnhof",
+            "Rathaus",
+            "Kirche",
+            "Hotel",
+            "Hafen",
+            "Brücke",
+            "Straße",
+            "Platz",
+            "Theater",
+            "Museum",
+            "See",
+            "Fluss"
+          ]
+        },
+        {
+          "id": "ch03-g06",
+          "category": "vocabulary",
+          "title": "Name common ways to travel within or between towns",
+          "keywords": [
+            "Bus",
+            "Auto",
+            "U-Bahn",
+            "S-Bahn",
+            "Zug",
+            "Schiff",
+            "Flugzeug",
+            "Fahrrad"
+          ]
+        },
+        {
+          "id": "ch03-g07",
+          "category": "vocabulary",
+          "title": "Use the basic direction words needed for a short route",
+          "keywords": [
+            "links",
+            "rechts",
+            "geradeaus",
+            "hier",
+            "da",
+            "dann"
+          ]
+        },
+        {
+          "id": "ch03-g08",
+          "category": "vocabulary",
+          "title": "Name all twelve months and the four seasons",
+          "keywords": [
+            "Januar",
+            "Februar",
+            "März",
+            "April",
+            "Mai",
+            "Juni",
+            "Juli",
+            "August",
+            "September",
+            "Oktober",
+            "November",
+            "Dezember",
+            "Frühling",
+            "Sommer",
+            "Herbst",
+            "Winter"
+          ]
+        },
+        {
+          "id": "ch03-g09",
+          "category": "grammar",
+          "title": "Choose ein, ein or eine to introduce an unidentified singular noun and use no indefinite article in the plural",
+          "keywords": [
+            "ein",
+            "eine",
+            "Nominativ",
+            "neu",
+            "unbekannt",
+            "Plural"
+          ]
+        },
+        {
+          "id": "ch03-g10",
+          "category": "grammar",
+          "title": "Choose kein or keine to deny that something belongs to a noun category",
+          "keywords": [
+            "kein",
+            "keine",
+            "Negationsartikel",
+            "Nominativ",
+            "Plural"
+          ]
+        },
+        {
+          "id": "ch03-g11",
+          "category": "grammar",
+          "title": "Distinguish a newly introduced thing from a known thing using indefinite and definite articles",
+          "keywords": [
+            "ein",
+            "eine",
+            "der",
+            "das",
+            "die",
+            "bekannt",
+            "unbekannt"
+          ]
+        },
+        {
+          "id": "ch03-g12",
+          "category": "grammar",
+          "title": "Form a polite instruction with verb plus Sie",
+          "keywords": [
+            "Imperativ",
+            "Sie",
+            "Gehen Sie",
+            "Fahren Sie",
+            "Position 1"
+          ]
+        },
+        {
+          "id": "ch03-g13",
+          "category": "grammar",
+          "title": "Describe a place with sein followed by an unchanged adjective",
+          "keywords": [
+            "sein",
+            "groß",
+            "hoch",
+            "schön",
+            "Adjektiv",
+            "Prädikativ"
+          ]
+        },
+        {
+          "id": "ch03-g14",
+          "category": "pronunciation",
+          "title": "Hear and say the contrast between long and short vowels in familiar words",
+          "keywords": [
+            "lange Vokale",
+            "kurze Vokale",
+            "Hafen",
+            "Hallo",
+            "wohnen",
+            "kommen",
+            "Schiff",
+            "sieben"
+          ]
+        },
+        {
+          "id": "ch03-g15",
+          "category": "strategy",
+          "title": "Use familiar international words and visible names to understand a short tourist text",
+          "keywords": [
+            "internationale Wörter",
+            "Hotel",
+            "Museum",
+            "Theater",
+            "Textverstehen"
+          ]
+        },
+        {
+          "id": "ch03-g16",
+          "category": "culture",
+          "title": "Recognize Hamburg as a northern German port city and use its urban sights and events as reading contexts",
+          "keywords": [
+            "Hamburg",
+            "Hafen",
+            "Elbe",
+            "Stadttour",
+            "Veranstaltung"
+          ]
+        },
+        {
+          "id": "ch03-g17",
+          "category": "culture",
+          "title": "Relate seasons and simple seasonal activities to the German-speaking countries",
+          "keywords": [
+            "D-A-CH",
+            "Jahreszeiten",
+            "Frühling",
+            "Sommer",
+            "Herbst",
+            "Winter"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Guten Appetit!",
+      "pages": [
+        44,
+        53
+      ],
+      "sourcePdfPages": [
+        6,
+        54
+      ],
+      "goals": [
+        {
+          "id": "ch04-g01",
+          "category": "function",
+          "title": "Plan a grocery purchase by saying what is needed and making a short shopping list",
+          "keywords": [
+            "brauchen",
+            "kaufen",
+            "Einkaufsliste",
+            "noch",
+            "alles"
+          ]
+        },
+        {
+          "id": "ch04-g02",
+          "category": "function",
+          "title": "Request goods, ask where to find them, ask a price and complete a short shop exchange",
+          "keywords": [
+            "ich möchte",
+            "Haben Sie",
+            "Wo finde ich",
+            "Was kostet",
+            "Wie viel",
+            "wechseln",
+            "Sonst noch etwas"
+          ]
+        },
+        {
+          "id": "ch04-g03",
+          "category": "function",
+          "title": "Offer food, accept or decline politely and respond to a meal greeting",
+          "keywords": [
+            "Guten Appetit",
+            "gleichfalls",
+            "noch",
+            "ja bitte",
+            "nein danke",
+            "satt"
+          ]
+        },
+        {
+          "id": "ch04-g04",
+          "category": "function",
+          "title": "Say which foods and drinks you like and which you do not eat or drink",
+          "keywords": [
+            "essen",
+            "trinken",
+            "gern",
+            "nicht gern",
+            "mögen",
+            "kein"
+          ]
+        },
+        {
+          "id": "ch04-g05",
+          "category": "function",
+          "title": "Describe what you eat at different meals or times of day",
+          "keywords": [
+            "zum Frühstück",
+            "morgens",
+            "vormittags",
+            "mittags",
+            "nachmittags",
+            "abends",
+            "oft"
+          ]
+        },
+        {
+          "id": "ch04-g06",
+          "category": "vocabulary",
+          "title": "Name common foods, drinks and meals with their useful noun forms",
+          "keywords": [
+            "Frühstück",
+            "Obst",
+            "Gemüse",
+            "Brot",
+            "Käse",
+            "Fleisch",
+            "Fisch",
+            "Milch",
+            "Wasser",
+            "Kaffee",
+            "Tee",
+            "Saft"
+          ]
+        },
+        {
+          "id": "ch04-g07",
+          "category": "vocabulary",
+          "title": "Use useful quantities and shopping units with food and drink",
+          "keywords": [
+            "Kilo",
+            "Gramm",
+            "Liter",
+            "Flasche",
+            "Packung",
+            "Stück",
+            "Euro",
+            "Cent"
+          ]
+        },
+        {
+          "id": "ch04-g08",
+          "category": "vocabulary",
+          "title": "Identify the main types of food shop and match purchases to them",
+          "keywords": [
+            "Supermarkt",
+            "Markt",
+            "Bäckerei",
+            "Metzgerei",
+            "Geschäft"
+          ]
+        },
+        {
+          "id": "ch04-g09",
+          "category": "grammar",
+          "title": "Distinguish a sentence subject from a direct object and choose accusative articles",
+          "keywords": [
+            "Nominativ",
+            "Akkusativ",
+            "den",
+            "einen",
+            "keinen",
+            "das",
+            "die",
+            "Plural"
+          ]
+        },
+        {
+          "id": "ch04-g10",
+          "category": "grammar",
+          "title": "Use common food and shopping verbs with a direct object",
+          "keywords": [
+            "brauchen",
+            "haben",
+            "machen",
+            "kochen",
+            "essen",
+            "kaufen",
+            "nehmen",
+            "mögen",
+            "möchten"
+          ]
+        },
+        {
+          "id": "ch04-g11",
+          "category": "grammar",
+          "title": "Use the present forms of essen and mögen and the polite request forms of möchten",
+          "keywords": [
+            "esse",
+            "isst",
+            "mag",
+            "magst",
+            "mögen",
+            "möchte",
+            "möchtest",
+            "möchten"
+          ]
+        },
+        {
+          "id": "ch04-g12",
+          "category": "grammar",
+          "title": "Place a time expression first while keeping the verb second and the subject after the verb",
+          "keywords": [
+            "morgens",
+            "zum Frühstück",
+            "Position 1",
+            "Position 2",
+            "Subjekt"
+          ]
+        },
+        {
+          "id": "ch04-g13",
+          "category": "pronunciation",
+          "title": "Distinguish and produce the German umlaut vowels ä, ö and ü",
+          "keywords": [
+            "ä",
+            "ö",
+            "ü",
+            "Umlaut",
+            "Vokal"
+          ]
+        },
+        {
+          "id": "ch04-g14",
+          "category": "strategy",
+          "title": "Organize new vocabulary into meaningful groups before reviewing it",
+          "keywords": [
+            "Wortfeld",
+            "Obst",
+            "Gemüse",
+            "Getränke",
+            "Mahlzeiten",
+            "ordnen"
+          ]
+        },
+        {
+          "id": "ch04-g15",
+          "category": "strategy",
+          "title": "Use who, what, when, where and similar questions to retrieve key information from a short text",
+          "keywords": [
+            "W-Fragen",
+            "wer",
+            "was",
+            "wann",
+            "wo",
+            "Textverstehen"
+          ]
+        },
+        {
+          "id": "ch04-g16",
+          "category": "culture",
+          "title": "Use food-related jobs and everyday meal politeness as German-speaking social contexts",
+          "keywords": [
+            "Koch",
+            "Köchin",
+            "Bäcker",
+            "Bäckerin",
+            "Berufe",
+            "Essensangebot",
+            "Guten Appetit"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Alltag und Familie",
+      "pages": [
+        54,
+        63
+      ],
+      "sourcePdfPages": [
+        6,
+        64
+      ],
+      "goals": [
+        {
+          "id": "ch05-g01",
+          "category": "function",
+          "title": "Ask for and tell a clock time using official and everyday time expressions",
+          "keywords": [
+            "Wie spät",
+            "Wie viel Uhr",
+            "halb",
+            "Viertel",
+            "nach",
+            "vor",
+            "Uhr"
+          ]
+        },
+        {
+          "id": "ch05-g02",
+          "category": "function",
+          "title": "Say when an activity starts, ends and how long it lasts",
+          "keywords": [
+            "wann",
+            "wie lange",
+            "am",
+            "um",
+            "von",
+            "bis"
+          ]
+        },
+        {
+          "id": "ch05-g03",
+          "category": "function",
+          "title": "Describe close family relationships and a basic daily routine",
+          "keywords": [
+            "Familie",
+            "Verwandtschaft",
+            "Tagesablauf",
+            "mein",
+            "dein"
+          ]
+        },
+        {
+          "id": "ch05-g04",
+          "category": "function",
+          "title": "Arrange a meeting or telephone appointment and accept or reject a proposed time",
+          "keywords": [
+            "Termin",
+            "heute",
+            "morgen",
+            "am",
+            "um",
+            "können",
+            "leider nicht"
+          ]
+        },
+        {
+          "id": "ch05-g05",
+          "category": "function",
+          "title": "Apologize for being late and respond appropriately to another person's apology",
+          "keywords": [
+            "Entschuldigung",
+            "Es tut mir leid",
+            "zu spät",
+            "Kein Problem",
+            "Macht nichts",
+            "pünktlich"
+          ]
+        },
+        {
+          "id": "ch05-g06",
+          "category": "vocabulary",
+          "title": "Name the principal parts of a day and common routine activities",
+          "keywords": [
+            "Morgen",
+            "Vormittag",
+            "Mittag",
+            "Nachmittag",
+            "Abend",
+            "Nacht",
+            "aufstehen",
+            "arbeiten",
+            "essen",
+            "schlafen"
+          ]
+        },
+        {
+          "id": "ch05-g07",
+          "category": "vocabulary",
+          "title": "Name close family members and distinguish singular and plural relatives",
+          "keywords": [
+            "Vater",
+            "Mutter",
+            "Eltern",
+            "Kind",
+            "Kinder",
+            "Sohn",
+            "Tochter",
+            "Bruder",
+            "Schwester",
+            "Großeltern"
+          ]
+        },
+        {
+          "id": "ch05-g08",
+          "category": "grammar",
+          "title": "Choose am for weekdays and parts of the day, um for a clock time, and von ... bis for an interval",
+          "keywords": [
+            "am",
+            "um",
+            "von",
+            "bis",
+            "Wochentag",
+            "Tageszeit",
+            "Uhrzeit"
+          ]
+        },
+        {
+          "id": "ch05-g09",
+          "category": "grammar",
+          "title": "Choose the possessive stem for each possessor including formal Ihr",
+          "keywords": [
+            "mein",
+            "dein",
+            "sein",
+            "ihr",
+            "unser",
+            "euer",
+            "Ihr",
+            "Possessivartikel"
+          ]
+        },
+        {
+          "id": "ch05-g10",
+          "category": "grammar",
+          "title": "Give possessive articles the nominative or accusative ending required by the following noun",
+          "keywords": [
+            "mein",
+            "meine",
+            "meinen",
+            "euer",
+            "eure",
+            "Nominativ",
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "ch05-g11",
+          "category": "grammar",
+          "title": "Conjugate müssen, können and wollen and distinguish obligation, ability or possibility, and intention",
+          "keywords": [
+            "muss",
+            "musst",
+            "müssen",
+            "kann",
+            "kannst",
+            "können",
+            "will",
+            "willst",
+            "wollen"
+          ]
+        },
+        {
+          "id": "ch05-g12",
+          "category": "grammar",
+          "title": "Build a statement or question with a conjugated modal and a final infinitive",
+          "keywords": [
+            "Satzklammer",
+            "Modalverb",
+            "Infinitiv",
+            "Satzende",
+            "Position 1",
+            "Position 2"
+          ]
+        },
+        {
+          "id": "ch05-g13",
+          "category": "pronunciation",
+          "title": "Hear and produce r within a word and recognize its reduced pronunciation at a word ending",
+          "keywords": [
+            "r",
+            "Wortmitte",
+            "Wortende",
+            "Familienwörter"
+          ]
+        },
+        {
+          "id": "ch05-g14",
+          "category": "strategy",
+          "title": "Prepare the key details and useful questions before making an appointment by telephone",
+          "keywords": [
+            "Telefonat",
+            "Name",
+            "Termin",
+            "Datum",
+            "Uhrzeit",
+            "Notizen",
+            "Rückfrage"
+          ]
+        },
+        {
+          "id": "ch05-g15",
+          "category": "culture",
+          "title": "Handle punctuality as a context-dependent expectation by giving a time, warning of delay and apologizing",
+          "keywords": [
+            "Pünktlichkeit",
+            "Termin",
+            "Verspätung",
+            "Entschuldigung"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Zeit mit Freunden",
+      "pages": [
+        64,
+        73
+      ],
+      "sourcePdfPages": [
+        6,
+        74
+      ],
+      "goals": [
+        {
+          "id": "ch06-g01",
+          "category": "function",
+          "title": "Ask for and give a calendar date and a birthday",
+          "keywords": [
+            "Datum",
+            "Geburtstag",
+            "Wann",
+            "am",
+            "Ordinalzahl"
+          ]
+        },
+        {
+          "id": "ch06-g02",
+          "category": "function",
+          "title": "Read and write an invitation with date, place, starting time and a request about what to bring",
+          "keywords": [
+            "Einladung",
+            "Party",
+            "Ort",
+            "Beginn",
+            "mitbringen",
+            "Anrede",
+            "Gruß"
+          ]
+        },
+        {
+          "id": "ch06-g03",
+          "category": "function",
+          "title": "Discuss a leisure plan and ask another person to join or help",
+          "keywords": [
+            "Freizeit",
+            "mitkommen",
+            "mitmachen",
+            "abholen",
+            "einladen"
+          ]
+        },
+        {
+          "id": "ch06-g04",
+          "category": "function",
+          "title": "Order food and drinks for yourself or another person",
+          "keywords": [
+            "bestellen",
+            "für mich",
+            "ich hätte gern",
+            "ich nehme",
+            "Speisekarte"
+          ]
+        },
+        {
+          "id": "ch06-g05",
+          "category": "function",
+          "title": "Ask to pay, state whether payment is together or separate and use a simple tipping phrase",
+          "keywords": [
+            "zahlen",
+            "zusammen",
+            "getrennt",
+            "Euro",
+            "Stimmt so",
+            "Machen Sie"
+          ]
+        },
+        {
+          "id": "ch06-g06",
+          "category": "function",
+          "title": "Ask how an event was and describe it with war or hatte",
+          "keywords": [
+            "Wie war",
+            "war",
+            "waren",
+            "hatte",
+            "hatten",
+            "Spaß",
+            "schön",
+            "nicht so gut"
+          ]
+        },
+        {
+          "id": "ch06-g07",
+          "category": "function",
+          "title": "Extract the event, place, date and time from a short radio recommendation",
+          "keywords": [
+            "Veranstaltung",
+            "Radio",
+            "Wann",
+            "Wo",
+            "Was",
+            "Uhrzeit"
+          ]
+        },
+        {
+          "id": "ch06-g08",
+          "category": "vocabulary",
+          "title": "Name common leisure activities and public events",
+          "keywords": [
+            "Konzert",
+            "Theater",
+            "Kino",
+            "Ausstellung",
+            "Fest",
+            "Party",
+            "Restaurant",
+            "Freizeit"
+          ]
+        },
+        {
+          "id": "ch06-g09",
+          "category": "vocabulary",
+          "title": "Recognize restaurant food, drink and service words needed for a short order",
+          "keywords": [
+            "Wasser",
+            "Cola",
+            "Apfelsaft",
+            "Salat",
+            "Suppe",
+            "Kellner",
+            "Rechnung",
+            "zahlen"
+          ]
+        },
+        {
+          "id": "ch06-g10",
+          "category": "grammar",
+          "title": "Form the day-of-month ordinals through 31 and use the ending after am",
+          "keywords": [
+            "ersten",
+            "zweiten",
+            "dritten",
+            "siebten",
+            "achten",
+            "-ten",
+            "-sten",
+            "am"
+          ]
+        },
+        {
+          "id": "ch06-g11",
+          "category": "grammar",
+          "title": "Conjugate a separable verb with the prefix at the end and keep it intact after a modal",
+          "keywords": [
+            "einladen",
+            "abholen",
+            "anfangen",
+            "anrufen",
+            "mitbringen",
+            "mitkommen",
+            "Satzklammer"
+          ]
+        },
+        {
+          "id": "ch06-g12",
+          "category": "grammar",
+          "title": "Replace a direct object with the correct accusative personal pronoun",
+          "keywords": [
+            "mich",
+            "dich",
+            "ihn",
+            "es",
+            "sie",
+            "uns",
+            "euch",
+            "Sie"
+          ]
+        },
+        {
+          "id": "ch06-g13",
+          "category": "grammar",
+          "title": "Use für with an accusative noun or pronoun and ask Für wen",
+          "keywords": [
+            "für",
+            "Akkusativ",
+            "für wen",
+            "für den",
+            "für ihn"
+          ]
+        },
+        {
+          "id": "ch06-g14",
+          "category": "grammar",
+          "title": "Use the complete simple-past forms of sein and haben for a short event report",
+          "keywords": [
+            "war",
+            "warst",
+            "waren",
+            "wart",
+            "hatte",
+            "hattest",
+            "hatten",
+            "hattet"
+          ]
+        },
+        {
+          "id": "ch06-g15",
+          "category": "pronunciation",
+          "title": "Distinguish and produce the vowel combinations ei, eu and au",
+          "keywords": [
+            "ei",
+            "eu",
+            "au",
+            "Diphthong",
+            "einladen",
+            "Freunde",
+            "auch"
+          ]
+        },
+        {
+          "id": "ch06-g16",
+          "category": "strategy",
+          "title": "Listen or read first for the requested key facts rather than trying to translate every word",
+          "keywords": [
+            "Schlüsselinformation",
+            "wer",
+            "was",
+            "wann",
+            "wo",
+            "Notizen"
+          ]
+        },
+        {
+          "id": "ch06-g17",
+          "category": "culture",
+          "title": "Recognize different informal places for eating and meeting in Germany, Austria and Switzerland",
+          "keywords": [
+            "Kneipe",
+            "Café",
+            "Restaurant",
+            "D-A-CH",
+            "Veranstaltungen"
+          ]
+        },
+        {
+          "id": "ch06-g18",
+          "category": "culture",
+          "title": "Use restaurant payment conventions such as zusammen oder getrennt and a spoken tip amount",
+          "keywords": [
+            "getrennt",
+            "zusammen",
+            "Trinkgeld",
+            "Stimmt so",
+            "Service"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Arbeitsalltag",
+      "pages": [
+        80,
+        89
+      ],
+      "sourcePdfPages": [
+        7,
+        90
+      ],
+      "goals": [
+        {
+          "id": "ch07-g01",
+          "category": "function",
+          "title": "Understand and write a short description of an ordinary working day",
+          "keywords": [
+            "Blog",
+            "Arbeitstag",
+            "Praktikum",
+            "Alltag",
+            "Text"
+          ]
+        },
+        {
+          "id": "ch07-g02",
+          "category": "function",
+          "title": "Understand a simple workplace exchange and make a polite practical request",
+          "keywords": [
+            "Büro",
+            "drucken",
+            "telefonieren",
+            "helfen",
+            "bitte",
+            "kannst du",
+            "können Sie"
+          ]
+        },
+        {
+          "id": "ch07-g03",
+          "category": "function",
+          "title": "Say where someone is, where they are going and where they have come from",
+          "keywords": [
+            "wo",
+            "wohin",
+            "woher",
+            "zu",
+            "bei",
+            "aus",
+            "von",
+            "in"
+          ]
+        },
+        {
+          "id": "ch07-g04",
+          "category": "function",
+          "title": "Describe an ordered process using zuerst and dann",
+          "keywords": [
+            "zuerst",
+            "dann",
+            "Reihenfolge",
+            "Computer",
+            "Datei",
+            "öffnen"
+          ]
+        },
+        {
+          "id": "ch07-g05",
+          "category": "function",
+          "title": "Understand a short letter and write a simple reply using an appropriate opening and closing",
+          "keywords": [
+            "Brief",
+            "Anrede",
+            "Antwort",
+            "Gruß",
+            "Sehr geehrte",
+            "Mit freundlichen Grüßen"
+          ]
+        },
+        {
+          "id": "ch07-g06",
+          "category": "function",
+          "title": "Start and respond to simple office small talk on familiar topics",
+          "keywords": [
+            "Wetter",
+            "Sport",
+            "Familie",
+            "Wochenende",
+            "Small Talk"
+          ]
+        },
+        {
+          "id": "ch07-g07",
+          "category": "vocabulary",
+          "title": "Name common office objects, tasks and people",
+          "keywords": [
+            "Büro",
+            "Computer",
+            "Datei",
+            "Drucker",
+            "Besprechung",
+            "Chef",
+            "Chefin",
+            "Kunde",
+            "Kollege",
+            "drucken"
+          ]
+        },
+        {
+          "id": "ch07-g08",
+          "category": "vocabulary",
+          "title": "Recognize elementary banking and media vocabulary in everyday work contexts",
+          "keywords": [
+            "Bank",
+            "Geld",
+            "Konto",
+            "überweisen",
+            "Medien",
+            "E-Mail",
+            "Internet",
+            "Telefon"
+          ]
+        },
+        {
+          "id": "ch07-g09",
+          "category": "grammar",
+          "title": "Join short clauses with und, oder and aber while retaining main-clause word order",
+          "keywords": [
+            "und",
+            "oder",
+            "aber",
+            "Satzverbindung",
+            "Subjekt",
+            "Verbposition"
+          ]
+        },
+        {
+          "id": "ch07-g10",
+          "category": "grammar",
+          "title": "Choose definite and indefinite dative articles and add the usual dative plural noun n",
+          "keywords": [
+            "dem",
+            "einem",
+            "der",
+            "einer",
+            "den",
+            "Plural",
+            "-n",
+            "Dativ"
+          ]
+        },
+        {
+          "id": "ch07-g11",
+          "category": "grammar",
+          "title": "Use mit plus a dative noun or pronoun for a companion or means of transport",
+          "keywords": [
+            "mit",
+            "Dativ",
+            "Mit wem",
+            "Freund",
+            "Taxi"
+          ]
+        },
+        {
+          "id": "ch07-g12",
+          "category": "grammar",
+          "title": "Use zu, bei, aus and von with dative and distinguish destination, location and source",
+          "keywords": [
+            "zu",
+            "bei",
+            "aus",
+            "von",
+            "wo",
+            "wohin",
+            "woher"
+          ]
+        },
+        {
+          "id": "ch07-g13",
+          "category": "grammar",
+          "title": "Use in with dative for a location and recognize common preposition-article contractions",
+          "keywords": [
+            "in",
+            "im",
+            "zum",
+            "zur",
+            "beim",
+            "vom",
+            "Kontraktion"
+          ]
+        },
+        {
+          "id": "ch07-g14",
+          "category": "grammar",
+          "title": "Respond to a positive or negative yes-or-no question with ja, nein or doch as appropriate",
+          "keywords": [
+            "ja",
+            "nein",
+            "doch",
+            "Negativfrage",
+            "nicht",
+            "kein"
+          ]
+        },
+        {
+          "id": "ch07-g15",
+          "category": "pronunciation",
+          "title": "Distinguish the common pronunciations written s, sch and st",
+          "keywords": [
+            "s",
+            "sch",
+            "st",
+            "Stuhl",
+            "Straße",
+            "Samstag",
+            "Fest"
+          ]
+        },
+        {
+          "id": "ch07-g16",
+          "category": "strategy",
+          "title": "Plan a short letter around recipient, purpose, required details, opening and closing",
+          "keywords": [
+            "Briefplan",
+            "Anrede",
+            "Text",
+            "Gruß",
+            "formell",
+            "informell"
+          ]
+        },
+        {
+          "id": "ch07-g17",
+          "category": "culture",
+          "title": "Select a familiar and appropriately personal topic for a short conversation with colleagues",
+          "keywords": [
+            "Small Talk",
+            "Büro",
+            "Wetter",
+            "Sport",
+            "Wochenende",
+            "Höflichkeit"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Fit und gesund",
+      "pages": [
+        90,
+        99
+      ],
+      "sourcePdfPages": [
+        7,
+        100
+      ],
+      "goals": [
+        {
+          "id": "ch08-g01",
+          "category": "function",
+          "title": "Understand and give short instructions in a fitness or everyday health context",
+          "keywords": [
+            "Aufforderung",
+            "Anweisung",
+            "aufstehen",
+            "laufen",
+            "trinken",
+            "bewegen"
+          ]
+        },
+        {
+          "id": "ch08-g02",
+          "category": "function",
+          "title": "Ask and answer about age, height and weight and decline an unwanted personal question politely",
+          "keywords": [
+            "Alter",
+            "Jahre",
+            "Größe",
+            "Meter",
+            "Gewicht",
+            "Kilo",
+            "nicht sagen"
+          ]
+        },
+        {
+          "id": "ch08-g03",
+          "category": "function",
+          "title": "Describe a symptom or painful body part during a simple doctor visit",
+          "keywords": [
+            "krank",
+            "Schmerzen",
+            "Fieber",
+            "wehtun",
+            "Mir ist schlecht"
+          ]
+        },
+        {
+          "id": "ch08-g04",
+          "category": "function",
+          "title": "Ask a doctor about permitted actions and the duration of a restriction",
+          "keywords": [
+            "Darf ich",
+            "Muss ich",
+            "Wie lange",
+            "bleiben",
+            "zu Hause",
+            "im Bett"
+          ]
+        },
+        {
+          "id": "ch08-g05",
+          "category": "function",
+          "title": "Pass on a doctor's instruction using sollen in a short main clause",
+          "keywords": [
+            "der Arzt sagt",
+            "ich soll",
+            "sollen",
+            "Anweisung"
+          ]
+        },
+        {
+          "id": "ch08-g06",
+          "category": "function",
+          "title": "Understand and express permission, a requirement and a prohibition without confusing them",
+          "keywords": [
+            "dürfen",
+            "dürfen nicht",
+            "müssen",
+            "Erlaubnis",
+            "Gebot",
+            "Verbot"
+          ]
+        },
+        {
+          "id": "ch08-g07",
+          "category": "function",
+          "title": "Understand a simple health tip and give one to a friend",
+          "keywords": [
+            "Tipp",
+            "trinken",
+            "schlafen",
+            "bewegen",
+            "Gute Besserung"
+          ]
+        },
+        {
+          "id": "ch08-g08",
+          "category": "vocabulary",
+          "title": "Name the principal external body parts needed to locate pain",
+          "keywords": [
+            "Kopf",
+            "Hals",
+            "Auge",
+            "Ohr",
+            "Arm",
+            "Hand",
+            "Bauch",
+            "Rücken",
+            "Bein",
+            "Fuß"
+          ]
+        },
+        {
+          "id": "ch08-g09",
+          "category": "vocabulary",
+          "title": "Name common illnesses and symptoms in a basic health conversation",
+          "keywords": [
+            "krank",
+            "Fieber",
+            "Husten",
+            "Kopfschmerzen",
+            "Halsschmerzen",
+            "Bauchschmerzen",
+            "Wunde"
+          ]
+        },
+        {
+          "id": "ch08-g10",
+          "category": "vocabulary",
+          "title": "Recognize common medicine forms and health-care roles",
+          "keywords": [
+            "Tablette",
+            "Salbe",
+            "Medikament",
+            "Rezept",
+            "Arzt",
+            "Ärztin",
+            "Pfleger",
+            "Krankenhaus"
+          ]
+        },
+        {
+          "id": "ch08-g11",
+          "category": "grammar",
+          "title": "Form imperatives for du, ihr and Sie, including sein and common stem-changing verbs",
+          "keywords": [
+            "mach",
+            "macht",
+            "machen Sie",
+            "sei",
+            "seid",
+            "seien Sie",
+            "lauf",
+            "lest",
+            "nimm"
+          ]
+        },
+        {
+          "id": "ch08-g12",
+          "category": "grammar",
+          "title": "Place the imperative first and a separable prefix at the end",
+          "keywords": [
+            "Imperativsatz",
+            "Position 1",
+            "aufstehen",
+            "steh auf",
+            "Satzende"
+          ]
+        },
+        {
+          "id": "ch08-g13",
+          "category": "grammar",
+          "title": "Conjugate dürfen and sollen and use them with a final infinitive alongside müssen",
+          "keywords": [
+            "darf",
+            "darfst",
+            "dürfen",
+            "dürft",
+            "soll",
+            "sollst",
+            "sollen",
+            "sollt",
+            "müssen",
+            "Satzklammer"
+          ]
+        },
+        {
+          "id": "ch08-g14",
+          "category": "pronunciation",
+          "title": "Distinguish p and b, t and d, and k and g in familiar words",
+          "keywords": [
+            "p",
+            "b",
+            "t",
+            "d",
+            "k",
+            "g",
+            "Bauch",
+            "Patient",
+            "Tablette",
+            "krank",
+            "gehen"
+          ]
+        },
+        {
+          "id": "ch08-g15",
+          "category": "strategy",
+          "title": "Infer a new word from known parts, nearby words and the immediate situation",
+          "keywords": [
+            "Worterschließung",
+            "Wortbaustein",
+            "Kontext",
+            "Kopfschmerzen"
+          ]
+        },
+        {
+          "id": "ch08-g16",
+          "category": "culture",
+          "title": "Understand a simple text about familiar household remedies as a cultural and language context",
+          "keywords": [
+            "Hausmittel",
+            "Tee",
+            "Ruhe",
+            "Erkältung",
+            "D-A-CH"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Meine Wohnung",
+      "pages": [
+        100,
+        109
+      ],
+      "sourcePdfPages": [
+        7,
+        110
+      ],
+      "goals": [
+        {
+          "id": "ch09-g01",
+          "category": "function",
+          "title": "Find key details such as size, rent, location and contact information in a simple housing advertisement",
+          "keywords": [
+            "Wohnungsanzeige",
+            "Miete",
+            "Zimmer",
+            "Quadratmeter",
+            "Preis",
+            "Kontakt"
+          ]
+        },
+        {
+          "id": "ch09-g02",
+          "category": "function",
+          "title": "Describe a home using its rooms, location and basic qualities",
+          "keywords": [
+            "Wohnung",
+            "zentral",
+            "ruhig",
+            "hell",
+            "groß",
+            "klein",
+            "teuer"
+          ]
+        },
+        {
+          "id": "ch09-g03",
+          "category": "function",
+          "title": "Plan which furniture to put in which room and ask where an item should go",
+          "keywords": [
+            "Einrichtung",
+            "stellen",
+            "kommen",
+            "wohin",
+            "in"
+          ]
+        },
+        {
+          "id": "ch09-g04",
+          "category": "function",
+          "title": "Say where furniture or an object is in relation to another object",
+          "keywords": [
+            "wo",
+            "stehen",
+            "liegen",
+            "sein",
+            "neben",
+            "unter",
+            "zwischen"
+          ]
+        },
+        {
+          "id": "ch09-g05",
+          "category": "function",
+          "title": "Accept or decline an invitation and include thanks, a reason or an offer to bring something",
+          "keywords": [
+            "Einladung",
+            "Antwort",
+            "danke",
+            "leider",
+            "mitbringen",
+            "mitkommen",
+            "Gruß"
+          ]
+        },
+        {
+          "id": "ch09-g06",
+          "category": "function",
+          "title": "Express a positive or negative opinion of a room or furnishing",
+          "keywords": [
+            "finden",
+            "mögen",
+            "schön",
+            "hässlich",
+            "gemütlich",
+            "langweilig"
+          ]
+        },
+        {
+          "id": "ch09-g07",
+          "category": "function",
+          "title": "Discuss whether someone lives alone, with family, with a partner or in a shared flat",
+          "keywords": [
+            "allein",
+            "Familie",
+            "Freund",
+            "Freundin",
+            "WG",
+            "Wohnform"
+          ]
+        },
+        {
+          "id": "ch09-g08",
+          "category": "function",
+          "title": "Write a short description of a home using reusable sentence building blocks",
+          "keywords": [
+            "Wohnungstext",
+            "Zimmer",
+            "Lage",
+            "Möbel",
+            "Meinung",
+            "Textbaustein"
+          ]
+        },
+        {
+          "id": "ch09-g09",
+          "category": "vocabulary",
+          "title": "Name the main rooms of a home",
+          "keywords": [
+            "Wohnzimmer",
+            "Schlafzimmer",
+            "Küche",
+            "Bad",
+            "Flur",
+            "Arbeitszimmer",
+            "Balkon",
+            "Terrasse"
+          ]
+        },
+        {
+          "id": "ch09-g10",
+          "category": "vocabulary",
+          "title": "Name common furniture and domestic appliances with gender and plural",
+          "keywords": [
+            "Tisch",
+            "Stuhl",
+            "Schrank",
+            "Regal",
+            "Sofa",
+            "Sessel",
+            "Bett",
+            "Lampe",
+            "Herd",
+            "Waschmaschine",
+            "Fernseher"
+          ]
+        },
+        {
+          "id": "ch09-g11",
+          "category": "vocabulary",
+          "title": "Name basic colours and common housing types",
+          "keywords": [
+            "rot",
+            "blau",
+            "grün",
+            "gelb",
+            "weiß",
+            "schwarz",
+            "grau",
+            "braun",
+            "Haus",
+            "Wohnung",
+            "Reihenhaus",
+            "Hochhaus",
+            "WG"
+          ]
+        },
+        {
+          "id": "ch09-g12",
+          "category": "grammar",
+          "title": "Describe with sein plus an adjective and modify it with nicht, sehr or zu",
+          "keywords": [
+            "sein",
+            "Adjektiv",
+            "nicht",
+            "sehr",
+            "zu",
+            "Prädikativ"
+          ]
+        },
+        {
+          "id": "ch09-g13",
+          "category": "grammar",
+          "title": "Use in plus accusative for a destination and contrast it with in plus dative for a location",
+          "keywords": [
+            "wohin",
+            "wo",
+            "in den",
+            "ins",
+            "in die",
+            "im",
+            "in der",
+            "in den",
+            "Plural"
+          ]
+        },
+        {
+          "id": "ch09-g14",
+          "category": "grammar",
+          "title": "Express static position with all nine two-way prepositions using dative",
+          "keywords": [
+            "an",
+            "auf",
+            "hinter",
+            "in",
+            "neben",
+            "über",
+            "unter",
+            "vor",
+            "zwischen",
+            "Dativ"
+          ]
+        },
+        {
+          "id": "ch09-g15",
+          "category": "pronunciation",
+          "title": "Distinguish long and short e in familiar home and everyday words",
+          "keywords": [
+            "e",
+            "lang",
+            "kurz",
+            "stehen",
+            "schnell",
+            "Weg",
+            "leer"
+          ]
+        },
+        {
+          "id": "ch09-g16",
+          "category": "strategy",
+          "title": "Build a coherent short text by selecting, ordering and adapting known sentence chunks",
+          "keywords": [
+            "Textbausteine",
+            "Anrede",
+            "Reihenfolge",
+            "Information",
+            "Schluss"
+          ]
+        },
+        {
+          "id": "ch09-g17",
+          "category": "culture",
+          "title": "Recognize different housing and household arrangements in the German-speaking countries without treating one type as universal",
+          "keywords": [
+            "Wohnformen",
+            "D-A-CH",
+            "WG",
+            "Single",
+            "Familie",
+            "Mehrgenerationenhaus"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Studium und Beruf",
+      "pages": [
+        116,
+        125
+      ],
+      "sourcePdfPages": [
+        8,
+        126
+      ],
+      "goals": [
+        {
+          "id": "ch10-g01",
+          "category": "function",
+          "title": "Describe a normal study or working day in a simple sequence",
+          "keywords": [
+            "Tagesablauf",
+            "lernen",
+            "arbeiten",
+            "studieren",
+            "zuerst",
+            "dann"
+          ]
+        },
+        {
+          "id": "ch10-g02",
+          "category": "function",
+          "title": "Report completed activities from an ordinary day and ask what another person did",
+          "keywords": [
+            "gestern",
+            "heute",
+            "Perfekt",
+            "Was hast du gemacht"
+          ]
+        },
+        {
+          "id": "ch10-g03",
+          "category": "function",
+          "title": "Understand elementary statements about job seeking and applications",
+          "keywords": [
+            "Jobsuche",
+            "Bewerbung",
+            "Stelle",
+            "suchen",
+            "arbeiten"
+          ]
+        },
+        {
+          "id": "ch10-g04",
+          "category": "function",
+          "title": "Discuss whether a job is enjoyable, tiring, interesting or well paid",
+          "keywords": [
+            "Beruf",
+            "Job",
+            "Spaß",
+            "anstrengend",
+            "interessant",
+            "verdienen",
+            "Karriere"
+          ]
+        },
+        {
+          "id": "ch10-g05",
+          "category": "function",
+          "title": "Open and close a simple telephone call and ask to speak to a named person",
+          "keywords": [
+            "Hier ist",
+            "Sie sprechen mit",
+            "verbinden",
+            "Durchwahl",
+            "Auf Wiederhören"
+          ]
+        },
+        {
+          "id": "ch10-g06",
+          "category": "function",
+          "title": "Ask for repetition or spelling and say that something was not understood",
+          "keywords": [
+            "noch einmal",
+            "wiederholen",
+            "buchstabieren",
+            "Wie bitte",
+            "nicht verstanden"
+          ]
+        },
+        {
+          "id": "ch10-g07",
+          "category": "vocabulary",
+          "title": "Name common jobs and places of work or study",
+          "keywords": [
+            "Beruf",
+            "Job",
+            "Firma",
+            "Universität",
+            "Uni",
+            "Büro",
+            "Schule",
+            "Arbeitsort"
+          ]
+        },
+        {
+          "id": "ch10-g08",
+          "category": "vocabulary",
+          "title": "Recognize key study and application vocabulary in a short text",
+          "keywords": [
+            "Studium",
+            "Seminar",
+            "lernen",
+            "recherchieren",
+            "Bewerbung",
+            "Praktikum",
+            "Stelle"
+          ]
+        },
+        {
+          "id": "ch10-g09",
+          "category": "grammar",
+          "title": "Build statements and questions in the perfect with a finite auxiliary and a final past participle",
+          "keywords": [
+            "Perfekt",
+            "haben",
+            "sein",
+            "Partizip II",
+            "Satzklammer",
+            "Frage"
+          ]
+        },
+        {
+          "id": "ch10-g10",
+          "category": "grammar",
+          "title": "Form the past participle of common regular verbs including the extra e after suitable stems",
+          "keywords": [
+            "machen",
+            "gemacht",
+            "arbeiten",
+            "gearbeitet",
+            "ge-",
+            "-t",
+            "-et"
+          ]
+        },
+        {
+          "id": "ch10-g11",
+          "category": "grammar",
+          "title": "Form the past participle of verbs ending in ieren without ge",
+          "keywords": [
+            "studieren",
+            "studiert",
+            "telefonieren",
+            "telefoniert",
+            "recherchieren",
+            "recherchiert"
+          ]
+        },
+        {
+          "id": "ch10-g12",
+          "category": "grammar",
+          "title": "Use learned irregular participles including common vowel changes and mixed forms",
+          "keywords": [
+            "fahren",
+            "gefahren",
+            "gehen",
+            "gegangen",
+            "finden",
+            "gefunden",
+            "denken",
+            "gedacht",
+            "wissen",
+            "gewusst"
+          ]
+        },
+        {
+          "id": "ch10-g13",
+          "category": "grammar",
+          "title": "Choose sein for common changes of place and the exceptions bleiben and passieren and haben for the taught contrasting activities",
+          "keywords": [
+            "sein",
+            "haben",
+            "Ortsveränderung",
+            "gehen",
+            "kommen",
+            "fahren",
+            "bleiben",
+            "passieren"
+          ]
+        },
+        {
+          "id": "ch10-g14",
+          "category": "grammar",
+          "title": "Prefer war and hatte for ordinary past accounts involving sein and haben",
+          "keywords": [
+            "war",
+            "hatte",
+            "gewesen",
+            "gehabt",
+            "Präteritum"
+          ]
+        },
+        {
+          "id": "ch10-g15",
+          "category": "pronunciation",
+          "title": "Hear and produce the German h where it is pronounced and recognize familiar silent h spellings",
+          "keywords": [
+            "h",
+            "hören",
+            "haben",
+            "Hotel",
+            "gehen",
+            "sehen"
+          ]
+        },
+        {
+          "id": "ch10-g16",
+          "category": "strategy",
+          "title": "Prepare a call with the purpose and needed details and use clarification phrases when a detail is unclear",
+          "keywords": [
+            "Telefonieren",
+            "Notiz",
+            "Name",
+            "Frage",
+            "Wiederholung",
+            "Buchstabieren"
+          ]
+        },
+        {
+          "id": "ch10-g17",
+          "category": "culture",
+          "title": "Use jobs associated with different seasons as a context for basic work and study discussion",
+          "keywords": [
+            "Jobs rund ums Jahr",
+            "Saison",
+            "Sommer",
+            "Winter",
+            "Beruf"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Die Jacke gefällt mir!",
+      "pages": [
+        126,
+        135
+      ],
+      "sourcePdfPages": [
+        8,
+        136
+      ],
+      "goals": [
+        {
+          "id": "ch11-g01",
+          "category": "function",
+          "title": "Identify and discuss a piece of clothing and express a preference between items",
+          "keywords": [
+            "Kleidung",
+            "welcher",
+            "dieser",
+            "finden",
+            "nehmen",
+            "besser"
+          ]
+        },
+        {
+          "id": "ch11-g02",
+          "category": "function",
+          "title": "Understand a compliment about clothing and give a simple response",
+          "keywords": [
+            "Kompliment",
+            "steht dir gut",
+            "passt",
+            "gut aussehen",
+            "danke"
+          ]
+        },
+        {
+          "id": "ch11-g03",
+          "category": "function",
+          "title": "Carry out a short clothing purchase with a request for an item, size, colour and fit",
+          "keywords": [
+            "ich suche",
+            "Größe",
+            "L",
+            "XL",
+            "zu klein",
+            "zu groß",
+            "eng",
+            "weit",
+            "kurz",
+            "lang"
+          ]
+        },
+        {
+          "id": "ch11-g04",
+          "category": "function",
+          "title": "Find a department or product in a department store using floor information",
+          "keywords": [
+            "Kaufhaus",
+            "Stock",
+            "Erdgeschoss",
+            "Untergeschoss",
+            "wo finde ich"
+          ]
+        },
+        {
+          "id": "ch11-g05",
+          "category": "function",
+          "title": "Ask for information politely, respond to unavailability and thank someone for help",
+          "keywords": [
+            "Auskunft",
+            "Haben Sie",
+            "gibt es",
+            "Tut mir leid",
+            "Ich danke Ihnen"
+          ]
+        },
+        {
+          "id": "ch11-g06",
+          "category": "function",
+          "title": "Report a simple completed shopping or everyday activity with a prefixed verb",
+          "keywords": [
+            "bezahlen",
+            "umtauschen",
+            "anziehen",
+            "ankommen",
+            "erzählen",
+            "Perfekt"
+          ]
+        },
+        {
+          "id": "ch11-g07",
+          "category": "function",
+          "title": "Find and present elementary information about Berlin using a short source text",
+          "keywords": [
+            "Berlin",
+            "Information",
+            "recherchieren",
+            "Stadt",
+            "Sehenswürdigkeit"
+          ]
+        },
+        {
+          "id": "ch11-g08",
+          "category": "vocabulary",
+          "title": "Name common garments and accessories and describe a basic colour or size choice",
+          "keywords": [
+            "Jacke",
+            "Mantel",
+            "Pullover",
+            "Kleid",
+            "Hose",
+            "Hemd",
+            "Rock",
+            "Schuh",
+            "T-Shirt",
+            "Größe"
+          ]
+        },
+        {
+          "id": "ch11-g09",
+          "category": "vocabulary",
+          "title": "Recognize shops, departments and floor labels on a department-store directory",
+          "keywords": [
+            "Geschäft",
+            "Kaufhaus",
+            "Abteilung",
+            "Stock",
+            "Erdgeschoss",
+            "Untergeschoss"
+          ]
+        },
+        {
+          "id": "ch11-g10",
+          "category": "grammar",
+          "title": "Choose the case and gender form of welcher in nominative, accusative and dative",
+          "keywords": [
+            "welcher",
+            "welches",
+            "welche",
+            "welchen",
+            "welchem",
+            "welcher",
+            "welchen"
+          ]
+        },
+        {
+          "id": "ch11-g11",
+          "category": "grammar",
+          "title": "Choose the case and gender form of dieser in nominative, accusative and dative",
+          "keywords": [
+            "dieser",
+            "dieses",
+            "diese",
+            "diesen",
+            "diesem",
+            "dieser",
+            "diesen"
+          ]
+        },
+        {
+          "id": "ch11-g12",
+          "category": "grammar",
+          "title": "Use the complete dative personal-pronoun set including formal Ihnen",
+          "keywords": [
+            "mir",
+            "dir",
+            "ihm",
+            "ihr",
+            "uns",
+            "euch",
+            "ihnen",
+            "Ihnen"
+          ]
+        },
+        {
+          "id": "ch11-g13",
+          "category": "grammar",
+          "title": "Use gefallen, stehen, passen and helfen with the person in the dative",
+          "keywords": [
+            "gefallen",
+            "stehen",
+            "passen",
+            "helfen",
+            "Dativ",
+            "mir",
+            "Ihnen"
+          ]
+        },
+        {
+          "id": "ch11-g14",
+          "category": "grammar",
+          "title": "Form participles of separable verbs with ge between prefix and stem",
+          "keywords": [
+            "angekommen",
+            "umgetauscht",
+            "angezogen",
+            "ab-",
+            "an-",
+            "auf-",
+            "aus-",
+            "ein-",
+            "mit-",
+            "zu-",
+            "zurück-"
+          ]
+        },
+        {
+          "id": "ch11-g15",
+          "category": "grammar",
+          "title": "Form participles of inseparable-prefix verbs without adding ge",
+          "keywords": [
+            "bezahlt",
+            "empfohlen",
+            "erzählt",
+            "be-",
+            "emp-",
+            "ent-",
+            "er-",
+            "ge-",
+            "ver-",
+            "zer-"
+          ]
+        },
+        {
+          "id": "ch11-g16",
+          "category": "pronunciation",
+          "title": "Use prefix stress to distinguish familiar separable and inseparable verbs",
+          "keywords": [
+            "Wortbetonung",
+            "Präfix",
+            "trennbar",
+            "nicht trennbar",
+            "ankommen",
+            "bezahlen"
+          ]
+        },
+        {
+          "id": "ch11-g17",
+          "category": "strategy",
+          "title": "Scan a directory or information board for the category, floor and location needed",
+          "keywords": [
+            "Tafel",
+            "Information",
+            "Abteilung",
+            "Stock",
+            "Schlüsselwort"
+          ]
+        },
+        {
+          "id": "ch11-g18",
+          "category": "culture",
+          "title": "Use Berlin as a city context and handle clothing opinions and sales assistance politely",
+          "keywords": [
+            "Trendstadt Berlin",
+            "Kompliment",
+            "Kaufberatung",
+            "Sie",
+            "Ihnen"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Ab in den Urlaub!",
+      "pages": [
+        136,
+        145
+      ],
+      "sourcePdfPages": [
+        8,
+        146
+      ],
+      "goals": [
+        {
+          "id": "ch12-g01",
+          "category": "function",
+          "title": "Suggest a city-tour activity and agree on a simple shared plan",
+          "keywords": [
+            "Vorschlag",
+            "Stadttour",
+            "Idee",
+            "wir können",
+            "wollen wir",
+            "gern"
+          ]
+        },
+        {
+          "id": "ch12-g02",
+          "category": "function",
+          "title": "Understand and give a short public-transport route including boarding and changing",
+          "keywords": [
+            "Wegbeschreibung",
+            "U-Bahn",
+            "Bus",
+            "Nummer",
+            "Haltestelle",
+            "einsteigen",
+            "umsteigen",
+            "aussteigen"
+          ]
+        },
+        {
+          "id": "ch12-g03",
+          "category": "function",
+          "title": "Write a short holiday postcard with greeting, place, activities and closing",
+          "keywords": [
+            "Postkarte",
+            "Anrede",
+            "Urlaubsort",
+            "Aktivität",
+            "Grüße"
+          ]
+        },
+        {
+          "id": "ch12-g04",
+          "category": "function",
+          "title": "Understand and write a short travel account and ask or answer questions about the trip",
+          "keywords": [
+            "Reisebericht",
+            "Reise",
+            "W-Fragen",
+            "Perfekt",
+            "Ort",
+            "Zeit"
+          ]
+        },
+        {
+          "id": "ch12-g05",
+          "category": "function",
+          "title": "Describe present weather and simple temperatures",
+          "keywords": [
+            "Wetter",
+            "sonnig",
+            "bewölkt",
+            "windig",
+            "regnen",
+            "schneien",
+            "warm",
+            "kalt",
+            "Grad",
+            "minus",
+            "plus"
+          ]
+        },
+        {
+          "id": "ch12-g06",
+          "category": "function",
+          "title": "Say where and how you would like to travel and describe a destination briefly",
+          "keywords": [
+            "Reiseziel",
+            "Urlaubsart",
+            "Städtereise",
+            "Strandurlaub",
+            "Campingurlaub",
+            "Urlaub bei Verwandten"
+          ]
+        },
+        {
+          "id": "ch12-g07",
+          "category": "function",
+          "title": "Order a day's activities using a small set of sequence expressions",
+          "keywords": [
+            "zuerst",
+            "dann",
+            "danach",
+            "später",
+            "zum Schluss"
+          ]
+        },
+        {
+          "id": "ch12-g08",
+          "category": "vocabulary",
+          "title": "Name basic holiday types, travel equipment and sightseeing activities",
+          "keywords": [
+            "Urlaub",
+            "Reise",
+            "Strand",
+            "Camping",
+            "Koffer",
+            "Reiseführer",
+            "Sonnenbrille",
+            "Regenjacke",
+            "Sehenswürdigkeit",
+            "besuchen"
+          ]
+        },
+        {
+          "id": "ch12-g09",
+          "category": "vocabulary",
+          "title": "Name the four compass directions and locate a destination broadly",
+          "keywords": [
+            "Norden",
+            "Süden",
+            "Osten",
+            "Westen",
+            "Himmelsrichtung"
+          ]
+        },
+        {
+          "id": "ch12-g10",
+          "category": "vocabulary",
+          "title": "Use the principal weather nouns, adjectives and verbs in a travel context",
+          "keywords": [
+            "Sonne",
+            "Regen",
+            "Schnee",
+            "Wind",
+            "Wolke",
+            "sonnig",
+            "windig",
+            "bewölkt",
+            "regnen",
+            "schneien",
+            "heiß",
+            "warm",
+            "kalt"
+          ]
+        },
+        {
+          "id": "ch12-g11",
+          "category": "grammar",
+          "title": "Use man with a third-person singular verb to describe general possibilities or a route",
+          "keywords": [
+            "man",
+            "kann",
+            "geht",
+            "fährt",
+            "3. Person Singular"
+          ]
+        },
+        {
+          "id": "ch12-g12",
+          "category": "grammar",
+          "title": "Give a simple reason using denn followed by ordinary main-clause word order",
+          "keywords": [
+            "denn",
+            "warum",
+            "Grund",
+            "Hauptsatz",
+            "Verbposition 2"
+          ]
+        },
+        {
+          "id": "ch12-g13",
+          "category": "grammar",
+          "title": "Choose wer, wen or wem for a person and was for a thing according to its sentence role",
+          "keywords": [
+            "wer",
+            "wen",
+            "wem",
+            "was",
+            "Nominativ",
+            "Akkusativ",
+            "Dativ"
+          ]
+        },
+        {
+          "id": "ch12-g14",
+          "category": "grammar",
+          "title": "Choose a question word for place, destination, origin, time, duration, manner, reason or quantity",
+          "keywords": [
+            "wo",
+            "wohin",
+            "woher",
+            "wann",
+            "wie lange",
+            "wie",
+            "warum",
+            "wie viel",
+            "wie viele"
+          ]
+        },
+        {
+          "id": "ch12-g15",
+          "category": "grammar",
+          "title": "Use the temporal prepositions ab, an, in, nach, seit and vor with a dative expression",
+          "keywords": [
+            "ab",
+            "an",
+            "am",
+            "in",
+            "im",
+            "nach",
+            "seit",
+            "vor",
+            "Dativ"
+          ]
+        },
+        {
+          "id": "ch12-g16",
+          "category": "pronunciation",
+          "title": "Distinguish the common German sounds written f, v and w in familiar travel words",
+          "keywords": [
+            "f",
+            "v",
+            "w",
+            "Foto",
+            "vier",
+            "viel",
+            "Wetter",
+            "Wasser"
+          ]
+        },
+        {
+          "id": "ch12-g17",
+          "category": "strategy",
+          "title": "Report a short source text by selecting and noting the essential facts before retelling it",
+          "keywords": [
+            "Text berichten",
+            "Notizen",
+            "Schlüsselwörter",
+            "wer",
+            "wo",
+            "wann",
+            "was"
+          ]
+        },
+        {
+          "id": "ch12-g18",
+          "category": "culture",
+          "title": "Recognize German holiday destinations and select simple activities suited to a city, coast or countryside visit",
+          "keywords": [
+            "Reiseziele",
+            "Deutschland",
+            "Stadt",
+            "Meer",
+            "Berge",
+            "Bauernhof"
+          ]
+        }
+      ]
+    }
+  ],
+  "appendix": [
+    {
+      "id": "app-g01",
+      "category": "grammar",
+      "title": "Consult a unified word-order reference for statements, W-questions, yes-or-no questions, imperatives and the verbal bracket",
+      "pages": [
+        152,
+        155
+      ],
+      "sourcePdfPages": [
+        153,
+        154,
+        156
+      ],
+      "keywords": [
+        "Position 1",
+        "Position 2",
+        "Satzende",
+        "Infinitiv",
+        "Partizip II",
+        "Präfix",
+        "ja",
+        "nein",
+        "doch"
+      ]
+    },
+    {
+      "id": "app-g02",
+      "category": "grammar",
+      "title": "Consult present-tense patterns for regular verbs, extra-e stems, sibilant stems, stem changes and separable verbs",
+      "pages": [
+        153,
+        154
+      ],
+      "sourcePdfPages": [
+        154,
+        155
+      ],
+      "keywords": [
+        "wohnen",
+        "arbeiten",
+        "heißen",
+        "sprechen",
+        "lesen",
+        "fahren",
+        "laufen",
+        "nehmen",
+        "abholen"
+      ]
+    },
+    {
+      "id": "app-g03",
+      "category": "grammar",
+      "title": "Use the complete present forms of werden for becoming or reaching an age and wissen for knowing a fact",
+      "pages": [
+        154,
+        154
+      ],
+      "sourcePdfPages": [
+        155
+      ],
+      "keywords": [
+        "werden",
+        "werde",
+        "wirst",
+        "wird",
+        "werden",
+        "werdet",
+        "wissen",
+        "weiß",
+        "weißt",
+        "wissen",
+        "wisst"
+      ],
+      "note": "These two full paradigms appear in the appendix although they are not named as main grammar outcomes in the chapter TOC."
+    },
+    {
+      "id": "app-g04",
+      "category": "grammar",
+      "title": "Consult the complete present modal, imperative, war and hatte paradigms and the perfect construction",
+      "pages": [
+        154,
+        155
+      ],
+      "sourcePdfPages": [
+        155,
+        156
+      ],
+      "keywords": [
+        "müssen",
+        "können",
+        "wollen",
+        "dürfen",
+        "sollen",
+        "möchten",
+        "mögen",
+        "du",
+        "ihr",
+        "Sie",
+        "war",
+        "hatte",
+        "Perfekt"
+      ]
+    },
+    {
+      "id": "app-g05",
+      "category": "grammar",
+      "title": "Consult noun plural patterns and definite, indefinite and negative articles across nominative, accusative and dative",
+      "pages": [
+        156,
+        157
+      ],
+      "sourcePdfPages": [
+        157,
+        158
+      ],
+      "keywords": [
+        "-e",
+        "-er",
+        "-en",
+        "-s",
+        "Umlaut",
+        "der",
+        "ein",
+        "kein",
+        "Nominativ",
+        "Akkusativ",
+        "Dativ",
+        "Dativ Plural -n"
+      ]
+    },
+    {
+      "id": "app-g06",
+      "category": "grammar",
+      "title": "Consult possessives in nominative and accusative and welcher and dieser in nominative, accusative and dative",
+      "pages": [
+        157,
+        157
+      ],
+      "sourcePdfPages": [
+        158
+      ],
+      "keywords": [
+        "mein",
+        "dein",
+        "sein",
+        "ihr",
+        "unser",
+        "euer",
+        "Ihr",
+        "welcher",
+        "dieser",
+        "Kasus"
+      ]
+    },
+    {
+      "id": "app-g07",
+      "category": "grammar",
+      "title": "Consult subject, accusative and dative personal pronouns, man and predicative adjectives",
+      "pages": [
+        158,
+        158
+      ],
+      "sourcePdfPages": [
+        159
+      ],
+      "keywords": [
+        "ich",
+        "mich",
+        "mir",
+        "du",
+        "dich",
+        "dir",
+        "er",
+        "ihn",
+        "ihm",
+        "Sie",
+        "Ihnen",
+        "man",
+        "nicht",
+        "sehr",
+        "zu"
+      ]
+    },
+    {
+      "id": "app-g08",
+      "category": "grammar",
+      "title": "Consult the taught accusative, dative, temporal and two-way preposition groups with contractions",
+      "pages": [
+        158,
+        160
+      ],
+      "sourcePdfPages": [
+        159,
+        160,
+        161
+      ],
+      "keywords": [
+        "für",
+        "mit",
+        "zu",
+        "bei",
+        "aus",
+        "von",
+        "an",
+        "auf",
+        "hinter",
+        "in",
+        "neben",
+        "über",
+        "unter",
+        "vor",
+        "zwischen",
+        "ab",
+        "nach",
+        "seit",
+        "am",
+        "um",
+        "von ... bis",
+        "im",
+        "ins",
+        "zum",
+        "zur",
+        "beim",
+        "vom"
+      ]
+    },
+    {
+      "id": "app-g09",
+      "category": "grammar",
+      "title": "Consult calendar ordinals through 31 and the question-word system including quantity questions",
+      "pages": [
+        159,
+        160
+      ],
+      "sourcePdfPages": [
+        160,
+        161
+      ],
+      "keywords": [
+        "Ordinalzahl",
+        "am ersten",
+        "am einunddreißigsten",
+        "wer",
+        "wen",
+        "wem",
+        "was",
+        "wo",
+        "wohin",
+        "woher",
+        "wann",
+        "wie lange",
+        "wie",
+        "warum",
+        "wie viel",
+        "wie viele"
+      ]
+    },
+    {
+      "id": "app-g10",
+      "category": "strategy",
+      "title": "Use the irregular-verb reference to retrieve a verb third-person present form and its perfect auxiliary and participle",
+      "pages": [
+        160,
+        161
+      ],
+      "sourcePdfPages": [
+        161,
+        162
+      ],
+      "keywords": [
+        "Infinitiv",
+        "3. Person Singular",
+        "haben",
+        "sein",
+        "Partizip II"
+      ],
+      "note": "The reference includes lesson-instruction vocabulary and less central compounds as well as everyday verbs. It is not a claim that every listed item has equal productive A1 priority.",
+      "referenceVerbs": [
+        "abfahren",
+        "anfangen",
+        "ankommen",
+        "annehmen",
+        "ansehen",
+        "anziehen",
+        "aufschreiben",
+        "aufstehen",
+        "ausgehen",
+        "aussehen",
+        "aussteigen",
+        "ausziehen",
+        "bekommen",
+        "beschreiben",
+        "bleiben",
+        "bringen",
+        "denken",
+        "drankommen",
+        "einfallen",
+        "eingeben",
+        "einladen",
+        "einschlafen",
+        "einsteigen",
+        "empfehlen",
+        "erschließen",
+        "essen",
+        "fahren",
+        "fernsehen",
+        "finden",
+        "fliegen",
+        "freihaben",
+        "geben",
+        "gefallen",
+        "gehen",
+        "genießen",
+        "heißen",
+        "helfen",
+        "hochfahren",
+        "kennen",
+        "klingen",
+        "kommen",
+        "laufen",
+        "leidtun",
+        "lesen",
+        "liegen",
+        "los sein",
+        "losfahren",
+        "losgehen",
+        "mitbringen",
+        "mitkommen",
+        "mitlesen",
+        "mitnehmen",
+        "mitsprechen",
+        "nachsprechen",
+        "nehmen",
+        "nennen",
+        "raten",
+        "rausgehen",
+        "riechen",
+        "scheinen",
+        "schlafen",
+        "schließen",
+        "schneiden",
+        "schreiben",
+        "schwimmen",
+        "sehen",
+        "singen",
+        "sitzen",
+        "sprechen",
+        "stattfinden",
+        "stehen",
+        "tragen",
+        "treffen",
+        "trinken",
+        "tun",
+        "überweisen",
+        "umsteigen",
+        "umziehen",
+        "unterschreiben",
+        "unterstreichen",
+        "verbinden",
+        "vergessen",
+        "vergleichen",
+        "verstehen",
+        "vorlesen",
+        "waschen",
+        "wehtun",
+        "wiedergeben",
+        "wiegen",
+        "wissen",
+        "ziehen",
+        "zuhaben",
+        "zurückfahren",
+        "zurückfinden",
+        "haben",
+        "sein",
+        "werden",
+        "dürfen",
+        "können",
+        "müssen",
+        "sollen",
+        "wollen",
+        "möchten",
+        "mögen"
+      ]
+    }
+  ],
+  "platforms": [
+    {
+      "number": 1,
+      "pages": [
+        38,
+        43
+      ],
+      "sourcePdfPages": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "outcomes": [
+        {
+          "category": "function",
+          "title": "Reuse introductions, personal details, numbers, hobbies, weekdays, town vocabulary and directions in mixed short exchanges"
+        },
+        {
+          "category": "strategy",
+          "title": "Use letter, vowel and number games as retrieval practice and check article and plural knowledge"
+        },
+        {
+          "category": "culture",
+          "title": "Read basic profiles of public figures from German-speaking countries and locate major D-A-CH cities"
+        },
+        {
+          "category": "culture",
+          "title": "Recognize landmarks associated with Zürich, Wien, Graz, Leipzig, Köln and Genf"
+        }
+      ],
+      "keywords": [
+        "D-A-CH",
+        "Deutschland",
+        "Österreich",
+        "Schweiz",
+        "Berlin",
+        "Bern",
+        "Wien",
+        "Zürich",
+        "Genf",
+        "Graz",
+        "Leipzig",
+        "Köln",
+        "Schiff",
+        "Kirche",
+        "Turm",
+        "Brücke"
+      ]
+    },
+    {
+      "number": 2,
+      "pages": [
+        74,
+        79
+      ],
+      "sourcePdfPages": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "outcomes": [
+        {
+          "category": "function",
+          "title": "Combine shopping, food, family, dates, appointments, invitations, lateness, orders and payment in short role plays"
+        },
+        {
+          "category": "function",
+          "title": "Listen to a few routine plans and relay their essential activities and times to another person"
+        },
+        {
+          "category": "culture",
+          "title": "Recognize regional dishes and describe a few ingredients or preferences without treating regional food as universal"
+        }
+      ],
+      "keywords": [
+        "Matjes mit Kartoffeln",
+        "Currywurst mit Pommes",
+        "Käsespätzle",
+        "Grüne Soße",
+        "Kaiserschmarrn",
+        "Zürcher Geschnetzeltes",
+        "Rösti",
+        "Käsefondue",
+        "Wiener Schnitzel",
+        "Kartoffelsalat",
+        "Schwaben",
+        "Berlin",
+        "Innsbruck",
+        "Zürich"
+      ]
+    },
+    {
+      "number": 3,
+      "pages": [
+        110,
+        115
+      ],
+      "sourcePdfPages": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "outcomes": [
+        {
+          "category": "function",
+          "title": "Combine office routines, symptoms, advice, furniture, housing questions and invitation replies in mixed exchanges"
+        },
+        {
+          "category": "function",
+          "title": "Ask about frequency of simple exercise habits and write a short absence message"
+        },
+        {
+          "category": "pronunciation",
+          "title": "Distinguish a friendly or unfriendly delivery of an instruction and practice an appropriate polite delivery"
+        },
+        {
+          "category": "strategy",
+          "title": "Infer a song topic from familiar words and use an article-and-plural vocabulary task to check understanding"
+        },
+        {
+          "category": "culture",
+          "title": "Discuss living alone, with a partner or family, or in a shared flat as different personal choices"
+        }
+      ],
+      "keywords": [
+        "täglich",
+        "manchmal",
+        "nie",
+        "pro Woche",
+        "bitte",
+        "Intonation",
+        "Medien",
+        "Technik",
+        "Single",
+        "Familie",
+        "WG"
+      ],
+      "note": "The song is a contextual listening activity. Its full lyrics and every incidental construction are not a new grammar syllabus."
+    },
+    {
+      "number": 4,
+      "pages": [
+        146,
+        151
+      ],
+      "sourcePdfPages": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "outcomes": [
+        {
+          "category": "function",
+          "title": "Plan what to pack, choose a souvenir, negotiate a holiday day plan and report how the day went"
+        },
+        {
+          "category": "function",
+          "title": "Recount activities in sequence and relay another person’s simple past account"
+        },
+        {
+          "category": "function",
+          "title": "Read short workplace messages to distinguish requested tasks from completed tasks"
+        },
+        {
+          "category": "culture",
+          "title": "Identify D-A-CH countries, capitals, familiar landmarks, foods and Switzerland’s multilingual context"
+        }
+      ],
+      "keywords": [
+        "Koffer",
+        "Souvenir",
+        "zuerst",
+        "danach",
+        "zum Schluss",
+        "vor",
+        "nach",
+        "seit",
+        "ab",
+        "Berlin",
+        "Bern",
+        "Wien",
+        "Brandenburger Tor",
+        "Frauenkirche",
+        "Elbphilharmonie",
+        "Prater",
+        "Schönbrunn",
+        "Deutsch",
+        "Französisch",
+        "Italienisch",
+        "Rätoromanisch"
+      ],
+      "note": "Population figures in the source are historical learning-text data, not current facts to repeat as current statistics."
+    }
+  ],
+  "criticalAuthoringDetails": [
+    "Chapter 2 number reference reaches Million and Milliarde. Teach the productive tens/hundreds/thousands pattern and recognize the large-number labels rather than silently limiting the chapter to 100.",
+    "Chapter 1 recap initially uses a subset of subject pronouns; chapter 2 supplies the complete person system and sein/haben paradigms.",
+    "Chapter 5 possesses a full possessor set, including unser, euer/eure and formal Ihr; the stated possessive case scope is nominative and accusative.",
+    "Chapter 6 includes war and hatte before the perfect, a full accusative-pronoun set, für plus accusative, and separable verbs both alone and with a modal.",
+    "Chapter 7 explicitly teaches doch as an affirmative contradiction of a negative question, dative plural noun n, and contractions zum, zur, beim, vom and im.",
+    "Chapter 8 must distinguish dürfen nicht from müssen; one expresses prohibition and the other obligation. Reported instructions use a new main clause with sollen, not an untaught dass clause.",
+    "Chapter 9 explicitly contrasts in plus accusative destination with in plus dative location. All nine two-way prepositions occur in the scope, especially for static dative location; do not infer that the supplied summaries teach full productive accusative placement with every one of them.",
+    "Chapter 10 includes regular, irregular and ieren participles and the sein exceptions bleiben and passieren. The recap recommends ordinary war/hatte instead of routinely using bin gewesen/habe gehabt.",
+    "Chapter 11 welcher and dieser tables include dative as well as nominative and accusative. Its dative verbs are gefallen, stehen, passen and helfen; noun-subject agreement still matters.",
+    "Chapter 11 distinguishes stressed separable prefixes and unstressed inseparable prefixes, and their different placement of ge in the perfect.",
+    "Chapter 12 temporal prepositions include ab, an, in, nach, seit and vor. Its question-word system includes person case forms wer/wen/wem; the appendix adds quantity wie viel/wie viele.",
+    "The appendix gives full present paradigms for werden and wissen; reference lookup must support these even though they are not main TOC grammar headings.",
+    "TOC headings for pronunciation, learning strategies and cultural contexts are substantive syllabus outcomes, not optional objective labels.",
+    "Platform reviews add mixed-task transfer, polite versus unfriendly instruction delivery, brief absence messages, mediated retelling, regional food and multilingual D-A-CH contexts.",
+    "Contextual readings may contain incidental grammar beyond their main lesson targets. Their presence does not make every incidental construction a required new A1 grammar explanation."
+  ],
+  "a1FunctionalCrosscheck": {
+    "comparisonBasis": [
+      {
+        "title": "Council of Europe CEFR self-assessment grid",
+        "url": "https://rm.coe.int/168069ce6e"
+      },
+      {
+        "title": "Council of Europe CEFR descriptors search",
+        "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors-search"
+      }
+    ],
+    "interpretation": "The checks below paraphrase broad A1 capabilities. They are not a mandated German grammar syllabus or an exam guarantee. Findings concern summary scope; current app lessons were not evaluated.",
+    "checks": [
+      {
+        "id": "a1-f01",
+        "area": "listening",
+        "goal": "Recognize basic personal, family and nearby-environment language in slow clear speech.",
+        "bookEvidenceChapters": [
+          1,
+          2,
+          5,
+          7,
+          8,
+          9
+        ],
+        "status": "scope present; audio performance untested",
+        "neededVerification": "Use unseen short recordings with names, numbers and key details."
+      },
+      {
+        "id": "a1-f02",
+        "area": "reading",
+        "goal": "Understand familiar words and simple sentences on everyday notices or displays.",
+        "bookEvidenceChapters": [
+          3,
+          9,
+          11
+        ],
+        "status": "scope present; varied notice reading needs verification",
+        "neededVerification": "Include an original sign, directory or short notice task."
+      },
+      {
+        "id": "a1-f03",
+        "area": "interaction",
+        "goal": "Exchange familiar personal information and immediate needs with help or repetition.",
+        "bookEvidenceChapters": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "status": "scope present; unscripted exchange untested",
+        "neededVerification": "Practice a two-way exchange plus an unclear detail requiring repair."
+      },
+      {
+        "id": "a1-f04",
+        "area": "spoken production",
+        "goal": "Describe familiar people and where one lives in simple phrases.",
+        "bookEvidenceChapters": [
+          1,
+          5,
+          9
+        ],
+        "status": "scope present; independent production untested",
+        "neededVerification": "Give a short home or family description without copying."
+      },
+      {
+        "id": "a1-f05",
+        "area": "writing",
+        "goal": "Write a basic postcard and enter personal details into a form.",
+        "bookEvidenceChapters": [
+          2,
+          12
+        ],
+        "status": "scope present; form completion is easy to omit in a sentence-only app",
+        "neededVerification": "Require an original multi-field personal form and postcard."
+      }
+    ],
+    "supplementCandidates": [
+      {
+        "id": "gap-f01",
+        "priority": "high",
+        "title": "Request slower speech or simpler wording in addition to repetition and spelling.",
+        "basis": "Explicit repair set in chapter 10 covers repeating and spelling; slower delivery and rephrasing are not explicit in the inspected chapter summaries.",
+        "suggestedKeywords": [
+          "langsamer bitte",
+          "einfacher bitte",
+          "Wie sagt man",
+          "Was bedeutet"
+        ]
+      },
+      {
+        "id": "gap-f02",
+        "priority": "high",
+        "title": "Interpret simple public signs and opening-hour notices across several settings.",
+        "basis": "Directory scanning and housing ads are explicit; an independent set of ordinary public notices is not explicit in the inspected summaries.",
+        "suggestedKeywords": [
+          "geöffnet",
+          "geschlossen",
+          "Eingang",
+          "Ausgang",
+          "Öffnungszeiten",
+          "verboten"
+        ]
+      },
+      {
+        "id": "gap-f03",
+        "priority": "medium",
+        "title": "Carry out a basic accommodation check-in or booking and a simple ticket purchase.",
+        "basis": "Travel, routes, forms and shopping supply reusable language; these complete service transactions are not named in the inspected summary scope. Treat them as practical transfer extensions rather than a CEFR-mandated topic list.",
+        "suggestedKeywords": [
+          "Zimmer",
+          "reservieren",
+          "eine Nacht",
+          "Anreise",
+          "Fahrkarte",
+          "einfach",
+          "hin und zurück"
+        ]
+      },
+      {
+        "id": "gap-f04",
+        "priority": "medium",
+        "title": "Ask for simple immediate practical help and state a basic problem.",
+        "basis": "Doctor and shopping requests are explicit, but lost items and a concise help request are not explicit in the inspected summaries.",
+        "suggestedKeywords": [
+          "Hilfe",
+          "Können Sie mir helfen",
+          "verloren",
+          "Ich brauche",
+          "Problem"
+        ]
+      }
+    ]
+  },
+  "uncertainties": [
+    "No claim is made that every chapter exercise, video, recording or alphabetical vocabulary entry was inspected. This is a finite summary-grounded audit.",
+    "No original audio was heard. Pronunciation topics are verified as source headings; discrimination and production ability remain untested.",
+    "The scope of the chapter-cultural readings is verified from the TOC; precise narrative details beyond recap and platform pages should be checked against the relevant chapter page before being authored as source facts.",
+    "Keywords are semantic anchors and representative finite sets, not a complete extraction of the book word list or every inflected form.",
+    "Supplement candidates indicate tasks not explicit in the inspected summary sources; they do not prove the book lacks such language elsewhere.",
+    "No lesson IDs, coverage percentages or mastered statuses are assigned. Explicit lesson mapping and independent transfer assessment are separate work."
+  ],
+  "counts": {
+    "chapters": 12,
+    "chapterGoals": 204,
+    "chapterGoalsByCategory": {
+      "function": 72,
+      "vocabulary": 33,
+      "grammar": 59,
+      "pronunciation": 12,
+      "strategy": 13,
+      "culture": 15
+    },
+    "appendixOutcomes": 10,
+    "appendixReferenceVerbs": 104,
+    "platformOutcomes": 16,
+    "inspectedPdfPages": 50
+  }
+}
