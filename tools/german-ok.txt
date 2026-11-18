@@ -13,3 +13,5 @@ hundertfünfundzwanzig
 komm-
 # Bank = money bank: plural Banken (Wiktionary lists Bänke = benches)
 Bank (no plural)
+# unit after a number stays Gramm (200 Gramm)
+Gramm (no plural)
