@@ -224,7 +224,8 @@
        "noun"
       ]
      ],
-     "more": "Picture yourself on a walk. You point at a big building and your friend asks: Was ist das? You answer with a small pattern. Step 1: say Das ist. Step 2: say ein, like the English word a. Step 3: say the place. Das ist ein Kino. The verb ist stays in part 2, just like in chapter 1. Extra example: Das ist ein Park. = That is a park."
+     "more": "Picture yourself on a walk. You point at a big building and your friend asks: Was ist das? You answer with a small pattern. Step 1: say Das ist. Step 2: say ein, like the English word a. Step 3: say the place. Das ist ein Kino. The verb ist stays in part 2, just like in chapter 1. Extra example: Das ist ein Park. = That is a park.",
+     "lead": "The intro showed a station and a hotel in Hamburg. On this card: how to point at a place and say what it is with the word ein, so you can name things you see in town."
     },
     {
      "title": "A die-word needs eine",
@@ -324,7 +325,8 @@
         "Das ist eine Stadt."
        ]
       ]
-     }
+     },
+     "lead": "You just saw ein for der-words and das-words. On this card: the die-word exception, where ein gets an -e to become eine, so you can say Bank or Kirche correctly."
     },
     {
      "title": "The table: der, die, das → ein, eine, ein",
@@ -428,7 +430,8 @@
         "none"
        ]
       ]
-     }
+     },
+     "lead": "Now you know ein and eine. On this card: all three genders side by side, so you can pick the right form for any place word without guessing."
     },
     {
      "title": "The or a? Known and new",
@@ -502,7 +505,8 @@
       "Das ist ein Park.",
       "Der Park ist neu."
      ],
-     "more": "In English it is the same: I see a dog. The dog is big. First it is a dog, a stranger. Then it is the dog, because you both know it. German does it the same way. Step 1: new thing? Use ein or eine. Step 2: talk about it again? Use der, die or das. Extra example: Das ist eine Kirche. Die Kirche ist alt."
+     "more": "In English it is the same: I see a dog. The dog is big. First it is a dog, a stranger. Then it is the dog, because you both know it. German does it the same way. Step 1: new thing? Use ein or eine. Step 2: talk about it again? Use der, die or das. Extra example: Das ist eine Kirche. Die Kirche ist alt.",
+     "lead": "You can now say a for something new. On this card: when to keep ein for the first mention and switch to der, die or das once you talk about the same place again."
     },
     {
      "title": "Many things: no ein",
@@ -590,7 +594,8 @@
         "Das sind Parks."
        ]
       ]
-     }
+     },
+     "lead": "So far every sentence named one thing. On this card: what to say for several places, with sind and no ein, so you can talk about a few banks or parks."
     },
     {
      "title": "Find the form in 3 steps",
@@ -671,7 +676,8 @@
       "die → eine (der, das → ein)",
       "Das ist eine Kirche."
      ],
-     "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel."
+     "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel.",
+     "lead": "This is the last card of the lesson. On this card: a three-step check you can use for any place, so you can choose ein or eine every time."
     }
    ],
    "media": {
@@ -1341,7 +1347,8 @@
        "noun"
       ]
      ],
-     "more": "Imagine a friend points at a building and says: a cinema? You say no. English says: that is not a cinema. German adds a k to ein and makes kein. Step 1: say nein. Step 2: say Das ist. Step 3: say kein and the noun. Step 4: say what it really is. Extra example: Das ist kein Park. Das ist ein Markt."
+     "more": "Imagine a friend points at a building and says: a cinema? You say no. English says: that is not a cinema. German adds a k to ein and makes kein. Step 1: say nein. Step 2: say Das ist. Step 3: say kein and the noun. Step 4: say what it really is. Extra example: Das ist kein Park. Das ist ein Markt.",
+     "lead": "In lesson 1 you learned ein and eine for a thing. On this card: kein, the word for not a, and how it answers a yes/no question about a place, so you can say no."
     },
     {
      "title": "kein for der-words and das-words",
@@ -1441,7 +1448,8 @@
         "Das ist kein Markt."
        ]
       ]
-     }
+     },
+     "lead": "You now have a no-word for one thing. On this card: how ein turns into kein for der-words and das-words, so you can say a station or hotel is not there."
     },
     {
      "title": "keine for die-words",
@@ -1541,7 +1549,8 @@
         "Das ist keine Schule."
        ]
       ]
-     }
+     },
+     "lead": "The der and das form is clear now. On this card: the die-word version, where eine becomes keine and the -e stays, so you can say not a bank or not a church."
     },
     {
      "title": "keine for many things, and the whole set",
@@ -1638,7 +1647,8 @@
         "keine"
        ]
       ]
-     }
+     },
+     "lead": "You have three singular forms of kein. On this card: all four forms side by side, plus keine for many things with sind, so you can say those are not parks."
     },
     {
      "title": "nicht or kein?",
@@ -1733,7 +1743,8 @@
         "Das Kino ist nicht neu."
        ]
       ]
-     }
+     },
+     "lead": "Kein only goes with nouns, and you have seen it in all forms. On this card: when to use nicht instead, for a describing word like neu or müde, so you pick the right not."
     },
     {
      "title": "Answer yes or no",
@@ -1822,7 +1833,8 @@
       "Ja, das ist eine Kirche.",
       "Nein, das ist keine Kirche."
      ],
-     "more": "A good answer is short and complete. Step 1: say ja or nein. Step 2: say the full sentence with Das ist. Step 3: for ja use ein or eine. For nein use kein or keine. If the question is about many things, ask Sind das …? and answer Das sind keine … Extra example: Ist das eine Bank? Nein, das ist keine Bank."
+     "more": "A good answer is short and complete. Step 1: say ja or nein. Step 2: say the full sentence with Das ist. Step 3: for ja use ein or eine. For nein use kein or keine. If the question is about many things, ask Sind das …? and answer Das sind keine … Extra example: Ist das eine Bank? Nein, das ist keine Bank.",
+     "lead": "This is the last card of the lesson. On this card: how to answer a yes/no question with ja or nein and a full sentence, so you can say no with kein or keine."
     }
    ],
    "media": {
@@ -2482,7 +2494,8 @@
        "noun"
       ]
      ],
-     "more": "You already know fahren from chapter 2: ich fahre, du fährst. Now we say how. Think of mit dem Bus as a ticket that you cannot tear apart. Step 1: ask Wie fährst du? Step 2: answer Ich fahre. Step 3: add the ticket: mit dem Bus. Do not leave out dem. Extra example: Ich fahre mit dem Auto. = I go by car."
+     "more": "You already know fahren from chapter 2: ich fahre, du fährst. Now we say how. Think of mit dem Bus as a ticket that you cannot tear apart. Step 1: ask Wie fährst du? Step 2: answer Ich fahre. Step 3: add the ticket: mit dem Bus. Do not leave out dem. Extra example: Ich fahre mit dem Auto. = I go by car.",
+     "lead": "You can now name places and say what they are not. On this card: how to ask Wie fährst du? and answer with a travel piece, so you can say how you get around."
     },
     {
      "title": "Ways to travel: learn each as one piece",
@@ -2590,7 +2603,8 @@
         "zu Fuß"
        ]
       ]
-     }
+     },
+     "lead": "You just learned fahren for travelling. On this card: six ways to get around, each learned as one whole piece with its little words, so you can say how you go."
     },
     {
      "title": "On foot: gehen and zu Fuß",
@@ -2686,7 +2700,8 @@
         "gehen"
        ]
       ]
-     }
+     },
+     "lead": "You can say how you travel by bus, train or car. On this card: gehen for walking and zu Fuß, plus how gehen changes for each person, so you can say you walk."
     },
     {
      "title": "Start with the transport: the verb stays second",
@@ -2802,7 +2817,8 @@
         "nach Berlin."
        ]
       ]
-     }
+     },
+     "lead": "You can ask and answer about travel. On this card: putting the transport words first while the verb stays in second place, so your sentences still sound natural."
     },
     {
      "title": "Where is it? Wo ist …? hier, da, dort",
@@ -2890,7 +2906,8 @@
         "far away"
        ]
       ]
-     }
+     },
+     "lead": "Next: finding places. On this card: the question Wo ist …? and three small words for near and far, hier, da and dort, so you can say where something is."
     },
     {
      "title": "Ask and answer: put it together",
@@ -2999,7 +3016,8 @@
       "Wo ist der Bahnhof? Dort.",
       "Wie fährt Mira? Mit der U-Bahn."
      ],
-     "more": "A question and an answer are like a ping-pong game. The question hits one word, the answer sends it back. How do you travel? I go by bus. Where is it? Over there. Step 1: look at the question word: wie or wo. Step 2: pick the answer: for wie, a piece like mit dem Bus. For wo, a word like dort. Extra example: Wo ist die U-Bahn? Dort ist die U-Bahn."
+     "more": "A question and an answer are like a ping-pong game. The question hits one word, the answer sends it back. How do you travel? I go by bus. Where is it? Over there. Step 1: look at the question word: wie or wo. Step 2: pick the answer: for wie, a piece like mit dem Bus. For wo, a word like dort. Extra example: Wo ist die U-Bahn? Dort ist die U-Bahn.",
+     "lead": "This is the last card of the lesson. On this card: you join travel and places, asking how someone goes and where something is, so you can handle a simple talk about getting around."
     }
    ],
    "media": {
@@ -3664,7 +3682,8 @@
        "adjective"
       ]
      ],
-     "more": "You know sein from chapter 1: Ben ist nett. nett was an adjective already! Now we use the same pattern for places. Step 1: say the thing: der Hafen. Step 2: say ist. Step 3: say the describing word: groß. Think of ist as an equals sign: harbour = big. Extra example: Der Park ist klein. = The park is small."
+     "more": "You know sein from chapter 1: Ben ist nett. nett was an adjective already! Now we use the same pattern for places. Step 1: say the thing: der Hafen. Step 2: say ist. Step 3: say the describing word: groß. Think of ist as an equals sign: harbour = big. Extra example: Der Park ist klein. = The park is small.",
+     "lead": "You can now name places and get around them. On this card: how sein plus a describing word says what a place is like, so you can describe a city or a harbour."
     },
     {
      "title": "After sein, the adjective has no ending",
@@ -3757,7 +3776,8 @@
         "groß"
        ]
       ]
-     }
+     },
+     "lead": "You just saw describing words after ist. On this card: why the describing word never changes after sein, even for die-words, das-words or many things, so you do not add endings."
     },
     {
      "title": "Opposites help you learn",
@@ -3857,7 +3877,8 @@
         "ruhig (quiet)"
        ]
       ]
-     }
+     },
+     "lead": "You can describe places now. On this card: describing words in opposite pairs, like big and small, so you learn two words for the price of one and can contrast places."
     },
     {
      "title": "sehr: very",
@@ -3953,7 +3974,8 @@
         "sehr teuer"
        ]
       ]
-     }
+     },
+     "lead": "You know the opposite pairs. On this card: sehr, a small word that makes a describing word stronger, so you can say a place is very big or very beautiful."
     },
     {
      "title": "nicht and zu: not and too",
@@ -4053,7 +4075,8 @@
         "zu groß"
        ]
       ]
-     }
+     },
+     "lead": "Next: two more small words that go before the describing word. On this card: nicht for not and zu for too, so you can say a place is not big or is too loud."
     },
     {
      "title": "Ask: Wie ist …?",
@@ -4130,7 +4153,8 @@
       "Der Hafen ist groß.",
       "Der Hafen ist groß und laut."
      ],
-     "more": "Wie ist …? is like asking: tell me about it. You get an answer with describing words. Step 1: ask Wie ist der Hafen? Step 2: answer with the thing, ist and an adjective. Step 3: you can join two adjectives with und. Extra example: Wie ist Hamburg? Hamburg ist sehr schön. = What is Hamburg like? Hamburg is very nice."
+     "more": "Wie ist …? is like asking: tell me about it. You get an answer with describing words. Step 1: ask Wie ist der Hafen? Step 2: answer with the thing, ist and an adjective. Step 3: you can join two adjectives with und. Extra example: Wie ist Hamburg? Hamburg ist sehr schön. = What is Hamburg like? Hamburg is very nice.",
+     "lead": "This is the last card of the lesson. On this card: how to ask Wie ist …? and answer with two describing words joined by und, so you can describe a place in a short chat."
     }
    ],
    "media": {
@@ -4801,7 +4825,8 @@
         "Fahren Sie mit dem Bus!"
        ]
       ]
-     }
+     },
+     "lead": "You can describe places. On this card: how to give a polite command to a stranger, with the verb first and Sie right after it, so you can tell someone what to do."
     },
     {
      "title": "Command or question? Look at the end mark",
@@ -4889,7 +4914,8 @@
         "a statement"
        ]
       ]
-     }
+     },
+     "lead": "Commands look a lot like yes/no questions. On this card: how the end mark tells them apart, plus the one odd command, so you know what you are hearing."
     },
     {
      "title": "bitte and dann: please and then",
@@ -4970,7 +4996,8 @@
       "Gehen Sie bitte geradeaus!",
       "Gehen Sie dann links!"
      ],
-     "more": "Giving a route is like giving steps in a recipe. First do this. Then do that. bitte is the sweet word that makes the command friendly. Step 1: say the command. Step 2: add bitte after Sie for politeness. Step 3: add dann before the next step. Extra example: Gehen Sie geradeaus. Gehen Sie dann links. = Go straight. Then go left."
+     "more": "Giving a route is like giving steps in a recipe. First do this. Then do that. bitte is the sweet word that makes the command friendly. Step 1: say the command. Step 2: add bitte after Sie for politeness. Step 3: add dann before the next step. Extra example: Gehen Sie geradeaus. Gehen Sie dann links. = Go straight. Then go left.",
+     "lead": "You can give commands now. On this card: bitte to make a command polite and dann to put steps in order, so your directions sound friendly and clear."
     },
     {
      "title": "Directions: links, rechts, geradeaus",
@@ -5066,7 +5093,8 @@
         "the second street"
        ]
       ]
-     }
+     },
+     "lead": "Next: the words for turning. On this card: left, right and straight on, plus the first and second street, so you can say which way and which street to take."
     },
     {
      "title": "Ask the way: Entschuldigung, … zum / zur …",
@@ -5171,7 +5199,8 @@
         "Wie komme ich zur Kirche?"
        ]
       ]
-     }
+     },
+     "lead": "You have the direction words. On this card: how to start politely with Entschuldigung and ask the way with zum or zur, so you can ask for a place like the station."
     },
     {
      "title": "A whole route: ask and answer",
@@ -5269,7 +5298,8 @@
       "Nehmen Sie dann die zweite Straße links.",
       "Das Rathaus ist dort."
      ],
-     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Herr Ali and Mira do not know each other, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi."
+     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Herr Ali and Mira do not know each other, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
+     "lead": "This is the last card of the lesson. On this card: a full route from question to answer, using commands, bitte and dann, so you can ask for and give directions in one talk."
     }
    ],
    "media": {
@@ -5925,7 +5955,8 @@
         "Dezember"
        ]
       ]
-     }
+     },
+     "lead": "You can give directions and describe places. On this card: the twelve months in order, which are all der-words, so you can talk about when things happen."
     },
     {
      "title": "im + month: when?",
@@ -6021,7 +6052,8 @@
         "im Dezember"
        ]
       ]
-     }
+     },
+     "lead": "You know the months now. On this card: how im goes before a month and how to ask Wann?, so you can say when you come or go."
     },
     {
      "title": "The four seasons",
@@ -6126,7 +6158,8 @@
         "im Winter"
        ]
       ]
-     }
+     },
+     "lead": "You can say a month with im. On this card: the four seasons, which are also der-words and also take im, so you can say when something happens in the year."
     },
     {
      "title": "Start with the time: the verb stays second",
@@ -6230,7 +6263,8 @@
         "nach Berlin?"
        ]
       ]
-     }
+     },
+     "lead": "You can say when something happens. On this card: putting the time phrase first while the verb stays in second place, and where the subject goes, so the sentence still works."
     },
     {
      "title": "Hamburg through the year",
@@ -6326,7 +6360,8 @@
         "im Winter"
        ]
       ]
-     }
+     },
+     "lead": "Next: events in one city. On this card: a few Hamburg events and their times, so you can ask Wann ist …? and name the right month or season."
     },
     {
      "title": "Long and short vowels",
@@ -6432,7 +6467,8 @@
         "Bank, Stadt"
        ]
       ]
-     }
+     },
+     "lead": "This is the last card of the lesson. On this card: the spelling clues that tell you whether a vowel is long or short, so you can say words with the right sound."
     }
    ],
    "media": {

@@ -226,7 +226,8 @@
     const exParts=(c.examples||[]).flatMap(x=>Array.isArray(x.parts)?x.parts:[]);
     const more=c.more?`<div class="lp-more"><button type="button" class="lp-btn lp-ghost lp-morebtn" data-act="more" aria-expanded="${!!moreShown[stepKey]}" aria-controls="lp-more-t">Explain it more simply</button>
       <p id="lp-more-t" class="lp-moretext"${moreShown[stepKey]?'':' hidden'}>${esc(c.more)}</p></div>`:'';
-    return `${c.body?`<p class="lp-body">${esc(c.body)}</p>`:''}${more}
+    const lead=c.lead&&!c.intro?`<div class="lp-lead"><span class="lp-label">What this card teaches</span><p>${esc(c.lead)}</p></div>`:'';
+    return `${lead}${c.body?`<p class="lp-body">${esc(c.body)}</p>`:''}${more}
       ${visual?`<div class="lp-visual">${visual}</div>`:''}
       ${(c.examples||[]).length?`<ul class="lp-examples">${c.examples.map(x=>`<li>${Array.isArray(x.parts)&&x.parts.length?`<div class="lp-de lp-de-chips" lang="de"><span class="lp-parts lp-parts-sm">${chipsHtml(x.parts)}</span> ${speakBtn(x.de)}</div>`:`<p class="lp-de" lang="de">${esc(x.de)} ${speakBtn(x.de)}</p>`}<p class="lp-en">${esc(x.en)}</p>${x.why?`<p class="lp-why">${esc(x.why)}</p>`:''}</li>`).join('')}</ul>${exParts.length?legendHtml(exParts):''}`:''}`;
   }

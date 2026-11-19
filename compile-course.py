@@ -129,6 +129,8 @@ def lesson(f, lv, ch, n, L, R):
         if st is not None and not (isinstance(st, list) and len(st) >= 2 and all(nonempty(s) for s in st)):
             err(f, lid, f'cards[{i}].steps', 'need a list of at least 2 strings')
         if pa is not None and bad_parts(pa): err(f, lid, f'cards[{i}].parts', bad_parts(pa))
+        if i and not c.get('intro') and not (nonempty(c.get('lead')) and 12 <= len(c['lead'].split()) <= 45):
+            err(f, lid, f'cards[{i}].lead', 'every teaching card needs "lead" (What this card teaches): 12-45 words, bridge from the last card + what this card teaches')
         mo = c.get('more')
         if not (nonempty(mo) and len(mo.split()) <= 150): err(f, lid, f'cards[{i}].more', 'every card needs "more" (Explain it more simply), at most 150 words')
         if not any(c.get(k) for k in ('table', 'steps', 'parts')):

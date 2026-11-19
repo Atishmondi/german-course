@@ -26,6 +26,8 @@
 .lp-card,.lp-oneline,.lp-mistake,.lp-extra,.lp-terms{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:16px 0}
 .lp-oneline p{font-size:1.3rem;margin:0;font-weight:600}
 .lp-oneline{border-color:rgba(242,184,102,.35);background:var(--accent-soft,rgba(242,184,102,.1))}
+.lp-lead{max-width:56ch;margin:0 0 20px;padding:12px 18px;border:1px solid rgba(242,184,102,.35);border-radius:var(--radius);background:var(--accent-soft,rgba(242,184,102,.1))}
+.lp-lead p{margin:0;font-size:1.1rem;line-height:1.5}
 .lp-body{font-size:1.3rem;line-height:1.5;margin:0 0 22px;max-width:52ch}
 
 /* teaching cards: one visual per idea */
