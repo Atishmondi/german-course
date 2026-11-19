@@ -267,3 +267,9 @@
 .lp-moretext{border-color:transparent}
 .lp-lead{border-color:rgba(0,172,172,.28)}
 .lp-lead,.lp-visual,.lp-examples,.lp-deeper{margin-bottom:20px}
+
+/* Lesson typography: comfortable reading measure and rhythm; German text slightly larger than English glosses */
+.lp-body{font-size:1.28rem;line-height:1.55;max-width:58ch}
+.lp-lead p,.lp-deeper>p,.lp-moretext{line-height:1.6;max-width:62ch}
+.lp-en{color:var(--sub);font-size:1rem}.lp-why{color:var(--muted);font-size:.95rem}
+.lp-label{letter-spacing:.08em;font-weight:700}

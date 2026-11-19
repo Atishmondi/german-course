@@ -338,3 +338,18 @@ body{background:var(--bg)}
 .theme-pick[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
 .theme-pick .sw{display:flex;gap:4px}.theme-pick .sw i{width:26px;height:26px;border-radius:50%;border:1px solid rgba(255,255,255,.15)}
 .set-block{padding:14px 0 18px;border-bottom:1px solid var(--line)}.set-h{margin:0;font-weight:700}
+
+/* Typography + hierarchy pass (Figma UI principles: hierarchy via size/weight/contrast/spacing; consistency).
+   Type scale ratio 1.25 on a 17px base; prose 1.6 line-height, 60-70ch measure; headings tight; numbers tabular. */
+:root{--fs-0:1.0625rem;--fs-1:1.33rem;--fs-2:1.66rem;--fs-3:2.07rem;--fs-4:2.6rem}
+body{font-size:var(--fs-0);line-height:1.6;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-feature-settings:"kern" 1}
+h1{font-size:var(--fs-4);line-height:1.08;letter-spacing:-.025em;margin-bottom:.45em}
+h2{font-size:var(--fs-2);line-height:1.18;letter-spacing:-.018em}
+h3{font-size:var(--fs-1);line-height:1.25;letter-spacing:-.01em}
+p,li,.lede,.why,.h-why{max-width:68ch}
+.lede,.why,.h-why,.muted{color:var(--sub)}
+small,.muted small{letter-spacing:.005em}
+.h-stats b,.h-time b,.pg-big b,.pg-figs b,.stat b,.barlabel span:last-child{font-variant-numeric:tabular-nums}
+.section{margin-top:40px}
+.section>h2:first-child{margin-bottom:14px}
+.side-nav a{font-weight:600;letter-spacing:.005em}
