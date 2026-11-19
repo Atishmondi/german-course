@@ -31,3 +31,9 @@ Schmerzen
 Schild
 # leider: LanguageTool repeat-word style note across batched sentences
 leider
+# Gehalt: das Gehalt (salary), pl. Gehälter; Wiktionary box lists der Gehalt (content) first
+Gehalt
+# WGs: plural of WG (Wohngemeinschaft)
+WGs
+# Möbel: taught as plural "die Möbel" (furniture); das Möbel = one piece
+Möbel
