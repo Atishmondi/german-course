@@ -247,3 +247,15 @@
 
 .lp-timer{align-self:center;font-size:14px;color:var(--sub);margin-right:8px;white-space:nowrap}
 .lp-gtab{margin:14px 0 0}.lp-gtab a{color:var(--accent);font-weight:600;text-decoration:none}.lp-gtab a:hover{text-decoration:underline}
+/* A2/B1 roles (added 2026-11-19; the 16 A1 roles above are locked) */
+.lp{--c-genitive:#5b7cff}
+.lp-chip.r-verbend{background:var(--c-verb);color:#000;outline:2px dashed rgba(0,0,0,.55);outline-offset:-5px}
+.lp-chip.r-konj2{background:var(--c-verb);color:#000;outline:2px dotted #fff;outline-offset:-5px}
+.lp-chip.r-genitive{background:var(--c-genitive);color:#fff}
+.lp-chip.r-zu,.lp-chip.r-reflexive,.lp-chip.r-relative{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 2px var(--c)}
+.lp-chip.r-zu{--c:var(--c-verb2)}.lp-chip.r-reflexive{--c:var(--c-subject)}.lp-chip.r-relative{--c:var(--c-noun)}
+.lp-legend .r-verbend::before{background:var(--c-verb);outline:2px dashed rgba(0,0,0,.6);outline-offset:-3px}
+.lp-legend .r-konj2::before{background:var(--c-verb);outline:2px dotted #fff;outline-offset:-3px}
+.lp-legend .r-genitive::before{background:var(--c-genitive)}
+.lp-legend .r-zu::before,.lp-legend .r-reflexive::before,.lp-legend .r-relative::before{background:transparent;border:2px solid var(--c)}
+.lp-legend .r-zu{--c:var(--c-verb2)}.lp-legend .r-reflexive{--c:var(--c-subject)}.lp-legend .r-relative{--c:var(--c-noun)}

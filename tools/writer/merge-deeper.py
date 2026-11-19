@@ -1,7 +1,7 @@
 # usage: merge-deeper.py [--check] NN [NN...] -> sets cards[i].deeper (i>=1) from SP/deeper/chNN.json
 import json,sys,os,re,unicodedata
 SP=os.path.dirname(os.path.abspath(__file__)); ROOT='/Users/atishmondi/Documents/german/sites/german-current'
-ROLES=set('subject verb verb2 object dative article noun adjective ending question negation time place preposition conjunction other'.split())
+ROLES=set('subject verb verb2 object dative article noun adjective ending question negation time place preposition conjunction other verbend genitive reflexive relative konj2 zu'.split())
 BANNED=re.compile(r'\b(blind|skill day|recall|retrieval)\b',re.I)
 check='--check' in sys.argv; chs=[a for a in sys.argv[1:] if a!='--check']; bad=0
 for nn in chs:

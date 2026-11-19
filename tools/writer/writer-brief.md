@@ -58,3 +58,6 @@ Every card after the intro card has `"lead"`: 12–45 words shown at the top of 
 
 ## A bit deeper (required on every teaching card, compiler-checked)
 Every card after the intro card has `"deeper": {"text": 40–80 words, "example": {"de", "en", "parts"}}`, shown visibly under the examples as "A bit deeper": one small step beyond the body (the why, a useful detail, an A1-level exception, how natives really say it, an English link). New example sentence, parts on it, only taught grammar. Full spec: `SP/deeper-brief.md` (Shape section).
+
+## A2/B1 colour roles (A2 chapters on; the 16 A1 roles stay as they are)
+6 extra roles exist: `verbend` (the conjugated verb pushed to the END of a weil/dass/wenn/ob/relative clause: ..., weil ich müde **bin**), `genitive` (Julias, des Mannes, wegen des Wetters: the genitive word/article), `reflexive` (sich, mich, dich used reflexively), `relative` (relative pronoun der/die/das/den/dem/deren...), `konj2` (würde, hätte, wäre, könnte as Konjunktiv II), `zu` (the zu before an infinitive: Ich habe keine Lust, **zu** kochen). Passive = `verb` (wird) + `verb2` (participle). Use a new role only from the lesson that teaches it (teach before you test); the subordinating conjunction itself (weil, dass) stays `conjunction`.

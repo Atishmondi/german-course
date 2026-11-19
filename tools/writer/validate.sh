@@ -1,5 +1,4 @@
-# usage: bash validate.sh NN   -> compiles ch01..chNN-chapters present into a temp root (dist untouched); prints only lines about chNN + summary
-NN=$1; ROOT=/Users/atishmondi/Documents/german/sites/german-current; T=$(mktemp -d)
-mkdir -p $T/content/a1 $T/dist; cp $ROOT/content/*.json $T/content/; cp $ROOT/compile-course.py $T/
-for f in $ROOT/content/a1/ch0[12].json $ROOT/content/a1/ch$NN.json; do cp $f $T/content/a1/; done
-python3 $T/compile-course.py --partial --root $T 2>&1 | grep -E "ch$NN|error|lessons|questions|wrote" ; rm -rf $T
+# usage: [LEVEL=a2] bash validate.sh NN -> compiles the whole content tree in a temp root (dist untouched); prints lines about chNN of LEVEL + summary
+NN=$1; LV=${LEVEL:-a1}; ROOT=/Users/atishmondi/Documents/german/sites/german-current; T=$(mktemp -d)
+mkdir -p $T/dist; cp -R $ROOT/content $T/; cp $ROOT/compile-course.py $T/
+python3 $T/compile-course.py --partial --root $T 2>&1 | grep -E "$LV/ch$NN|error|$LV:|questions|wrote" ; rm -rf $T

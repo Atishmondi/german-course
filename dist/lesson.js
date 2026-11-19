@@ -206,7 +206,7 @@
     return `<figure class="lp-video"><div class="lp-frame"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="${esc(title)}" loading="lazy" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe></div>
       <figcaption><span>${esc(title)}${v.channel?` · ${esc(v.channel)}`:''}</span> <a href="https://www.youtube.com/watch?v=${id}" target="_blank" rel="noopener">Open on YouTube</a></figcaption></figure>`;
   }
-  const ROLES={subject:'Subject',verb:'Verb',verb2:'Second verb part',object:'Object',dative:'Dative',article:'Article',noun:'Noun',adjective:'Adjective',ending:'Ending',question:'Question word',negation:'Negation',time:'Time',place:'Place',preposition:'Preposition',conjunction:'Joiner',other:'Other'};
+  const ROLES={subject:'Subject',verb:'Verb',verb2:'Second verb part',object:'Object',dative:'Dative',article:'Article',noun:'Noun',adjective:'Adjective',ending:'Ending',question:'Question word',negation:'Negation',time:'Time',place:'Place',preposition:'Preposition',conjunction:'Joiner',other:'Other',verbend:'Verb at the end',genitive:'Genitive (whose)',reflexive:'Reflexive (myself…)',relative:'Relative (who, which)',konj2:'Wish form (würde, hätte)',zu:'zu + verb'};
   const roleOf=r=>Object.hasOwn(ROLES,r)?r:'other';
   const chipsHtml=parts=>parts.map(([t,r])=>`<span class="lp-chip r-${roleOf(r)}">${esc(t)}<span class="sr-only"> (${ROLES[roleOf(r)].toLowerCase()})</span></span>`).join('');
   const legendHtml=parts=>`<p class="lp-legend" aria-hidden="true">${[...new Set(parts.map(p=>roleOf(p[1])))].map(r=>`<span class="r-${r}">${ROLES[r]}</span>`).join('')}</p>`;

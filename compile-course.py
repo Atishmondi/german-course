@@ -72,7 +72,8 @@ res_path = CONTENT / 'resources.json'
 HAVE_RES = res_path.exists()
 resources = (load(res_path) if HAVE_RES else None) or {}
 PART_ROLES = {'subject', 'verb', 'verb2', 'object', 'dative', 'article', 'noun', 'adjective', 'ending',
-              'question', 'negation', 'time', 'place', 'preposition', 'conjunction', 'other'}  # colour keys the player knows
+              'question', 'negation', 'time', 'place', 'preposition', 'conjunction', 'other',
+              'verbend', 'genitive', 'reflexive', 'relative', 'konj2', 'zu'}  # A2/B1 roles  # colour keys the player knows
 def bad_parts(pa, de=None):
     if not (isinstance(pa, list) and pa and all(isinstance(p, list) and len(p) == 2 and nonempty(p[0]) and p[1] in PART_ROLES for p in pa)):
         return f'need [[text, role], ...] with role in {sorted(PART_ROLES)}'
