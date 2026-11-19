@@ -12859,7 +12859,7 @@
      "body": "On a restaurant homepage look for six things: the name, the Öffnungszeiten (opening hours), the Speisekarte (menu), the Tagesgericht (dish of the day), the Reservierung (booking) and the Adresse with the Telefon. Read in this order.",
      "examples": [
       {
-       "de": "Herrn Alis Restaurant heißt Zum Löwen.",
+       "de": "Herrn Alis Restaurant heißt „Zum Löwen“.",
        "en": "Herr Ali's restaurant is called Zum Löwen.",
        "parts": [
         [
@@ -12875,7 +12875,7 @@
          "verb"
         ],
         [
-         "Zum Löwen.",
+         "„Zum Löwen“.",
          "other"
         ]
        ]
@@ -14598,7 +14598,7 @@
    },
    "listening": {
     "title": "Nach der Party",
-    "script": "Anna: Hallo, Leon! Wie war die Party gestern?\nLeon: Super! Ich habe einen neuen Nachbarn kennengelernt.\nAnna: Echt? Wie heißt er?\nLeon: Er heißt Herr Ali. Er kommt aus Österreich. Er hat ein Restaurant.\nAnna: Wirklich? Das finde ich toll! Was macht er gern?\nLeon: Er kocht gern, aber am liebsten fährt er Rad.\nAnna: Und was habt ihr gemacht?\nLeon: Wir haben gegrillt und viel gelacht. Er hat auch gefragt: Und du?\nAnna: Und was hast du geantwortet?\nLeon: Ich habe geantwortet: Ich studiere Informatik und ich spiele gern Tennis.",
+    "script": "Anna: Hallo, Leon! Wie war die Party gestern?\nLeon: Super! Ich habe einen neuen Nachbarn kennengelernt.\nAnna: Echt? Wie heißt er?\nLeon: Er heißt Herr Ali. Er kommt aus Österreich. Er hat ein Restaurant.\nAnna: Wirklich? Das finde ich toll! Was macht er gern?\nLeon: Er kocht gern, aber am liebsten fährt er Rad.\nAnna: Was habt ihr dann gemacht?\nLeon: Wir haben gegrillt und viel gelacht. Er hat auch gefragt: „Und du?“\nAnna: Und was hast du geantwortet?\nLeon: Ich habe geantwortet: Ich studiere Informatik und ich spiele gern Tennis.",
     "questions": [
      {
       "type": "choice",
@@ -15302,7 +15302,7 @@
    "day": 3,
    "reading": {
     "title": "Zum Löwen: die Homepage und Miras Abend",
-    "text": "Herrn Alis Restaurant heißt Zum Löwen. Wir sind von Dienstag bis Sonntag von 11 bis 22 Uhr geöffnet. Das Tagesgericht kostet mittags nur sieben Euro. Alle Gerichte gibt es auch vegetarisch. Am Freitag und am Samstag bitte reservieren, weil wir viele Gäste haben. Mira schreibt: Ich war am Freitag mit Ben und Anna im Löwen. Ich habe einen Tisch für drei Personen reserviert. Wir haben Suppe und Fisch gegessen. Anna hat den Fisch genommen, weil sie gern Fisch isst. Die Bedienung war freundlich. Das Essen war lecker, und ich war zufrieden, weil der Preis gut war. Ben hat das Tagesgericht genommen, weil das günstig ist. Um 22 Uhr sind wir nach Hause gegangen.",
+    "text": "Herrn Alis Restaurant heißt „Zum Löwen“. Wir sind von Dienstag bis Sonntag von 11 bis 22 Uhr geöffnet. Das Tagesgericht kostet mittags nur sieben Euro. Alle Gerichte gibt es auch vegetarisch. Am Freitag und am Samstag bitte reservieren, weil wir viele Gäste haben. Mira schreibt: Ich war am Freitag mit Ben und Anna im Löwen. Ich habe einen Tisch für drei Personen reserviert. Wir haben Suppe und Fisch gegessen. Anna hat den Fisch genommen, weil sie gern Fisch isst. Die Bedienung war freundlich. Das Essen war lecker, und ich war zufrieden, weil der Preis gut war. Ben hat das Tagesgericht genommen, weil das günstig ist. Um 22 Uhr sind wir nach Hause gegangen.",
     "glossary": [
      {
       "de": "Löwen",
@@ -15340,7 +15340,7 @@
       ],
       "answer": 0,
       "hint": "Look at the first sentence.",
-      "explanation": "Das Restaurant heißt Zum Löwen."
+      "explanation": "Das Restaurant heißt „Zum Löwen“."
      },
      {
       "type": "choice",

@@ -8881,8 +8881,8 @@
        ]
       },
       {
-       "de": "Ben verrät seiner Schwester den Spickzettel.",
-       "en": "Ben gives the cheat note away to his sister.",
+       "de": "Ben verrät seiner Schwester die Antwort.",
+       "en": "Ben gives the answer away to his sister.",
        "parts": [
         [
          "Ben",
@@ -8901,7 +8901,7 @@
          "noun"
         ],
         [
-         "den Spickzettel.",
+         "die Antwort.",
          "object"
         ]
        ]
@@ -8971,7 +8971,7 @@
        [
         "verraten",
         "hat verraten",
-        "Ben hat seiner Schwester den Spickzettel verraten."
+        "Ben hat seiner Schwester die Antwort verraten."
        ]
       ]
      }
@@ -9823,8 +9823,8 @@
      "en": "to tell (a secret), to give away",
      "examples": [
       {
-       "de": "Ich verrate meiner Freundin den Spickzettel.",
-       "en": "I tell my friend about the cheat note."
+       "de": "Ich verrate meiner Freundin die Antwort.",
+       "en": "I give the answer away to my friend."
       },
       {
        "de": "Leon hat seinem Freund alles verraten.",
@@ -14044,12 +14044,16 @@
        "why": "Step 3: reason with weil, the verb is last."
       },
       {
-       "de": "Viele Grüße, Mira",
-       "en": "Best wishes, Mira",
+       "de": "Viele Grüße von Mira",
+       "en": "Best wishes from Mira",
        "parts": [
         [
-         "Viele Grüße,",
+         "Viele Grüße",
          "other"
+        ],
+        [
+         "von",
+         "preposition"
         ],
         [
          "Mira",
@@ -14063,16 +14067,20 @@
      "deeper": {
       "text": "A good comment is short and clear. One opinion, one reason, a friendly start and end. In a forum people write Hallo! at the start, and they close with Viele Grüße or Liebe Grüße. Viele Grüße is a little more neutral, Liebe Grüße is warmer. Do not forget the comma after the closing chunk and write your name on the next line.",
       "example": {
-       "de": "Liebe Grüße, Ben",
-       "en": "Kind regards, Ben",
+       "de": "Liebe Grüße von Ben",
+       "en": "Kind regards from Ben",
        "parts": [
         [
          "Liebe",
          "other"
         ],
         [
-         "Grüße,",
+         "Grüße",
          "other"
+        ],
+        [
+         "von",
+         "preposition"
         ],
         [
          "Ben",
@@ -14102,7 +14110,7 @@
        ],
        [
         "4 Closing",
-        "Viele Grüße, Mira"
+        "Viele Grüße von Mira"
        ]
       ]
      },
@@ -14558,13 +14566,13 @@
      "type": "choice",
      "prompt": "Which closing fits a comment?",
      "options": [
-      "Hallo, Mira",
+      "Hallo von Mira",
       "Mira, viele Hallo",
-      "Viele Grüße, Mira"
+      "Viele Grüße von Mira"
      ],
      "answer": 2,
      "hint": "A closing chunk and your name.",
-     "explanation": "Viele Grüße, Mira."
+     "explanation": "Viele Grüße von Mira."
     },
     {
      "type": "type",
@@ -15811,7 +15819,7 @@
    "day": 3,
    "reading": {
     "title": "Das Schulprojekt",
-    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Anna schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man eine Schuluniform tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man keine Schuluniform tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße, Anna",
+    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Anna schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man eine Schuluniform tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man keine Schuluniform tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße\nAnna",
     "glossary": [
      {
       "de": "Zettel",
@@ -16210,7 +16218,7 @@
     "free": {
      "prompt": "Write a comment of about 40 words in a school forum: a greeting, your opinion with Meiner Meinung nach, a reason with weil, one sentence with Früher and a past modal, and a closing.",
      "minWords": 40,
-     "model": "Hallo! Meiner Meinung nach sind Schuluniformen nicht gut. Ich bin dagegen, weil ich meine Kleidung mag. Früher musste ich in der Schule keine Schuluniform tragen, und das war gut. Heute dürfen wir auch ein Handy mitbringen. Das finde ich gut. Wie findest du das? Viele Grüße, Mira",
+     "model": "Hallo! Meiner Meinung nach sind Schuluniformen nicht gut. Ich bin dagegen, weil ich meine Kleidung mag. Früher musste ich in der Schule keine Schuluniform tragen, und das war gut. Heute dürfen wir auch ein Handy mitbringen. Das finde ich gut. Wie findest du das? Viele Grüße\nMira",
      "checks": [
       {
        "label": "gives an opinion with Meiner Meinung nach + a verb",
