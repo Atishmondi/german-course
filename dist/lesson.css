@@ -259,3 +259,11 @@
 .lp-legend .r-genitive::before{background:var(--c-genitive)}
 .lp-legend .r-zu::before,.lp-legend .r-reflexive::before,.lp-legend .r-relative::before{background:transparent;border:2px solid var(--c)}
 .lp-legend .r-zu{--c:var(--c-verb2)}.lp-legend .r-reflexive{--c:var(--c-subject)}.lp-legend .r-relative{--c:var(--c-noun)}
+
+/* Polish: one radius for every box on a card, accent stripe as an inset instead of square corners */
+.lp-visual,.lp-examples li,.lp-vocab li{border-radius:var(--radius)}
+.lp-examples li{border-top:1px solid var(--line)}
+.lp-deeper,.lp-moretext{border-left:1px solid var(--line);border-radius:var(--radius);box-shadow:inset 3px 0 0 var(--accent)}
+.lp-moretext{border-color:transparent}
+.lp-lead{border-color:rgba(231,192,138,.28)}
+.lp-lead,.lp-visual,.lp-examples,.lp-deeper{margin-bottom:20px}
