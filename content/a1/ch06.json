@@ -44,6 +44,100 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: the order of dates",
+     "body": "Chapter 6 is about celebrating: dates, birthdays, invitations, plans, a café, and yesterday. Today the first step is the date. To say the third of May you need numbers that give an order: first, second, third.",
+     "steps": [
+      "You already know: am Montag, and the months (chapters 2 and 3)",
+      "New today: ordinal numbers, der erste, der dritte, der zwanzigste",
+      "By the end you can: say today's date and the date of an event"
+     ],
+     "examples": [
+      {
+       "de": "Am Montag habe ich Zeit.",
+       "en": "On Monday I have time.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Am Montag",
+         "time"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Zeit.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Am ersten Mai habe ich Zeit.",
+       "en": "On the first of May I have time.",
+       "why": "New today: the date after am ends in -ten.",
+       "parts": [
+        [
+         "Am",
+         "preposition"
+        ],
+        [
+         "ersten",
+         "adjective"
+        ],
+        [
+         "Mai",
+         "noun"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Zeit.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Heute ist der elfte Mai.",
+       "en": "Today is the eleventh of May.",
+       "why": "New today: elfte, an ordinal number.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "elfte",
+         "adjective"
+        ],
+        [
+         "Mai.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Counting says how many. An ordinal says which one in the line, like first or third in a queue. German adds a small ending to the number, mostly -te, and from twenty on -ste. Three are odd: erste, dritte and siebte. That is all. Dates use these numbers every day, so you will say them a lot. The next cards build them in small steps: the odd ones, the ones with -te, the ones with -ste and the dot in 3. Mai."
+    },
+    {
      "title": "Ordinal numbers: first, second, third",
      "body": "Numbers count: eins, zwei, drei. Ordinal numbers give the order: first, second, third. You need them for dates. In German an ordinal has an ending: der erste, der zweite. Here are the first ten.",
      "examples": [
@@ -1309,6 +1403,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: birthdays",
+     "body": "A friend asks: \"When is your birthday?\" You want to answer and to invite people to the party. Today you use the date to talk about birthdays. German has a special way to say it.",
+     "steps": [
+      "You already know: haben, for example Ich habe Hunger (chapter 2)",
+      "New today: Ich habe Geburtstag, and the date with am",
+      "By the end you can: say when your birthday is and wish someone a happy birthday"
+     ],
+     "examples": [
+      {
+       "de": "Ich habe Hunger.",
+       "en": "I am hungry (I have hunger).",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "Hunger.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich habe am ersten Mai Geburtstag.",
+       "en": "My birthday is on the first of May.",
+       "why": "New today: German says I have a birthday, with the date in the middle.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "am ersten Mai",
+         "time"
+        ],
+        [
+         "Geburtstag.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Wann hast du Geburtstag?",
+       "en": "When is your birthday?",
+       "why": "New today: Wann hast du Geburtstag?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Geburtstag?",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "In English a birthday is something that is. In German it is something that you have, just like hunger or time. So the sentence is one you already know: ich habe plus a noun. Then you slide the date into the middle with am, and the verb keeps its chair 2. You will also learn two nice chunks for wishing someone well, and how to read a clock time on an invitation. Step by step in the next cards."
+    },
+    {
      "title": "Wann hast du Geburtstag?",
      "body": "In German you do not say my birthday is. You say you have a birthday: Ich habe Geburtstag. The date goes in the middle with am: Ich habe am ersten Mai Geburtstag. Geburtstag is the object of haben.",
      "examples": [
@@ -2438,6 +2610,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: invitations",
+     "body": "Mira invites you to a party. You read it, decide, and answer: yes or no. Today you learn to read and write a short invitation and to answer it politely.",
+     "steps": [
+      "You already know: Möchtest du einen Kaffee? with the verb first (chapter 4)",
+      "New today: Möchtest du kommen? and polite answers like Ja, gern and Leider …",
+      "By the end you can: read an invitation for the key facts and say yes or no"
+     ],
+     "examples": [
+      {
+       "de": "Möchtest du einen Kaffee?",
+       "en": "Would you like a coffee?",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Möchtest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee?",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Möchtest du kommen?",
+       "en": "Would you like to come?",
+       "why": "New today: the second verb goes to the end, like in the bracket.",
+       "parts": [
+        [
+         "Möchtest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "kommen?",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Leider kann ich nicht kommen.",
+       "en": "Unfortunately I cannot come.",
+       "why": "New today: a polite no with leider and kann.",
+       "parts": [
+        [
+         "Leider",
+         "other"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "kommen.",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "An invitation is like a small letter with four boxes: a greeting, the news, the plan and a question. When you read one, you do not need every word. You just hunt for the key facts: who, what, when and where. When you answer, you use what you know, a yes/no question with the verb first, and the bracket with kann at the end. The next cards show you how to say yes, how to say no nicely and how to read like a detective."
+    },
     {
      "title": "An invitation: four parts",
      "body": "A friendly invitation has four parts. A greeting (Liebe Mira,), the news (Ich habe am Samstag Geburtstag.), the plan (Die Party ist um 18 Uhr.) and a question (Kommst du?). Then you end with Viele Grüße and your name.",
@@ -3642,6 +3896,84 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: verbs in two pieces",
+     "body": "Do you call your friend? Do you come along? Some German verbs split in two when you use them. Today you meet the first of them. The sentence rule you know stays the same, but a little piece moves to the end.",
+     "steps": [
+      "You already know: the verb is part 2 and the object comes after it (Ich treffe Mira)",
+      "New today: separable verbs, where a small prefix jumps to the end",
+      "By the end you can: say Ich rufe Mira an and ask Wann stehst du auf?"
+     ],
+     "examples": [
+      {
+       "de": "Ich treffe Mira.",
+       "en": "I meet Mira.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "treffe",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich rufe Mira an.",
+       "en": "I call Mira.",
+       "why": "New today: anrufen splits, rufe is part 2 and an goes to the end.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "rufe",
+         "verb"
+        ],
+        [
+         "Mira",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Wann stehst du auf?",
+       "en": "When do you get up?",
+       "why": "New today: the prefix goes last in a question, too.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "stehst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "auf?",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a train with a small last carriage. Most verbs are one whole train. A separable verb is a train with a detachable last carriage: the engine is rufen, the carriage is an. In the sentence the engine stays in chair 2 and the carriage rolls all the way to the end. You have seen this shape before, the bracket from chapter 5. In the next cards you will learn five of these verbs and how they work in questions."
+    },
     {
      "title": "A verb in two pieces",
      "body": "Some German verbs have a small prefix at the front: an-rufen (to call). In a sentence they break into two pieces. The main verb goes to part 2. The prefix jumps to the very end. The prefix has the colour of the second verb.",
@@ -4897,6 +5229,88 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: separable verbs with can and must",
+     "body": "I must get up at seven. Can you come along? Last lesson the prefix jumped to the end. Now two things from this chapter and the last meet: the modal bracket and the separable verb.",
+     "steps": [
+      "You already know: a modal in part 2 and the second verb at the end (chapter 5), and the prefix at the end",
+      "New today: with a modal, the separable verb stays together as one word at the end",
+      "By the end you can: say Ich muss um 7 Uhr aufstehen and ask Kannst du mitkommen?"
+     ],
+     "examples": [
+      {
+       "de": "Ich muss am Montag arbeiten.",
+       "en": "I must work on Monday.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "am Montag",
+         "time"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Ich stehe um 7 Uhr auf.",
+       "en": "I get up at seven.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "stehe",
+         "verb"
+        ],
+        [
+         "um 7 Uhr",
+         "time"
+        ],
+        [
+         "auf.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Ich muss um 7 Uhr aufstehen.",
+       "en": "I must get up at seven.",
+       "why": "New today: with muss, aufstehen is one word at the end.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "um 7 Uhr",
+         "time"
+        ],
+        [
+         "aufstehen.",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "Remember the train with the detachable carriage? When a helper verb takes the first handle of the parcel, the train does not need to split. The helper verb sits in chair 2, and the whole train aufstehen, engine and carriage together, rides in the last place. So there is no new rule. You just combine two things you know. The next cards go over the modal bracket again, then how to invite someone to join you."
+    },
+    {
      "title": "Modal verbs: a quick refresher",
      "body": "You know modal verbs from chapter 5: müssen (must), können (can), wollen (want to) and möchten (would like to). The modal is in part 2. The other verb is an infinitive and goes to the very end.",
      "examples": [
@@ -6064,6 +6478,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: in the café",
+     "body": "You sit in a café. You order, you pay and you decide how much to tip. Today you do all of this in German, and you learn three sound pairs: ei, eu and au.",
+     "steps": [
+      "You already know: Ich möchte einen Kaffee, bitte (chapter 4) and the numbers and Euro",
+      "New today: nehmen, Zahlen bitte, Das macht … Euro and Stimmt so",
+      "By the end you can: order, pay, and say how you want to tip"
+     ],
+     "examples": [
+      {
+       "de": "Ich möchte einen Kaffee, bitte.",
+       "en": "I would like a coffee, please.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee,",
+         "noun"
+        ],
+        [
+         "bitte.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Zahlen, bitte!",
+       "en": "The bill, please!",
+       "why": "New today: a chunk to pay.",
+       "parts": [
+        [
+         "Zahlen,",
+         "other"
+        ],
+        [
+         "bitte!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Das macht zwölf Euro.",
+       "en": "That comes to twelve euros.",
+       "why": "New today: Das macht … Euro, the price the waiter says.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "macht",
+         "verb"
+        ],
+        [
+         "zwölf",
+         "object"
+        ],
+        [
+         "Euro.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "This lesson is a small play with two actors: you and the waiter. The waiter asks, you answer, and both of you use short, set phrases. Think of them as Lego bricks. You learn each brick as one whole piece and click it together. There is almost no new grammar, just one verb, nehmen, with a small change. The next cards go through ordering, paying and tipping. At the end you practise the sounds ei, eu and au."
+    },
+    {
      "title": "Order food and drink",
      "body": "In a café the waiter asks Was möchten Sie? or Was darf es sein? You answer with Ich möchte … or Ich nehme … and bitte. You know möchten from chapter 4. The thing you order is the object: only masculine words change (einen, den).",
      "examples": [
@@ -7136,6 +7628,108 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: me, you, him and her as objects",
+     "body": "Mira calls me. I call you. Anna sees us. People can be the object of a sentence, and so can things. Today you learn the object forms of the little words ich, du and er.",
+     "steps": [
+      "You already know: der becomes den as the object, nothing else changes (chapter 4)",
+      "New today: the pronouns as objects, mich, dich, ihn, uns, euch",
+      "By the end you can: say Ich rufe dich an and Ich esse ihn"
+     ],
+     "examples": [
+      {
+       "de": "Der Kuchen ist lecker. Ich esse den Kuchen.",
+       "en": "The cake is tasty. I eat the cake.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Der Kuchen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "lecker.",
+         "adjective"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Kuchen.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Der Kuchen ist lecker. Ich esse ihn.",
+       "en": "The cake is tasty. I eat it.",
+       "why": "New today: er becomes ihn, just like der becomes den.",
+       "parts": [
+        [
+         "Der Kuchen",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "lecker.",
+         "adjective"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "ihn.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Mira ruft mich an.",
+       "en": "Mira calls me.",
+       "why": "New today: ich becomes mich as the object.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ruft",
+         "verb"
+        ],
+        [
+         "mich",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "You learned that only masculine words change when they are the object, der to den. The little pronoun words follow the very same idea. Er becomes ihn, because the masculine word changes. Sie and es stay the same. The two pronouns for me and you change too: mich and dich. Think of it as a costume change for when someone receives the action. You will see all of them in a table and then practise where each one goes in the sentence."
+    },
     {
      "title": "Pronouns as objects: mich and dich",
      "body": "You know ich, du, er … They are the subject: who does it. A pronoun can also be the object: the person who receives the action. Then ich becomes mich and du becomes dich. This is the accusative, like den for der.",
@@ -8316,6 +8910,100 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: for someone",
+     "body": "This present is for you. This cake is for my father. Whom is it for? Today you learn one small word, für, and the rule that comes with it: after für you use the object form.",
+     "steps": [
+      "You already know: der → den and ich → mich as objects",
+      "New today: für, which always takes the object form",
+      "By the end you can: say Das Geschenk ist für dich and ask Für wen?"
+     ],
+     "examples": [
+      {
+       "de": "Ich kaufe ein Geschenk.",
+       "en": "I buy a present.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kaufe",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Geschenk.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich kaufe ein Geschenk für Mira.",
+       "en": "I buy a present for Mira.",
+       "why": "New today: für says who it is for.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kaufe",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Geschenk",
+         "object"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "Mira.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Das Geschenk ist für mich.",
+       "en": "The present is for me.",
+       "why": "New today: after für, ich becomes mich.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Geschenk",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "mich.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Some little words are like bouncers: when they stand in front of a person, that person must wear the object costume. Für is one of those. It has no exceptions, which is great news. So after für, ich is always mich, du is always dich, and der Vater is always den Vater. You already know the costumes from the last lessons. In the next cards you practise them with für, step by step."
+    },
     {
      "title": "für = for, and für takes the accusative",
      "body": "für means for. After für you always use the accusative, the object form. So pronouns change: für mich, für dich, für ihn. This is a little rule with no exceptions: für + accusative.",
@@ -9523,6 +10211,84 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: yesterday",
+     "body": "How was the party? Were you tired yesterday? To talk about the past you do not need a lot yet. Two small verbs are enough: war and hatte, the past of sein and haben.",
+     "steps": [
+      "You already know: sein and haben in all six forms (chapter 2)",
+      "New today: war and hatte, the past forms",
+      "By the end you can: say Gestern war ich müde and ask Wo warst du gestern?"
+     ],
+     "examples": [
+      {
+       "de": "Ich bin müde.",
+       "en": "I am tired.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Gestern war ich müde.",
+       "en": "Yesterday I was tired.",
+       "why": "New today: war is the past of bin.",
+       "parts": [
+        [
+         "Gestern",
+         "time"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Ich hatte gestern Hunger.",
+       "en": "I was hungry yesterday.",
+       "why": "New today: hatte is the past of habe.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "hatte",
+         "verb"
+        ],
+        [
+         "gestern",
+         "time"
+        ],
+        [
+         "Hunger.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of sein and haben as two old friends who each own a second outfit for yesterday. Bin turns into war, habe turns into hatte. The sentence itself works the same way: the verb is in chair 2 in a statement and first in a yes/no question. So you only learn two short outfits, each with six forms. In the next cards you learn the forms, time words like gestern, and how to describe an event that was great or loud."
+    },
     {
      "title": "The past of sein and haben: war and hatte",
      "body": "To talk about yesterday or last weekend, use war (was) for sein and hatte (had) for haben. These are short past forms. They are the easiest way to talk about the past in German. Now: ich bin müde. Yesterday: ich war müde.",

@@ -49,6 +49,53 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: say hello and your name",
+     "body": "Welcome to German, the start of your course. Chapter 1 is about greeting people, giving your name and saying where you come from, over two study days. A real moment: someone new asks, what is your name? Today you learn your first answer.",
+     "steps": [
+      "You already know: a few words that sound like English, such as Hallo (hello).",
+      "New today: two chunks for your name, Ich heiße and Ich bin.",
+      "By the end you can: greet someone and say Ich heiße Mira."
+     ],
+     "examples": [
+      {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "why": "You already know this: it sounds like English hello, and the order is like English.",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira.",
+       "why": "New today: Ich heiße + your name. One chunk, one verb.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of German as a set of building blocks. Some blocks are single words, and some are chunks: groups of words you learn as one brick. Today's big picture: Germans greet people by the time of day, and say their name with one ready-made chunk. Ich heiße Mira means I am called Mira. Ich bin Mira means I am Mira. Pick one brick, and never use both, because each brick already has its own verb. Why does this work? Learning chunks first lets you talk on day one, before the rules. You will learn the rules step by step in the next cards, one small block at a time."
+    },
+    {
      "title": "Hello: pick by the time of day",
      "body": "Germans often greet by the time of day. Guten Morgen in the morning. Guten Tag during the day. Guten Abend in the evening. Hallo works at any time, but it is casual: use it with friends.",
      "examples": [
@@ -857,6 +904,65 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: friend or polite, and asking a name",
+     "body": "A real moment: you meet a new neighbour in Germany and want to ask their name. Should you use the friendly word or the polite word? This lesson shows you how to choose, and how to ask both ways.",
+     "steps": [
+      "You already know: Ich heiße … and Ich bin … from lesson 1.",
+      "New today: du for friends, Sie for polite talk, and Wie heißt du? or Wie heißen Sie?",
+      "By the end you can: ask someone's name in a friendly or a polite way."
+     ],
+     "examples": [
+      {
+       "de": "Ich heiße Mira. Und du?",
+       "en": "My name is Mira. And you?",
+       "why": "You know this: Ich heiße + name, from lesson 1.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ],
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Wie heißen Sie?",
+       "en": "What is your name? (polite)",
+       "why": "New today: with the polite Sie, the verb is heißen.",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of German as having two doors into a conversation: a friendly door (du) and a polite door (Sie). Friends, family and children get du. Adults you do not know, and people at work, get Sie. Why two doors? They show closeness or respect, so you choose the door before you speak. Each door has its own question: Wie heißt du? for a friend, Wie heißen Sie? for someone polite. Step by step: look at the person, choose the door, then use the matching question. The verb changes a little for each door, and you will see the reason in lesson 4. For now, learn both questions as whole chunks."
+    },
     {
      "title": "Pronouns: little words for people",
      "body": "A pronoun is a short word that stands for a person. ich = I. German has two words for you: du for a friend, Sie for polite talk. You always have to pick one.",
@@ -1795,6 +1901,57 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: where you come from and live",
+     "body": "A real moment: at a language café someone asks, Woher kommst du? Where are you from? Today you learn to say where you come from and where you live. There is one big rule: the verb always sits in part 2.",
+     "steps": [
+      "You already know: Ich bin + name, and Wie heißt du?",
+      "New today: Ich komme aus … and Ich wohne in …, with the verb in part 2.",
+      "By the end you can: say where you come from and live, and ask Woher kommst du?"
+     ],
+     "examples": [
+      {
+       "de": "Ich bin Ben.",
+       "en": "I am Ben.",
+       "why": "You know this: ich bin from lesson 1.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Ich wohne in Berlin.",
+       "en": "I live in Berlin.",
+       "why": "New today: wohnen (to live) with in + place. The verb is part 2.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in Berlin.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a sentence as a row of seats. Seat 1 is who or what, seat 2 is the verb, and the rest comes after. German keeps the verb in seat 2, like a fixed chair at a table. Ich komme aus Wien: the verb komme sits in seat 2, then the place. Woher kommst du? keeps the verb in seat 2 too, after the question word. Why does German do this? One fixed seat means you always know where to look for the verb. Step by step: find the verb, put it in seat 2, then build the rest around it. The next cards practise each seat."
+    },
     {
      "title": "Count parts, not words",
      "body": "A sentence is made of parts. A part is one word or a few words that belong together. Mira Bauer is one part. The subject is the part that says who: ich, du, Sie, Ben.",
@@ -2889,6 +3046,61 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: verb endings",
+     "body": "A real moment: a friend asks where Mira lives, and you need to talk about yourself and about her. Verbs change their ending to match who is doing the action. Today you learn the four endings and how to find the right one in three steps.",
+     "steps": [
+      "You already know: ich komme, ich wohne and du heißt from lessons 1 to 3.",
+      "New today: the endings -e, -st, -t and -en added to the stem.",
+      "By the end you can: change kommen and wohnen for ich, du, er, sie and Sie."
+     ],
+     "examples": [
+      {
+       "de": "Ich komme aus Wien.",
+       "en": "I come from Vienna.",
+       "why": "You know this: ich komme from lesson 3.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Du wohnst in Berlin.",
+       "en": "You live in Berlin.",
+       "why": "New today: du takes -st, so wohnen becomes wohnst.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "wohn",
+         "verb"
+        ],
+        [
+         "st",
+         "ending"
+        ],
+        [
+         "in Berlin.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a verb as a word with a body and a coat. The stem is the body: komm-, wohn-. The ending is the coat you put on, and it must fit the person. Ich gets -e, du gets -st, er and sie get -t, and Sie gets -en. Why? Each person needs a different coat, so the listener knows who is doing the action, even without the name. Step by step: take off -en from the dictionary form to find the stem, keep the stem the same, then add the coat for the person. The next cards show the coats in a table, and then let you practise them."
+    },
+    {
      "title": "The infinitive and the stem",
      "body": "The infinitive is the dictionary form of a verb. It ends in -en: kommen, wohnen. Take off -en and you get the stem: komm-, wohn-. The stem stays the same. Only the end changes.",
      "examples": [
@@ -3931,6 +4143,57 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: sein and introducing people",
+     "body": "A real moment: a friend shows you a photo and says, Das ist Anna. This is Anna. Today you learn sein (to be), the most important verb in German. You will use it to introduce people and to say what they do for work.",
+     "steps": [
+      "You already know: ich bin from lesson 1, and the endings -st and -t from lesson 4.",
+      "New today: sein has its own forms (du bist, er ist, Sie sind) and Das ist …",
+      "By the end you can: introduce someone with Das ist and say Ben ist Student."
+     ],
+     "examples": [
+      {
+       "de": "Ich bin Mira.",
+       "en": "I am Mira.",
+       "why": "You know this: ich bin from lesson 1.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist Frau Weber.",
+       "en": "This is Ms Weber.",
+       "why": "New today: Das ist + name introduces someone.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Frau Weber.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of sein as the odd one out in a class. Most verbs follow the coat rule from lesson 4, but sein has its own forms, like a friend who dresses differently. Big picture: sein means to be. You use it to say who you are, who someone else is, and what someone is like. Das ist means this is, and Wer ist das? means who is that? Jobs have no word for a in German, so you say Ben ist Student. Why? German treats a job like a description, not a thing. You will learn the forms by heart, one small group at a time, in the next cards."
+    },
+    {
      "title": "sein: a verb that breaks the pattern",
      "body": "An irregular verb does not follow the stem + ending pattern from lesson 4. sein (to be) is the most important one. You know ich bin already. The other forms look different, so learn them by heart.",
      "examples": [
@@ -4946,6 +5209,57 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: languages and yes or no questions",
+     "body": "A real moment: someone asks, Sprichst du Deutsch? Do you speak German? You may also need to spell your name letter by letter. Today you learn the extra letters, language names, and yes or no questions, where the verb comes first.",
+     "steps": [
+      "You already know: W-questions with the verb in part 2, such as Woher kommst du?",
+      "New today: spelling, language names, and yes/no questions with the verb first.",
+      "By the end you can: spell your name and ask Sprichst du Englisch?"
+     ],
+     "examples": [
+      {
+       "de": "Woher kommst du?",
+       "en": "Where are you from?",
+       "why": "You know this: a W-question, with the verb in part 2.",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Sprichst du Deutsch?",
+       "en": "Do you speak German?",
+       "why": "New today: a yes/no question has no question word. The verb comes first.",
+       "parts": [
+        [
+         "Sprichst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Deutsch?",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a question as a door you open. A W-question has a signpost at the front, a word like wo or woher. A yes/no question has no signpost: you just move the verb to the front. Why? In German, the moved verb is the switch that turns a statement into a question. Step by step: say the statement, move the verb to the front, then answer ja or nein. English adds do or does, but German only moves the verb. Spelling uses a similar idea: say the letters one by one. The next cards show each step."
+    },
     {
      "title": "Four extra letters",
      "body": "German has the same 26 letters as English, plus four. An umlaut is the two dots over a vowel: ä, ö, ü. The two dots change the sound. The sharp s, ß, sounds like ss. You know some already: Österreich, Tschüss, heißen.",

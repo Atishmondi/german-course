@@ -252,10 +252,10 @@
         <div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
         <p class="lp-muted">${lesson.minutes?`About ${lesson.minutes} minutes. `:''}${lesson.printedPages?`Your book: ${esc(lvl?.book||String(lesson.level||'').toUpperCase())}, page ${pages(lesson.printedPages)}. `:''}You can pause any time.</p>`,
         nextLabel:cards.length?'Start learning':'Next: Drills'},
-      ...cards.map((c,n)=>{const sk=`${id}#${n}`, steps=Array.isArray(c.steps)?c.steps.length:0;
-        return {phase:'Learn',card:n,title:c.title||`Idea ${n+1}`,wide:true,sub:()=>`Card ${n+1} of ${cards.length}`,
+      ...cards.map((c,n)=>{const sk=`${id}#${n}`, steps=Array.isArray(c.steps)?c.steps.length:0, off=cards[0]&&cards[0].intro?1:0;
+        return {phase:'Learn',card:n,title:c.title||`Idea ${n+1}`,wide:true,sub:()=>c.intro?'Introduction':`Card ${n+1-off} of ${cards.length-off}`,
           canNext:()=>Math.min(steps,stepsShown[sk]||1)>=steps,
-          html:()=>cardHtml(c,sk)+(n===0?(lesson.media?.grammarVideos||[]).map(k=>videoHtml(k,res)).join('')+terms:'')+(n===cards.length-1&&n>0?mistake:'')};}),
+          html:()=>cardHtml(c,sk)+(n===off?(lesson.media?.grammarVideos||[]).map(k=>videoHtml(k,res)).join(''):'')+(n===0?terms:'')+(n===cards.length-1&&n>0?mistake:'')};}),
       ...qScreens(lesson.drills||[],id,'drills','Drills','Drill'),
       ...(lesson.blind?[{phase:'New sentence',title:'New sentence on your own',q:lesson.blind,key:K.qkey(id,'blind',0),reset:{name:'New sentence',keys:[K.qkey(id,'blind',0)]},sub:()=>'You have not seen this one before. Use what you just learned.'}]:[]),
       ...qScreens(lesson.check||[],id,'check','Quiz','Question',{sub:checkSub}),

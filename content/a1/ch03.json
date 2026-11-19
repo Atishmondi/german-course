@@ -49,6 +49,88 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: places in a city",
+     "body": "You step off the train in Hamburg and see a big building. What is it? Chapter 3 is about the city: places, getting around, directions and the seasons. Today you point and say what a thing is, like a first sign on a map.",
+     "steps": [
+      "You already know: der, die, das from chapter 2",
+      "New today: ein and eine, which mean a or an",
+      "By the end you can: say Das ist ein Hotel or Das ist eine Kirche"
+     ],
+     "examples": [
+      {
+       "de": "Das ist der Tisch.",
+       "en": "That is the table.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Tisch.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Hotel.",
+       "en": "That is a hotel.",
+       "why": "New today: ein means a. The gender still decides.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist eine Kirche.",
+       "en": "That is a church.",
+       "why": "New today: a die-word needs eine.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Kirche.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a city map with little labels. Until now you used the, for something you both know. A is for something new: Look, a church! German has a small a-word for each gender, so ein and eine are like name tags that match der, die and das. You do not have to guess. You will meet the word, then the table, then practise, step by step in the next cards."
+    },
+    {
      "title": "Was ist das? Das ist ein …",
      "body": "To say what a thing is, use Das ist ein … and then the noun. ein means a or an. Ask with Was ist das? The verb ist is always part 2.",
      "examples": [
@@ -1099,6 +1181,65 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: saying what is not there",
+     "body": "A friend asks: Is that a cinema? It is not. You need a short way to say not a. Today you add one little k to what you know, and you can say no to a place.",
+     "steps": [
+      "You already know: ein and eine from the last lesson",
+      "New today: kein and keine mean not a",
+      "By the end you can: say Das ist kein Kino"
+     ],
+     "examples": [
+      {
+       "de": "Das ist ein Hotel.",
+       "en": "That is a hotel.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist kein Hotel.",
+       "en": "That is not a hotel.",
+       "why": "New today: ein becomes kein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine ein is a little sticker saying a. To say not a, you add a k at the front, like a small stop sign: ein turns into kein, eine into keine. That is the whole trick. There is also nicht for describing words, and you will learn when to use which. Take it one card at a time; each card adds just one small piece."
+    },
     {
      "title": "kein: not a",
      "body": "kein means not a or no. Put it where ein stood. You often say it after nein, and then you say what the thing really is.",
@@ -2188,6 +2329,65 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: getting around",
+     "body": "You want to go to the harbour. Bus, train or on foot? And where is the station? Today you say how you travel and ask where a place is, the first steps of finding your way.",
+     "steps": [
+      "You already know: the verb is part 2 from chapter 1",
+      "New today: mit dem Bus, mit der U-Bahn, zu Fuß as whole pieces",
+      "By the end you can: say how you travel and ask Wo ist …?"
+     ],
+     "examples": [
+      {
+       "de": "Ich komme aus Wien.",
+       "en": "I come from Vienna.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Ich fahre mit dem Bus.",
+       "en": "I go by bus.",
+       "why": "New today: mit dem Bus is one piece. The verb is still part 2.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem Bus.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of ways to travel as little luggage tags. mit dem Bus, mit der U-Bahn, mit dem Zug: each is a small box you carry whole, so you do not take it apart. You just learn the box and drop it into a sentence you know already. The verb stays in its place, in part 2. You will practise a few boxes at a time in the next cards."
+    },
     {
      "title": "How do you travel? Wie fährst du?",
      "body": "Ask Wie fährst du? Answer with Ich fahre mit dem Bus. mit dem Bus is one piece: learn it whole. Why it is dem comes in chapter 7. The verb fahren is still part 2.",
@@ -3328,6 +3528,61 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: describing places",
+     "body": "Your friend asks: What is the harbour like? Big? Loud? Today you learn to describe a place with a short, easy pattern. It is one of the simplest things in German.",
+     "steps": [
+      "You already know: sein (bin, bist, ist) from chapter 1",
+      "New today: sein plus a describing word, with no ending",
+      "By the end you can: say Der Hafen ist groß"
+     ],
+     "examples": [
+      {
+       "de": "Ich bin müde.",
+       "en": "I am tired.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Der Hafen ist groß.",
+       "en": "The harbour is big.",
+       "why": "New today: the same pattern describes a place.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Hafen",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine sein as an equals sign. On the left is the thing, on the right how it is: The harbour = big. You already did this with Ich bin müde. Here the describing word does not change at all, whatever you describe. That makes it easy. You will learn a few opposites, then words like very and too, step by step."
+    },
+    {
      "title": "Say what a place is like: sein + adjective",
      "body": "A describing word is called an adjective. It says what something is like: big, old, nice. Put the adjective after sein. The verb is still part 2.",
      "examples": [
@@ -4376,6 +4631,76 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: asking the way",
+     "body": "You are lost in Hamburg. You stop a stranger and ask for the way, and they tell you where to go. Today you learn the polite way to say go straight on and turn left.",
+     "steps": [
+      "You already know: Sie, the polite you, from chapter 1",
+      "New today: the polite command, verb first, then Sie",
+      "By the end you can: ask the way and understand Gehen Sie geradeaus!"
+     ],
+     "examples": [
+      {
+       "de": "Sie gehen zu Fuß.",
+       "en": "You go on foot.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "zu Fuß.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Gehen Sie geradeaus!",
+       "en": "Go straight on!",
+       "why": "New today: verb first, then Sie. It is a polite command.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "geradeaus!",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Nehmen Sie die U-Bahn!",
+       "en": "Take the underground!",
+       "why": "New today: the same pattern with another verb.",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "die U-Bahn!",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "A polite command in German is just a small flip. In a statement you say Sie gehen. For a command you swap the two words: Gehen Sie. That is all! It sounds kind because you still say Sie. Think of giving a friendly signpost to a visitor. You will practise asking and giving directions bit by bit in the next cards."
+    },
     {
      "title": "A polite command: verb first, then Sie",
      "body": "A command tells someone what to do. It is called the imperative. With Sie, put the verb first and Sie right after it. The verb has the same form as Sie gehen. End with !",
@@ -5447,6 +5772,65 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: the months and seasons",
+     "body": "When is the best time to visit Hamburg? In May, or in summer? Today you say when something happens, using the months and the seasons, and you hear two kinds of vowels.",
+     "steps": [
+      "You already know: am + day, like am Montag, from chapter 2",
+      "New today: im + month or season, like im Mai",
+      "By the end you can: say Im Mai spiele ich Tennis"
+     ],
+     "examples": [
+      {
+       "de": "Am Montag spiele ich Tennis.",
+       "en": "On Monday I play tennis.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Am Montag",
+         "time"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Im Mai spiele ich Tennis.",
+       "en": "In May I play tennis.",
+       "why": "New today: im + month says in that month.",
+       "parts": [
+        [
+         "Im Mai",
+         "time"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a year as a calendar on the wall. For a day you said am, for a month or a season you say im. It is the same little tag, just a different one. And remember: even when the time comes first, the verb still sits in part 2. You will learn the twelve months, then the four seasons, one step at a time."
+    },
     {
      "title": "The twelve months",
      "body": "German has twelve months. Learn them in order and say them out loud. Every month is a der-word: der Januar, der Mai. The year is das Jahr.",

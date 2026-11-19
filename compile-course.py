@@ -117,6 +117,11 @@ def lesson(f, lv, ch, n, L, R):
     if not isinstance(L.get('terms'), list): err(f, lid, 'terms', 'missing list')
     cards = L.get('cards')
     if not (isinstance(cards, list) and len(cards) >= R['cards']): err(f, lid, 'cards', f"need at least {R['cards']} teaching cards")
+    if isinstance(cards, list) and cards and isinstance(cards[0], dict):
+        c0 = cards[0]
+        if c0.get('intro') is not True: err(f, lid, 'cards[0]', 'first card must be the introduction ("intro": true): why it matters, what you know, what is new')
+        elif not (isinstance(c0.get('steps'), list) and len(c0['steps']) >= 3): err(f, lid, 'cards[0].steps', 'introduction needs 3+ steps: You already know / New today / By the end')
+        if any(isinstance(c, dict) and c.get('intro') for c in cards[1:]): err(f, lid, 'cards', 'only the first card can be the introduction')
     for i, c in enumerate(cards if isinstance(cards, list) else []):
         if not (nonempty(c.get('title')) and nonempty(c.get('body'))): err(f, lid, f'cards[{i}]', 'title and body required')
         elif len(c['body'].split()) > 60: err(f, lid, f'cards[{i}].body', 'over 60 words; split the idea into another card')

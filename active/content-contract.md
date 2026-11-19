@@ -44,6 +44,7 @@ Spec of record for all course content. Size rules per level are in `content/leve
  },
  "terms": [{"term": "accusative", "meaning": "the form a noun takes when it is the thing being acted on (the object)"}],
  "cards": [                                // ≥4 visual teaching cards (v2.1), all before the questions
+   // cards[0] = INTRODUCTION card (v2.2, compiler-checked): {"intro": true, "title": "Before we start: …", "body": real-life why + link to what is known, "steps": ["You already know: …", "New today: …", "By the end you can: …"], "examples": [known sentence, known → new contrast] (with parts), "more": ELI5 big picture}. Lesson 1 of a chapter also introduces the chapter. See tools/writer/intro-brief.md.
    // v2.1: ≥ rules.cards (4) cards, one idea each; body ≤60 words; every card has ≥1 visual: table, steps or parts
    {"title": "...", "body": "≤60 words, plain English", "examples": [{"de": "...", "en": "...", "why": "...", "parts": [["Ich","subject"],["heiße","verb"],["Mira.","other"]]}, ...≥2],   // learner LOVES colour-coded parts: colour-code examples wherever possible (≥ half per lesson, compiler-checked; parts must spell "de")
     "steps": ["ich + heiß + e", "= ich heiße"],                       // optional: step-by-step build-up, shown one line at a time

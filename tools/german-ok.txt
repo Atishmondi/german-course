@@ -23,3 +23,9 @@ Hausaufgaben
 Leider
 # date "der erste Mai" (lowercase as an ordinal date is correct)
 erste
+# "Pause machen" (noun) is correct
+Pause
+# der Schnupfen (cold) is correct; Schmerzen taught as plural; das Schild/die Schilder = sign (der Schild = shield)
+Schnupfen
+Schmerzen
+Schild

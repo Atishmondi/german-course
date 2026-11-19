@@ -45,6 +45,76 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: food and drink",
+     "body": "You are hungry and a friend asks: What do you eat? Chapter 4 is about food: eating, ordering, shopping and offering. Today you name what you eat or drink with one new idea: the object.",
+     "steps": [
+      "You already know: Ich spiele … and the verb in part 2",
+      "New today: the object, the thing you eat or drink",
+      "By the end you can: say Ich esse Brot and ask Was isst du?"
+     ],
+     "examples": [
+      {
+       "de": "Ich spiele Tennis.",
+       "en": "I play tennis.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich esse Brot.",
+       "en": "I eat bread.",
+       "why": "New today: Brot is the object, the thing you eat.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "Brot.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ben trinkt Wasser.",
+       "en": "Ben drinks water.",
+       "why": "New today: the thing comes after the verb.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "trinkt",
+         "verb"
+        ],
+        [
+         "Wasser.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Picture a sentence as a tiny story. Someone does something, and something is on the receiving end. Ben drinks water: Ben is the one who acts, the water is the thing that gets drunk. That thing is called the object. In German it simply comes after the verb, like in English. Nothing scary! You will meet it in small steps in the next cards."
+    },
+    {
      "title": "The object: what you eat or drink",
      "body": "Some verbs need a thing to work on. Who eats? Ich. That is the subject. What do I eat? Brot. That is the object. The object answers the question: what?",
      "examples": [
@@ -1043,6 +1113,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: the thing that gets eaten",
+     "body": "Ich esse den Apfel: the word der changes to den. Why? Because the apple is the thing being eaten. Good news: only the masculine words change, and only a little.",
+     "steps": [
+      "You already know: ein, eine, kein, keine from chapter 3",
+      "New today: einen and keinen for masculine words",
+      "By the end you can: say Ich esse einen Apfel and Ich esse keinen Fisch"
+     ],
+     "examples": [
+      {
+       "de": "Das ist ein Apfel.",
+       "en": "That is an apple.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Apfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich esse einen Apfel.",
+       "en": "I eat an apple.",
+       "why": "New today: ein becomes einen, because I eat it.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Apfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich esse keinen Fisch.",
+       "en": "I eat no fish.",
+       "why": "New today: kein becomes keinen.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "keinen",
+         "negation"
+        ],
+        [
+         "Fisch.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine masculine words wear a little costume when they get eaten: der Apfel puts on den, ein puts on einen, kein puts on keinen. Only a tiny n is added, like a small sock. The die-words and das-words keep their clothes the same. So you only watch out for masculine words. You will learn it one word at a time in the next cards."
+    },
     {
      "title": "Subject or object? Most words do not change",
      "body": "A noun can be the subject (who does it) or the object (what gets it). With die and das nothing changes. Die Katze trinkt die Milch: die comes twice and stays die.",
@@ -2135,6 +2287,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: the whole table",
+     "body": "You now know that masculine words change when they are the thing you eat. Today you see the whole table at once, and you learn that other verbs, like kaufen and haben, work the same way.",
+     "steps": [
+      "You already know: Ich esse den Apfel from the last lesson",
+      "New today: other verbs with an object, and the one verb that has none, sein",
+      "By the end you can: say Ich habe einen Hund"
+     ],
+     "examples": [
+      {
+       "de": "Ich esse den Apfel.",
+       "en": "I eat the apple.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Apfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich habe einen Hund.",
+       "en": "I have a dog.",
+       "why": "New today: haben takes an object too, so einen.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Hund.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Hund.",
+       "en": "That is a dog.",
+       "why": "Contrast: sein has no object, so ein stays ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hund.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a toolbox. You already own the einen and den tool. Now you learn it works with more verbs: buy, need, have. The rule never changes. There is just one exception: sein is like an equals sign, so nothing is acted on and nothing changes. You will fill the table step by step, one small card at a time."
+    },
     {
      "title": "The full table: der, die, das, plural",
      "body": "Here is the whole picture. Only one box changes: masculine. der → den, ein → einen, kein → keinen. All other boxes are the same for subject and object.",
@@ -3265,6 +3499,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: saying what you would like",
+     "body": "In a café you do not say I want, you say I would like. It sounds nice and polite. Today you learn möchten, the word you need to order a coffee.",
+     "steps": [
+      "You already know: Ich esse einen Apfel with einen from the last lessons",
+      "New today: möchten, I would like",
+      "By the end you can: say Ich möchte einen Kaffee, bitte"
+     ],
+     "examples": [
+      {
+       "de": "Ich esse einen Apfel.",
+       "en": "I eat an apple.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Apfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich möchte einen Kaffee.",
+       "en": "I would like a coffee.",
+       "why": "New today: möchte works the same way, so einen.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Was möchtest du?",
+       "en": "What would you like?",
+       "why": "New today: möchtest du, the question for a friend.",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "möchtest",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "Möchten is a polite way to say what you want. Imagine you are at a café counter. You point at the coffee: Ich möchte einen Kaffee, bitte. What you would like is the object, so the einen rule you just learned still works. It is a verb like the others, with only small new forms. You will learn it in small steps in the next cards."
+    },
+    {
      "title": "möchten: I would like",
      "body": "möchten means would like. It is the polite way to say what you want. It is irregular: ich and er/sie have the same form, möchte. Learn the six forms.",
      "examples": [
@@ -4314,6 +4626,84 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: saying what you like",
+     "body": "Do you like cheese? Fish? Today you say what you like, what you do not like and what you prefer. It is a pattern for talking about your own taste.",
+     "steps": [
+      "You already know: Ich möchte einen Kaffee from the last lesson",
+      "New today: mögen (to like), nicht gern and lieber",
+      "By the end you can: say Ich mag Käse and Ich trinke lieber Tee"
+     ],
+     "examples": [
+      {
+       "de": "Ich möchte einen Kaffee.",
+       "en": "I would like a coffee.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich mag Käse.",
+       "en": "I like cheese.",
+       "why": "New today: mögen says what you like in general.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "mag",
+         "verb"
+        ],
+        [
+         "Käse.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich trinke lieber Tee.",
+       "en": "I prefer to drink tea.",
+       "why": "New today: lieber means prefer.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "trinke",
+         "verb"
+        ],
+        [
+         "lieber",
+         "other"
+        ],
+        [
+         "Tee.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a taste scale. Möchten is today, right now: I would like this coffee. Mögen is your general taste: I like coffee. Gern and lieber move your sentence up or down the scale. Gern means like to, lieber means prefer. You already know the object and the verb in part 2. Everything else is built one small piece at a time."
+    },
     {
      "title": "mögen: to like",
      "body": "mögen means to like a thing or a person. It is irregular: ich mag, du magst, er/sie mag. The umlaut is gone in the singular. In the plural it comes back: wir mögen.",
@@ -5487,6 +5877,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: how much, how many, how much it costs",
+     "body": "At the market you want a kilo of apples and you need to know the price. Today you say how much you want and ask Was kostet …?",
+     "steps": [
+      "You already know: Ich kaufe einen Apfel from chapter 4",
+      "New today: a quantity word, like ein Kilo, and the price question",
+      "By the end you can: say Ich kaufe ein Kilo Äpfel and ask Was kostet der Käse?"
+     ],
+     "examples": [
+      {
+       "de": "Ich kaufe einen Apfel.",
+       "en": "I buy an apple.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kaufe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Apfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich kaufe ein Kilo Äpfel.",
+       "en": "I buy a kilo of apples.",
+       "why": "New today: ein Kilo, and no article before the food.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kaufe",
+         "verb"
+        ],
+        [
+         "ein Kilo",
+         "other"
+        ],
+        [
+         "Äpfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Was kostet der Käse?",
+       "en": "How much is the cheese?",
+       "why": "New today: kosten asks the price.",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "kostet",
+         "verb"
+        ],
+        [
+         "der Käse?",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine a shopping bag. You say how much goes in, a kilo, a litre, a pack, and then what it is. The quantity word comes first, and the food follows with no little word before it. Ein Kilo Äpfel, not ein Kilo die Äpfel. And the price is an easy question: Was kostet …? You will practise this step by step in the next cards."
+    },
+    {
      "title": "Quantities: how much?",
      "body": "To buy food you say how much. Learn these quantity words with their articles: das Kilo, das Gramm, der Liter, die Flasche, die Packung, das Stück. The food comes right after.",
      "examples": [
@@ -6612,6 +7080,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: shopping",
+     "body": "You are at the shop, and the seller asks: Was darf es sein? What do you say? Today you learn the shops, the verb nehmen and the little phrases of a shop talk.",
+     "steps": [
+      "You already know: Ich möchte ein Kilo Äpfel from the last lesson",
+      "New today: nehmen (to take) and the shop phrases",
+      "By the end you can: say Ich nehme den Käse and ask Haben Sie Brötchen?"
+     ],
+     "examples": [
+      {
+       "de": "Ich möchte ein Kilo Äpfel.",
+       "en": "I would like a kilo of apples.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "ein Kilo",
+         "other"
+        ],
+        [
+         "Äpfel.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich nehme den Käse.",
+       "en": "I will take the cheese.",
+       "why": "New today: nehmen takes an object, so den.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "nehme",
+         "verb"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Käse.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Haben Sie Brötchen?",
+       "en": "Do you have rolls?",
+       "why": "New today: a polite question for the seller.",
+       "parts": [
+        [
+         "Haben",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "Brötchen?",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a short play with two parts: the seller and you. The seller has little fixed lines, like Was darf es sein?, and you have yours: Ich nehme …, Das ist alles, danke. You do not build the lines, you learn them as ready-made pieces, like song lines. Then you fill in what you buy. We will go step by step through the whole talk in the next cards."
+    },
+    {
      "title": "Shops: where do you buy what?",
      "body": "Learn four shop words with their articles. die Bäckerei sells bread and rolls. die Metzgerei sells meat and sausage. der Supermarkt sells everything. der Markt sells fresh food.",
      "examples": [
@@ -7689,6 +8235,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: meals and time first",
+     "body": "When do you eat? What do you eat for breakfast? Today you talk about your meals and your day, and you put the time at the start of the sentence.",
+     "steps": [
+      "You already know: Am Montag spiele ich Tennis from chapter 2",
+      "New today: zum Frühstück and morgens at the start",
+      "By the end you can: say Zum Frühstück esse ich ein Brötchen"
+     ],
+     "examples": [
+      {
+       "de": "Am Montag esse ich Pizza.",
+       "en": "On Monday I eat pizza.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Am Montag",
+         "time"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Pizza.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Zum Frühstück esse ich ein Brötchen.",
+       "en": "For breakfast I eat a roll.",
+       "why": "New today: zum Frühstück starts the sentence.",
+       "parts": [
+        [
+         "Zum Frühstück",
+         "time"
+        ],
+        [
+         "esse",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "ein Brötchen.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Morgens trinke ich Kaffee.",
+       "en": "In the morning I drink coffee.",
+       "why": "New today: morgens is a time word too.",
+       "parts": [
+        [
+         "Morgens",
+         "time"
+        ],
+        [
+         "trinke",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Kaffee.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine your day as a row of boxes: morning, noon, evening. You name a box first, then say what happens in it. German lets you put that time first, but the verb keeps its seat in part 2, just like with am Montag. So the person, ich, hops behind the verb. You will see it in small steps, one meal at a time, in the next cards."
+    },
     {
      "title": "Three meals",
      "body": "Germans have three meals. das Frühstück is breakfast. das Mittagessen is lunch. das Abendessen is dinner. All three are neuter, so they use das.",
@@ -8802,6 +9430,68 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: offering and saying yes or no",
+     "body": "A friend offers you cake. You want to say yes, or you are full and want to say no, politely. Today you learn the kind little phrases of a meal, and the sounds ä, ö and ü.",
+     "steps": [
+      "You already know: Möchtest du einen Tee? from the last lessons",
+      "New today: Ja, gern. Ja, bitte. Nein, danke.",
+      "By the end you can: offer food and answer politely"
+     ],
+     "examples": [
+      {
+       "de": "Möchtest du einen Tee?",
+       "en": "Would you like a tea?",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Möchtest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "einen Tee?",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ja, gern.",
+       "en": "Yes, gladly.",
+       "why": "New today: a short, friendly yes.",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Nein, danke.",
+       "en": "No, thank you.",
+       "why": "New today: a short, polite no.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "danke.",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a table with friends. Someone holds out the plate and asks the question you already know. You answer with two little words, like a smile in words: Ja, gern. Or: Nein, danke. That is all you need to be polite at any German table. You also practise three new sounds, ä, ö and ü, step by step in the next cards."
+    },
     {
      "title": "Offer food and drink",
      "body": "To offer something, ask a yes/no question: the verb goes first. Möchtest du einen Kaffee? Use möchten with du, Sie or ihr. nehmen works too: Nimmst du Zucker? What you offer is the object.",

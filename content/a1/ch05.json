@@ -49,6 +49,61 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: telling the time",
+     "body": "Your film starts soon and a friend asks: \"When?\" This chapter is about everyday life: time, family, my and your, can and must, and making appointments. Today is the clock. You already put a time first and kept the verb in place 2. Now the time gets a real clock.",
+     "steps": [
+      "You already know: a time can start the sentence and the verb stays in part 2 (am Montag, chapter 2)",
+      "New today: Uhr and um, to say the time and at what time something starts",
+      "By the end you can: ask Wie spät ist es? and say when a film or a course begins"
+     ],
+     "examples": [
+      {
+       "de": "Am Montag spiele ich Tennis.",
+       "en": "On Monday I play tennis.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Am Montag",
+         "time"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Um neun Uhr beginnt der Kurs.",
+       "en": "At nine o'clock the course starts.",
+       "why": "New today: um + a clock time. The verb is still part 2.",
+       "parts": [
+        [
+         "Um neun Uhr",
+         "time"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "der Kurs.",
+         "subject"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a clock as a street sign. In chapter 2 you learned the sign for days: am Montag. Now you learn the sign for clock times: um. The sentence itself does not change at all. The verb sits in chair 2, like always. Only the little time label is new. German trains and cinemas use the 24-hour clock, so after 12 the numbers just keep going. You will meet this step by step in the next cards: first how to ask, then the 24-hour clock, then um."
+    },
+    {
      "title": "Ask and tell the time: Uhr",
      "body": "Ask: Wie spät ist es? (How late is it?) Answer: Es ist + number + Uhr. Uhr means o'clock and never changes. One o'clock is ein Uhr, with ein, not eins.",
      "examples": [
@@ -1160,6 +1215,65 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: the everyday clock",
+     "body": "A friend texts: \"We meet at half past two.\" Last lesson you learned the official time for trains. Friends use a shorter way. It has a famous trap: halb. Today you learn to read it without panic.",
+     "steps": [
+      "You already know: Es ist vierzehn Uhr dreißig, the official time from the last lesson",
+      "New today: nach, vor, Viertel and halb, the everyday way to say the time",
+      "By the end you can: say and understand Es ist halb drei and Viertel nach drei"
+     ],
+     "examples": [
+      {
+       "de": "Der Kurs beginnt um neun Uhr.",
+       "en": "The course starts at nine o'clock.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Der Kurs",
+         "subject"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "neun Uhr.",
+         "time"
+        ]
+       ]
+      },
+      {
+       "de": "Der Kurs beginnt um halb neun.",
+       "en": "The course starts at half past eight.",
+       "why": "New today: halb neun means 8:30, half way to nine.",
+       "parts": [
+        [
+         "Der Kurs",
+         "subject"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "halb neun.",
+         "time"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine a hill with the hour at the top. Everyday time says how far you have climbed. Nach means you just left the hour, vor means the next hour is nearly there. Viertel is a quarter of the way. Halb is the tricky one: you are half way to the next hour, so halb neun is 8:30, not 9:30. German always names the hour you are walking towards. It feels odd for a day or two, and then it clicks. The next cards go one piece at a time."
+    },
     {
      "title": "Everyday time: nach and vor",
      "body": "Friends say the time in a shorter way. nach means after and vor means before. fünf nach drei is 3:05. zehn vor drei is 2:50. In everyday time you can leave out Uhr.",
@@ -2335,6 +2449,77 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: when it starts and ends",
+     "body": "A shop sign says: open from eight to six. A course runs from nine to twelve. Today you say a whole stretch of time. It joins two things you know: am for days and um for clock times.",
+     "steps": [
+      "You already know: am for a day and um for a clock time",
+      "New today: von … bis, from one time to another",
+      "By the end you can: say when something is open or when you work"
+     ],
+     "examples": [
+      {
+       "de": "Der Kurs beginnt um acht Uhr.",
+       "en": "The course starts at eight o'clock.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Der Kurs",
+         "subject"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "acht Uhr.",
+         "time"
+        ]
+       ]
+      },
+      {
+       "de": "Das Café ist von acht bis achtzehn Uhr offen.",
+       "en": "The café is open from eight to six.",
+       "why": "New today: von … bis puts a start and an end round the times.",
+       "parts": [
+        [
+         "Das Café",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "von",
+         "preposition"
+        ],
+        [
+         "acht",
+         "time"
+        ],
+        [
+         "bis",
+         "preposition"
+        ],
+        [
+         "achtzehn Uhr",
+         "time"
+        ],
+        [
+         "offen.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a bridge. Von is where you step onto it and bis is where you step off. Everything between is the time something lasts. Uhr only goes once, at the end, like a stamp on the bridge ticket. The rest is what you know: the verb is in chair 2, and a day can lead the sentence. You will also learn the parts of the day and the words offen and geschlossen. One small step at a time in the next cards."
+    },
     {
      "title": "um or am?",
      "body": "You know am from the days: am Montag. um is for clock times: um acht Uhr. Look at what you say: a day gets am, a clock time gets um.",
@@ -3690,6 +3875,88 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: my family",
+     "body": "Someone asks: \"Do you have brothers and sisters?\" You can already say what you have, like a dog or a coffee. Today the same sentence talks about people in your family.",
+     "steps": [
+      "You already know: haben with an object, and masculine einen (chapter 4)",
+      "New today: family words, Vater, Mutter, Bruder, Schwester and more",
+      "By the end you can: say who is in your family and ask Hast du Geschwister?"
+     ],
+     "examples": [
+      {
+       "de": "Ich habe einen Hund.",
+       "en": "I have a dog.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Hund.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich habe einen Bruder.",
+       "en": "I have a brother.",
+       "why": "New today: the same sentence, a family word at the end.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich habe keine Schwester.",
+       "en": "I have no sister.",
+       "why": "New today: keine, as you learned with kein.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Schwester.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "A family is like a little team, and every player has a name tag with der, die or das. You already know how to say what you have. Swap the dog for a brother and the sentence works exactly the same. Only masculine words change, einen Bruder, but eine Schwester stays. There are also words for several people at once: die Eltern, die Geschwister. Learn each noun with its article. The next cards take it person by person."
+    },
+    {
      "title": "Parents: Vater, Mutter, Eltern",
      "body": "der Vater is the father and die Mutter is the mother. Together they are die Eltern: the parents. Eltern only exists in the plural, so it uses die and sind.",
      "examples": [
@@ -4905,6 +5172,88 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: my and your",
+     "body": "Is that your phone? Yes, that is my phone. To talk about what belongs to people, you need little owner words. Good news: you already know how they end, because they act like ein and kein.",
+     "steps": [
+      "You already know: ein and kein, only the masculine changes in the accusative (einen, keinen)",
+      "New today: mein and dein, with the very same endings",
+      "By the end you can: say Das ist mein Bruder and Ich treffe meinen Bruder"
+     ],
+     "examples": [
+      {
+       "de": "Ich habe einen Bruder.",
+       "en": "I have a brother.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich treffe meinen Bruder.",
+       "en": "I meet my brother.",
+       "why": "New today: mein takes the endings of ein, so einen becomes meinen.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "treffe",
+         "verb"
+        ],
+        [
+         "meinen",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist mein Bruder.",
+       "en": "That is my brother.",
+       "why": "New today: mein, no ending, like ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "mein",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of ein as a coat and mein as the same coat with your name sewn in. The coat fits exactly the same way: nothing for der and das words, an extra e for die words and for many things, and en for a masculine object. So you do not learn new endings. You only learn two new little words, mein and dein. In the next cards you will see the table, the object form and how to choose the word and the ending in two small steps."
+    },
+    {
      "title": "mein and dein: my and your",
      "body": "A possessive article shows who something belongs to. mein means my. dein means your (for a friend, du). It stands in front of a noun, like ein does. Das ist mein Bruder.",
      "examples": [
@@ -6005,6 +6354,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: all the owner words",
+     "body": "Ben has a brother. Whose brother is that? His. Today you meet the rest of the owner words: his, her, our, your (two friends), their and polite your. They all use the endings you just learned.",
+     "steps": [
+      "You already know: mein and dein with the ein-endings (the last lesson)",
+      "New today: sein, ihr, unser, euer and Ihr, with the same endings",
+      "By the end you can: say who something belongs to, for any owner"
+     ],
+     "examples": [
+      {
+       "de": "Ich treffe meinen Bruder.",
+       "en": "I meet my brother.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "treffe",
+         "verb"
+        ],
+        [
+         "meinen",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich treffe seinen Bruder.",
+       "en": "I meet his brother.",
+       "why": "New today: sein means his here, and the masculine object still ends in -en.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "treffe",
+         "verb"
+        ],
+        [
+         "seinen",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist unser Vater.",
+       "en": "That is our father.",
+       "why": "New today: unser, no ending, like ein.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "unser",
+         "article"
+        ],
+        [
+         "Vater.",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "more": "Imagine nine owners standing in a line: I, you, he, she, it, we, you two, they and polite you. Each one has its own word, from mein to Ihr. That is the only new part. The ending is the old friend you already know, the same as ein. One trap helps to remember: the owner picks the word, but the noun picks the ending. The next cards walk along the line one owner at a time."
+    },
     {
      "title": "sein and ihr: his and her",
      "body": "sein means his (and its). ihr means her. Look at the owner: a man or a boy gives sein. A woman or a girl gives ihr. Ben hat einen Bruder. Das ist sein Bruder.",
@@ -7391,6 +7822,84 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start: can and the verb bracket",
+     "body": "Can you play the guitar? Can you come on Monday? To say what you can do, German uses a helper verb, and the sentence gets a new shape. The verb stays in part 2, but a second verb now waits at the very end.",
+     "steps": [
+      "You already know: the verb is part 2 (Ich spiele Tennis, chapter 1)",
+      "New today: kann + a second verb at the end, a bracket around the sentence",
+      "By the end you can: say and ask what you can do, like Kannst du Gitarre spielen?"
+     ],
+     "examples": [
+      {
+       "de": "Ich spiele Tennis.",
+       "en": "I play tennis.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spiele",
+         "verb"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich kann Tennis spielen.",
+       "en": "I can play tennis.",
+       "why": "New today: kann is part 2, spielen jumps to the end.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "Tennis",
+         "object"
+        ],
+        [
+         "spielen.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Wann kannst du kommen?",
+       "en": "When can you come?",
+       "why": "New today: the same bracket in a W-question.",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "kannst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "kommen?",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "Picture a sentence as a parcel with two handles. The helper verb, here kann, holds the first handle in chair 2, exactly where your verb always sits. The other verb holds the last handle at the end of the sentence. Everything else, like the time and the thing, sits safely inside the parcel. Your chair 2 rule did not break, it just got a partner. You will learn it step by step in the next cards."
+    },
+    {
      "title": "können: can, to be able to",
      "body": "können is a modal verb: a helper verb for can, must and want. Its forms are irregular. ich kann and er/sie kann have no ending. wir, sie and Sie can: können. Learn all six forms.",
      "examples": [
@@ -8549,6 +9058,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: must and want",
+     "body": "I must work on Monday. We want to eat pizza. Some things are duties and some are wishes. Today you learn two more helper verbs, müssen and wollen, and they work like the kann sentence from last lesson.",
+     "steps": [
+      "You already know: kann in part 2 and the second verb at the end (the last lesson)",
+      "New today: müssen (must) and wollen (want to) in the same bracket",
+      "By the end you can: say what you must do and what you want to do"
+     ],
+     "examples": [
+      {
+       "de": "Ich kann Tennis spielen.",
+       "en": "I can play tennis.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "Tennis",
+         "object"
+        ],
+        [
+         "spielen.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Ich muss am Montag arbeiten.",
+       "en": "I must work on Monday.",
+       "why": "New today: muss, the same shape as kann.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "am Montag",
+         "time"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Wir wollen Pizza essen.",
+       "en": "We want to eat pizza.",
+       "why": "New today: wollen, the same shape again.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "wollen",
+         "verb"
+        ],
+        [
+         "Pizza",
+         "object"
+        ],
+        [
+         "essen.",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "more": "Think of a toolbox with three helper tools: können for what you are able to do, müssen for what you have to do and wollen for what you want to do. All three fit into the same bracket, so the sentence builds the same way every time. Only the meaning changes. The new work is just their forms, for example ich muss and ich will, and one small trap with nicht. The next cards give you each tool, one at a time."
+    },
     {
      "title": "müssen: must, have to",
      "body": "müssen means must or have to. It says that you have no choice. The forms follow the same pattern as können: ich muss and er/sie muss have no ending. wir and sie/Sie: müssen. ihr: müsst.",
@@ -9728,6 +10319,88 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start: making an appointment",
+     "body": "You call a doctor, a teacher or a friend and you want a time. You say who you are, what you want and when you can come. Today everything from this chapter works together in a phone call.",
+     "steps": [
+      "You already know: Ich möchte einen Kaffee (chapter 4) and um + the time (this chapter)",
+      "New today: phone phrases, a short call, and how to say sorry when you are late",
+      "By the end you can: ask for an appointment and say yes, no or Es tut mir leid"
+     ],
+     "examples": [
+      {
+       "de": "Ich möchte einen Kaffee.",
+       "en": "I would like a coffee.",
+       "why": "You know this already.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Ich möchte einen Termin.",
+       "en": "I would like an appointment.",
+       "why": "New today: the same sentence, a new thing, Termin.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Termin.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Haben Sie am Dienstag Zeit?",
+       "en": "Do you have time on Tuesday?",
+       "why": "New today: a polite question with a day, to suggest a time.",
+       "parts": [
+        [
+         "Haben",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "am Dienstag",
+         "time"
+        ],
+        [
+         "Zeit?",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "more": "A phone call is a little story with a start, a middle and an end. First you say hello and who you are. Then you say what you want. Then you agree on a day and a time, and you say goodbye. You do not need new grammar for this. You use what you built in this chapter: möchte, am and um, and the bracket with kann. In the next cards you learn the small phrases that make the story sound polite and natural."
+    },
     {
      "title": "A phone call: who you are, what you want",
      "body": "On the phone, say who you are: Hier ist Leon. Then say what you want. Ich möchte einen Termin. Termin means appointment. Say bitte to be polite. Start with Guten Tag.",

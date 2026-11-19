@@ -37,6 +37,27 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start",
+     "body": "Why this matters.",
+     "steps": [
+      "You already know: hello",
+      "New today: names",
+      "By the end: say your name"
+     ],
+     "examples": [
+      {
+       "de": "Hallo.",
+       "en": "Hello."
+      },
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira."
+      }
+     ],
+     "more": "A simple picture of the whole lesson."
+    },
+    {
      "title": "Hello",
      "body": "Say Hallo to anyone.",
      "examples": [
@@ -342,6 +363,27 @@
    ],
    "cards": [
     {
+     "intro": true,
+     "title": "Before we start",
+     "body": "Why this matters.",
+     "steps": [
+      "You already know: hello",
+      "New today: names",
+      "By the end: say your name"
+     ],
+     "examples": [
+      {
+       "de": "Hallo.",
+       "en": "Hello."
+      },
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira."
+      }
+     ],
+     "more": "A simple picture of the whole lesson."
+    },
+    {
      "title": "Hello",
      "body": "Say Hallo to anyone.",
      "examples": [
@@ -646,6 +688,27 @@
     }
    ],
    "cards": [
+    {
+     "intro": true,
+     "title": "Before we start",
+     "body": "Why this matters.",
+     "steps": [
+      "You already know: hello",
+      "New today: names",
+      "By the end: say your name"
+     ],
+     "examples": [
+      {
+       "de": "Hallo.",
+       "en": "Hello."
+      },
+      {
+       "de": "Ich heiße Mira.",
+       "en": "My name is Mira."
+      }
+     ],
+     "more": "A simple picture of the whole lesson."
+    },
     {
      "title": "Hello",
      "body": "Say Hallo to anyone.",

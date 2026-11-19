@@ -49,3 +49,6 @@ Lesson titles + grammar point per lesson; the stats line for your chapter; chunk
 
 ## Answer order
 The player does not shuffle choice options. Put the right option at varied positions (about evenly 0/1/2); fixed-order sets like der/die/das may stay in order.
+
+## Introduction card (required, compiler-checked)
+`cards[0]` of every lesson is an introduction card with `"intro": true`, written exactly as described in `SP/intro-brief.md` (read it): "Before we start: …" title, a real-life why, steps "You already know: … / New today: … / By the end you can: …" that blend with a named earlier lesson, a known example then a known → new contrast example (both with parts), and an ELI5 `more`. Lesson 1 of a chapter also introduces the chapter. It does not count as a teaching card (still ≥ 5 teaching cards after it).
