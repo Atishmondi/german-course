@@ -158,7 +158,7 @@
     const href=partHref(next,n);
     if(next.kind==='lesson'){
       const L=plan.lessonById.get(next.id)||{}, r=state.lessons[next.id]||{};
-      return {label:`${r.step>0?'Continue':'Start'} ${lessonPos(d,next.id)}: ${L.title||next.title}`,why:L.goal||'',href};
+      return {label:`${r.step>0?'Continue':'Start'} ${lessonPos(d,next.id)}: ${L.title||next.title}`,title:L.title||next.title,verb:r.step>0?'Continue':'Start',pos:lessonPos(d,next.id),why:L.goal||'',href};
     }
     if(next.kind==='skills'){const r=state.skillDays[next.id]||{};
       return {label:`${r.step>0?'Continue':'Go to'} Practice`,why:'Use today’s lessons in a short text, a dialogue and some writing.',href};}
@@ -234,18 +234,24 @@
       if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);
         chMeter=meter(chName(d.level,d.chapter),ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length,ids.length,'lessons');}
       const where=d.kind==='learn'?`${chName(d.level,d.chapter)} · ${dayLabel(d)}`:dayLabel(d);
-      v.innerHTML=`<section class="home-hero">
-          <p class="home-where"><span class="badge">${esc(levelTitle(d.level))}</span> ${esc(where)}</p>
-          <h1>${s?'Your next step':'Coming soon'}</h1>
-          ${(()=>{let sec=0;try{const k=new Date();sec=(JSON.parse(localStorage.getItem('german-study-time'))||{})[`${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`]||0;}catch{}
-            const m=Math.floor(sec/60);return `<p class="home-timer"><b>${m} min</b> of learning today · goal 120 min${m>=120?' ✓':''}</p><div class="bar" aria-hidden="true"><i style="width:${Math.min(100,Math.round(m/1.2))}%"></i></div>`;})()}
-          ${s?`${stepBtn(s)}<p class="why">${esc(s.why)}</p>`
-            :`<p class="lede">The lessons for this day are still being written. Your progress is safe. You can redo finished lessons in Chapters while you wait.</p><a class="btn" href="#/chapters/${d.level}">Open Chapters →</a>`}
+      let sec=0;try{const k=new Date();sec=(JSON.parse(localStorage.getItem('german-study-time'))||{})[`${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`]||0;}catch{}
+      const m=Math.floor(sec/60), C=2*Math.PI*26, f=Math.min(1,m/120);
+      const ring=`<svg class="h-ring" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="26"/><circle class="on" cx="32" cy="32" r="26" stroke-dasharray="${C}" stroke-dashoffset="${C*(1-f)}"/></svg>`;
+      const stat=(a,b,l)=>`<li><b>${a}</b><span>of ${b} ${l}</span></li>`;
+      let chStat='';
+      if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);chStat=stat(ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length,ids.length,`lessons in Ch ${d.chapter}`);}
+      v.innerHTML=`<section class="h-next">
+          <p class="h-eyebrow"><span class="badge">${esc(levelTitle(d.level))}</span>${esc(where)}${s&&s.pos?` · ${esc(s.pos)}`:''}</p>
+          <h1 class="h-title">${s?esc(s.title||s.label):'Coming soon'}</h1>
+          ${s?`${s.why?`<p class="h-why">${esc(s.why)}</p>`:''}
+            ${s.finish?`<button class="btn primary h-go" type="button" data-finish="${s.finish}">${esc(s.label)} →</button>`:`<a class="btn primary h-go" href="${s.href}">${esc(s.verb||'Go')} →</a>`}`
+            :`<p class="h-why">The lessons for this day are still being written. Your progress is safe.</p><a class="btn" href="#/chapters/${d.level}">Open Chapters →</a>`}
         </section>
-        <section class="meters section" aria-label="Your progress">
-          ${meter(`Level ${levelTitle(d.level)}`,lvDone,lvDays.length,'days')}${chMeter}${meter(`Today (${dayLabel(d)})`,pdone,parts.length,'parts')}
+        <section class="h-glance" aria-label="Today at a glance">
+          <div class="h-time">${ring}<p><b>${m} min</b><span>of 120 today${m>=120?' ✓':''}</span></p></div>
+          <ul class="h-stats">${stat(pdone,parts.length,'parts today')}${chStat}${stat(lvDone,lvDays.length,`days in ${esc(levelTitle(d.level))}`)}</ul>
         </section>
-        ${d.available===false?'':`<section class="section"><h2>Today’s plan</h2>${partList(d)}</section>`}`;
+        ${d.available===false?'':`<section class="h-plan"><h2>Today</h2>${partList(d)}</section>`}`;
       bindDayActions(v);
     },
     day(v,arg){if(!needPlan(v))return;renderDay(v,parseInt(arg,10)||0);},

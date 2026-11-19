@@ -260,3 +260,20 @@ html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);bac
 }
 
 .home-timer{margin:18px 0 8px;color:var(--sub)}.home-timer b{color:var(--ink)}
+
+/* Home: one calm focal card, a quiet glance row, then today's list (apple-design pass) */
+.h-next{position:relative;padding:44px 48px 40px;border-radius:28px;background:radial-gradient(120% 140% at 0% 0%,rgba(242,184,102,.10),transparent 55%),var(--surface);border:1px solid var(--line);box-shadow:inset 0 1px 0 rgba(255,255,255,.06)}
+.h-eyebrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 18px;color:var(--sub);font-size:.95rem;font-weight:600;letter-spacing:.01em}
+.h-title{font-size:clamp(2.2rem,3.6vw,3.2rem);line-height:1.06;letter-spacing:-.025em;margin:0 0 14px;max-width:20ch}
+.h-why{color:var(--sub);font-size:1.12rem;line-height:1.5;margin:0 0 30px;max-width:56ch}
+.h-go{min-height:56px;padding:0 30px;font-size:1.1rem;font-weight:700;border-radius:999px;transition:transform .12s ease-out,box-shadow .2s ease}
+.h-go:active{transform:scale(.97)}
+.h-glance{display:flex;align-items:center;gap:40px;margin:28px 4px 8px;flex-wrap:wrap}
+.h-time{display:flex;align-items:center;gap:14px}
+.h-time p{margin:0;display:flex;flex-direction:column;line-height:1.2}.h-time b{font-size:1.35rem;letter-spacing:-.01em}.h-time span{color:var(--sub);font-size:.9rem}
+.h-ring{width:52px;height:52px;transform:rotate(-90deg)}
+.h-ring circle{fill:none;stroke:var(--line);stroke-width:6}.h-ring .on{stroke:var(--accent);stroke-linecap:round;transition:stroke-dashoffset .6s ease}
+.h-stats{display:flex;gap:32px;list-style:none;margin:0;padding:0 0 0 40px;border-left:1px solid var(--line)}
+.h-stats li{display:flex;flex-direction:column;line-height:1.2}.h-stats b{font-size:1.35rem;letter-spacing:-.01em}.h-stats span{color:var(--sub);font-size:.9rem}
+.h-plan{margin-top:36px}.h-plan h2{font-size:1.15rem;color:var(--sub);font-weight:600;letter-spacing:.02em;margin:0 0 12px}
+@media (prefers-reduced-motion:reduce){.h-go,.h-ring .on{transition:none}}
