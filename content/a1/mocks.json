@@ -1,0 +1,1330 @@
+[
+ {
+  "id": "a1-mock-1",
+  "level": "a1",
+  "title": "A1 practice mock 1: a week in Hamburg",
+  "sections": [
+   {
+    "skill": "listening",
+    "instructions": "Part 1. You will hear three short conversations. Choose the right answer. You can play the audio as often as you like in practice.",
+    "text": "Erster Dialog.\nFrau Weber: Praxis Weber, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe seit gestern Fieber und Husten. Ich möchte einen Termin, bitte.\nFrau Weber: Können Sie heute kommen? Um halb vier?\nMira: Nein, leider nicht. Ich habe bis vier Uhr Kurs. Geht es um Viertel nach vier?\nFrau Weber: Ja, das passt. Bis später!\nZweiter Dialog.\nVerkäuferin: Guten Morgen! Was darf es sein?\nBen: Ich möchte vier Brötchen, bitte.\nVerkäuferin: Gern. Sonst noch etwas?\nBen: Ja, haben Sie Kuchen?\nVerkäuferin: Ja, der Kuchen ist heute frisch. Ein Stück kostet zwei Euro fünfzig.\nBen: Dann nehme ich drei Stück.\nDritter Dialog.\nLeon: Entschuldigung, wie komme ich zum Hafen?\nAnna: Nehmen Sie die U-Bahn. Sie fahren drei Haltestellen.\nLeon: Und wie lange dauert das?\nAnna: Nur zehn Minuten. Aber schnell, die U-Bahn kommt gleich!\nLeon: Vielen Dank!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Dialog 1: What is wrong with Mira?",
+      "options": [
+       "She has a sore back.",
+       "She has a fever and a cough.",
+       "She has a toothache."
+      ],
+      "answer": 1,
+      "hint": "Listen for Fieber und Husten.",
+      "explanation": "Mira sagt: Ich habe seit gestern Fieber und Husten."
+     },
+     {
+      "type": "choice",
+      "prompt": "Dialog 1: When is Mira's appointment?",
+      "options": [
+       "at half past three",
+       "at four o'clock",
+       "at a quarter past four"
+      ],
+      "answer": 2,
+      "hint": "Mira cannot come at the first time. Listen for the second time.",
+      "explanation": "Um halb vier geht nicht; Um Viertel nach vier passt."
+     },
+     {
+      "type": "choice",
+      "prompt": "Dialog 2: What does Ben ask for after the rolls?",
+      "options": [
+       "cake",
+       "cheese",
+       "milk"
+      ],
+      "answer": 0,
+      "hint": "Listen for haben Sie ...?",
+      "explanation": "Ben fragt: Haben Sie Kuchen?"
+     },
+     {
+      "type": "choice",
+      "prompt": "Dialog 2: How much is one piece of cake?",
+      "options": [
+       "2.50 euros",
+       "2 euros",
+       "5 euros"
+      ],
+      "answer": 0,
+      "hint": "Listen for Ein Stück kostet ...",
+      "explanation": "Ein Stück kostet zwei Euro fünfzig."
+     },
+     {
+      "type": "choice",
+      "prompt": "Dialog 3: How does Leon get to the harbour?",
+      "options": [
+       "by bus",
+       "by U-Bahn",
+       "on foot"
+      ],
+      "answer": 1,
+      "hint": "Anna says Nehmen Sie ...",
+      "explanation": "Anna sagt: Nehmen Sie die U-Bahn."
+     },
+     {
+      "type": "choice",
+      "prompt": "Dialog 3: How long does it take?",
+      "options": [
+       "three minutes",
+       "half an hour",
+       "ten minutes"
+      ],
+      "answer": 2,
+      "hint": "Listen for Nur ... Minuten.",
+      "explanation": "Nur zehn Minuten."
+     }
+    ]
+   },
+   {
+    "skill": "listening",
+    "instructions": "Part 2. You will hear four announcements. Say whether each sentence is right (Richtig) or wrong (Falsch).",
+    "text": "Erste Ansage.\nAchtung am Gleis vier! Der Zug nach Berlin kommt heute später, um halb drei. Bitte warten Sie am Gleis vier.\nZweite Ansage.\nGuten Tag im Supermarkt! Heute haben wir Äpfel im Angebot. Ein Kilo kostet nur einen Euro neunzig. Kasse drei ist geschlossen. Bitte gehen Sie zu Kasse eins oder zwei.\nDritte Ansage.\nDas Wetter für Hamburg. Am Samstag scheint die Sonne, und es sind zwanzig Grad. Am Sonntag regnet es, und es ist windig.\nVierte Ansage.\nAchtung, Deutschkurs! Der Unterricht beginnt heute um halb sieben. Frau Weber ist krank. Herr Ali ist heute der Lehrer in Raum zwölf.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "The train to Berlin arrives at half past two.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Listen for the time after später.",
+      "explanation": "Der Zug kommt heute später, um halb drei."
+     },
+     {
+      "type": "choice",
+      "prompt": "A kilo of apples costs three euros.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Listen for the price of one kilo.",
+      "explanation": "Ein Kilo kostet nur einen Euro neunzig."
+     },
+     {
+      "type": "choice",
+      "prompt": "Checkout (Kasse) three is open.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Listen for geschlossen.",
+      "explanation": "Kasse drei ist geschlossen."
+     },
+     {
+      "type": "choice",
+      "prompt": "It rains on Sunday.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Listen to the weather for Sonntag.",
+      "explanation": "Am Sonntag regnet es."
+     },
+     {
+      "type": "choice",
+      "prompt": "Herr Ali teaches the German class today.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Who is ill, and who teaches?",
+      "explanation": "Frau Weber ist krank. Herr Ali ist heute der Lehrer."
+     }
+    ]
+   },
+   {
+    "skill": "listening",
+    "instructions": "Part 3. You will hear a message on a phone. Choose the right answer.",
+    "text": "Nachricht auf der Mailbox.\nAnna: Hallo Mira, hier ist Anna. Ich habe am Samstag Geburtstag, und ich feiere zu Hause. Die Party beginnt um halb acht. Ich wohne in der Blumenstraße zwölf. Kannst du kommen? Bring bitte einen Salat mit. Ben bringt Saft und Wasser mit, und Leon bringt Musik mit. Ich mache eine Torte. Ruf mich bitte heute Abend an. Bis bald!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "On which day is the party?",
+      "options": [
+       "Friday",
+       "Sunday",
+       "Saturday"
+      ],
+      "answer": 2,
+      "hint": "Listen for Geburtstag.",
+      "explanation": "Ich habe am Samstag Geburtstag."
+     },
+     {
+      "type": "choice",
+      "prompt": "What time does the party start?",
+      "options": [
+       "half past seven",
+       "seven o'clock",
+       "half past eight"
+      ],
+      "answer": 0,
+      "hint": "halb acht means half an hour before eight.",
+      "explanation": "Die Party beginnt um halb acht."
+     },
+     {
+      "type": "choice",
+      "prompt": "What should Mira bring?",
+      "options": [
+       "a cake",
+       "a salad",
+       "music"
+      ],
+      "answer": 1,
+      "hint": "Listen for Bring bitte ... mit.",
+      "explanation": "Bring bitte einen Salat mit."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Ben bring?",
+      "options": [
+       "music",
+       "juice and water",
+       "a cake"
+      ],
+      "answer": 1,
+      "hint": "Listen for Ben bringt ... mit.",
+      "explanation": "Ben bringt Saft und Wasser mit."
+     },
+     {
+      "type": "choice",
+      "prompt": "What should Mira do this evening?",
+      "options": [
+       "write an email",
+       "visit Anna",
+       "call Anna"
+      ],
+      "answer": 2,
+      "hint": "Listen for Ruf mich ... an.",
+      "explanation": "Ruf mich bitte heute Abend an."
+     }
+    ]
+   },
+   {
+    "skill": "reading",
+    "instructions": "Part 1. Read the two emails. Answer the questions.",
+    "text": "E-Mail 1\nVon: Leon\nAn: Ben\nBetreff: Samstag\n\nLieber Ben,\nam Samstag gehe ich mit Anna auf den Markt. Wir kaufen Obst und Gemüse, und danach frühstücken wir im Café. Hast du Lust? Wir treffen uns um zehn Uhr an der Haltestelle. Am Nachmittag muss ich lernen, denn ich habe am Montag eine Prüfung.\nViele Grüße\nLeon\n\nE-Mail 2\nVon: Ben\nAn: Leon\nBetreff: Re: Samstag\n\nLieber Leon,\nleider kann ich nicht kommen. Ich war gestern beim Arzt. Ich habe Schmerzen im Rücken, und ich soll im Bett bleiben. Aber am Sonntag kann ich kommen. Wollen wir zusammen kochen?\nBis bald\nBen",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Leon and Anna go to the market on Saturday.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Look at the first sentence of E-Mail 1.",
+      "explanation": "Am Samstag gehe ich mit Anna auf den Markt."
+     },
+     {
+      "type": "choice",
+      "prompt": "They meet at the café at ten o'clock.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Where do they meet?",
+      "explanation": "Wir treffen uns um zehn Uhr an der Haltestelle."
+     },
+     {
+      "type": "choice",
+      "prompt": "Why does Leon study on Saturday afternoon?",
+      "options": [
+       "He has an exam on Monday.",
+       "He has a course on Sunday.",
+       "He has a visitor."
+      ],
+      "answer": 0,
+      "hint": "Look for denn.",
+      "explanation": "Denn ich habe am Montag eine Prüfung."
+     },
+     {
+      "type": "choice",
+      "prompt": "Why can Ben not come on Saturday?",
+      "options": [
+       "He has pain in his back.",
+       "He has to work.",
+       "He is on holiday."
+      ],
+      "answer": 0,
+      "hint": "Look for Schmerzen.",
+      "explanation": "Ich habe Schmerzen im Rücken."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Ben suggest for Sunday?",
+      "options": [
+       "to go to the market",
+       "to cook together",
+       "to play tennis"
+      ],
+      "answer": 1,
+      "hint": "Look at the last lines of E-Mail 2.",
+      "explanation": "Wollen wir zusammen kochen?"
+     }
+    ]
+   },
+   {
+    "skill": "reading",
+    "instructions": "Part 2. Read the notices. Answer the questions.",
+    "text": "A: Bäckerei\nÖffnungszeiten: Montag bis Freitag von 6 bis 18 Uhr. Samstag von 6 bis 13 Uhr. Sonntag geschlossen.\n\nB: Apotheke\nHeute geschlossen. Die Apotheke am Bahnhof ist offen bis 20 Uhr.\n\nC: Fahrrad zu verkaufen\nFahrrad, rot, nur ein Jahr alt. Preis: 80 Euro. Telefon: 040 555 1234.\n\nD: Neuer Deutschkurs\nDienstag und Donnerstag, 18.30 bis 20 Uhr. Preis: 60 Euro im Monat. Fragen Sie Frau Weber in Raum 12.\n\nE: Café am Hafen\nFrühstück von 8 bis 11 Uhr. Ein Kaffee und zwei Brötchen: nur 4 Euro.\n\nF: Im Park\nRauchen verboten! Fahrrad fahren verboten!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Until when is the bakery open on Saturday?",
+      "options": [
+       "until 12:00",
+       "until 18:00",
+       "until 13:00"
+      ],
+      "answer": 2,
+      "hint": "Look at notice A, the line with Samstag.",
+      "explanation": "Samstag von 6 bis 13 Uhr."
+     },
+     {
+      "type": "choice",
+      "prompt": "You can buy bread at the bakery on Sunday.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Look for Sonntag in notice A.",
+      "explanation": "Sonntag geschlossen."
+     },
+     {
+      "type": "choice",
+      "prompt": "Until what time is the pharmacy at the station open?",
+      "options": [
+       "until 18:00",
+       "until 22:00",
+       "until 20:00"
+      ],
+      "answer": 2,
+      "hint": "Look at notice B.",
+      "explanation": "Die Apotheke am Bahnhof ist offen bis 20 Uhr."
+     },
+     {
+      "type": "choice",
+      "prompt": "How much is the bike?",
+      "options": [
+       "80 euros",
+       "60 euros",
+       "100 euros"
+      ],
+      "answer": 0,
+      "hint": "Look at notice C, after Preis.",
+      "explanation": "Preis: 80 Euro."
+     },
+     {
+      "type": "choice",
+      "prompt": "On which days is the German course?",
+      "options": [
+       "Monday and Wednesday",
+       "Tuesday and Thursday",
+       "Wednesday and Friday"
+      ],
+      "answer": 1,
+      "hint": "Look at notice D.",
+      "explanation": "Dienstag und Donnerstag."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is forbidden in the park?",
+      "options": [
+       "eating and drinking",
+       "smoking and cycling",
+       "playing football"
+      ],
+      "answer": 1,
+      "hint": "Look at notice F.",
+      "explanation": "Rauchen verboten! Fahrrad fahren verboten!"
+     }
+    ]
+   },
+   {
+    "skill": "writing",
+    "instructions": "Read about Mira. Fill in her form, build two sentences and complete the reply. Type your answers.",
+    "text": "Mira Rossi ist 24 Jahre alt. Sie wohnt in Hamburg. Sie ist Studentin.",
+    "questions": [
+     {
+      "type": "type",
+      "prompt": "Form: Vorname: ___",
+      "answers": [
+       "Mira"
+      ],
+      "hint": "Read the first words of the text.",
+      "explanation": "Mira Rossi: Der Vorname ist Mira."
+     },
+     {
+      "type": "type",
+      "prompt": "Form: Nachname: ___",
+      "answers": [
+       "Rossi"
+      ],
+      "hint": "The second name in the text.",
+      "explanation": "Der Nachname ist Rossi."
+     },
+     {
+      "type": "type",
+      "prompt": "Form: Ich bin ___ Jahre alt. (write the number as a word or digits)",
+      "answers": [
+       "vierundzwanzig",
+       "24"
+      ],
+      "hint": "Look for Jahre alt in the text. The one comes first in a German number.",
+      "explanation": "Mira ist 24 Jahre alt: vierundzwanzig."
+     },
+     {
+      "type": "type",
+      "prompt": "Form: Wohnort: ___",
+      "answers": [
+       "Hamburg"
+      ],
+      "hint": "Look for wohnt.",
+      "explanation": "Sie wohnt in Hamburg."
+     },
+     {
+      "type": "type",
+      "prompt": "Form: Beruf: Ich bin ___. (Mira is a woman)",
+      "answers": [
+       "Studentin"
+      ],
+      "hint": "A woman's job ends in -in.",
+      "explanation": "Mira ist Studentin."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: I have to go to the doctor today.",
+      "tokens": [
+       "muss",
+       "Arzt",
+       "Ich",
+       "zum",
+       "heute",
+       "gehen."
+      ],
+      "answer": [
+       "Ich",
+       "muss",
+       "heute",
+       "zum",
+       "Arzt",
+       "gehen."
+      ],
+      "hint": "The modal is in part 2, gehen goes last. Start with Ich.",
+      "explanation": "Ich muss heute zum Arzt gehen.",
+      "grammar": true
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Tomorrow Leon calls Anna.",
+      "tokens": [
+       "ruft",
+       "an.",
+       "Morgen",
+       "Anna",
+       "Leon"
+      ],
+      "answer": [
+       "Morgen",
+       "ruft",
+       "Leon",
+       "Anna",
+       "an."
+      ],
+      "hint": "Start with Morgen. The verb is in part 2; the prefix an goes to the end.",
+      "explanation": "Morgen ruft Leon Anna an.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Complete the reply: Liebe Anna, vielen Dank für die Einladung! Ich ___ gern zu deiner Party. (kommen)",
+      "answers": [
+       "komme"
+      ],
+      "hint": "ich + the -e ending.",
+      "explanation": "Ich komme gern zu deiner Party."
+     }
+    ]
+   },
+   {
+    "skill": "grammar",
+    "instructions": "Grammar from all of A1. Choose, type or build.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Wir ___ heute im Kurs.",
+      "options": [
+       "ist",
+       "seid",
+       "sind"
+      ],
+      "answer": 2,
+      "hint": "sein: wir has its own form.",
+      "explanation": "Wir sind.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Anna ___ am Samstag Geburtstag. (haben)",
+      "answers": [
+       "hat"
+      ],
+      "hint": "er/sie/es form of haben.",
+      "explanation": "Anna hat Geburtstag.",
+      "grammar": true
+     },
+     {
+      "type": "build",
+      "prompt": "Build: The course starts at nine o'clock.",
+      "tokens": [
+       "fängt",
+       "an.",
+       "Uhr",
+       "neun",
+       "um",
+       "Kurs",
+       "Der"
+      ],
+      "answer": [
+       "Der",
+       "Kurs",
+       "fängt",
+       "um",
+       "neun",
+       "Uhr",
+       "an."
+      ],
+      "hint": "Separable verb: fängt in part 2, an at the end.",
+      "explanation": "Der Kurs fängt um neun Uhr an.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ich möchte ___ Apfel, bitte.",
+      "options": [
+       "einen",
+       "ein",
+       "einem"
+      ],
+      "answer": 0,
+      "hint": "der Apfel is the object: only masculine changes.",
+      "explanation": "Ich möchte einen Apfel.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ich fahre mit ___ Bus zum Kurs.",
+      "options": [
+       "dem",
+       "den",
+       "der"
+      ],
+      "answer": 0,
+      "hint": "mit is always followed by the dative.",
+      "explanation": "Mit dem Bus: dative of der Bus.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Die Jacke gefällt ___ sehr. (to me)",
+      "options": [
+       "mich",
+       "mir",
+       "ich"
+      ],
+      "answer": 1,
+      "hint": "gefallen takes the dative.",
+      "explanation": "Die Jacke gefällt mir.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Die Lampe steht auf ___ Tisch. (der Tisch)",
+      "answers": [
+       "dem"
+      ],
+      "hint": "steht answers Wo? Use the dative.",
+      "explanation": "Wo? steht: auf dem Tisch.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Gestern habe ich Brot ___. (kaufen)",
+      "answers": [
+       "gekauft"
+      ],
+      "hint": "ge- + stem + t.",
+      "explanation": "Gestern habe ich Brot gekauft.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ben ___ gestern nach Berlin gefahren.",
+      "options": [
+       "hat",
+       "sind",
+       "ist"
+      ],
+      "answer": 2,
+      "hint": "fahren is a movement verb: use sein.",
+      "explanation": "Ben ist nach Berlin gefahren.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Gestern ___ ich sehr müde.",
+      "options": [
+       "bin",
+       "hatte",
+       "war"
+      ],
+      "answer": 2,
+      "hint": "müde is a feeling: sein in the past.",
+      "explanation": "Gestern war ich sehr müde.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "___ bitte eine Tablette! (nehmen, to a friend)",
+      "answers": [
+       "Nimm"
+      ],
+      "hint": "nehmen changes e to i; no ending for du.",
+      "explanation": "Nimm bitte eine Tablette!",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "___ Pullover gefällt dir?",
+      "options": [
+       "Welcher",
+       "Welche",
+       "Welches"
+      ],
+      "answer": 0,
+      "hint": "der Pullover is masculine.",
+      "explanation": "Welcher Pullover gefällt dir?",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Plural: ein Kind, zwei ___",
+      "answers": [
+       "Kinder"
+      ],
+      "hint": "das Kind takes -er in the plural.",
+      "explanation": "Zwei Kinder.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ich habe ___ Auto.",
+      "options": [
+       "keine",
+       "kein",
+       "keinen"
+      ],
+      "answer": 1,
+      "hint": "das Auto is neuter; kein has no ending here.",
+      "explanation": "Ich habe kein Auto.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Das ist Anna. ___ Mutter ist Ärztin.",
+      "options": [
+       "Ihr",
+       "Ihre",
+       "Seine"
+      ],
+      "answer": 1,
+      "hint": "Anna is she, and die Mutter is feminine.",
+      "explanation": "Ihre Mutter.",
+      "grammar": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1-mock-2",
+  "level": "a1",
+  "title": "Practice exam 2: a new job, a flat and a trip",
+  "sections": [
+   {
+    "skill": "listening",
+    "instructions": "Listening, Part 1. You will hear three short dialogues. Each one is read once on the real exam, here you can replay. Choose the right answer.",
+    "text": "Erster Dialog.\nAnna: Guten Morgen, Herr Ali. Ich bin Anna. Ich bin neu hier.\nHerr Ali: Guten Morgen, Anna. Ihr Büro ist im Erdgeschoss, neben der Kantine.\nAnna: Super, danke. Wann ist die Besprechung?\nHerr Ali: Um halb zehn.\nZweiter Dialog.\nLeon: Ich suche eine Wohnung. Hast du eine Anzeige, Mira?\nMira: Ja. Hier, zwei Zimmer, Balkon, sechshundert Euro Miete.\nLeon: Das ist zu teuer.\nMira: Dann habe ich noch eine WG im Zentrum. Ein Zimmer kostet vierhundert Euro.\nLeon: Das finde ich gut!\nDritter Dialog.\nVerkäuferin: Guten Tag. Kann ich Ihnen helfen?\nBen: Ja, ich suche eine Jacke. Blau, bitte.\nVerkäuferin: Diese Jacke ist günstig.\nBen: Die gefällt mir. Kann ich sie anprobieren?\nVerkäuferin: Natürlich. Die Umkleidekabine ist dort.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where is Anna's office?",
+      "options": [
+       "im Keller",
+       "im Erdgeschoss",
+       "im ersten Stock"
+      ],
+      "answer": 1,
+      "hint": "Listen to what Herr Ali says about the office.",
+      "explanation": "Herr Ali: Ihr Büro ist im Erdgeschoss, neben der Kantine."
+     },
+     {
+      "type": "choice",
+      "prompt": "When is the meeting?",
+      "options": [
+       "9:00",
+       "10:30",
+       "9:30"
+      ],
+      "answer": 2,
+      "hint": "halb zehn is half an hour before ten.",
+      "explanation": "Um halb zehn = 9:30."
+     },
+     {
+      "type": "choice",
+      "prompt": "Why does Leon not take the first flat?",
+      "options": [
+       "It is too expensive.",
+       "It is too small.",
+       "It has no balcony."
+      ],
+      "answer": 0,
+      "hint": "Listen to what Leon says after the price.",
+      "explanation": "Leon sagt: Das ist zu teuer."
+     },
+     {
+      "type": "choice",
+      "prompt": "How much does a room in the WG cost?",
+      "options": [
+       "300 euros",
+       "400 euros",
+       "600 euros"
+      ],
+      "answer": 1,
+      "hint": "Mira names the price of one room.",
+      "explanation": "Ein Zimmer kostet vierhundert Euro."
+     },
+     {
+      "type": "choice",
+      "prompt": "What is Ben looking for?",
+      "options": [
+       "a pair of trousers",
+       "a coat",
+       "a jacket"
+      ],
+      "answer": 2,
+      "hint": "Listen to what Ben says first.",
+      "explanation": "Ben sagt: Ich suche eine Jacke."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Ben want to do?",
+      "options": [
+       "try the jacket on",
+       "pay at the till",
+       "give the jacket back"
+      ],
+      "answer": 0,
+      "hint": "Listen to the verb after Kann ich sie ...",
+      "explanation": "Kann ich sie anprobieren?"
+     }
+    ]
+   },
+   {
+    "skill": "listening",
+    "instructions": "Listening, Part 2. You will hear five announcements. Decide: is the statement right (Richtig) or wrong (Falsch)?",
+    "text": "Erste Durchsage. Achtung am Bahnhof! Der Zug nach München fährt heute von Gleis sieben ab. Die Abfahrt ist um zwölf Uhr vierzig.\nZweite Durchsage. Heute im Supermarkt. Das Kilo Äpfel kostet einen Euro. Die Bäckerei ist bis zwanzig Uhr offen.\nDritte Durchsage. Das Wetter. Heute ist es sonnig, es sind zwanzig Grad. Am Wochenende regnet es.\nVierte Durchsage. Achtung im Kaufhaus. Die Schuhabteilung ist im ersten Stock. Die Kasse ist im Erdgeschoss.\nFünfte Durchsage. Hier spricht die Information am Flughafen. Der Flug nach Rom ist jetzt am Ausgang drei.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "True or false? The train to Munich leaves at 12:40.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Listen to the time of the Abfahrt.",
+      "explanation": "Die Abfahrt ist um zwölf Uhr vierzig."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? Apples cost two euros a kilo.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Listen to the price of the apples.",
+      "explanation": "Das Kilo Äpfel kostet einen Euro."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? Today it is sunny.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Listen to the weather today, not at the weekend.",
+      "explanation": "Heute ist es sonnig."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? The shoe department is on the ground floor.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Listen to where the Schuhabteilung is.",
+      "explanation": "Die Schuhabteilung ist im ersten Stock."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? The flight to Rome is at gate three.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Listen to the number after Ausgang.",
+      "explanation": "Der Flug nach Rom ist am Ausgang drei."
+     }
+    ]
+   },
+   {
+    "skill": "listening",
+    "instructions": "Listening, Part 3. You will hear one phone message. Choose the right answer.",
+    "text": "Mailbox: Hier ist Ihre Nachricht.\nFrau Weber: Guten Tag, Herr Ali, hier spricht Frau Weber. Ich bin jetzt in Wien. Ich bin gestern mit dem Zug gefahren. Die Reise war schön. Das Hotel ist modern, und mein Zimmer hat einen Balkon. Am Montag komme ich um acht Uhr ins Büro zurück. Schicken Sie mir bitte die Liste. Und rufen Sie mich heute Abend an. Auf Wiederhören!",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where is Frau Weber now?",
+      "options": [
+       "in München",
+       "in Wien",
+       "in Berlin"
+      ],
+      "answer": 1,
+      "hint": "Listen to the city after Ich bin jetzt in ...",
+      "explanation": "Ich bin jetzt in Wien."
+     },
+     {
+      "type": "choice",
+      "prompt": "How did she travel?",
+      "options": [
+       "by plane",
+       "by bus",
+       "by train"
+      ],
+      "answer": 2,
+      "hint": "Listen for mit dem ...",
+      "explanation": "Ich bin mit dem Zug gefahren."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does her hotel room have?",
+      "options": [
+       "a balcony",
+       "a garden",
+       "a kitchen"
+      ],
+      "answer": 0,
+      "hint": "Listen to what the room has.",
+      "explanation": "Mein Zimmer hat einen Balkon."
+     },
+     {
+      "type": "choice",
+      "prompt": "When is she back in the office?",
+      "options": [
+       "Monday at 9:00",
+       "Monday at 8:00",
+       "Tuesday at 8:00"
+      ],
+      "answer": 1,
+      "hint": "Listen for the day and then the time.",
+      "explanation": "Am Montag komme ich um acht Uhr zurück."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does she ask Herr Ali to do this evening?",
+      "options": [
+       "Send her the list.",
+       "Book a hotel.",
+       "Call her."
+      ],
+      "answer": 2,
+      "hint": "Listen to the last two requests.",
+      "explanation": "Rufen Sie mich heute Abend an."
+     }
+    ]
+   },
+   {
+    "skill": "reading",
+    "instructions": "Reading, Part 1. Read the two emails. Decide: right or wrong, or choose the answer.",
+    "text": "Von: Anna\nAn: Mira\nBetreff: Stelle in Köln\n\nLiebe Mira,\nich habe jetzt eine Stelle in Köln! Mein Chef heißt Herr Ali, er ist sehr nett. Ich beginne um acht Uhr und habe um halb eins Pause. In der Kantine esse ich Suppe oder Salat. Hast du am Freitag Zeit? Ich möchte dich einladen.\nViele Grüße\nAnna\n\nVon: Mira\nAn: Anna\nBetreff: Antwort\n\nLiebe Anna,\nherzlichen Glückwunsch! Das ist toll. Leider kann ich am Freitag nicht kommen, denn ich muss arbeiten. Aber am Samstag habe ich Zeit. Wir können um sieben Uhr ins Café gehen. Hast du Lust?\nViele Grüße\nMira",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Where does Anna work now?",
+      "options": [
+       "in München",
+       "in Köln",
+       "in Wien"
+      ],
+      "answer": 1,
+      "hint": "Look at the Betreff and the first sentence.",
+      "explanation": "Ich habe jetzt eine Stelle in Köln."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? Anna begins work at eight o'clock.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Look for beginne um ...",
+      "explanation": "Ich beginne um acht Uhr."
+     },
+     {
+      "type": "choice",
+      "prompt": "What does Anna eat in the canteen?",
+      "options": [
+       "soup or salad",
+       "fish or rice",
+       "bread or cheese"
+      ],
+      "answer": 0,
+      "hint": "Look for In der Kantine ...",
+      "explanation": "In der Kantine esse ich Suppe oder Salat."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? Mira can come on Friday.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Look for leider and the reason after denn.",
+      "explanation": "Leider kann ich am Freitag nicht kommen."
+     },
+     {
+      "type": "choice",
+      "prompt": "When do the friends want to meet?",
+      "options": [
+       "Friday at 7",
+       "Saturday at 8",
+       "Saturday at 7"
+      ],
+      "answer": 2,
+      "hint": "Look at Mira's mail: which day, which time?",
+      "explanation": "Am Samstag um sieben Uhr ins Café."
+     }
+    ]
+   },
+   {
+    "skill": "reading",
+    "instructions": "Reading, Part 2. Read the notices. Decide: right or wrong, or choose the answer.",
+    "text": "Wohnung zu vermieten\nZwei Zimmer, Küche, Bad und Balkon. Zentral und hell. Die Miete ist 520 Euro. Rufen Sie bitte Frau Weber an.\n\nKaufhaus Nord\nMäntel, Jacken und Hosen sind jetzt günstig! Sie finden alles im Erdgeschoss. Wir sind von Montag bis Samstag offen, von 9 bis 20 Uhr.\n\nIm Park\nHier darf man nicht rauchen. Vielen Dank!\n\nFerienwohnung an der Ostsee\nDrei Zimmer, 100 Meter bis zum Strand. Eine Nacht kostet 60 Euro.\n\nKochkurs\nAm Donnerstag um 18 Uhr kochen wir Fisch mit Reis. Bitte bringen Sie ein Messer mit.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "How much is the rent for the flat?",
+      "options": [
+       "250 euros",
+       "520 euros",
+       "600 euros"
+      ],
+      "answer": 1,
+      "hint": "Look for Miete in the first notice.",
+      "explanation": "Die Miete ist 520 Euro."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? Kaufhaus Nord is open on Sundays.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Look at the days: von ... bis ...",
+      "explanation": "Offen von Montag bis Samstag, also nicht am Sonntag."
+     },
+     {
+      "type": "choice",
+      "prompt": "Where can you find the coats?",
+      "options": [
+       "on the second floor",
+       "in the basement",
+       "on the ground floor"
+      ],
+      "answer": 2,
+      "hint": "Look for im ... in the Kaufhaus notice.",
+      "explanation": "Sie finden alles im Erdgeschoss."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? You may not smoke in the park.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 0,
+      "hint": "Look for darf man nicht.",
+      "explanation": "Hier darf man nicht rauchen."
+     },
+     {
+      "type": "choice",
+      "prompt": "How much does one night in the holiday flat cost?",
+      "options": [
+       "60 euros",
+       "160 euros",
+       "6 euros"
+      ],
+      "answer": 0,
+      "hint": "Look for Nacht kostet.",
+      "explanation": "Eine Nacht kostet 60 Euro."
+     },
+     {
+      "type": "choice",
+      "prompt": "True or false? The cooking course is on Wednesday.",
+      "options": [
+       "Richtig",
+       "Falsch"
+      ],
+      "answer": 1,
+      "hint": "Look for the day after Am.",
+      "explanation": "Am Donnerstag, nicht am Mittwoch."
+     }
+    ]
+   },
+   {
+    "skill": "writing",
+    "instructions": "Writing. Situation: Ben is 24 years old. He lives in Köln and works as a Verkäufer (shop assistant). He speaks German and English. Fill in his form (5 items), build two sentences, and complete the message.",
+    "questions": [
+     {
+      "type": "type",
+      "prompt": "Vorname: ___",
+      "answers": [
+       "Ben"
+      ],
+      "hint": "The form is for Ben.",
+      "explanation": "Ben ist der Vorname."
+     },
+     {
+      "type": "type",
+      "prompt": "Wohnort: ___",
+      "answers": [
+       "Köln"
+      ],
+      "hint": "Ben lives in the city in the situation.",
+      "explanation": "Ben wohnt in Köln."
+     },
+     {
+      "type": "type",
+      "prompt": "Alter: ___ Jahre (write the number)",
+      "answers": [
+       "24",
+       "vierundzwanzig"
+      ],
+      "hint": "Digits or words both work.",
+      "explanation": "Ben ist 24 Jahre alt."
+     },
+     {
+      "type": "type",
+      "prompt": "Beruf: ___",
+      "answers": [
+       "Verkäufer",
+       "ein Verkäufer"
+      ],
+      "hint": "Use the word for a man who sells things in a shop.",
+      "explanation": "Ben ist Verkäufer."
+     },
+     {
+      "type": "type",
+      "prompt": "Sprachen: ___",
+      "answers": [
+       "Deutsch und Englisch",
+       "Englisch und Deutsch",
+       "Deutsch, Englisch",
+       "Englisch, Deutsch"
+      ],
+      "hint": "Two languages, joined with und.",
+      "explanation": "Ben spricht Deutsch und Englisch."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: On Monday I start at eight o'clock.",
+      "tokens": [
+       "ich",
+       "um",
+       "Uhr",
+       "an.",
+       "fange",
+       "acht",
+       "Am",
+       "Montag"
+      ],
+      "answer": [
+       "Am",
+       "Montag",
+       "fange",
+       "ich",
+       "um",
+       "acht",
+       "Uhr",
+       "an."
+      ],
+      "hint": "The day comes first, the verb is part 2, an goes to the end.",
+      "explanation": "Am Montag fange ich um acht Uhr an."
+     },
+     {
+      "type": "build",
+      "prompt": "Build: Yesterday I went by train to Vienna.",
+      "tokens": [
+       "nach",
+       "gefahren.",
+       "Wien",
+       "ich",
+       "mit",
+       "bin",
+       "Zug",
+       "dem",
+       "Gestern"
+      ],
+      "answer": [
+       "Gestern",
+       "bin",
+       "ich",
+       "mit",
+       "dem",
+       "Zug",
+       "nach",
+       "Wien",
+       "gefahren."
+      ],
+      "hint": "bin is part 2, the participle goes to the end. How (mit dem Zug) comes before where (nach Wien).",
+      "explanation": "Gestern bin ich mit dem Zug nach Wien gefahren."
+     },
+     {
+      "type": "type",
+      "prompt": "Message to Ben: Lieber Ben, vielen Dank ___ die Einladung! Ich komme gern.",
+      "answers": [
+       "für"
+      ],
+      "hint": "Danke ... + accusative: which little word?",
+      "explanation": "Danke für die Einladung."
+     }
+    ]
+   },
+   {
+    "skill": "grammar",
+    "instructions": "Grammar. Fifteen questions from all of A1: choose, type or build.",
+    "questions": [
+     {
+      "type": "choice",
+      "prompt": "Meine Eltern ___ in Köln.",
+      "options": [
+       "sind",
+       "ist",
+       "bin"
+      ],
+      "answer": 0,
+      "hint": "Plural subject: which form of sein?",
+      "explanation": "Eltern is plural: sie sind.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Wir ___ heute keine Zeit. (haben)",
+      "answers": [
+       "haben"
+      ],
+      "hint": "wir takes the infinitive form.",
+      "explanation": "wir haben.",
+      "grammar": true
+     },
+     {
+      "type": "build",
+      "prompt": "Build: I must get up early today.",
+      "tokens": [
+       "früh",
+       "Ich",
+       "heute",
+       "muss",
+       "aufstehen."
+      ],
+      "answer": [
+       "Ich",
+       "muss",
+       "heute",
+       "früh",
+       "aufstehen."
+      ],
+      "hint": "The modal is part 2, the infinitive goes to the end.",
+      "explanation": "Ich muss heute früh aufstehen.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Ben ruft Mira heute Abend ___. (anrufen)",
+      "answers": [
+       "an"
+      ],
+      "hint": "The prefix goes to the end.",
+      "explanation": "anrufen: Ben ruft Mira an.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ich kaufe ___ Pullover.",
+      "options": [
+       "ein",
+       "einen",
+       "einem"
+      ],
+      "answer": 1,
+      "hint": "Pullover is masculine and it is the object.",
+      "explanation": "Masculine object: ein becomes einen.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Ich fahre mit ___ Bus zur Arbeit.",
+      "options": [
+       "den",
+       "der",
+       "dem"
+      ],
+      "answer": 2,
+      "hint": "mit is always followed by the dative.",
+      "explanation": "mit + dative: der Bus becomes dem Bus.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Die Jacke gefällt ___ sehr. (ich)",
+      "answers": [
+       "mir"
+      ],
+      "hint": "gefallen takes the dative pronoun.",
+      "explanation": "gefallen + dative: mir.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Wir gehen heute ___ Park.",
+      "options": [
+       "in den",
+       "im",
+       "ins"
+      ],
+      "answer": 0,
+      "hint": "Wohin? A movement into the place: accusative.",
+      "explanation": "Wohin? in + accusative: in den Park.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Gestern habe ich Pizza ___. (essen)",
+      "answers": [
+       "gegessen"
+      ],
+      "hint": "essen has an irregular participle: ge- ... -en.",
+      "explanation": "Perfekt: habe ... gegessen.",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Wir ___ nach Wien gefahren. (sein)",
+      "answers": [
+       "sind"
+      ],
+      "hint": "Movement from A to B takes sein.",
+      "explanation": "fahren uses sein: wir sind gefahren.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Gestern ___ ich müde.",
+      "options": [
+       "hatte",
+       "war",
+       "bin"
+      ],
+      "answer": 1,
+      "hint": "sein in the past: which form?",
+      "explanation": "sein in the past: ich war.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "___ Sie bitte einen Moment!",
+      "options": [
+       "Wartest",
+       "Warte",
+       "Warten"
+      ],
+      "answer": 2,
+      "hint": "Polite command: verb first, then Sie.",
+      "explanation": "The Sie command: Warten Sie!",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "___ Jacke gefällt dir? – Diese hier.",
+      "options": [
+       "Welche",
+       "Welcher",
+       "Welches"
+      ],
+      "answer": 0,
+      "hint": "Jacke is feminine (die Jacke).",
+      "explanation": "die Jacke: welche Jacke?",
+      "grammar": true
+     },
+     {
+      "type": "type",
+      "prompt": "Wir haben zwei ___. (das Kind)",
+      "answers": [
+       "Kinder"
+      ],
+      "hint": "The plural of Kind adds -er.",
+      "explanation": "das Kind: die Kinder.",
+      "grammar": true
+     },
+     {
+      "type": "choice",
+      "prompt": "Das ist Ben, und das ist ___ Schwester.",
+      "options": [
+       "sein",
+       "seine",
+       "seinen"
+      ],
+      "answer": 1,
+      "hint": "Schwester is feminine: add -e to sein.",
+      "explanation": "die Schwester: seine Schwester.",
+      "grammar": true
+     }
+    ]
+   }
+  ]
+ }
+]

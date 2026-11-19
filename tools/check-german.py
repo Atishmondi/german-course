@@ -34,13 +34,13 @@ def sentences(files):
     out = []
     for f in files:
         d = json.loads(Path(f).read_text(encoding='utf-8'))
-        for L in d.get('lessons', []) + d.get('skillDays', []): walk(L, L['id'], out)
+        for L in (d if isinstance(d, list) else d.get('lessons', []) + d.get('skillDays', [])): walk(L, L['id'], out)  # list = mocks.json
     seen, uniq = set(), []
     for p, t in out:
         # listening scripts: drop "Mira:" speaker labels; skip deliberate wrong forms (mistake.wrong, ❌ examples)
         t = re.sub(r'^\s*[A-ZÄÖÜ][\wäöüß]*( [A-ZÄÖÜ][\wäöüß]*)?:\s*', '', t, flags=re.M).strip()
         if not t or p.endswith('.wrong') or '❌' in t: continue
-        t = unicodedata.normalize('NFC', t)
+        t = unicodedata.normalize('NFC', t).replace('\n\n', '\n').replace('\n', '\n\n')  # each line = own paragraph (notice headings)
         if t not in seen: seen.add(t); uniq.append((p, t))
     return uniq
 
@@ -86,7 +86,7 @@ def wiktionary(files):
     flags, gmap = [], {'m': 'der', 'f': 'die', 'n': 'das'}
     for f in files:
         d = json.loads(Path(f).read_text(encoding='utf-8'))
-        for L in d.get('lessons', []):
+        for L in (d.get('lessons', []) if isinstance(d, dict) else []):
             for i, v in enumerate(L.get('vocabulary', [])):
                 w, art = v.get('de'), v.get('article')
                 if not (w and art in gmap.values()) or ' ' in w or w in OK: continue  # OK = checked by hand
@@ -136,7 +136,7 @@ def articles(items):
     return flags
 
 def main():
-    files = sys.argv[1:] or sorted(str(p) for p in (ROOT / 'content').glob('*/ch*.json'))
+    files = sys.argv[1:] or sorted(str(p) for p in (ROOT / 'content').glob('*/ch*.json')) + sorted(str(p) for p in (ROOT / 'content').glob('*/mocks.json'))
     items = sentences(files)
     print(f'{len(items)} German strings from {len(files)} file(s)')
     groups = {'LanguageTool (grammar + spelling)': languagetool(items),
