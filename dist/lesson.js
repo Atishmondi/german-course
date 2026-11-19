@@ -249,16 +249,17 @@
     const ready=()=>['drills','check'].every(s=>K.section(api.getState(),id,s,lesson[s]).done)&&K.status(api.getState(),K.qkey(id,'blind',0))!=='open';
     const mistake=g.mistake?`<div class="lp-mistake"><span class="lp-label">Common mistake</span><p class="lp-wrong" lang="de"><span aria-hidden="true">✗</span> <s>${esc(g.mistake.wrong)}</s></p><p class="lp-right" lang="de"><span aria-hidden="true">✓</span> ${esc(g.mistake.right)}</p><p class="lp-why">${esc(g.mistake.why)}</p></div>`:'';
     const terms=(lesson.terms||[]).length?`<dl class="lp-terms"><span class="lp-label">Words about grammar</span>${lesson.terms.map(t=>`<div><dt>${esc(t.term)}</dt><dd>${esc(t.meaning)}</dd></div>`).join('')}</dl>`:'';
+    const gtabs=(api.data?.grammarTables||[]).filter(t=>(t.lessons||[]).includes(id)).map(t=>`<p class="lp-gtab"><a href="#/grammar/${encodeURIComponent(t.id)}">📘 Grammar table: ${esc(t.title)} →</a></p>`).join('');
     const screens=[
       {phase:'Start',title:lesson.title,html:()=>`<p class="lp-goal">${esc(lesson.goal)}</p>
         <div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
-        ${(api.data?.grammarTables||[]).filter(t=>(t.lessons||[]).includes(id)).map(t=>`<p class="lp-gtab"><a href="#/grammar/${encodeURIComponent(t.id)}">Grammar table: ${esc(t.title)} →</a></p>`).join('')}
+        ${gtabs}
         <p class="lp-muted">${lesson.minutes?`About ${lesson.minutes} minutes. `:''}${lesson.printedPages?`Your book: ${esc(lvl?.book||String(lesson.level||'').toUpperCase())}, page ${pages(lesson.printedPages)}. `:''}You can pause any time.</p>`,
         nextLabel:cards.length?'Start learning':'Next: Drills'},
       ...cards.map((c,n)=>{const sk=`${id}#${n}`, steps=Array.isArray(c.steps)?c.steps.length:0, off=cards[0]&&cards[0].intro?1:0;
         return {phase:'Learn',card:n,title:c.title||`Idea ${n+1}`,wide:true,sub:()=>c.intro?'Introduction':`Card ${n+1-off} of ${cards.length-off}`,
           canNext:()=>Math.min(steps,stepsShown[sk]||1)>=steps,
-          html:()=>cardHtml(c,sk)+(n===off?(lesson.media?.grammarVideos||[]).map(k=>videoHtml(k,res)).join(''):'')+(n===0?terms:'')+(n===cards.length-1&&n>0?mistake:'')};}),
+          html:()=>cardHtml(c,sk)+(n===off&&gtabs?`<div class="lp-gtabs">${gtabs}</div>`:'')+(n===off?(lesson.media?.grammarVideos||[]).map(k=>videoHtml(k,res)).join(''):'')+(n===0?terms:'')+(n===cards.length-1&&n>0?mistake:'')};}),
       ...qScreens(lesson.drills||[],id,'drills','Drills','Drill'),
       ...(lesson.blind?[{phase:'New sentence',title:'New sentence on your own',q:lesson.blind,key:K.qkey(id,'blind',0),reset:{name:'New sentence',keys:[K.qkey(id,'blind',0)]},sub:()=>'You have not seen this one before. Use what you just learned.'}]:[]),
       ...qScreens(lesson.check||[],id,'check','Quiz','Question',{sub:checkSub}),
