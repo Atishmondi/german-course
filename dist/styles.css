@@ -310,3 +310,15 @@ html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);bac
 .item,.dayhead a,.other,.learnin a{transition:color var(--dur-fast) var(--ease),background-color var(--dur-fast) var(--ease)}
 .btn:active,.lp-btn:active,.other:active{transform:scale(var(--press))}
 @media (prefers-reduced-motion:reduce){.btn:active,.lp-btn:active,.other:active{transform:none}}
+
+/* Grammar: "Where you learn it" as quiet link rows */
+.learnin{margin:22px 0 8px;padding-top:16px;border-top:1px solid var(--line)}
+.learnin-h{margin:0 0 6px;color:var(--sub);font-weight:600;font-size:.95rem}
+.learnin ul{gap:0}
+.learnin li a{display:flex;align-items:baseline;gap:10px;padding:8px 10px;margin:0 -10px;border-radius:var(--r-sm)}
+.learnin li a:hover{background:var(--surface-2);color:var(--accent)}
+.learnin .muted{min-width:200px;font-size:.9rem}
+.tbl{border-collapse:separate;border-spacing:0}
+.tbl th{color:var(--muted);font-weight:600;font-size:.85rem}
+.tbl td,.tbl th{padding:9px 14px;border-bottom:1px solid var(--line)}
+.tbl tr:last-child td{border-bottom:0}

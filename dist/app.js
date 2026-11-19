@@ -343,7 +343,7 @@
         <div id="ct-${esc(t.id)}"${open?'':' hidden'}><p class="one">${esc(t.why)}</p>${table(t)}
           ${(t.notes||[]).length?`<ul class="notes">${t.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>`:''}
           ${(t.examples||[]).length?`<ul class="ex">${t.examples.map(e=>`<li><b lang="de">${esc(e.de)}</b><span class="muted">${esc(e.en)}</span></li>`).join('')}</ul>`:''}
-          ${(t.lessons||[]).length?`<div class="learnin"><p class="eyebrow">Where you learn it</p><ul>${t.lessons.map(lessonLink).join('')}</ul></div>`:''}
+          ${(t.lessons||[]).length?`<div class="learnin"><p class="learnin-h">Where you learn it</p><ul>${t.lessons.map(lessonLink).join('')}</ul></div>`:''}
           ${embeds(t.videos)}<div class="links"><span class="muted"><span class="badge">${esc(levelTitle(t.level))}</span> Taught in ${esc(t.chapter)}</span></div></div></article>`;
       function lessonLink(id){const L=plan&&plan.lessonById.get(id), d=plan&&dayAt(plan.dayOfLesson.get(id));if(!L||!d)return '';
         return `<li><a href="#/lesson/${encodeURIComponent(id)}"><span class="muted">Ch ${d.chapter} · ${esc(dayLabel(d))} · Lesson ${(d.lessonIds||[]).indexOf(id)+1}</span> ${esc(L.title)} →</a></li>`;}
