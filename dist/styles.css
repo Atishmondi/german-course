@@ -277,3 +277,4 @@ html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);bac
 .h-stats li{display:flex;flex-direction:column;line-height:1.2}.h-stats b{font-size:1.35rem;letter-spacing:-.01em}.h-stats span{color:var(--sub);font-size:.9rem}
 .h-plan{margin-top:36px}.h-plan h2{font-size:1.15rem;color:var(--sub);font-weight:600;letter-spacing:.02em;margin:0 0 12px}
 @media (prefers-reduced-motion:reduce){.h-go,.h-ring .on{transition:none}}
+.learnin{margin:18px 0 6px}.learnin ul{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:6px}.learnin a{color:var(--ink);text-decoration:none}.learnin a:hover{color:var(--accent)}.learnin .muted{margin-right:6px}

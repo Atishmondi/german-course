@@ -279,6 +279,8 @@ is_cell = lambda c: nonempty(c) or c in ('', '—') or (isinstance(c, dict) and 
 for i, T in enumerate(grammar_tables):
     if not isinstance(T, dict): err(f, f'#{i}', '-', 'table is not an object'); continue
     tid = T.get('id')
+    for lid_ in T.get('lessons') or []:
+        if lid_ not in ids: err(f, tid, 'lessons', f'unknown lesson {lid_}')
     if not nonempty(tid) or tid in gt_ids: err(f, tid, 'id', 'missing or duplicate id')
     gt_ids.add(tid)
     if T.get('level') not in level_ids: err(f, tid, 'level', f'unknown level {T.get("level")!r}')

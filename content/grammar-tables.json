@@ -111,7 +111,12 @@
    "yt:9uFcMrgPrz4",
    "yt:3unBmbBOqyA"
   ],
-  "chapter": "A1 ch 2, 4, 7"
+  "chapter": "A1 ch 2, 4, 7",
+  "lessons": [
+   "a1-c02-07",
+   "a1-c04-02",
+   "a1-c07-03"
+  ]
  },
  {
   "id": "a1-ein-kein",
@@ -252,7 +257,13 @@
    "yt:Re-5t9qA-AU",
    "yt:vC_7XBaqsc4"
   ],
-  "chapter": "A1 ch 3, 4, 7"
+  "chapter": "A1 ch 3, 4, 7",
+  "lessons": [
+   "a1-c03-01",
+   "a1-c03-02",
+   "a1-c04-03",
+   "a1-c07-04"
+  ]
  },
  {
   "id": "a1-pronouns",
@@ -377,7 +388,12 @@
    "yt:vPl0M_31_aU",
    "yt:uoEwlH9XgZ0"
   ],
-  "chapter": "A1 ch 1, 6, 11"
+  "chapter": "A1 ch 1, 6, 11",
+  "lessons": [
+   "a1-c02-01",
+   "a1-c06-07",
+   "a1-c11-04"
+  ]
  },
  {
   "id": "a1-poss-who",
@@ -456,7 +472,11 @@
    "yt:CY4UhFttoog",
    "yt:o-Zu-bUlPb4"
   ],
-  "chapter": "A1 ch 5"
+  "chapter": "A1 ch 5",
+  "lessons": [
+   "a1-c05-05",
+   "a1-c05-06"
+  ]
  },
  {
   "id": "a1-poss-endings",
@@ -548,7 +568,11 @@
   "videos": [
    "yt:ITjyfCAspco"
   ],
-  "chapter": "A1 ch 5; dative A2 ch 2"
+  "chapter": "A1 ch 5; dative A2 ch 2",
+  "lessons": [
+   "a1-c05-06",
+   "a1-c07-04"
+  ]
  },
  {
   "id": "a1-present",
@@ -619,7 +643,11 @@
    "yt:qdTEFPqjfkY",
    "yt:9h8p08qziG0"
   ],
-  "chapter": "A1 ch 1, 2"
+  "chapter": "A1 ch 1, 2",
+  "lessons": [
+   "a1-c01-04",
+   "a1-c02-01"
+  ]
  },
  {
   "id": "a1-stem-change",
@@ -704,7 +732,11 @@
    }
   ],
   "videos": [],
-  "chapter": "A1 ch 2"
+  "chapter": "A1 ch 2",
+  "lessons": [
+   "a1-c02-05",
+   "a1-c02-06"
+  ]
  },
  {
   "id": "a1-sein-haben-werden",
@@ -775,7 +807,11 @@
    "yt:wqw336j-F3E",
    "yt:jWDuDRHZvk8"
   ],
-  "chapter": "A1 ch 2; werden A2 ch 6"
+  "chapter": "A1 ch 2; werden A2 ch 6",
+  "lessons": [
+   "a1-c01-05",
+   "a1-c02-02"
+  ]
  },
  {
   "id": "a1-modals-1",
@@ -854,7 +890,12 @@
    "yt:QBBlMrj0lTw",
    "yt:RrfgbBp6ScI"
   ],
-  "chapter": "A1 ch 5, 8"
+  "chapter": "A1 ch 5, 8",
+  "lessons": [
+   "a1-c05-07",
+   "a1-c05-08",
+   "a1-c08-07"
+  ]
  },
  {
   "id": "a1-modals-2",
@@ -925,7 +966,12 @@
    "yt:JGZZa-dR0Bw",
    "yt:aFURRj5A6IE"
   ],
-  "chapter": "A1 ch 4, 8"
+  "chapter": "A1 ch 4, 8",
+  "lessons": [
+   "a1-c04-04",
+   "a1-c04-05",
+   "a1-c08-08"
+  ]
  },
  {
   "id": "a1-question-words",
@@ -1024,7 +1070,12 @@
    "yt:cCEnhEDLmIk",
    "yt:a0E2SkAAX6o"
   ],
-  "chapter": "A1 ch 1, 11, 12"
+  "chapter": "A1 ch 1, 11, 12",
+  "lessons": [
+   "a1-c01-06",
+   "a1-c12-03",
+   "a1-c12-04"
+  ]
  },
  {
   "id": "a1-order-basic",
@@ -1083,7 +1134,13 @@
    "yt:W7ntnruGJ9k",
    "yt:qDrgJz9V2Yk"
   ],
-  "chapter": "A1 ch 1, 2, 4"
+  "chapter": "A1 ch 1, 2, 4",
+  "lessons": [
+   "a1-c01-03",
+   "a1-c02-03",
+   "a1-c07-01",
+   "a1-c07-02"
+  ]
  },
  {
   "id": "a1-order-bracket",
@@ -1148,7 +1205,12 @@
    "yt:RI4lOt4riXs",
    "yt:cEizjiqBrbI"
   ],
-  "chapter": "A1 ch 5, 6, 10"
+  "chapter": "A1 ch 5, 6, 10",
+  "lessons": [
+   "a1-c05-07",
+   "a1-c06-04",
+   "a1-c10-01"
+  ]
  },
  {
   "id": "a1-prep-acc",
@@ -1206,7 +1268,10 @@
   "videos": [
    "yt:OnNGCS5tVMw"
   ],
-  "chapter": "A1 ch 6"
+  "chapter": "A1 ch 6",
+  "lessons": [
+   "a1-c06-08"
+  ]
  },
  {
   "id": "a1-prep-dat",
@@ -1275,7 +1340,13 @@
    "yt:L_EWNRkvkZY",
    "yt:KoJyx3jLcE4"
   ],
-  "chapter": "A1 ch 7, 12"
+  "chapter": "A1 ch 7, 12",
+  "lessons": [
+   "a1-c07-03",
+   "a1-c07-05",
+   "a1-c07-06",
+   "a1-c12-05"
+  ]
  },
  {
   "id": "a1-prep-twoway",
@@ -1364,7 +1435,13 @@
    "yt:Dmv2BzXv_7U",
    "yt:cPJ1Es1rF1g"
   ],
-  "chapter": "A1 ch 9; A2 ch 10"
+  "chapter": "A1 ch 9; A2 ch 10",
+  "lessons": [
+   "a1-c09-03",
+   "a1-c09-04",
+   "a1-c09-05",
+   "a1-c09-07"
+  ]
  },
  {
   "id": "a1-prep-short",
@@ -1444,7 +1521,11 @@
   "videos": [
    "yt:PdtS-1Lcd-c"
   ],
-  "chapter": "A1 ch 7, 9"
+  "chapter": "A1 ch 7, 9",
+  "lessons": [
+   "a1-c07-05",
+   "a1-c07-07"
+  ]
  },
  {
   "id": "a1-imperative",
@@ -1528,7 +1609,13 @@
    "yt:_rIvRPaDH8o",
    "yt:1xYlWmPJmbA"
   ],
-  "chapter": "A1 ch 3, 8"
+  "chapter": "A1 ch 3, 8",
+  "lessons": [
+   "a1-c03-05",
+   "a1-c08-04",
+   "a1-c08-05",
+   "a1-c08-06"
+  ]
  },
  {
   "id": "a1-perfekt-participle",
@@ -1607,7 +1694,14 @@
    "yt:sC1kWsL_Azo",
    "yt:Rx3axTMEMSw"
   ],
-  "chapter": "A1 ch 10, 11"
+  "chapter": "A1 ch 10, 11",
+  "lessons": [
+   "a1-c10-01",
+   "a1-c10-02",
+   "a1-c10-03",
+   "a1-c10-04",
+   "a1-c11-09"
+  ]
  },
  {
   "id": "a1-perfekt-helper",
@@ -1660,7 +1754,11 @@
    "yt:50istPWib_g",
    "yt:tkVix83IePU"
   ],
-  "chapter": "A1 ch 10"
+  "chapter": "A1 ch 10",
+  "lessons": [
+   "a1-c10-05",
+   "a1-c10-06"
+  ]
  },
  {
   "id": "a1-numbers",
@@ -1767,7 +1865,11 @@
    "yt:QCGdeH4hYdo",
    "yt:o7f26S6Gmo4"
   ],
-  "chapter": "A1 ch 1, 2"
+  "chapter": "A1 ch 1, 2",
+  "lessons": [
+   "a1-c02-09",
+   "a1-c06-01"
+  ]
  },
  {
   "id": "a1-time",
@@ -1841,7 +1943,12 @@
    "yt:44xYdQWki-M",
    "yt:NsqA8_SmdVI"
   ],
-  "chapter": "A1 ch 5"
+  "chapter": "A1 ch 5",
+  "lessons": [
+   "a1-c05-01",
+   "a1-c05-02",
+   "a1-c05-03"
+  ]
  },
  {
   "id": "a2-adj-der",

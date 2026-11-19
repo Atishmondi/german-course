@@ -313,7 +313,7 @@
           <p class="muted" style="font-size:.85rem">Each bar is one week (6 study days). The outlined bar is this week.</p></section>`;
     },
 
-    grammar(v){
+    grammar(v,arg){
       if(!DATA)return needPlan(v);
       const res=(DATA.resources&&DATA.resources.videos)||{};
       const videoLinks=keys=>(keys||[]).map(k=>{const r=res[k]||{};const id=String(k).startsWith('yt:')?k.slice(3):r.id;
@@ -332,10 +332,15 @@
         <div id="ct-${esc(t.id)}"${open?'':' hidden'}><p class="one">${esc(t.why)}</p>${table(t)}
           ${(t.notes||[]).length?`<ul class="notes">${t.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>`:''}
           ${(t.examples||[]).length?`<ul class="ex">${t.examples.map(e=>`<li><b lang="de">${esc(e.de)}</b><span class="muted">${esc(e.en)}</span></li>`).join('')}</ul>`:''}
+          ${(t.lessons||[]).length?`<div class="learnin"><p class="eyebrow">Where you learn it</p><ul>${t.lessons.map(lessonLink).join('')}</ul></div>`:''}
           ${embeds(t.videos)}<div class="links"><span class="muted"><span class="badge">${esc(levelTitle(t.level))}</span> Taught in ${esc(t.chapter)}</span></div></div></article>`;
+      function lessonLink(id){const L=plan&&plan.lessonById.get(id), d=plan&&dayAt(plan.dayOfLesson.get(id));if(!L||!d)return '';
+        return `<li><a href="#/lesson/${encodeURIComponent(id)}"><span class="muted">Ch ${d.chapter} · ${esc(dayLabel(d))}</span> ${esc(L.title)} →</a></li>`;}
       const lvIds=(LEVELS?LEVELS.levels.map(l=>l.id):['a1','a2','b1']).filter(id=>core.some(c=>c.t.level===id));
       const curLv=(dayAt(state.position.day)||{}).level;
       let lvSel=lvIds.includes(curLv)?curLv:(lvIds[0]||'all'), openIds=null;
+      const want=arg&&core.find(c=>c.t.id===arg);   // #/grammar/<tableId>: open that table
+      if(want){lvSel=want.t.level;openIds=new Set([want.t.id]);}
       const items=(DATA.lessons||[]).map(l=>{const g=l.grammar||{},m=g.mistake||{};
         return {l,text:CORE.normalise([l.title,g.point,g.oneLine,m.wrong,m.right,m.why,...(l.cards||[]).map(c=>c.title)].join(' ')),
           html:`<article class="card ref"><h3>${esc(g.point||l.title)}</h3><p class="one">${esc(g.oneLine||'')}</p>
@@ -387,6 +392,7 @@
         list.innerHTML=html;
       };
       q.addEventListener('input',paint);paint();
+      if(want)requestAnimationFrame(()=>{const el=v.querySelector('#ct-'+CSS.escape(want.t.id));if(el)el.closest('article').scrollIntoView({block:'start'});});
     },
 
     words(v){

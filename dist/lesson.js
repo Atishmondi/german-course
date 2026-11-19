@@ -252,6 +252,7 @@
     const screens=[
       {phase:'Start',title:lesson.title,html:()=>`<p class="lp-goal">${esc(lesson.goal)}</p>
         <div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
+        ${(api.data?.grammarTables||[]).filter(t=>(t.lessons||[]).includes(id)).map(t=>`<p class="lp-gtab"><a href="#/grammar/${encodeURIComponent(t.id)}">Grammar table: ${esc(t.title)} →</a></p>`).join('')}
         <p class="lp-muted">${lesson.minutes?`About ${lesson.minutes} minutes. `:''}${lesson.printedPages?`Your book: ${esc(lvl?.book||String(lesson.level||'').toUpperCase())}, page ${pages(lesson.printedPages)}. `:''}You can pause any time.</p>`,
         nextLabel:cards.length?'Start learning':'Next: Drills'},
       ...cards.map((c,n)=>{const sk=`${id}#${n}`, steps=Array.isArray(c.steps)?c.steps.length:0, off=cards[0]&&cards[0].intro?1:0;
