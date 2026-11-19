@@ -48,7 +48,7 @@
     s.stats={correct:int(input.stats?.correct,0,1e7,0),answered:int(input.stats?.answered,0,1e7,0)};
     const st=input.settings||{};
     s.settings={reminders:st.reminders!==false,interval:[3,5,10].includes(st.interval)?st.interval:5,celebrate:st.celebrate!==false,
-      sound:!!st.sound,reduced:!!st.reduced,openAll:!!st.openAll,theme:['midnight','classic','inked','slate','lapis'].includes(st.theme)?st.theme:'midnight',speed:[0.7,0.85,1].includes(st.speed)?st.speed:0.85};
+      sound:!!st.sound,reduced:!!st.reduced,openAll:!!st.openAll,theme:['gold','fiery','deepsea','classic','lapis'].includes(st.theme)?st.theme:'gold',speed:[0.7,0.85,1].includes(st.speed)?st.speed:0.85};
     return s;
   }
 
