@@ -116,7 +116,7 @@
     if(!dayDone(plan,state,n))return false;
     const rec=state.days[n]||(state.days[n]={startedAt:null,doneAt:null});
     if(!rec.doneAt)rec.doneAt=iso(now);
-    state.position.day=Math.max(state.position.day,n+1);
+    if(n===state.position.day)state.position.day=n+1; // a day opened early (Settings → Open every day) never moves you forward
     return true;
   }
 

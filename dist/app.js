@@ -104,7 +104,7 @@
     if(planError||!plan){notice(v,'🧩','The plan could not be built','Something in the course data needs fixing. Your progress is safe.');return false;}
     return true;
   }
-  const isLocked=n=>n>state.position.day;
+  const isLocked=n=>!state.settings.openAll&&n>state.position.day; // openAll: temporary checking switch while the course is built
   const dayDoneAt=n=>state.days[n]&&state.days[n].doneAt;
 
   // Level › Chapter › Day naming. Chapter titles come from the lessons (chapterTitle).
@@ -440,6 +440,8 @@
           ${sw('celebrate','Celebrations','A full-screen moment when you finish something')}
           ${sw('sound','Sound','A tiny chime with celebrations')}
           ${sw('reduced','Reduce motion','No confetti or moving effects')}</section>
+        <section class="section"><h2>Checking</h2>
+          ${sw('openAll','Open every day','For checking new chapters. Your progress and streak stay as they are.')}</section>
         <section class="section"><h2>Listening</h2>
           ${seg('speed','Speech speed',[0.7,0.85,1],x=>x===1?'1×':x+'×')}
           <div class="set"><span class="lbl">Test the German voice</span><button class="btn" type="button" data-test>🔊 Play</button></div></section>
