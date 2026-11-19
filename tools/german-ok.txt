@@ -37,3 +37,5 @@ Gehalt
 WGs
 # Möbel: taught as plural "die Möbel" (furniture); das Möbel = one piece
 Möbel
+# Herrenabteilung: regular compound (Herren + Abteilung), not in Wiktionary
+Herrenabteilung
