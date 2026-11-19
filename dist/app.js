@@ -464,6 +464,7 @@
           ${sw('sound','Sound','A tiny chime with celebrations')}
           ${sw('reduced','Reduce motion','No confetti or moving effects')}</section>
         <section class="section"><h2>Checking</h2>
+          ${(()=>{const TH={"midnight": ["Midnight sand", "#0b0d12", "#12151c", "#eef1f7", "#e7c08a"], "classic": ["Black and amber", "#000000", "#0e0e10", "#eef1f6", "#f2b866"], "inked": ["Inked", "#000000", "#121212", "#dfdedc", "#00acac"], "slate": ["Slate and mint", "#15171a", "#1c1f23", "#e8eaed", "#8fd4a8"], "lapis": ["Lapis and plum", "#0e1222", "#151a2e", "#ece6dc", "#c3a0e0"]};return `<div class="set-block"><p class="set-h">Theme</p><div class="theme-picks" role="group" aria-label="Theme">${Object.entries(TH).map(([k,[n,...c]])=>`<button type="button" class="theme-pick" data-theme-pick="${k}" aria-pressed="${(s.theme||'midnight')===k}"><span class="sw">${c.map(x=>`<i style="background:${x}"></i>`).join('')}</span>${n}</button>`).join('')}</div></div>`;})()}
           ${sw('openAll','Open every day','For checking new chapters. Your progress and streak stay as they are.')}</section>
         <section class="section"><h2>Listening</h2>
           ${seg('speed','Speech speed',[0.7,0.85,1],x=>x===1?'1×':x+'×')}
@@ -484,6 +485,7 @@
       });
       v.addEventListener('click',e=>{
         const b=e.target.closest('button');if(!b)return;
+        if(b.dataset.themePick){s.theme=b.dataset.themePick;save();document.documentElement.dataset.theme=s.theme;v.querySelectorAll('[data-theme-pick]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));return;}
         if(b.dataset.seg){s[b.dataset.seg]=Number(b.dataset.v);save();
           v.querySelectorAll(`[data-seg="${b.dataset.seg}"]`).forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
         else if('test' in b.dataset)speak('Hallo! Ich heiße Mira. Ich lerne Deutsch.');
