@@ -311,6 +311,13 @@ data = {'levels': levels, 'lessons': out_lessons, 'skillDays': out_skills, 'mock
 js = 'window.GERMAN_FULL_DATA=' + json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';\n'
 (ROOT / 'dist').mkdir(exist_ok=True)
 (ROOT / 'dist' / 'full-content.js').write_text(js, encoding='utf-8')
+# cache-busting: stamp each local script/css in index.html with a hash of its content, so browsers load new versions
+import hashlib
+idx = ROOT / 'dist' / 'index.html'
+if idx.exists():
+    h = idx.read_text(encoding='utf-8')
+    h = re.sub(r'(src|href)="([\w-]+\.(?:js|css))(?:\?v=\w+)?"', lambda m: f'{m[1]}="{m[2]}?v={hashlib.md5((ROOT / "dist" / m[2]).read_bytes()).hexdigest()[:8]}"' if (ROOT / 'dist' / m[2]).exists() else m[0], h)
+    idx.write_text(h, encoding='utf-8')
 print('\n'.join(summary))
 print(f'vocab {sum(len(l.get("vocabulary") or []) for l in out_lessons)} | questions {qcount(out_lessons) + qcount(out_skills) + qcount(out_mocks)} | partial {PARTIAL}')
 print(f'wrote dist/full-content.js ({len(js.encode())} bytes)')
