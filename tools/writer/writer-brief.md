@@ -55,3 +55,6 @@ The player does not shuffle choice options. Put the right option at varied posit
 
 ## Card lead (required on every teaching card, compiler-checked)
 Every card after the intro card has `"lead"`: 12–45 words shown at the top of the card under "What this card teaches": a bridge from the previous card (or the intro / an earlier lesson) + what THIS card teaches and why it helps. Don't repeat the title/body, don't give the rule away, vary the wording. Full spec: the "What a lead says" section of `SP/lead-brief.md`.
+
+## A bit deeper (required on every teaching card, compiler-checked)
+Every card after the intro card has `"deeper": {"text": 40–80 words, "example": {"de", "en", "parts"}}`, shown visibly under the examples as "A bit deeper": one small step beyond the body (the why, a useful detail, an A1-level exception, how natives really say it, an English link). New example sentence, parts on it, only taught grammar. Full spec: `SP/deeper-brief.md` (Shape section).

@@ -23,7 +23,8 @@ def walk(v, path, out):
     if isinstance(v, dict):
         for k, x in v.items():
             p = f'{path}.{k}'
-            if k in GERMAN_KEYS and isinstance(x, str): out.append((p, x))
+            if k == 'deeper' and isinstance(x, dict): walk(x.get('example'), f'{p}.example', out)  # deeper.text is English
+            elif k in GERMAN_KEYS and isinstance(x, str): out.append((p, x))
             elif k == 'answers' and isinstance(x, list) and x and isinstance(x[0], str): out.append((f'{p}[0]', x[0]))  # [1:] are deliberate variants (ss, oe...)
             else: walk(x, p, out)
     elif isinstance(v, list):

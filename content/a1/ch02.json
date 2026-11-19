@@ -168,7 +168,40 @@
       "Wir spielen Fußball."
      ],
      "more": "wir means we: you plus other people, like a group photo. The tail is -en. It is the same ending as the full verb: wohnen gives wir wohnen. Step 1: say wir. Step 2: take the verb in the form that ends in -en. Step 3: done. Extra example: Wir kochen. = We cook.",
-     "lead": "In chapter 1 you learned ich and du, and how the verb changes for each person. On this card: the word wir for we, and its ending, so you can talk about yourself and other people."
+     "lead": "In chapter 1 you learned ich and du, and how the verb changes for each person. On this card: the word wir for we, and its ending, so you can talk about yourself and other people.",
+     "deeper": {
+      "text": "Wir means me plus other people. So Ben und ich also means we, and the verb takes the wir form. Notice that the wir form looks exactly like the dictionary form, and so does the form for sie and Sie. Three pronouns share one shape. That makes this one easy to learn.",
+      "example": {
+       "de": "Ben und ich wohnen in Berlin.",
+       "en": "Ben and I live in Berlin.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "wohnen",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Berlin.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "ihr: you (two or more friends)",
@@ -261,7 +294,32 @@
       ]
      },
      "more": "Think of a classroom. If the teacher looks at one friend, she says du. If she looks at the whole group, she says ihr. English only has one word, you, for both. German has two. For ihr, glue -t to the stem: spiel + t. It is the same ending as er and sie (she). So spielt can mean ihr spielt or er spielt. The pronoun tells you who it is.",
-     "lead": "You know wir now. Next: the word for talking to a group of friends, so you can speak to two or more people you know well with the right verb."
+     "lead": "You know wir now. Next: the word for talking to a group of friends, so you can speak to two or more people you know well with the right verb.",
+     "deeper": {
+      "text": "English has the same word for one person and for many: you. German keeps them apart, so you always know who is meant. The polite Sie works for one person or for many, so Sie does not change. Only the friendly forms are different: du for one friend, ihr for a group.",
+      "example": {
+       "de": "Wohnt ihr in Wien?",
+       "en": "Do you live in Vienna?",
+       "parts": [
+        [
+         "Wohnt",
+         "verb"
+        ],
+        [
+         "ihr",
+         "subject"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien?",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sie: they",
@@ -354,7 +412,40 @@
       ]
      },
      "more": "Look at the verb ending to know which sie it is. Ending -t: one woman, she. Ending -en: many people, they. Big Sie with -en is you, polite. A trick: if you can swap in a name, one name means -t (Mira kocht). Two names or more means -en (Mira und Ben kochen). The verb tells the truth, so check it every time.",
-     "lead": "You can speak to a group now. On this card: the small word sie, which can mean she or they, and how the verb tells you which one is meant."
+     "lead": "You can speak to a group now. On this card: the small word sie, which can mean she or they, and how the verb tells you which one is meant.",
+     "deeper": {
+      "text": "When you read sie, check the verb. A verb ending in -t points to she, and a verb ending in -en points to they. Two names joined by und always make they. The verb then ends in -en, as in Mira und Ben wohnen. This tiny check solves almost every case.",
+      "example": {
+       "de": "Mira und Ben wohnen in Wien.",
+       "en": "Mira and Ben live in Vienna.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "wohnen",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "All six endings in one table",
@@ -461,7 +552,28 @@
       ]
      },
      "more": "Think of a verb as a toy with a swappable tail. The stem is the body. Only the tail changes with the person. Step 1: find the stem: spiel-. Step 2: pick the tail from the table. Good news: er/sie and ihr both take -t, and wir and sie/Sie both take -en. So there are only four tails to learn. Extra example: Wir hören Musik. = We listen to music.",
-     "lead": "You have met the endings one at a time. Next: all six forms of two verbs side by side, so you can compare them and see the pattern at a glance."
+     "lead": "You have met the endings one at a time. Next: all six forms of two verbs side by side, so you can compare them and see the pattern at a glance.",
+     "deeper": {
+      "text": "Look at the table once more: wir and sie/Sie always look like the dictionary form. That is three of the six pronouns with no work at all. Then er/sie and ihr share the ending -t. So you really only learn four shapes: -e, -st, -t and -en. Remember those four, and you have the whole system.",
+      "example": {
+       "de": "Wir hören Musik.",
+       "en": "We listen to music.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "hören",
+         "verb"
+        ],
+        [
+         "Musik.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "One small change: tanzen",
@@ -554,7 +666,24 @@
       ]
      },
      "more": "Say tanzst out loud. It is hard. Two s sounds in a row: z and s. German avoids it. The z is already an s sound, so the extra s is dropped. That is why the du form looks the same as the er form: tanzt. The same happens for heißen. Rule: if the stem ends in an s sound (s, ß, z), du takes only -t. For all other verbs, du takes -st.",
-     "lead": "You now have all six endings. On this card: one verb with a small exception, tanzen, which means to dance, so you can use it correctly with du."
+     "lead": "You now have all six endings. On this card: one verb with a small exception, tanzen, which means to dance, so you can use it correctly with du.",
+     "deeper": {
+      "text": "The rule behind tanzt: if the stem already ends in an s sound, du gets only -t. Stems ending in s, ß or z behave this way, and you know heißen and tanzen now. Say tanzt out loud: it is easy because the t sits right after the z. The same idea will return with other verbs.",
+      "example": {
+       "de": "Tanzt du?",
+       "en": "Do you dance?",
+       "parts": [
+        [
+         "Tanzt",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Find the form in 3 steps",
@@ -613,7 +742,24 @@
       "Ihr schwimmt gern."
      ],
      "more": "Think of a recipe. Step 1: take off -en to get the stem: kochen gives koch. Step 2: ask who it is. Step 3: add the tail for that person. Example: schwimmen gives schwimm, then ihr gives schwimmt. Say it out loud, it gets easy fast. Extra example: Wir kochen. = We cook.",
-     "lead": "You know all six endings and tanzen. Last card of this lesson: three steps to find the right verb form, so you can use the same method on verbs you have not seen yet."
+     "lead": "You know all six endings and tanzen. Last card of this lesson: three steps to find the right verb form, so you can use the same method on verbs you have not seen yet.",
+     "deeper": {
+      "text": "A good habit is to say the pronoun and the ending out loud together: ihr, -t, so ihr kocht. Your ear remembers the pair faster than your eye does. Keep the stem the same and only add the ending. After a few days you will not need the three steps any more, because it will feel natural.",
+      "example": {
+       "de": "Ihr kocht.",
+       "en": "You cook.",
+       "parts": [
+        [
+         "Ihr",
+         "subject"
+        ],
+        [
+         "kocht.",
+         "verb"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1245,7 +1391,28 @@
       ]
      },
      "more": "Most verbs: stem + ending. For haben the stem is hab-. Two forms lose the b: hast and hat. Why? The b dropped out over time. You just need to remember the three odd ones: du hast, er/sie hat, ihr habt. The others (habe, haben, haben) look normal. Practice by saying: ich habe, du hast, er hat.",
-     "lead": "You can talk about yourself and others with wir, ihr and sie. Next: haben, the verb for to have, which breaks the usual pattern, so you learn its six forms as one set."
+     "lead": "You can talk about yourself and others with wir, ihr and sie. Next: haben, the verb for to have, which breaks the usual pattern, so you learn its six forms as one set.",
+     "deeper": {
+      "text": "English also has an odd form here: I have, he has, not he haves. German does the same: du hast, er hat. The b of the stem simply drops out in these two forms. Why does it happen? Because haben is used so often that it got shorter, like sein. Learn all six forms by heart.",
+      "example": {
+       "de": "Wir haben Zeit.",
+       "en": "We have time.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "Zeit.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say what you have: Hunger, Durst, Zeit",
@@ -1324,7 +1491,28 @@
       ]
      ],
      "more": "In English you are hungry. In German you have hunger, like holding it in your hand. So never say Ich bin Hunger. Step 1: say Ich habe. Step 2: add Hunger, Durst or Zeit. There is no a or the in front. Extra example: Du hast Durst. = You are thirsty.",
-     "lead": "You know haben now. On this card: the words for hunger, thirst and time, which go with haben, so you can say you are hungry or that you have time."
+     "lead": "You know haben now. On this card: the words for hunger, thirst and time, which go with haben, so you can say you are hungry or that you have time.",
+     "deeper": {
+      "text": "Hunger, Durst and Zeit are nouns, so they start with a capital letter. German treats them as something you have, like time. That is why there is no a or the before them. It also means a German learner often says Ich bin Hunger by mistake, so check twice: it is haben.",
+      "example": {
+       "de": "Mira hat Durst.",
+       "en": "Mira is thirsty.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "Durst.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sein: all six forms",
@@ -1428,7 +1616,32 @@
       ]
      },
      "more": "sind is used three times: wir sind, sie (they) sind and Sie (polite) sind. So there are only five different words for six people. ihr seid is the odd one. It is not seind and not sind. It is seid. To remember: seid ends in d, like the English word 'said'. Say the whole row out loud with a rhythm: bin, bist, ist, sind, seid, sind.",
-     "lead": "You can say what you have. Next: the other key verb, sein, with all six forms, so you can say how you feel and where you are."
+     "lead": "You can say what you have. Next: the other key verb, sein, with all six forms, so you can say how you feel and where you are.",
+     "deeper": {
+      "text": "Notice the form seid: it looks a little like seit, but it is a different word, and it belongs to ihr. The forms for wir, sie and Sie are all sind, so you learn only one form for three pronouns. That is a gift. Say the whole row once, and keep the rhythm: sind, seid, sind.",
+      "example": {
+       "de": "Wir sind in Berlin.",
+       "en": "We are in Berlin.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Berlin.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sein or haben?",
@@ -1527,7 +1740,28 @@
       ]
      },
      "more": "In English, hungry is a feeling word, so you say I am hungry. In German, Hunger is a thing, a noun, that you have. It is like saying I have a cold. müde is a describing word, like nice. Describing words go with sein. Nouns that you have go with haben. A fast test: can you say 'I have ...' in English? Then it is probably haben.",
-     "lead": "You now know sein and haben. On this card: how to pick the right one for a feeling, like being tired or sick, so your sentences say exactly what you mean."
+     "lead": "You now know sein and haben. On this card: how to pick the right one for a feeling, like being tired or sick, so your sentences say exactly what you mean.",
+     "deeper": {
+      "text": "The idea is simple. English says I am hungry, but German says I have hunger. So whenever English uses am, is or are for a feeling, ask: is it a noun-feeling like Hunger, Durst or Zeit? Then use haben. A describing word, like müde or krank, uses sein.",
+      "example": {
+       "de": "Mira ist krank.",
+       "en": "Mira is sick.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "krank.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Names are pronouns too",
@@ -1628,7 +1862,36 @@
       ]
      },
      "more": "A name is a pronoun in disguise. Ben is the same as er, so use the verb for er: ist, hat. Mira is the same as sie, so also ist, hat. Anna und Leon is the same as sie (they), so use sind, haben. Step 1: swap the name for a pronoun in your head. Step 2: pick the verb. Extra example: Ben und Mira sind müde. = Ben and Mira are tired.",
-     "lead": "You know how each pronoun takes its verb. Last card of this lesson: how a name, such as Ben, or two names together, works in the same way, so you can talk about other people."
+     "lead": "You know how each pronoun takes its verb. Last card of this lesson: how a name, such as Ben, or two names together, works in the same way, so you can talk about other people.",
+     "deeper": {
+      "text": "A name or two names with und become a pronoun, and the verb follows that pronoun. So Mira und Ben is sie (they), and the verb is sind. This is why Mira und Ben sind müde sounds just like Sie sind müde. The sentence still has the verb in position 2.",
+      "example": {
+       "de": "Mira und Ben sind müde.",
+       "en": "Mira and Ben are tired.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2243,7 +2506,28 @@
       ]
      },
      "more": "A statement is like a train with the verb in the second car: Du spielst Tennis. To turn it into a question, swap the first two cars: Spielst du Tennis? Only the order changes. The words stay the same. English adds a helper word (do you play?). German has no helper. It simply puts the verb in front. Say the question with your voice going up at the end.",
-     "lead": "In chapter 1 you asked yes or no questions with sprechen. Next: the same word-order move, now with hobby verbs, so you can ask a friend what they do."
+     "lead": "In chapter 1 you asked yes or no questions with sprechen. Next: the same word-order move, now with hobby verbs, so you can ask a friend what they do.",
+     "deeper": {
+      "text": "You can make a question from any statement. Take Du spielst Tennis, move the verb to the front, and you get Spielst du Tennis? Nothing else changes: the person and the verb form stay the same. German needs no helper like do. Try it with your own sentences.",
+      "example": {
+       "de": "Spielt Mira Tennis?",
+       "en": "Does Mira play tennis?",
+       "parts": [
+        [
+         "Spielt",
+         "verb"
+        ],
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "Tennis?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Answer: ja or nein + a full sentence",
@@ -2321,7 +2605,32 @@
       "Ja, ich spiele Tennis."
      ],
      "more": "ja or nein is like a nod. Then comes a comma, a small breath. Then the sentence goes on as normal. The nod stands outside the sentence, so the verb is still in position 2, right after ich. Step 1: nod with ja or nein. Step 2: comma. Step 3: a full sentence. Extra example: Nein, wir spielen Tennis. = No, we play tennis.",
-     "lead": "You can ask a yes or no question now. On this card: how to answer with ja or nein and a full sentence after it, so your reply sounds natural."
+     "lead": "You can ask a yes or no question now. On this card: how to answer with ja or nein and a full sentence after it, so your reply sounds natural.",
+     "deeper": {
+      "text": "A short answer is fine: Ja or Nein. But a full sentence trains your German. Notice the comma after ja or nein. After the comma the new sentence begins, so the verb is in position 2 again. The person comes first, then the verb: Ja, ich spiele. So the rule you know still holds.",
+      "example": {
+       "de": "Nein, ich höre Musik.",
+       "en": "No, I listen to music.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "höre",
+         "verb"
+        ],
+        [
+         "Musik.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask the right person",
@@ -2410,7 +2719,28 @@
       ]
      },
      "more": "Think of a key for each person. The verb tail must fit whom you ask. Step 1: a friend? du, tail -st. Step 2: two friends? ihr, tail -t. Step 3: polite? Sie, tail -en. In a yes/no question the verb goes first. Extra example: Spielt Mira Tennis? = Does Mira play tennis?",
-     "lead": "You know how to answer. Next: how the question changes depending on who you ask, one friend, two friends, a polite person or someone else, so you use the right verb."
+     "lead": "You know how to answer. Next: how the question changes depending on who you ask, one friend, two friends, a polite person or someone else, so you use the right verb.",
+     "deeper": {
+      "text": "Think about who you are asking, and then choose the form. Du-questions end in -st, ihr-questions in -t and Sie-questions in -en. The Sie form looks like the dictionary form, so it is the easiest. Asking about a third person uses the -t form, like Spielt Anna Tennis?",
+      "example": {
+       "de": "Hört Mira Musik?",
+       "en": "Does Mira listen to music?",
+       "parts": [
+        [
+         "Hört",
+         "verb"
+        ],
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "Musik?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "gern: like to",
@@ -2497,7 +2827,28 @@
       ]
      ],
      "more": "gern is a little smile word. It says you enjoy it. English uses like to, German uses a small extra word. Step 1: make a normal sentence. Step 2: slip gern in right after the verb and the person. Nothing else moves. Extra example: Ben schwimmt gern. = Ben likes to swim.",
-     "lead": "You can ask what people do. On this card: the small word gern, which means gladly, so you can say that you like doing something."
+     "lead": "You can ask what people do. On this card: the small word gern, which means gladly, so you can say that you like doing something.",
+     "deeper": {
+      "text": "The word gern has no real match in English. English says I like to play, German says I play gladly. Gern is not a verb, so it does not need an ending, and it usually stays after the verb and the subject. It makes your sentences sound friendly.",
+      "example": {
+       "de": "Ben tanzt gern.",
+       "en": "Ben likes to dance.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "tanzt",
+         "verb"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask what someone likes: Spielst du gern …?",
@@ -2586,7 +2937,32 @@
       ]
      },
      "more": "Same smile word, now in a question. Think of a sandwich with four layers: verb, person, gern, hobby. Step 1: start with the verb. Step 2: add the person. Step 3: add gern. Step 4: add the hobby. To answer, copy the layers into a statement. Extra example: Hörst du gern Musik? = Do you like to listen to music?",
-     "lead": "You can say what you like to do. Next: how to ask a friend what they like doing, with gern in the question, so you can start a conversation about hobbies."
+     "lead": "You can say what you like to do. Next: how to ask a friend what they like doing, with gern in the question, so you can start a conversation about hobbies.",
+     "deeper": {
+      "text": "When you answer, take the verb from the question and change only the pronoun. Spielst du becomes ich spiele. Then keep gern in the same place. This copy-and-switch trick is how Germans answer in real conversation, and it saves you from thinking about the endings again.",
+      "example": {
+       "de": "Ja, ich koche gern.",
+       "en": "Yes, I like to cook.",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "koche",
+         "verb"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "What do you like to do? Was machst du gern?",
@@ -2677,7 +3053,28 @@
       ]
      ],
      "more": "was means what, and it opens a W-question just like wie and wo. Step 1: was is position 1. Step 2: the verb is position 2. Step 3: add the person and gern. To answer, use any hobby you know with gern. Extra example: Was macht Mira gern? – Mira tanzt gern. = What does Mira like to do? – Mira likes to dance.",
-     "lead": "You can ask about hobbies with gern. Last card of this lesson: the question word was, which asks what someone likes to do, so you can ask a wider question about free time."
+     "lead": "You can ask about hobbies with gern. Last card of this lesson: the question word was, which asks what someone likes to do, so you can ask a wider question about free time.",
+     "deeper": {
+      "text": "Machen is a very general verb, so it can be used for lots of things. Without gern, Was machst du? asks what you are doing right now, like What are you up to? With gern, it asks about your hobbies. The question word was always stays in position 1, and the verb stays in position 2.",
+      "example": {
+       "de": "Was machst du?",
+       "en": "What are you doing?",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "machst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -3299,7 +3696,28 @@
       ]
      },
      "more": "Seven days make a rhythm, like a song. Six of them end in -tag, and Tag means day. Mittwoch is the odd one out. (Mitte = middle, Woche = week: the middle of the week.) Step 1: say all seven in order. Step 2: spot the -tag ones. Step 3: remember Mittwoch is the middle. Days always start with a big letter. Extra example: Samstag, Sonntag = Saturday, Sunday.",
-     "lead": "You now talk about hobbies and ask questions. Next: the days of the week in order, so you can talk about when things happen in your week."
+     "lead": "You now talk about hobbies and ask questions. Next: the days of the week in order, so you can talk about when things happen in your week.",
+     "deeper": {
+      "text": "The names have clues. Mittwoch means mid-week: Mitt is middle and Woche is week. In northern Germany, you may also hear Sonnabend for Saturday. Most other days end in -tag, which is day. Montag, Dienstag and the others all end the same way. Learn them in order and say them aloud. Heute means today.",
+      "example": {
+       "de": "Heute ist Dienstag.",
+       "en": "Today is Tuesday.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Dienstag.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "am + day = on that day",
@@ -3394,7 +3812,32 @@
       ]
      ],
      "more": "am is a sticker that means on. Pin it to a day, like a calendar entry. am Montag means on Monday. Step 1: say am. Step 2: add the day. The two words are one block. Extra example: Ich koche am Sonntag. = I cook on Sunday.",
-     "lead": "You know the seven days. On this card: how to say on a day, using a small word before the day name, so you can say when you do something."
+     "lead": "You know the seven days. On this card: how to say on a day, using a small word before the day name, so you can say when you do something.",
+     "deeper": {
+      "text": "Am is a short form, so treat am Montag as one block. In English, you say on Monday, and the on is the same job as am. You need am before every day. Capital letters matter here: the day starts with a big letter, but am stays small. Notice that the block can move in the sentence.",
+      "example": {
+       "de": "Ich koche am Sonntag.",
+       "en": "I cook on Sunday.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "koche",
+         "verb"
+        ],
+        [
+         "am",
+         "time"
+        ],
+        [
+         "Sonntag.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "wann? = when?",
@@ -3483,7 +3926,28 @@
       ]
      },
      "more": "wann is the clock question. It asks for a time, and today the answer is a day. Step 1: wann is position 1. Step 2: the verb is position 2. Step 3: add the person. Answer with am + day. Memory help: wann, wo and woher all start with w. Extra example: Wann kochst du? – Am Sonntag. = When do you cook? – On Sunday.",
-     "lead": "You can say on a day now. Next: the question word for asking when something happens, and how to answer it, so you can ask a friend when they have time."
+     "lead": "You can say on a day now. Next: the question word for asking when something happens, and how to answer it, so you can ask a friend when they have time.",
+     "deeper": {
+      "text": "The question word wann always asks about time. Compare it with wo (place) and woher (origin): each question word wants its own kind of answer. For wann, the answer is the day with am. Like all W-questions, wann stays in position 1 and the verb stays in position 2.",
+      "example": {
+       "de": "Wann kommt Ben?",
+       "en": "When is Ben coming?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "Ben?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Start with the day: the verb stays second",
@@ -3588,7 +4052,32 @@
       ]
      },
      "more": "Think of the sentence as a row of chairs. The verb always sits on chair number 2. Chair 1 can be anyone: the subject, or a day. If you put am Montag on chair 1, the subject ich has to move. It sits down behind the verb, on chair 3. The meaning stays the same. Only the order changes. A common mistake is to keep ich on chair 2. Then the verb sits on chair 3, and that is wrong.",
-     "lead": "You can ask and answer with when. On this card: how to put the day at the front of a sentence, and where the verb stays while the words move around."
+     "lead": "You can ask and answer with when. On this card: how to put the day at the front of a sentence, and where the verb stays while the words move around.",
+     "deeper": {
+      "text": "English can also start with the time: On Monday I play tennis. German does the same, but the subject moves behind the verb, because the verb must stay in position 2. So Am Montag spiele ich Tennis is a normal sentence. Germans use this order often to put the time first.",
+      "example": {
+       "de": "Am Freitag kocht Mira.",
+       "en": "On Friday Mira cooks.",
+       "parts": [
+        [
+         "Am",
+         "time"
+        ],
+        [
+         "Freitag",
+         "time"
+        ],
+        [
+         "kocht",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Arrange to meet",
@@ -3678,7 +4167,36 @@
       "Nein, am Freitag bin ich in Berlin."
      ],
      "more": "Think of a diary. You ask: do you have time on Friday? The verb goes first, because it is a yes/no question. In the answer you may put the day first. Then the day is part 1, habe is part 2, and ich is part 3. The verb stays in position 2. Extra example: Ja, am Montag habe ich Zeit. = Yes, on Monday I have time.",
-     "lead": "You can start a sentence with a day now. Last card of this lesson: how to ask a friend if they have time and answer back, so you can arrange to meet."
+     "lead": "You can start a sentence with a day now. Last card of this lesson: how to ask a friend if they have time and answer back, so you can arrange to meet.",
+     "deeper": {
+      "text": "Literally, Hast du am Freitag Zeit? means Have you on Friday time? English says Are you free on Friday? This is a good example of a chunk to learn whole. Notice it starts with the verb, so it is a yes/no question. A friendly answer is ja or nein plus the day.",
+      "example": {
+       "de": "Hast du am Sonntag Zeit?",
+       "en": "Are you free on Sunday?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "am",
+         "time"
+        ],
+        [
+         "Sonntag",
+         "time"
+        ],
+        [
+         "Zeit?",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4357,7 +4875,28 @@
       ]
      },
      "more": "Look at the six persons. Only two of them change the vowel: du and er/sie. The other four keep it. Draw a box round the du and er/sie rows. Inside the box the e becomes i. Outside the box nothing changes. Easy test: is the person du or er/sie? Then change the vowel. If not, keep the stem as it is. The endings are the normal ones you know.",
-     "lead": "You know sprechen and its vowel change. Next: the rule for which people get the change, so you can use the same pattern with other verbs too."
+     "lead": "You know sprechen and its vowel change. Next: the rule for which people get the change, so you can use the same pattern with other verbs too.",
+     "deeper": {
+      "text": "Why do only these forms change? The vowel change affects du and er/sie, and this is simply how the verbs developed. You can rely on it: for each verb on the list, the same two forms change. Notice that ihr keeps the e: ihr sprecht. So there is nothing new for ihr, wir and sie.",
+      "example": {
+       "de": "Ihr sprecht Spanisch.",
+       "en": "You speak Spanish.",
+       "parts": [
+        [
+         "Ihr",
+         "subject"
+        ],
+        [
+         "sprecht",
+         "verb"
+        ],
+        [
+         "Spanisch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "essen: e → i",
@@ -4454,7 +4993,28 @@
       ]
      },
      "more": "Say essen with du: essst? Too many s. German drops one: du isst. This is the same rule as du heißt and du tanzt: if the stem ends in an s sound, du gets only -t. So du isst and er isst are the same word. ihr is different: ihr esst, with the normal e, because ihr does not change the vowel.",
-     "lead": "You know when a vowel changes. On this card: essen, which means to eat and changes its vowel for two of the people, so you can say what you eat."
+     "lead": "You know when a vowel changes. On this card: essen, which means to eat and changes its vowel for two of the people, so you can say what you eat.",
+     "deeper": {
+      "text": "Here is a detail: du and er/sie have the same form, isst. Also ihr esst has the normal e, and wir essen has it too. So essen has only one i-form to remember, and it is spelled with a double s and a t. Say isst slowly: it sounds exactly like ist.",
+      "example": {
+       "de": "Ben isst Pizza.",
+       "en": "Ben eats pizza.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "isst",
+         "verb"
+        ],
+        [
+         "Pizza.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "treffen: e → i",
@@ -4551,7 +5111,28 @@
       ]
      },
      "more": "treffen has a hidden gear. Only du and er/sie shift it: e becomes i. Everyone else stays on e. Step 1: take the stem: treff-. Step 2: for du or er/sie change e to i: triff-. Step 3: add the tail: -st or -t. So du triffst, er trifft. Extra example: Wir treffen Ben. = We meet Ben.",
-     "lead": "You now know essen. Next: treffen, which means to meet and follows the same vowel change, so you can say who you meet."
+     "lead": "You now know essen. Next: treffen, which means to meet and follows the same vowel change, so you can say who you meet.",
+     "deeper": {
+      "text": "In English you can say I meet him, with no extra word. German is the same: treffen goes directly with a person. Ich treffe Ben, and no little word comes between. The double f stays in every form, so the verb keeps its sharp sound. Remember the vowel change: er trifft, du triffst.",
+      "example": {
+       "de": "Leon trifft Mira.",
+       "en": "Leon meets Mira.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "trifft",
+         "verb"
+        ],
+        [
+         "Mira.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "lesen and sehen: e → ie",
@@ -4655,7 +5236,28 @@
       ]
      },
      "more": "Two different changes happen here. First, e becomes ie: the stem lies- and sieh-. The ie is a long vowel sound, like the e in see. Second, with lesen the new stem lies- ends in an s sound, so du takes only -t: liest. With sehen the stem sieh- ends in h, so du takes normal -st: siehst. Just learn: du liest, du siehst, er liest, er sieht.",
-     "lead": "You have seen the i change twice. On this card: two verbs with a different vowel change, to read and to see, so you can tell the two changes apart."
+     "lead": "You have seen the i change twice. On this card: two verbs with a different vowel change, to read and to see, so you can tell the two changes apart.",
+     "deeper": {
+      "text": "The ie is a long vowel: it sounds like English ee. So liest sounds like leest, and siehst sounds like zeest. In sehen, the h belongs to the stem: sieh-. That is why du siehst and er sieht both keep it. It is easy to forget, so write down the full list at least once.",
+      "example": {
+       "de": "Ben liest viel.",
+       "en": "Ben reads a lot.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "liest",
+         "verb"
+        ],
+        [
+         "viel.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Spot it in 3 steps",
@@ -4726,7 +5328,28 @@
       "Du isst. Er liest."
      ],
      "more": "Use this like a checklist. Step 1: is the verb one of essen, treffen, lesen, sehen? If not, nothing special. Step 2: is it du or er/sie? If not, no change. Step 3: change the vowel, then add the tail. ich, wir, ihr and sie stay normal. Extra example: Du siehst Ben. = You see Ben.",
-     "lead": "You now know three groups of verbs. Last card of this lesson: three steps to spot which verbs change their vowel, so you can check a verb before you use it."
+     "lead": "You now know three groups of verbs. Last card of this lesson: three steps to spot which verbs change their vowel, so you can check a verb before you use it.",
+     "deeper": {
+      "text": "Good news: you only need to watch two forms. Ich, wir, ihr and sie/Sie never change their vowel, so you can write them without thinking. Then ask: is it du or er/sie? Only then check the list. That makes the whole task much smaller than it first looks.",
+      "example": {
+       "de": "Er sieht Anna.",
+       "en": "He sees Anna.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "sieht",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5359,7 +5982,32 @@
       ]
      },
      "more": "It is the same box idea as before. Only du and er/sie change. Before the change was e to i. Now it is a to ä. An umlaut is a vowel with two dots. Say ä like the e in bed. fährst sounds like 'fairst'. Find the umlaut in the table: it sits only in the du and er/sie rows. nach means to, and you use it with cities: nach Hamburg.",
-     "lead": "You can spot a vowel change now. Next: fahren, which means to drive, and a different vowel that changes for some people, so you can say where you drive."
+     "lead": "You can spot a vowel change now. Next: fahren, which means to drive, and a different vowel that changes for some people, so you can say where you drive.",
+     "deeper": {
+      "text": "Use nach before a city or a country when you go there: nach Wien, nach Hamburg. It means to, and it takes no article. Fahren fits any kind of vehicle trip: car, train or bus. The umlaut is pronounced like the e in bed. Ich fahre has no umlaut, because it is only du and er/sie.",
+      "example": {
+       "de": "Anna fährt nach Wien.",
+       "en": "Anna is travelling to Vienna.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "nach",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "schlafen: a → ä",
@@ -5456,7 +6104,28 @@
       ]
      },
      "more": "Same idea as fahren. For du and er/sie, a gets two little dots: a becomes ä. Think of a hat that only two persons wear. Step 1: stem: schlaf-. Step 2: for du or er/sie: schläf-. Step 3: add -st or -t. The others get no dots. Extra example: Er schläft gut. = He sleeps well.",
-     "lead": "You know fahren. On this card: schlafen, which means to sleep, and it follows the same change, so you can say how much you sleep."
+     "lead": "You know fahren. On this card: schlafen, which means to sleep, and it follows the same change, so you can say how much you sleep.",
+     "deeper": {
+      "text": "Pronunciation tip: the ä in schläfst is said like the e in bed. Practise it with a smile, because your mouth is open and wide. Note that the vowel changes only in du and er/sie, as before. A good sentence to remember is Ich schlafe, du schläfst, er schläft. Say it three times.",
+      "example": {
+       "de": "Leon schläft jetzt.",
+       "en": "Leon is sleeping now.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "schläft",
+         "verb"
+        ],
+        [
+         "jetzt.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The extra e: arbeiten, warten",
@@ -5560,7 +6229,28 @@
       ]
      },
      "more": "Try saying arbeitt out loud. You cannot. Two t sounds are stuck together. So German adds a small e to give your mouth a break: arbeitet. The same happens with warten: wartet. The extra e shows up in three places: du, er/sie and ihr. ich, wir and sie (they) have no problem, because their endings already start with a vowel.",
-     "lead": "You know two kinds of vowel change. Next: verbs whose stem gets an extra e, arbeiten and warten, so the endings are easier to say and to spell."
+     "lead": "You know two kinds of vowel change. Next: verbs whose stem gets an extra e, arbeiten and warten, so the endings are easier to say and to spell.",
+     "deeper": {
+      "text": "Why add an e? Because du arbeitst is almost impossible to say: the t and st crash together. The extra e makes a small gap, so you can speak easily. German often fixes sounds like this, so do not memorise it as a strange rule. Say the word aloud, and you will hear why it is needed.",
+      "example": {
+       "de": "Mira wartet hier.",
+       "en": "Mira is waiting here.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "wartet",
+         "verb"
+        ],
+        [
+         "hier.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "When do you need the extra e?",
@@ -5627,7 +6317,28 @@
       "wart + est = wartest"
      ],
      "more": "Say arbeitst out loud. The t and the st crash into each other. German adds a tiny e as a speed bump: arbeitest. Step 1: does the stem end in -t? (arbeit-, wart-) Step 2: is it du, er/sie or ihr? Then add e before the tail. ich, wir and sie get no extra e. Extra example: Du arbeitest hier. = You work here.",
-     "lead": "You have seen the extra e in arbeiten and warten. On this card: how to tell when a verb needs it, by looking at how its stem ends."
+     "lead": "You have seen the extra e in arbeiten and warten. On this card: how to tell when a verb needs it, by looking at how its stem ends.",
+     "deeper": {
+      "text": "The extra e appears in exactly three forms: du, er/sie and ihr. Compare essen: there, the stem already ends in an s sound, so du takes only -t. Here the stem ends in t and the e is added to help. So both rules solve a sound problem, just in different ways.",
+      "example": {
+       "de": "Du arbeitest hier.",
+       "en": "You work here.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "arbeitest",
+         "verb"
+        ],
+        [
+         "hier.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Jobs: Ich arbeite als …",
@@ -5716,7 +6427,32 @@
       ]
      },
      "more": "A job is like a name tag, so there is no little word for a in front. Ich bin Koch is enough. als means as. For a woman, add -in. Sometimes dots appear too: Arzt becomes Ärztin. Step 1: say the man's job. Step 2: for a woman add -in. Step 3: check for dots. Extra example: Mira arbeitet als Lehrerin. = Mira works as a teacher.",
-     "lead": "You can use arbeiten now. On this card: how to say what job you do, with als, and the job words for a man and a woman, so you can talk about work."
+     "lead": "You can use arbeiten now. On this card: how to say what job you do, with als, and the job words for a man and a woman, so you can talk about work.",
+     "deeper": {
+      "text": "Als means as, and it says in which role you work. Ich arbeite als Koch works like Ich bin Koch, but it feels more like a description of your work. Both are correct, and there is still no a before the job. For a woman, add -in, and some jobs also get an umlaut.",
+      "example": {
+       "de": "Mira arbeitet als Ärztin.",
+       "en": "Mira works as a doctor.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "arbeitet",
+         "verb"
+        ],
+        [
+         "als",
+         "preposition"
+        ],
+        [
+         "Ärztin.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Review: which change?",
@@ -5803,7 +6539,28 @@
       ]
      },
      "more": "Four switches. Each one only works for certain verbs. Step 1: is the verb on the list? Step 2: is it du or er/sie? Only they get the vowel change. Step 3: for stems ending in -t, add the extra e. ich, wir and sie stay normal. Extra example: Er fährt. Er arbeitet. = He drives. He works.",
-     "lead": "You have learned the patterns one by one. Last card of this lesson: all four changes side by side, so you can see which pattern each verb follows."
+     "lead": "You have learned the patterns one by one. Last card of this lesson: all four changes side by side, so you can see which pattern each verb follows.",
+     "deeper": {
+      "text": "The review gives you a simple map. The vowel changes touch du and er/sie only. The extra e touches du, er/sie and ihr. So the two lists never fight. Because no verb on this list does both, you only need to find the right group for each verb, then apply its pattern.",
+      "example": {
+       "de": "Er schläft viel.",
+       "en": "He sleeps a lot.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "schläft",
+         "verb"
+        ],
+        [
+         "viel.",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -6477,7 +7234,32 @@
       ]
      },
      "more": "Think of three coloured boxes: blue, red and green. Every noun lives in one box. The box has a little word on its lid: der (blue), die (red) or das (green). You cannot guess which box from the meaning. A table is blue, a lamp is red, a book is green. It is like a name tag. The easy way is to learn the tag with the noun. Do not learn Tisch. Learn der Tisch.",
-     "lead": "You now know the endings for many verbs. Next: nouns, the naming words, and the idea that each one belongs to a group, so you can learn their articles."
+     "lead": "You now know the endings for many verbs. Next: nouns, the naming words, and the idea that each one belongs to a group, so you can learn their articles.",
+     "deeper": {
+      "text": "Gender is a grammar group, not a real man or woman. A famous example: das Mädchen, the girl, is neuter. So the group has no link to real life. Do not look for logic: learn each noun together with its article. Then you will make fewer mistakes later.",
+      "example": {
+       "de": "Das Mädchen ist nett.",
+       "en": "The girl is nice.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Mädchen",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "der, die, das = the",
@@ -6560,7 +7342,32 @@
       "Das ist der Tisch."
      ],
      "more": "English has one tool for the: the. German has three buckets: der, die, das. Every noun lives in one bucket. You cannot see which one from outside, so learn the noun and its article together, like a name with a number. Step 1: say the noun. Step 2: put the article in front. Extra example: Das ist das Handy. = That is the phone.",
-     "lead": "You know that nouns have groups. On this card: the three words for the, and why you say the word with every noun, so you never leave it out."
+     "lead": "You know that nouns have groups. On this card: the three words for the, and why you say the word with every noun, so you never leave it out.",
+     "deeper": {
+      "text": "Always learn the article with the noun, as one piece: der Tisch, not just Tisch. The article is a little label you stick on the word. It also helps to say the pair out loud many times. Later, the article will change its form in other situations, and you will be glad you know the base.",
+      "example": {
+       "de": "Der Mann ist nett.",
+       "en": "The man is nice.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Mann",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say what something is like",
@@ -6655,7 +7462,32 @@
       ]
      ],
      "more": "Use three parts in order. Part 1: the noun with its article. Part 2: ist. Part 3: a describing word, like a sticker. It is the same pattern as Frau Weber ist nett in lesson 5. Step 1: der Tisch. Step 2: ist. Step 3: neu. Extra example: Die Lampe ist neu. = The lamp is new.",
-     "lead": "You can say the article with a noun. Next: how to describe a thing with ist and a short word like neu, so you can say what something is like."
+     "lead": "You can say the article with a noun. Next: how to describe a thing with ist and a short word like neu, so you can say what something is like.",
+     "deeper": {
+      "text": "Notice that the describing word does not change after ist. Neu stays neu for der Tisch, die Lampe and das Buch. That is useful: you only learn one form. So the gender affects the article and the pronoun, but it does not touch the describing word in this pattern.",
+      "example": {
+       "de": "Das Buch ist super.",
+       "en": "The book is great.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Buch",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "super.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Guess the gender: two tips",
@@ -6732,7 +7564,32 @@
       ]
      },
      "more": "These are detective clues for the gender. Clue 1: the end -in means a woman, so always die. Clue 2: the end -e is often die, but not always. Step 1: look at the end of the noun. Step 2: -in? die. Step 3: -e? Probably die, but check. Other endings: check in a list. Extra example: die Studentin = the student (woman).",
-     "lead": "You can describe things now. On this card: two clues that help you guess a noun's article before you check, so you can learn new words faster."
+     "lead": "You can describe things now. On this card: two clues that help you guess a noun's article before you check, so you can learn new words faster.",
+     "deeper": {
+      "text": "There are exceptions to the -e tip. For example, der Junge (the boy) ends in -e but is masculine, because a boy is male. So the tip is only a guide. Whenever you learn a noun, check its article in the dictionary and write it down. That habit will save you many mistakes.",
+      "example": {
+       "de": "Der Junge ist nett.",
+       "en": "The boy is nice.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Junge",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "er, sie, es: he, she, it",
@@ -6867,7 +7724,36 @@
       ]
      },
      "more": "In English you say it for every thing. German does not. It looks at the box the noun lives in. Blue box (der): er, which also means he. Red box (die): sie, which also means she. Green box (das): es. So der Tisch ist neu. Er ist super. means The table is new. It is super. Do not be surprised: a table is a he in German.",
-     "lead": "You can guess the article of a noun. Last card of this lesson: how er, sie and es stand in for things, using the same group as the noun, so you do not repeat the name."
+     "lead": "You can guess the article of a noun. Last card of this lesson: how er, sie and es stand in for things, using the same group as the noun, so you do not repeat the name.",
+     "deeper": {
+      "text": "English uses it for every thing, but German uses er, sie or es, depending on the gender. So a table is er, and a lamp is sie. It sounds odd at first, but it is a good way to practise the gender. Every time you say the pronoun, you check the noun again.",
+      "example": {
+       "de": "Das Handy? Es ist neu.",
+       "en": "The phone? It is new.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Handy?",
+         "noun"
+        ],
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -7545,7 +8431,32 @@
       ]
      },
      "more": "Imagine the three boxes from the last lesson: blue, red and green. When you have many things, they all go into one new box: the plural box. Its lid says die for everything. So der Tisch, die Lampe and das Buch all become die in the plural. The noun itself also changes at the end. And the verb changes: one thing is, many things are. ist becomes sind.",
-     "lead": "You know der, die and das for one thing. Next: what changes when there is more than one, and the word die you use for many things, so you can talk about several things."
+     "lead": "You know der, die and das for one thing. Next: what changes when there is more than one, and the word die you use for many things, so you can talk about several things.",
+     "deeper": {
+      "text": "The word die has two jobs: it is the feminine article, and it is the plural article for every noun. The verb tells you which one is meant. Die Lampe ist is one lamp, and die Lampen sind is many. So listen for ist or sind to know how many things there are.",
+      "example": {
+       "de": "Die Frauen sind nett.",
+       "en": "The women are nice.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Frauen",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural pattern 1: add -n or -en",
@@ -7622,7 +8533,32 @@
       ]
      },
      "more": "Plural just means more than one. Pattern 1 gives feminine nouns a tail. Step 1: does the noun end in -e? Add -n. Step 2: if not, add -en. Step 3: the article becomes die. Extra example: Das sind die Lampen. = Those are the lamps.",
-     "lead": "You know the plural word die. On this card: the first plural pattern, an ending of -n or -en, which many feminine nouns follow."
+     "lead": "You know the plural word die. On this card: the first plural pattern, an ending of -n or -en, which many feminine nouns follow.",
+     "deeper": {
+      "text": "Feminine nouns ending in -in double the n in the plural: die Lehrerin becomes die Lehrerinnen. That makes the ending -nen. It sounds like a small detail, but it is very regular, so it is easy to remember. The plural of die Studentin is die Studentinnen in the same way.",
+      "example": {
+       "de": "Die Lehrerinnen sind nett.",
+       "en": "The teachers are nice.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Lehrerinnen",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural pattern 2: add -e",
@@ -7699,7 +8635,36 @@
       ]
      },
      "more": "Many masculine nouns add -e. Sometimes dots appear on the vowel too, because it is easier to say. Step 1: is it a masculine noun from the list? Step 2: add -e. Step 3: some also get dots, so learn each one. The article becomes die. Extra example: Das sind die Tische. = Those are the tables.",
-     "lead": "You have one plural pattern. Next: a second one with -e, common for many masculine nouns, and the case where a vowel changes too."
+     "lead": "You have one plural pattern. Next: a second one with -e, common for many masculine nouns, and the case where a vowel changes too.",
+     "deeper": {
+      "text": "Not every word with -e gets an umlaut. Tisch becomes Tische with no change, but Stuhl becomes Stühle. So you cannot guess it: you learn the plural together with the noun. Still, the ending -e is very common for masculine words, so it is a good first guess when you are unsure.",
+      "example": {
+       "de": "Die Freunde sind in Berlin.",
+       "en": "The friends are in Berlin.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Freunde",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Berlin.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural pattern 3: add -er",
@@ -7776,7 +8741,32 @@
       ]
      },
      "more": "This pattern has two helpers: add -er, and put two dots on the vowel if it is a, o or u. Buch has a u, so Buch becomes Bücher. Mann has an a, so Mann becomes Männer. Kind has an i, and i never gets dots, so Kind becomes Kinder. Dots only go on a, o and u. Check the table: three nouns, three changes.",
-     "lead": "You know the -e plural. On this card: the -er plural, which some neuter nouns use, and the vowel change you need to watch for."
+     "lead": "You know the -e plural. On this card: the -er plural, which some neuter nouns use, and the vowel change you need to watch for.",
+     "deeper": {
+      "text": "Notice that the -er group gets an umlaut whenever it can: Buch becomes Bücher, and Mann becomes Männer. But Kind has an i, and i never takes an umlaut, so it is Kinder. Mann is a masculine exception, but it follows the same sound pattern. Say them aloud to hear the change.",
+      "example": {
+       "de": "Die Kinder sind müde.",
+       "en": "The children are tired.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Kinder",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural pattern 4: add -s",
@@ -7853,7 +8843,32 @@
       ]
      },
      "more": "Words that came from other languages often take -s, like in English: phones, cars. Step 1: is it a word from another language? Step 2: add -s. Step 3: the article becomes die. Extra example: Das sind die Autos. = Those are the cars.",
-     "lead": "You know three plural endings. Next: the -s plural, which mostly appears in words borrowed from other languages, so you can spot them quickly."
+     "lead": "You know three plural endings. Next: the -s plural, which mostly appears in words borrowed from other languages, so you can spot them quickly.",
+     "deeper": {
+      "text": "German does not use an apostrophe before the plural -s: it is Handys and Autos, never Handy's. That is a common error even among Germans. These -s words are mostly borrowed from other languages, which is why they look and sound a little different. They are easy to spot.",
+      "example": {
+       "de": "Die Autos sind neu.",
+       "en": "The cars are new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Autos",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural pattern 5: no change",
@@ -7930,7 +8945,32 @@
       ]
      },
      "more": "Some nouns need no tail, because they already end in -er. Nothing is added. Only the article changes: der becomes die. Step 1: does the noun end in -er? Step 2: keep the noun as it is. Step 3: change the article to die. Extra example: Die Lehrer sind nett. = The teachers are nice.",
-     "lead": "You have four plural endings. Next: nouns that stay the same in the plural, where only the article changes, so you know there is nothing to add."
+     "lead": "You have four plural endings. Next: nouns that stay the same in the plural, where only the article changes, so you know there is nothing to add.",
+     "deeper": {
+      "text": "Many nouns ending in -er stay the same in the plural. So only the article changes, and the verb sind shows the plural. If you hear Die Lehrer sind nett, you know it means many teachers, because the article is die and the verb is sind. Context is your helper here.",
+      "example": {
+       "de": "Die Computer sind neu.",
+       "en": "The computers are new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Computer",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Learn three things per noun",
@@ -8013,7 +9053,32 @@
       "Die Tische sind neu."
      ],
      "more": "Think of a contact in your phone: name, number, address. A noun also needs three things: article, singular and plural. There is no safe rule for the plural, so learn it with the noun. Step 1: learn der Tisch. Step 2: learn die Tische. Step 3: say both out loud. Extra example: das Auto, die Autos = the car, the cars.",
-     "lead": "You know five plural patterns. Last card of this lesson: why you learn three things for each noun, the article, the noun and its plural, so you never have to guess."
+     "lead": "You know five plural patterns. Last card of this lesson: why you learn three things for each noun, the article, the noun and its plural, so you never have to guess.",
+     "deeper": {
+      "text": "Dictionaries write the plural in short form: Tisch, -e means die Tische. Kind, -er means die Kinder. So when you look up a word, read this little ending right away, and copy it into your notes. It is the fastest way to build the habit of learning three things.",
+      "example": {
+       "de": "Die Bücher sind neu.",
+       "en": "The books are new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Bücher",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -8678,7 +9743,32 @@
       ]
      },
      "more": "Numbers 0 to 20 are Lego bricks. All bigger numbers are built from them. 0 to 12 are separate words, so learn them one by one. 13 to 19 are built: unit + zehn, like three-ten. Watch two changes: sechzehn loses the s, siebzehn loses the en. Step 1: learn 0 to 12. Step 2: build 13 to 19. Extra example: vierzehn = vier + zehn = 14.",
-     "lead": "You know how nouns and their plurals work. Next: the numbers from 0 to 20, which you need as the base for every bigger number."
+     "lead": "You know how nouns and their plurals work. Next: the numbers from 0 to 20, which you need as the base for every bigger number.",
+     "deeper": {
+      "text": "Look for the unusual ones: elf and zwölf have no pattern, so learn them by heart. After that, 13 to 19 follow a clear rule: the small number plus -zehn. Sechs and sieben get shorter in sechzehn and siebzehn. Say the rows aloud a few times, so that they become a song.",
+      "example": {
+       "de": "Anna hat elf Bücher.",
+       "en": "Anna has eleven books.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "elf",
+         "other"
+        ],
+        [
+         "Bücher.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The tens: 20, 30, 40 …",
@@ -8751,7 +9841,32 @@
       ]
      },
      "more": "Compare sechzehn (16) and sechzig (60). Both start with sech-. 16 has -zehn at the end. 60 has -zig. Same with siebzehn (17) and siebzig (70): siebzehn has -zehn, siebzig has -zig and the -en of sieben falls out. Listen for zehn (teen) or zig (ty). That is the same idea as English: sixteen and sixty. Say each pair out loud.",
-     "lead": "You know the numbers up to 20. On this card: the tens, 20, 30, 40 and so on, with a few tricky spellings to learn by heart."
+     "lead": "You know the numbers up to 20. On this card: the tens, 20, 30, 40 and so on, with a few tricky spellings to learn by heart.",
+     "deeper": {
+      "text": "German -zig works like English -ty: zwanzig is twenty, vierzig is forty. Many numbers also look alike in both languages, so you can often guess them. Drei and dreißig sound similar, and so do vier and vierzig. Notice that the stem is the small number, except for four odd ones: zwanzig, dreißig, sechzig and siebzig.",
+      "example": {
+       "de": "Ben hat vierzig Bücher.",
+       "en": "Ben has forty books.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "vierzig",
+         "other"
+        ],
+        [
+         "Bücher.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "21 to 99: say the one first",
@@ -8822,7 +9937,32 @@
       "fünfundvierzig"
      ],
      "more": "English says twenty-one: ten first. German says one-and-twenty: the one first, like in an old rhyme: four-and-twenty blackbirds. Build it from the end of the number backwards. 53: the 3 comes first, drei. Then und. Then the ten, fünfzig. Write it as one word: dreiundfünfzig. For 1 use ein, so 21 is einundzwanzig. Check: 47 is siebenundvierzig, not vierundsiebzig, which is 74.",
-     "lead": "You can say the tens now. Next: how to join a small number to a ten, such as 21 or 45, so you can say numbers up to 99 in one word."
+     "lead": "You can say the tens now. Next: how to join a small number to a ten, such as 21 or 45, so you can say numbers up to 99 in one word.",
+     "deeper": {
+      "text": "This order is hard at first, because it feels backwards. When you listen, wait for the whole word. Say 25 as five-and-twenty. This pattern is also common in older English: four-and-twenty. Prices and phone numbers use it all the time, so listening practice pays off.",
+      "example": {
+       "de": "Mira hat dreiundzwanzig Bücher.",
+       "en": "Mira has twenty-three books.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "dreiundzwanzig",
+         "other"
+        ],
+        [
+         "Bücher.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "100 and 1000",
@@ -8903,7 +10043,32 @@
       ]
      },
      "more": "Big numbers are glued into one long word, with no spaces. Step 1: say the big part first: hundert. Step 2: add the rest right after it. Step 3: write it as one word. Extra example: hundertzehn = hundert + zehn = 110.",
-     "lead": "You can count to 99. On this card: the words for 100 and 1000, and how a big number is written as one long word, so you can read prices and years."
+     "lead": "You can count to 99. On this card: the words for 100 and 1000, and how a big number is written as one long word, so you can read prices and years.",
+     "deeper": {
+      "text": "Do not say eins before hundert or tausend: just hundert, tausend. Write the big number as one long word, without spaces. This surprises English readers, because they expect spaces. If you slow down and read the parts, a long number is easy to understand. Try it: hundert plus fünf plus und plus zwanzig.",
+      "example": {
+       "de": "Wir haben hundert Bücher.",
+       "en": "We have a hundred books.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "hundert",
+         "other"
+        ],
+        [
+         "Bücher.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Age: Wie alt bist du?",
@@ -8998,7 +10163,36 @@
       ]
      ],
      "more": "Age uses sein, like in English: I am 25. German adds Jahre alt, years old, as a block. Step 1: ask Wie alt bist du? Step 2: answer Ich bin + number + Jahre alt. Never use haben for age. Extra example: Mira ist zwanzig Jahre alt. = Mira is 20 years old.",
-     "lead": "You can say big numbers now. Next: how to ask someone's age and answer it, with sein and the word Jahre, so you can say how old you are."
+     "lead": "You can say big numbers now. Next: how to ask someone's age and answer it, with sein and the word Jahre, so you can say how old you are.",
+     "deeper": {
+      "text": "You can drop Jahre alt in conversation: Ich bin fünfundzwanzig is fine and very common. Germans can also be a little shy about asking an adult for the age, so ask only people you know. The verb is sein, not haben: English also says am, so this one is easy.",
+      "example": {
+       "de": "Mira ist zwanzig Jahre alt.",
+       "en": "Mira is twenty years old.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "zwanzig",
+         "other"
+        ],
+        [
+         "Jahre",
+         "noun"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A form: what goes where",
@@ -9097,7 +10291,24 @@
       ]
      },
      "more": "A form is a set of labelled boxes. The label tells you which fact goes in. Step 1: read the label. Step 2: write that fact. (Vor = before, Nach = after: Vorname comes first, Nachname comes last.) Extra example: Beruf: Lehrerin = Job: teacher.",
-     "lead": "You can say your age now. Last card of this lesson: the labels on a German form, such as Vorname and Alter, so you know what to write in each box."
+     "lead": "You can say your age now. Last card of this lesson: the labels on a German form, such as Vorname and Alter, so you know what to write in each box.",
+     "deeper": {
+      "text": "German builds long words from small parts. Vorname is vor (before) plus Name, and Wohnort is wohn (live) plus Ort (place). Once you see the parts, long words become easy to read. On a form, you write a short answer after the label. Do not write a full sentence.",
+      "example": {
+       "de": "Wohnort: Wien",
+       "en": "Place of residence: Vienna",
+       "parts": [
+        [
+         "Wohnort:",
+         "other"
+        ],
+        [
+         "Wien",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

@@ -198,7 +198,32 @@
       ]
      },
      "more": "Think of Uhr as a little label stuck on the number, like o'clock in English. You say the number, then stick on Uhr. Step 1: Es ist. Step 2: the number, for example zehn. Step 3: Uhr. Es ist zehn Uhr. The label never gets a plural or an ending. Extra example: Es ist zwölf Uhr.",
-     "lead": "Your intro showed a friend asking when the film starts. This card gives the first way to ask and answer, so you can say the hour with Uhr and ask Wie spät ist es?"
+     "lead": "Your intro showed a friend asking when the film starts. This card gives the first way to ask and answer, so you can say the hour with Uhr and ask Wie spät ist es?",
+     "deeper": {
+      "text": "Uhr has a second job: die Uhr is also the clock or watch on the wall. So Uhr does two things. Wo ist die Uhr? asks about the object, and Es ist acht Uhr tells the time. The sentence around it makes the meaning clear. English o'clock is short for of the clock, so German and English are closer here than they look.",
+      "example": {
+       "de": "Wo ist die Uhr?",
+       "en": "Where is the clock?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Uhr?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Official time: the 24-hour clock",
@@ -291,7 +316,44 @@
       ]
      },
      "more": "A train timetable must be clear, so it uses one single way to say every time. No halves, no quarters. It is just two numbers with Uhr between them. Step 1: say the hour. Step 2: say Uhr. Step 3: say the minutes. Nothing at all after the minutes. 20:05 is zwanzig Uhr fünf. Extra example: 9:40 is neun Uhr vierzig.",
-     "lead": "You can now say the hour. Trains, cinemas and the radio use a longer clock that goes past twelve. This card shows how to read and say those times, so you can follow a timetable."
+     "lead": "You can now say the hour. Trains, cinemas and the radio use a longer clock that goes past twelve. This card shows how to read and say those times, so you can follow a timetable.",
+     "deeper": {
+      "text": "German says the 24-hour time almost like a phone number: hour, Uhr, minutes. The minutes are a normal number, so 20:05 is zwanzig Uhr fünf, not zero five. Midnight is null Uhr, and 0:30 is null Uhr dreißig. Train and radio announcements use this style all day, so it helps to practise hearing it.",
+      "example": {
+       "de": "Der Zug fährt um null Uhr dreißig.",
+       "en": "The train leaves at 12:30 at night.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Zug",
+         "noun"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "null",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "dreißig.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "After 12: subtract 12",
@@ -378,7 +440,32 @@
       "22 Uhr − 12 = 10"
      ],
      "more": "Imagine the day as two laps round a clock face. The second lap starts at 13. To find the small number, take away 12. Step 1: is the number bigger than 12? Step 2: subtract 12. Step 3: that is the time on a normal clock. 17 Uhr: 17 minus 12 is 5. So 5 in the afternoon. Extra example: 22 Uhr is 10 at night.",
-     "lead": "The long clock counts on after noon, so 15 or 20 looks strange at first. This card gives a quick way to turn those hours into the everyday ones you already know, with a few practice times."
+     "lead": "The long clock counts on after noon, so 15 or 20 looks strange at first. This card gives a quick way to turn those hours into the everyday ones you already know, with a few practice times.",
+     "deeper": {
+      "text": "Germans do not write a.m. or p.m. The 24-hour time already tells you the part of the day. Here is a quick trick for hearing it: 17 minus 12 is 5, so 17 Uhr is five in the afternoon. And 12 Uhr stays 12 (noon). Only the hours after 12 need your subtraction.",
+      "example": {
+       "de": "Es ist siebzehn Uhr.",
+       "en": "It is 5 in the afternoon (17:00).",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "siebzehn",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "um: at what time?",
@@ -489,7 +576,36 @@
       ]
      ],
      "more": "In English you say at 8 o'clock. German uses a little word for at: um. It goes right in front of the time. Step 1: say your sentence: Der Kurs beginnt. Step 2: add um. Step 3: add the time: um neun Uhr. Never leave um out. Extra example: Der Bus fährt um sieben Uhr.",
-     "lead": "You know am for days. This card brings in um, the small word for a clock time, so you can ask when something starts and answer with a time like um zwanzig Uhr."
+     "lead": "You know am for days. This card brings in um, the small word for a clock time, so you can ask when something starts and answer with a time like um zwanzig Uhr.",
+     "deeper": {
+      "text": "um is the small word for a point in time, like at in English: at eight o'clock. German um is only for clock times. Days get a different word, which you meet in lesson 3. So when someone asks Wann? about an hour, the answer starts with um. Put um right before the number.",
+      "example": {
+       "de": "Wir essen um zwölf Uhr.",
+       "en": "We eat at twelve o'clock.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "essen",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "zwölf",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Start with the time: the verb stays second",
@@ -583,7 +699,36 @@
       ]
      },
      "more": "You know this from chapter 2: am Montag spiele ich Tennis. The time can lead, but the verb never gives up its second chair. Step 1: count the parts. Step 2: the time is one part, so it fills chair 1. Step 3: the verb takes chair 2. Step 4: the subject takes chair 3. Extra example: Um sieben Uhr frühstücke ich.",
-     "lead": "You can say um neun Uhr, but the time is not always first. This card shows what happens to the sentence when the time moves to the front, so the verb stays in the right place."
+     "lead": "You can say um neun Uhr, but the time is not always first. This card shows what happens to the sentence when the time moves to the front, so the verb stays in the right place.",
+     "deeper": {
+      "text": "Think of the verb as an anchor: whatever stands first, the verb comes next. That is why German can move the time forward to put it in the spotlight. The meaning stays the same, only the focus changes. English can do this too (At nine, the course starts), but German does it far more often.",
+      "example": {
+       "de": "Um zwölf Uhr essen wir.",
+       "en": "At twelve o'clock we eat.",
+       "parts": [
+        [
+         "Um",
+         "preposition"
+        ],
+        [
+         "zwölf",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "essen",
+         "verb"
+        ],
+        [
+         "wir.",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Start, end, last: beginnen, enden, dauern",
@@ -680,7 +825,36 @@
       ]
      },
      "more": "Every event has three questions. When does it start? When does it end? How long does it last? Step 1: beginnen answers the first one. Step 2: enden answers the second. Step 3: dauern answers the third, and no um is needed, because it is not a clock time. Remember the extra e from chapter 2: er endet. Extra example: Der Kurs dauert eine Stunde.",
-     "lead": "So far you have one time at a time. Now you can say when a course starts, ends and how long it lasts. This card gives three verbs for those three questions, so you can describe any event."
+     "lead": "So far you have one time at a time. Now you can say when a course starts, ends and how long it lasts. This card gives three verbs for those three questions, so you can describe any event.",
+     "deeper": {
+      "text": "Why endet and not endt? The stem is end-, and er endt is hard to say. So German slips in an extra e to help you speak: er endet. The same happens with arbeiten: er arbeitet. For one hour say eine Stunde (feminine eine). For more than one say zwei Stunden, with the plural.",
+      "example": {
+       "de": "Der Kurs dauert eine Stunde.",
+       "en": "The course lasts one hour.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Kurs",
+         "noun"
+        ],
+        [
+         "dauert",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Stunde.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1395,7 +1569,36 @@
       ]
      },
      "more": "English does the same: five past three, ten to three. Look at the clock face. The minute hand has passed the hour: use nach. The minute hand has not reached the next hour yet: use vor. Step 1: say the minutes. Step 2: choose nach or vor. Step 3: say the hour you are near. Extra example: zwanzig nach acht is 8:20.",
-     "lead": "The official clock is for trains, but friends use a shorter way. This card gives the everyday words for minutes past and minutes to the hour, so you can say the time the way people talk."
+     "lead": "The official clock is for trains, but friends use a shorter way. This card gives the everyday words for minutes past and minutes to the hour, so you can say the time the way people talk.",
+     "deeper": {
+      "text": "Picture a clock face: the minute hand moves past the hour (nach) and then towards the next hour (vor). Use nach for the first minutes after the hour and vor for the minutes before the next one. Fun fact: fünf vor zwölf also means almost too late, like five minutes to midnight in English.",
+      "example": {
+       "de": "Es ist fünf vor zwölf.",
+       "en": "It is five to twelve.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "fünf",
+         "time"
+        ],
+        [
+         "vor",
+         "time"
+        ],
+        [
+         "zwölf.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Viertel nach and Viertel vor",
@@ -1490,7 +1693,36 @@
       "7:45 → Viertel vor acht"
      ],
      "more": "A pizza cut in four: one slice is a Viertel, a quarter. A quarter of an hour is 15 minutes. So Viertel nach is fifteen minutes after, and Viertel vor is fifteen minutes before. Step 1: 15 minutes past the hour? Viertel nach. Step 2: 15 minutes before the next hour? Viertel vor. Step 3: add the hour. Extra example: Viertel nach neun is 9:15.",
-     "lead": "Friends also round the time to quarters. You just learned the minute words, and this card adds the quarter-hour pattern, so a quarter past and a quarter to sound natural in conversation."
+     "lead": "Friends also round the time to quarters. You just learned the minute words, and this card adds the quarter-hour pattern, so a quarter past and a quarter to sound natural in conversation.",
+     "deeper": {
+      "text": "Viertel is a real noun: das Viertel means the quarter. That is why it needs no number before it. One thing to know: in parts of Germany people say Viertel drei for 2:15. That looks odd to a learner. For now, only use Viertel nach and Viertel vor, which everyone understands.",
+      "example": {
+       "de": "Es ist Viertel nach zwölf.",
+       "en": "It is a quarter past twelve.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Viertel",
+         "time"
+        ],
+        [
+         "nach",
+         "time"
+        ],
+        [
+         "zwölf.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "halb: half way to the next hour",
@@ -1601,7 +1833,32 @@
       ]
      },
      "more": "English says half past two: you look back at two. German looks forward: half way to three. That is why German says halb drei for 2:30. Step 1: it is 2:30. Step 2: which hour comes next? Three. Step 3: say halb and that hour: halb drei. Always add one to the hour you see. Extra example: 6:30 is halb sieben.",
-     "lead": "Watch out for halb, the trap that catches most learners. This card shows how to read it, so you can hear a time like halb drei and know exactly what hour it is."
+     "lead": "Watch out for halb, the trap that catches most learners. This card shows how to read it, so you can hear a time like halb drei and know exactly what hour it is.",
+     "deeper": {
+      "text": "English half past two looks back to the hour that has gone. German halb drei looks forward to the hour that is coming: half way to three. Memory trick: halb + the coming hour. One small detail: without Uhr, 1 is eins, so 12:30 is halb eins. It is an easy mistake to make, and one that can make you miss a meeting.",
+      "example": {
+       "de": "Es ist halb eins.",
+       "en": "It is half past twelve.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "halb",
+         "time"
+        ],
+        [
+         "eins.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "kurz nach, kurz vor, genau",
@@ -1718,7 +1975,36 @@
       ]
      },
      "more": "Imagine a friend asks the time. You glance at the clock: 3:02. You do not say drei Uhr zwei. You say kurz nach drei, just after three. Step 1: look at the clock. Step 2: is it a few minutes past or before? Step 3: say kurz nach or kurz vor and the hour. If it is perfect, say genau. Extra example: Es ist genau zwölf Uhr.",
-     "lead": "After the halb trap, here is a gentler step. This card gives words for times that are close but not exact, and for an exact time, so you can sound relaxed and precise."
+     "lead": "After the halb trap, here is a gentler step. This card gives words for times that are close but not exact, and for an exact time, so you can sound relaxed and precise.",
+     "deeper": {
+      "text": "kurz means short, so kurz nach is a short time after. This is how people really talk: Es ist kurz vor zehn. Another handy word is ungefähr (about, roughly). It tells the listener that you are not exact. Real clocks are hardly ever exact, so these small words are very natural.",
+      "example": {
+       "de": "Es ist ungefähr halb zehn.",
+       "en": "It is about half past nine.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ungefähr",
+         "other"
+        ],
+        [
+         "halb",
+         "time"
+        ],
+        [
+         "zehn.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Two ways to say the same time",
@@ -1828,7 +2114,44 @@
       ]
      },
      "more": "It is like a formal and a casual way of speaking. A bus driver on the loudspeaker is formal. Your friend at the door is casual. Step 1: timetable or office? Use hour + Uhr + minutes. Step 2: friends or family? Use halb, Viertel, nach and vor. Step 3: after 12 Uhr, official time uses 13 to 24, everyday uses 1 to 12. Extra example: 18:15 is also Viertel nach sechs.",
-     "lead": "You now know the official clock for trains and the everyday words for friends. This card puts both side by side, so you can say the same time either way and understand both."
+     "lead": "You now know the official clock for trains and the everyday words for friends. This card puts both side by side, so you can say the same time either way and understand both.",
+     "deeper": {
+      "text": "Think about who is listening. Official time is exact and avoids mix-ups, so it never uses halb. Everyday time sounds warm and natural. If you are not sure at a station or ticket office, ask for the official time and repeat it: Vierzehn Uhr dreißig? Nobody is offended when you check.",
+      "example": {
+       "de": "Das Kino beginnt um neunzehn Uhr fünfzehn.",
+       "en": "The cinema starts at 19:15.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Kino",
+         "noun"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "neunzehn",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "fünfzehn.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "um + everyday time",
@@ -1939,7 +2262,36 @@
       ]
      ],
      "more": "um is the little at word. You use it in front of any clock time, official or everyday. Step 1: write the sentence: Der Kurs beginnt. Step 2: add um. Step 3: add the everyday time: halb neun. If the time goes first, the verb stays second, and the subject comes after it. Extra example: Um halb sieben esse ich.",
-     "lead": "The card before gave you two ways to say a time. This card lets you use the friendly times after um, so you can say when you will meet a friend or eat together."
+     "lead": "The card before gave you two ways to say a time. This card lets you use the friendly times after um, so you can say when you will meet a friend or eat together.",
+     "deeper": {
+      "text": "Notice the difference between telling the time and saying at what time. Es ist halb drei needs no um: it is just a fact. Um halb drei means at half past two and needs um. English does the same: it is half past two, but at half past two. Ask yourself: is it a fact or an appointment?",
+      "example": {
+       "de": "Ben kommt um halb sechs.",
+       "en": "Ben is coming at half past five.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "halb",
+         "time"
+        ],
+        [
+         "sechs.",
+         "time"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2640,7 +2992,48 @@
       ]
      },
      "more": "Think of two shelves. The shelf for days has the label am. The shelf for clock times has the label um. Step 1: what is the time word? Step 2: Monday, Tuesday, Sunday: shelf am. Step 3: eight o'clock, half past two: shelf um. You can use both in one sentence. Extra example: Am Freitag beginnt der Film um zwanzig Uhr.",
-     "lead": "You have met am with days and um with clock times. This card is about picking the right word each time, so you can say when a course starts on Monday or at eight."
+     "lead": "You have met am with days and um with clock times. This card is about picking the right word each time, so you can say when a course starts on Monday or at eight.",
+     "deeper": {
+      "text": "Here is a quick test. Can you put a clock on it? Then use um. Is it a day name? Then use am. When both are in one sentence, the day usually comes first and the clock time second: am Montag um acht Uhr. English uses at for both, so this is a small new habit.",
+      "example": {
+       "de": "Ich lerne am Dienstag um zehn Uhr Deutsch.",
+       "en": "I learn German on Tuesday at ten o'clock.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "lerne",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Dienstag",
+         "time"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "zehn",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Parts of the day",
@@ -2752,7 +3145,32 @@
       ]
      },
      "more": "Your day has slices, like a cake. Morning, then late morning, then noon, then afternoon, then evening. Every slice gets am. Night is the odd one: in der Nacht. Why der? That comes later. Learn it as one piece. Step 1: pick the slice. Step 2: put am in front. Step 3: the verb stays second. Extra example: Am Abend koche ich.",
-     "lead": "Days have parts too: morning, afternoon, evening and night. This card gives the German names for those parts, so you can say what you do in the morning or at night."
+     "lead": "Days have parts too: morning, afternoon, evening and night. This card gives the German names for those parts, so you can say what you do in the morning or at night.",
+     "deeper": {
+      "text": "Look at the capital letter. der Morgen (the morning) has a capital M. But morgen with a small m means tomorrow. German notices these small differences. Same spelling, different job. Also remember: Morgen, Abend and the rest go with am, but night is the exception: in der Nacht.",
+      "example": {
+       "de": "Morgen lerne ich Deutsch.",
+       "en": "Tomorrow I learn German.",
+       "parts": [
+        [
+         "Morgen",
+         "time"
+        ],
+        [
+         "lerne",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "von … bis: from … to",
@@ -2903,7 +3321,36 @@
       ]
      ],
      "more": "A bridge needs two ends. von is the start end, bis is the finish end. Step 1: say the start time. Step 2: put von in front of it. Step 3: say the end time with bis in front. Step 4: finish with Uhr. You can also use von … bis with days: von Montag bis Freitag. Extra example: Ich lerne von zehn bis zwölf Uhr.",
-     "lead": "So far every time has been a single point. This card joins two times into one stretch, so you can say the hours when a shop or a course is running."
+     "lead": "So far every time has been a single point. This card joins two times into one stretch, so you can say the hours when a shop or a course is running.",
+     "deeper": {
+      "text": "bis means until and can stand alone. Ich arbeite bis sechzehn Uhr means I work until four in the afternoon. You can leave out von when the start is not important. With von … bis you give both the start and the end. Use bis alone when only the end matters.",
+      "example": {
+       "de": "Ich arbeite bis sechzehn Uhr.",
+       "en": "I work until 16:00.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "arbeite",
+         "verb"
+        ],
+        [
+         "bis",
+         "preposition"
+        ],
+        [
+         "sechzehn",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Day + time + von … bis: the word order",
@@ -3044,7 +3491,52 @@
       ]
      },
      "more": "Imagine three chairs again. Chair 2 is always for the verb. Chair 1 and the rest can be swapped. Step 1: put the verb in chair 2. Step 2: choose what sits in chair 1: the day, or ich. Step 3: add everything else after. The meaning stays the same, only the focus changes. Extra example: Am Dienstag koche ich von sechs bis sieben Uhr.",
-     "lead": "You just joined two times with von and bis. Now the question is where the day, the subject and the stretch of time go in the sentence. This card shows the two shapes you can use."
+     "lead": "You just joined two times with von and bis. Now the question is where the day, the subject and the stretch of time go in the sentence. This card shows the two shapes you can use.",
+     "deeper": {
+      "text": "Chair 1 can hold only one block of information: either Am Montag or Am Abend, never two. So you cannot say Am Montag ich arbeite, because the verb has to be second. If you want to say more, move the other parts behind the verb. That is the whole trick.",
+      "example": {
+       "de": "Am Abend lerne ich von sieben bis acht Uhr.",
+       "en": "In the evening I learn from seven to eight.",
+       "parts": [
+        [
+         "Am",
+         "preposition"
+        ],
+        [
+         "Abend",
+         "time"
+        ],
+        [
+         "lerne",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "von",
+         "preposition"
+        ],
+        [
+         "sieben",
+         "time"
+        ],
+        [
+         "bis",
+         "preposition"
+        ],
+        [
+         "acht",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask: Wie lange? Von wann bis wann?",
@@ -3129,7 +3621,36 @@
       ]
      },
      "more": "Three useful questions. When: Wann? A moment in time. How long: Wie lange? A length of time. From when to when: Von wann bis wann? Start and end. Step 1: pick the question that fits what you want to know. Step 2: the verb is part 2, always. Step 3: answer with um, von … bis or a number of Stunden. Extra example: Wann beginnt der Kurs? Um acht Uhr.",
-     "lead": "Now you can say a stretch of time, so you need to ask about it. This card gives two questions, one for how long and one for from when to when, so you can ask about a course."
+     "lead": "Now you can say a stretch of time, so you need to ask about it. This card gives two questions, one for how long and one for from when to when, so you can ask about a course.",
+     "deeper": {
+      "text": "wie lange is wie (how) + lange (long). English uses the same two words: how long. It works for any length of time, not just for Uhr. Answer with a number and Stunde or Stunden. Wie lange? asks about the length, and Von wann bis wann? asks for the start and the end.",
+      "example": {
+       "de": "Wie lange lernst du Deutsch?",
+       "en": "How long do you study German?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "lange",
+         "question"
+        ],
+        [
+         "lernst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Deutsch?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Opening hours: offen and geschlossen",
@@ -3223,7 +3744,40 @@
       "Am Sonntag ist das Café geschlossen."
      ],
      "more": "A shop sign says Offen or Geschlossen. It is just sein + an adjective, like groß or schön in chapter 3. No ending. Step 1: pick the place. Step 2: sein: ist. Step 3: add the times. Step 4: end with offen or geschlossen. Extra example: Die Bank ist von neun bis sechzehn Uhr offen.",
-     "lead": "Shops and cafés show their opening hours on the door. This card gives two small words for open and closed, so you can read the sign and say when a place is open."
+     "lead": "Shops and cafés show their opening hours on the door. This card gives two small words for open and closed, so you can read the sign and say when a place is open.",
+     "deeper": {
+      "text": "Öffnungszeiten is a long word, but it is only two small words glued together: Öffnung (opening) + s + Zeiten (times). German often makes long words like this. When you meet a long word, look for the pieces. Then the word is much easier to understand.",
+      "example": {
+       "de": "Das Café ist am Montag geschlossen.",
+       "en": "The café is closed on Monday.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Café",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Montag",
+         "time"
+        ],
+        [
+         "geschlossen.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Home and work: nach Hause, zu Hause",
@@ -3323,7 +3877,32 @@
       ]
      },
      "more": "Two small pieces to remember. nach Hause answers where to? You move. zu Hause answers where? You stay. Step 1: do you move? Use nach Hause with gehen or fahren. Step 2: do you stay? Use zu Hause with sein. Do not change the words for now. Extra example: Ich fahre um achtzehn Uhr nach Hause.",
-     "lead": "You can now say when places are open. Home is the place you go most often. This card gives two chunks, one for going home and one for being at home, so you can talk about your evening."
+     "lead": "You can now say when places are open. Home is the place you go most often. This card gives two chunks, one for going home and one for being at home, so you can talk about your evening.",
+     "deeper": {
+      "text": "Hause is an old form of Haus that survives only in these two chunks. You do not need to understand why. Just learn the chunks. English works the same: you say go home, not go to home. Both chunks are very common, so you will use them every day.",
+      "example": {
+       "de": "Mira kocht zu Hause.",
+       "en": "Mira cooks at home.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "kocht",
+         "verb"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause.",
+         "place"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4058,7 +4637,32 @@
       ]
      },
      "more": "Family words are nouns like any others. Each one has a gender and a plural. Step 1: learn the article: der Vater, die Mutter. Step 2: learn that Eltern is always plural, like scissors in English. Step 3: for many things you say sind, not ist. Extra example: Die Eltern sind nett.",
-     "lead": "You already say what you have, like a dog or a coffee. This card gives the first family words, father, mother and parents together, so you can name the people closest to you."
+     "lead": "You already say what you have, like a dog or a coffee. This card gives the first family words, father, mother and parents together, so you can name the people closest to you.",
+     "deeper": {
+      "text": "Many family words get an Umlaut in the plural: Vater → Väter, Mutter → Mütter. The two dots are part of the plural, so you can hear it. And remember that Eltern is always plural: say meine Eltern, never a single Eltern. When you learn a family word, learn its plural at the same time.",
+      "example": {
+       "de": "Wo sind die Mütter?",
+       "en": "Where are the mothers?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Mütter?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Brother, sister, siblings",
@@ -4155,7 +4759,32 @@
       ]
      },
      "more": "German has a word for brothers and sisters together. English uses siblings, which is rare. German Geschwister is normal. Step 1: one boy: der Bruder. Step 2: one girl: die Schwester. Step 3: both together: die Geschwister. Step 4: haben takes an object, so Bruder is masculine and becomes einen. Extra example: Ich habe zwei Brüder.",
-     "lead": "You just met the parents. Next come the brothers and sisters. This card gives the words for each one and for both together, so you can say how many siblings you have."
+     "lead": "You just met the parents. Next come the brothers and sisters. This card gives the words for each one and for both together, so you can say how many siblings you have.",
+     "deeper": {
+      "text": "Geschwister has no everyday singular: it always means a group of brothers and sisters. For one person say Bruder or Schwester. That is why Hast du Geschwister? is the natural question. Compare the plurals: die Brüder (with Umlaut) and die Schwestern (with -n).",
+      "example": {
+       "de": "Ich habe zwei Schwestern.",
+       "en": "I have two sisters.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "zwei",
+         "other"
+        ],
+        [
+         "Schwestern.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Son, daughter, child",
@@ -4256,7 +4885,48 @@
       ]
      },
      "more": "A family tree has three levels: parents, you and your siblings, and children. Step 1: son: der Sohn, plural die Söhne. Step 2: daughter: die Tochter, plural die Töchter. Step 3: child: das Kind, plural die Kinder. Step 4: remember the accusative rule from chapter 4: only the masculine takes einen. Extra example: Herr Ali hat zwei Kinder.",
-     "lead": "After siblings, the next generation is children. This card gives the words for son, daughter and child, plus the word for family, so you can say who has a child."
+     "lead": "After siblings, the next generation is children. This card gives the words for son, daughter and child, plus the word for family, so you can say who has a child.",
+     "deeper": {
+      "text": "Tochter takes an Umlaut in the plural, just like Mutter: die Töchter. Sohn adds an Umlaut and -e: die Söhne. Kind adds -er: die Kinder. There is no single rule for family plurals, so learn each word with its plural. In the plural all three use die.",
+      "example": {
+       "de": "Herr Ali hat zwei Söhne und eine Tochter.",
+       "en": "Herr Ali has two sons and a daughter.",
+       "parts": [
+        [
+         "Herr",
+         "subject"
+        ],
+        [
+         "Ali",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "zwei",
+         "other"
+        ],
+        [
+         "Söhne",
+         "noun"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Tochter.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Grandparents: Großvater, Großmutter",
@@ -4340,7 +5010,48 @@
       ]
      },
      "more": "You can build long German words from small ones. groß means big, and Vater means father. So Großvater is big father. Step 1: Großvater = groß + Vater. Step 2: Großmutter = groß + Mutter. Step 3: the last part gives the gender: der Vater, so der Großvater. In the family: Opa and Oma. Extra example: Oma kocht Suppe.",
-     "lead": "The family tree goes up one more step. This card names the grandparents and the friendly words you use at home, so you can talk about your grandparents warmly."
+     "lead": "The family tree goes up one more step. This card names the grandparents and the friendly words you use at home, so you can talk about your grandparents warmly.",
+     "deeper": {
+      "text": "Groß means big, so Großvater is a big father: one step up the family tree. Add one more step and you get Urgroßvater, the great-grandfather. German builds family words like blocks. That makes them easy to guess. And in speech people say Opa and Oma, just like English grandpa and grandma.",
+      "example": {
+       "de": "Der Opa und die Oma sind zu Hause.",
+       "en": "Grandpa and grandma are at home.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Opa",
+         "noun"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Oma",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ich habe …: family and the accusative",
@@ -4442,7 +5153,32 @@
       ]
      },
      "more": "This is the same rule you used for food in chapter 4. Only the masculine changes. Step 1: do you have it? Use ein-form: einen Bruder, eine Schwester, ein Kind. Step 2: do you not have it? Use kein-form: keinen Bruder, keine Schwester, kein Kind. Step 3: many of them? No article, or keine. Extra example: Ich habe zwei Kinder.",
-     "lead": "You now know many family words. This card shows the small change that comes after ich habe, so you can say I have a brother or I have no sister."
+     "lead": "You now know many family words. This card shows the small change that comes after ich habe, so you can say I have a brother or I have no sister.",
+     "deeper": {
+      "text": "In the plural there is no ein. For many things you say nothing: Ich habe Geschwister. With a number, use the number: zwei Söhne. To say none, use keine for any plural, even with Brüder: keine Brüder. This is the same ending as feminine keine. So the plural of kein is simply keine.",
+      "example": {
+       "de": "Mira hat keine Brüder.",
+       "en": "Mira has no brothers.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "keine",
+         "article"
+        ],
+        [
+         "Brüder.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask: Hast du Geschwister? Wie viele?",
@@ -4517,7 +5253,40 @@
       "Ich habe zwei Kinder."
      ],
      "more": "The conversation has two steps. First a yes/no question to start. Then how many, to learn more. Step 1: Hast du Geschwister? Step 2: Ja, ich habe eine Schwester. Step 3: Wie viele Kinder hast du? Step 4: Ich habe zwei Kinder. The verb is always in chair 2 in a W-question. Extra example: Wie viele Brüder hast du?",
-     "lead": "You can say what you have. Now you can ask a friend the same thing. This card gives a yes or no question and a how-many question, so you can find out about someone's family."
+     "lead": "You can say what you have. Now you can ask a friend the same thing. This card gives a yes or no question and a how-many question, so you can find out about someone's family.",
+     "deeper": {
+      "text": "Wie viele asks for a number of things that you can count, so the noun after it is plural: Wie viele Brüder hast du? Even if the answer is one. Do not use wie viel for countable things. Wie viel is for amounts you cannot count, like Zeit (time). So with family: always wie viele + plural.",
+      "example": {
+       "de": "Wie viele Kinder hat Frau Weber?",
+       "en": "How many children does Frau Weber have?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "viele",
+         "question"
+        ],
+        [
+         "Kinder",
+         "noun"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "Frau",
+         "subject"
+        ],
+        [
+         "Weber?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Tell about a person: er, sie",
@@ -4654,7 +5423,28 @@
       ]
      },
      "more": "In German, he, she and it follow the noun's gender. Step 1: look at the noun: Bruder is der, so er. Step 2: Schwester is die, so sie. Step 3: Kind is das, so es. Step 4: the verb ending follows: er heißt, sie ist, es ist. Extra example: Ich habe einen Sohn. Er ist fünf Jahre alt.",
-     "lead": "You can name your family members. This card helps you talk about one person at a time, so you can say what a brother is called and how old a child is."
+     "lead": "You can name your family members. This card helps you talk about one person at a time, so you can say what a brother is called and how old a child is.",
+     "deeper": {
+      "text": "When you tell a story, use er, sie or es instead of the name again. German picks the pronoun by the grammatical gender of the noun, not by what it is in real life. Das Kind is neuter, so you say es, even for a girl. This is how German works, so just follow the noun.",
+      "example": {
+       "de": "Es spielt gern.",
+       "en": "It (the child) likes to play.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "spielt",
+         "verb"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5373,7 +6163,32 @@
       ]
      },
      "more": "Words like my and your show who owns something. In German they are tiny words in front of the noun, just like ein. mein belongs to ich, because ich = I, my. dein belongs to du, because du = you, your. Step 1: who owns it? Me: mein. You: dein. Step 2: put it before the noun. Extra example: Das ist mein Auto.",
-     "lead": "Now you can say who has what. This card gives the words for my and your, so you can point at your friend's phone and say whose it is."
+     "lead": "Now you can say who has what. This card gives the words for my and your, so you can point at your friend's phone and say whose it is.",
+     "deeper": {
+      "text": "The English phrase my book needs no ending. In German mein works like ein, so it has endings. Also, dein is only for du, that means a friend or a family member. To a teacher or a stranger you will say Ihr, which you learn in lesson 6. So the owner word depends on who you talk to.",
+      "example": {
+       "de": "Hast du dein Handy?",
+       "en": "Do you have your phone?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "dein",
+         "article"
+        ],
+        [
+         "Handy?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Same endings as ein and kein",
@@ -5482,7 +6297,32 @@
       ]
      },
      "more": "You already know this pattern from kein: kein Bruder, keine Schwester, kein Kind, keine Eltern. mein works the same way, because mein is also an ein-word. Step 1: find the noun's gender. Step 2: masculine or neuter: mein. Step 3: feminine or plural: meine. Step 4: for dein, change m to d. Extra example: Das ist deine Mutter.",
-     "lead": "You know the endings from ein and kein. This card shows the endings that mein and dein take, so you can pick the right form for each noun without learning new endings."
+     "lead": "You know the endings from ein and kein. This card shows the endings that mein and dein take, so you can pick the right form for each noun without learning new endings.",
+     "deeper": {
+      "text": "Here is a good memory trick: if you know ein, you already know mein. ein Bruder → mein Bruder, eine Schwester → meine Schwester. The one thing to notice is the plural. ein has no plural, but mein does: meine. So there is only one real new thing in this lesson, and that is meine for the plural.",
+      "example": {
+       "de": "Das sind meine Geschwister.",
+       "en": "Those are my brothers and sisters.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "meine",
+         "article"
+        ],
+        [
+         "Geschwister.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The accusative: meinen, deinen",
@@ -5584,7 +6424,32 @@
       ]
      },
      "more": "Same rule as ein: only the masculine word gets -en when it is the object. Step 1: is the noun the object, the thing the verb acts on? Step 2: is it masculine? Add -en: meinen. Step 3: feminine, neuter, plural: nothing changes. Say it out loud: ein Bruder, einen Bruder, mein Bruder, meinen Bruder. Extra example: Ich habe deinen Stift.",
-     "lead": "You met the object form with ein and der. This card brings it into the owner words, so you can say what you need or see when the thing is the object of the sentence."
+     "lead": "You met the object form with ein and der. This card brings it into the owner words, so you can say what you need or see when the thing is the object of the sentence.",
+     "deeper": {
+      "text": "Just like einen, meinen only shows up for masculine objects. It is easy to forget, because Vater and Bruder do not look different. A quick test: if you can say einen, you say meinen or deinen. For feminine words, nothing changes. For neuter words, nothing changes.",
+      "example": {
+       "de": "Ich treffe deinen Vater.",
+       "en": "I meet your father.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "treffe",
+         "verb"
+        ],
+        [
+         "deinen",
+         "article"
+        ],
+        [
+         "Vater.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural: meine, deine",
@@ -5667,7 +6532,32 @@
       "same word, same form"
      ],
      "more": "A plural noun always acts like a die-word. In the nominative and in the accusative the form is meine. Step 1: is the noun plural? Step 2: use meine or deine. Step 3: no extra ending, because nothing changes for the object. You will see Bücher: it is the plural of das Buch, with an umlaut and -er. Extra example: Meine Geschwister sind nett.",
-     "lead": "A friend has many things, not just one. This card covers the plural forms of my and your, so you can talk about your parents or your books."
+     "lead": "A friend has many things, not just one. This card covers the plural forms of my and your, so you can talk about your parents or your books.",
+     "deeper": {
+      "text": "The plural is easier than the singular because there is no gender. All plural nouns use the same form: die, meine, deine. So you learn one form instead of three. The plural noun itself often changes (Eltern, Bücher), but the owner word stays meine. So the plural helps you.",
+      "example": {
+       "de": "Wo sind deine Eltern?",
+       "en": "Where are your parents?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "deine",
+         "article"
+        ],
+        [
+         "Eltern?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Owner picks the word, noun picks the ending",
@@ -5769,7 +6659,32 @@
       ]
      },
      "more": "Think of a two-step lock. Lock one is the owner: me or you? That chooses the start: mein or dein. Lock two is the noun: its gender and its job in the sentence. That chooses the ending. The two locks do not talk to each other. Step 1: owner. Step 2: gender of the noun. Step 3: subject or object? Extra example: Ich lese dein Buch.",
-     "lead": "This card puts the pieces together. Two quick questions decide the form every time, so you can say my computer or your cat without guessing the ending."
+     "lead": "This card puts the pieces together. Two quick questions decide the form every time, so you can say my computer or your cat without guessing the ending.",
+     "deeper": {
+      "text": "It helps to say what each part does. The stem (mein, dein) shows who owns the thing. The ending (-en, -e, no ending) shows which noun and whether it is a subject or an object. English only has the stem (my, your). Say it aloud with a feminine word: du, Tasche → deine Tasche.",
+      "example": {
+       "de": "Du brauchst deine Tasche.",
+       "en": "You need your bag.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "brauchst",
+         "verb"
+        ],
+        [
+         "deine",
+         "article"
+        ],
+        [
+         "Tasche.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask and answer with mein and dein",
@@ -5866,7 +6781,36 @@
       ]
      },
      "more": "In a chat, the other person says dein, and you answer with mein. It flips like a mirror. Step 1: question: Wie heißt dein Bruder? Step 2: answer: Mein Bruder heißt Ben. Step 3: yes/no question: Ist das dein Auto? Step 4: answer: Ja, das ist mein Auto. Nein, das ist nicht mein Auto. Extra example: Wo ist dein Stift?",
-     "lead": "You can now say who owns something. This card gives a question for a friend and an answer for you, so you can ask whose phone it is and reply with your own."
+     "lead": "You can now say who owns something. This card gives a question for a friend and an answer for you, so you can ask whose phone it is and reply with your own.",
+     "deeper": {
+      "text": "Listen to who is speaking. Your friend asks dein and you answer mein, because now you are the owner. English also flips: Is this your phone? Yes, it is my phone. If you ask a question about a thing that is yours, use mein. For things that belong to the other person, use dein.",
+      "example": {
+       "de": "Ja, das ist meine Tasche.",
+       "en": "Yes, that is my bag.",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "meine",
+         "article"
+        ],
+        [
+         "Tasche.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -6611,7 +7555,32 @@
       ]
      },
      "more": "In the last lesson you learned mein for ich and dein for du. Now the same idea for he and she. Step 1: who owns it? A man: er, so sein. A woman: sie, so ihr. Step 2: put it before the noun, like ein. Step 3: the ending still follows the noun: sein Bruder, seine Schwester. Extra example: Anna hat eine Katze. Das ist ihre Katze.",
-     "lead": "You know mein and dein for I and you. This card gives the owner words for he, she and it, so you can say whose brother or sister someone means."
+     "lead": "You know mein and dein for I and you. This card gives the owner words for he, she and it, so you can say whose brother or sister someone means.",
+     "deeper": {
+      "text": "sein looks like the verb sein (to be), but as an owner word it means his. Context tells you which one it is: Er ist Arzt (the verb), but Sein Bruder ist Arzt (his brother). The owner word is always right before a noun. The verb sein is not. The position tells you the job.",
+      "example": {
+       "de": "Sein Bruder ist Arzt.",
+       "en": "His brother is a doctor.",
+       "parts": [
+        [
+         "Sein",
+         "article"
+        ],
+        [
+         "Bruder",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Arzt.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The trap: the owner picks the word",
@@ -6761,7 +7730,32 @@
       ]
      },
      "more": "English only looks at the owner: his sister, her brother. German looks at two things. Step 1: the owner. He gives sein. She gives ihr. Step 2: the noun. Feminine or plural: add e. Masculine or neuter: nothing. So a man with a sister says seine Schwester. His is male, but Schwester is female, and the e comes from Schwester. Extra example: Leon hat einen Hund. Das ist sein Hund.",
-     "lead": "His and her are easy to mix up when the noun changes too. This card shows which part of the sentence decides which form you need, so you can get both right."
+     "lead": "His and her are easy to mix up when the noun changes too. This card shows which part of the sentence decides which form you need, so you can get both right.",
+     "deeper": {
+      "text": "Use two steps. Step 1: who owns it? Leon is a he, so sein. Step 2: what is owned? Schwester is feminine, so add -e. English his sister and her brother tell you nothing about the gender of the thing owned, but German does. So the owner picks the stem and the thing picks the ending.",
+      "example": {
+       "de": "Das ist ihre Katze.",
+       "en": "That is her cat.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ihre",
+         "article"
+        ],
+        [
+         "Katze.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "wir → unser",
@@ -6856,7 +7850,32 @@
       ]
      },
      "more": "unser is the possessive for we. It is a longer word, but the endings are easy because they work like mein. Step 1: owner wir, so unser. Step 2: add the ending for the noun. Masculine and neuter: nothing. Feminine and plural: -e. Step 3: for the masculine object: unseren. Extra example: Wir besuchen unseren Onkel.",
-     "lead": "Now you can talk about your family as a group. This card gives the word for our, so you can say our father or our children when you talk to a friend."
+     "lead": "Now you can talk about your family as a group. This card gives the word for our, so you can say our father or our children when you talk to a friend.",
+     "deeper": {
+      "text": "unser is long, but it is easy: wir → unser. When you add an ending, unser keeps its e: unsere Mutter. In fast speech some people say unsre. You will hear it, but write unsere. Only euer, in the next card, loses a letter. So unser is regular.",
+      "example": {
+       "de": "Unsere Kinder spielen gern.",
+       "en": "Our children like to play.",
+       "parts": [
+        [
+         "Unsere",
+         "article"
+        ],
+        [
+         "Kinder",
+         "noun"
+        ],
+        [
+         "spielen",
+         "verb"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "ihr → euer (a special one)",
@@ -6958,7 +7977,32 @@
       ]
      },
      "more": "euer is the lazy one. It drops the middle e so that it is easier to say. Step 1: no ending: euer Vater. Step 2: with an ending, throw out the middle e: eure Mutter. Step 3: object masculine: euren. Do not say euere or eueren. Extra example: Ist das euer Hund?",
-     "lead": "This card gives the owner word for talking to two or more friends. It changes its spelling with some endings, so read it aloud and watch the pattern."
+     "lead": "This card gives the owner word for talking to two or more friends. It changes its spelling with some endings, so read it aloud and watch the pattern.",
+     "deeper": {
+      "text": "euer becomes eure and not euere, because that would be hard to say. The e before r drops. A word you may know does the same: teuer (expensive) → ein teures Auto. Pronounce eu as oy, so euer sounds like oy-er and eure like oy-re. Both forms use the same ending rules as ein.",
+      "example": {
+       "de": "Wo ist eure Tasche?",
+       "en": "Where is your (plural) bag?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eure",
+         "article"
+        ],
+        [
+         "Tasche?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "ihr (they) and Ihr (polite)",
@@ -7071,7 +8115,40 @@
       ]
      },
      "more": "ihr has three jobs in total, like sie. She, they: ihr. Polite you: Ihr with a capital letter, like Sie. Step 1: who owns it? One woman or girl: ihr. Many people: ihr. A stranger or Frau Weber: Ihr. Step 2: add the noun's ending as usual. Step 3: at the start of a sentence, you cannot see the capital. Use the situation. Extra example: Ihre Katze ist süß.",
-     "lead": "There are two more owners: they, and the polite you with a capital letter. This card shows how to tell them apart, so you can ask Frau Weber about her son."
+     "lead": "There are two more owners: they, and the polite you with a capital letter. This card shows how to tell them apart, so you can ask Frau Weber about her son.",
+     "deeper": {
+      "text": "In writing the capital letter tells you which one: Ihr is polite, ihr is her or their. In speech you need the context. The rule for the polite form is simple: Ihr and Ihre always have a capital I, even in the middle of a sentence. It is the same with Sie. A capital shows respect.",
+      "example": {
+       "de": "Wo wohnt Ihre Familie, Herr Ali?",
+       "en": "Where does your family live, Herr Ali?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohnt",
+         "verb"
+        ],
+        [
+         "Ihre",
+         "article"
+        ],
+        [
+         "Familie,",
+         "noun"
+        ],
+        [
+         "Herr",
+         "other"
+        ],
+        [
+         "Ali?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "All the possessives in one table",
@@ -7215,7 +8292,32 @@
       ]
      },
      "more": "This is your cheat sheet. Step 1: find the owner row. Step 2: find the gender column. Step 3: read the word. For plural, use the column of feminine. Notice: mein, dein, sein, ihr, Ihr have an e added for feminine and plural. unser and euer too, but euer loses its middle e: eure. Extra example: Meine Tasche ist hier.",
-     "lead": "Nine owners, one pattern. This card puts every owner word side by side, so you have one place to check any form you are not sure of."
+     "lead": "Nine owners, one pattern. This card puts every owner word side by side, so you have one place to check any form you are not sure of.",
+     "deeper": {
+      "text": "Read the table by columns, not by rows. In each column the ending is the same. So you learn the endings once and the stems once. A good drill: pick a stem and say it with four nouns, for example sein Vater, seine Mutter, sein Kind, seine Eltern. Do this for each stem and you know the whole table.",
+      "example": {
+       "de": "Das ist seine Tochter.",
+       "en": "That is his daughter.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "seine",
+         "article"
+        ],
+        [
+         "Tochter.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The accusative with all of them",
@@ -7331,7 +8433,32 @@
       ]
      },
      "more": "This is the last step. You already know: only the masculine object adds -en. Step 1: is the noun masculine? Step 2: is it the object? Step 3: both yes? Add -en to the possessive: seinen, ihren, unseren. Step 4: everything else: nothing changes. Extra example: Ich sehe euren Hund.",
-     "lead": "You now have all the owner words. The last step is the object form, which changes only one masculine word, so you can say what you meet or see for every owner."
+     "lead": "You now have all the owner words. The last step is the object form, which changes only one masculine word, so you can say what you meet or see for every owner.",
+     "deeper": {
+      "text": "Every stem takes -en for a masculine object. Two stems need a careful look. unser → unseren (both e's stay). euer → euren (the e before r drops). Say both aloud a few times. The others, like seinen and ihren, are easy: stem + -en. Only masculine changes.",
+      "example": {
+       "de": "Ich sehe ihren Bruder.",
+       "en": "I see her brother.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "sehe",
+         "verb"
+        ],
+        [
+         "ihren",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -8033,7 +9160,32 @@
       ]
      },
      "more": "Think of können as a tool that says what you are able to do. It has an odd shape: ich and er share the same short form, kann. Step 1: ich kann. Step 2: du kannst, with -st. Step 3: er, sie, es: kann again. Step 4: wir, sie, Sie: können. Step 5: ihr: könnt. Learn the table by heart. Extra example: Anna kann singen.",
-     "lead": "Your intro showed can and must. This card gives all six forms of können, the helper verb for can, so you can say what you are able to do with each person."
+     "lead": "Your intro showed can and must. This card gives all six forms of können, the helper verb for can, so you can say what you are able to do with each person.",
+     "deeper": {
+      "text": "Modal verbs are very old, and they have a special pattern: ich and er/sie/es are the same, with no ending. You will see this again with müssen and wollen. So for each modal you only need to learn one form for ich and er, one for du, and so on. The pattern repeats.",
+      "example": {
+       "de": "Sie kann gut kochen.",
+       "en": "She can cook well.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "gut",
+         "other"
+        ],
+        [
+         "kochen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The bracket: modal verb + infinitive at the end",
@@ -8156,7 +9308,32 @@
       ]
      ],
      "more": "Imagine a bracket: ( kann ... spielen ). The first verb opens the bracket in chair 2. The second verb closes it at the very end. Everything else sits between the two verbs. Step 1: put the modal in part 2. Step 2: put the other things (object, time) in the middle. Step 3: close with the infinitive, unchanged. Extra example: Ich kann Suppe kochen.",
-     "lead": "The forms are ready, so now the sentence needs a new shape. This card shows where the second verb waits when there are two verbs, so you know where each word goes."
+     "lead": "The forms are ready, so now the sentence needs a new shape. This card shows where the second verb waits when there are two verbs, so you know where each word goes.",
+     "deeper": {
+      "text": "Picture two bookends. The modal is the left one, the infinitive is the right one, and everything else stands between them. English keeps both verbs together: I can play tennis. German pulls them apart: Ich kann Tennis spielen. The longer the sentence, the wider the bracket.",
+      "example": {
+       "de": "Anna kann Kuchen essen.",
+       "en": "Anna can eat cake.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "Kuchen",
+         "object"
+        ],
+        [
+         "essen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The middle: time, object and place",
@@ -8273,7 +9450,40 @@
       ]
      },
      "more": "The bracket never breaks, no matter what goes inside. Step 1: first part of the sentence: the subject or a time word. Step 2: the modal in chair 2. Step 3: everything else in the middle. Step 4: the infinitive at the end. When the time goes first, the subject moves behind the modal, just like you learned in chapters 2 and 3. Extra example: Am Abend kann ich Suppe kochen.",
-     "lead": "Your sentence now has a bracket. This card shows where time, object and place go inside it, so you can add more detail to what you can do."
+     "lead": "Your sentence now has a bracket. This card shows where time, object and place go inside it, so you can add more detail to what you can do.",
+     "deeper": {
+      "text": "The more you put in the middle, the longer the listener waits for the last word. That is why German speakers often save the most important word for the end. Listen carefully to the end of a sentence, because that is where you find what the person can do.",
+      "example": {
+       "de": "Ich kann am Abend Deutsch lernen.",
+       "en": "In the evening I can learn German.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Abend",
+         "time"
+        ],
+        [
+         "Deutsch",
+         "object"
+        ],
+        [
+         "lernen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask: Kannst du …?",
@@ -8374,7 +9584,32 @@
       ]
      },
      "more": "In a yes/no question the verb comes first. With a modal, that is the modal. The infinitive does not move: it still waits at the end. Step 1: Kannst. Step 2: du. Step 3: the rest. Step 4: the infinitive, with the question mark. Answer: Ja, ich kann Gitarre spielen. Or: Nein, ich kann nicht schwimmen. Extra example: Kannst du Klavier spielen?",
-     "lead": "You can say what you can do. Now you can ask a friend or a teacher the same thing. This card shows how a yes or no question works with können, and how to ask politely."
+     "lead": "You can say what you can do. Now you can ask a friend or a teacher the same thing. This card shows how a yes or no question works with können, and how to ask politely.",
+     "deeper": {
+      "text": "In English, Can you help me? is not really a question about ability. It is a polite request. German does the same with Kannst du …? Add bitte for extra politeness. With a stranger or in an office, use the polite form: Können Sie bitte kommen?",
+      "example": {
+       "de": "Kannst du bitte kommen?",
+       "en": "Can you please come?",
+       "parts": [
+        [
+         "Kannst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "kommen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "W-questions with können",
@@ -8465,7 +9700,36 @@
       "Was kannst du gut kochen?"
      ],
      "more": "W-questions always follow the same recipe: question word, then the verb. If the verb is a modal, the other verb goes to the end. Step 1: question word in chair 1. Step 2: modal in chair 2. Step 3: subject. Step 4: rest of the sentence and infinitive at the end. Extra example: Wo kann ich Tee trinken?",
-     "lead": "Yes or no questions are done. Now add a question word. This card shows how to ask what, when or where someone can do something, so you can get real information."
+     "lead": "Yes or no questions are done. Now add a question word. This card shows how to ask what, when or where someone can do something, so you can get real information.",
+     "deeper": {
+      "text": "A W-question has a fixed pattern. Question word first, modal second, infinitive last. It stays the same even in long questions. If you get lost, find the modal: it is always second. The other verb is always at the end. This works with Wie, Wann, Wo and Was.",
+      "example": {
+       "de": "Wie kann ich Deutsch lernen?",
+       "en": "How can I learn German?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Deutsch",
+         "object"
+        ],
+        [
+         "lernen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How well? gut, ein bisschen, nicht",
@@ -8566,7 +9830,32 @@
       ]
      },
      "more": "Little words that tell how well sit near the end, just before the infinitive. Step 1: build the bracket: Ich kann … schwimmen. Step 2: put gut, ein bisschen or nicht in the middle. Step 3: nicht always lands just before the infinitive. Do not use kein here, because there is no noun. Extra example: Anna kann nicht singen.",
-     "lead": "A yes or no is not enough, you also want to say how well you can do it. This card gives three small words for how well, so you can say you are good at something or not at all."
+     "lead": "A yes or no is not enough, you also want to say how well you can do it. This card gives three small words for how well, so you can say you are good at something or not at all.",
+     "deeper": {
+      "text": "You can leave out the infinitive when it is clear from the question. Kannst du tanzen? Ich kann ein bisschen. That is a complete answer. English does the same: Can you dance? I can a little. It feels natural in a short chat.",
+      "example": {
+       "de": "Nein, ich kann nicht.",
+       "en": "No, I cannot.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "nicht.",
+         "negation"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -9287,7 +10576,28 @@
       ]
      },
      "more": "müssen is what your calendar says: things you cannot skip, like work, school or the dentist. Step 1: ich muss, no ending. Step 2: du musst, with -st. Step 3: er, sie, es: muss, like ich. Step 4: wir, sie, Sie: müssen. Step 5: ihr: müsst. Spot the pattern: it is the same shape as kann, kannst, können, könnt. Extra example: Anna muss arbeiten.",
-     "lead": "Your intro gave you duties and wishes. This card starts with duties, the verb müssen for must, and shows its forms, so you can say what you have to do."
+     "lead": "Your intro gave you duties and wishes. This card starts with duties, the verb müssen for must, and shows its forms, so you can say what you have to do.",
+     "deeper": {
+      "text": "Say ü with your lips round as for oo, but make the sound ee. Look at where the two dots appear. ich muss, du musst, er muss: no dots. wir müssen, ihr müsst, sie müssen: dots. The dots come back for wir, ihr, sie and Sie. Say müssen slowly a few times.",
+      "example": {
+       "de": "Ihr müsst warten.",
+       "en": "You (all) have to wait.",
+       "parts": [
+        [
+         "Ihr",
+         "subject"
+        ],
+        [
+         "müsst",
+         "verb"
+        ],
+        [
+         "warten.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "müssen in the bracket: duties",
@@ -9422,7 +10732,36 @@
       ]
      ],
      "more": "Same bracket, new verb. Step 1: modal in chair 2: muss. Step 2: put everything else between the two verbs: time, object. Step 3: the infinitive at the very end. Step 4: if the time goes first, the subject jumps behind the modal. The bracket is the same shape every time, so you only need to learn it once. Extra example: Heute muss ich Suppe kochen.",
-     "lead": "müssen fits the same sentence shape as können. This card puts it in place with a day and a time, so you can say when you have to do something."
+     "lead": "müssen fits the same sentence shape as können. This card puts it in place with a day and a time, so you can say when you have to do something.",
+     "deeper": {
+      "text": "Duties usually come with a time, and that makes them real: Ich muss um acht Uhr arbeiten. When the time is the key information, you can put it first: Um acht Uhr muss ich arbeiten. This sounds like a reminder: be there at eight! Both orders are fine.",
+      "example": {
+       "de": "Heute muss ich Deutsch lernen.",
+       "en": "Today I have to learn German.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Deutsch",
+         "object"
+        ],
+        [
+         "lernen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "wollen: to want to",
@@ -9545,7 +10884,40 @@
       ]
      },
      "more": "wollen is the verb of plans and wishes. Step 1: ich will, with the vowel i. Step 2: du willst. Step 3: er, sie, es: will. Step 4: wir, sie, Sie: wollen, with o again. Step 5: ihr: wollt. The pattern is the same as können and müssen: ich and er match, wir and sie match. Only the vowel is different. Extra example: Mira will Gitarre spielen.",
-     "lead": "Now comes the second helper verb, for wanting. This card gives its forms, including a spelling change that surprises many learners, so you can say what you want to do."
+     "lead": "Now comes the second helper verb, for wanting. This card gives its forms, including a spelling change that surprises many learners, so you can say what you want to do.",
+     "deeper": {
+      "text": "German has no special word for the future with will. English will is a helper for the future, but German will means want. So never translate I will go as ich will gehen. For the future, Germans just use the present and a time word: Ich komme morgen.",
+      "example": {
+       "de": "Morgen komme ich um acht Uhr.",
+       "en": "Tomorrow I will come at eight o'clock.",
+       "parts": [
+        [
+         "Morgen",
+         "time"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "acht",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "wollen or möchten?",
@@ -9641,7 +11013,28 @@
       ]
      },
      "more": "In English: I want a coffee can sound rude, but I would like a coffee sounds nice. German has the same two levels. möchten is the nice one: use it with waiters and strangers. wollen is plain: friends and plans. Step 1: ordering? möchten. Step 2: planning with friends? wollen. Step 3: with wollen, add the second verb at the end. Extra example: Ich will schwimmen.",
-     "lead": "Both words say what you want, but they sound different. This card tells you which one sounds polite, so you can order a drink in a café or speak to a stranger with care."
+     "lead": "Both words say what you want, but they sound different. This card tells you which one sounds polite, so you can order a drink in a café or speak to a stranger with care.",
+     "deeper": {
+      "text": "möchte is the polite way to say what you want, so use it with strangers, in a café or in an office. will can sound too direct to strangers. Among friends, Ich will Pizza! is just excited. A waiter often asks with möchten: Möchten Sie Kaffee?",
+      "example": {
+       "de": "Möchten Sie Kaffee?",
+       "en": "Would you like coffee?",
+       "parts": [
+        [
+         "Möchten",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "Kaffee?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask and say no: Musst du …? nicht müssen",
@@ -9742,7 +11135,36 @@
       ]
      },
      "more": "Same recipes as before. Yes/no: modal first. W-question: question word, then modal. nicht comes before the infinitive. Be careful with meaning: Ich muss nicht arbeiten means I do not have to, so it is a free day, not forbidden. Step 1: pick the modal. Step 2: add nicht before the infinitive for no. Extra example: Wir müssen nicht warten.",
-     "lead": "You can say what you must and want. Now you can ask a friend the same questions and say that you do not have to do something. This card shows how with nicht."
+     "lead": "You can say what you must and want. Now you can ask a friend the same questions and say that you do not have to do something. This card shows how with nicht.",
+     "deeper": {
+      "text": "Watch out, English speakers: must not does not match muss nicht. In English must not means forbidden. In German ich muss nicht arbeiten just means it is not necessary, so I am free. For not allowed, German has another verb, which you learn later.",
+      "example": {
+       "de": "Du musst heute nicht kommen.",
+       "en": "You do not have to come today.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "musst",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "kommen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Three modals together: choose the right one",
@@ -9843,7 +11265,36 @@
       ]
      },
      "more": "Think of a sentence as a train with three possible engines: kann, muss, will. The cars behind it always stay the same: the time, the object, and the infinitive at the end. Step 1: choose the engine by meaning. Step 2: fit the ending to the person. Step 3: finish with the infinitive. Extra example: Wir wollen heute warten.",
-     "lead": "You have met three helper verbs. This card puts can, must and want side by side, so you can see how one sentence changes meaning with one word."
+     "lead": "You have met three helper verbs. This card puts can, must and want side by side, so you can see how one sentence changes meaning with one word.",
+     "deeper": {
+      "text": "One word changes the whole meaning, and everybody hears it: Ich kann is about ability, Ich muss is about duty and Ich will is about a wish. A good test is to answer Was machst du am Samstag? with all three. If you can switch easily, you know the pattern.",
+      "example": {
+       "de": "Wir wollen heute nicht arbeiten.",
+       "en": "We do not want to work today.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "wollen",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -10537,7 +11988,32 @@
       "Haben Sie am Dienstag Zeit?"
      ],
      "more": "A phone call has a few fixed steps, like a little script. Step 1: greet: Guten Tag. Step 2: say who you are: Hier ist Leon. You say hier, here, because you are speaking from here. Step 3: say what you want with möchten: Ich möchte einen Termin. Step 4: add bitte. Learn Hier ist … as one piece. Extra example: Guten Morgen, hier ist Mira.",
-     "lead": "Your intro showed a phone call for an appointment. This card gives the first lines of the call, so you can say who you are and what you want at the start."
+     "lead": "Your intro showed a phone call for an appointment. This card gives the first lines of the call, so you can say who you are and what you want at the start.",
+     "deeper": {
+      "text": "Hier ist … is the normal phone phrase in German. You say who you are with Hier ist, not with Ich bin. When someone says Hier ist Leon, you answer Guten Tag, Leon. It sounds a little odd in English, but it is how German speakers talk on the phone.",
+      "example": {
+       "de": "Hier ist Frau Weber.",
+       "en": "This is Frau Weber speaking.",
+       "parts": [
+        [
+         "Hier",
+         "place"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Frau",
+         "subject"
+        ],
+        [
+         "Weber.",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Suggest a time: Haben Sie … Zeit? Können Sie …?",
@@ -10642,7 +12118,32 @@
       ]
      },
      "more": "Two ways, one goal: find a time that fits. Way 1: Haben Sie Zeit? asks if the other person is free. Way 2: Können Sie kommen? asks if they can come. Both are yes/no questions, so the verb is first. With können, the other verb goes to the end. Step 1: the day with am. Step 2: the time with um. Step 3: the question. Extra example: Haben Sie am Montag Zeit?",
-     "lead": "You can say what you want. Now you can suggest a time. This card shows how to ask if someone has time or can come, so you can agree on a day and an hour."
+     "lead": "You can say what you want. Now you can suggest a time. This card shows how to ask if someone has time or can come, so you can agree on a day and an hour.",
+     "deeper": {
+      "text": "Zeit has no article here. Ich habe Zeit, not eine Zeit. Without a time you can ask an open question: Wann haben Sie Zeit? This gives the other person the choice. It is polite and useful in an office, at a doctor and with a teacher.",
+      "example": {
+       "de": "Wann haben Sie Zeit?",
+       "en": "When do you have time?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "Zeit?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say yes or no: Das passt gut. Leider …",
@@ -10747,7 +12248,32 @@
       ]
      },
      "more": "To say no politely, do three things. Step 1: say leider, which means unfortunately. Step 2: say what you cannot do: kann ich nicht kommen. Step 3: give a short reason: Ich muss arbeiten. Then suggest another time. leider sits in chair 1, and the verb stays second, so the subject ich moves behind it. Extra example: Leider muss ich am Montag arbeiten.",
-     "lead": "Your friend suggests a time, and you need to answer. This card gives short ways to say yes, no or sorry with a reason, so you can answer without freezing."
+     "lead": "Your friend suggests a time, and you need to answer. This card gives short ways to say yes, no or sorry with a reason, so you can answer without freezing.",
+     "deeper": {
+      "text": "passen means to fit, like clothes. In German a time or a plan can also fit. That is why Das passt gut is natural. For a no, you can soften it with leider (unfortunately): Das passt leider nicht. The word leider makes a no friendly.",
+      "example": {
+       "de": "Das passt leider nicht.",
+       "en": "That unfortunately does not suit me.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "passt",
+         "verb"
+        ],
+        [
+         "leider",
+         "other"
+        ],
+        [
+         "nicht.",
+         "negation"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Confirm and say goodbye",
@@ -10832,7 +12358,28 @@
       ]
      },
      "more": "A call ends in three small steps, so nobody is confused. Step 1: repeat the day and time: Also, am Dienstag um halb drei. Step 2: thank: Danke. Step 3: say goodbye. Face to face you say Auf Wiedersehen, on the phone Auf Wiederhören. Hören is to hear, since you only hear the person. Extra example: Bis dann!",
-     "lead": "You have agreed on a time. This card shows how to repeat it, thank the person and say goodbye, so both of you are sure about the plan."
+     "lead": "You have agreed on a time. This card shows how to repeat it, thank the person and say goodbye, so both of you are sure about the plan.",
+     "deeper": {
+      "text": "Careful, this is a false friend. German also is not English also. Also at the start of a sentence means so or right, then. English also means auch in German. Repeating the time is polite and also clever, because it avoids mistakes.",
+      "example": {
+       "de": "Also, bis Montag!",
+       "en": "Right then, see you Monday!",
+       "parts": [
+        [
+         "Also,",
+         "other"
+        ],
+        [
+         "bis",
+         "preposition"
+        ],
+        [
+         "Montag!",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Sorry I am late: Es tut mir leid",
@@ -10937,7 +12484,40 @@
       ]
      },
      "more": "Being late happens to everyone. What matters is what you say. Step 1: say sorry: Entschuldigung or Es tut mir leid. Step 2: say what is wrong: Ich komme zu spät. Step 3: say when you will arrive: Ich bin gleich da. Learn Es tut mir leid as one single piece, we explain why later. If the other person says Kein Problem!, it means no problem. Extra example: Der Bus ist zu spät.",
-     "lead": "Sometimes you cannot arrive on time. This card gives the small words for apologising and for saying you are late, so you can explain it politely."
+     "lead": "Sometimes you cannot arrive on time. This card gives the small words for apologising and for saying you are late, so you can explain it politely.",
+     "deeper": {
+      "text": "Entschuldigung is for small things: you bump into someone, you want attention or you interrupt. Es tut mir leid is more personal and says you really regret something. Both work when you are late. Literally, Es tut mir leid means it does sorrow to me.",
+      "example": {
+       "de": "Es tut mir leid, Frau Weber.",
+       "en": "I am sorry, Frau Weber.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "tut",
+         "verb"
+        ],
+        [
+         "mir",
+         "dative"
+        ],
+        [
+         "leid,",
+         "other"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The sound r",
@@ -11038,7 +12618,32 @@
       ]
      },
      "more": "Do not roll the r like in Spanish. Make it soft, at the back of the throat, like a gentle gargle. Step 1: r at the start or before a vowel: rot, Reise, Frau. Step 2: r at the end of a word: very soft, almost like a. Step 3: -er at the end: Vater, Bruder, Lehrer sound like Vata, Bruda, Lehra. Step 4: practise by saying: Ruder, Bruder, Vater, Mutter. Extra example: Er arbeitet bis vier Uhr.",
-     "lead": "Some German sounds are very different from English, and r is the one that stops many learners. This card shows the two r sounds, so you can say words like Vater and rot clearly."
+     "lead": "Some German sounds are very different from English, and r is the one that stops many learners. This card shows the two r sounds, so you can say words like Vater and rot clearly.",
+     "deeper": {
+      "text": "Do not roll the r like in Spanish. The German r in rot and Bruder comes from the back of the throat, like a very soft gargle. At the end of a word it relaxes into a soft a: Vater sounds like Vata. So Bruder has both: a throat r at the start and a soft a at the end.",
+      "example": {
+       "de": "Der Bruder ist da.",
+       "en": "The brother is there.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Bruder",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "da.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Culture: being on time",
@@ -11135,7 +12740,28 @@
       ]
      },
      "more": "In many countries, a few minutes late is normal. In Germany, a start time is a start time. Step 1: for a job, a doctor or a lesson, arrive a little before. Step 2: for a party with friends, a few minutes late is OK. Step 3: if you will be late, call: Es tut mir leid, ich komme zu spät. Step 4: being on time is a sign of respect, not stress. Extra example: Der Kurs beginnt um neun Uhr.",
-     "lead": "This last card of the chapter is about punctuality. It shows what counts as late in Germany, so you know when to arrive early and when a few minutes is fine."
+     "lead": "This last card of the chapter is about punctuality. It shows what counts as late in Germany, so you know when to arrive early and when a few minutes is fine.",
+     "deeper": {
+      "text": "Pünktlich also appears in news about trains: Der Zug ist pünktlich is a small piece of good news, because delays happen. In daily life a short message shows respect: Ich komme später (I will come later). Say it as soon as you know.",
+      "example": {
+       "de": "Ich komme später.",
+       "en": "I will come later.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "später.",
+         "time"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

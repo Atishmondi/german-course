@@ -260,7 +260,32 @@
       ]
      },
      "more": "Think of your body as a list of nouns. Each one wears a little tag: der, die or das. You can't see the tag, so you must learn it with the word. Step 1: say the word with its article: der Kopf. Step 2: say the plural: die Köpfe. Step 3: say it three times. Extra example: der Arm, die Arme = the arm, the arms.",
-     "lead": "The intro showed the plan for this lesson. On this card: body parts with der, die or das, so you can name the part of you that hurts."
+     "lead": "The intro showed the plan for this lesson. On this card: body parts with der, die or das, so you can name the part of you that hurts.",
+     "deeper": {
+      "text": "Many body parts come in pairs: Auge, Ohr, Bein, Arm, Hand, Fuß. When you talk about both, German uses the plural, just as English says my eyes, not my eye. Learn each word with its plural from the start, because the plural is the form you will say most often.",
+      "example": {
+       "de": "Das sind meine Augen.",
+       "en": "Those are my eyes.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "meine",
+         "article"
+        ],
+        [
+         "Augen.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Mein Kopf tut weh",
@@ -379,7 +404,32 @@
       ]
      ],
      "more": "Imagine you tell a friend: my head, it hurts. The German chunk for hurts is tut weh. Think of it like a separable verb: tut is in part 2 and weh waits at the end. Step 1: say mein or meine. Step 2: say the body part. Step 3: tut weh. Extra example: Mein Ohr tut weh. = My ear hurts.",
-     "lead": "You can name body parts with their articles. Next: the phrase for saying a body part hurts, so you can tell a doctor where it is."
+     "lead": "You can name body parts with their articles. Next: the phrase for saying a body part hurts, so you can tell a doctor where it is.",
+     "deeper": {
+      "text": "Notice who does the hurting. In English you say I have a pain in my head. In German the body part itself is the subject: Mein Hals tut weh. The head hurts, and there is no ich in the sentence at all. That is why mein comes first and the verb right after the body part.",
+      "example": {
+       "de": "Mein Hals tut weh.",
+       "en": "My throat hurts.",
+       "parts": [
+        [
+         "Mein",
+         "article"
+        ],
+        [
+         "Hals",
+         "noun"
+        ],
+        [
+         "tut",
+         "verb"
+        ],
+        [
+         "weh.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "More than one hurts: tun weh",
@@ -480,7 +530,32 @@
       ]
      },
      "more": "Match the verb to the number of things. One thing: tut. Many things: tun. It is like one dog barks and two dogs bark. Step 1: is it one thing or many? Step 2: one → mein/meine + tut. Many → meine + tun. Step 3: weh goes last. Extra example: Meine Arme tun weh. = My arms hurt.",
-     "lead": "You can say one body part hurts. Next: what changes when two or more things hurt, so you can say your legs or your feet hurt."
+     "lead": "You can say one body part hurts. Next: what changes when two or more things hurt, so you can say your legs or your feet hurt.",
+     "deeper": {
+      "text": "The verb agrees with the thing that hurts, not with you. One thing hurting gives tut, two or more give tun. So the sentence tells you how many body parts are in pain. Check the noun first: is it one or many? Then choose tut or tun.",
+      "example": {
+       "de": "Meine Arme tun weh.",
+       "en": "My arms hurt.",
+       "parts": [
+        [
+         "Meine",
+         "article"
+        ],
+        [
+         "Arme",
+         "noun"
+        ],
+        [
+         "tun",
+         "verb"
+        ],
+        [
+         "weh.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ich habe Kopfschmerzen",
@@ -593,7 +668,28 @@
       ]
      ],
      "more": "German likes to glue words together like building blocks. Kopf is one block. Schmerzen is another. Put them together: Kopfschmerzen. You do not need ein or eine. Step 1: pick the body part. Step 2: add Schmerzen. Step 3: use haben: ich habe, er hat. Extra example: Ich habe Rückenschmerzen. = I have back pain.",
-     "lead": "You can say a body part hurts. Next: a second way to say it, with the word Schmerzen, so you can say you have a headache or a stomach ache."
+     "lead": "You can say a body part hurts. Next: a second way to say it, with the word Schmerzen, so you can say you have a headache or a stomach ache.",
+     "deeper": {
+      "text": "Kopfschmerzen is a plural word, so German uses no article: Ich habe Kopfschmerzen, not a headache. English says a headache, but German treats the pains as a group. The same goes for all words ending in -schmerzen. Just say haben + the word, nothing else.",
+      "example": {
+       "de": "Anna hat Rückenschmerzen.",
+       "en": "Anna has back pain.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "Rückenschmerzen.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask and answer: Wo tut es weh?",
@@ -675,7 +771,32 @@
       "Or you point: Hier tut es weh."
      ],
      "more": "A doctor visit is a little game of questions and answers. The doctor asks, you answer. Step 1: listen for Wo? That means where. Step 2: answer with mein + body part + tut weh. Step 3: or point and say Hier. The doctor can also ask Was ist los? That means what is wrong? You can answer Ich habe Kopfschmerzen. Extra example: Was ist los? Mein Fuß tut weh. = What is wrong? My foot hurts.",
-     "lead": "You have two ways to say what hurts. Next: the doctor's question Wo tut es weh? and how to answer it, so you can show where it hurts."
+     "lead": "You have two ways to say what hurts. Next: the doctor's question Wo tut es weh? and how to answer it, so you can show where it hurts.",
+     "deeper": {
+      "text": "A place word can start the sentence. Hier tut es weh puts hier on chair 1, then the verb on chair 2, then es on chair 3. The rule you know from chapter 2 still applies. es is a little filler subject that means it. Da means there, so Da tut es weh points to another spot.",
+      "example": {
+       "de": "Da tut es weh.",
+       "en": "It hurts there.",
+       "parts": [
+        [
+         "Da",
+         "place"
+        ],
+        [
+         "tut",
+         "verb"
+        ],
+        [
+         "es",
+         "subject"
+        ],
+        [
+         "weh.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Guess a new word from its parts",
@@ -777,7 +898,32 @@
       "The last piece says what it is and gives the gender."
      ],
      "more": "A long German word looks scary, but it is a train of small words. Step 1: find the cars. Handtasche has two: Hand and Tasche. Step 2: guess the meaning: hand bag. Step 3: the last car is the boss. Tasche is feminine, so die Handtasche. This trick helps you read signs and doctor words. Extra example: Halsschmerzen = Hals + Schmerzen = neck pain, a sore throat.",
-     "lead": "Last card of this lesson: guessing new long words from their parts, so you can work out a word like Handtasche without a dictionary."
+     "lead": "Last card of this lesson: guessing new long words from their parts, so you can work out a word like Handtasche without a dictionary.",
+     "deeper": {
+      "text": "Sometimes a little glue sound sits between the pieces of a long word, like the -en in Ohrenschmerzen. You do not need a rule for this. Just learn those words as they come. The last piece still gives the gender, so die Handtasche is feminine because die Tasche is.",
+      "example": {
+       "de": "Die Handtasche ist neu.",
+       "en": "The handbag is new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Handtasche",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1485,7 +1631,28 @@
       ]
      ],
      "more": "Think of haben as a hand that holds the illness: I hold a fever. Step 1: pick haben: ich habe, er/sie hat. Step 2: say the illness. Step 3: only Erkältung needs eine, because it is a die-word. The words Fieber, Husten, Schnupfen and Grippe stand alone. Extra example: Anna hat Grippe. = Anna has the flu.",
-     "lead": "You can name body parts and say what hurts. Next: illness words and the verb haben, so you can say you have a fever or a cough."
+     "lead": "You can name body parts and say what hurts. Next: illness words and the verb haben, so you can say you have a fever or a cough.",
+     "deeper": {
+      "text": "Illness names without an article are common in English too: I have flu, I have fever. German does the same for Fieber, Husten and Grippe. Erkältung is different: it is a countable word, like a cold, so you need eine. Learn which kind each word is when you meet it.",
+      "example": {
+       "de": "Ben hat Grippe.",
+       "en": "Ben has the flu.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "Grippe.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "I have no fever: kein, keine",
@@ -1586,7 +1753,32 @@
       ]
      },
      "more": "Kein is the no-version of ein. You know the rule from food: only the masculine word changes in the object. Step 1: which gender is the illness? Step 2: das-word: kein. der-word: keinen. die-word or plural: keine. Extra example: Ich habe keine Grippe. = I do not have the flu.",
-     "lead": "You can say you have a fever or a cough. Next: kein with illness words, so you can say you have no fever or no cough."
+     "lead": "You can say you have a fever or a cough. Next: kein with illness words, so you can say you have no fever or no cough.",
+     "deeper": {
+      "text": "kein negates a noun, but it does not negate an adjective. For krank, müde and similar words, use nicht: Ich bin nicht krank, never kein krank. A good rule: no thing, use kein. Not an action or a quality, use nicht. This works for the whole chapter.",
+      "example": {
+       "de": "Ich bin nicht krank.",
+       "en": "I am not ill.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "krank.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How do you feel? Ich bin krank",
@@ -1679,7 +1871,32 @@
       ]
      },
      "more": "Sein works like an equals sign: I = ill. Step 1: choose sein: ich bin, du bist, er ist. Step 2: add the adjective. Nothing changes at the end of the adjective. You can also say how bad it is: sehr krank. Extra example: Wie geht's? Nicht so gut. Ich bin krank. = How are you? Not so good. I am ill.",
-     "lead": "You can name illnesses. Next: how to say how you feel with sein, so you can say you are ill or tired and answer How are you?"
+     "lead": "You can name illnesses. Next: how to say how you feel with sein, so you can say you are ill or tired and answer How are you?",
+     "deeper": {
+      "text": "Wie geht's? is short for Wie geht es dir? The apostrophe replaces the e of es. The usual reply is Gut, danke, und dir? which means fine, thanks, and you? Germans often answer more honestly than English speakers, so Nicht so gut is a normal answer, not rude.",
+      "example": {
+       "de": "Gut, danke, und dir?",
+       "en": "Fine, thanks, and you?",
+       "parts": [
+        [
+         "Gut,",
+         "adjective"
+        ],
+        [
+         "danke,",
+         "other"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "dir?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Since when? Seit wann? Seit gestern",
@@ -1788,7 +2005,36 @@
       ]
      },
      "more": "In English you say I have had a cough since Monday. In German you just say I have a cough since Monday. Same verb, haben. Step 1: ask Seit wann? Step 2: answer seit + a time word you know. Step 3: keep the verb in part 2. Extra example: Seit heute habe ich Bauchschmerzen. = Since today I have a stomach ache.",
-     "lead": "You can say how you feel. Next: the doctor's question Seit wann?, so you can say how long you have had a problem."
+     "lead": "You can say how you feel. Next: the doctor's question Seit wann?, so you can say how long you have had a problem.",
+     "deeper": {
+      "text": "German uses the present tense where English uses have had. Ich habe seit gestern Fieber is literally I have fever since yesterday. You do not need a past tense for something that is still going on. This is easier than English: one tense, and seit does the work.",
+      "example": {
+       "de": "Ben ist seit Montag krank.",
+       "en": "Ben has been ill since Monday.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "seit",
+         "preposition"
+        ],
+        [
+         "Montag",
+         "time"
+        ],
+        [
+         "krank.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Going to the doctor",
@@ -1893,7 +2139,40 @@
       ]
      },
      "more": "Learn zum Arzt as a block, the way you learned mit dem Bus. Do not take it apart yet. A man doctor: zum Arzt. A woman doctor: zur Ärztin. The reason comes in chapter 7. For an appointment you ask politely with möchte. Step 1: Ich möchte einen Termin. Step 2: add bitte. Extra example: Ich gehe zum Arzt. = I go to the doctor.",
-     "lead": "You learned zum and zur in chapter 7. Next: going to the doctor and asking for an appointment, so you can say where you are going and why."
+     "lead": "You learned zum and zur in chapter 7. Next: going to the doctor and asking for an appointment, so you can say where you are going and why.",
+     "deeper": {
+      "text": "This connects to lesson 7: zu is going, bei is being there. So you go zum Arzt, but you have an appointment beim Arzt, because the appointment is with the doctor. A woman doctor needs bei der Ärztin. Notice the umlaut: Arzt becomes Ärztin, and the plural is Ärzte.",
+      "example": {
+       "de": "Ich habe einen Termin beim Arzt.",
+       "en": "I have an appointment at the doctor's.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Termin",
+         "noun"
+        ],
+        [
+         "beim",
+         "preposition"
+        ],
+        [
+         "Arzt.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "At the doctor: put it all together",
@@ -1976,7 +2255,40 @@
       "You: Seit gestern."
      ],
      "more": "A doctor visit follows the same path every time, like a little map. Step 1: the doctor asks what is wrong: Was haben Sie? Step 2: you answer with haben and an illness, or with mein + body part + tut weh. Step 3: the doctor asks Seit wann? Step 4: you say seit + time. If you learn these four lines, you can survive a visit. Extra example: Ich habe Fieber seit Montag. = I have had a fever since Monday.",
-     "lead": "Last card of this lesson: the four steps of a doctor talk, so you can say what is wrong, where it hurts and since when, in one visit."
+     "lead": "Last card of this lesson: the four steps of a doctor talk, so you can say what is wrong, where it hurts and since when, in one visit.",
+     "deeper": {
+      "text": "At the doctor's you do not need whole sentences. Fieber. Seit gestern. is understood perfectly. But a short full sentence is also easy: Mein Kopf tut seit gestern weh. Notice that seit gestern sits in the middle, and weh stays at the very end of the sentence.",
+      "example": {
+       "de": "Mein Kopf tut seit gestern weh.",
+       "en": "My head has hurt since yesterday.",
+       "parts": [
+        [
+         "Mein",
+         "article"
+        ],
+        [
+         "Kopf",
+         "noun"
+        ],
+        [
+         "tut",
+         "verb"
+        ],
+        [
+         "seit",
+         "preposition"
+        ],
+        [
+         "gestern",
+         "time"
+        ],
+        [
+         "weh.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2676,7 +2988,40 @@
       ]
      },
      "more": "Age in German uses sein, not haben. Step 1: ask Wie alt? Step 2: answer with bin, ist or sind. Step 3: say the number, then Jahre alt if you want the long form. Numbers over 20 are said backwards, like fünfundzwanzig. Extra example: Anna ist 31 Jahre alt. = Anna is 31 years old.",
-     "lead": "The doctor asked what is wrong. Next: the doctor's other questions, starting with age, so you can ask and answer how old someone is."
+     "lead": "The doctor asked what is wrong. Next: the doctor's other questions, starting with age, so you can ask and answer how old someone is.",
+     "deeper": {
+      "text": "After a number, years use Jahre, but after ein it is the singular: ein Jahr. So a baby can be ein Jahr alt, and an adult is 40 Jahre alt. The word Jahre is plural, like Kilo and Meter after a number. Simple counting, just like English year and years.",
+      "example": {
+       "de": "Das Kind ist ein Jahr alt.",
+       "en": "The child is one year old.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Kind",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "other"
+        ],
+        [
+         "Jahr",
+         "noun"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How tall are you? Wie groß?",
@@ -2793,7 +3138,40 @@
       ]
      },
      "more": "Think of a height as two numbers: metres, then centimetres. 1,75 m is one metre and 75. Step 1: say the metres: ein Meter. Step 2: say the centimetres as a normal number: fünfundsiebzig. Step 3: add groß. Extra example: Ben ist ein Meter achtzig groß. = Ben is 1.80 m tall.",
-     "lead": "You can answer questions about age. Next: height, with metres and centimetres, so you can say how tall you are."
+     "lead": "You can answer questions about age. Next: height, with metres and centimetres, so you can say how tall you are.",
+     "deeper": {
+      "text": "Numbers like fünfundsiebzig put the ones first: five and seventy. You know this from chapter 2, and here it appears again. It is written as one long word, with no spaces. Meter stays singular after a number, so say ein Meter achtzig, never ein Meter und achtzig.",
+      "example": {
+       "de": "Ben ist ein Meter achtzig groß.",
+       "en": "Ben is 1.80 m tall.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "other"
+        ],
+        [
+         "Meter",
+         "noun"
+        ],
+        [
+         "achtzig",
+         "other"
+        ],
+        [
+         "groß.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How much do you weigh? wiegen",
@@ -2902,7 +3280,32 @@
       ]
      },
      "more": "Wiegen follows the pattern you know. Take off -en, add the ending. Step 1: stem = wieg. Step 2: ich -e, du -st, er/sie -t, wir/Sie -en. Step 3: add the number and Kilo. After a number, Kilo has no plural, as in ein Kilo / zwei Kilo. Extra example: Mira wiegt 55 Kilo. = Mira weighs 55 kilos.",
-     "lead": "You can say your height. Next: weight and the verb wiegen, so you can answer how much you weigh."
+     "lead": "You can say your height. Next: weight and the verb wiegen, so you can answer how much you weigh.",
+     "deeper": {
+      "text": "Units stay singular after a number: 70 Kilo, zwei Meter. English adds an s to kilos and metres, German does not. The verb wiegen is regular, with one small point: the stem ends in g, so du wiegst takes just -st, with no extra e. Easy to say, easy to write.",
+      "example": {
+       "de": "Mira wiegt 60 Kilo.",
+       "en": "Mira weighs 60 kilos.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "wiegt",
+         "verb"
+        ],
+        [
+         "60",
+         "other"
+        ],
+        [
+         "Kilo.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Polite questions at the doctor: Sie",
@@ -2999,7 +3402,36 @@
       ]
      },
      "more": "Sie always goes with the she-and-they verb form. The verb for Sie ends in -en, or it is sind. Step 1: decide du or Sie. Step 2: pick the question: alt, groß or wie viel. Step 3: use bist/sind or wiegst/wiegen. Extra example: Wie alt bist du? = Wie alt sind Sie? Same question, two politeness levels.",
-     "lead": "You can ask these questions with du. Next: the polite Sie form of the same questions, so you can ask an adult at the doctor's."
+     "lead": "You can ask these questions with du. Next: the polite Sie form of the same questions, so you can ask an adult at the doctor's.",
+     "deeper": {
+      "text": "With Sie, the verb always looks like the infinitive: wiegen Sie, haben Sie, kommen Sie. The only exception is sein, which becomes sind. So if you know the infinitive, you know the polite form already. This makes formal speech easier than it sounds.",
+      "example": {
+       "de": "Wie viel Zeit haben Sie?",
+       "en": "How much time do you have?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "viel",
+         "question"
+        ],
+        [
+         "Zeit",
+         "object"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A personal question? Say no politely",
@@ -3085,7 +3517,40 @@
       "Say Das ist privat. or Das möchte ich nicht sagen."
      ],
      "more": "You do not have to answer every question. A short, friendly refusal is normal. Step 1: smile. Step 2: say Entschuldigung (sorry). Step 3: say your refusal. In Das möchte ich nicht sagen, the word Das comes first, but the verb is still in part 2. The pronoun ich goes after it. Extra example: Das sage ich nicht. = I am not saying that.",
-     "lead": "You can ask for age, height and weight. Next: how to say no politely to a personal question, so you can refuse without being rude."
+     "lead": "You can ask for age, height and weight. Next: how to say no politely to a personal question, so you can refuse without being rude.",
+     "deeper": {
+      "text": "In a refusal like Das möchte ich nicht sagen, nicht sits in front of the last verb. The modal is at chair 2, and the infinitive with nicht closes the sentence. You can add a time word before nicht: heute nicht sagen. The pattern stays, and it works with every modal.",
+      "example": {
+       "de": "Das möchte ich heute nicht sagen.",
+       "en": "I do not want to say that today.",
+       "parts": [
+        [
+         "Das",
+         "object"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "sagen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A doctor's form: all together",
@@ -3184,7 +3649,32 @@
       "You: Das möchte ich nicht sagen."
      ],
      "more": "Think of the form as three small boxes: age, height, weight. For each box you can fill it in or politely skip it. Step 1: listen for alt, groß or wie viel. Step 2: answer with the right pattern: bin … alt, bin … groß, wiege … Kilo. Step 3: or refuse with Das ist privat. Extra example: Ich wiege 60 Kilo. = I weigh 60 kilos.",
-     "lead": "Last card of this lesson: a doctor's form in one go, so you can answer the questions about age and height, and decline the one about weight."
+     "lead": "Last card of this lesson: a doctor's form in one go, so you can answer the questions about age and height, and decline the one about weight.",
+     "deeper": {
+      "text": "Forms use nouns built from the words you know. alt gives das Alter (age), groß gives die Größe (height). Spotting the connection helps you learn new words faster. You will meet these nouns on a form, but when you speak, you use the adjective: Wie groß bist du?",
+      "example": {
+       "de": "Wie groß ist Ben?",
+       "en": "How tall is Ben?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "groß",
+         "adjective"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Ben?",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -3894,7 +4384,28 @@
       ]
      ],
      "more": "A command is a sentence that starts with the verb. Step 1: take the infinitive: trinken. Step 2: put it first. Step 3: add Sie right behind it. Step 4: add the rest: viel Tee. For Sie, the verb looks exactly like the infinitive. Doctors use this form all day long. Extra example: Kommen Sie bitte. = Please come.",
-     "lead": "You can ask a doctor's questions. Next: a command for an adult with Sie, so you can tell a patient what to do, like take a tablet."
+     "lead": "You can ask a doctor's questions. Next: a command for an adult with Sie, so you can tell a patient what to do, like take a tablet.",
+     "deeper": {
+      "text": "A Sie command looks just like a yes/no question: Gehen Sie? and Gehen Sie! share the same word order. The difference is in your voice and in the mark at the end. A command falls at the end and has a full stop or exclamation mark. A question rises and has a question mark.",
+      "example": {
+       "de": "Warten Sie hier.",
+       "en": "Wait here.",
+       "parts": [
+        [
+         "Warten",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "hier.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Stem-changing verbs: nothing changes for Sie",
@@ -3995,7 +4506,32 @@
       ]
      },
      "more": "The stem changes only happen in the du and er/sie forms. Sie is an outsider, so the verb stays in its basic form. Step 1: say the infinitive. Step 2: put Sie behind it. That is all. No stem change, no umlaut. Extra example: Lesen Sie den Text. = Read the text.",
-     "lead": "You know the Sie command. Next: verbs that change their stem for du, and why the Sie command does not change, so you can tell a patient to take or eat something."
+     "lead": "You know the Sie command. Next: verbs that change their stem for du, and why the Sie command does not change, so you can tell a patient to take or eat something.",
+     "deeper": {
+      "text": "Why does the Sie command never change its stem? Because the Sie form is the same as the infinitive. Verbs only change their stem for du and er, sie, es. In the polite form there is nothing to change, so you only have to learn the infinitive once.",
+      "example": {
+       "de": "Lesen Sie den Brief.",
+       "en": "Read the letter.",
+       "parts": [
+        [
+         "Lesen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Brief.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sein: Seien Sie ruhig!",
@@ -4098,7 +4634,32 @@
       ]
      ],
      "more": "Most verbs are easy: infinitive plus Sie. Sein is the odd one. It has its own command word, seien. Step 1: do not say sind. Step 2: say seien. Step 3: add Sie and an adjective. Extra example: Seien Sie bitte pünktlich. = Please be on time. Learn all three together: Seien Sie, sei, seid. You will see sei and seid soon.",
-     "lead": "You can give Sie commands with normal verbs. Next: the irregular Sie command of sein, so you can say be calm or be on time."
+     "lead": "You can give Sie commands with normal verbs. Next: the irregular Sie command of sein, so you can say be calm or be on time.",
+     "deeper": {
+      "text": "Compare a question and a command. Sind Sie ruhig? asks whether you are calm. Seien Sie ruhig! tells you to be calm. The command uses a different form of sein, which looks odd, so learn Seien Sie as one block, the way you learn a short phrase.",
+      "example": {
+       "de": "Seien Sie bitte pünktlich.",
+       "en": "Please be on time.",
+       "parts": [
+        [
+         "Seien",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "pünktlich.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Separable verbs: Rufen Sie an!",
@@ -4225,7 +4786,36 @@
       ]
      ],
      "more": "Picture a train. The engine is Rufen, then Sie, then the other wagons. The last wagon is the prefix an. Step 1: split the verb: an + rufen. Step 2: the verb goes first, then Sie. Step 3: the prefix goes last. Extra example: Kaufen Sie bitte ein. = Please shop.",
-     "lead": "You can give a command with sein. Next: separable verbs in a Sie command, so you can say call me or get up slowly."
+     "lead": "You can give a command with sein. Next: separable verbs in a Sie command, so you can say call me or get up slowly.",
+     "deeper": {
+      "text": "A separable verb works like a frame: the verb comes first, the prefix goes to the very end, and everything else sits in between. Objects, bitte and time words all go inside the frame. The longer the sentence, the further apart the two halves are.",
+      "example": {
+       "de": "Kaufen Sie bitte Brot ein.",
+       "en": "Please buy bread.",
+       "parts": [
+        [
+         "Kaufen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "Brot",
+         "object"
+        ],
+        [
+         "ein.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Medicine forms and how often",
@@ -4380,7 +4970,44 @@
       ]
      ],
      "more": "Doctors always say how much and how often. How much: eine Tablette, zehn Tropfen. How often: einmal, zweimal, dreimal am Tag. Step 1: Nehmen Sie. Step 2: how often. Step 3: how much. Tropfen is plural when you count: zehn Tropfen. Extra example: Nehmen Sie einmal am Tag eine Tablette. = Take one tablet once a day.",
-     "lead": "You can tell a patient what to do. Next: medicine words and how often to take them, so you can read a dose on a medicine box."
+     "lead": "You can tell a patient what to do. Next: medicine words and how often to take them, so you can read a dose on a medicine box.",
+     "deeper": {
+      "text": "The ending -mal means times. Put it after a number: einmal, zweimal, dreimal, viermal. You can use it with any number, so viermal is four times and fünfmal is five times. The word Tag stays the same, so you only need to change the number.",
+      "example": {
+       "de": "Nehmen Sie viermal am Tag eine Tablette.",
+       "en": "Take a tablet four times a day.",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "viermal",
+         "time"
+        ],
+        [
+         "am",
+         "time"
+        ],
+        [
+         "Tag",
+         "time"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Tablette.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Do not! nicht and kein",
@@ -4481,7 +5108,36 @@
       ]
      },
      "more": "A no-command is a command with a no word. Step 1: do you say no to an action? Use nicht: Arbeiten Sie nicht. Step 2: do you say no to a thing? Use kein: keinen Kaffee, keine Tabletten. Masculine things change to keinen, as you learned for the object. Extra example: Essen Sie keine Wurst. = Do not eat sausage.",
-     "lead": "You can say what to take. Next: saying do not with nicht and kein, so you can warn someone what to avoid."
+     "lead": "You can say what to take. Next: saying do not with nicht and kein, so you can warn someone what to avoid.",
+     "deeper": {
+      "text": "nicht goes right before the part you want to deny. If you deny the whole action, it goes near the end. If you deny just the place, it goes before the place. Gehen Sie nicht zum Arzt means do not go to the doctor, so maybe go somewhere else. Where nicht sits changes the meaning.",
+      "example": {
+       "de": "Gehen Sie nicht zum Arzt.",
+       "en": "Do not go to the doctor.",
+       "parts": [
+        [
+         "Gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "zum",
+         "preposition"
+        ],
+        [
+         "Arzt.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "At the pharmacy",
@@ -4576,7 +5232,24 @@
       "You say Danke. He says Gute Besserung!"
      ],
      "more": "A pharmacy trip has four small steps. Step 1: the doctor writes a prescription. Step 2: you go to the Apotheke. Step 3: the pharmacist tells you what to do, with commands like Nehmen Sie … Step 4: you say Danke and hear Gute Besserung! The chunks mit dem Rezept and zur Apotheke you learn as whole pieces. Extra example: Ich brauche ein Medikament. = I need a medicine.",
-     "lead": "Last card of this lesson: a visit to the pharmacy, so you can ask for your medicine and understand what the pharmacist says back."
+     "lead": "Last card of this lesson: a visit to the pharmacy, so you can ask for your medicine and understand what the pharmacist says back.",
+     "deeper": {
+      "text": "You say Gute Besserung! to anyone who is ill, not only at the pharmacy. Besserung means getting better, so the wish is good improvement. It is polite and friendly, and you can say it to a colleague, a friend or a neighbour. People also write it in messages.",
+      "example": {
+       "de": "Gute Besserung!",
+       "en": "Get well soon!",
+       "parts": [
+        [
+         "Gute",
+         "adjective"
+        ],
+        [
+         "Besserung!",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5285,7 +5958,28 @@
       ]
      ],
      "more": "Friends do not need long commands. Step 1: take the verb for du: du trinkst. Step 2: throw away du. Step 3: throw away -st. What is left is the command: Trink! Compare with Sie: Trinken Sie! (longer and more polite). Same idea, two sizes. Extra example: Warte hier. is for a friend, Warten Sie hier. is for a stranger.",
-     "lead": "You can give Sie commands to adults. Next: the du command for a friend, so you can tell someone close what to do."
+     "lead": "You can give Sie commands to adults. Next: the du command for a friend, so you can tell someone close what to do.",
+     "deeper": {
+      "text": "The du command is almost the same as in English: the bare verb with nothing added. Come! is Komm!, and Drink! is Trink!. Add bitte to be friendly, and it is no longer blunt. With a friend, a short command is normal and warm, not rude.",
+      "example": {
+       "de": "Mach bitte Pause.",
+       "en": "Take a break, please.",
+       "parts": [
+        [
+         "Mach",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "Pause.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "e → i stays: Nimm! Iss! Lies!",
@@ -5378,7 +6072,28 @@
       ]
      },
      "more": "The stem change comes along with you. Step 1: look at the du form: du nimmst. Step 2: take off du and -st: Nimm. The vowel i is still there. Do not say Nehm! Compare: Sie say Nehmen Sie, friends say Nimm. Extra example: Sprich langsam! = Speak slowly. (du sprichst).",
-     "lead": "You can make du commands. Next: the vowel change in verbs like nehmen and essen, so you can say Take or Eat to a friend."
+     "lead": "You can make du commands. Next: the vowel change in verbs like nehmen and essen, so you can say Take or Eat to a friend.",
+     "deeper": {
+      "text": "Stem-changing verbs never add an e in the command: it is Nimm!, not Nimme!, and Sprich!, not Spreche!. The command is short, just the stem. Also notice the spelling: nehmen becomes nimm with a double m. Say it, and the double m will feel natural.",
+      "example": {
+       "de": "Sprich bitte langsam.",
+       "en": "Please speak slowly.",
+       "parts": [
+        [
+         "Sprich",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "langsam.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "a → ä does NOT stay: Fahr! Schlaf!",
@@ -5468,7 +6183,24 @@
       ]
      },
      "more": "Two groups of stem changers: the i-group and the ä-group. The i-group keeps its change: Nimm, Iss, Lies. The ä-group drops it: Fahr, Schlaf. Step 1: look at the vowel. e becomes i or ie? Keep it. a becomes ä? Go back to a. Extra example: Schlaf gut! = Sleep well. Not Schläf!",
-     "lead": "You know the e to i change in du commands. Next: verbs with an umlaut that disappears in the command, so you can say Drive or Sleep correctly."
+     "lead": "You know the e to i change in du commands. Next: verbs with an umlaut that disappears in the command, so you can say Drive or Sleep correctly.",
+     "deeper": {
+      "text": "A way to remember it: the i stays, the umlaut goes. For nimmst and sprichst, the new vowel stays in the command. For fährst and schläfst, the ä goes back to a. You will hear Schlaf gut! all the time as a goodnight wish between friends.",
+      "example": {
+       "de": "Schlaf gut!",
+       "en": "Sleep well!",
+       "parts": [
+        [
+         "Schlaf",
+         "verb"
+        ],
+        [
+         "gut!",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Extra e, and the odd one: sei",
@@ -5551,7 +6283,24 @@
       ]
      ],
      "more": "You know the extra e from chapter 2: du arbeitest. It is there to make the word easy to say. In the command it appears as a final -e: Arbeite! Warte! Sein has its own word: Sei. Step 1: stem ends in -t? Add -e. Step 2: sein? Say Sei. Extra example: Sei nett! = Be nice.",
-     "lead": "You can handle the vowel changes. Next: verbs with a stem ending in t, and the odd form of sein, so you can say Wait or Be calm to a friend."
+     "lead": "You can handle the vowel changes. Next: verbs with a stem ending in t, and the odd form of sein, so you can say Wait or Be calm to a friend.",
+     "deeper": {
+      "text": "The extra e helps your mouth. Wart! is hard to say, because t is a hard sound at the end of the word. Warte! is easier. The same is true for Arbeite! So whenever the stem ends in -t, add -e. It is simply a speaking aid, not a special rule to fear.",
+      "example": {
+       "de": "Warte hier.",
+       "en": "Wait here.",
+       "parts": [
+        [
+         "Warte",
+         "verb"
+        ],
+        [
+         "hier.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Separable verbs: Ruf an! Steh auf!",
@@ -5662,7 +6411,32 @@
       ]
      ],
      "more": "Think of a train that splits. The engine (Ruf) runs first. The last wagon (an) rides at the end. In between: your other words. Step 1: split the verb: an + rufen. Step 2: du command of the main verb: Ruf. Step 3: prefix last: Ruf mich an. Extra example: Kauf bitte Brot ein. = Please buy bread.",
-     "lead": "You can say Be calm to a friend. Next: separable verbs in du commands, so you can say Call me or Get up to a friend."
+     "lead": "You can say Be calm to a friend. Next: separable verbs in du commands, so you can say Call me or Get up to a friend.",
+     "deeper": {
+      "text": "The frame works the same way as with Sie. The verb goes first, the prefix goes last, and everything else sits in between. Short words like mich, bitte and a time such as um sieben fit inside. So the du command is a small frame with one short verb.",
+      "example": {
+       "de": "Ruf bitte Mira an.",
+       "en": "Please call Mira.",
+       "parts": [
+        [
+         "Ruf",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "Mira",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "At the doctor: commands for a friend",
@@ -5740,7 +6514,36 @@
       "Doctor: Pass auf!"
      ],
      "more": "Here the separable prefix is a tiny word: auf (open) and zu (closed). Aufmachen means to open, zumachen means to close. Step 1: choose the verb. Step 2: make the du command: Mach. Step 3: say the object: den Mund (masculine, so den). Step 4: put the prefix last. Extra example: Pass auf! = Watch out! It is aufpassen.",
-     "lead": "You can give du commands. Next: friendly doctor commands, so you can play doctor with a friend and say Open your mouth."
+     "lead": "You can give du commands. Next: friendly doctor commands, so you can play doctor with a friend and say Open your mouth.",
+     "deeper": {
+      "text": "auf and zu are opposites, so the two separable verbs are a pair. aufmachen means open, and zumachen means close. You can use the pair with many things: the door, the window, your mouth. If you remember one, you remember the other.",
+      "example": {
+       "de": "Mach bitte die Tür auf.",
+       "en": "Please open the door.",
+       "parts": [
+        [
+         "Mach",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Tür",
+         "noun"
+        ],
+        [
+         "auf.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Friendly tips: do and do not",
@@ -5814,7 +6617,28 @@
       "For no to a thing: use kein, keinen or keine."
      ],
      "more": "Tips from a friend are just short commands. Step 1: pick the verb and make the du command. Step 2: add your words. Step 3: do you want to say do not? For an action use nicht (Arbeite nicht). For a thing use kein (Trink keinen Kaffee). Masculine things change to keinen. Extra example: Iss keine Wurst. = Do not eat sausage.",
-     "lead": "Last card of this lesson: friendly tips with du, so you can give advice like Eat vegetables and also say what not to do."
+     "lead": "Last card of this lesson: friendly tips with du, so you can give advice like Eat vegetables and also say what not to do.",
+     "deeper": {
+      "text": "Compare im Bett and ins Bett. You know this from lesson 7. Bleib im Bett means stay in bed, where you already are. Geh ins Bett means go to bed, with movement into it. The command verb tells you which one to use: bleiben stays, gehen moves.",
+      "example": {
+       "de": "Bleib im Bett.",
+       "en": "Stay in bed.",
+       "parts": [
+        [
+         "Bleib",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Bett.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -6500,7 +7324,28 @@
       ]
      ],
      "more": "You know ihr from chapter 2: ihr spielt, ihr kommt. The command is almost the same. Step 1: take the ihr form: ihr kommt. Step 2: throw away ihr. Step 3: Kommt! Compare: ihr kommt = you come. Kommt! = come! Only the word order and the missing ihr change. Extra example: Geht geradeaus! also works for several friends.",
-     "lead": "You can give du commands to one friend. Next: the same kind of command to two or more friends, with ihr, so you can speak to a group."
+     "lead": "You can give du commands to one friend. Next: the same kind of command to two or more friends, with ihr, so you can speak to a group.",
+     "deeper": {
+      "text": "The ihr command is the easiest of the three: you take the ihr statement, drop ihr and move the verb to the front. Ihr kommt becomes Kommt! There are no new endings to learn. It is also the only command that looks exactly like the statement without its subject.",
+      "example": {
+       "de": "Macht bitte Pause.",
+       "en": "Take a break, please.",
+       "parts": [
+        [
+         "Macht",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "Pause.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Stem changers with ihr: no change",
@@ -6589,7 +7434,32 @@
       ]
      },
      "more": "Good news: ihr is easy. Step 1: the ihr form is the stem + -t: nehm + t. Step 2: no stem change at all. Step 3: put the verb first. Compare with du: Nimm! (changed) and ihr: Nehmt! (not changed). Extra example: Lest die Karte! = Read the card (to several people).",
-     "lead": "You can make ihr commands. Next: stem-changing verbs in the ihr command, which do not change, so you can say Take or Eat to a group."
+     "lead": "You can make ihr commands. Next: stem-changing verbs in the ihr command, which do not change, so you can say Take or Eat to a group.",
+     "deeper": {
+      "text": "The ihr form never changes its stem, so the ihr command is a safe choice for stem-changing verbs. You never need to think about i or umlaut: Esst, Lest, Fahrt. If you are unsure about a verb, the ihr form is the one with the fewest surprises.",
+      "example": {
+       "de": "Lest bitte den Brief.",
+       "en": "Please read the letter.",
+       "parts": [
+        [
+         "Lest",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Brief.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sein and the extra e: Seid! Wartet!",
@@ -6676,7 +7546,28 @@
       ]
      ],
      "more": "Seid is the ihr form of sein you learned in chapter 2: ihr seid. The command looks the same, with the verb first. For warten and arbeiten, the e is already in the ihr form: ihr wartet. Step 1: ihr form. Step 2: remove ihr. Step 3: put the verb first. Extra example: Arbeitet nicht! = Do not work (to several people).",
-     "lead": "You know the ihr command shape. Next: sein and verbs with a t at the end of the stem, so you can say Be quiet or Wait to a group."
+     "lead": "You know the ihr command shape. Next: sein and verbs with a t at the end of the stem, so you can say Be quiet or Wait to a group.",
+     "deeper": {
+      "text": "Seid is exactly the ihr form of sein: ihr seid. So the command is the statement without ihr. With sein, the three commands all look different: Seien Sie, Sei, Seid. But Seid is the easiest, because it matches the verb form you already know.",
+      "example": {
+       "de": "Seid bitte nett.",
+       "en": "Please be nice.",
+       "parts": [
+        [
+         "Seid",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Separable verbs with ihr: Ruft an!",
@@ -6787,7 +7678,24 @@
       ]
      ],
      "more": "The same train again: the engine first, the last wagon is the prefix. Step 1: split the verb: auf + stehen. Step 2: ihr command: Steht. Step 3: other words, then the prefix last. Extra example: Nehmt die Tasche mit! = Take the bag along (mitnehmen).",
-     "lead": "You can make ihr commands with ordinary verbs. Next: separable verbs in the ihr command, so you can say Call me or Get up to a group."
+     "lead": "You can make ihr commands with ordinary verbs. Next: separable verbs in the ihr command, so you can say Call me or Get up to a group.",
+     "deeper": {
+      "text": "The same frame again: verb first, prefix last. Passt auf! is what people say when you must be careful, and it is useful in real life. Aufpassen means to pay attention or to watch out. You will hear it from teachers, parents and friends, usually with a raised voice.",
+      "example": {
+       "de": "Passt auf!",
+       "en": "Watch out!",
+       "parts": [
+        [
+         "Passt",
+         "verb"
+        ],
+        [
+         "auf!",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Three commands side by side",
@@ -6901,7 +7809,36 @@
       "ihr (friends): Nehmt eine Tablette!"
      ],
      "more": "Think of three little doors. The first door is Sie: polite, with Sie at the back. The second is du: one friend, short, with the stem. The third is ihr: many friends, ending in -t. Step 1: who are you talking to? Step 2: open the right door. Step 3: put the verb first. The prefix always goes last. Extra example: Rufen Sie an! Ruf an! Ruft an! = Call! (three ways).",
-     "lead": "You now know three command forms. Next: Sie, du and ihr side by side, so you can see the three in one look and tell them apart."
+     "lead": "You now know three command forms. Next: Sie, du and ihr side by side, so you can see the three in one look and tell them apart.",
+     "deeper": {
+      "text": "When you speak to a person by name, put the name first and a comma after it: Mira, ruf bitte Ben an. The name is not part of the command, it only gets the person's attention. The verb stays the first word of the command itself.",
+      "example": {
+       "de": "Mira, ruf bitte Ben an.",
+       "en": "Mira, please call Ben.",
+       "parts": [
+        [
+         "Mira,",
+         "other"
+        ],
+        [
+         "ruf",
+         "verb"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "Ben",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Who are you talking to?",
@@ -6999,7 +7936,40 @@
       "Two or more friends: ihr."
      ],
      "more": "It is like choosing the right key. Step 1: count the people. One or more? Step 2: how well do you know them? Stranger or friend? Step 3: stranger: Sie. One friend: du. Several friends: ihr. If you are unsure, take Sie. Nobody is offended by a polite word. Extra example: Leon, sei ruhig! (du). Leon und Ben, seid ruhig! (ihr).",
-     "lead": "You can see all three forms together. Next: how to choose the right form for the person you speak to, so you pick the right command every time."
+     "lead": "You can see all three forms together. Next: how to choose the right form for the person you speak to, so you pick the right command every time.",
+     "deeper": {
+      "text": "In many German offices, colleagues use du. Often the older or senior person offers it. Until someone offers, stay with Sie. Once you both say du, switch and stay with it. If you say du too early, it may sound rude, so being careful is the better choice at first.",
+      "example": {
+       "de": "Herr Ali, warten Sie bitte hier.",
+       "en": "Herr Ali, please wait here.",
+       "parts": [
+        [
+         "Herr",
+         "other"
+        ],
+        [
+         "Ali,",
+         "other"
+        ],
+        [
+         "warten",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "hier.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The sounds p/b, t/d, k/g",
@@ -7105,7 +8075,32 @@
       "Say each word aloud, three times."
      ],
      "more": "Hold a hand in front of your mouth. Say Pause: you feel a puff of air. Say Bett: almost no puff. That is the whole difference at the start of a word. At the end of a word German is lazy: b, d and g all turn into their hard friends. So Tag ends in a k sound, Hand in a t sound. Step 1: say the pair Pause / Bett. Step 2: say Tag. Step 3: say Hand.",
-     "lead": "Last card of this lesson: the sounds p and b, t and d, k and g, so you can say words like Pause, Bett and Tag clearly."
+     "lead": "Last card of this lesson: the sounds p and b, t and d, k and g, so you can say words like Pause, Bett and Tag clearly.",
+     "deeper": {
+      "text": "There is an easy way to check: add an ending or look at the plural. Tag has a g, and it sounds like Tak. But the plural is Tage, and there you hear the g. Hand has a d, but Hände has a d you can hear. The spelling shows the soft letter when it is not at the end.",
+      "example": {
+       "de": "Der Tag ist schön.",
+       "en": "The day is nice.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Tag",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -7830,7 +8825,32 @@
       ]
      ],
      "more": "Dürfen works like können: ich kann, er kann (no ending) and ich darf, er darf. Step 1: learn the six forms. Step 2: the modal is in part 2. Step 3: the second verb is an infinitive, at the end. Notice the umlaut: darf (a) but dürfen (ü). Extra example: Anna darf Kaffee trinken. = Anna is allowed to drink coffee.",
-     "lead": "You know all the command forms. Next: dürfen, which means may or to be allowed to, so you can say what is permitted."
+     "lead": "You know all the command forms. Next: dürfen, which means may or to be allowed to, so you can say what is permitted.",
+     "deeper": {
+      "text": "Look at the singular forms: ich darf and er darf are identical, with no ending. The same is true for kann and muss. That is a pattern for all modal verbs: ich and er, sie, es look the same. Then learn du darfst and ihr dürft. The wir, sie and Sie forms look like the infinitive.",
+      "example": {
+       "de": "Er darf Tee trinken.",
+       "en": "He may drink tea.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "darf",
+         "verb"
+        ],
+        [
+         "Tee",
+         "object"
+        ],
+        [
+         "trinken.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask for permission: Darf ich …?",
@@ -7920,7 +8940,36 @@
       "No: Nein, das dürfen Sie nicht."
      ],
      "more": "Asking for permission is like knocking on a door. Step 1: knock with Darf ich? Step 2: say what you want, as an infinitive at the end: Darf ich duschen? Step 3: listen: Ja, bitte (yes) or Nein, das dürfen Sie nicht (no). In the short answer das means that, and the verb dürfen is in part 2. Extra example: Darf ich aufstehen? = May I get up?",
-     "lead": "You can say what is allowed. Next: asking for permission with Darf ich …?, so you can ask a doctor if you may drink or shower."
+     "lead": "You can say what is allowed. Next: asking for permission with Darf ich …?, so you can ask a doctor if you may drink or shower.",
+     "deeper": {
+      "text": "Darf ich is also a polite way to ask for something in daily life, not only at the doctor. It is a little more formal than Kann ich. In a café, at a meeting or on a train, Darf ich bitte …? sounds friendly and respectful. Native speakers use it all the time.",
+      "example": {
+       "de": "Darf ich bitte hier warten?",
+       "en": "May I wait here, please?",
+       "parts": [
+        [
+         "Darf",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "hier",
+         "place"
+        ],
+        [
+         "warten?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "man: you, one, people in general",
@@ -8029,7 +9078,36 @@
       ]
      },
      "more": "A sign cannot say you, because it talks to everyone. So German uses man. Step 1: man takes the same verb form as er: man darf. Step 2: a place can start the sentence: Hier darf man … Step 3: the infinitive goes last. Man with one n is the word on signs. Mann with two n's is a man. Extra example: Hier darf man essen. = You may eat here.",
-     "lead": "You can ask for permission. Next: the small word man, which means people in general, so you can read signs and rules."
+     "lead": "You can ask for permission. Next: the small word man, which means people in general, so you can read signs and rules.",
+     "deeper": {
+      "text": "man works with other verbs too: Man kann, man muss, man darf. It always takes the same form as er or sie, so you never learn something new. Be careful with spelling: man has one n and a small letter. Mann with two n and a capital letter is a male person.",
+      "example": {
+       "de": "Hier kann man Kaffee trinken.",
+       "en": "Here you can drink coffee.",
+       "parts": [
+        [
+         "Hier",
+         "place"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "man",
+         "subject"
+        ],
+        [
+         "Kaffee",
+         "object"
+        ],
+        [
+         "trinken.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "erlaubt or verboten?",
@@ -8118,7 +9196,32 @@
       ]
      },
      "more": "Imagine a green and a red light. Green: erlaubt. Red: verboten. Step 1: find the rule. Step 2: say it with dürfen (Man darf nicht rauchen) or with the adjective (Rauchen ist verboten). Both are correct. Remember that nicht dürfen = verboten. Extra example: Telefonieren ist hier nicht erlaubt. = Phoning is not allowed here.",
-     "lead": "You know man for rules. Next: two words for allowed and forbidden, so you can say that something is allowed or that it is forbidden."
+     "lead": "You know man for rules. Next: two words for allowed and forbidden, so you can say that something is allowed or that it is forbidden.",
+     "deeper": {
+      "text": "A verb used as a noun gets a capital letter: Rauchen ist verboten. The word means smoking, so it is written like a noun. On signs people often drop ist and just write Rauchen verboten. When you read a sign, look for the capital letter and for verboten or erlaubt.",
+      "example": {
+       "de": "Telefonieren ist hier verboten.",
+       "en": "Phoning is forbidden here.",
+       "parts": [
+        [
+         "Telefonieren",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "hier",
+         "place"
+        ],
+        [
+         "verboten.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How long? Wie lange darf ich …?",
@@ -8239,7 +9342,40 @@
       ]
      },
      "more": "Doctors always say how long. Step 1: ask Wie lange? Step 2: the answer is a length of time: drei Tage (three days), eine Woche (one week), or bis + a day. Step 3: nicht usually goes near the end, before the infinitive. The plural of Tag is Tage. Extra example: Sie dürfen eine Woche keinen Sport machen. = You may not do sport for a week.",
-     "lead": "You can say allowed and forbidden. Next: asking how long a rule lasts with Wie lange, so you can ask how many days you may not work."
+     "lead": "You can say allowed and forbidden. Next: asking how long a rule lasts with Wie lange, so you can ask how many days you may not work.",
+     "deeper": {
+      "text": "A length of time needs no little word in German: drei Tage, eine Woche. English says for three days, but German says three days alone. The little word bis (until) gives an end point: bis Montag. So length has no word, and a date or day has bis.",
+      "example": {
+       "de": "Sie dürfen eine Woche nicht arbeiten.",
+       "en": "You may not work for one week.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "dürfen",
+         "verb"
+        ],
+        [
+         "eine",
+         "time"
+        ],
+        [
+         "Woche",
+         "time"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "nicht dürfen or nicht müssen?",
@@ -8351,7 +9487,36 @@
       ]
      },
      "more": "Think of a door. Nicht dürfen: the door is locked. You cannot go in. Nicht müssen: the door is open, but nobody forces you to go in. Step 1: forbidden? Say nicht dürfen. Step 2: only not necessary? Say nicht müssen. In English must not and do not have to confuse people too, but German keeps the meanings apart. Extra example: Ich muss nicht kommen. = I do not have to come.",
-     "lead": "You can ask how long a rule lasts. Next: the difference between nicht dürfen and nicht müssen, so you can tell forbidden apart from not necessary."
+     "lead": "You can ask how long a rule lasts. Next: the difference between nicht dürfen and nicht müssen, so you can tell forbidden apart from not necessary.",
+     "deeper": {
+      "text": "English mixes these two up. You must not means forbidden, but you do not have to means not necessary. German is clearer: nicht dürfen is the first, nicht müssen is the second. If you match them to the English phrases, nicht müssen is the same as do not have to.",
+      "example": {
+       "de": "Ich muss heute nicht arbeiten.",
+       "en": "I do not have to work today.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "At the doctor: may I? you may not",
@@ -8434,7 +9599,36 @@
       "Doctor: Nein, Sie dürfen keinen Kaffee trinken."
      ],
      "more": "A visit to the doctor is full of may and may not. Step 1: ask your question with Darf ich? Step 2: the doctor says Ja or Nein. Step 3: for no, the doctor often uses keinen with a thing, or nicht with an action. A separable verb like aufstehen does not split after a modal: it goes to the end in one piece. Extra example: Darf ich aufstehen? = May I get up?",
-     "lead": "Last card of this lesson: a short doctor dialogue about what you may and may not do, so you can ask Darf ich? and understand the answer."
+     "lead": "Last card of this lesson: a short doctor dialogue about what you may and may not do, so you can ask Darf ich? and understand the answer.",
+     "deeper": {
+      "text": "kein follows the gender of the thing. After dürfen, a masculine thing takes keinen, a neuter thing takes kein, and a feminine or plural thing takes keine. So Sie dürfen kein Fleisch essen, but Sie dürfen keinen Kaffee trinken. Fleisch is neuter, and Kaffee is masculine.",
+      "example": {
+       "de": "Sie dürfen kein Fleisch essen.",
+       "en": "You may not eat meat.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "dürfen",
+         "verb"
+        ],
+        [
+         "kein",
+         "article"
+        ],
+        [
+         "Fleisch",
+         "noun"
+        ],
+        [
+         "essen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -9183,7 +10377,40 @@
       ]
      ],
      "more": "Sollen is a messenger verb. It means somebody else said so: the doctor, the teacher, your mother. Step 1: learn six forms, like wollen. Step 2: the modal is in part 2. Step 3: the other verb is an infinitive, at the end. Careful: ich soll and er soll have no ending. Extra example: Leon soll viel schlafen. = Leon is supposed to sleep a lot.",
-     "lead": "You can say what is allowed and not allowed. Next: sollen, which means supposed to, so you can say what someone told you to do."
+     "lead": "You can say what is allowed and not allowed. Next: sollen, which means supposed to, so you can say what someone told you to do.",
+     "deeper": {
+      "text": "sollen means someone said so, not just that it is a good idea. The pattern is the same as in other modals: ich soll and er soll look the same. It is also like wollen, with no umlaut. So the doctor says it, and you carry it out, or you report it.",
+      "example": {
+       "de": "Mira soll heute zu Hause bleiben.",
+       "en": "Mira is supposed to stay at home today.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "soll",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause",
+         "noun"
+        ],
+        [
+         "bleiben.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Pass on an instruction",
@@ -9309,7 +10536,36 @@
       "The verb goes to the end. Sie becomes ich."
      ],
      "more": "Passing on a message is like turning a command into a report. Step 1: write the command: Nehmen Sie eine Tablette! Step 2: put Ich soll in front. Step 3: the command verb moves to the end as an infinitive. Step 4: drop Sie. A separable verb stays in one piece: Rufen Sie an! becomes Ich soll anrufen. Extra example: Schlafen Sie viel! → Ich soll viel schlafen.",
-     "lead": "You know sollen for what someone told you. Next: turning a doctor's command into a sentence about yourself, so you can repeat the advice."
+     "lead": "You know sollen for what someone told you. Next: turning a doctor's command into a sentence about yourself, so you can repeat the advice.",
+     "deeper": {
+      "text": "When you pass an instruction on, the possessive changes with the speaker. The doctor says Nehmen Sie Ihre Tablette. You say Ich soll meine Tablette nehmen. Ihr (your) becomes mein (my), because now you are the speaker. The command verb goes to the end as an infinitive.",
+      "example": {
+       "de": "Ich soll meine Tabletten nehmen.",
+       "en": "I am supposed to take my tablets.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "soll",
+         "verb"
+        ],
+        [
+         "meine",
+         "article"
+        ],
+        [
+         "Tabletten",
+         "noun"
+        ],
+        [
+         "nehmen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Pass it on to someone else",
@@ -9430,7 +10686,32 @@
       ]
      },
      "more": "A name takes the same form as er or sie: soll. Two people take sollen. Step 1: who? Step 2: soll (one) or sollen (many). Step 3: infinitive last. A colon after sagt introduces what was said. Extra example: Frau Weber sagt: Ben soll früh aufstehen. = Frau Weber says: Ben is supposed to get up early.",
-     "lead": "You can pass on an instruction to yourself. Next: telling another person what to do with sollen, so you can say what someone else must do."
+     "lead": "You can pass on an instruction to yourself. Next: telling another person what to do with sollen, so you can say what someone else must do.",
+     "deeper": {
+      "text": "A separable verb stays whole after a modal. You say Ben soll anrufen, not Ben soll ruft an. The verb is at the end in one piece, and only the modal changes. This is the same rule you used with können in lesson 8 of chapter 7.",
+      "example": {
+       "de": "Frau Weber soll anrufen.",
+       "en": "Frau Weber is supposed to call.",
+       "parts": [
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber",
+         "subject"
+        ],
+        [
+         "soll",
+         "verb"
+        ],
+        [
+         "anrufen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Soll ich …? What should I do?",
@@ -9528,7 +10809,36 @@
       "Ask: Wie lange? Doctor: Eine Woche."
      ],
      "more": "Soll ich? is the question for orders and advice. It is like saying: what is the plan for me? Step 1: choose your question word: was, wie oft, wie lange. Step 2: soll in part 2. Step 3: ich. Step 4: the infinitive last. For a yes/no question start with Soll. The verb tun means to do. You know tut weh from lesson 1: it is a form of tun. Extra example: Soll ich anrufen? = Should I call?",
-     "lead": "You can say what someone should do. Next: asking what you should do with Soll ich …?, so you can ask the doctor for advice."
+     "lead": "You can say what someone should do. Next: asking what you should do with Soll ich …?, so you can ask the doctor for advice.",
+     "deeper": {
+      "text": "Soll ich …? is also how you offer help. It means shall I? and is a friendly question: Soll ich das Fenster öffnen? The other person can answer Ja, bitte or Nein, danke. English uses shall I here too, so the idea is the same.",
+      "example": {
+       "de": "Soll ich das Fenster öffnen?",
+       "en": "Should I open the window?",
+       "parts": [
+        [
+         "Soll",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Fenster",
+         "noun"
+        ],
+        [
+         "öffnen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sollen, müssen or dürfen?",
@@ -9633,7 +10943,36 @@
       ]
      },
      "more": "Ask yourself one question: where does the rule come from? Step 1: from another person: sollen. Step 2: from the situation, you have no choice: müssen. Step 3: from permission, you are free: dürfen. All three sit in part 2 and push the infinitive to the end. Extra example: Ich soll viel schlafen. Ich muss früh aufstehen. Ich darf Sport machen.",
-     "lead": "You can ask what you should do. Next: comparing sollen, müssen and dürfen, so you can pick the modal verb that fits the idea you want."
+     "lead": "You can ask what you should do. Next: comparing sollen, müssen and dürfen, so you can pick the modal verb that fits the idea you want.",
+     "deeper": {
+      "text": "müssen is stronger than sollen. Ich muss means there is no choice, a fact or a duty. Ich soll means someone asked me to. You might ignore a soll, but a muss is a must. In a doctor's office both appear, so listen for which one the doctor uses.",
+      "example": {
+       "de": "Ich muss heute früh aufstehen.",
+       "en": "I have to get up early today.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "früh",
+         "time"
+        ],
+        [
+         "aufstehen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Not too much: viel, wenig, zu viel",
@@ -9727,7 +11066,36 @@
       "Do not do it too much: nicht zu viel."
      ],
      "more": "Amounts are small words that sit in the middle of the sentence. Step 1: viel is the plus word. Step 2: wenig is the minus word. Step 3: zu viel is the too-much word, and nicht zu viel says not too much. Step 4: for a thing you may not have, use keinen, keine or kein. Extra example: Ich soll wenig Fleisch essen. = I am supposed to eat little meat.",
-     "lead": "You can choose between three modal verbs. Next: words for amounts, viel, wenig and zu viel, so you can say how much to do or drink."
+     "lead": "You can choose between three modal verbs. Next: words for amounts, viel, wenig and zu viel, so you can say how much to do or drink.",
+     "deeper": {
+      "text": "viel and wenig stand before a thing and have no ending with words like Tee or Kaffee. Say viel Tee, wenig Kaffee, with no article. You use them just like English a lot of and a little. Doctors use both words very often when they talk about food and drink.",
+      "example": {
+       "de": "Du sollst wenig Kaffee trinken.",
+       "en": "You are supposed to drink little coffee.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "sollst",
+         "verb"
+        ],
+        [
+         "wenig",
+         "other"
+        ],
+        [
+         "Kaffee",
+         "object"
+        ],
+        [
+         "trinken.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The doctor's advice: all together",
@@ -9833,7 +11201,44 @@
       "Mira: Gute Besserung!"
      ],
      "more": "Imagine you are the messenger. The doctor spoke to you. Now you tell your friend. Step 1: listen to the commands. Step 2: say ich soll for each one. Step 3: the verbs go to the end. Step 4: keep the time and amount words in the middle. Your friend says Gute Besserung! Extra example: Der Arzt sagt: Ich soll dreimal am Tag Tropfen nehmen.",
-     "lead": "Last card of this lesson: all the doctor's advice together, so you can pass on several instructions in one talk, to yourself or to someone else."
+     "lead": "Last card of this lesson: all the doctor's advice together, so you can pass on several instructions in one talk, to yourself or to someone else.",
+     "deeper": {
+      "text": "bis means until, and it is used without an article before days: bis Montag, bis Freitag. It sets an end point. Sie sollen bis Freitag im Bett bleiben means stay in bed until Friday. Use bis when you give a deadline or an end, and nothing else.",
+      "example": {
+       "de": "Du sollst bis Freitag zu Hause bleiben.",
+       "en": "You are supposed to stay at home until Friday.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "sollst",
+         "verb"
+        ],
+        [
+         "bis",
+         "preposition"
+        ],
+        [
+         "Freitag",
+         "time"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause",
+         "noun"
+        ],
+        [
+         "bleiben.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -10542,7 +11947,32 @@
       "sollen: Du sollst viel Tee trinken."
      ],
      "more": "The tip is the same, only the packaging changes. Step 1: who are you talking to? A friend: du command. A stranger: Sie command. Step 2: did somebody else say it? Use soll. In a command the verb is first. With sollen the modal is in part 2 and the verb goes to the end. Extra example: Schlaf viel! Schlafen Sie viel! Du sollst viel schlafen.",
-     "lead": "You know sollen, dürfen and the command forms. Next: three ways to give the same health tip, so you can choose the right form for who you talk to."
+     "lead": "You know sollen, dürfen and the command forms. Next: three ways to give the same health tip, so you can choose the right form for who you talk to.",
+     "deeper": {
+      "text": "A command is direct. Du sollst sounds as if you pass on someone else's wish, so it feels less pushy. Between friends, the command is normal and quick. When you want to be gentler, or you repeat a doctor's words, use sollen. Same advice, different tone.",
+      "example": {
+       "de": "Du sollst Wasser trinken.",
+       "en": "You are supposed to drink water.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "sollst",
+         "verb"
+        ],
+        [
+         "Wasser",
+         "object"
+        ],
+        [
+         "trinken.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Household remedies in Germany",
@@ -10627,7 +12057,36 @@
       ]
      },
      "more": "Every country has grandmother's tricks. In Germany grandmother often says: Trink Tee! Step 1: learn the four remedies in the table. Step 2: make a du command: Iss Hühnersuppe! Trink Kamillentee! Step 3: remember: a Hausmittel helps a little, but a doctor helps more. Extra example: Ich trinke Tee mit Zitrone. = I drink tea with lemon.",
-     "lead": "You can give a tip in three ways. Next: home remedies in Germany, so you can name a common remedy like tea with honey."
+     "lead": "You can give a tip in three ways. Next: home remedies in Germany, so you can name a common remedy like tea with honey.",
+     "deeper": {
+      "text": "Tee mit Honig has no article after mit. That is allowed when you mean the thing in general. If you say mit dem Honig, you mean the honey, one particular jar, and the article takes the dative. So no article is a simple and normal way to describe a drink or a dish.",
+      "example": {
+       "de": "Ich trinke Tee mit Zitrone.",
+       "en": "I drink tea with lemon.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "trinke",
+         "verb"
+        ],
+        [
+         "Tee",
+         "object"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "Zitrone.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How often? nie, manchmal, oft, immer",
@@ -10720,7 +12179,32 @@
       ]
      },
      "more": "Picture a line from 0 to 100. Nie is at 0. Manchmal is in the middle on the low side. Oft is high. Immer is at 100. Step 1: choose the point on the line. Step 2: put the word after the verb. Step 3: or start with it, and keep the verb in part 2. Extra example: Ich trinke immer Tee. = I always drink tea.",
-     "lead": "You can name remedies. Next: four small words for how often, nie, manchmal, oft and immer, so you can say how often you do something."
+     "lead": "You can name remedies. Next: four small words for how often, nie, manchmal, oft and immer, so you can say how often you do something.",
+     "deeper": {
+      "text": "nie already means not ever, so never add nicht. A German sentence has only one negative: Ich rauche nie, not Ich rauche nie nicht. English has the same rule in careful speech. The word nie goes after the verb, like the other frequency words oft and immer.",
+      "example": {
+       "de": "Ich trinke nie Kaffee.",
+       "en": "I never drink coffee.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "trinke",
+         "verb"
+        ],
+        [
+         "nie",
+         "negation"
+        ],
+        [
+         "Kaffee.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask and answer: Wie oft? Wie lange?",
@@ -10849,7 +12333,36 @@
       ]
      },
      "more": "Two question words, two kinds of answers. Wie oft? is about the number of times. Wie lange? is about the length of time. Step 1: choose the question word. Step 2: put the modal in part 2. Step 3: the infinitive goes last. Step 4: answer with a number of times (zweimal am Tag) or a length (eine Woche). Extra example: Wie oft soll ich joggen? Dreimal am Tag.",
-     "lead": "You can say how often. Next: asking Wie oft? and Wie lange?, so you can ask how often to take the drops and how long to rest."
+     "lead": "You can say how often. Next: asking Wie oft? and Wie lange?, so you can ask how often to take the drops and how long to rest.",
+     "deeper": {
+      "text": "Wie plus another word asks a question about that word: Wie oft? is how often, Wie lange? is how long, Wie viel? is how much, Wie alt? is how old. Learn the pattern wie + word, and you can form many questions on your own without a new word.",
+      "example": {
+       "de": "Wie oft hast du Kopfschmerzen?",
+       "en": "How often do you have a headache?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "oft",
+         "question"
+        ],
+        [
+         "hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Kopfschmerzen?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Guess words from their parts",
@@ -10923,7 +12436,32 @@
       "Guess the meaning, then check it."
      ],
      "more": "You do not need to know every word. Look inside it. Hustensaft: you know Husten and you know Saft. Together: a juice for the cough. The verb helps too: nehmen suggests medicine, trinken suggests a drink. Step 1: find the small words. Step 2: use the verb as a clue. Step 3: guess. Step 4: check it in your vocabulary list. Extra example: Halstablette = Hals + Tablette: a throat tablet.",
-     "lead": "You can ask about how often and how long. Next: guessing new long words from their parts, so you can understand words like Hustensaft."
+     "lead": "You can ask about how often and how long. Next: guessing new long words from their parts, so you can understand words like Hustensaft.",
+     "deeper": {
+      "text": "The last piece of a long word gives the article and the basic meaning. der Tee gives der Hustentee, a tea for coughs. Sometimes the first piece takes a little glue sound, as in Ohr and Ohrenschmerzen. It looks long, but you will know every piece, so you can guess the meaning.",
+      "example": {
+       "de": "Der Hustentee ist gut.",
+       "en": "The cough tea is good.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Hustentee",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "gut.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Which pattern do I need?",
@@ -11031,7 +12569,32 @@
       ]
      },
      "more": "A chef picks the right tool for each job. You pick the right pattern. Step 1: ask yourself: who is speaking, and what do I want? Step 2: look up the pattern in the table. Step 3: fill in the words. Every pattern puts the verb in the first or second place, and a second verb goes to the very end. Extra example: Darf ich anrufen? = May I call?",
-     "lead": "You can guess new words. Next: choosing the right pattern for what you want to say, so you can pick the command, sollen or dürfen quickly."
+     "lead": "You can guess new words. Next: choosing the right pattern for what you want to say, so you can pick the command, sollen or dürfen quickly.",
+     "deeper": {
+      "text": "To choose the pattern, ask three questions. First: do I give an order, or do I pass one on? Second: is it about permission, or about need? Third: is there a no, with nicht or kein? Those three questions lead you to the right form every time, and they work faster with practice.",
+      "example": {
+       "de": "Du darfst heute aufstehen.",
+       "en": "You may get up today.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "darfst",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "aufstehen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Leon is ill: tips from friends",
@@ -11142,7 +12705,36 @@
       "Leon: Danke! Ich darf bald aufstehen."
      ],
      "more": "Here is a small story. Leon is ill and four people help him. Step 1: find the pattern in each sentence. Mira: du command. Ben: sollen. Frau Weber: Sie command. Step 2: see how the verb sits: first in a command, second with a modal, and the infinitive at the end. Step 3: say each line aloud. Extra example: Leon, du darfst morgen aufstehen. = Leon, you may get up tomorrow.",
-     "lead": "Last card of this chapter: Leon is ill and his friends give him tips, so you can read a real dialogue and see every pattern from the chapter in use."
+     "lead": "Last card of this chapter: Leon is ill and his friends give him tips, so you can read a real dialogue and see every pattern from the chapter in use.",
+     "deeper": {
+      "text": "After sagen you put a colon, and then the quoted sentence starts with a capital letter: Mira sagt: Bleib im Bett. This is how you write what someone said in direct speech. In speech you pause a little after sagt. The sentence after the colon is a complete sentence by itself.",
+      "example": {
+       "de": "Anna sagt: Trink viel Wasser.",
+       "en": "Anna says: Drink a lot of water.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "sagt:",
+         "verb"
+        ],
+        [
+         "Trink",
+         "verb"
+        ],
+        [
+         "viel",
+         "other"
+        ],
+        [
+         "Wasser.",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

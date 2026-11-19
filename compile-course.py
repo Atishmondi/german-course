@@ -131,6 +131,12 @@ def lesson(f, lv, ch, n, L, R):
         if pa is not None and bad_parts(pa): err(f, lid, f'cards[{i}].parts', bad_parts(pa))
         if i and not c.get('intro') and not (nonempty(c.get('lead')) and 12 <= len(c['lead'].split()) <= 45):
             err(f, lid, f'cards[{i}].lead', 'every teaching card needs "lead" (What this card teaches): 12-45 words, bridge from the last card + what this card teaches')
+        dp = c.get('deeper')
+        if i and not c.get('intro'):
+            if not (isinstance(dp, dict) and nonempty(dp.get('text')) and 30 <= len(dp['text'].split()) <= 90 and isinstance(dp.get('example'), dict) and nonempty(dp['example'].get('de')) and nonempty(dp['example'].get('en'))):
+                err(f, lid, f'cards[{i}].deeper', 'every teaching card needs "deeper" (A bit deeper): {"text": 40-80 words, "example": {de, en, parts}}')
+            elif dp['example'].get('parts') is not None and bad_parts(dp['example']['parts'], dp['example']['de']):
+                err(f, lid, f'cards[{i}].deeper.example.parts', bad_parts(dp['example']['parts'], dp['example']['de']))
         mo = c.get('more')
         if not (nonempty(mo) and len(mo.split()) <= 150): err(f, lid, f'cards[{i}].more', 'every card needs "more" (Explain it more simply), at most 150 words')
         if not any(c.get(k) for k in ('table', 'steps', 'parts')):

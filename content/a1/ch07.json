@@ -227,7 +227,32 @@
       ]
      },
      "more": "Picture your desk at work. Every thing on it has a little name tag: der, die or das. Step 1: say the article and the noun together, like der Drucker. Step 2: add the plural: die Drucker (no change, like der Computer). Step 3: notice die Firma becomes die Firmen. The a turns into en. That is a rare one, so learn it by heart. im Büro is a ready-made piece, like im Supermarkt in chapter 4. Extra example: Die Firma ist klein. = The company is small.",
-     "lead": "The intro showed how this lesson joins sentences. On this card: the office words you need, each with der, die or das, so you can say what is on your desk."
+     "lead": "The intro showed how this lesson joins sentences. On this card: the office words you need, each with der, die or das, so you can say what is on your desk.",
+     "deeper": {
+      "text": "Long German nouns are often two words glued together. Schreibtisch is Schreib (writing) + Tisch (table). The last part decides the article, so Tisch is der and Schreibtisch is der too. When you meet a long new word, look at its last part first.",
+      "example": {
+       "de": "Der Schreibtisch ist neu.",
+       "en": "The desk is new.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Schreibtisch",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "und: two sentences become one",
@@ -374,7 +399,36 @@
       ]
      ],
      "more": "Think of two train cars. Each car is a full sentence with its own engine, the verb. und is the little hook between them. The hook does not go inside a car, so nothing in the cars moves. Step 1: say sentence one. Step 2: say und. Step 3: say sentence two exactly as you would alone. Extra example: Ich arbeite, und Leon schläft. = I work, and Leon sleeps.",
-     "lead": "You just met the office words. Next: one small word that joins two full sentences, so you can say two things in one breath, like at work."
+     "lead": "You just met the office words. Next: one small word that joins two full sentences, so you can say two things in one breath, like at work.",
+     "deeper": {
+      "text": "In English there is usually no comma before and. In German the comma is optional, and many writers add it when the second sentence has its own subject. It shows the reader: a new sentence starts here. Short sentences often skip it. Both are correct.",
+      "example": {
+       "de": "Leon liest, und Anna schreibt.",
+       "en": "Leon reads, and Anna writes.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "liest,",
+         "verb"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "schreibt.",
+         "verb"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Chair 0: und does not count",
@@ -533,7 +587,48 @@
       ]
      },
      "more": "Imagine a waiting room. Chair 0 is the doorway, not a real seat. und only stands in the doorway. The real chairs start behind it. Step 1: put und in the doorway. Step 2: put someone or a time on chair 1. Step 3: the verb takes chair 2. Step 4: if a time word took chair 1, the subject sits on chair 3. Extra example: Ich bin hier, und morgen bin ich in Berlin. = I am here, and tomorrow I am in Berlin.",
-     "lead": "You can now join sentences with und. On this card: how word order works after und, oder and aber, so the verb stays in the right place in the second sentence."
+     "lead": "You can now join sentences with und. On this card: how word order works after und, oder and aber, so the verb stays in the right place in the second sentence.",
+     "deeper": {
+      "text": "Why does the word order not change? Because und is glue, not a part of the sentence. Test it: cover und and the second half still stands alone as a correct sentence. That is always true for und, oder and aber, so you never need to rearrange anything.",
+      "example": {
+       "de": "Ich arbeite, und um zehn habe ich Pause.",
+       "en": "I work, and at ten I have a break.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "arbeite,",
+         "verb"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "um",
+         "time"
+        ],
+        [
+         "zehn",
+         "time"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Pause.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "oder: a choice",
@@ -682,7 +777,32 @@
       ]
      },
      "more": "oder is a fork in the road. You stand at the fork and pick one path. Each path is a full sentence. Step 1: say the first option. Step 2: say oder. Step 3: say the second option in its own normal order. In a question, both halves start with the verb. You know oder already from Zusammen oder getrennt? in the café. Extra example: Kommst du mit, oder bleibst du hier? = Are you coming along, or are you staying here?",
-     "lead": "The card before showed the order after und. Next: oder, which gives a choice, so you can ask whether someone wants tea or coffee."
+     "lead": "The card before showed the order after und. Next: oder, which gives a choice, so you can ask whether someone wants tea or coffee.",
+     "deeper": {
+      "text": "In speech, oder at the end of a statement works like English \"right?\" or \"isn't it?\". You say a sentence and add oder? to check that the other person agrees. It is very common and friendly, and you do not change anything else in the sentence.",
+      "example": {
+       "de": "Du kommst heute, oder?",
+       "en": "You are coming today, right?",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "heute,",
+         "time"
+        ],
+        [
+         "oder?",
+         "conjunction"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "aber: but, always with a comma",
@@ -813,7 +933,40 @@
       "= Ich bin müde, aber ich muss arbeiten."
      ],
      "more": "aber is the word for a surprise turn. You expect one thing, then something else comes. I am tired... so I sleep? No: aber I have to work. Step 1: say sentence one. Step 2: comma and aber. Step 3: say sentence two exactly as it would be alone. The most common mistake is to put the verb right after aber. Do not: aber is only the doorway. Extra example: Die Firma ist klein, aber sie ist gut. = The company is small, but it is good.",
-     "lead": "Oder gives a choice. On this card: aber, the word for but, so you can say something is different from what you expect, like being tired but still working."
+     "lead": "Oder gives a choice. On this card: aber, the word for but, so you can say something is different from what you expect, like being tired but still working.",
+     "deeper": {
+      "text": "German writes a comma between almost every pair of sentences, where English often skips it. The comma is a written signal: a new sentence begins. When you speak, you hear it as a tiny pause before aber. So for aber the comma is never optional.",
+      "example": {
+       "de": "Anna ist müde, aber sie arbeitet.",
+       "en": "Anna is tired, but she is working.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "müde,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "sie",
+         "subject"
+        ],
+        [
+         "arbeitet.",
+         "verb"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Same person twice? Drop the second one",
@@ -942,7 +1095,36 @@
       ]
      },
      "more": "Saying ich twice sounds a bit like a robot: I work and I phone and I print. Germans often say the person once. Step 1: check that both sentences have the same person. Step 2: keep the person only in the first one. Step 3: after und, go straight to the verb, and keep its ending for that person. Careful: in Arbeitest du heute oder hast du frei? the second question still needs du after hast, because it is a question. frei haben = to be off work. Extra example: Ben kocht und isst. = Ben cooks and eats.",
-     "lead": "Last card of the joining rules: when both sentences have the same subject, you can shorten the second one, so you can say what you do in one smooth sentence."
+     "lead": "Last card of the joining rules: when both sentences have the same subject, you can shorten the second one, so you can say what you do in one smooth sentence.",
+     "deeper": {
+      "text": "When two verbs share one subject, both verbs must fit that subject. Ich arbeite und telefoniere: both end in -e because both belong to ich. With wir, both would end in -en. If the two verbs need different endings, you must say both subjects.",
+      "example": {
+       "de": "Wir lesen und schreiben E-Mails.",
+       "en": "We read and write emails.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "lesen",
+         "verb"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "schreiben",
+         "verb"
+        ],
+        [
+         "E-Mails.",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1696,7 +1878,36 @@
       ]
      },
      "more": "Think of a recipe: first this, then that, after that the next thing. German has the same little signposts. Step 1: zuerst opens the list. Step 2: dann and danach move you forward. You can use them as often as you like. Step 3: später means a bit later. Tip: danach = da + nach, after that. Extra example: Zuerst koche ich, dann esse ich. = First I cook, then I eat.",
-     "lead": "In the last lesson you joined sentences with und. Next: how to tell a day step by step, so you can say what you do first, then and later."
+     "lead": "In the last lesson you joined sentences with und. Next: how to tell a day step by step, so you can say what you do first, then and later.",
+     "deeper": {
+      "text": "dann and danach are close cousins. dann is the general then. danach means after that and points back to the step you just named, so it fits best right after something finished. später is vaguer: some time later, without saying when.",
+      "example": {
+       "de": "Später schreibe ich eine E-Mail.",
+       "en": "Later I write an email.",
+       "parts": [
+        [
+         "Später",
+         "time"
+        ],
+        [
+         "schreibe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "E-Mail.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "On chair 1: the verb stays on chair 2",
@@ -1809,7 +2020,28 @@
       ]
      },
      "more": "Same chairs as always. The verb owns chair 2 and never gives it away. If zuerst takes chair 1, the person has to sit on chair 3. Step 1: put the sequence word first. Step 2: put the verb right after it. Step 3: then the person. Step 4: the rest. A common mistake is Zuerst ich trinke. That puts the verb on chair 3. Extra example: Danach fahre ich nach Hause. = After that I go home.",
-     "lead": "You now have four time words for order. On this card: what happens to the verb when one of them starts the sentence, so you can say what you do next."
+     "lead": "You now have four time words for order. On this card: what happens to the verb when one of them starts the sentence, so you can say what you do next.",
+     "deeper": {
+      "text": "Why does the subject jump behind the verb? German keeps the verb on chair 2 always, and chair 1 can hold any part. You do not need to memorise a trick. Just ask: what is on chair 1? If it is not the subject, the verb comes next, then the subject.",
+      "example": {
+       "de": "Danach telefoniert Leon.",
+       "en": "After that Leon makes a phone call.",
+       "parts": [
+        [
+         "Danach",
+         "time"
+        ],
+        [
+         "telefoniert",
+         "verb"
+        ],
+        [
+         "Leon.",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "und dann: und is chair 0, dann is chair 1",
@@ -1962,7 +2194,40 @@
       ]
      },
      "more": "Two small words, two different jobs. und is the doorway (chair 0) and does not count. dann is a real guest: it takes chair 1. So after und dann, the verb must come next. Step 1: say und. Step 2: say dann. Step 3: say the verb. Step 4: say the person. Say it out loud a few times: und dann trinke ich, und dann schreibe ich. It becomes a rhythm. Extra example: Ich esse, und dann schlafe ich. = I eat, and then I sleep.",
-     "lead": "You can start a sentence with zuerst or dann. Next: joining two steps with und dann, so you can describe a whole morning in one sentence."
+     "lead": "You can start a sentence with zuerst or dann. Next: joining two steps with und dann, so you can describe a whole morning in one sentence.",
+     "deeper": {
+      "text": "und dann is how people tell a story out loud. You will hear it again and again: und dann, und dann. The comma before und is optional. Only the part after dann needs care: verb first, then subject. Nothing else changes.",
+      "example": {
+       "de": "Leon liest, und dann schreibt er.",
+       "en": "Leon reads, and then he writes.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "liest,",
+         "verb"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "dann",
+         "time"
+        ],
+        [
+         "schreibt",
+         "verb"
+        ],
+        [
+         "er.",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Tasks at work",
@@ -2071,7 +2336,28 @@
       ]
      },
      "more": "A working day is a list of jobs. Each job is a little verb + thing pair. Step 1: pick the thing: E-Mails, eine Aufgabe. Step 2: pick the verb: schreiben, beantworten, erledigen. Step 3: give the verb the right ending for the person. beantworten ends in -ten, so it gets the extra e: du beantwortest, er beantwortet, like arbeiten in chapter 2. Extra example: Leon beantwortet E-Mails. = Leon answers emails.",
-     "lead": "Now you can order a day. Next: the typical office tasks, with verbs like beantworten and schicken, so you can list what you do at work."
+     "lead": "Now you can order a day. Next: the typical office tasks, with verbs like beantworten and schicken, so you can list what you do at work.",
+     "deeper": {
+      "text": "Some verb and noun pairs are fixed and have no article: Pause machen, Feierabend haben. You do not say a break or the break. Learn the pair as one piece. English does this too, in phrases like have lunch, so it is not as strange as it looks.",
+      "example": {
+       "de": "Wir machen Pause.",
+       "en": "We take a break.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "machen",
+         "verb"
+        ],
+        [
+         "Pause.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Clock times and the end of work",
@@ -2156,7 +2442,36 @@
       "Um siebzehn Uhr habe ich Feierabend."
      ],
      "more": "Now your day has a clock. Start and end with times, and fill the middle with zuerst, dann and danach. Step 1: Um acht Uhr fange ich an. anfangen is separable, so an goes to the very end. Step 2: add the steps. Step 3: close with Feierabend. Germans love this word: Feier = party, Abend = evening. It is the moment you leave work. Extra example: Wann hast du Feierabend? – Um sechzehn Uhr. = When do you finish work? – At four pm.",
-     "lead": "You can name tasks. Next: clock times and the end of the working day, so you can say when work starts and when you finish."
+     "lead": "You can name tasks. Next: clock times and the end of the working day, so you can say when work starts and when you finish.",
+     "deeper": {
+      "text": "In speech, people usually drop Uhr and say Um fünf, not Um siebzehn Uhr. The 24-hour style with siebzehn is for timetables, work rosters and official notices. Both mean five in the afternoon. Use the short form when you talk.",
+      "example": {
+       "de": "Um fünf habe ich Feierabend.",
+       "en": "At five I finish work.",
+       "parts": [
+        [
+         "Um",
+         "time"
+        ],
+        [
+         "fünf",
+         "time"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Feierabend.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask about someone's day",
@@ -2261,7 +2576,32 @@
       ]
      },
      "more": "Questions about a day are easy: you already know the question words. Step 1: pick was, wann or wie lange. Step 2: put the verb on chair 2. Step 3: add du. Step 4: answer with the same sequence word first: Zuerst … With müssen the bracket comes back: muss on chair 2, the other verb at the very end. Extra example: Was machst du danach? – Danach fahre ich nach Hause. = What do you do after that? – After that I go home.",
-     "lead": "Last card of this lesson: asking about someone's day, so you can ask what a colleague does first and when they finish."
+     "lead": "Last card of this lesson: asking about someone's day, so you can ask what a colleague does first and when they finish.",
+     "deeper": {
+      "text": "A question with a question word follows the same rule as a statement: the verb is on chair 2. Chair 1 holds Was, Wann or Wie lange. Wie lange is two words but counts as one part: how long. A yes/no question has no question word, so the verb comes first.",
+      "example": {
+       "de": "Wann beginnt die Besprechung?",
+       "en": "When does the meeting start?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Besprechung?",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2996,7 +3336,36 @@
       ]
      },
      "more": "You already know two outfits for an article. The nominative is the everyday outfit: der Bus. The accusative is the object outfit: den Bus. Now there is a third outfit: the dative. mit is like a door with a dress code: everyone who walks through it must wear the dative outfit. Step 1: see mit. Step 2: switch to the dative. Step 3: say the noun as normal. Extra example: Ich fahre mit dem Zug. = I go by train.",
-     "lead": "In chapter 3 you said mit dem Bus as a piece. Next: why the article changes after mit, so you can say how you travel and understand the change."
+     "lead": "In chapter 3 you said mit dem Bus as a piece. Next: why the article changes after mit, so you can say how you travel and understand the change.",
+     "deeper": {
+      "text": "One small word does two jobs. mit means with and also by (vehicle). mit dem Chef is with the boss, mit dem Zug is by train. German does not have a separate word for by here. You say with the train, and it is always followed by the dative.",
+      "example": {
+       "de": "Ich fahre mit dem Zug.",
+       "en": "I go by train.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Zug.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Masculine: der becomes dem",
@@ -3109,7 +3478,36 @@
       ]
      },
      "more": "Masculine words already changed once: der → den for the object. Now a second change: der → dem after mit. Do not mix them up: den has an n, dem has an m. A trick: m for mit, m for dem. Step 1: is the noun a der-word? Step 2: after mit, say dem. Step 3: keep the noun the same. Extra example: Ich telefoniere mit dem Arzt. = I am on the phone with the doctor.",
-     "lead": "You know that mit changes the article. Next: the masculine der-words after mit, so you can say who or what you work with, like the boss or the laptop."
+     "lead": "You know that mit changes the article. Next: the masculine der-words after mit, so you can say who or what you work with, like the boss or the laptop.",
+     "deeper": {
+      "text": "Here is a memory trick: mit and dem both have an m. The m in dem is the dative signal, and mit is the word that asks for it. When you see mit, listen for the m in the next word. For masculine nouns it is always dem.",
+      "example": {
+       "de": "Ich komme mit dem Bus.",
+       "en": "I come by bus.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Bus.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Neuter: das becomes dem, too",
@@ -3217,7 +3615,36 @@
       ]
      },
      "more": "Think of der and das as twins. In the dative they wear the same shirt: dem. So you only need to ask: is it die? If not, and it is one thing, the answer is dem. Step 1: find the article. Step 2: der or das? Say dem. Step 3: keep the noun. Extra example: Ben fährt mit dem Motorrad. = Ben goes by motorbike. (das Motorrad.)",
-     "lead": "You just saw the masculine change. Next: the das-words after mit, so you can say you go by car or play with a child."
+     "lead": "You just saw the masculine change. Next: the das-words after mit, so you can say you go by car or play with a child.",
+     "deeper": {
+      "text": "Masculine and neuter share the dative form dem, and this pair stays together in other dative words too. Later you will meet einem the same way. Only feminine and plural look different. So you only need to remember three forms, not four: dem, der, den.",
+      "example": {
+       "de": "Ben kommt mit dem Auto.",
+       "en": "Ben comes by car.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Auto.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Feminine: die becomes der",
@@ -3326,7 +3753,36 @@
       ]
      },
      "more": "This is the one that tricks everyone. der usually means a masculine word. But after mit, a feminine word also says der. How do you know which? Look at the noun: die Chefin is feminine, so mit der Chefin is the dative. Step 1: is the noun a die-word? Step 2: after mit, say der. Step 3: keep the noun. Extra example: Ich fahre mit der S-Bahn. = I go by S-Bahn (city train).",
-     "lead": "Masculine and neuter both use dem now. Next: the die-words after mit, so you can say you talk with a female boss or take the tram."
+     "lead": "Masculine and neuter both use dem now. Next: the die-words after mit, so you can say you talk with a female boss or take the tram.",
+     "deeper": {
+      "text": "A helpful clue: nouns ending in -in are always feminine, like Chefin and Kundin. So after mit they take der. When you read der Kundin, the ending -in tells you it is the dative of die, not a masculine der. The noun gives you the hint.",
+      "example": {
+       "de": "Ben spricht mit der Kundin.",
+       "en": "Ben talks to the customer.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "spricht",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Kundin.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural: den, and the noun adds -n",
@@ -3422,7 +3878,36 @@
       "but: mit den Kollegen (already -n), mit den Autos (-s: no n)"
      ],
      "more": "The plural dative has two signals, like a belt and braces: den in front and -n at the end. Step 1: make the plural: die Freunde. Step 2: die becomes den. Step 3: does the plural end in -n already? Then stop. Does it end in -s, like Autos? Then stop. Otherwise add -n: den Freunden. Extra example: Leon fährt mit den Freunden nach Hamburg. = Leon goes to Hamburg with the friends.",
-     "lead": "You can handle one person or thing after mit. Next: the plural form, so you can say you play with the children or eat with your colleagues."
+     "lead": "You can handle one person or thing after mit. Next: the plural form, so you can say you play with the children or eat with your colleagues.",
+     "deeper": {
+      "text": "The extra -n is part of the dative plural rule: a plural noun in the dative ends in -n. Plurals that already end in -n need nothing. Plurals ending in -s also keep their ending, like Autos. Say it aloud once: mit den Kindern, mit den Autos.",
+      "example": {
+       "de": "Wir fahren mit den Autos.",
+       "en": "We go by cars.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "fahren",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Autos.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The three cases side by side",
@@ -3535,7 +4020,32 @@
       ]
      },
      "more": "Picture three rows of boxes, one row per job. Row 1, nominative: the doer. Row 2, accusative: the thing done to; only the masculine box changes. Row 3, dative: after mit; every box changes. Step 1: find the job: subject, object or after mit? Step 2: find the gender. Step 3: read the box. Memory line for row 3: dem, der, dem, den. Say it like a little song. Extra example: Die Chefin ist hier. Ich sehe die Chefin. Ich spreche mit der Chefin.",
-     "lead": "Now you have the forms for mit. Here they sit next to the other two cases, so you can see which job each case does in a sentence."
+     "lead": "Now you have the forms for mit. Here they sit next to the other two cases, so you can see which job each case does in a sentence.",
+     "deeper": {
+      "text": "Look at the accusative row once more. Only masculine changes there: der becomes den. Feminine, neuter and plural stay the same as in the nominative. So the accusative is the easy case. The dative is the one that changes almost everything.",
+      "example": {
+       "de": "Ich sehe die Chefin.",
+       "en": "I see the (female) boss.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "sehe",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Chefin.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Mit wem? With whom? In 3 steps",
@@ -3622,7 +4132,32 @@
       "Mit wem? – Mit der Chefin."
      ],
      "more": "wer, wen, wem: the same person question in three outfits. wer asks for the subject, wen for the object, wem after mit. Step 1: ask Mit wem …? Step 2: the verb is on chair 2. Step 3: answer with mit + dative. A name is easy: no article, so nothing changes. Extra example: Mit wem telefonierst du? – Mit der Kundin. = Who are you on the phone with? – With the customer.",
-     "lead": "Last card of this lesson: asking Mit wem? with whom, so you can ask a colleague who they work with and answer with a name or a noun."
+     "lead": "Last card of this lesson: asking Mit wem? with whom, so you can ask a colleague who they work with and answer with a name or a noun.",
+     "deeper": {
+      "text": "wem is the dative of wer. English once had this too: who and whom. English speakers mostly dropped whom, but German keeps the difference: wer is the subject, wen is the object, wem comes after mit. So Mit wem? is the only correct way to ask.",
+      "example": {
+       "de": "Mit wem sprichst du?",
+       "en": "Who are you talking to?",
+       "parts": [
+        [
+         "Mit",
+         "preposition"
+        ],
+        [
+         "wem",
+         "question"
+        ],
+        [
+         "sprichst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4332,7 +4867,36 @@
       ]
      },
      "more": "Look at the ends of the words. dem ends in -em, so einem ends in -em. der ends in -er, so einer ends in -er. The little ending is the same, ein is just glued in front. Step 1: find the gender. Step 2: take the ending from dem, der, dem. Step 3: glue it onto ein. Extra example: Ich telefoniere mit einer Kollegin. = I am on the phone with a colleague.",
-     "lead": "You can now change der and die after mit. Next: the same change for ein, so you can say you write with a pen or pay with a card."
+     "lead": "You can now change der and die after mit. Next: the same change for ein, so you can say you write with a pen or pay with a card.",
+     "deeper": {
+      "text": "Compare einen and einem. They differ by one letter, and the letter tells you the job: einen is the object of a verb, einem comes after mit. The same one-letter swap happens with dem and den. If you hear or read the m, think: after mit, so dative.",
+      "example": {
+       "de": "Mira bezahlt mit einer Karte.",
+       "en": "Mira pays with a card.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "bezahlt",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "einer",
+         "article"
+        ],
+        [
+         "Karte.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "mein, dein, kein: the same endings",
@@ -4467,7 +5031,36 @@
       ]
      },
      "more": "You met this family in chapter 5: mein, dein and kein all copy ein. In the dative they still copy it. If you know einem, you know meinem, deinem and keinem. Step 1: pick the owner word: mein, dein, sein, ihr … Step 2: find the gender of the noun. Step 3: add -em, -er or -em. Extra example: Ben fährt mit seinem Bruder. = Ben goes with his brother.",
-     "lead": "The ein-words follow the same pattern. Next: my, your and no, with one trap in the word euer, so you can talk about your family after mit."
+     "lead": "The ein-words follow the same pattern. Next: my, your and no, with one trap in the word euer, so you can talk about your family after mit.",
+     "deeper": {
+      "text": "The ending of mein, dein and kein depends on the noun that follows, not on who owns it. A man says mit meiner Mutter, because Mutter is a die-word. Ben says mit seiner Mutter for the same reason. Look at the noun, then choose the ending.",
+      "example": {
+       "de": "Ben telefoniert mit seiner Mutter.",
+       "en": "Ben is on the phone with his mother.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "telefoniert",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "seiner",
+         "article"
+        ],
+        [
+         "Mutter.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plural: meinen … -n",
@@ -4562,7 +5155,36 @@
       "= mit meinen Freunden"
      ],
      "more": "The plural dative always has two signals: -en on the little word and -n on the noun. Step 1: make the plural: meine Kinder. Step 2: meine becomes meinen. Step 3: check the noun. Does it end in -n or -s already? Then stop. If not, add -n: Kindern. Extra example: Anna spricht mit ihren Eltern. = Anna talks to her parents. (Eltern already ends in -n.)",
-     "lead": "You know the singular endings for these words. Next: the plural form, so you can say you eat with your colleagues or play with your children."
+     "lead": "You know the singular endings for these words. Next: the plural form, so you can say you eat with your colleagues or play with your children.",
+     "deeper": {
+      "text": "Remember the n rule for plural nouns in the dative. Kollegen already ends in -n, so nothing is added: mit meinen Kollegen. Kinder has no -n yet, so it gets one: mit meinen Kindern. Check the last letter of the plural before you speak.",
+      "example": {
+       "de": "Ich spreche mit meinen Kollegen.",
+       "en": "I talk to my colleagues.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spreche",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "meinen",
+         "article"
+        ],
+        [
+         "Kollegen.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "At the bank and the till: paying",
@@ -4679,7 +5301,32 @@
       ]
      },
      "more": "At the till the cashier often asks: Bar oder mit Karte? Cash or card? Step 1: decide how you pay. Step 2: cash? Say Ich bezahle bar. Step 3: card or phone? Use mit + dative: mit der Karte, mit dem Handy. Notice das Konto has a strange plural: die Konten. Many Germans still like to pay in cash. Extra example: Kann ich mit einer Kreditkarte bezahlen? = Can I pay with a credit card?",
-     "lead": "You can now name a thing after mit. Next: paying at the bank and the till, so you can say you pay by card, by phone or in cash."
+     "lead": "You can now name a thing after mit. Next: paying at the bank and the till, so you can say you pay by card, by phone or in cash.",
+     "deeper": {
+      "text": "In shop talk people often drop the article: Ich zahle mit Karte. Both mit der Karte and mit Karte are fine. zahlen and bezahlen mean the same, and zahlen is shorter and very common at the till. You will hear the short form every day in shops.",
+      "example": {
+       "de": "Ich zahle mit Karte.",
+       "en": "I pay by card.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "zahle",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "Karte.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Media: letters, parcels, messages",
@@ -4818,7 +5465,32 @@
       ]
      },
      "more": "Notice how one sentence can hold two cases. In Mira schickt ein Paket mit der Post, the parcel is the object: accusative. The post comes after mit: dative. Step 1: find the thing being sent or read: that is the object. Step 2: find mit: the word after it is dative. im Internet is a piece for now; you will see why it is im in lesson 7. Extra example: Ich lese eine Nachricht. = I am reading a message.",
-     "lead": "Next: words for letters, parcels and messages, so you can say what you write, read and send at work with the verbs you know."
+     "lead": "Next: words for letters, parcels and messages, so you can say what you write, read and send at work with the verbs you know.",
+     "deeper": {
+      "text": "A handy pattern: nouns ending in -ung are always feminine. Zeitung is die, and so is Besprechung. When a new noun ends in -ung, you know its article without checking. That also tells you the dative: mit der Zeitung, not mit dem.",
+      "example": {
+       "de": "Ich lese eine Nachricht.",
+       "en": "I read a message.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "lese",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Nachricht.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Accusative or dative? Compare",
@@ -4956,7 +5628,36 @@
       ]
      },
      "more": "Think of two different doors. The für door and the object door lead to the accusative room: only masculine changes there (den, einen). The mit door leads to the dative room: everything changes (dem, der, dem, den). Step 1: is there mit? Dative. Step 2: is there für, or is it the thing you buy, see or have? Accusative. Step 3: is it the doer? Nominative. Extra example: Ich besuche meine Chefin. Ich spreche mit meiner Chefin.",
-     "lead": "You have a new job for these forms. Next: the difference between the object of a verb and the word after mit, so you can pick the right form in each sentence."
+     "lead": "You have a new job for these forms. Next: the difference between the object of a verb and the word after mit, so you can pick the right form in each sentence.",
+     "deeper": {
+      "text": "Many mistakes come from picking the form before asking the job. Make it a habit: look at the little word first. If you see mit, the dative follows. A verb like kaufen or sehen gives the accusative. Only then choose the ending.",
+      "example": {
+       "de": "Ich arbeite mit einem Laptop.",
+       "en": "I work with a laptop.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "arbeite",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "einem",
+         "article"
+        ],
+        [
+         "Laptop.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Choose the form in 3 steps",
@@ -5043,7 +5744,36 @@
       "mit + die Kollegin + a → mit einer Kollegin"
      ],
      "more": "This is a small checklist, like checking your pockets before you leave: keys, phone, wallet. Step 1: find the job of the noun group. Step 2: find its gender. Step 3: pick the word for the or a. Do it slowly at first. After a week it becomes automatic. Extra example: Der Brief ist für eine Kollegin. = The letter is for a colleague. (für → accusative: eine stays.)",
-     "lead": "Last card of this lesson: three questions to check any ein-word, so you can pick the right form for any sentence in a few seconds."
+     "lead": "Last card of this lesson: three questions to check any ein-word, so you can pick the right form for any sentence in a few seconds.",
+     "deeper": {
+      "text": "Say the three steps aloud at first, slowly. After a week you will do them silently, in about a second. This is how fluent speakers also work, they just do it so fast they do not notice. Step 1 matters most: find the little word.",
+      "example": {
+       "de": "Ich spreche mit einer Kollegin.",
+       "en": "I talk to a colleague.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spreche",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "einer",
+         "article"
+        ],
+        [
+         "Kollegin.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5731,7 +6461,32 @@
       ]
      },
      "more": "zu is an arrow pointing at a goal. You move toward a person or a place. Like mit, it has a dress code: dative only. Step 1: you are moving toward someone? Use zu. Step 2: a name? Just say it. Step 3: a word with an article? Use the dative: meinem, meiner, meinen. Extra example: Leon fährt zu seinem Freund. = Leon goes to his friend's.",
-     "lead": "You now know the dative after mit. Next: zu, the word for going to a person or place, so you can say where you walk to."
+     "lead": "You now know the dative after mit. Next: zu, the word for going to a person or place, so you can say where you walk to.",
+     "deeper": {
+      "text": "The word zu has a second meaning that you will meet soon: too. Ich bin zu müde means I am too tired. It is the same word, but there is no dative and no noun after it, so you cannot confuse the two. Context makes it clear.",
+      "example": {
+       "de": "Ich bin zu müde.",
+       "en": "I am too tired.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "zu",
+         "other"
+        ],
+        [
+         "müde.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "zu + dem = zum, zu + der = zur",
@@ -5844,7 +6599,32 @@
       ]
      },
      "more": "Germans are lazy talkers, in a good way. zu dem is too long, so it melts into zum. zu der melts into zur. Step 1: find the gender. Step 2: der or das? Say zum. Step 3: die? Say zur. Plural does not melt: zu den. In chapter 3 you learned Wie komme ich zum Bahnhof? as a piece. Now you know: der Bahnhof, zu + dem, zum. Extra example: Ich gehe zur Post. = I am going to the post office.",
-     "lead": "You know zu takes the dative. Next: the melted forms zum and zur, so you can say you go to the doctor or to the town hall."
+     "lead": "You know zu takes the dative. Next: the melted forms zum and zur, so you can say you go to the doctor or to the town hall.",
+     "deeper": {
+      "text": "In everyday German you must say zum and zur. The long form zu dem sounds stressed, as if you mean that particular one. So never split them in normal speech. The pieces zum, zur, beim and vom are not optional shortcuts, they are the normal words.",
+      "example": {
+       "de": "Wir gehen zum Bahnhof.",
+       "en": "We go to the station.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "zum",
+         "preposition"
+        ],
+        [
+         "Bahnhof.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Old pieces, now explained",
@@ -5959,7 +6739,32 @@
       ]
      },
      "more": "It is like finally reading the recipe of a dish you have eaten for weeks. You said zum Frühstück and zum Geburtstag without knowing why. Now you can see the ingredients: zu + dem. Step 1: take the piece apart: zum = zu + dem. Step 2: find the noun's gender: das Frühstück. Step 3: das → dem, so zum. zu Hause is an old, frozen piece: keep it whole. Extra example: Zum Mittagessen esse ich Suppe. = For lunch I eat soup.",
-     "lead": "You have met zum and zur already. On this card: the old pieces you learned earlier, now with the reason behind them, so you can see the dative in each one."
+     "lead": "You have met zum and zur already. On this card: the old pieces you learned earlier, now with the reason behind them, so you can see the dative in each one.",
+     "deeper": {
+      "text": "zu is also used for occasions: zum Frühstück, zum Geburtstag, zum Essen. You use it for the moment something happens, as in for breakfast or for a birthday. This is why birthday greetings sound the way they do in German.",
+      "example": {
+       "de": "Alles Gute zum Geburtstag!",
+       "en": "All the best for your birthday!",
+       "parts": [
+        [
+         "Alles",
+         "other"
+        ],
+        [
+         "Gute",
+         "other"
+        ],
+        [
+         "zum",
+         "preposition"
+        ],
+        [
+         "Geburtstag!",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "bei = at: being at a place or with a person",
@@ -6069,7 +6874,36 @@
       ]
      },
      "more": "If zu is an arrow, bei is a pin on the map: you are already there. Step 1: are you at a place or with a person? Use bei. Step 2: der or das? Say beim. Step 3: die? Say bei der. Plural: bei den. A name: bei Mira, at Mira's place. bei a company means you work there: Ich arbeite bei einer Firma. Extra example: Heute bin ich bei Mira. = Today I am at Mira's.",
-     "lead": "Next: bei, which means at, so you can say you are at the doctor's or that you live with your parents."
+     "lead": "Next: bei, which means at, so you can say you are at the doctor's or that you live with your parents.",
+     "deeper": {
+      "text": "bei Anna means at Anna's place. English has no little word for this, so you add 's. In German you just say bei and the name. It also works for firms and shops: bei der Post. You are inside the place or with that person.",
+      "example": {
+       "de": "Mira ist heute bei Anna.",
+       "en": "Mira is at Anna's today.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "bei",
+         "preposition"
+        ],
+        [
+         "Anna.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Going or being? zu or bei",
@@ -6210,7 +7044,28 @@
       ]
      },
      "more": "Picture a little film. Scene 1: you walk down the street. Where to? zum Arzt. Scene 2: you sit in the waiting room. Where? beim Arzt. Step 1: is someone moving? Ask wohin, use zu. Step 2: is someone already there? Ask wo, use bei. Step 3: both take the dative, so the article is dem, der, dem, den, and dem melts into zum or beim. Extra example: Ich gehe zum Zahnarzt. Jetzt bin ich beim Zahnarzt.",
-     "lead": "You know zu and bei. Next: wohin and wo, so you can tell whether someone is going somewhere or already there."
+     "lead": "You know zu and bei. Next: wohin and wo, so you can tell whether someone is going somewhere or already there.",
+     "deeper": {
+      "text": "English often uses to or at for both ideas. German splits them cleanly: movement uses zu, being there uses bei. Ask yourself: is anybody travelling? If yes, wohin and zu. If not, wo and bei. Once you see the two questions, the choice is easy.",
+      "example": {
+       "de": "Wohin fährt Mira?",
+       "en": "Where is Mira going?",
+       "parts": [
+        [
+         "Wohin",
+         "question"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "Mira?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Errands: places to go",
@@ -6348,7 +7203,32 @@
       ]
      },
      "more": "Make a to-do list for a busy day. Every line is zu + a place. Step 1: write the place with its article: die Post. Step 2: turn it into zu: die → zur. Step 3: add the verb: Ich gehe zur Post. Inside a building like a library you will use in, not bei: that comes in lesson 7. If you use a modal like muss, the verb gehen goes to the end. Extra example: Zuerst gehe ich zur Post, und dann gehe ich zum Friseur. = First I go to the post office, and then I go to the hairdresser.",
-     "lead": "Last card of this lesson: errands in town, so you can say where you go for post, books or the bus stop, and how to name each place."
+     "lead": "Last card of this lesson: errands in town, so you can say where you go for post, books or the bus stop, and how to name each place.",
+     "deeper": {
+      "text": "Look at the place words. Many that end in -e or -ek are feminine: die Haltestelle, die Bibliothek. Words for people who work somewhere often end in -er or -eur and are masculine: der Friseur. This is not a perfect rule, but it gives you a good first guess.",
+      "example": {
+       "de": "Leon geht zur Praxis.",
+       "en": "Leon is going to the doctor's office.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "zur",
+         "preposition"
+        ],
+        [
+         "Praxis.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -7062,7 +7942,36 @@
       ]
      },
      "more": "Picture a door. aus is you stepping out through it: out of the office, out of the canteen, out of a country. Step 1: you come out of a place? Use aus. Step 2: no article, like Spanien? Nothing changes. Step 3: an article? Dative: dem, der, dem, den. A few countries have an article. die Schweiz is one: aus der Schweiz. Extra example: Leon kommt aus dem Kino. = Leon is coming out of the cinema.",
-     "lead": "You know zu and bei with the dative. Next: aus, which means out of, so you can say where you come from or come out of."
+     "lead": "You know zu and bei with the dative. Next: aus, which means out of, so you can say where you come from or come out of.",
+     "deeper": {
+      "text": "aus carries the idea of being inside something first and then coming out. That fits a building, but also a city or country, where you are from. Most countries have no article. A few do, like die Schweiz, and those take der: aus der Schweiz.",
+      "example": {
+       "de": "Anna kommt aus dem Büro.",
+       "en": "Anna is coming out of the office.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Büro.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "von = from, and von + dem = vom",
@@ -7176,7 +8085,40 @@
       ]
      },
      "more": "You know von from chapter 5: von acht bis sechzehn Uhr. There it meant from a time. Here it means from a person or a place you visited. Step 1: is it from someone, or back from somewhere? Use von. Step 2: der or das? Say vom. Step 3: die? Say von der. Plural: von den. Extra example: Ich komme um fünf von der Arbeit. = I come from work at five.",
-     "lead": "You now have aus. Next: von, which means from a person or a place, so you can say a parcel is from your mother or that you come from the doctor."
+     "lead": "You now have aus. Next: von, which means from a person or a place, so you can say a parcel is from your mother or that you come from the doctor.",
+     "deeper": {
+      "text": "von also shows who something belongs to, where English uses an apostrophe and s. German says the thing, then von, then the owner: das Auto von Ben is Ben's car. This is very common in everyday speech, and the owner after von is always dative.",
+      "example": {
+       "de": "Das ist das Auto von Ben.",
+       "en": "That is Ben's car.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Auto",
+         "noun"
+        ],
+        [
+         "von",
+         "preposition"
+        ],
+        [
+         "Ben.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "aus or von?",
@@ -7281,7 +8223,36 @@
       ]
      },
      "more": "Ask yourself: was I inside it? Out of a building, a city or a country: aus. Back from a person or an appointment: von. Step 1: is it a person? Always von. Step 2: is it a country or city? Always aus. Step 3: a building you step out of? aus. An errand you come back from? von. Do not worry if you mix them sometimes: people will still understand you. Extra example: Die Nachricht ist von Leon. = The message is from Leon.",
-     "lead": "You can say aus and von. On this card: how to choose between them, so you know when to talk about a place and when about a person."
+     "lead": "You can say aus and von. On this card: how to choose between them, so you know when to talk about a place and when about a person.",
+     "deeper": {
+      "text": "A good test: if it is a person, use von. A person is never a place you come out of. For places, aus tells you your origin, like aus Berlin, which means you are from there. von a place says you were just there and are coming back.",
+      "example": {
+       "de": "Das Paket ist von Anna.",
+       "en": "The parcel is from Anna.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "Paket",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "von",
+         "preposition"
+        ],
+        [
+         "Anna.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Three questions: wohin, wo, woher",
@@ -7410,7 +8381,28 @@
       ]
      },
      "more": "Imagine a trip in three photos. Photo 1: you walk to the doctor: zum Arzt. Photo 2: you sit in the doctor's room: beim Arzt. Photo 3: you walk home from the doctor: vom Arzt. Step 1: pick the photo: going, being, coming. Step 2: pick the little word: zu, bei, von. Step 3: der or das melts: zum, beim, vom. die stays: zur, bei der, von der. Extra example: Wohin fährst du? – Zur Arbeit. Woher kommst du? – Von der Arbeit.",
-     "lead": "You have the forms for going, being and coming from. Next: the three question words, so you can ask and answer where someone goes, is or comes from."
+     "lead": "You have the forms for going, being and coming from. Next: the three question words, so you can ask and answer where someone goes, is or comes from.",
+     "deeper": {
+      "text": "Look inside the question words: wo + hin, wo + her. hin means away from the speaker and her means towards the speaker. So wohin asks where to, and woher asks where from. You can often split a word like this to see what it really means.",
+      "example": {
+       "de": "Woher kommt Leon?",
+       "en": "Where does Leon come from?",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "Leon?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plan a short email in 4 steps",
@@ -7481,7 +8473,44 @@
       "4. Viele Grüße / Ben"
      ],
      "more": "An email is like a sandwich. The bread on top is the greeting, the bread at the bottom is the closing, and the filling is your message. Step 1: write the Betreff, three or four words. Step 2: greet: Liebe for a woman, Lieber for a man (chapter 6). Step 3: say why you write and ask one thing. After the comma, the next line starts with a small letter. Step 4: close with Viele Grüße and your name. Extra example: Lieber Leon, kommst du morgen ins Büro? Viele Grüße, Mira",
-     "lead": "Next: planning a short email in four steps, so you can write a clear message to a colleague without getting lost."
+     "lead": "Next: planning a short email in four steps, so you can write a clear message to a colleague without getting lost.",
+     "deeper": {
+      "text": "After the greeting comma, German starts the first word of the text with a small letter: Liebe Anna, am Freitag haben wir … The greeting works like a comma in the middle of a sentence. Only nouns and names keep capitals. This is one of the little things that makes an email look correct.",
+      "example": {
+       "de": "Liebe Mira, am Montag habe ich Zeit.",
+       "en": "Dear Mira, on Monday I have time.",
+       "parts": [
+        [
+         "Liebe",
+         "other"
+        ],
+        [
+         "Mira,",
+         "other"
+        ],
+        [
+         "am",
+         "time"
+        ],
+        [
+         "Montag",
+         "time"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Zeit.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Polite emails: Sehr geehrte … and Mit freundlichen Grüßen",
@@ -7562,7 +8591,36 @@
       ]
      },
      "more": "Think of clothes again: a T-shirt for friends, a suit for the boss. Liebe and Viele Grüße are the T-shirt. Sehr geehrte and Mit freundlichen Grüßen are the suit. Step 1: du or Sie? Step 2: a woman or a man? geehrte for Frau, geehrter for Herr. Learn these two as pieces; the ending rule comes much later. Step 3: close with Mit freundlichen Grüßen. Spot the dative: mit + plural, so der Gruß, die Grüße, mit Grüßen. Extra example: Sehr geehrte Frau Weber, ich komme am Montag zurück. Mit freundlichen Grüßen, Leon",
-     "lead": "Last card of this lesson: a formal email to a Sie-person, so you can open and close a polite message at work with the right words."
+     "lead": "Last card of this lesson: a formal email to a Sie-person, so you can open and close a polite message at work with the right words.",
+     "deeper": {
+      "text": "If you do not know the name of the person, use Sehr geehrte Damen und Herren, which means dear ladies and gentlemen. It is the standard opening for a formal email to a company or office. Remember the comma at the end, and again a small letter at the start of your text.",
+      "example": {
+       "de": "Sehr geehrte Damen und Herren,",
+       "en": "Dear ladies and gentlemen,",
+       "parts": [
+        [
+         "Sehr",
+         "other"
+        ],
+        [
+         "geehrte",
+         "adjective"
+        ],
+        [
+         "Damen",
+         "noun"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Herren,",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -8267,7 +9325,32 @@
       ]
      },
      "more": "You have seen this melting trick three times now: zum, beim, vom. im is the fourth one. in dem is a mouthful, so it melts into im. Step 1: ask wo? Step 2: der or das word? Step 3: say im. Remember am Montag? That is the same trick: an + dem = am. Extra example: Leon ist im Büro. = Leon is in the office.",
-     "lead": "You can now use zu, bei, aus and von. Next: in, which means in or at a place, so you can say where something is in the building."
+     "lead": "You can now use zu, bei, aus and von. Next: in, which means in or at a place, so you can say where something is in the building.",
+     "deeper": {
+      "text": "In everyday speech you say im, never in dem. English uses different little words here: in, at or on, as in at the office or on the internet. German often uses just one: in. So whenever you are inside a place, im or in der is a safe first guess.",
+      "example": {
+       "de": "Mira ist im Flur.",
+       "en": "Mira is in the corridor.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Flur.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "in der, in den + -n",
@@ -8392,7 +9475,40 @@
       ]
      },
      "more": "The table is the same dative row you know: dem, der, dem, den. Put in in front and let dem melt. Step 1: is it a die-word? Say in der. Step 2: plural? Say in den and add -n to the noun if it does not end in -n or -s. Step 3: der or das? Say im. Extra example: Die Kollegen sind in der Küche. = The colleagues are in the kitchen.",
-     "lead": "You know im from the office. Next: the die-words and plurals with in, so you can say you eat in the canteen or sit in a meeting."
+     "lead": "You know im from the office. Next: the die-words and plurals with in, so you can say you eat in the canteen or sit in a meeting.",
+     "deeper": {
+      "text": "English says at a meeting, but German says in der Besprechung. A meeting, like a room, counts as a space you are inside. This is why in is so common: a place, an event or a group can all work like a container that you are in.",
+      "example": {
+       "de": "Die Kollegen sind in der Besprechung.",
+       "en": "The colleagues are in the meeting.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Kollegen",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Besprechung.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Old pieces, now explained",
@@ -8519,7 +9635,36 @@
       ]
      },
      "more": "It is like learning that the song you hum every day has words. You hummed im Supermarkt, im Mai, im Sommer. Now you know the words: in + dem. Step 1: take the piece apart: im = in + dem. Step 2: check the noun: der Mai, das Café. Step 3: der and das both give dem. That is why all months and seasons take im: they are all der-words. Extra example: Im Winter fahre ich mit der Straßenbahn. = In winter I go by tram.",
-     "lead": "You have used im and in der since early lessons. Next: the reason behind these pieces, so you can see the dative hiding in words like im Supermarkt."
+     "lead": "You have used im and in der since early lessons. Next: the reason behind these pieces, so you can see the dative hiding in words like im Supermarkt.",
+     "deeper": {
+      "text": "All months and all seasons are masculine: der Mai, der Juli, der Sommer, der Winter. So they always give im, as in im Sommer. That is why you never have to look up their article. This is one of the few patterns in German that has no exceptions.",
+      "example": {
+       "de": "Im Juli habe ich frei.",
+       "en": "In July I am off.",
+       "parts": [
+        [
+         "Im",
+         "time"
+        ],
+        [
+         "Juli",
+         "time"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "frei.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "im Kino or ins Kino? Being or going",
@@ -8653,7 +9798,32 @@
       ]
      },
      "more": "Picture a door again. Walking through the door is a movement: accusative, like an object you push. Standing inside the room is a place: dative. Step 1: ask: is someone moving into it, or already inside? Step 2: moving: ins, in den, in die. Step 3: inside: im, in der, im. Only in works like this in this chapter. All the other little words you met today stay dative every time. Extra example: Ich fahre in die Stadt. Jetzt bin ich in der Stadt.",
-     "lead": "Next: in with a movement, so you can tell being in a place from going into one, using im Kino and ins Kino."
+     "lead": "Next: in with a movement, so you can tell being in a place from going into one, using im Kino and ins Kino.",
+     "deeper": {
+      "text": "To decide between im and ins, ask yourself: is something moving? Ich gehe ins Büro has a path: you enter. Ich bin im Büro has no path: you are simply there. Only a few little words work in both ways. Later you will meet more of them, in is the first.",
+      "example": {
+       "de": "Leon geht ins Büro.",
+       "en": "Leon goes into the office.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "ins",
+         "preposition"
+        ],
+        [
+         "Büro.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "In the building: Wo ist …?",
@@ -8808,7 +9978,44 @@
       ]
      },
      "more": "A new office building is a maze on your first day. You need one question: Wo ist …? Step 1: ask Wo ist der Aufzug? or Wo ist die Toilette? Step 2: the answer uses in + dative: im Flur, im Erdgeschoss, in der Abteilung. Step 3: add links or rechts for the side. In Germany, the ground floor is the Erdgeschoss, and the first floor is one floor up. Extra example: Die Treppe ist im Flur, rechts. = The stairs are in the corridor, on the right.",
-     "lead": "You can say where things are with in. Next: asking Wo ist …? and naming floors, so you can find the lift or the toilet in a building."
+     "lead": "You can say where things are with in. Next: asking Wo ist …? and naming floors, so you can find the lift or the toilet in a building.",
+     "deeper": {
+      "text": "Floors are counted as in Britain. The ground floor is das Erdgeschoss, and the first Etage is one floor above it. The ending of zweite becomes -en after in der: in der zweiten Etage. Numbers like erste and zweite (first, second) behave like adjectives.",
+      "example": {
+       "de": "Mein Büro ist in der zweiten Etage.",
+       "en": "My office is on the second floor.",
+       "parts": [
+        [
+         "Mein",
+         "article"
+        ],
+        [
+         "Büro",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "zweiten",
+         "adjective"
+        ],
+        [
+         "Etage.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "All the melted words in one table",
@@ -8953,7 +10160,32 @@
       ]
      },
      "more": "This table is your cheat sheet. Six of the seven melted words hide the dative. Step 1: see a melted word. Step 2: take it apart: zu + dem, bei + dem … Step 3: now you know the noun is a der-word or a das-word, except zur, which hides der for a die-word. Bonus: a melted word tells you the gender. zur Haltestelle? Then it is die Haltestelle. Extra example: Am Montag bin ich beim Zahnarzt. = On Monday I am at the dentist's.",
-     "lead": "Last card of this lesson: the full table of melted words, so you can check zum, zur, beim, vom, im, am and ins at a glance."
+     "lead": "Last card of this lesson: the full table of melted words, so you can check zum, zur, beim, vom, im, am and ins at a glance.",
+     "deeper": {
+      "text": "Here is a quick way to read the table. The melted words ending in m (zum, vom, beim, im, am) hide dem. zur ends in r and hides der. ins ends in s and hides das. The last letter tells you the article that is hidden inside.",
+      "example": {
+       "de": "Wir gehen zur Bank.",
+       "en": "We are going to the bank.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "zur",
+         "preposition"
+        ],
+        [
+         "Bank.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -9647,7 +10879,40 @@
       "Können Sie bitte das Fenster öffnen?"
      ],
      "more": "A request is a question, not an order. You leave the other person room to say no, and that is why it is polite. Step 1: start with Können. Step 2: add Sie. Step 3: add bitte, the magic word. Step 4: put the thing in the middle: das Fenster. Step 5: the action goes last: öffnen. It is the same bracket as Kannst du Gitarre spielen? from chapter 5. Extra example: Können Sie bitte den Plan schicken? = Could you send the plan, please?",
-     "lead": "You can now name office tasks and talk about the day. Next: how to ask a colleague for help politely, so you can make a request without giving an order."
+     "lead": "You can now name office tasks and talk about the day. Next: how to ask a colleague for help politely, so you can make a request without giving an order.",
+     "deeper": {
+      "text": "Think of a request as a frame. Können stands at the front, the infinitive stands at the very end, and everything else sits inside the frame. The longer the sentence gets, the further apart the two verbs are. This frame shape appears all through German, so it is worth getting used to now.",
+      "example": {
+       "de": "Können Sie bitte die Tür öffnen?",
+       "en": "Could you open the door, please?",
+       "parts": [
+        [
+         "Können",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Tür",
+         "noun"
+        ],
+        [
+         "öffnen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "du and ihr: Kannst du …? Könnt ihr …?",
@@ -9764,7 +11029,36 @@
       ]
      },
      "more": "Same sentence, three different people. Only the first word changes, to match the person: kannst for du, könnt for ihr, können for Sie. Step 1: who are you asking? A friend: du. A group of friends: ihr. Your boss or a stranger: Sie. Step 2: pick the form from the table. Step 3: build the rest as always. Extra example: Könnt ihr bitte morgen kommen? = Can you (all) come tomorrow, please?",
-     "lead": "You just made polite requests with Sie. Next: the du and ihr versions, so you can ask a friend or a group the same way."
+     "lead": "You just made polite requests with Sie. Next: the du and ihr versions, so you can ask a friend or a group the same way.",
+     "deeper": {
+      "text": "Learn the verb forms as a small set: ich kann, du kannst, wir können, ihr könnt, Sie können. The a changes to ö in the wir, ihr and Sie forms. The du form ends in -st, and ich has no ending at all. The frame stays the same for every person, only the first verb changes.",
+      "example": {
+       "de": "Könnt ihr bitte langsam sprechen?",
+       "en": "Can you all speak slowly, please?",
+       "parts": [
+        [
+         "Könnt",
+         "verb"
+        ],
+        [
+         "ihr",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "langsam",
+         "adjective"
+        ],
+        [
+         "sprechen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where does bitte go?",
@@ -9885,7 +11179,24 @@
       ]
      },
      "more": "bitte is like a cushion you put between the person and the job. It makes the request soft. Step 1: say the modal and the person. Step 2: put bitte next. Step 3: if you have a tiny word like das, it may slip in front of bitte. Both orders are fine. Step 4: the action goes last. These three requests save you in every German conversation: wiederholen, langsam sprechen, buchstabieren. Extra example: Kannst du das bitte wiederholen? = Can you repeat that, please?",
-     "lead": "You can ask with können. Next: where bitte goes in the sentence, so your request sounds friendly and natural."
+     "lead": "You can ask with können. Next: where bitte goes in the sentence, so your request sounds friendly and natural.",
+     "deeper": {
+      "text": "A very useful short phrase: Wie bitte? It means Pardon? or Sorry, what did you say? Use it when you did not hear or understand something. It is polite, short, and every German speaker uses it. Here bitte does not mean please, it asks for a repeat.",
+      "example": {
+       "de": "Wie bitte?",
+       "en": "Pardon?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "bitte?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Request or command?",
@@ -10026,7 +11337,40 @@
       ]
      },
      "more": "A command is like a road sign: clear and short. A request is like a friend asking a favour. Step 1: command: the verb goes first, then Sie, then the rest, and an exclamation mark. Step 2: request: Können first, then Sie, and the verb moves to the very end. Step 3: a separable verb like anrufen stays in one piece at the end of a request: anrufen. Extra example: Können Sie bitte Frau Weber anrufen? = Could you call Frau Weber, please?",
-     "lead": "You know the Sie command from chapter 3. Next: when a command is fine and when a softer request is better, so you can speak well with colleagues and the boss."
+     "lead": "You know the Sie command from chapter 3. Next: when a command is fine and when a softer request is better, so you can speak well with colleagues and the boss.",
+     "deeper": {
+      "text": "Notice what happens to the verb. In a command, the main verb is the first word: Öffnen Sie. In a request, that same verb moves to the end: Können Sie … öffnen? That is why the request sounds softer: the verb waits until the last moment, as if the speaker is asking carefully.",
+      "example": {
+       "de": "Können Sie bitte den Plan schicken?",
+       "en": "Could you send the plan, please?",
+       "parts": [
+        [
+         "Können",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Plan",
+         "noun"
+        ],
+        [
+         "schicken?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Office jobs with a separable verb",
@@ -10143,7 +11487,32 @@
       ]
      },
      "more": "You learned in chapter 6: a separable verb splits when it is alone, but stays whole after a modal. Step 1: with können, put the whole verb at the end: ausdrucken. Step 2: in the answer without a modal, split it: Ich drucke den Plan aus. One more small thing: Herr changes to Herrn when he is the object. Learn Herrn Ali as a piece for now. Extra example: Kannst du bitte Anna anrufen? – Ja, ich rufe sie an.",
-     "lead": "You can make requests. Next: separable verbs after können, so you can ask for office jobs like printing out a plan or calling someone."
+     "lead": "You can make requests. Next: separable verbs after können, so you can ask for office jobs like printing out a plan or calling someone.",
+     "deeper": {
+      "text": "Separable verbs show their two halves in a statement: Ben ruft Mira an. The prefix an goes to the end. In a request with können, the verb is not split: it stays whole at the end, as in Kannst du Mira anrufen? So one verb, two shapes: split in a statement, whole after können.",
+      "example": {
+       "de": "Ben ruft Mira an.",
+       "en": "Ben calls Mira.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ruft",
+         "verb"
+        ],
+        [
+         "Mira",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say yes, say no, say thanks",
@@ -10284,7 +11653,36 @@
       ]
      },
      "more": "Every request needs an answer, like a ping needs a pong. Step 1: yes? Pick one: Ja, gern. Natürlich. Kein Problem. Step 2: no? Start with leider, so it sounds kind, and add a short reason. Step 3: when someone helps you, say Danke! Step 4: when someone thanks you, say Gern geschehen. Vielen Dank is a stronger thank you. Extra example: Können Sie das bitte kopieren? – Kein Problem! – Vielen Dank! – Gern geschehen.",
-     "lead": "Last card of this lesson: short answers to a request, so you can say yes, say no politely and thank someone for their help."
+     "lead": "Last card of this lesson: short answers to a request, so you can say yes, say no politely and thank someone for their help.",
+     "deeper": {
+      "text": "leider means unfortunately, and it softens a no. Germans like to say it when refusing, often with a short reason. Without leider, a plain nein can sound hard in an office. And gern means with pleasure, so Ja, gern is a warm yes that adds a little kindness.",
+      "example": {
+       "de": "Leider kann ich heute nicht.",
+       "en": "Unfortunately I cannot today.",
+       "parts": [
+        [
+         "Leider",
+         "other"
+        ],
+        [
+         "kann",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nicht.",
+         "negation"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -11068,7 +12466,24 @@
       ]
      },
      "more": "This is the easy case, a light switch with two positions: ja or nein. Step 1: hear the verb first: it is a yes/no question. Step 2: check: is there a nicht or kein in the question? No? Then it is a normal question. Step 3: answer ja or nein. Keep this card in mind: the next card changes one thing. Extra example: Arbeitest du heute? – Ja, bis fünf. = Are you working today? – Yes, until five.",
-     "lead": "You can make requests with können. Next: answering a normal yes or no question with ja or nein, so you can reply to a colleague in the office."
+     "lead": "You can make requests with können. Next: answering a normal yes or no question with ja or nein, so you can reply to a colleague in the office.",
+     "deeper": {
+      "text": "When someone offers you something, ja alone can sound blunt. Germans say Ja, bitte (yes, please) to accept and Nein, danke (no, thank you) to refuse. This is very common with food, drinks and help, and it is the natural answer to a question like Möchtest du Tee?",
+      "example": {
+       "de": "Ja, bitte.",
+       "en": "Yes, please.",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "bitte.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Negative question: yes = doch",
@@ -11233,7 +12648,32 @@
       ]
      },
      "more": "English gets messy here: Don't you have time? – Yes. Yes I have, or yes I don't? German fixes this with one extra word. doch means: oh yes, I DO. It flips the no in the question. Step 1: spot nicht or kein in the question. Step 2: you want to say the opposite, the positive? Say doch. Step 3: you agree with the negative? Say nein. ja never answers a negative question. Extra example: Trinkst du keinen Kaffee? – Doch, gern! = Don't you drink coffee? – Oh yes, I do!",
-     "lead": "You know ja and nein. Next: doch, for when a question has nicht or kein in it, so you can say yes to a negative question."
+     "lead": "You know ja and nein. Next: doch, for when a question has nicht or kein in it, so you can say yes to a negative question.",
+     "deeper": {
+      "text": "English can confuse here: Don't you have time? Yes means I have time, but No could also mean I have time. German avoids the problem. nein always agrees with the negative, and doch always says the opposite. So the answer is never ambiguous, even when the question is tricky.",
+      "example": {
+       "de": "Doch, ich arbeite heute.",
+       "en": "Yes, I am working today.",
+       "parts": [
+        [
+         "Doch,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "arbeite",
+         "verb"
+        ],
+        [
+         "heute.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "doch: say the opposite",
@@ -11392,7 +12832,32 @@
       "Normal question without nicht/kein? → Ja or Nein."
      ],
      "more": "doch is a little flip switch. Someone says no, and doch flips it to yes. Step 1: listen for nicht or kein. Step 2: if you think the opposite is true, say doch. Step 3: add the real sentence without nicht or kein. Careful: doch can sound like a correction, so use a friendly voice. Extra example: Ben kommt heute nicht. – Doch, er kommt um zehn. = Ben isn't coming today. – Yes, he is, he's coming at ten.",
-     "lead": "You now have doch for negative questions. Next: doch when you disagree with a negative sentence, so you can answer strongly, the way friends talk."
+     "lead": "You now have doch for negative questions. Next: doch when you disagree with a negative sentence, so you can answer strongly, the way friends talk.",
+     "deeper": {
+      "text": "In speech, doch is stressed: you say DOCH with a little more energy. That is how people hear the disagreement. In writing, the exclamation mark does the same job. It is a strong word, so use a friendly tone, and a small smile helps.",
+      "example": {
+       "de": "Doch, das ist teuer!",
+       "en": "Yes, that is expensive!",
+       "parts": [
+        [
+         "Doch,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "teuer!",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Small talk at work: easy topics",
@@ -11498,7 +12963,32 @@
       ]
      },
      "more": "Small talk is the oil in the office machine: a minute of chat makes the day smoother. Step 1: pick an easy topic: weekend, weather, food. Step 2: ask a short question: Wie war dein Wochenende? Step 3: answer short and friendly and ask back: Und du? Mahlzeit is a funny word: it means meal, and colleagues say it to each other around lunchtime. Extra example: Wie war der Urlaub? – Super, danke! = How was the holiday? – Great, thanks!",
-     "lead": "Next: small talk topics in the office kitchen, so you can chat with colleagues about weekends, food and lunch."
+     "lead": "Next: small talk topics in the office kitchen, so you can chat with colleagues about weekends, food and lunch.",
+     "deeper": {
+      "text": "A small step into the past: war is the past of ist. So Wie war dein Wochenende? asks how your weekend was, and Das Wetter war schön says the weather was nice. You do not need the whole past tense yet. Just learn war as the was of sein.",
+      "example": {
+       "de": "Das Wetter war schön.",
+       "en": "The weather was nice.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Wetter",
+         "noun"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How is the work? stressig, anstrengend, ruhig",
@@ -11644,7 +13134,36 @@
       ]
      },
      "more": "You already know the recipe from chapter 3: thing + ist + adjective, and no ending on the adjective. Step 1: pick the thing: die Woche, die Arbeit, die Besprechung. Step 2: ist for now, war for the past. Step 3: the adjective at the end. Step 4: join a second idea with aber for a contrast or und for more. Extra example: Die Arbeit ist interessant, aber anstrengend. = The work is interesting, but tiring.",
-     "lead": "You can talk about your day. Next: describing work with sein and an adjective, so you can say the week is stressful or today is quiet."
+     "lead": "You can talk about your day. Next: describing work with sein and an adjective, so you can say the week is stressful or today is quiet.",
+     "deeper": {
+      "text": "A word like sehr (very) goes in front of the adjective, and nicht (not) too: sehr stressig, nicht toll. After sein the adjective keeps its basic form with no ending. Later you will see that adjectives in front of a noun do get endings, but here the plain form is correct.",
+      "example": {
+       "de": "Die Arbeit ist sehr stressig.",
+       "en": "The work is very stressful.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Arbeit",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "stressig.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Sounds: s, sch, st, sp",
@@ -11773,7 +13292,32 @@
       ]
      },
      "more": "Say the sounds out loud, like a little warm-up. Step 1: buzz like a bee for s before a vowel: Sie, sehen. Step 2: hush a baby for sch: Schreibtisch. Step 3: start of a word with st or sp? Hush, then t or p: scht-raße, schp-rechen. Step 4: st in the middle or at the end is plain s + t: Post, ist. A fun test: Besprechung. Be is a front part, so sprechung starts a word part: Be-schprechung. Extra example: spät, Stift, Schule: schp, scht, sch.",
-     "lead": "Last card of this lesson and of the chapter: the sounds s, sch, st and sp, so you can say words like Straße and Besprechung clearly."
+     "lead": "Last card of this lesson and of the chapter: the sounds s, sch, st and sp, so you can say words like Straße and Besprechung clearly.",
+     "deeper": {
+      "text": "The sound rule works on word parts too. In Bahnhofstraße the part Straße starts with st, so it sounds scht. In Besprechung the part Sprechung starts with sp, so it sounds schp. Look for where a part begins, not just the whole word, and you will pronounce more words well.",
+      "example": {
+       "de": "Sprechen Sie bitte langsam!",
+       "en": "Please speak slowly!",
+       "parts": [
+        [
+         "Sprechen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "bitte",
+         "other"
+        ],
+        [
+         "langsam!",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

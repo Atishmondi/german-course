@@ -219,6 +219,7 @@
   const cell=(d,j)=>{const o=d&&typeof d==='object',t=o?d.t:d,g=o&&/^(m|f|n|pl)$/.test(d.g)?` class="g-${d.g}"`:'';
     return j?`<td lang="de"${g}>${esc(t)}</td>`:`<th scope="row"${g}>${esc(t)}</th>`;};
   const tableHtml=t=>t&&t.headers?`<div class="lp-tablewrap"><table class="lp-table"><thead><tr>${t.headers.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${(t.rows||[]).map(r=>`<tr>${r.map(cell).join('')}</tr>`).join('')}</tbody></table></div>`:'';
+  const deeperHtml=d=>d&&d.text?`<div class="lp-deeper"><span class="lp-label">A bit deeper</span><p>${esc(d.text)}</p>${d.example&&d.example.de?`<div class="lp-deeper-ex">${Array.isArray(d.example.parts)&&d.example.parts.length?`<div class="lp-de lp-de-chips" lang="de"><span class="lp-parts lp-parts-sm">${chipsHtml(d.example.parts)}</span> ${speakBtn(d.example.de)}</div>`:`<p class="lp-de" lang="de">${esc(d.example.de)} ${speakBtn(d.example.de)}</p>`}<p class="lp-en">${esc(d.example.en||'')}</p></div>`:''}</div>`:'';
   function cardHtml(c,stepKey){
     const steps=Array.isArray(c.steps)?c.steps:[], parts=Array.isArray(c.parts)?c.parts:[];
     const shown=Math.min(steps.length,stepsShown[stepKey]||1);
@@ -229,7 +230,7 @@
     const lead=c.lead&&!c.intro?`<div class="lp-lead"><span class="lp-label">What this card teaches</span><p>${esc(c.lead)}</p></div>`:'';
     return `${lead}${c.body?`<p class="lp-body">${esc(c.body)}</p>`:''}${more}
       ${visual?`<div class="lp-visual">${visual}</div>`:''}
-      ${(c.examples||[]).length?`<ul class="lp-examples">${c.examples.map(x=>`<li>${Array.isArray(x.parts)&&x.parts.length?`<div class="lp-de lp-de-chips" lang="de"><span class="lp-parts lp-parts-sm">${chipsHtml(x.parts)}</span> ${speakBtn(x.de)}</div>`:`<p class="lp-de" lang="de">${esc(x.de)} ${speakBtn(x.de)}</p>`}<p class="lp-en">${esc(x.en)}</p>${x.why?`<p class="lp-why">${esc(x.why)}</p>`:''}</li>`).join('')}</ul>${exParts.length?legendHtml(exParts):''}`:''}`;
+      ${(c.examples||[]).length?`<ul class="lp-examples">${c.examples.map(x=>`<li>${Array.isArray(x.parts)&&x.parts.length?`<div class="lp-de lp-de-chips" lang="de"><span class="lp-parts lp-parts-sm">${chipsHtml(x.parts)}</span> ${speakBtn(x.de)}</div>`:`<p class="lp-de" lang="de">${esc(x.de)} ${speakBtn(x.de)}</p>`}<p class="lp-en">${esc(x.en)}</p>${x.why?`<p class="lp-why">${esc(x.why)}</p>`:''}</li>`).join('')}</ul>${exParts.length?legendHtml(exParts):''}`:''}${deeperHtml(c.deeper)}`;
   }
   const linkList=(keys,cat)=>(keys||[]).map(k=>cat&&cat[k]).filter(r=>r&&r.url).map(r=>`<li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title||r.label||r.url)}</a></li>`).join('');
   // Every scored question key of a lesson (drills, the new sentence, the quiz). Used to start a redo.

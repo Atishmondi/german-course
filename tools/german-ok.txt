@@ -29,3 +29,5 @@ Pause
 Schnupfen
 Schmerzen
 Schild
+# leider: LanguageTool repeat-word style note across batched sentences
+leider

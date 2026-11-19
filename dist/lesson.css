@@ -28,6 +28,9 @@
 .lp-oneline{border-color:rgba(242,184,102,.35);background:var(--accent-soft,rgba(242,184,102,.1))}
 .lp-lead{max-width:56ch;margin:0 0 20px;padding:12px 18px;border:1px solid rgba(242,184,102,.35);border-radius:var(--radius);background:var(--accent-soft,rgba(242,184,102,.1))}
 .lp-lead p{margin:0;font-size:1.1rem;line-height:1.5}
+.lp-deeper{max-width:60ch;margin:22px 0 0;padding:16px 20px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;background:var(--surface)}
+.lp-deeper>p{margin:0 0 12px;font-size:1.1rem;line-height:1.55}
+.lp-deeper-ex .lp-en{margin:6px 0 0}
 .lp-body{font-size:1.3rem;line-height:1.5;margin:0 0 22px;max-width:52ch}
 
 /* teaching cards: one visual per idea */

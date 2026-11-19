@@ -225,7 +225,32 @@
       ]
      ],
      "more": "Picture yourself on a walk. You point at a big building and your friend asks: Was ist das? You answer with a small pattern. Step 1: say Das ist. Step 2: say ein, like the English word a. Step 3: say the place. Das ist ein Kino. The verb ist stays in part 2, just like in chapter 1. Extra example: Das ist ein Park. = That is a park.",
-     "lead": "The intro showed a station and a hotel in Hamburg. On this card: how to point at a place and say what it is with the word ein, so you can name things you see in town."
+     "lead": "The intro showed a station and a hotel in Hamburg. On this card: how to point at a place and say what it is with the word ein, so you can name things you see in town.",
+     "deeper": {
+      "text": "In German, Das ist ein Bahnhof is a complete sentence, and ist can never be left out. Notice also that das is the same word for every noun. You point first with das, and only the noun that follows shows its gender. That is why you do not need to know the gender before you point at something.",
+      "example": {
+       "de": "Das ist ein Museum.",
+       "en": "That is a museum.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Museum.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A die-word needs eine",
@@ -326,7 +351,32 @@
        ]
       ]
      },
-     "lead": "You just saw ein for der-words and das-words. On this card: the die-word exception, where ein gets an -e to become eine, so you can say Bank or Kirche correctly."
+     "lead": "You just saw ein for der-words and das-words. On this card: the die-word exception, where ein gets an -e to become eine, so you can say Bank or Kirche correctly.",
+     "deeper": {
+      "text": "Say eine out loud: the final -e is a short, soft sound, like the end of Kirche. Here is a handy clue. Many nouns that end in -e, such as Kirche or Schule (school), are die-words. It is a clue, not a law, but it works very often, so look at the ending when you learn a new noun.",
+      "example": {
+       "de": "Das ist eine Schule.",
+       "en": "That is a school.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Schule.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The table: der, die, das → ein, eine, ein",
@@ -431,7 +481,32 @@
        ]
       ]
      },
-     "lead": "Now you know ein and eine. On this card: all three genders side by side, so you can pick the right form for any place word without guessing."
+     "lead": "Now you know ein and eine. On this card: all three genders side by side, so you can pick the right form for any place word without guessing.",
+     "deeper": {
+      "text": "Look at what really changes in the table: only the little word before the noun. The noun itself stays exactly the same. Notice that eine tells you die for sure. But ein could belong to a der-word or a das-word, so ein hides the gender. This is why you learn every noun together with der, die or das.",
+      "example": {
+       "de": "Das ist ein Park.",
+       "en": "That is a park.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Park.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The or a? Known and new",
@@ -506,7 +581,32 @@
       "Der Park ist neu."
      ],
      "more": "In English it is the same: I see a dog. The dog is big. First it is a dog, a stranger. Then it is the dog, because you both know it. German does it the same way. Step 1: new thing? Use ein or eine. Step 2: talk about it again? Use der, die or das. Extra example: Das ist eine Kirche. Die Kirche ist alt.",
-     "lead": "You can now say a for something new. On this card: when to keep ein for the first mention and switch to der, die or das once you talk about the same place again."
+     "lead": "You can now say a for something new. On this card: when to keep ein for the first mention and switch to der, die or das once you talk about the same place again.",
+     "deeper": {
+      "text": "English does the same: a park first, then the park. The difference is that German must also choose der, die or das for the second mention, so the gender matters again. Also notice what usually happens: the first sentence introduces a thing, and the next sentence says something about it, like it is new or old.",
+      "example": {
+       "de": "Die Bank ist neu.",
+       "en": "The bank is new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Bank",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Many things: no ein",
@@ -595,7 +695,28 @@
        ]
       ]
      },
-     "lead": "So far every sentence named one thing. On this card: what to say for several places, with sind and no ein, so you can talk about a few banks or parks."
+     "lead": "So far every sentence named one thing. On this card: what to say for several places, with sind and no ein, so you can talk about a few banks or parks.",
+     "deeper": {
+      "text": "Why no ein for many things? Because ein really means one, so it cannot stand before several things. English does the same: a cinema, but cinemas. Notice two more changes. The verb becomes sind, because it matches the number. And das stays das even for many things. You say Das sind Kinos, never Die sind Kinos.",
+      "example": {
+       "de": "Das sind Hotels.",
+       "en": "Those are hotels.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "Hotels.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Find the form in 3 steps",
@@ -677,7 +798,32 @@
       "Das ist eine Kirche."
      ],
      "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel.",
-     "lead": "This is the last card of the lesson. On this card: a three-step check you can use for any place, so you can choose ein or eine every time."
+     "lead": "This is the last card of the lesson. On this card: a three-step check you can use for any place, so you can choose ein or eine every time.",
+     "deeper": {
+      "text": "The middle step does all the work: find the word for the. A der-word like Hafen and a das-word like Museum both give ein, and only a die-word gives something different, eine. So never learn a noun alone. Learn it with its der, die or das, and the right a-word follows by itself.",
+      "example": {
+       "de": "Das ist ein Hotel.",
+       "en": "That is a hotel.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Hotel.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1348,7 +1494,36 @@
       ]
      ],
      "more": "Imagine a friend points at a building and says: a cinema? You say no. English says: that is not a cinema. German adds a k to ein and makes kein. Step 1: say nein. Step 2: say Das ist. Step 3: say kein and the noun. Step 4: say what it really is. Extra example: Das ist kein Park. Das ist ein Markt.",
-     "lead": "In lesson 1 you learned ein and eine for a thing. On this card: kein, the word for not a, and how it answers a yes/no question about a place, so you can say no."
+     "lead": "In lesson 1 you learned ein and eine for a thing. On this card: kein, the word for not a, and how it answers a yes/no question about a place, so you can say no.",
+     "deeper": {
+      "text": "kein is really nicht and ein squeezed into one word, a bit like English no in no cinema. Before a noun, German does not say nicht ein. It says kein. Also notice the pattern of a normal conversation: after you say what it is not, you usually add what it really is, so the listener is not left guessing.",
+      "example": {
+       "de": "Nein, das ist kein Park.",
+       "en": "No, that is not a park.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Park.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "kein for der-words and das-words",
@@ -1449,7 +1624,32 @@
        ]
       ]
      },
-     "lead": "You now have a no-word for one thing. On this card: how ein turns into kein for der-words and das-words, so you can say a station or hotel is not there."
+     "lead": "You now have a no-word for one thing. On this card: how ein turns into kein for der-words and das-words, so you can say a station or hotel is not there.",
+     "deeper": {
+      "text": "Both der-words and das-words give kein, so kein does not show you the gender. Pronunciation tip: kein rhymes with English mine, just like ein. The only new thing is the k at the front, a short hard sound. Everything else stays as it was: the noun, the verb and the word order do not change at all.",
+      "example": {
+       "de": "Das ist kein Hafen.",
+       "en": "That is not a harbour.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Hafen.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "keine for die-words",
@@ -1550,7 +1750,32 @@
        ]
       ]
      },
-     "lead": "The der and das form is clear now. On this card: the die-word version, where eine becomes keine and the -e stays, so you can say not a bank or not a church."
+     "lead": "The der and das form is clear now. On this card: the die-word version, where eine becomes keine and the -e stays, so you can say not a bank or not a church.",
+     "deeper": {
+      "text": "keine is not a new idea. It is just kein plus the -e that eine already had. So you can always build the no-form from the yes-form: put a k in front. ein becomes kein, eine becomes keine. If you can say the yes-sentence, you can say the no-sentence, and you never need a separate list.",
+      "example": {
+       "de": "Das ist keine Stadt.",
+       "en": "That is not a city.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Stadt.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "keine for many things, and the whole set",
@@ -1648,7 +1873,32 @@
        ]
       ]
      },
-     "lead": "You have three singular forms of kein. On this card: all four forms side by side, plus keine for many things with sind, so you can say those are not parks."
+     "lead": "You have three singular forms of kein. On this card: all four forms side by side, plus keine for many things with sind, so you can say those are not parks.",
+     "deeper": {
+      "text": "ein has no plural, because it means one. But kein does have one: keine. It means not any, or simply no. Das sind keine Hotels means Those are not hotels. English works the same way: no banks here. So for many things, keine is the normal no-word, and the noun stays in its plural form.",
+      "example": {
+       "de": "Das sind keine Kirchen.",
+       "en": "Those are not churches.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Kirchen.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "nicht or kein?",
@@ -1744,7 +1994,36 @@
        ]
       ]
      },
-     "lead": "Kein only goes with nouns, and you have seen it in all forms. On this card: when to use nicht instead, for a describing word like neu or müde, so you pick the right not."
+     "lead": "Kein only goes with nouns, and you have seen it in all forms. On this card: when to use nicht instead, for a describing word like neu or müde, so you pick the right not.",
+     "deeper": {
+      "text": "Here is a quick test. Could you put ein or eine in front of the word? Or is it a plural with no article? Then use kein or keine. If it is a describing word instead, use nicht. Keep this test in your head. It decides between the two nots almost every time, so you do not have to guess.",
+      "example": {
+       "de": "Der Park ist nicht klein.",
+       "en": "The park is not small.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Park",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "klein.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Answer yes or no",
@@ -1834,7 +2113,36 @@
       "Nein, das ist keine Kirche."
      ],
      "more": "A good answer is short and complete. Step 1: say ja or nein. Step 2: say the full sentence with Das ist. Step 3: for ja use ein or eine. For nein use kein or keine. If the question is about many things, ask Sind das …? and answer Das sind keine … Extra example: Ist das eine Bank? Nein, das ist keine Bank.",
-     "lead": "This is the last card of the lesson. On this card: how to answer a yes/no question with ja or nein and a full sentence, so you can say no with kein or keine."
+     "lead": "This is the last card of the lesson. On this card: how to answer a yes/no question with ja or nein and a full sentence, so you can say no with kein or keine.",
+     "deeper": {
+      "text": "Real Germans sometimes answer very short, like Nein, kein Kino. In this course, try to say the full sentence anyway. It trains the verb in part 2, and that habit helps in every later lesson. Also notice that nein is followed by a comma, and the real answer comes right after it.",
+      "example": {
+       "de": "Nein, das ist keine Bank.",
+       "en": "No, that is not a bank.",
+       "parts": [
+        [
+         "Nein,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Bank.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2495,7 +2803,36 @@
       ]
      ],
      "more": "You already know fahren from chapter 2: ich fahre, du fährst. Now we say how. Think of mit dem Bus as a ticket that you cannot tear apart. Step 1: ask Wie fährst du? Step 2: answer Ich fahre. Step 3: add the ticket: mit dem Bus. Do not leave out dem. Extra example: Ich fahre mit dem Auto. = I go by car.",
-     "lead": "You can now name places and say what they are not. On this card: how to ask Wie fährst du? and answer with a travel piece, so you can say how you get around."
+     "lead": "You can now name places and say what they are not. On this card: how to ask Wie fährst du? and answer with a travel piece, so you can say how you get around.",
+     "deeper": {
+      "text": "fahren changes its vowel with du and er: ich fahre, du fährst, er fährt. The a becomes ä. It is a small irregular pattern, and you will meet more verbs that do the same. Notice that the other forms stay normal. Only du and er/sie change, so watch for the two dots when you read.",
+      "example": {
+       "de": "Du fährst mit dem Bus.",
+       "en": "You go by bus.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "fährst",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Bus.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ways to travel: learn each as one piece",
@@ -2604,7 +2941,36 @@
        ]
       ]
      },
-     "lead": "You just learned fahren for travelling. On this card: six ways to get around, each learned as one whole piece with its little words, so you can say how you go."
+     "lead": "You just learned fahren for travelling. On this card: six ways to get around, each learned as one whole piece with its little words, so you can say how you go.",
+     "deeper": {
+      "text": "mit means with, so mit dem Bus is literally with the bus. English splits it the same way: by bus, but on foot. German says mit for vehicles and zu Fuß for walking. Fuß means foot, so zu Fuß is literally to foot. Treat each piece as one block and you will say it without thinking.",
+      "example": {
+       "de": "Leon fährt mit dem Zug.",
+       "en": "Leon goes by train.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Zug.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "On foot: gehen and zu Fuß",
@@ -2701,7 +3067,32 @@
        ]
       ]
      },
-     "lead": "You can say how you travel by bus, train or car. On this card: gehen for walking and zu Fuß, plus how gehen changes for each person, so you can say you walk."
+     "lead": "You can say how you travel by bus, train or car. On this card: gehen for walking and zu Fuß, plus how gehen changes for each person, so you can say you walk.",
+     "deeper": {
+      "text": "Look at the table again: er geht and ihr geht are the same, and wir gehen and sie gehen are the same. Context tells you who is meant. The same sharing happens in every regular verb, so it is not a trap. Only ich gehe and du gehst are different from the others.",
+      "example": {
+       "de": "Mira geht zu Fuß.",
+       "en": "Mira walks.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Fuß.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Start with the transport: the verb stays second",
@@ -2818,7 +3209,44 @@
        ]
       ]
      },
-     "lead": "You can ask and answer about travel. On this card: putting the transport words first while the verb stays in second place, so your sentences still sound natural."
+     "lead": "You can ask and answer about travel. On this card: putting the transport words first while the verb stays in second place, so your sentences still sound natural.",
+     "deeper": {
+      "text": "Why would you start with mit dem Zug? To give it the spotlight. The first place in a German sentence gets the most attention: By train I go, not by bus. The verb never moves from part 2. Only the other pieces swap around it. Do not put the verb back in a different place.",
+      "example": {
+       "de": "Mit dem Auto fährt Ben nach Hamburg.",
+       "en": "Ben goes to Hamburg by car.",
+       "parts": [
+        [
+         "Mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "article"
+        ],
+        [
+         "Auto",
+         "noun"
+        ],
+        [
+         "fährt",
+         "verb"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "nach",
+         "preposition"
+        ],
+        [
+         "Hamburg.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where is it? Wo ist …? hier, da, dort",
@@ -2907,7 +3335,32 @@
        ]
       ]
      },
-     "lead": "Next: finding places. On this card: the question Wo ist …? and three small words for near and far, hier, da and dort, so you can say where something is."
+     "lead": "Next: finding places. On this card: the question Wo ist …? and three small words for near and far, hier, da and dort, so you can say where something is.",
+     "deeper": {
+      "text": "In everyday speech, da is often used for both there and here, so you will hear it a lot. hier means close to me, and dort means over there. The verb still stays in part 2 when the answer word comes first. Hier ist die Bank has the verb second, just like Die Bank ist hier.",
+      "example": {
+       "de": "Hier ist die Bank.",
+       "en": "The bank is here.",
+       "parts": [
+        [
+         "Hier",
+         "place"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Bank.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask and answer: put it together",
@@ -3017,7 +3470,32 @@
       "Wie fährt Mira? Mit der U-Bahn."
      ],
      "more": "A question and an answer are like a ping-pong game. The question hits one word, the answer sends it back. How do you travel? I go by bus. Where is it? Over there. Step 1: look at the question word: wie or wo. Step 2: pick the answer: for wie, a piece like mit dem Bus. For wo, a word like dort. Extra example: Wo ist die U-Bahn? Dort ist die U-Bahn.",
-     "lead": "This is the last card of the lesson. On this card: you join travel and places, asking how someone goes and where something is, so you can handle a simple talk about getting around."
+     "lead": "This is the last card of the lesson. On this card: you join travel and places, asking how someone goes and where something is, so you can handle a simple talk about getting around.",
+     "deeper": {
+      "text": "Questions with Wo and Wie work the same way: the question word first, then the verb in part 2, then the rest. That is one pattern for all of them. In real life short answers like Dort. or Mit dem Bus. are normal, but a full sentence is the better practice for part 2.",
+      "example": {
+       "de": "Wo ist die U-Bahn?",
+       "en": "Where is the underground?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "U-Bahn?",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -3683,7 +4161,32 @@
       ]
      ],
      "more": "You know sein from chapter 1: Ben ist nett. nett was an adjective already! Now we use the same pattern for places. Step 1: say the thing: der Hafen. Step 2: say ist. Step 3: say the describing word: groß. Think of ist as an equals sign: harbour = big. Extra example: Der Park ist klein. = The park is small.",
-     "lead": "You can now name places and get around them. On this card: how sein plus a describing word says what a place is like, so you can describe a city or a harbour."
+     "lead": "You can now name places and get around them. On this card: how sein plus a describing word says what a place is like, so you can describe a city or a harbour.",
+     "deeper": {
+      "text": "In English you can say a big harbour, with the adjective before the noun. Here it comes after ist: Der Hafen ist groß. This is the pattern to learn first, because it needs no ending at all. Later you will also put adjectives before a noun, and then they do get endings. Not yet.",
+      "example": {
+       "de": "Das Hotel ist neu.",
+       "en": "The hotel is new.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Hotel",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "After sein, the adjective has no ending",
@@ -3777,7 +4280,32 @@
        ]
       ]
      },
-     "lead": "You just saw describing words after ist. On this card: why the describing word never changes after sein, even for die-words, das-words or many things, so you do not add endings."
+     "lead": "You just saw describing words after ist. On this card: why the describing word never changes after sein, even for die-words, das-words or many things, so you do not add endings.",
+     "deeper": {
+      "text": "This is good news: one pattern and no endings to remember. English does the same thing: the park is big, and the parks are big. The adjective stays the same, and only ist or sind changes. So you can describe a der-word, a die-word, a das-word or many things with the very same adjective.",
+      "example": {
+       "de": "Die Banken sind klein.",
+       "en": "The banks are small.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Banken",
+         "noun"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "klein.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Opposites help you learn",
@@ -3878,7 +4406,52 @@
        ]
       ]
      },
-     "lead": "You can describe places now. On this card: describing words in opposite pairs, like big and small, so you learn two words for the price of one and can contrast places."
+     "lead": "You can describe places now. On this card: describing words in opposite pairs, like big and small, so you learn two words for the price of one and can contrast places.",
+     "deeper": {
+      "text": "Your brain stores opposites together, so say each pair out loud and then use it in a comparing sentence. aber means but, and it joins two ideas with a comma before it. People compare all the time, so pairs like alt and neu are very useful in real chats.",
+      "example": {
+       "de": "Die Kirche ist alt, aber das Hotel ist neu.",
+       "en": "The church is old, but the hotel is new.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Kirche",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "alt,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Hotel",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sehr: very",
@@ -3975,7 +4548,36 @@
        ]
       ]
      },
-     "lead": "You know the opposite pairs. On this card: sehr, a small word that makes a describing word stronger, so you can say a place is very big or very beautiful."
+     "lead": "You know the opposite pairs. On this card: sehr, a small word that makes a describing word stronger, so you can say a place is very big or very beautiful.",
+     "deeper": {
+      "text": "Pronunciation tip: German s before a vowel sounds like English z, so sehr sounds like zair, and the ending r is soft. sehr always stands before the adjective, never after it. It is the safe word for very in every situation, from a shop to a letter, so you can use it anywhere.",
+      "example": {
+       "de": "Die Kirche ist sehr alt.",
+       "en": "The church is very old.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Kirche",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "nicht and zu: not and too",
@@ -4076,7 +4678,36 @@
        ]
       ]
      },
-     "lead": "Next: two more small words that go before the describing word. On this card: nicht for not and zu for too, so you can say a place is not big or is too loud."
+     "lead": "Next: two more small words that go before the describing word. On this card: nicht for not and zu for too, so you can say a place is not big or is too loud.",
+     "deeper": {
+      "text": "zu hides a small judgement. Too big means it is a problem, so Das Hotel ist zu teuer often means I will not stay there. The same spelling zu also appears in zu Fuß, but the job is different there. Here zu always stands before an adjective and means too.",
+      "example": {
+       "de": "Das Museum ist zu klein.",
+       "en": "The museum is too small.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Museum",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "zu",
+         "other"
+        ],
+        [
+         "klein.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask: Wie ist …?",
@@ -4154,7 +4785,32 @@
       "Der Hafen ist groß und laut."
      ],
      "more": "Wie ist …? is like asking: tell me about it. You get an answer with describing words. Step 1: ask Wie ist der Hafen? Step 2: answer with the thing, ist and an adjective. Step 3: you can join two adjectives with und. Extra example: Wie ist Hamburg? Hamburg ist sehr schön. = What is Hamburg like? Hamburg is very nice.",
-     "lead": "This is the last card of the lesson. On this card: how to ask Wie ist …? and answer with two describing words joined by und, so you can describe a place in a short chat."
+     "lead": "This is the last card of the lesson. On this card: how to ask Wie ist …? and answer with two describing words joined by und, so you can describe a place in a short chat.",
+     "deeper": {
+      "text": "Wie ist …? is the everyday way to ask for an opinion about a thing, like Wie ist das Hotel? The answer can be short, such as Sehr schön! If you have two adjectives, und joins them, and the verb is only said once. You do not repeat ist for the second one.",
+      "example": {
+       "de": "Wie ist das Hotel?",
+       "en": "What is the hotel like?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Hotel?",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4826,7 +5482,32 @@
        ]
       ]
      },
-     "lead": "You can describe places. On this card: how to give a polite command to a stranger, with the verb first and Sie right after it, so you can tell someone what to do."
+     "lead": "You can describe places. On this card: how to give a polite command to a stranger, with the verb first and Sie right after it, so you can tell someone what to do.",
+     "deeper": {
+      "text": "Why Sie? You use the polite Sie with strangers, like someone you ask for the way. The command is not a new verb form. It is simply the Sie statement turned around: Sie gehen becomes Gehen Sie. The verb moves to the front, Sie follows, and you end with an exclamation mark.",
+      "example": {
+       "de": "Nehmen Sie das Taxi!",
+       "en": "Take the taxi!",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Taxi!",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Command or question? Look at the end mark",
@@ -4915,7 +5596,28 @@
        ]
       ]
      },
-     "lead": "Commands look a lot like yes/no questions. On this card: how the end mark tells them apart, plus the one odd command, so you know what you are hearing."
+     "lead": "Commands look a lot like yes/no questions. On this card: how the end mark tells them apart, plus the one odd command, so you know what you are hearing.",
+     "deeper": {
+      "text": "In speech you hear the difference: a question goes up at the end, and a command goes down and sounds firmer. On paper only the end mark shows it. For comparison, a normal sein question looks just like the others. The odd command Seien Sie is only for commands, not for questions.",
+      "example": {
+       "de": "Sind Sie müde?",
+       "en": "Are you tired?",
+       "parts": [
+        [
+         "Sind",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "müde?",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "bitte and dann: please and then",
@@ -4997,7 +5699,32 @@
       "Gehen Sie dann links!"
      ],
      "more": "Giving a route is like giving steps in a recipe. First do this. Then do that. bitte is the sweet word that makes the command friendly. Step 1: say the command. Step 2: add bitte after Sie for politeness. Step 3: add dann before the next step. Extra example: Gehen Sie geradeaus. Gehen Sie dann links. = Go straight. Then go left.",
-     "lead": "You can give commands now. On this card: bitte to make a command polite and dann to put steps in order, so your directions sound friendly and clear."
+     "lead": "You can give commands now. On this card: bitte to make a command polite and dann to put steps in order, so your directions sound friendly and clear.",
+     "deeper": {
+      "text": "bitte does more than one job: it means please, and also you are welcome. In a command it makes things softer, because a bare command can sound strict. dann can also stand at the very start of a statement. Then the verb is still second, so Sie moves behind it: Dann gehen Sie links.",
+      "example": {
+       "de": "Dann gehen Sie links.",
+       "en": "Then you go left.",
+       "parts": [
+        [
+         "Dann",
+         "time"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "links.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Directions: links, rechts, geradeaus",
@@ -5094,7 +5821,40 @@
        ]
       ]
      },
-     "lead": "Next: the words for turning. On this card: left, right and straight on, plus the first and second street, so you can say which way and which street to take."
+     "lead": "Next: the words for turning. On this card: left, right and straight on, plus the first and second street, so you can say which way and which street to take.",
+     "deeper": {
+      "text": "links, rechts and geradeaus never change, whatever the sentence. The direction usually goes at the end: Nehmen Sie die zweite Straße links means Take the second street on the left. The e in erste and zweite comes from the die-word Straße, and you will see why later. Copy it as a piece now.",
+      "example": {
+       "de": "Nehmen Sie die erste Straße links!",
+       "en": "Take the first street on the left!",
+       "parts": [
+        [
+         "Nehmen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "erste",
+         "adjective"
+        ],
+        [
+         "Straße",
+         "noun"
+        ],
+        [
+         "links!",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask the way: Entschuldigung, … zum / zur …",
@@ -5200,7 +5960,36 @@
        ]
       ]
      },
-     "lead": "You have the direction words. On this card: how to start politely with Entschuldigung and ask the way with zum or zur, so you can ask for a place like the station."
+     "lead": "You have the direction words. On this card: how to start politely with Entschuldigung and ask the way with zum or zur, so you can ask for a place like the station.",
+     "deeper": {
+      "text": "Wie komme ich zum Bahnhof? is literally How come I to the station? It is the standard polite way to ask, and komme is just kommen with ich. Notice the link with ein and eine: zum goes with der-words and das-words, zur goes with die-words. So the same gender idea comes back again.",
+      "example": {
+       "de": "Wie komme ich zum Markt?",
+       "en": "How do I get to the market?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zum",
+         "preposition"
+        ],
+        [
+         "Markt?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A whole route: ask and answer",
@@ -5299,7 +6088,36 @@
       "Das Rathaus ist dort."
      ],
      "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Herr Ali and Mira do not know each other, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
-     "lead": "This is the last card of the lesson. On this card: a full route from question to answer, using commands, bitte and dann, so you can ask for and give directions in one talk."
+     "lead": "This is the last card of the lesson. On this card: a full route from question to answer, using commands, bitte and dann, so you can ask for and give directions in one talk.",
+     "deeper": {
+      "text": "Real route directions are short and in order. Listen for the order words: erste, dann, dort. Germans often end by saying where the goal is, and the asker usually says thanks. Herr Ali says Sie because adults who do not know each other say Sie. Say thanks politely at the end.",
+      "example": {
+       "de": "Danke, das ist sehr nett!",
+       "en": "Thanks, that is very kind!",
+       "parts": [
+        [
+         "Danke,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "nett!",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5956,7 +6774,32 @@
        ]
       ]
      },
-     "lead": "You can give directions and describe places. On this card: the twelve months in order, which are all der-words, so you can talk about when things happen."
+     "lead": "You can give directions and describe places. On this card: the twelve months in order, which are all der-words, so you can talk about when things happen.",
+     "deeper": {
+      "text": "Many month names look like English, which helps. März is the odd one: it has an Umlaut ä, and Mar-z ends with a ts sound. Juni and Juli sound almost the same, so stress the first syllable and say each one clearly. Some Germans even say Juno and Julei so nobody mixes them up on the phone.",
+      "example": {
+       "de": "Der Oktober ist schön.",
+       "en": "October is beautiful.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Oktober",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "im + month: when?",
@@ -6053,7 +6896,32 @@
        ]
       ]
      },
-     "lead": "You know the months now. On this card: how im goes before a month and how to ask Wann?, so you can say when you come or go."
+     "lead": "You know the months now. On this card: how im goes before a month and how to ask Wann?, so you can say when you come or go.",
+     "deeper": {
+      "text": "im is really in and dem squeezed together: in dem becomes im. That is why every month and season takes im. They are all der-words. You will see the full reason in chapter 7. For now just remember: month or season, put im in front, and the month itself never changes.",
+      "example": {
+       "de": "Ben kommt im Dezember.",
+       "en": "Ben comes in December.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Dezember.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The four seasons",
@@ -6159,7 +7027,36 @@
        ]
       ]
      },
-     "lead": "You can say a month with im. On this card: the four seasons, which are also der-words and also take im, so you can say when something happens in the year."
+     "lead": "You can say a month with im. On this card: the four seasons, which are also der-words and also take im, so you can say when something happens in the year.",
+     "deeper": {
+      "text": "Spelling and sound: Frühling has the letter ü. Make your lips round as if for oo, and then say ee. It is one letter and one sound, so never write ue in its place. Also notice Herbst, with the sounds rb-s-t together. Say it slowly at first, then faster.",
+      "example": {
+       "de": "Der Sommer ist sehr schön.",
+       "en": "The summer is very beautiful.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Sommer",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Start with the time: the verb stays second",
@@ -6264,7 +7161,36 @@
        ]
       ]
      },
-     "lead": "You can say when something happens. On this card: putting the time phrase first while the verb stays in second place, and where the subject goes, so the sentence still works."
+     "lead": "You can say when something happens. On this card: putting the time phrase first while the verb stays in second place, and where the subject goes, so the sentence still works.",
+     "deeper": {
+      "text": "Which piece goes first is your choice. The first place is the spotlight, so Im Mai spiele ich Tennis stresses May. Both sentences mean the same. What you must not do is move the verb: Im Mai ich spiele is wrong. The verb stays in part 2, and the subject steps behind it.",
+      "example": {
+       "de": "Im Sommer spielt Anna Tennis.",
+       "en": "Anna plays tennis in summer.",
+       "parts": [
+        [
+         "Im",
+         "preposition"
+        ],
+        [
+         "Sommer",
+         "time"
+        ],
+        [
+         "spielt",
+         "verb"
+        ],
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "Tennis.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Hamburg through the year",
@@ -6361,7 +7287,36 @@
        ]
       ]
      },
-     "lead": "Next: events in one city. On this card: a few Hamburg events and their times, so you can ask Wann ist …? and name the right month or season."
+     "lead": "Next: events in one city. On this card: a few Hamburg events and their times, so you can ask Wann ist …? and name the right month or season.",
+     "deeper": {
+      "text": "Careful with a false friend: the Hamburg Dom is not a cathedral. It is a big fair with rides and food. In other cities Dom can mean a big church, but in Hamburg people say Dom for the fair. So when you hear Wann ist der Dom? in Hamburg, someone asks about the fun, not about a service.",
+      "example": {
+       "de": "Der Weihnachtsmarkt ist sehr schön.",
+       "en": "The Christmas market is very beautiful.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Weihnachtsmarkt",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Long and short vowels",
@@ -6468,7 +7423,40 @@
        ]
       ]
      },
-     "lead": "This is the last card of the lesson. On this card: the spelling clues that tell you whether a vowel is long or short, so you can say words with the right sound."
+     "lead": "This is the last card of the lesson. On this card: the spelling clues that tell you whether a vowel is long or short, so you can say words with the right sound.",
+     "deeper": {
+      "text": "The rule is not perfect, but it works for most words. In Bahn the h is not spoken. It only stretches the a. Try this drill: say Stadt quick and short, then Staat slow and long. In komme the double m is the clue for a short o. Your ear learns faster than any rule, so say them aloud.",
+      "example": {
+       "de": "Ben kommt im Mai nach Hamburg.",
+       "en": "Ben comes to Hamburg in May.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Mai",
+         "time"
+        ],
+        [
+         "nach",
+         "preposition"
+        ],
+        [
+         "Hamburg.",
+         "place"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

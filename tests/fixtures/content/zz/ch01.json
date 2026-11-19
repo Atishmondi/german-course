@@ -103,7 +103,24 @@
       ]
      ],
      "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening.",
-     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Good day",
@@ -153,7 +170,24 @@
       ]
      },
      "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber.",
-     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Goodbye",
@@ -195,7 +229,24 @@
       "Tschüss, Leon!"
      ],
      "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!",
-     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Polite goodbye",
@@ -243,7 +294,24 @@
       ]
      ],
      "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!",
-     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -433,7 +501,24 @@
       ]
      ],
      "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening.",
-     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Good day",
@@ -483,7 +568,24 @@
       ]
      },
      "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber.",
-     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Goodbye",
@@ -525,7 +627,24 @@
       "Tschüss, Leon!"
      ],
      "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!",
-     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Polite goodbye",
@@ -573,7 +692,24 @@
       ]
      ],
      "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!",
-     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -763,7 +899,24 @@
       ]
      ],
      "more": "Think of a greeting like a handshake. You pick the one that fits the moment. Morning gets one word, evening gets another. Example: Guten Abend means good evening.",
-     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: hello, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Good day",
@@ -813,7 +966,24 @@
       ]
      },
      "more": "Guten Tag is the polite hello, like a suit. Hallo is the friendly one, like jeans. Pick by the person you meet. Example: Guten Tag, Frau Weber. = Good day, Ms Weber.",
-     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: good day, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Goodbye",
@@ -855,7 +1025,24 @@
       "Tschüss, Leon!"
      ],
      "more": "Tschüss is a casual goodbye, like a wave. Use it with friends. Example: Tschüss, Ben! = Bye, Ben!",
-     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Polite goodbye",
@@ -903,7 +1090,24 @@
       ]
      ],
      "more": "Auf Wiedersehen is the polite goodbye, like a handshake. Use it with a teacher or a stranger. Example: Auf Wiedersehen! = Goodbye!",
-     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day."
+     "lead": "You just saw a greeting. On this card: polite goodbye, so you can say it at the right moment of the day.",
+     "deeper": {
+      "text": "Germans pick a greeting by the time of day and by how well they know the person. A friendly word is fine with friends and family. A polite word is better with a teacher, a doctor or someone you meet for the first time.",
+      "example": {
+       "de": "Hallo, Ben!",
+       "en": "Hi, Ben!",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "subject"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

@@ -163,7 +163,32 @@
       ]
      },
      "more": "Think of a clock on the wall. Each part of the day has its own greeting. Step 1: look at the time. Step 2: pick the matching one. Guten means good, so Guten Morgen is word for word good morning, just like English. Not sure which to use? Say Hallo. It works all day, but it is casual. Extra example: Guten Morgen, Anna! = Good morning, Anna!",
-     "lead": "In the intro you saw Hallo and the name chunks. On this card: how to greet people in the morning, the day and the evening, so you say hello at the right time."
+     "lead": "In the intro you saw Hallo and the name chunks. On this card: how to greet people in the morning, the day and the evening, so you say hello at the right time.",
+     "deeper": {
+      "text": "Guten Tag has no strict clock time. People use it from late morning through the afternoon, and it is the safest greeting when you are unsure. You hear it in shops, offices and doctors' rooms all day long. Think of each greeting as a short wish: a good day, a good morning, a good evening. Say it with the stress on Tag.",
+      "example": {
+       "de": "Guten Tag, Frau Weber!",
+       "en": "Good day, Ms Weber!",
+       "parts": [
+        [
+         "Guten",
+         "other"
+        ],
+        [
+         "Tag,",
+         "other"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber!",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Goodbye: a friend or polite?",
@@ -197,7 +222,28 @@
       "Leaving a teacher? 👉 Auf Wiedersehen!"
      ],
      "more": "Think of clothes. Tschüss is jeans: relaxed, for friends and family. Auf Wiedersehen is a suit: polite, for a teacher or a doctor. Step 1: who is the person? Step 2: close to you? Say Tschüss. Step 3: not close? Say Auf Wiedersehen. It literally means until we see again. Extra example: Tschüss, Mira! = Bye, Mira!",
-     "lead": "You can greet people now. Next: how to say goodbye, and how to choose the casual or the polite word, so you do not use the wrong one with a teacher."
+     "lead": "You can greet people now. Next: how to say goodbye, and how to choose the casual or the polite word, so you do not use the wrong one with a teacher.",
+     "deeper": {
+      "text": "Tschüss is said softly, a bit like 'chooss'. Friends also say Bis bald (see you soon) or Bis morgen (see you tomorrow), and these are just as casual. The polite Auf Wiedersehen literally means until we see again. When in doubt with someone older or new, choose the polite one: it is never wrong.",
+      "example": {
+       "de": "Bis bald, Anna!",
+       "en": "See you soon, Anna!",
+       "parts": [
+        [
+         "Bis",
+         "other"
+        ],
+        [
+         "bald,",
+         "other"
+        ],
+        [
+         "Anna!",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A verb, and your first chunk: Ich heiße",
@@ -280,7 +326,32 @@
       ]
      ],
      "more": "Think of a phone contact card. It has a fixed label: Name: Mira. German does the same. Ich heiße is the label, and you just add your name. Do not take it apart yet. Step 1: say Ich heiße. Step 2: add your name. Done. Why the verb ends in -e is a question for lesson 4. For now it is one block, like a Lego brick you click on. English does this too: you say \"How are you?\" without thinking about each word. Extra example: Ich heiße Leon. = I am called Leon.",
-     "lead": "Greetings are done, so now you give your name. On this card: what a verb is, and the first name chunk, Ich heiße, so you can say your name in one phrase."
+     "lead": "Greetings are done, so now you give your name. On this card: what a verb is, and the first name chunk, Ich heiße, so you can say your name in one phrase.",
+     "deeper": {
+      "text": "Compare English. We say My name is Mira, but German says Ich heiße Mira, which is closer to I am called Mira. Same job, different picture. Notice the pieces: ich is the subject, heiße is the verb. The verb comes right after ich. That simple order is the base of nearly every sentence you will build.",
+      "example": {
+       "de": "Hallo, ich heiße Ben.",
+       "en": "Hi, I am called Ben.",
+       "parts": [
+        [
+         "Hallo,",
+         "other"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The second chunk: Ich bin",
@@ -358,7 +429,28 @@
       "Ich bin Ben."
      ],
      "more": "Ich bin is a second brick, just like Ich heiße. Think of two doors into the same room. Door one: Ich heiße Ben. Door two: Ich bin Ben. Both lead to I give my name. Pick the door you find easier to say. bin is the German word for am. So Ich bin Anna is word for word I am Anna, just like English. Extra example: Hallo, ich bin Mira. = Hello, I am Mira. Tip: start with Ich bin. It is shorter.",
-     "lead": "You have one way to give your name. Next: a second name chunk, Ich bin, so you can choose whichever one sounds right to you."
+     "lead": "You have one way to give your name. Next: a second name chunk, Ich bin, so you can choose whichever one sounds right to you.",
+     "deeper": {
+      "text": "Both chunks are fine, and people use both. Ich bin Anna is shorter and sounds relaxed, perfect when you meet someone at a party. Later you will use bin for much more, for example to say how you feel. So bin is a verb you will meet again and again. Learn it well now.",
+      "example": {
+       "de": "Ich bin Anna.",
+       "en": "I am Anna.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "One verb only",
@@ -420,7 +512,28 @@
       ]
      },
      "more": "A sentence is like a car. A car needs one engine. Two engines do not make it faster, they make it break. In German the engine is the verb. Ich heiße already has an engine: heiße. Ich bin has its own: bin. So pick one brick and stop. Ich bin heiße Mira puts two engines in one car. Wrong example in English: I am am called Mira. It sounds odd, right? German feels the same. Right: Ich bin Mira. = I am Mira. Right: Ich heiße Mira. = I am called Mira.",
-     "lead": "You now have two name chunks. Last card of this lesson: a common mistake when people mix them up, and how to fix it, so your name sentences stay clean."
+     "lead": "You now have two name chunks. Last card of this lesson: a common mistake when people mix them up, and how to fix it, so your name sentences stay clean.",
+     "deeper": {
+      "text": "Here is a quick test for your own sentences: find the verb and count. In these name sentences there is exactly one verb, either heiße or bin. If you find two, delete one. This habit will help you later, when sentences get longer and it is easier to lose track of the verbs.",
+      "example": {
+       "de": "Ich heiße Anna.",
+       "en": "I am called Anna.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Anna.",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1047,7 +1160,28 @@
       ]
      },
      "more": "A pronoun is a stand-in. Instead of saying your own name again and again, you say ich. Think of a badge that says me. For the person you talk to, German has two badges. du is the friendly badge. Sie is the polite badge. English has just one word, you, so this part is new. Step 1: look at the person. Step 2: pick du or Sie before you speak. Extra example: Ich bin Leon. Und du? = I am Leon. And you?",
-     "lead": "In lesson 1 you greeted people and said your name. On this card: the small words that stand for people, ich, du and Sie, so you know who each word means."
+     "lead": "In lesson 1 you greeted people and said your name. On this card: the small words that stand for people, ich, du and Sie, so you know who each word means.",
+     "deeper": {
+      "text": "English has only one word for you, but it used to have two as well (thou and you). German kept both. That is why you must choose: du or Sie. The choice tells the other person how you see them, and it is a normal part of every conversation. Notice that du comes with a small d, and Sie with a big S.",
+      "example": {
+       "de": "Und du, Ben?",
+       "en": "And you, Ben?",
+       "parts": [
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "du,",
+         "subject"
+        ],
+        [
+         "Ben?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "du or Sie? Look at the person",
@@ -1093,7 +1227,32 @@
       "Sie + Herr / Frau + family name: Frau Weber, Herr Ali"
      ],
      "more": "Imagine two outfits. Jeans for friends, a suit for an office. du is the jeans word. Sie is the suit word. Step 1: look at the person. Step 2: friend, family or child? Say du. Step 3: stranger, teacher or boss? Say Sie. If you are unsure, pick Sie. Being too polite is safe. Being too casual can be rude. Sie always has a big S, so you can tell it from other words. Example: Guten Tag, Frau Weber! Wie heißen Sie? = Good day, Ms Weber! What is your name?",
-     "lead": "You now know the words du and Sie. Next: how to decide which one fits a person, so you sound friendly with a friend and polite with a stranger."
+     "lead": "You now know the words du and Sie. Next: how to decide which one fits a person, so you sound friendly with a friend and polite with a stranger.",
+     "deeper": {
+      "text": "When you are unsure, use Sie. It is polite, and nobody minds. The older or more senior person is usually the one who offers du. After that, both of you say du, and that is a friendly moment. Never offer du first to a person who is clearly older or has a higher job.",
+      "example": {
+       "de": "Guten Abend, Frau Weber!",
+       "en": "Good evening, Ms Weber!",
+       "parts": [
+        [
+         "Guten",
+         "other"
+        ],
+        [
+         "Abend,",
+         "other"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber!",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask a friend: Wie heißt du?",
@@ -1184,7 +1343,32 @@
       ]
      ],
      "more": "Treat Wie heißt du? as one ready-made block, like a sandwich you do not cut open. Word for word it is How are-called you? Step 1: say Wie heißt du? Step 2: wait for the answer. Step 3: ask back with Und du? Why heißt ends in -t comes in lesson 4. Extra example: Hallo! Wie heißt du? – Ich heiße Anna. = Hi! What is your name? – I am Anna.",
-     "lead": "You know when to use du. On this card: the friendly question for asking someone their name, and how to answer it and ask the person back."
+     "lead": "You know when to use du. On this card: the friendly question for asking someone their name, and how to answer it and ask the person back.",
+     "deeper": {
+      "text": "Literally, Wie heißt du? means how are you called. English asks what, German asks how. This is a good example of a word that does not match one to one, so do not translate word by word. Learn the whole question as one chunk and answer with the chunk you already know: Ich heiße …",
+      "example": {
+       "de": "Wie heißt du, Leon?",
+       "en": "What is your name, Leon?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißt",
+         "verb"
+        ],
+        [
+         "du,",
+         "subject"
+        ],
+        [
+         "Leon?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask politely: Wie heißen Sie?",
@@ -1277,7 +1461,32 @@
       ]
      },
      "more": "Think of a name tag that changes shape for each person. With friends the tag says heißt. With Sie the tag says heißen. You do not build them yet. You just match them like keys to locks. du fits heißt. Sie fits heißen. Step 1: choose du or Sie. Step 2: take the matching verb. Lesson 4 shows the pattern, so for now, copy it. Extra example: Wie heißen Sie? = What is your name? (polite). Wie heißt du? = What is your name? (friend).",
-     "lead": "Asking a friend is easy now. Next: the polite version of the same question, for a teacher or a stranger, and how the verb changes to fit."
+     "lead": "Asking a friend is easy now. Next: the polite version of the same question, for a teacher or a stranger, and how the verb changes to fit.",
+     "deeper": {
+      "text": "Notice that heißen, the form you use with Sie, looks exactly like the dictionary form of the verb. This is almost always true: with Sie, you use the infinitive form. That makes Sie easy to remember. You can also add Und to ask the same question back, just like Und du? with friends.",
+      "example": {
+       "de": "Und wie heißen Sie?",
+       "en": "And what is your name?",
+       "parts": [
+        [
+         "Und",
+         "conjunction"
+        ],
+        [
+         "wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The verb comes right after wie",
@@ -1356,7 +1565,36 @@
       ]
      ],
      "more": "Picture a train with cars in a fixed order. Car 1: the question word. Car 2: the verb. Car 3: the person. German never swaps the cars. Wie heißt du? has wie first, heißt second, du third. Wie du heißt? puts du in the verb's seat. The train will not leave. English is different: you can say You are called what? as a joke, but a real question flips the order. Extra example: Wie heißen Sie? = Wie, then heißen, then Sie. Easy.",
-     "lead": "You can ask a name in two ways. On this card: the order of the words in these questions, so the verb lands in the right place every time."
+     "lead": "You can ask a name in two ways. On this card: the order of the words in these questions, so the verb lands in the right place every time.",
+     "deeper": {
+      "text": "After the verb, the person can be du or Sie, and you can add a name if you like. The verb does not care: it still stands right after the question word. So you can build many questions on this model by swapping the person. Frau Weber and Herr Ali are names you can add at the end.",
+      "example": {
+       "de": "Wie heißen Sie, Frau Weber?",
+       "en": "What is your name, Ms Weber?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißen",
+         "verb"
+        ],
+        [
+         "Sie,",
+         "subject"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "How are you? Wie geht's?",
@@ -1429,7 +1667,24 @@
       "👉 Gut, danke!"
      ],
      "more": "Wie geht's? is a small ritual, like a wave of the hand. Word for word it is How goes it? English does the same: How's it going? Step 1: ask Wie geht's? Step 2: answer Gut, danke! Step 3: ask back with Und du? Learn each as a block. Extra example: Gut, danke! Und du? = Good, thanks! And you?",
-     "lead": "You can ask names politely and casually. Last card of this lesson: how to ask someone how they are and answer with a short, friendly reply, to finish the greetings."
+     "lead": "You can ask names politely and casually. Last card of this lesson: how to ask someone how they are and answer with a short, friendly reply, to finish the greetings.",
+     "deeper": {
+      "text": "Wie geht's? is short for Wie geht es? The apostrophe takes the place of the e. Germans also ask it in passing, and a short answer is normal, nobody expects a long story. You can reply with a quick word and then say thanks. Remember: it is casual, so use it with du people.",
+      "example": {
+       "de": "Danke, gut!",
+       "en": "Thanks, fine!",
+       "parts": [
+        [
+         "Danke,",
+         "other"
+        ],
+        [
+         "gut!",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2050,7 +2305,32 @@
       ]
      },
      "more": "Think of a sentence as a train. A part is one train car. A car can hold one word, or a few words that travel together. Anna Weber is two words but one car, because it is one name. Step 1: read the sentence. Step 2: ask who? That car is the subject. Step 3: count the cars. Extra example: Ich heiße Anna Weber. = Ich | heiße | Anna Weber. Three parts, four words.",
-     "lead": "Next after your name: where you come from and where you live. On this card: how to split a sentence into parts instead of words, so the rule that follows makes sense."
+     "lead": "Next after your name: where you come from and where you live. On this card: how to split a sentence into parts instead of words, so the rule that follows makes sense.",
+     "deeper": {
+      "text": "Parts can be short or long. Ich is one word and one part. Mira Bauer has two words but is still one part, because both words name one person. Count the parts, not the words. A good trick: if you can replace the group with one word, like Mira, it is one part.",
+      "example": {
+       "de": "Ich heiße Mira Bauer.",
+       "en": "I am called Mira Bauer.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "heiße",
+         "verb"
+        ],
+        [
+         "Mira",
+         "other"
+        ],
+        [
+         "Bauer.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where you come from: Ich komme aus …",
@@ -2129,7 +2409,32 @@
       ]
      ],
      "more": "Ich komme aus is a ready-made block with a gap, like a sticker that says I come from ___. Step 1: say Ich komme aus. Step 2: fill the gap with a country or a city. aus + the place stick together as one part. The order is the same as in English. Extra example: Ich komme aus Italien. = I come from Italy.",
-     "lead": "You can split a sentence into parts. Next: how to say where you come from, with a country or city after aus, so you can tell people your home."
+     "lead": "You can split a sentence into parts. Next: how to say where you come from, with a country or city after aus, so you can tell people your home.",
+     "deeper": {
+      "text": "Most countries and cities need no extra word after aus: aus Spanien, aus Wien. A few countries do use one, but you will meet them later. Also note the capital letters: in German every noun starts with a big letter, and places are nouns. Aus Italien is two words but only one part of the sentence.",
+      "example": {
+       "de": "Ich komme aus England.",
+       "en": "I come from England.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "England.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where you live: Ich wohne in …",
@@ -2199,7 +2504,32 @@
       "Ich wohne in Berlin."
      ],
      "more": "Ich wohne in is a block with a gap too: I live in ___. Think of a pin on a map. Step 1: say Ich wohne in. Step 2: add the place. Do not mix them up: aus is where you started, in is where you are now. Extra example: Ich wohne in Wien. = I live in Vienna.",
-     "lead": "You can say where you come from. On this card: the same pattern for where you live, with in before the place, so you can share the town you live in."
+     "lead": "You can say where you come from. On this card: the same pattern for where you live, with in before the place, so you can share the town you live in.",
+     "deeper": {
+      "text": "Pronunciation tip: German w sounds like English v. So wohne is said VOH-neh, and Wien is said Veen. Because the sound is so different, practise saying it out loud a few times. Austria is Österreich, and its capital is Wien (Vienna). The tiny word in always comes before the place.",
+      "example": {
+       "de": "Ich wohne in Wien.",
+       "en": "I live in Vienna.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wohne",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The big rule: the verb is part 2",
@@ -2302,7 +2632,32 @@
        "place"
       ]
      ],
-     "lead": "You now say two kinds of sentences about yourself. Next: the rule that decides where the verb sits in a statement, so every sentence you build sounds right."
+     "lead": "You now say two kinds of sentences about yourself. Next: the rule that decides where the verb sits in a statement, so every sentence you build sounds right.",
+     "deeper": {
+      "text": "Position 2 means the second part, not the second word. A part can be one word or several. So in Ich heiße Mira Bauer, the verb is still in position 2, even though Mira Bauer has two words. This is why we counted parts in the first card: it keeps the rule simple and always true.",
+      "example": {
+       "de": "Ich bin Mira Bauer.",
+       "en": "I am Mira Bauer.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "Mira",
+         "other"
+        ],
+        [
+         "Bauer.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Question words: woher and wo",
@@ -2386,7 +2741,32 @@
       ]
      ],
      "more": "Think of two arrows. woher points back to where you started, and the answer uses aus. wo is a pin on the map where you are now, and the answer uses in. Step 1: look at the question word. Step 2: woher means aus, wo means in. Both start with wo, which sounds like where. Extra example: Woher? – Aus Wien. Wo? – In Hamburg. = Where from? – From Vienna. Where? – In Hamburg.",
-     "lead": "You know how statements are built. On this card: two question words, one for where from and one for where, and the short answers you give back to them."
+     "lead": "You know how statements are built. On this card: two question words, one for where from and one for where, and the short answers you give back to them.",
+     "deeper": {
+      "text": "Look at the question words: woher is literally where-from. That is why the answer starts with aus, which means from. And wo is just where, so the answer starts with in. The question word and the little word in the answer belong together, like a pair. Learn them as a pair.",
+      "example": {
+       "de": "Woher? – Aus Wien.",
+       "en": "Where from? – From Vienna.",
+       "parts": [
+        [
+         "Woher?",
+         "question"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Aus",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "W-questions: the verb is part 2 too",
@@ -2465,7 +2845,36 @@
       ]
      ],
      "more": "Same bus, same seats. In a W-question the question word takes seat 1. The verb stays in seat 2. The person gets seat 3. Woher kommst du? has woher first, kommst second, du third. The verb never moves out of seat 2. Wrong: Woher du kommst? Here du sits in seat 2. The verb loses its seat. Extra example: Wo wohnen Sie? = Where do you live? (polite). Step: question word, verb, person. Say it three times out loud.",
-     "lead": "You know two question words now. Next: how the same rule works when a question starts with one of them, so you can ask someone where they live."
+     "lead": "You know two question words now. Next: how the same rule works when a question starts with one of them, so you can ask someone where they live.",
+     "deeper": {
+      "text": "A W-question has the same shape as Wie heißt du?: question word, verb, then the person. Because the verb is always in position 2, you can learn one pattern for all W-questions. Swap only the question word and the verb. This saves you a lot of work, because you do not need a new rule for each question.",
+      "example": {
+       "de": "Woher kommen Sie, Herr Ali?",
+       "en": "Where do you come from, Mr Ali?",
+       "parts": [
+        [
+         "Woher",
+         "question"
+        ],
+        [
+         "kommen",
+         "verb"
+        ],
+        [
+         "Sie,",
+         "subject"
+        ],
+        [
+         "Herr",
+         "other"
+        ],
+        [
+         "Ali?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Forms for du and Sie",
@@ -2554,7 +2963,36 @@
       ]
      },
      "more": "Think of verbs as clothes that change for each person. Today you only copy them, like copying a phone number. du gets one ending, Sie gets another. Do not worry about why. Lesson 4 explains the pattern. Copy now: du kommst, Sie kommen. du wohnst, Sie wohnen. Extra example: Woher kommen Sie? = Where do you come from? (polite). Wo wohnst du? = Where do you live? (friend). Match: du with -st, Sie with -en.",
-     "lead": "You can ask where people are from and live. Last card of this lesson: the matching verb forms for du and Sie, so each question ends in the right form and you do not mix them up."
+     "lead": "You can ask where people are from and live. Last card of this lesson: the matching verb forms for du and Sie, so each question ends in the right form and you do not mix them up.",
+     "deeper": {
+      "text": "Notice the pattern: with Sie, the verb always looks like the dictionary form (kommen, wohnen). With du, the verb ends in -st (kommst, wohnst). With ich, it ends in -e. Learn to listen for these endings, because they tell you who is meant. In lesson 4 you will see why.",
+      "example": {
+       "de": "Wo wohnen Sie, Frau Weber?",
+       "en": "Where do you live, Ms Weber?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "wohnen",
+         "verb"
+        ],
+        [
+         "Sie,",
+         "subject"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber?",
+         "other"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -3186,7 +3624,32 @@
       "= komm- (the stem)"
      ],
      "more": "Think of a verb as a tree: the stem is the trunk and the ending is a branch. The trunk stays. Only the branch changes. kommen has the trunk komm- and the branch -en. Step 1: find the -en at the end of the dictionary word. Step 2: cut it off. Step 3: what is left is the stem. kommen without -en is komm-. wohnen without -en is wohn-. Why German does it: the trunk carries the meaning, the branch tells who. Extra example: sagen (to say) gives sag-.",
-     "lead": "You now know many chunks, but verbs change for each person. On this card: the dictionary form of a verb and the part that stays the same, so you know what to change."
+     "lead": "You now know many chunks, but verbs change for each person. On this card: the dictionary form of a verb and the part that stays the same, so you know what to change.",
+     "deeper": {
+      "text": "In a dictionary you look up kommen, not komme. English does the same with to come. Nearly every German verb ends in -en, so when you hear a new verb, just drop -en to find the stem. One small exception is sein, which you will meet in lesson 5. It is very special.",
+      "example": {
+       "de": "Ich komme aus Wien.",
+       "en": "I come from Vienna.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Stem + ending",
@@ -3315,7 +3778,32 @@
        "place"
       ]
      ],
-     "lead": "You know the stem now. Next: the endings you add to it for each person, so ich, du and Sie each get the verb form that fits them."
+     "lead": "You know the stem now. Next: the endings you add to it for each person, so ich, du and Sie each get the verb form that fits them.",
+     "deeper": {
+      "text": "The ending is a clue about the person. Komme can only mean ich, and kommst can only mean du. So the ending tells the listener who is acting, even before they hear the pronoun. That is why German keeps the pronoun and the ending in agreement. They always match.",
+      "example": {
+       "de": "Du kommst aus Italien.",
+       "en": "You come from Italy.",
+       "parts": [
+        [
+         "Du",
+         "subject"
+        ],
+        [
+         "kommst",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Italien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "er and sie: he and she",
@@ -3430,7 +3918,32 @@
       ]
      ],
      "more": "Every person has a stand-in word. Ben is a he, so er. Mira is a she, so sie. Both take -t, like one key for two doors. Step 1: who is it? Step 2: he or she? Step 3: stem + t. kommen: komm + t = kommt. A name does the same job as er or sie. Later you will meet another sie, but not yet. Extra example: Sie wohnt in Berlin. = She lives in Berlin.",
-     "lead": "You have endings for ich, du and Sie. On this card: the ending for he and she, using names you already know, such as Ben and Mira."
+     "lead": "You have endings for ich, du and Sie. On this card: the ending for he and she, using names you already know, such as Ben and Mira.",
+     "deeper": {
+      "text": "English also has a special ending for he and she: he comes, she lives. The ending is -s. German uses -t instead: er kommt, sie wohnt. So you already know the idea. Only the letter is different. Remember that a name works the same way, so Mira kommt is just like sie kommt.",
+      "example": {
+       "de": "Mira kommt aus Italien.",
+       "en": "Mira comes from Italy.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Italien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sie or Sie? Look at the ending",
@@ -3533,7 +4046,32 @@
       ]
      },
      "more": "Two words sound the same, but they wear different shoes. Small sie (she) wears -t. Big Sie (polite you) wears -en. Look at the shoes, the verb ending. Sie kommt aus Spanien: -t means she. Sie kommen aus Spanien: -en means you, polite. Why German works this way: at the start of a sentence both start with a big S, so the verb ending is your only clue. Step 1: look at the verb ending. Step 2: -t means she, -en means polite you. Extra example: Sie wohnt in Wien. = She lives in Vienna.",
-     "lead": "You have seen sie and Sie in sentences. Next: how the ending tells you which one is meant, so you can understand a sentence even at its start."
+     "lead": "You have seen sie and Sie in sentences. Next: how the ending tells you which one is meant, so you can understand a sentence even at its start.",
+     "deeper": {
+      "text": "In speech you cannot hear a capital letter. So how do people know whether they hear sie or Sie? They listen to the verb ending, and to the situation. If the verb ends in -t, one woman is meant. If it ends in -en, the speaker means they, or the polite you.",
+      "example": {
+       "de": "Sie wohnt in Berlin.",
+       "en": "She lives in Berlin.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "wohnt",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Berlin.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "heißen: one small change",
@@ -3634,7 +4172,28 @@
       ]
      },
      "more": "Think of a snake that already has an s at the end. The stem heiß- ends in the sharp s sound. The du ending -st also has an s. So heiß + st would give a double s sound: heißst. German skips one s, so du gets only -t. Step 1: stem heiß-. Step 2: du ending would be -st. Step 3: the s is already there, so just add -t. Result: du heißt. Extra example: Du heißt Ben. = Your name is Ben. This is the only odd one so far. er and sie also say heißt.",
-     "lead": "Your endings are almost complete. Next: heißen, which has one small exception to the endings, so the name forms from lesson 1 make sense."
+     "lead": "Your endings are almost complete. Next: heißen, which has one small exception to the endings, so the name forms from lesson 1 make sense.",
+     "deeper": {
+      "text": "The letter ß appears after a long vowel or after a diphthong, like the ei in heißen. You say it like ss. That is why the stem heiß- already ends in an s sound, and the extra s of the du ending would be too much. Many other words show the same pattern, which you will learn later.",
+      "example": {
+       "de": "Wie heißt sie?",
+       "en": "What is her name?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "heißt",
+         "verb"
+        ],
+        [
+         "sie?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Find the form in 3 steps",
@@ -3698,7 +4257,32 @@
       "Du kommst aus Wien."
      ],
      "more": "Think of a recipe with three steps. Step 1: who is the subject? Step 2: which ending fits that person? Step 3: glue it onto the stem. Example: Who? du. Ending? -st. Stem? komm-. Result: kommst. Do the same every time and you cannot go wrong. A recipe works because you do not have to think, you just follow. Extra example: Who? er. Ending? -t. Stem wohn-. Result: er wohnt. Er wohnt in Berlin. = He lives in Berlin.",
-     "lead": "You now know every ending. Last card of this lesson: a simple three-step method for picking the right verb form, so you can build a form yourself and finish the lesson."
+     "lead": "You now know every ending. Last card of this lesson: a simple three-step method for picking the right verb form, so you can build a form yourself and finish the lesson.",
+     "deeper": {
+      "text": "A good way to practise: say the three steps in your head before you speak. First ask who the subject is. Then pick the ending. Then join it with the stem. At the start it feels slow, but after a few days it becomes automatic. Check the ending before the pronoun, as that is how Germans think.",
+      "example": {
+       "de": "Ben kommt aus Spanien.",
+       "en": "Ben comes from Spain.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Spanien.",
+         "place"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4328,7 +4912,28 @@
       ]
      },
      "more": "Think of a stubborn friend who always has his own special seat. Most verbs follow the stem + ending recipe. sein does not. It is like a person whose name changes each time you meet them: ich bin, du bist, er ist, Sie sind. You cannot build them. You just know them, like your phone number. Why? sein is used so often that it kept its old forms through history. Tip: say the four forms out loud each day for a week. Extra example: Du bist nett. = You are nice.",
-     "lead": "You can change regular verbs now. Next: sein, the most common verb in German, which does not follow the ending pattern, so you learn its forms by heart."
+     "lead": "You can change regular verbs now. Next: sein, the most common verb in German, which does not follow the ending pattern, so you learn its forms by heart.",
+     "deeper": {
+      "text": "In English, be is also irregular: I am, you are, he is. Very common verbs often become irregular because people use them so much that the forms wear down. German does the same with sein. That is why you cannot build du seinst. Say the forms often, and they become natural quickly.",
+      "example": {
+       "de": "Er ist Ben.",
+       "en": "He is Ben.",
+       "parts": [
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Ben.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Still part 2",
@@ -4407,7 +5012,28 @@
       ]
      ],
      "more": "Think of sein as a coat rack with a hook for each person. Each hook holds one form: bin for ich, bist for du, ist for er and sie, sind for Sie. A hook cannot be built from a stem. There is no du seinst. If you say it, a German will smile. The verb still sits in seat 2. Step 1: who is it? Step 2: grab the matching form. Extra example: Er ist neu. = He is new. Sie sind Frau Weber. = You are Ms Weber.",
-     "lead": "You know the forms of sein. On this card: where sein goes in a sentence, so the new forms fit the word order you already know."
+     "lead": "You know the forms of sein. On this card: where sein goes in a sentence, so the new forms fit the word order you already know.",
+     "deeper": {
+      "text": "Spot the pattern: ich bin and du bist both start with b. Then er ist and Sie sind start with i and s. It helps to say them in a short rhythm: bin, bist, ist, sind. The forms you hear most are ist and sind. Always listen for them, because they carry the meaning.",
+      "example": {
+       "de": "Ich bin nett.",
+       "en": "I am nice.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "nett.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Who is that? Das ist …",
@@ -4509,7 +5135,28 @@
       "Das ist Leon."
      ],
      "more": "Das ist + name is like pointing a finger and saying: this is ... Step 1: point at the person. Step 2: say Das ist. Step 3: add the name. To ask, swap it: Wer ist das? means who is that? das is the same word in the question and the answer. ist is still part 2. Extra example: Das ist Ben. = This is Ben.",
-     "lead": "You can say who you are with sein. Next: how to introduce another person and ask who someone is, so you can talk about a new friend."
+     "lead": "You can say who you are with sein. Next: how to introduce another person and ask who someone is, so you can talk about a new friend.",
+     "deeper": {
+      "text": "Das ist works for anything, not only people. You can say Das ist Berlin or Das ist Anna in exactly the same way. The verb is always ist, because das counts like er and sie. So you only need one tiny chunk to introduce people, places and things. It is one of the most useful chunks you will learn.",
+      "example": {
+       "de": "Das ist Berlin.",
+       "en": "This is Berlin.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Berlin.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Jobs: no word for 'a'",
@@ -4592,7 +5239,28 @@
       ]
      ],
      "more": "English says a student, a teacher. German drops the a when you say what someone does for a living. It is like a name tag: you just write the job. Step 1: sein form. Step 2: the job word. Ben ist Student. Frau Weber ist Lehrerin. No ein, no a. Why German does it: a job is seen as what someone is, like a label, not one of many students. Extra example: Ich bin Lehrer. = I am a teacher.",
-     "lead": "You can introduce people now. On this card: how to say what someone does for work, using sein with the job word, so you can tell people your job."
+     "lead": "You can introduce people now. On this card: how to say what someone does for work, using sein with the job word, so you can tell people your job.",
+     "deeper": {
+      "text": "German treats a job like a label or a name, so it needs no a. Compare English: he is a teacher, but German says er ist Lehrer. The job word stays the same, and it starts with a capital letter, because it is a noun. Later you will see when German does use a word for a.",
+      "example": {
+       "de": "Leon ist Lehrer.",
+       "en": "Leon is a teacher.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Lehrer.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "-in: the word for a woman",
@@ -4661,7 +5329,28 @@
       ]
      },
      "more": "Think of a job word as a badge. The basic badge is for a man. To show a woman, stick a small -in on the end, like adding a sticker. Lehrer + in = Lehrerin. Student + in = Studentin. Step 1: start with the man word. Step 2: add -in for a woman. Why German does it: it shows right in the word who is meant. Extra example: Leon ist Lehrer. = Leon is a teacher. Anna ist Lehrerin. = Anna is a teacher.",
-     "lead": "You can name jobs for a man. Next: how a job word changes when a woman has the job, so you can describe a female teacher or student."
+     "lead": "You can name jobs for a man. Next: how a job word changes when a woman has the job, so you can describe a female teacher or student.",
+     "deeper": {
+      "text": "The ending -in is short and sounds like English in. It is the sign of a woman, and it is easy to hear. Some jobs also change a vowel when they add -in, but that comes later. For now, just remember that the ending is always the same, and that it goes on the job word, not on the name.",
+      "example": {
+       "de": "Anna ist Lehrerin.",
+       "en": "Anna is a teacher.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Lehrerin.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say what someone is like",
@@ -4744,7 +5433,28 @@
       ]
      ],
      "more": "A describing word is like a sticker on a name tag. It says what someone is like. Step 1: say who. Step 2: say the right form of sein: bin, bist, ist or sind. Step 3: stick on the word: nett, neu or super. These words stay the same here. Extra example: Du bist nett. = You are nice.",
-     "lead": "You can name jobs for men and women. Last card of this lesson: how to describe what a person is like, with short words such as nice and new, to finish the lesson."
+     "lead": "You can name jobs for men and women. Last card of this lesson: how to describe what a person is like, with short words such as nice and new, to finish the lesson.",
+     "deeper": {
+      "text": "Notice that nett, neu and super never take an ending after ist. The word stays the same for every person: Ben ist neu, Mira ist neu. That makes this pattern very easy. You can describe anyone with the same small word. Later, in other places, describing words do change.",
+      "example": {
+       "de": "Ben ist neu.",
+       "en": "Ben is new.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5362,7 +6072,32 @@
       ]
      },
      "more": "Think of the alphabet as a piano with four extra keys. The dots on ä, ö, ü are like a little hat that changes the sound, so they are not the same letter as a, o, u. And ß is a special key that sounds like a double s. Step 1: see two dots. Step 2: say the new sound, not the old one. Why they exist: German used to write a small e above the letter, and over time it became two dots. Extra example: heißen sounds like hy-ssen. Tschüss = goodbye (casual).",
-     "lead": "You can now talk about people and their jobs. Next: the German letters that English does not have, so you can read and spell words more easily."
+     "lead": "You can now talk about people and their jobs. Next: the German letters that English does not have, so you can read and spell words more easily.",
+     "deeper": {
+      "text": "If your keyboard has no ä, ö or ü, you can write ae, oe and ue instead, and ß becomes ss. So Österreich can be written Oesterreich, and everyone will understand. But try to learn the real letters, because they matter in correct spelling and they can change a word. The dots really are part of the letter.",
+      "example": {
+       "de": "Ich komme aus Österreich.",
+       "en": "I come from Austria.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "aus",
+         "preposition"
+        ],
+        [
+         "Österreich.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Spelling: Wie schreibt man das?",
@@ -5421,7 +6156,32 @@
       "W – E – B – E – R."
      ],
      "more": "Spelling is saying letters one by one, like beads on a string. Wie schreibt man das? is one block. Word for word it is How writes one that? Step 1: ask the block. Step 2: listen to the letters. Step 3: write them down. Extra example: Wie schreibt man das? – M – I – R – A. = How do you spell that? – M-I-R-A.",
-     "lead": "You know the four extra letters. On this card: how to spell a word letter by letter when someone asks you to, so people can understand your name."
+     "lead": "You know the four extra letters. On this card: how to spell a word letter by letter when someone asks you to, so people can understand your name.",
+     "deeper": {
+      "text": "German letter names sound different from English. For example, W is said like English v, and J is said like English y. So when you spell a name aloud, the sounds may surprise a German listener. Practise saying the alphabet once, slowly, and your spelling will be easy to follow.",
+      "example": {
+       "de": "Wie schreibt man Mira?",
+       "en": "How do you write Mira?",
+       "parts": [
+        [
+         "Wie",
+         "question"
+        ],
+        [
+         "schreibt",
+         "verb"
+        ],
+        [
+         "man",
+         "subject"
+        ],
+        [
+         "Mira?",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Languages often end in -isch",
@@ -5514,7 +6274,28 @@
       ]
      },
      "more": "Many language names share a tail: -isch. English does too: Spanisch is Spanish, Englisch is English. Step 1: think of the country. Step 2: change the end to -isch. Deutsch is the odd one out, so learn it by itself. Always write language names with a big letter. Extra example: Italien → Italienisch = Italy → Italian.",
-     "lead": "You can spell words now. Next: how to name languages, and how a country name often leads to its language, so you can say what you speak."
+     "lead": "You can spell words now. Next: how to name languages, and how a country name often leads to its language, so you can say what you speak.",
+     "deeper": {
+      "text": "English and German are cousins, so the endings match: -isch is like -ish. Spanisch is Spanish, Englisch is English. Notice that the country and the language are different words, Spanien and Spanisch. Both start with a capital letter, because both are nouns. This helps you guess new words very fast.",
+      "example": {
+       "de": "Englisch und Spanisch",
+       "en": "English and Spanish",
+       "parts": [
+        [
+         "Englisch",
+         "other"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "Spanisch",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "sprechen: the e becomes i",
@@ -5647,7 +6428,28 @@
       ]
      },
      "more": "Think of the stem as a trunk that sometimes bends in the middle. For sprechen, the e in spr-e-ch bends to i, but only for du and er/sie. Step 1: ich spreche (normal). Step 2: du sprichst (e becomes i). Step 3: er spricht (e becomes i). Step 4: Sie sprechen (normal again). Why it happens: it is an old sound change that stuck. Do not try to build it, just learn this one. Extra example: Anna spricht Spanisch. = Anna speaks Spanish.",
-     "lead": "You can name languages. On this card: the verb sprechen, which means to speak, and a small change in its stem for some people, so you can say what you speak."
+     "lead": "You can name languages. On this card: the verb sprechen, which means to speak, and a small change in its stem for some people, so you can say what you speak.",
+     "deeper": {
+      "text": "Look at the pattern in the table: the change appears only in du and er/sie, and the other forms stay the same. Think of ich, wir and Sie as the safe forms that never change. So you only have two forms to watch. Say sprichst and spricht aloud a few times, so that your mouth learns them.",
+      "example": {
+       "de": "Mira spricht Deutsch.",
+       "en": "Mira speaks German.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "spricht",
+         "verb"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A little: ein bisschen",
@@ -5723,7 +6525,36 @@
       ]
      ],
      "more": "ein bisschen is a pinch, like a pinch of salt. It makes the language smaller: a little. Step 1: say Ich spreche. Step 2: add ein bisschen. Step 3: add the language. The pinch and the language together are one part. Extra example: Ich spreche ein bisschen Englisch. = I speak a little English.",
-     "lead": "You can say what you speak with sprechen. Next: how to say you speak only a little, with a short phrase that goes before the language, so you do not sound too sure."
+     "lead": "You can say what you speak with sprechen. Next: how to say you speak only a little, with a short phrase that goes before the language, so you do not sound too sure.",
+     "deeper": {
+      "text": "Germans often say ein bisschen even when they speak well, because it sounds modest and friendly. The word is said like biss-chen. So it is a good small phrase to use when you are still learning. People will usually be happy that you try. It tells the listener to speak a little slower.",
+      "example": {
+       "de": "Ich spreche ein bisschen Englisch.",
+       "en": "I speak a little English.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "spreche",
+         "verb"
+        ],
+        [
+         "ein",
+         "other"
+        ],
+        [
+         "bisschen",
+         "other"
+        ],
+        [
+         "Englisch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Yes/no questions: the verb goes first",
@@ -5826,7 +6657,32 @@
       ]
      ],
      "more": "Think of a question as a flipped sentence. Normal: Du wohnst in Berlin. For a yes/no question, flip the verb to the front: Wohnst du in Berlin? Step 1: write the statement. Step 2: move the verb to position 1. Step 3: the person comes right after it. The verb stays the same. English adds do or does (Do you live in Berlin?). German skips that and just moves the verb. Extra example: Bist du Mira? = Are you Mira? Answer: Ja or Nein.",
-     "lead": "You can say how much you speak now. Next: how the word order changes when you ask a question you answer with ja or nein, so you can start a yes or no question."
+     "lead": "You can say how much you speak now. Next: how the word order changes when you ask a question you answer with ja or nein, so you can start a yes or no question.",
+     "deeper": {
+      "text": "In a yes/no question the voice usually goes up at the end, as in English. The first word is the verb, so listen for it. Because there is no question word, the verb in position 1 is the signal. You can also turn any statement into a question by moving the verb to the front.",
+      "example": {
+       "de": "Wohnen Sie in Berlin?",
+       "en": "Do you live in Berlin?",
+       "parts": [
+        [
+         "Wohnen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Berlin?",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Two kinds of questions",
@@ -5935,7 +6791,28 @@
        "place"
       ]
      ],
-     "lead": "You can ask yes or no questions now. Last card of this lesson: how to tell the two kinds of question apart, the ones with a question word and the ones without, and which order each one uses."
+     "lead": "You can ask yes or no questions now. Last card of this lesson: how to tell the two kinds of question apart, the ones with a question word and the ones without, and which order each one uses.",
+     "deeper": {
+      "text": "English uses do or does to make a question: Do you speak German? German needs no such helper. It only moves the verb. A tip for your voice: after a question word, the voice goes down at the end. After a verb at the start, the voice goes up. Listen for this melody when Germans speak.",
+      "example": {
+       "de": "Sprichst du Spanisch?",
+       "en": "Do you speak Spanish?",
+       "parts": [
+        [
+         "Sprichst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Spanisch?",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {

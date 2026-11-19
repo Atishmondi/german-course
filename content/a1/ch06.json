@@ -259,7 +259,36 @@
       ]
      },
      "more": "Think of a race. Numbers say how many runners there are: eins, zwei, drei. Ordinals say who came first, second, third. In German the ordinal is a describing word, so it wears an ending: erste, zweite, dritte. Step 1: find the number. Step 2: add -te. Step 3: watch the odd ones: erste, dritte. Extra example: der vierte Tag = the fourth day.",
-     "lead": "Your intro said dates need order words. This card gives the first ten of them, first, second, third and so on, so you can start naming days in a month."
+     "lead": "Your intro said dates need order words. This card gives the first ten of them, first, second, third and so on, so you can start naming days in a month.",
+     "deeper": {
+      "text": "German -te is a cousin of English -th: vier-te is four-th. As in English, the first and third are odd: erste and dritte, like first and third. But zweite is regular, because it is just zwei + te. Use the ordinal with der in front when you name a day: der vierte Tag.",
+      "example": {
+       "de": "Das ist der vierte Tag.",
+       "en": "That is the fourth day.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "vierte",
+         "adjective"
+        ],
+        [
+         "Tag.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "11 to 19: add -te",
@@ -388,7 +417,36 @@
       ]
      },
      "more": "Here is the whole rule in one line: number + te. vier becomes vierte, fünf becomes fünfte, dreizehn becomes dreizehnte. Only a few words change in spelling. Remember three: erste, dritte, siebte. And elfte and zwölfte have no little brother in the number, so learn them from the table. Extra example: Heute ist der siebzehnte August. = Today is the seventeenth of August.",
-     "lead": "You know the first ten order words now. This card shows how the teens from eleven to nineteen work, so you can name later days of the month."
+     "lead": "You know the first ten order words now. This card shows how the teens from eleven to nineteen work, so you can name later days of the month.",
+     "deeper": {
+      "text": "Dates stop at 31, so a month needs ordinals from 1 to 31 and no more. That makes the tables small. The words elfte and zwölfte look odd, because they keep the f from elf and zwölf and just add -te. You mostly need to recognise them in dates, not say them fast.",
+      "example": {
+       "de": "Heute ist der siebzehnte Juli.",
+       "en": "Today is the seventeenth of July.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "siebzehnte",
+         "adjective"
+        ],
+        [
+         "Juli.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "20 and up: add -ste",
@@ -509,7 +567,36 @@
       ]
      },
      "more": "Cut the month into two halves. Days 1 to 19 get -te. Days 20 to 31 get -ste. Step 1: is the number 20 or more? Step 2: add -ste. Step 3: for 21 to 29 say the one first: ein-und-zwanzig-ste. It is the same backwards order you learned for numbers. Extra example: der fünfundzwanzigste Dezember = the 25th of December.",
-     "lead": "From the teens you move on to twenty and beyond. This card covers the bigger order words, so you can name the last days of a month, up to the 31st."
+     "lead": "From the teens you move on to twenty and beyond. This card covers the bigger order words, so you can name the last days of a month, up to the 31st.",
+     "deeper": {
+      "text": "Why -ste after 20? zwanzigte would be hard to say, but zwanzigste flows. So the rule of thumb is simple: up to 19 add -te, from 20 add -ste. In 21 to 31 only the last piece changes, and the one stays first: ein-und-zwanzig-ste.",
+      "example": {
+       "de": "Heute ist der fünfundzwanzigste Juli.",
+       "en": "Today is the twenty-fifth of July.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "fünfundzwanzigste",
+         "adjective"
+        ],
+        [
+         "Juli.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Read the dot: 3. Mai = der dritte Mai",
@@ -604,7 +691,36 @@
       "Heute ist der dritte Mai."
      ],
      "more": "The little dot is a secret sign. It says: say this number as a first, second, third. So 3. Mai is not drei Mai. It is der dritte Mai. Step 1: see the number with a dot. Step 2: turn it into the ordinal. Step 3: add the month. Extra example: 8. August = der achte August.",
-     "lead": "Dates are often written with digits and a dot. This card shows what that dot means and how to read it aloud, so you can say the date when you see 3. Mai."
+     "lead": "Dates are often written with digits and a dot. This card shows what that dot means and how to read it aloud, so you can say the date when you see 3. Mai.",
+     "deeper": {
+      "text": "In a written date the dot is a silent ending: it stands for -te or -ste. So 24. Dezember is read der vierundzwanzigste Dezember. You will see this on calendars, tickets and emails. 24.12. means the 24th of December: day first, then month. This is the opposite of the US order.",
+      "example": {
+       "de": "Heute ist der 24. Dezember.",
+       "en": "Today is the 24th of December.",
+       "parts": [
+        [
+         "Heute",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "24.",
+         "adjective"
+        ],
+        [
+         "Dezember.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "After am: -te becomes -ten",
@@ -748,7 +864,40 @@
       ]
      },
      "more": "You already know am Montag. Now the date works the same way: am + date. The only new thing is the ending. After am, the date word ends in -n: ersten, dritten, zehnten, zwanzigsten. Do not ask why yet. Step 1: write am. Step 2: take the ordinal. Step 3: put -n on the end. Extra example: am siebten Mai = on the seventh of May.",
-     "lead": "Now you can name a date in its order form. This card shows the form you need after am, so you can say on which day something happens."
+     "lead": "Now you can name a date in its order form. This card shows the form you need after am, so you can say on which day something happens.",
+     "deeper": {
+      "text": "After am the ordinal always ends in -n, and every date works the same. So there is only one new thing to learn: am + the ordinal + -n. English only adds on (the third, on the third), but German also changes the ending. Copy the pattern for now.",
+      "example": {
+       "de": "Am zwölften Juni lerne ich Deutsch.",
+       "en": "On the twelfth of June I learn German.",
+       "parts": [
+        [
+         "Am",
+         "preposition"
+        ],
+        [
+         "zwölften",
+         "adjective"
+        ],
+        [
+         "Juni",
+         "noun"
+        ],
+        [
+         "lerne",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Deutsch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A whole date in a sentence",
@@ -881,7 +1030,32 @@
       ]
      ],
      "more": "Remember the verb chair from chapter 1: the verb always sits in part 2. The date can fill part 1. Then the verb sits in part 2, and ich moves behind it. Step 1: Am fünften Mai (part 1). Step 2: habe (part 2). Step 3: ich. Step 4: Zeit. Extra example: Am zweiten Mai arbeite ich. = On the second of May I work.",
-     "lead": "Dates can sit inside whole sentences now. This card gives two ways to use them, a plain fact and a sentence about a day, so you can say what you do on a date."
+     "lead": "Dates can sit inside whole sentences now. This card gives two ways to use them, a plain fact and a sentence about a day, so you can say what you do on a date.",
+     "deeper": {
+      "text": "Which date is today? Ask Welches Datum ist heute? and answer Heute ist der … with the ordinal. Welches Datum means which date. Use Heute ist der … for a fact and Am … when you say on which day something happens. They look similar, so choose by the job.",
+      "example": {
+       "de": "Welches Datum ist heute?",
+       "en": "What is the date today?",
+       "parts": [
+        [
+         "Welches",
+         "question"
+        ],
+        [
+         "Datum",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "heute?",
+         "time"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -1609,7 +1783,32 @@
       ]
      ],
      "more": "Imagine a birthday is something you own, like a hat. You do not say I am a birthday. You say I have a birthday. So we use haben, which you know: ich habe, du hast, er hat. Step 1: Ich habe. Step 2: am + the date. Step 3: Geburtstag. Extra example: Ben hat am zehnten Juli Geburtstag. = Ben has his birthday on the tenth of July.",
-     "lead": "You can say dates now, so the next question people ask at parties is when a birthday is. This card shows how to ask it and how to answer with a date."
+     "lead": "You can say dates now, so the next question people ask at parties is when a birthday is. This card shows how to ask it and how to answer with a date.",
+     "deeper": {
+      "text": "Geburtstag is Geburt (birth) + Tag (day): a birth-day. You say you have it, like you have an appointment. Ich habe Geburtstag can mean that it is my birthday today. You can ask about today with heute.",
+      "example": {
+       "de": "Hast du heute Geburtstag?",
+       "en": "Is it your birthday today?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "Geburtstag?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Answer, and say my and your",
@@ -1710,7 +1909,28 @@
       ]
      },
      "more": "Two ways to ask, same meaning. Way 1: Wann hast du Geburtstag? Way 2: Wann ist dein Geburtstag? dein is the your that goes with a friend (du). mein is the my that goes with ich. Step 1: pick your question. Step 2: answer with am + date. Extra example: Mein Geburtstag ist am ersten Mai. = My birthday is on the first of May.",
-     "lead": "You know how to say your birthday. This card gives a short answer, and the question with dein, so you can ask a friend when theirs is."
+     "lead": "You know how to say your birthday. This card gives a short answer, and the question with dein, so you can ask a friend when theirs is.",
+     "deeper": {
+      "text": "Short answers sound natural: Wann hast du Geburtstag? Am ersten Mai. You do not need the whole sentence. The answer repeats am and not um, because a date is a day, and days take am. So the question word Wann can have a very short answer.",
+      "example": {
+       "de": "Am vierzehnten Juli.",
+       "en": "On the fourteenth of July.",
+       "parts": [
+        [
+         "Am",
+         "preposition"
+        ],
+        [
+         "vierzehnten",
+         "adjective"
+        ],
+        [
+         "Juli.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Congratulations: learn two chunks",
@@ -1756,7 +1976,36 @@
       "Or: Alles Gute!"
      ],
      "more": "A chunk is a little Lego block. You do not take it apart. You just snap it on. Herzlichen Glückwunsch zum Geburtstag! is one block. Say it to a friend on the day. Alles Gute! is a shorter block for any good wish. Step 1: smile. Step 2: say the whole block. Step 3: say Danke when you get it. Extra example: Herzlichen Glückwunsch, Leon! = Congratulations, Leon!",
-     "lead": "Birthdays come with good wishes. This card gives two fixed phrases for saying happy birthday and a short reply, so you can congratulate a friend right away."
+     "lead": "Birthdays come with good wishes. This card gives two fixed phrases for saying happy birthday and a short reply, so you can congratulate a friend right away.",
+     "deeper": {
+      "text": "Friends say Alles Gute zum Geburtstag! on the day itself. It is considered bad luck to congratulate early, so Germans wait. A friend who forgets and says it a day too soon may even get a funny look. Mira and Ben will not forget it. Say it on the day, and say the name after a comma.",
+      "example": {
+       "de": "Alles Gute zum Geburtstag, Ben!",
+       "en": "Happy birthday, Ben!",
+       "parts": [
+        [
+         "Alles",
+         "other"
+        ],
+        [
+         "Gute",
+         "other"
+        ],
+        [
+         "zum",
+         "preposition"
+        ],
+        [
+         "Geburtstag,",
+         "noun"
+        ],
+        [
+         "Ben!",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Clock times on invitations: 24 hours",
@@ -1881,7 +2130,40 @@
       ]
      },
      "more": "Think of the clock going round twice a day. After 12 it keeps counting: 13, 14, 15 … So 15 Uhr is 3 in the afternoon. Step 1: see a number over 12. Step 2: take away 12. Step 3: that is the normal time. 19 Uhr is 7 in the evening. Extra example: Die Party ist um 19 Uhr. = The party is at 7 pm.",
-     "lead": "Invitations often use the long clock. This card matches those times to the ones you already know, so you can read the time of a party on a card."
+     "lead": "Invitations often use the long clock. This card matches those times to the ones you already know, so you can read the time of a party on a card.",
+     "deeper": {
+      "text": "On invitations and tickets people write 18:30 Uhr, but at the party they say halb sieben (half way to seven). So the same time has a written form and a spoken form. Both are normal. Practise reading the written one and saying the spoken one.",
+      "example": {
+       "de": "Die Party ist um 18:30 Uhr.",
+       "en": "The party is at 18:30.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Party",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "18:30",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "feiern: to celebrate",
@@ -1997,7 +2279,32 @@
       ]
      },
      "more": "feiern is like kochen or spielen: nothing odd. Step 1: take off -en: feier. Step 2: add the ending for the person. ich feiere, du feierst, er feiert. The word list for this verb: feiere, feierst, feiert, feiern, feiert, feiern. Extra example: Mira feiert am Sonntag. = Mira celebrates on Sunday.",
-     "lead": "Now you can say when a birthday is and invite people. This card gives the verb for celebrating, so you can say what you do on a day with friends."
+     "lead": "Now you can say when a birthday is and invite people. This card gives the verb for celebrating, so you can say what you do on a day with friends.",
+     "deeper": {
+      "text": "feiern can take an object: you celebrate something. Ich feiere meinen Geburtstag. As always, the masculine object changes: mein becomes meinen, but a feminine word like Party stays the same. Notice that wir and sie feiern look just like the infinitive.",
+      "example": {
+       "de": "Anna feiert ihren Geburtstag.",
+       "en": "Anna celebrates her birthday.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "feiert",
+         "verb"
+        ],
+        [
+         "ihren",
+         "article"
+        ],
+        [
+         "Geburtstag.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Plan a party: verb and object",
@@ -2096,7 +2403,36 @@
       ]
      },
      "more": "Quick memory check from chapter 4. Only the blue masculine box changes: der becomes den, ein becomes einen. The red and green boxes stay the same. A Kuchen is masculine, so einen Kuchen. A Torte is feminine, so eine Torte. A Geschenk is neuter, so ein Geschenk. Step 1: find the gender. Step 2: is it masculine? Then einen. Extra example: Ich kaufe einen Saft. = I buy a juice.",
-     "lead": "A party needs food and presents. This card shows the verb for buying and the small change in the endings that comes with it, so you can say what you buy for a party."
+     "lead": "A party needs food and presents. This card shows the verb for buying and the small change in the endings that comes with it, so you can say what you buy for a party.",
+     "deeper": {
+      "text": "You can also say what you do not buy with kein. The endings are the same as for ein: keinen Kuchen, keine Torte, kein Geschenk. For a name like Anna or Leon, nothing changes. A party list is a good place to practise the accusative with food and presents.",
+      "example": {
+       "de": "Herr Ali kauft kein Geschenk.",
+       "en": "Herr Ali does not buy a present.",
+       "parts": [
+        [
+         "Herr",
+         "subject"
+        ],
+        [
+         "Ali",
+         "subject"
+        ],
+        [
+         "kauft",
+         "verb"
+        ],
+        [
+         "kein",
+         "article"
+        ],
+        [
+         "Geschenk.",
+         "noun"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -2815,7 +3151,24 @@
       ]
      },
      "more": "Think of a letter as four little boxes. Box 1: hello. Box 2: why you write. Box 3: when and where. Box 4: a question, so your friend can answer. Step 1: pick the greeting: Liebe for a woman, Lieber for a man. Step 2: write your news. Step 3: ask. Step 4: say bye with Viele Grüße. Extra example: Lieber Ben, hast du am Samstag Zeit? = Dear Ben, do you have time on Saturday?",
-     "lead": "You have read about parties. Now you write one. This card names each part of a short invitation to a friend, so you know what to put in your own message."
+     "lead": "You have read about parties. Now you write one. This card names each part of a short invitation to a friend, so you know what to put in your own message.",
+     "deeper": {
+      "text": "Lieb means dear. Add -er for a man and -e for a woman: Lieber Ben, Liebe Mira. You may see the greeting for both: Liebe Mira, lieber Ben. In an invitation it works like Dear in English. After the comma, the next line starts the news.",
+      "example": {
+       "de": "Lieber Leon,",
+       "en": "Dear Leon,",
+       "parts": [
+        [
+         "Lieber",
+         "other"
+        ],
+        [
+         "Leon,",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask someone to come",
@@ -2927,7 +3280,36 @@
       ]
      ],
      "more": "Three easy ways to invite, all yes/no questions. The verb jumps to the front, like in chapter 2. With möchtest there are two verbs. The first verb stays near the front. The second verb is the infinitive and rides to the very end, like the last wagon of a train. Step 1: Möchtest du … Step 2: the other words. Step 3: kommen last. Extra example: Möchtest du am Sonntag kommen? = Would you like to come on Sunday?",
-     "lead": "You can write the news and the plan. Now you need a question to invite someone. This card shows friendly ways to ask a yes or no question, so you can ask a friend to come."
+     "lead": "You can write the news and the plan. Now you need a question to invite someone. This card shows friendly ways to ask a yes or no question, so you can ask a friend to come.",
+     "deeper": {
+      "text": "The difference is only the verb. Kommst du? is short and warm. Möchtest du kommen? is polite. With someone you do not know well, use Sie: Möchten Sie kommen? Sie takes möchten, and the other verb stays at the end.",
+      "example": {
+       "de": "Möchten Sie am Samstag kommen?",
+       "en": "Would you like to come on Saturday?",
+       "parts": [
+        [
+         "Möchten",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "kommen?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say yes",
@@ -2998,7 +3380,32 @@
       "Vielen Dank!"
      ],
      "more": "A yes should sound happy. Ja, gern! is the quickest. If you want a full sentence, use ich komme and add gern at the end. gern means with pleasure. Step 1: say Ja. Step 2: say ich komme. Step 3: add gern. Step 4: say Vielen Dank. Extra example: Ja, ich komme gern. Vielen Dank! = Yes, I will gladly come. Thank you very much!",
-     "lead": "Someone has invited you, so you need to answer. This card gives warm and short words for saying yes, so you can accept with a friendly tone."
+     "lead": "Someone has invited you, so you need to answer. This card gives warm and short words for saying yes, so you can accept with a friendly tone.",
+     "deeper": {
+      "text": "gern is a small word with a big job. Add it to any verb to say that you like to do it: Ich komme gern. It usually stands after the verb. By itself, Gern! means gladly or with pleasure. If you add sehr, it gets stronger: sehr gern.",
+      "example": {
+       "de": "Ich komme sehr gern.",
+       "en": "I will gladly come.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "gern.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say no politely: leider, schade, kann",
@@ -3111,7 +3518,44 @@
       ]
      },
      "more": "Saying no is easy if you copy this pattern. Part 1: Leider. Part 2: kann, the verb. Then ich and nicht. Last of all comes kommen, the infinitive. It is the train again: the first verb is the engine, the infinitive is the last wagon. can in German: ich kann, du kannst, er kann. Extra example: Leider kann ich am Sonntag nicht kommen. = Unfortunately I cannot come on Sunday.",
-     "lead": "Saying yes is easy, but saying no needs care. This card gives polite ways to refuse, with a word for unfortunately and a reason, so you do not sound rude."
+     "lead": "Saying yes is easy, but saying no needs care. This card gives polite ways to refuse, with a word for unfortunately and a reason, so you do not sound rude.",
+     "deeper": {
+      "text": "Leider (unfortunately) softens a no. The reason can follow in a second short sentence: Leider kann ich nicht kommen. Ich habe keine Zeit. The reason does not have to be long. A short, honest no is fine in German. Put leider first, then the verb in part 2.",
+      "example": {
+       "de": "Leider habe ich am Samstag keine Zeit.",
+       "en": "Unfortunately I have no time on Saturday.",
+       "parts": [
+        [
+         "Leider",
+         "other"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "keine",
+         "article"
+        ],
+        [
+         "Zeit.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Read for key facts: who, what, when, where",
@@ -3233,7 +3677,44 @@
       ]
      },
      "more": "Imagine you are a detective with four questions. Who? Look for a name. What? Look for a noun like Party or Konzert. When? Look for am or um. Where? Look for in. You do not have to understand the rest. Step 1: find the four clues. Step 2: write them down. Step 3: done. Extra example: Das Konzert ist am Freitag um 20 Uhr in Wien. = Who? none. What? concert. When? Friday 8 pm. Where? Vienna.",
-     "lead": "Invitations and texts have many words you may not know. This card teaches you to find four key facts, so you can understand the most important part even when you miss words."
+     "lead": "Invitations and texts have many words you may not know. This card teaches you to find four key facts, so you can understand the most important part even when you miss words.",
+     "deeper": {
+      "text": "You do not need to decode every word. Hunt for the four facts like a detective. German helps you: all nouns have a capital letter, so names and places stand out on the page. Numbers like 18 Uhr also jump out. Read the capital letters first.",
+      "example": {
+       "de": "Das Fest ist am Samstag in Hamburg.",
+       "en": "The party is on Saturday in Hamburg.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Fest",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Hamburg.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A radio tip",
@@ -3402,7 +3883,56 @@
       ]
      ],
      "more": "A radio voice is fast. You cannot catch every word, and that is fine. Catch only the four key facts. First the thing: Konzert, Film, Fest. Then the day: am Freitag. Then the time: um 20 Uhr. Then the place: in Hamburg. Step 1: listen once for the thing. Step 2: listen again for the day and time. Extra example: Das Fest ist am Samstag um 15 Uhr in Wien. = The party is on Saturday at 3 pm in Vienna.",
-     "lead": "Now you use the four facts on a short radio tip. This card shows how to catch them when you listen, so you can understand an event announcement without reading it."
+     "lead": "Now you use the four facts on a short radio tip. This card shows how to catch them when you listen, so you can understand an event announcement without reading it.",
+     "deeper": {
+      "text": "A radio tip has no pictures, so the words do the work. They come in a fixed order: when, then where. Listen for the day and the time (am Freitag um 20 Uhr) and then for the place (in Wien). Learn to hear this order as a pattern.",
+      "example": {
+       "de": "Das Konzert ist am Sonntag um 19 Uhr in Wien.",
+       "en": "The concert is on Sunday at 7 pm in Vienna.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Konzert",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Sonntag",
+         "time"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "19",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -4091,7 +4621,32 @@
       ]
      ],
      "more": "Imagine a train with two wagons that can be unhooked. The infinitive anrufen is the whole train. In a sentence you unhook it. The front wagon, rufen, goes to the verb chair in part 2. The little wagon, an, rides all the way to the end of the sentence. They belong together, even when far apart. Step 1: split an | rufen. Step 2: verb in part 2. Step 3: an at the end. Extra example: Anna ruft Mira an. = Anna calls Mira.",
-     "lead": "Now you can make plans with friends. This card shows a kind of verb that splits into two parts in a sentence, so you can say you call a friend."
+     "lead": "Now you can make plans with friends. This card shows a kind of verb that splits into two parts in a sentence, so you can say you call a friend.",
+     "deeper": {
+      "text": "The prefix is a small word that changes the meaning. rufen means to shout or call out, anrufen means to telephone. English does the same with phrasal verbs: call up, get up, come along. If you know call up, you know anrufen. The idea is old and simple.",
+      "example": {
+       "de": "Mira ruft Ben an.",
+       "en": "Mira calls Ben.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ruft",
+         "verb"
+        ],
+        [
+         "Ben",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Five separable verbs",
@@ -4224,7 +4779,32 @@
       ]
      },
      "more": "Five verbs, five little prefixes. an, ein, auf, mit, an. Look at how the word is built: the prefix is on the front, and the verb you know is behind it: kaufen, stehen, kommen, rufen. In the sentence you keep the verb you know in part 2. The prefix goes last. Step 1: find the prefix. Step 2: use the old verb. Step 3: prefix last. Extra example: Ich komme mit. = I come along.",
-     "lead": "You learned how one verb splits. This card gives five more verbs of the same kind, for calling, shopping, getting up, coming along and starting, so you can talk about your day."
+     "lead": "You learned how one verb splits. This card gives five more verbs of the same kind, for calling, shopping, getting up, coming along and starting, so you can talk about your day.",
+     "deeper": {
+      "text": "English has the same split: get up, come along. In German the infinitive is written as one word: aufstehen. Only in the sentence does it split. So when you learn a verb, always learn it with its prefix: say aufstehen, never just stehen. The two can mean very different things.",
+      "example": {
+       "de": "Anna kauft heute ein.",
+       "en": "Anna shops today.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "kauft",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "ein.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Questions: the prefix still goes last",
@@ -4320,7 +4900,32 @@
       ]
      ],
      "more": "A question just moves the verb. The prefix never moves: it always waits at the end. Yes/no question: the verb goes first, like in chapter 2. W-question: the question word is part 1, the verb is part 2, like in chapter 1. Then the prefix sits at the end. Step 1: choose the question type. Step 2: put the verb where it goes. Step 3: prefix last. Extra example: Wann kaufst du ein? = When do you shop?",
-     "lead": "You can now make statements with split verbs. This card shows where the split part goes in a yes or no question and in a W-question, so you can ask someone if they are coming along."
+     "lead": "You can now make statements with split verbs. This card shows where the split part goes in a yes or no question and in a W-question, so you can ask someone if they are coming along.",
+     "deeper": {
+      "text": "In a question the prefix still waits at the end. Kommst du mit? So the last thing you hear is the prefix, and it can change the whole meaning. That is why you must listen to the very end. A short answer is easy: Ja, gern! or Ja, ich komme mit.",
+      "example": {
+       "de": "Wann kaufst du ein?",
+       "en": "When do you shop?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "kaufst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "ein?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "aufstehen: all the forms",
@@ -4460,7 +5065,40 @@
       ]
      },
      "more": "You already know all these endings from chapters 1 and 2. Only the prefix is new. Step 1: take stehen. Step 2: give it its ending for the person: ich stehe, du stehst. Step 3: put auf at the end. Same for every separable verb. aufstehen, anrufen, einkaufen, mitkommen all work like this. Extra example: Wir kaufen ein. = We shop.",
-     "lead": "The verb for getting up can change for each person. This card gives the full set of its forms, so you can say when you and other people get up."
+     "lead": "The verb for getting up can change for each person. This card gives the full set of its forms, so you can say when you and other people get up.",
+     "deeper": {
+      "text": "The ending belongs to the main verb only. The prefix never takes an ending: auf stays auf for every person. So you conjugate stehen as usual and add auf at the end. It helps to think of the prefix as a small tag that never changes.",
+      "example": {
+       "de": "Wir stehen am Samstag spät auf.",
+       "en": "We get up late on Saturday.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "stehen",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "spät",
+         "other"
+        ],
+        [
+         "auf.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Time first: the verb is still part 2",
@@ -4585,7 +5223,40 @@
       ]
      ],
      "more": "Think of a sentence as a train with 4 seats: seat 1, seat 2, then the rest, then the end. Part 1 can be anything: ich, a time, a day. Part 2 is always the verb. The prefix always takes the last seat. Step 1: choose part 1. Step 2: the verb. Step 3: the subject, if it is not in part 1. Step 4: the other words. Step 5: the prefix. Extra example: Morgens stehe ich früh auf. = In the morning I get up early.",
-     "lead": "You can start a sentence with a time or a thing and still keep the verbs in order. This card shows how, so you can say when you get up or go shopping."
+     "lead": "You can start a sentence with a time or a thing and still keep the verbs in order. This card shows how, so you can say when you get up or go shopping.",
+     "deeper": {
+      "text": "Start with the time when it is the news. Then comes the verb, then the subject, and the prefix is the last word, like a full stop. In long sentences, listen for the end. Here is a new word: früh means early, like in früh aufstehen, to get up early.",
+      "example": {
+       "de": "Am Montag stehe ich früh auf.",
+       "en": "On Monday I get up early.",
+       "parts": [
+        [
+         "Am",
+         "preposition"
+        ],
+        [
+         "Montag",
+         "time"
+        ],
+        [
+         "stehe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "früh",
+         "other"
+        ],
+        [
+         "auf.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "anfangen and ankommen",
@@ -4723,7 +5394,36 @@
       ]
      },
      "more": "You know fahren: ich fahre, du fährst, er fährt. The a jumps to ä for du and er/sie. anfangen does the same. ich fange … an, du fängst … an, er fängt … an. ankommen has no change: ich komme … an, du kommst … an. Step 1: say the verb for the person. Step 2: a to ä for du and er/sie in anfangen. Step 3: prefix last. Extra example: Das Konzert fängt um 20 Uhr an. = The concert starts at 8 pm.",
-     "lead": "Some split verbs change their vowel for du and er. This card shows two common ones, for starting and arriving, so you can say when a film begins or a train comes in."
+     "lead": "Some split verbs change their vowel for du and er. This card shows two common ones, for starting and arriving, so you can say when a film begins or a train comes in.",
+     "deeper": {
+      "text": "Do not mix up anfangen (to begin) and ankommen (to arrive). They both have an, but the main verbs are different: fangen and kommen. Wann kommst du an? is the standard question about arrival. It means When are you arriving? Listen for the verb to know which one it is.",
+      "example": {
+       "de": "Wann kommt der Zug an?",
+       "en": "When does the train arrive?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Zug",
+         "noun"
+        ],
+        [
+         "an?",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -5452,7 +6152,36 @@
       ]
      },
      "more": "A modal verb is a helper. It says how you do something: must, can, want. The helper takes the verb chair in part 2. The real action verb turns into an infinitive and rides to the end, like the last wagon. Step 1: choose the helper and give it its ending. Step 2: put your other words in the middle. Step 3: infinitive last. Extra example: Ich möchte schwimmen. = I would like to swim.",
-     "lead": "The intro put two chapter ideas together. This card reminds you of the modal verbs you already know, so you can build the same sentence shape with them again."
+     "lead": "The intro put two chapter ideas together. This card reminds you of the modal verbs you already know, so you can build the same sentence shape with them again.",
+     "deeper": {
+      "text": "möchten is a little odd in the table. ich möchte and er möchte end in -e, while müssen, können and wollen have no ending there. It is only a small difference, but it is easy to notice. For all four, the other verb goes to the end.",
+      "example": {
+       "de": "Sie möchte nach Hause gehen.",
+       "en": "She would like to go home.",
+       "parts": [
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "möchte",
+         "verb"
+        ],
+        [
+         "nach",
+         "preposition"
+        ],
+        [
+         "Hause",
+         "place"
+        ],
+        [
+         "gehen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A separable verb with a modal stays together",
@@ -5561,7 +6290,32 @@
       ]
      },
      "more": "Here the two wagons stay hooked together. With a modal, the separable verb is an infinitive, and an infinitive never splits. It is like a sealed box at the end of the sentence. Compare: Ich stehe auf (split, no modal). Ich muss aufstehen (together, with modal). Step 1: is there a modal? Step 2: yes? Keep the verb in one piece. Step 3: put it last. Extra example: Ich möchte anrufen. = I would like to call.",
-     "lead": "A modal verb changes how the split verb behaves. This card shows what the verb looks like at the end of the sentence, so you can say you must get up early."
+     "lead": "A modal verb changes how the split verb behaves. This card shows what the verb looks like at the end of the sentence, so you can say you must get up early.",
+     "deeper": {
+      "text": "The separable verb is back to its dictionary form at the end of the sentence: aufstehen, einkaufen. So the sentence with a modal is easier than the one without: nothing splits, and the infinitive is just the word you would look up. Only the modal has an ending.",
+      "example": {
+       "de": "Ben muss heute einkaufen.",
+       "en": "Ben has to go shopping today.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "einkaufen.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where to? ins Kino, in den Park",
@@ -5670,7 +6424,40 @@
       ]
      },
      "more": "Do not take these apart. Learn them like names of places. ins Kino. ins Café. in den Park. in die Stadt. They answer the question Wohin? = where to? Step 1: ask Wohin gehst du? Step 2: pick a chunk. Step 3: put gehen in part 2. Extra example: Wohin gehst du? Ich gehe ins Café. = Where are you going? I am going to the café.",
-     "lead": "You can say when and what you do. Now you need to say where you go. This card gives short chunks for common places like the cinema, the café and the park, so you can say where you are heading."
+     "lead": "You can say when and what you do. Now you need to say where you go. This card gives short chunks for common places like the cinema, the café and the park, so you can say where you are heading.",
+     "deeper": {
+      "text": "With gehen you can add a time before the place. Ich gehe um acht Uhr ins Kino. The time comes first and the place second. The question for the place is Wohin gehst du? The answer is often one of the chunks: ins Kino, ins Café.",
+      "example": {
+       "de": "Wir gehen am Samstag ins Café.",
+       "en": "On Saturday we go to the café.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "ins",
+         "preposition"
+        ],
+        [
+         "Café.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Invite someone to join you",
@@ -5778,7 +6565,36 @@
       ]
      ],
      "more": "Three little steps, like knocking, opening and walking in. Step 1: Hast du Zeit? You check if the door is open. Step 2: your plan: Möchtest du ins Kino gehen? Step 3: Kommst du mit? Now the person can say yes or no. The question Hast du Lust? is a friendly short version. Extra example: Hast du Lust? Wir gehen in den Park. = Do you feel like it? We are going to the park.",
-     "lead": "You now have all the parts for making plans. This card gives three steps for inviting a friend, so you can ask about their time, name a plan and ask them to join you."
+     "lead": "You now have all the parts for making plans. This card gives three steps for inviting a friend, so you can ask about their time, name a plan and ask them to join you.",
+     "deeper": {
+      "text": "Hast du Lust? is literally Do you have desire? That sounds strong in English, but Lust just means feel like it. It is friendly and relaxed. With a thing, add auf: Hast du Lust auf Pizza? auf means for or on here. Learn the whole chunk Lust auf.",
+      "example": {
+       "de": "Hast du Lust auf Pizza?",
+       "en": "Do you feel like pizza?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Lust",
+         "object"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "Pizza?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Agree a time and a place",
@@ -5895,7 +6711,44 @@
       ]
      },
      "more": "To meet a friend you need two facts: time and place. Ask Wann? or Um wie viel Uhr? for the time. Remember anfangen: the prefix an waits at the end. For the place, use the little words you know: hier, da, dort. Step 1: ask for the time. Step 2: ask for the place. Step 3: repeat both to be safe. Extra example: Der Film fängt um 20 Uhr an. = The film starts at 8 pm.",
-     "lead": "A plan needs a time. This card shows how to ask when something starts and what time you agree on, so you can settle when and where to meet."
+     "lead": "A plan needs a time. This card shows how to ask when something starts and what time you agree on, so you can settle when and where to meet.",
+     "deeper": {
+      "text": "Wann can be answered with a day or a time. Um wie viel Uhr asks only for the clock time. Choose the question that matches the answer you want. If you want the exact hour, ask Um wie viel Uhr. If you want any time (day or hour), ask Wann.",
+      "example": {
+       "de": "Um wie viel Uhr beginnt der Kurs?",
+       "en": "At what time does the course start?",
+       "parts": [
+        [
+         "Um",
+         "preposition"
+        ],
+        [
+         "wie",
+         "question"
+        ],
+        [
+         "viel",
+         "question"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "beginnt",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Kurs?",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Say no and give a reason",
@@ -5989,7 +6842,36 @@
       "Both verbs sit in part 2."
      ],
      "more": "A no is nicer with a reason. First the no: Leider kann ich nicht mitkommen. Then the reason with muss: Ich muss arbeiten. Each sentence has its own verb in part 2 and its own infinitive at the end. Step 1: no. Step 2: reason. Step 3: smile. The word leider makes it kind. Extra example: Leider muss ich früh aufstehen. = Unfortunately I must get up early.",
-     "lead": "Not every invitation fits your day. This card shows how to decline in a friendly way and give a reason, so you can say no without sounding unkind. It is the last card of this lesson."
+     "lead": "Not every invitation fits your day. This card shows how to decline in a friendly way and give a reason, so you can say no without sounding unkind. It is the last card of this lesson.",
+     "deeper": {
+      "text": "A refusal sounds friendlier with a reason. Leider muss ich arbeiten is better than only Nein. With a reason the other person understands, and often suggests another day. After muss, a separable verb stays together. Put the reason in the middle and the infinitive at the end.",
+      "example": {
+       "de": "Leider muss ich heute arbeiten.",
+       "en": "Unfortunately I have to work today.",
+       "parts": [
+        [
+         "Leider",
+         "other"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "arbeiten.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -6702,7 +7584,32 @@
       ]
      ],
      "more": "Think of ordering as a little ping-pong game. The waiter hits: Was möchten Sie? You hit back: Ich möchte einen Kaffee, bitte. The thing you order is the object, so only the blue masculine box changes: der Kaffee becomes einen Kaffee. The other boxes stay. Step 1: say Ich möchte. Step 2: add what you want. Step 3: say bitte. Extra example: Ich möchte eine Cola, bitte. = I would like a cola, please.",
-     "lead": "You can now ask for food and drink in a café. This card shows how a waiter asks what you want and how to answer, so you can say you would like a coffee."
+     "lead": "You can now ask for food and drink in a café. This card shows how a waiter asks what you want and how to answer, so you can say you would like a coffee.",
+     "deeper": {
+      "text": "Ich will would sound rude in a café, like I want in English. That is why Germans say ich möchte, which is polite. Ich nehme means I will take it and is also very common. Both work, and with bitte they sound even nicer.",
+      "example": {
+       "de": "Ich nehme einen Tee.",
+       "en": "I will take a tea.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "nehme",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Tee.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "nehmen: I will take it",
@@ -6807,7 +7714,32 @@
       ]
      },
      "more": "nehmen is one of the verbs that changes a vowel, like essen and sehen. For du and er/sie the first e becomes i. And the h is dropped, too: nimmst, nimmt. For ich and wir, nothing changes. Step 1: find the person. Step 2: du or er/sie? Use nimm-. Step 3: add the ending. Extra example: Ben nimmt den Fisch. = Ben takes the fish.",
-     "lead": "Ordering needs one more verb, the one for choosing a dish. This card gives its forms, so you can say what you will take and what your friend chooses."
+     "lead": "Ordering needs one more verb, the one for choosing a dish. This card gives its forms, so you can say what you will take and what your friend chooses.",
+     "deeper": {
+      "text": "nehmen has two changes: e becomes i and the h disappears. Other verbs also change e to i in du and er/sie: essen (to eat) has du isst and er isst. So it is a pattern, not a surprise. Watch for it in du and er/sie, and nowhere else.",
+      "example": {
+       "de": "Anna nimmt einen Kaffee.",
+       "en": "Anna takes a coffee.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "nimmt",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kaffee.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Paying: Zahlen, bitte!",
@@ -6869,7 +7801,28 @@
       "Getrennt, bitte."
      ],
      "more": "Think of the bill as a cake. Do you eat it together as one, or does everyone pay for their own slice? In Germany it is very common to pay separately. The waiter comes to the table and asks Zusammen oder getrennt? You answer in one word. Step 1: say Zahlen, bitte! Step 2: listen for zusammen or getrennt. Step 3: answer. Extra example: Zusammen, bitte! = Together, please!",
-     "lead": "After the order comes the bill. This card gives the words to ask for it and to say how you want to pay, so you can finish your visit smoothly."
+     "lead": "After the order comes the bill. This card gives the words to ask for it and to say how you want to pay, so you can finish your visit smoothly.",
+     "deeper": {
+      "text": "Zahlen, bitte! is the verb zahlen (to pay) at the start of the sentence: To pay, please. Ich zahle means I pay. Zahlen with a capital Z in the middle of a sentence is the noun die Zahlen (the numbers). Same spelling, different job. Pay attention to the capital.",
+      "example": {
+       "de": "Wir zahlen zusammen.",
+       "en": "We pay together.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "zahlen",
+         "verb"
+        ],
+        [
+         "zusammen.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The price: Das macht … Euro",
@@ -6978,7 +7931,36 @@
       ]
      },
      "more": "You already know prices from the shop. Here the waiter says Das macht, which is like in English That makes. Then the amount. Step 1: hear Das macht. Step 2: listen for the Euro number. Step 3: listen for the Cent number, if there is one. Step 4: pay. Extra example: Das macht 9 Euro 50. = That comes to 9 euros 50.",
-     "lead": "The waiter will tell you a price, often with cents. This card shows how to say euros and cents out loud, so you can understand the total."
+     "lead": "The waiter will tell you a price, often with cents. This card shows how to say euros and cents out loud, so you can understand the total.",
+     "deeper": {
+      "text": "Spoken prices drop the word Cent: 14,80 € is vierzehn Euro achtzig. In writing, German uses a comma where English uses a point: 14,80, and a dot where English has a comma: 1.000. It is the opposite way round, so look carefully at prices.",
+      "example": {
+       "de": "Das macht drei Euro zwanzig.",
+       "en": "That comes to 3.20 euros.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "macht",
+         "verb"
+        ],
+        [
+         "drei",
+         "other"
+        ],
+        [
+         "Euro",
+         "other"
+        ],
+        [
+         "zwanzig.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Tipping: Trinkgeld and Stimmt so",
@@ -7060,7 +8042,28 @@
       "The 2 Euro is the Trinkgeld."
      ],
      "more": "A tip is a little thank you. In a restaurant the waiter does not put the tip in a box. You round up the price. The bill is 18 Euro. You say Zwanzig Euro, stimmt so, and give 20 Euro. The waiter keeps the 2 Euro extra. Step 1: hear the price. Step 2: round up a little. Step 3: say stimmt so. Extra example: Das macht 9 Euro 50. Zehn Euro, stimmt so! = That is 9.50. Ten euros, keep the change!",
-     "lead": "Paying is nearly done, and in Germany you usually add a little extra. This card shows how to say the amount you want to pay and keep the change, so you can leave a tip."
+     "lead": "Paying is nearly done, and in Germany you usually add a little extra. This card shows how to say the amount you want to pay and keep the change, so you can leave a tip.",
+     "deeper": {
+      "text": "stimmt comes from stimmen, which means to be correct. Das stimmt! is a very common reply: That is right. So Stimmt so means it is correct like that: no change. This one verb is useful in many chats. You can also say Das stimmt nicht, which means That is not right.",
+      "example": {
+       "de": "Ja, das stimmt!",
+       "en": "Yes, that is right!",
+       "parts": [
+        [
+         "Ja,",
+         "other"
+        ],
+        [
+         "das",
+         "subject"
+        ],
+        [
+         "stimmt!",
+         "verb"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The sounds ei, eu and au",
@@ -7162,7 +8165,32 @@
       ]
      },
      "more": "The two letters make one sound, like a little team. ei is not ee. It sounds like the English word eye. Try it: zwei, Eis, Freitag. eu is not you. It sounds like oy in boy: Euro, neu, heute. au sounds like ow in cow: Auto, auf, Haus. Step 1: spot the pair. Step 2: say the team sound. Step 3: say the word. Extra example: Das Haus ist neu. = The house is new.",
-     "lead": "This last card is about sounds, so the café words sound right. This card covers three letter pairs that sound different from English, so you can say Eis and Auto clearly."
+     "lead": "This last card is about sounds, so the café words sound right. This card covers three letter pairs that sound different from English, so you can say Eis and Auto clearly.",
+     "deeper": {
+      "text": "Mixing up ei and ie is a very common spelling mistake, because the sounds swap. Here is a trick: the second letter names the sound. ei says i, like the English eye. ie says e, like ee. So Wein (wine) and Wien (Vienna) sound different.",
+      "example": {
+       "de": "Mira ist in Wien.",
+       "en": "Mira is in Vienna.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -7861,7 +8889,28 @@
       ]
      },
      "more": "Look at who does and who gets. In Mira ruft mich an, Mira does the calling (subject). I get called (object). In English too: I becomes me. German does the same: ich becomes mich. And du becomes dich. Step 1: who does it? Subject. Step 2: who gets it? Object. Step 3: change the pronoun. Extra example: Anna sieht mich. = Anna sees me.",
-     "lead": "You can say who does an action. Now you learn the small words for the person who receives it, like me and you, so you can say someone calls you."
+     "lead": "You can say who does an action. Now you learn the small words for the person who receives it, like me and you, so you can say someone calls you.",
+     "deeper": {
+      "text": "English also changes its pronouns when they are the object: I see him, not I see he. So German is not so strange. English: I becomes me. German: ich becomes mich. The change is the same idea, only German has more of them. Learn the pairs.",
+      "example": {
+       "de": "Ben sieht mich.",
+       "en": "Ben sees me.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "sieht",
+         "verb"
+        ],
+        [
+         "mich.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "er becomes ihn: the same as der → den",
@@ -8002,7 +9051,36 @@
       ]
      },
      "more": "Remember the three boxes: blue der, red die, green das. Only the blue box changes when it is the object: der becomes den. The pronoun for the blue box is er, and it changes in the same way: er becomes ihn. The red sie and the green es stay the same. Step 1: find the gender of the noun. Step 2: er, sie or es. Step 3: only er changes: ihn. Extra example: Der Saft ist kalt. Ich trinke ihn. = The juice is cold. I drink it.",
-     "lead": "Pronouns can also stand in for things. This card shows the object form for a masculine, feminine and neuter thing, so you can say you eat it, whatever its gender."
+     "lead": "Pronouns can also stand in for things. This card shows the object form for a masculine, feminine and neuter thing, so you can say you eat it, whatever its gender.",
+     "deeper": {
+      "text": "ihn can mean him (a man) or it (a masculine thing). The pronoun depends on the grammatical gender, not on the meaning. So der Kuchen is er, and as an object ihn. That is the same as English he and him, but for things too. Choose the pronoun by the noun.",
+      "example": {
+       "de": "Wir treffen ihn am Samstag.",
+       "en": "We meet him on Saturday.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "treffen",
+         "verb"
+        ],
+        [
+         "ihn",
+         "object"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag.",
+         "time"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "uns, euch, sie and Sie",
@@ -8115,7 +9193,32 @@
       ]
      },
      "more": "Only some pronouns change. The rest stay the same. wir becomes uns. ihr becomes euch. And these do not change at all: sie (she), sie (they), es and Sie (polite). So how do you know if sie is she or they? Look at the verb ending and the context. Step 1: find the subject pronoun. Step 2: look it up in the table. Step 3: swap. Extra example: Ben sieht uns. = Ben sees us.",
-     "lead": "You have pronouns for one person and for things. This card covers the plural ones for us and you all, and the polite you, so you can greet a group or a teacher."
+     "lead": "You have pronouns for one person and for things. This card covers the plural ones for us and you all, and the polite you, so you can greet a group or a teacher.",
+     "deeper": {
+      "text": "uns and euch change only for wir and ihr. For sie (they) and Sie (polite you) nothing changes in the object. So Ich sehe sie may mean her or them. Look at the story or the verb to know. For example, Sie sehen mich with sehen in the plural means They see me.",
+      "example": {
+       "de": "Ich rufe euch an.",
+       "en": "I call you (all).",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "rufe",
+         "verb"
+        ],
+        [
+         "euch",
+         "object"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "The full table: nominative and accusative",
@@ -8224,7 +9327,32 @@
       ]
      },
      "more": "Look at the table like a mirror. On the left you see who does. On the right you see who gets. Only five words on the right look different from the left: mich, dich, ihn, uns, euch. Say them in a row: mich, dich, ihn, uns, euch. Say it ten times. Step 1: say the five. Step 2: check the rest: sie, es, sie, Sie stay. Extra example: Er sieht mich. = He sees me.",
-     "lead": "Here is the whole set of pronouns in one place. This card puts the subject and the object forms side by side, so you can check any form at a glance."
+     "lead": "Here is the whole set of pronouns in one place. This card puts the subject and the object forms side by side, so you can check any form at a glance.",
+     "deeper": {
+      "text": "Learn the five that change as pairs: ich–mich, du–dich, er–ihn, wir–uns, ihr–euch. Say them aloud and listen to the rhyme: ich–mich rhymes, and du–dich both start with d. The pairs make a little chant. After a few times you will say them without thinking.",
+      "example": {
+       "de": "Mira sieht uns nicht.",
+       "en": "Mira does not see us.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "sieht",
+         "verb"
+        ],
+        [
+         "uns",
+         "object"
+        ],
+        [
+         "nicht.",
+         "negation"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Where does the pronoun go?",
@@ -8341,7 +9469,36 @@
       ]
      ],
      "more": "The pronoun is short, so it moves close to the front, right behind the verb and the subject. The prefix and the infinitive stay at the very end. Step 1: part 1. Step 2: the verb. Step 3: the subject if it is not in part 1. Step 4: the pronoun. Step 5: other words. Step 6: the prefix or the infinitive at the end. Extra example: Ich rufe dich morgen an. = I call you tomorrow.",
-     "lead": "Pronouns have a fixed place in the sentence. This card shows where they sit with a split verb and with a modal, so you can put your words in the right order."
+     "lead": "Pronouns have a fixed place in the sentence. This card shows where they sit with a split verb and with a modal, so you can put your words in the right order.",
+     "deeper": {
+      "text": "Pronouns are short, so they come early. The pronoun comes before time words: Ich rufe dich heute an. A noun comes later: Ich rufe heute Mira an. So short words go left and long things go right. This is the same pattern as with the separable verbs, which end the sentence.",
+      "example": {
+       "de": "Ich rufe dich heute an.",
+       "en": "I call you today.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "rufe",
+         "verb"
+        ],
+        [
+         "dich",
+         "object"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Who do you mean? wen?",
@@ -8442,7 +9599,36 @@
       ]
      },
      "more": "You know wer? = who. When the answer is the object, who becomes wen: whom. It is the same idea as den and ihn: only the masculine-like word changes, and wer is a bit like a masculine. Step 1: ask Wen …? Step 2: the verb comes in part 2. Step 3: answer with a name or a pronoun. Extra example: Wen siehst du? Ich sehe ihn. = Whom do you see? I see him.",
-     "lead": "Your question words now need to ask about a person. This card gives the question for whom, so you can ask who someone is calling or meeting."
+     "lead": "Your question words now need to ask about a person. This card gives the question for whom, so you can ask who someone is calling or meeting.",
+     "deeper": {
+      "text": "wer asks about the subject: who does it. wen asks about the object: who gets it. wen is the accusative of wer. English has the same pair, who and whom, but most people no longer use whom. German still uses wen every day. So Wen? is a very common question.",
+      "example": {
+       "de": "Wen besuchst du am Sonntag?",
+       "en": "Whom do you visit on Sunday?",
+       "parts": [
+        [
+         "Wen",
+         "question"
+        ],
+        [
+         "besuchst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Sonntag?",
+         "time"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -9173,7 +10359,36 @@
       ]
      },
      "more": "Some little words always make the next word wear the object form. für is one of them. Whenever you see für, switch to the accusative. Step 1: write für. Step 2: look at the person. Step 3: use the object form of the pronoun: mich, dich, ihn. It is the same table as in the last lesson. Extra example: Das Essen ist für uns. = The food is for us.",
-     "lead": "You know the object forms now. This card adds one small word, für, that comes with a set of forms, so you can say who a gift is for."
+     "lead": "You know the object forms now. This card adds one small word, für, that comes with a set of forms, so you can say who a gift is for.",
+     "deeper": {
+      "text": "für always takes the accusative, so it is a good chance to practise. Ich becomes mich: für mich. Do not say für ich. English works the same: for me, not for I. So you already feel that it is right. This is one of the easiest rules in German.",
+      "example": {
+       "de": "Die Torte ist für euch.",
+       "en": "The cake is for you (all).",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Torte",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "euch.",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "für + a noun: only masculine changes",
@@ -9299,7 +10514,40 @@
       ]
      },
      "more": "Do you remember the blue box from chapter 4? Only the blue masculine box changes in the accusative: der becomes den, ein becomes einen. This works after für, too. The red and the green box stay the same. Step 1: find the gender. Step 2: masculine? den or einen. Step 3: other? keep it. Extra example: Der Tee ist für einen Freund. = The tea is for a friend.",
-     "lead": "After für a noun also takes its object form. This card shows the change for masculine nouns after für, so you can say a cake is for the father."
+     "lead": "After für a noun also takes its object form. This card shows the change for masculine nouns after für, so you can say a cake is for the father.",
+     "deeper": {
+      "text": "Remember the pattern from chapter 4: only der and ein change. For feminine and neuter words nothing happens. In the plural there is no change either: für die Eltern. Eltern is always plural, so it is always die. So the family words give you all four forms.",
+      "example": {
+       "de": "Das Buch ist für den Bruder.",
+       "en": "The book is for the brother.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Buch",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Bruder.",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "A present for someone, and thank you for it",
@@ -9427,7 +10675,32 @@
       ]
      ],
      "more": "A sentence can have two little groups after the verb. The thing you buy (object). And who it is for (für + accusative). Think of two boxes: What? and For whom? Step 1: Ich kaufe (the verb). Step 2: What? ein Geschenk. Step 3: For whom? für Mira. Names never change. Danke für … is a chunk you can use at once. Extra example: Danke für das Geschenk! = Thanks for the present!",
-     "lead": "You can now say who something is for. This card shows where the für part goes in a sentence, and how to thank someone with it, so you can say thanks for an invitation."
+     "lead": "You can now say who something is for. This card shows where the für part goes in a sentence, and how to thank someone with it, so you can say thanks for an invitation.",
+     "deeper": {
+      "text": "Danke für is a pattern worth owning: Danke für + thing. English says thank you for the … and works the same way. After für use the accusative, so a masculine word changes: Danke für den Kaffee! Feminine and neuter stay: die Einladung, das Geschenk.",
+      "example": {
+       "de": "Danke für den Kaffee!",
+       "en": "Thanks for the coffee!",
+       "parts": [
+        [
+         "Danke",
+         "other"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Kaffee!",
+         "noun"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Ask: Für wen?",
@@ -9524,7 +10797,32 @@
       ]
      },
      "more": "Start the question with für. Then the question word wen. They go together: für wen. That is the first part of the sentence. Then comes the verb in part 2, as always. Step 1: für wen. Step 2: the verb. Step 3: the rest. Step 4: answer with für + name or für + pronoun. Extra example: Für wen ist die Blume? Für die Mutter. = Who is the flower for? For the mother.",
-     "lead": "The question for whom needs one more word. This card shows how to ask who something is for and how to answer, so you can talk about a gift with a friend."
+     "lead": "The question for whom needs one more word. This card shows how to ask who something is for and how to answer, so you can talk about a gift with a friend.",
+     "deeper": {
+      "text": "Für wen? is two words, and the preposition comes first. English can split them: Who is it for? German always keeps für and wen together at the start. So the question is Für wen? and never Wen für? Notice that wen has the accusative form after für.",
+      "example": {
+       "de": "Für wen kochst du?",
+       "en": "Who are you cooking for?",
+       "parts": [
+        [
+         "Für",
+         "preposition"
+        ],
+        [
+         "wen",
+         "question"
+        ],
+        [
+         "kochst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Time and a table for two",
@@ -9640,7 +10938,40 @@
       ]
      ],
      "more": "Think of für as a little arrow pointing at the person or number it is for. Time for me. A table for two. After für the pronoun is always the accusative, and a number just stays the number. Step 1: say what: Zeit or einen Tisch. Step 2: für. Step 3: who or how many. Extra example: Ich habe keine Zeit für dich. = I have no time for you.",
-     "lead": "Für is not only for gifts. This card shows two more everyday uses, one about time and one about a table, so you can ask for someone's time or book a table."
+     "lead": "Für is not only for gifts. This card shows two more everyday uses, one about time and one about a table, so you can ask for someone's time or book a table.",
+     "deeper": {
+      "text": "für also gives a number of people. Einen Tisch für zwei is a table for two. einen is used because Tisch is masculine and a table is the thing you want (the object). The number after für needs no ending. Tables in restaurants are always a good way to practise.",
+      "example": {
+       "de": "Wir möchten einen Tisch für vier.",
+       "en": "We would like a table for four.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "möchten",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Tisch",
+         "noun"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "vier.",
+         "other"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Spot für in three steps",
@@ -9743,7 +11074,40 @@
       "everything else stays"
      ],
      "more": "Use the same three questions every time. Question 1: what comes after für? Question 2: pronoun or noun? Question 3: a pronoun uses the table; a noun uses den or einen only if it is masculine. Spot it, fix it, done. Step 1: für. Step 2: ask. Step 3: answer. Extra example: Das Geschenk ist für sie. = The present is for her.",
-     "lead": "This last card is a method for spotting für in any sentence. Check three things and you will know which form to use, so you can read and write it without guessing."
+     "lead": "This last card is a method for spotting für in any sentence. Check three things and you will know which form to use, so you can read and write it without guessing.",
+     "deeper": {
+      "text": "Use this as a quick check after you write. Find für and circle the next word. If it is der or ein, change it to den or einen. If it is a pronoun, check mich, dich, ihn, uns, euch. This takes two seconds and finds most mistakes.",
+      "example": {
+       "de": "Wir kaufen einen Kuchen für sie.",
+       "en": "We buy a cake for her.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "kaufen",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kuchen",
+         "noun"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "sie.",
+         "object"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
@@ -10454,7 +11818,36 @@
       ]
      },
      "more": "Imagine a time machine. In the present you say ich bin and ich habe. Step in the machine and the words change: ich war, ich hatte. The sentence order stays the same. Step 1: say the time word: gestern. Step 2: the past verb in part 2: war or hatte. Step 3: the rest. Extra example: Gestern hatte ich Zeit. = Yesterday I had time.",
-     "lead": "Your intro asked how the party was. This card gives the past forms of the two most common verbs, so you can say how you were or what you had yesterday."
+     "lead": "Your intro asked how the party was. This card gives the past forms of the two most common verbs, so you can say how you were or what you had yesterday.",
+     "deeper": {
+      "text": "war and hatte are used much more in speech than other past forms, even by native speakers. For most other verbs people use a different past, which you learn later. So war and hatte are your shortcut for describing how things were. They look like English too: war is was, and both start with w.",
+      "example": {
+       "de": "Ich war gestern in Wien.",
+       "en": "I was in Vienna yesterday.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "gestern",
+         "time"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Wien.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "war: all forms",
@@ -10582,7 +11975,36 @@
       ]
      },
      "more": "war is irregular, like sein, so learn the list by heart. Look at the pattern: ich and er/sie/es are the same word, war. The others look a lot like the normal endings: du warst, wir waren, ihr wart, sie waren. Say the list out loud: war, warst, war, waren, wart, waren. Step 1: find the person. Step 2: pick the form. Extra example: Sie waren im Kino. = They were at the cinema.",
-     "lead": "You have one past form now. This card gives all six forms of war, so you can say who was tired, who was where and who was at a party."
+     "lead": "You have one past form now. This card gives all six forms of war, so you can say who was tired, who was where and who was at a party.",
+     "deeper": {
+      "text": "The w in German sounds like English v, so war sounds like vahr. English helps: ich war is I was, and wir waren is we were. The forms ich war and er war are the same, as in English. The polite form uses the same verb as sie: Sie waren.",
+      "example": {
+       "de": "Wann waren Sie in Hamburg?",
+       "en": "When were you in Hamburg?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "waren",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Hamburg?",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "hatte: all forms",
@@ -10702,7 +12124,32 @@
       ]
      },
      "more": "hatte works like war. The base is hatte. Then you add: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten. Be careful: du hattest has an extra -st, and wir hatten has -n. Step 1: find the person. Step 2: pick the form from the table. Step 3: put it in part 2. Extra example: Ihr hattet Zeit. = You (all) had time.",
-     "lead": "The second past form works in the same way. This card gives all six forms of hatte, so you can say what each person had on a past day."
+     "lead": "The second past form works in the same way. This card gives all six forms of hatte, so you can say what each person had on a past day.",
+     "deeper": {
+      "text": "war has no ending for ich and er/sie/es. hatte keeps its own e: ich hatte, er hatte, du hattest, wir hatten. The tt makes a short a sound. So you learn one pattern for two verbs. Hattet is the form for ihr.",
+      "example": {
+       "de": "Hattet ihr gestern Zeit?",
+       "en": "Did you (all) have time yesterday?",
+       "parts": [
+        [
+         "Hattet",
+         "verb"
+        ],
+        [
+         "ihr",
+         "subject"
+        ],
+        [
+         "gestern",
+         "time"
+        ],
+        [
+         "Zeit?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Word order and questions with war and hatte",
@@ -10803,7 +12250,32 @@
       ]
      },
      "more": "You already know this word order from chapters 1 and 2. W-question: question word first, verb second. Yes/no question: verb first. Only the verb is new: war and hatte. Step 1: choose the question type. Step 2: put in war, warst, hatte or hattest. Step 3: add the rest. Extra example: Wie war das Konzert? Super! = How was the concert? Great!",
-     "lead": "Past sentences keep the same word order you know. This card shows how to ask questions about yesterday, so you can ask where someone was or if they had time."
+     "lead": "Past sentences keep the same word order you know. This card shows how to ask questions about yesterday, so you can ask where someone was or if they had time.",
+     "deeper": {
+      "text": "English also uses the same word order. Where were you? has the question word first, then the verb, then the subject. Were you at home? has the verb first. German does exactly the same. So war and hatte give you the same shapes as in the present. Only the verb is new.",
+      "example": {
+       "de": "Wann hattest du Geburtstag?",
+       "en": "When was your birthday?",
+       "parts": [
+        [
+         "Wann",
+         "question"
+        ],
+        [
+         "hattest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Geburtstag?",
+         "object"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "When? gestern, letzte Woche, letztes Wochenende",
@@ -10950,7 +12422,40 @@
       ]
      ],
      "more": "Each of these is one little block, like a Lego brick. letzte Woche. letztes Wochenende. letzten Samstag. You do not need to know why they look different. Just pick the block and put it in part 1. The verb is then in part 2 and the subject follows it. Step 1: pick the time block. Step 2: war or hatte. Step 3: the subject. Step 4: the rest. Extra example: Gestern war ich in Hamburg. = Yesterday I was in Hamburg.",
-     "lead": "Your past sentences need time words. This card gives phrases for yesterday, last week and last weekend, so you can say when something happened."
+     "lead": "Your past sentences need time words. This card gives phrases for yesterday, last week and last weekend, so you can say when something happened.",
+     "deeper": {
+      "text": "The ending of letzte tells the gender of the word after it: die Woche → letzte Woche, das Wochenende → letztes Wochenende, der Samstag → letzten Samstag. You do not need the rule now. Just learn the three chunks and put them at the start of a story.",
+      "example": {
+       "de": "Letzten Sonntag war ich zu Hause.",
+       "en": "Last Sunday I was at home.",
+       "parts": [
+        [
+         "Letzten",
+         "adjective"
+        ],
+        [
+         "Sonntag",
+         "time"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause.",
+         "place"
+        ]
+       ]
+      }
+     }
     },
     {
      "title": "Describe an event: war for things",
@@ -11054,7 +12559,32 @@
       ]
      ],
      "more": "Tell a short story. Say where you were: war ich in Hamburg. Say what you had: hatten wir Zeit. Say how it was: das Konzert war super. These three small sentences tell an event. After war there is no ending on the describing word, just like after ist. Step 1: where. Step 2: what you had. Step 3: how it was. Extra example: Das Fest war laut, aber schön. = The party was loud, but lovely.",
-     "lead": "The past form works for things and events too, not only for people. This card shows how to describe how something was, so you can say a concert was great. It is the last card of this lesson."
+     "lead": "The past form works for things and events too, not only for people. This card shows how to describe how something was, so you can say a concert was great. It is the last card of this lesson.",
+     "deeper": {
+      "text": "After war and ist, a describing word stands alone with no ending, like in English: it was good. So Das Essen war lecker, not leckere. Words that describe an event are often warm: toll (great) is a favourite after a party. Adding sehr (very) makes it stronger.",
+      "example": {
+       "de": "Die Party war toll.",
+       "en": "The party was great.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Party",
+         "noun"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "toll.",
+         "adjective"
+        ]
+       ]
+      }
+     }
     }
    ],
    "media": {
