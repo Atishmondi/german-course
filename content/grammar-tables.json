@@ -1700,7 +1700,10 @@
    "a1-c10-02",
    "a1-c10-03",
    "a1-c10-04",
-   "a1-c11-09"
+   "a1-c11-09",
+   "a2-c01-03",
+   "a2-c01-04",
+   "a2-c01-05"
   ]
  },
  {
@@ -1757,7 +1760,9 @@
   "chapter": "A1 ch 10",
   "lessons": [
    "a1-c10-05",
-   "a1-c10-06"
+   "a1-c10-06",
+   "a2-c01-03",
+   "a2-c01-05"
   ]
  },
  {
@@ -2451,7 +2456,10 @@
    "yt:fB12-T5jC30",
    "yt:kFu5ZTL_jzA"
   ],
-  "chapter": "A1 ch 6; A2 ch 2; B1 ch 3"
+  "chapter": "A1 ch 6; A2 ch 2; B1 ch 3",
+  "lessons": [
+   "a2-c01-05"
+  ]
  },
  {
   "id": "a2-past-modals",
@@ -2726,7 +2734,10 @@
   "videos": [
    "yt:8Vmwekr6WN4"
   ],
-  "chapter": "A1 ch 7, 12"
+  "chapter": "A1 ch 7, 12",
+  "lessons": [
+   "a2-c01-07"
+  ]
  },
  {
   "id": "a2-conn-adv",
@@ -2850,7 +2861,12 @@
    "yt:_tHi2rjFKd0",
    "yt:vQXxjNb7pHA"
   ],
-  "chapter": "A2 ch 1, 3, 4, 7; B1 ch 1, 7"
+  "chapter": "A2 ch 1, 3, 4, 7; B1 ch 1, 7",
+  "lessons": [
+   "a2-c01-07",
+   "a2-c01-08",
+   "a2-c01-09"
+  ]
  },
  {
   "id": "a2-relative",
@@ -3213,7 +3229,10 @@
    "yt:17WGdU38O_c",
    "yt:tdIarhdlFsU"
   ],
-  "chapter": "A2 ch 1; B1 ch 2"
+  "chapter": "A2 ch 1; B1 ch 2",
+  "lessons": [
+   "a2-c01-06"
+  ]
  },
  {
   "id": "b1-gen-prep",

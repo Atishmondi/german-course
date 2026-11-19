@@ -346,7 +346,7 @@
           ${(t.lessons||[]).length?`<div class="learnin"><p class="learnin-h">Where you learn it</p><ul>${t.lessons.map(lessonLink).join('')}</ul></div>`:''}
           ${embeds(t.videos)}<div class="links"><span class="muted"><span class="badge">${esc(levelTitle(t.level))}</span> Taught in ${esc(t.chapter)}</span></div></div></article>`;
       function lessonLink(id){const L=plan&&plan.lessonById.get(id), d=plan&&dayAt(plan.dayOfLesson.get(id));if(!L||!d)return '';
-        return `<li><a href="#/lesson/${encodeURIComponent(id)}"><span class="muted">Ch ${d.chapter} · ${esc(dayLabel(d))} · Lesson ${(d.lessonIds||[]).indexOf(id)+1}</span> ${esc(L.title)} →</a></li>`;}
+        return `<li><a href="#/lesson/${encodeURIComponent(id)}"><span class="muted">${esc(levelTitle(d.level))} Ch ${d.chapter} · ${esc(dayLabel(d))} · Lesson ${(d.lessonIds||[]).indexOf(id)+1}</span> ${esc(L.title)} →</a></li>`;}
       const lvIds=(LEVELS?LEVELS.levels.map(l=>l.id):['a1','a2','b1']).filter(id=>core.some(c=>c.t.level===id));
       const curLv=(dayAt(state.position.day)||{}).level;
       let lvSel=lvIds.includes(curLv)?curLv:(lvIds[0]||'all'), openIds=null;
