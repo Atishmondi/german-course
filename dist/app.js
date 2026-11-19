@@ -295,22 +295,33 @@
       const perWeek=Array.from({length:totalWeeks},()=>0);
       for(const d of days())if(dayDoneAt(d.n)&&perWeek[d.week-1]!=null)perWeek[d.week-1]++;
       const cur=(dayAt(state.position.day)||{}).week||0;
-      const W=520,H=150,pad=18,bw=(W-pad)/totalWeeks;
-      const bars=perWeek.map((c,i)=>{const h=c/6*(H-40);const x=pad+i*bw+2;
-        return `<rect x="${x}" y="${H-20-h}" width="${bw-4}" height="${Math.max(h,1.5)}" rx="2" fill="${c?'var(--ok)':'var(--line)'}"${i+1===cur?' stroke="var(--ink)" stroke-width="1.5"':''}><title>Week ${i+1}: ${c} of 6 days</title></rect>`
-          +((i===0||(i+1)%4===0)?`<text x="${x+(bw-4)/2}" y="${H-6}" text-anchor="middle">${i+1}</text>`:'');}).join('');
+      const W=640,H=170,base=H-24,top=14,bw=W/totalWeeks;
+      const bars=perWeek.map((c,i)=>{const h=c/6*(base-top), x=i*bw+1, w=bw-2, now=i+1===cur;
+        const tip=`Week ${i+1}: ${c} of 6 days${now?' (this week)':''}`;
+        return `<g class="wk${now?' now':''}" data-tip="${tip}"><rect class="hit" x="${i*bw}" y="${top}" width="${bw}" height="${base-top}"/>`
+          +(c?`<path class="bar-m" d="M${x},${base} V${base-h+4} q0,-4 4,-4 h${w-8} q4,0 4,4 V${base} Z"/>`:`<rect class="bar-0" x="${x}" y="${base-2}" width="${w}" height="2" rx="1"/>`)
+          +(now?`<rect class="pg-ring" x="${x-2}" y="${top-4}" width="${w+4}" height="${base-top+6}" rx="6"/>`:'')
+          +((i===0||(i+1)%4===0)?`<text x="${x+w/2}" y="${H-6}" text-anchor="middle">${i+1}</text>`:'')+`<title>${tip}</title></g>`;}).join('');
       const summary=perWeek.map((c,i)=>c?`week ${i+1}: ${c}`:'').filter(Boolean).join(', ')||'no days finished yet';
+      const total=days().length, fig=(b,l)=>`<li><b>${b}</b><span>${l}</span></li>`;
       v.innerHTML=`<h1>Progress</h1>
-        <div class="stats section">${tile(s.daysDone??0,'days done')}${tile(s.lessonsDone??0,'lessons done')}${tile(acc==null?'–':acc+'%','answers right')}${tile(s.wordsSeen??0,'words seen')}</div>
-        <div class="stats" style="margin-top:10px">${tile(state.streak.count,'day streak 🔥')}${tile(state.stats.answered,'answers given')}</div>
-        <p class="honest section">Lessons done ≠ exam ready: take the practice mocks.</p>
-        <section class="section"><h2>By level</h2>${LEVELS.levels.map(L=>{const b=(s.byLevel||{})[L.id]||{done:0,total:0};
-          return `<div style="margin-top:14px"><p class="barlabel"><span>${esc(L.title)}</span><span>${b.done} of ${b.total}</span></p><div class="bar ok"><i style="width:${pct(b.done,b.total)}%"></i></div></div>`;}).join('')}</section>
+        <section class="pg-hero section"><p class="pg-big"><b>${s.daysDone??0}</b><span>of ${total} study days done</span></p>
+          <ul class="pg-figs">${fig(s.lessonsDone??0,'lessons done')}${fig(acc==null?'–':acc+'%','answers right')}${fig(s.wordsSeen??0,'words seen')}</ul></section>
+        <p class="pg-quiet">${state.streak.count} day streak · ${state.stats.answered} answers given</p>
         <section class="section chart"><h2>Days finished per week</h2>
-          <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Days finished per week, out of 6: ${esc(summary)}">
-            <line x1="${pad}" x2="${W}" y1="${H-20}" y2="${H-20}" stroke="var(--line)"/>${bars}
-            <text x="0" y="${H-20-(H-40)+4}">6</text><text x="0" y="${H-17}">0</text></svg>
-          <p class="muted" style="font-size:.85rem">Each bar is one week (6 study days). The outlined bar is this week.</p></section>`;
+          <div class="pg-chart"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Days finished per week, out of 6: ${esc(summary)}">
+            <line class="axis" x1="0" x2="${W}" y1="${base}" y2="${base}"/><line class="grid" x1="0" x2="${W}" y1="${top}" y2="${top}"/>${bars}</svg>
+            <div class="pg-tip" hidden></div></div>
+          <p class="muted pg-note">Each bar is one week of 6 study days, up to 6. The outlined bar is this week.</p>
+          <table class="sr-only"><caption>Days finished per week</caption><tr><th>Week</th><th>Days</th></tr>${perWeek.map((c,i)=>`<tr><td>${i+1}</td><td>${c}</td></tr>`).join('')}</table></section>
+        <section class="section"><h2>By level</h2><ul class="pg-levels">${LEVELS.levels.map(L=>{const b=(s.byLevel||{})[L.id]||{done:0,total:0};
+          return `<li><span class="t">${esc(L.title)}</span><span class="line"><i style="width:${pct(b.done,b.total)}%"></i></span><span class="n">${b.done} of ${b.total} days</span></li>`;}).join('')}</ul></section>
+        <p class="honest section">Lessons done ≠ exam ready: take the practice mocks.</p>`;
+      const tipEl=v.querySelector('.pg-tip'), box=v.querySelector('.pg-chart');
+      box.addEventListener('pointerover',e=>{const g=e.target.closest('.wk');if(!g){tipEl.hidden=true;return;}
+        tipEl.textContent=g.dataset.tip;tipEl.hidden=false;const r=g.getBoundingClientRect(),b=box.getBoundingClientRect();
+        tipEl.style.left=`${Math.min(b.width-150,Math.max(0,r.left-b.left+r.width/2-75))}px`;});
+      box.addEventListener('pointerleave',()=>{tipEl.hidden=true;});
     },
 
     grammar(v,arg){

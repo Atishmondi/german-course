@@ -5,7 +5,7 @@
   --ok:#5fd38d; --bad:#ff6b6b; --warn:#ffc857;
   --m:#7fb0ff; --f:#ff8fa3; --n:#7ee0a8; --pl:#ffc857; /* gender: masculine, feminine, neuter, plural */
   --r-subject:#5cc8ff; --r-verb:#ff8a3d; --r-object:#b794ff; --r-ending:#ff5fa8; --r-other:#a1a1aa; /* sentence parts */
-  --radius:14px; --r-sm:10px; --font:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif; --display:"Bricolage Grotesque","Figtree",system-ui,sans-serif;
+  --radius:14px; --r-sm:10px; --chart-1:#b87d36; /* data mark: validated (dataviz) on --bg */ --font:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif; --display:"Bricolage Grotesque","Figtree",system-ui,sans-serif;
   --side:252px; --crumb-h:60px; --max:960px; --tap:48px;
   --ease:cubic-bezier(.23,1,.32,1); --ease-out:var(--ease); --ease-in:cubic-bezier(.55,0,1,.45); --ease-io:cubic-bezier(.77,0,.175,1);
   --dur-instant:100ms; --dur-fast:150ms; --dur-base:200ms; --dur-slow:250ms; --dur-page:400ms; --dur-exit:160ms; --press:.97;
@@ -278,3 +278,20 @@ html.lg .toast{-webkit-backdrop-filter:blur(6px) url(#lg-card) saturate(1.5);bac
 .h-plan{margin-top:36px}.h-plan h2{font-size:1.15rem;color:var(--sub);font-weight:600;letter-spacing:.02em;margin:0 0 12px}
 @media (prefers-reduced-motion:reduce){.h-go,.h-ring .on{transition:none}}
 .learnin{margin:18px 0 6px}.learnin ul{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:6px}.learnin a{color:var(--ink);text-decoration:none}.learnin a:hover{color:var(--accent)}.learnin .muted{margin-right:6px}
+
+/* Progress (dataviz pass): one hero number, three figures, single-hue weekly bars, no filled tracks */
+.pg-hero{display:flex;align-items:flex-end;gap:56px;flex-wrap:wrap}
+.pg-big{margin:0;display:flex;align-items:baseline;gap:14px}.pg-big b{font-family:var(--display);font-size:4.2rem;line-height:1;letter-spacing:-.03em}.pg-big span{color:var(--sub);font-size:1.05rem}
+.pg-figs{display:flex;gap:40px;list-style:none;margin:0;padding:0 0 6px}.pg-figs li{display:flex;flex-direction:column;line-height:1.2}.pg-figs b{font-size:1.6rem;letter-spacing:-.015em}.pg-figs span{color:var(--sub);font-size:.9rem}
+.pg-quiet{color:var(--muted);margin:14px 0 0;font-size:.95rem}
+.pg-chart{position:relative}.pg-chart svg{width:100%;height:auto;display:block}
+.pg-chart .axis{stroke:var(--line-strong);stroke-width:1}.pg-chart .grid{stroke:var(--line);stroke-width:1;stroke-dasharray:2 4}
+.pg-chart .hit{fill:transparent}.pg-chart .bar-m{fill:var(--chart-1)}.pg-chart .bar-0{fill:var(--line-strong)}
+.pg-chart .wk:hover .bar-m{fill:var(--accent)}.pg-chart .pg-ring{fill:none;stroke:var(--ink);stroke-width:1.5;opacity:.7}
+.pg-chart text{fill:var(--muted);font-size:11px}
+.pg-tip{position:absolute;top:-6px;width:150px;padding:6px 10px;border-radius:var(--r-sm);background:var(--surface-3);border:1px solid var(--line-strong);color:var(--ink);font-size:.85rem;text-align:center;pointer-events:none}
+.pg-note{font-size:.85rem;margin-top:8px}
+.pg-levels{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:14px}
+.pg-levels li{display:grid;grid-template-columns:48px 1fr 120px;align-items:center;gap:16px}.pg-levels .t{font-weight:700}
+.pg-levels .line{height:4px;position:relative}.pg-levels .line i{position:absolute;inset:0 auto 0 0;border-radius:4px;background:var(--chart-1);min-width:4px}
+.pg-levels .n{color:var(--sub);font-size:.9rem;text-align:right}
