@@ -25,8 +25,8 @@
 .lp-label{display:block;color:var(--sub);font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;margin:0 0 6px}
 .lp-card,.lp-oneline,.lp-mistake,.lp-extra,.lp-terms{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:16px 0}
 .lp-oneline p{font-size:1.3rem;margin:0;font-weight:600}
-.lp-oneline{border-color:rgba(231,192,138,.35);background:var(--accent-soft,rgba(231,192,138,.1))}
-.lp-lead{max-width:56ch;margin:0 0 20px;padding:12px 18px;border:1px solid rgba(231,192,138,.35);border-radius:var(--radius);background:var(--accent-soft,rgba(231,192,138,.1))}
+.lp-oneline{border-color:rgba(0,172,172,.35);background:var(--accent-soft,rgba(0,172,172,.1))}
+.lp-lead{max-width:56ch;margin:0 0 20px;padding:12px 18px;border:1px solid rgba(0,172,172,.35);border-radius:var(--radius);background:var(--accent-soft,rgba(0,172,172,.1))}
 .lp-lead p{margin:0;font-size:1.1rem;line-height:1.5}
 .lp-deeper{max-width:60ch;margin:22px 0 0;padding:16px 20px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;background:var(--surface)}
 .lp-deeper>p{margin:0 0 12px;font-size:1.1rem;line-height:1.55}
@@ -265,5 +265,5 @@
 .lp-examples li{border-top:1px solid var(--line)}
 .lp-deeper,.lp-moretext{border-left:1px solid var(--line);border-radius:var(--radius);box-shadow:inset 3px 0 0 var(--accent)}
 .lp-moretext{border-color:transparent}
-.lp-lead{border-color:rgba(231,192,138,.28)}
+.lp-lead{border-color:rgba(0,172,172,.28)}
 .lp-lead,.lp-visual,.lp-examples,.lp-deeper{margin-bottom:20px}
