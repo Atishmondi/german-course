@@ -1395,7 +1395,8 @@
    "a2-c06-03",
    "a2-c07-04",
    "a2-c07-05",
-   "a2-c08-05"
+   "a2-c08-05",
+   "a2-c11-06"
   ]
  },
  {
@@ -2512,7 +2513,8 @@
    "a2-c04-05",
    "a2-c04-06",
    "a2-c04-09",
-   "a2-c10-03"
+   "a2-c10-03",
+   "a2-c11-05"
   ]
  },
  {
@@ -2744,7 +2746,10 @@
   "notes": [
    "Konjunktiv II = the 'would' mood: not what is, but what would be.",
    "müssen → müsste and dürfen → dürfte work like könnte. sollen → sollte has no umlaut.",
-   "For most other verbs use würde + infinitive at the end: Ich würde gern reisen."
+   "For most other verbs use würde + infinitive at the end: Ich würde gern reisen.",
+   "würde or werde? Ich werde morgen kommen. (future: it will happen) / Ich würde gern kommen. (a wish: maybe it will not happen)",
+   "With haben and sein use hätte and wäre, not würde haben / würde sein: Ich hätte gern mehr Zeit. Ich wäre gern am Meer.",
+   "The infinitive goes to the END: Ich würde gern eine Weltreise machen."
   ],
   "examples": [
    {
@@ -2752,8 +2757,8 @@
     "en": "I'd like a tea."
    },
    {
-    "de": "Das wäre super!",
-    "en": "That would be great!"
+    "de": "Ich würde gern mehr schlafen.",
+    "en": "I would like to sleep more."
    }
   ],
   "videos": [
@@ -2764,7 +2769,12 @@
   "lessons": [
    "a2-c05-04",
    "a2-c05-05",
-   "a2-c08-02"
+   "a2-c08-02",
+   "a2-c11-01",
+   "a2-c11-02",
+   "a2-c11-03",
+   "a2-c11-04",
+   "a2-c11-12"
   ]
  },
  {
@@ -2795,6 +2805,16 @@
     "Du solltest mehr schlafen."
    ],
    [
+    "personal advice",
+    "an deiner Stelle würde …",
+    "Ich an deiner Stelle würde früher ins Bett gehen."
+   ],
+   [
+    "suggestion",
+    "Wie wäre es mit …? / Hättest du Lust auf …?",
+    "Wie wäre es mit einem Picknick?"
+   ],
+   [
     "'would have to'",
     "müsste",
     "Ich müsste mehr lernen."
@@ -2812,7 +2832,9 @@
   ],
   "notes": [
    "The infinitive (or participle) goes to the end, like with modal verbs.",
-   "In a wenn-sentence the verb goes to the end of the wenn-part."
+   "In a wenn-sentence the verb goes to the end of the wenn-part.",
+   "Real or not real? Wenn ich Zeit habe, komme ich. (real: maybe I have time) / Wenn ich Zeit hätte, würde ich kommen. (not real: I have no time)",
+   "The wenn-part can come second: Ich würde kommen, wenn ich Zeit hätte."
   ],
   "examples": [
    {
@@ -2839,7 +2861,14 @@
    "a2-c08-03",
    "a2-c08-07",
    "a2-c08-08",
-   "a2-c10-04"
+   "a2-c10-04",
+   "a2-c11-01",
+   "a2-c11-02",
+   "a2-c11-03",
+   "a2-c11-04",
+   "a2-c11-09",
+   "a2-c11-11",
+   "a2-c11-12"
   ]
  },
  {
@@ -3032,7 +3061,8 @@
    "If the side sentence comes first, the main verb comes right after the comma: Weil ich müde bin, gehe ich nach Hause.",
    "als + Perfekt: Als wir eingezogen sind, hat es geregnet. (the verb of the main clause comes right after the comma)",
    "als = one event in the past; wenn = every time (Immer wenn Anna geklingelt hat, …) or now/future.",
-   "A dass-clause can stand first: Dass du hilfst, finde ich toll."
+   "A dass-clause can stand first: Dass du hilfst, finde ich toll.",
+   "Unreal wenn: the Konjunktiv II form goes to the end of the wenn-part: Wenn ich mehr Zeit hätte, … / Wenn Anna nicht so müde wäre, …"
   ],
   "examples": [
    {
@@ -3082,7 +3112,10 @@
    "a2-c10-07",
    "a2-c10-09",
    "a2-c10-11",
-   "a2-c10-12"
+   "a2-c10-12",
+   "a2-c11-03",
+   "a2-c11-10",
+   "a2-c11-11"
   ]
  },
  {
@@ -3527,11 +3560,52 @@
     "erzählen",
     "von + dat.",
     "Erzähl mir von deiner Reise!"
+   ],
+   [
+    "achten",
+    "auf + acc.",
+    "Achte auf die Zeit!"
+   ],
+   [
+    "sich gewöhnen",
+    "an + acc.",
+    "Ich gewöhne mich an den Wecker."
+   ],
+   [
+    "bitten",
+    "um + acc.",
+    "Ich bitte dich um Hilfe."
+   ],
+   [
+    "sich verabreden",
+    "mit + dat.",
+    "Ich verabrede mich mit Mira."
+   ],
+   [
+    "sich unterhalten",
+    "mit + dat. / über + acc.",
+    "Wir unterhalten uns über den Urlaub."
+   ],
+   [
+    "abhängen",
+    "von + dat.",
+    "Das hängt vom Wetter ab."
+   ],
+   [
+    "sich beschäftigen",
+    "mit + dat.",
+    "Ben beschäftigt sich mit Musik."
+   ],
+   [
+    "aufhören",
+    "mit + dat.",
+    "Ich höre mit dem Handy auf."
    ]
   ],
   "notes": [
    "The preposition often doesn't match English: warten auf = wait for.",
-   "auf and über with these verbs almost always take the accusative."
+   "auf and über with these verbs almost always take the accusative.",
+   "Ask with the same preposition: warten auf → Worauf wartest du? (thing) / Auf wen wartest du? (person). See 'da- and wo- words'."
   ],
   "examples": [
    {
@@ -3547,7 +3621,14 @@
    "yt:dV54jc8K6MU",
    "yt:Hjiy_ogekcw"
   ],
-  "chapter": "A2 ch 11; B1 ch 4"
+  "chapter": "A2 ch 11; B1 ch 4",
+  "lessons": [
+   "a2-c11-05",
+   "a2-c11-06",
+   "a2-c11-07",
+   "a2-c11-08",
+   "a2-c11-12"
+  ]
  },
  {
   "id": "a2-da-wo",
@@ -3600,11 +3681,24 @@
     "vor",
     "davor",
     "wovor"
+   ],
+   [
+    "nach",
+    "danach",
+    "wonach"
+   ],
+   [
+    "zu",
+    "dazu",
+    "wozu"
    ]
   ],
   "notes": [
    "Add an r when the preposition starts with a vowel: dar-auf, wor-an.",
-   "Only for things and ideas. For people use preposition + pronoun: Auf wen wartest du? – Auf ihn."
+   "Only for things and ideas. For people use preposition + pronoun: Auf wen wartest du? – Auf ihn.",
+   "You already know some of these words with another meaning: Ich bin dafür (= I am for it), Wohin damit?, darum (= that is why). Here damit = with it, darum = about it.",
+   "Answer a wo-question with a da-word: Woran denkst du? – An die Prüfung. Ich denke oft daran.",
+   "Fixed chunk: Es kommt darauf an. (= It depends.)"
   ],
   "examples": [
    {
@@ -3612,15 +3706,21 @@
     "en": "What are you waiting for? – The bus. I've been waiting for it for ages."
    },
    {
-    "de": "Wofür interessierst du dich?",
-    "en": "What are you interested in?"
+    "de": "Auf wen wartest du? – Auf Anna. Ich warte schon lange auf sie.",
+    "en": "Who are you waiting for? – For Anna. I've been waiting for her for ages."
    }
   ],
   "videos": [
    "yt:Rd5W-HwArvM",
    "yt:XhE3bMIiq6g"
   ],
-  "chapter": "A2 ch 11; B1 ch 4"
+  "chapter": "A2 ch 11; B1 ch 4",
+  "lessons": [
+   "a2-c11-07",
+   "a2-c11-08",
+   "a2-c11-09",
+   "a2-c11-10"
+  ]
  },
  {
   "id": "b1-genitive",
