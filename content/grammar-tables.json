@@ -265,7 +265,9 @@
    "a1-c03-02",
    "a1-c04-03",
    "a1-c07-04",
-   "a2-c02-07"
+   "a2-c02-07",
+   "a2-c08-04",
+   "a2-c08-05"
   ]
  },
  {
@@ -984,7 +986,8 @@
   "lessons": [
    "a1-c04-04",
    "a1-c04-05",
-   "a1-c08-08"
+   "a1-c08-08",
+   "a2-c08-01"
   ]
  },
  {
@@ -1093,7 +1096,9 @@
    "a2-c04-08",
    "a2-c07-01",
    "a2-c07-04",
-   "a2-c07-07"
+   "a2-c07-07",
+   "a2-c08-04",
+   "a2-c08-06"
   ]
  },
  {
@@ -1160,7 +1165,8 @@
    "a1-c07-01",
    "a1-c07-02",
    "a2-c03-04",
-   "a2-c07-02"
+   "a2-c07-02",
+   "a2-c08-09"
   ]
  },
  {
@@ -1235,7 +1241,8 @@
    "a2-c04-04",
    "a2-c06-05",
    "a2-c07-01",
-   "a2-c07-03"
+   "a2-c07-03",
+   "a2-c08-01"
   ]
  },
  {
@@ -1380,7 +1387,8 @@
    "a2-c05-06",
    "a2-c06-03",
    "a2-c07-04",
-   "a2-c07-05"
+   "a2-c07-05",
+   "a2-c08-05"
   ]
  },
  {
@@ -1661,7 +1669,8 @@
    "a1-c08-06",
    "a2-c04-03",
    "a2-c05-09",
-   "a2-c06-07"
+   "a2-c06-07",
+   "a2-c08-07"
   ]
  },
  {
@@ -1752,7 +1761,8 @@
    "a2-c01-04",
    "a2-c01-05",
    "a2-c07-03",
-   "a2-c07-09"
+   "a2-c07-09",
+   "a2-c08-08"
   ]
  },
  {
@@ -1814,7 +1824,8 @@
    "a2-c01-05",
    "a2-c03-08",
    "a2-c04-03",
-   "a2-c07-09"
+   "a2-c07-09",
+   "a2-c08-06"
   ]
  },
  {
@@ -2206,7 +2217,9 @@
    "a2-c06-03",
    "a2-c06-06",
    "a2-c06-07",
-   "a2-c06-08"
+   "a2-c06-08",
+   "a2-c08-04",
+   "a2-c08-05"
   ]
  },
  {
@@ -2633,7 +2646,9 @@
    "a2-c02-02",
    "a2-c02-03",
    "a2-c02-04",
-   "a2-c04-08"
+   "a2-c04-08",
+   "a2-c08-02",
+   "a2-c08-08"
   ]
  },
  {
@@ -2647,7 +2662,8 @@
    "sein → wäre",
    "haben → hätte",
    "werden → würde",
-   "können → könnte"
+   "können → könnte",
+   "sollen → sollte"
   ],
   "rows": [
    [
@@ -2655,42 +2671,48 @@
     "wäre",
     "hätte",
     "würde",
-    "könnte"
+    "könnte",
+    "sollte"
    ],
    [
     "du",
     "wärst",
     "hättest",
     "würdest",
-    "könntest"
+    "könntest",
+    "solltest"
    ],
    [
     "er / sie / es",
     "wäre",
     "hätte",
     "würde",
-    "könnte"
+    "könnte",
+    "sollte"
    ],
    [
     "wir",
     "wären",
     "hätten",
     "würden",
-    "könnten"
+    "könnten",
+    "sollten"
    ],
    [
     "ihr",
     "wärt",
     "hättet",
     "würdet",
-    "könntet"
+    "könntet",
+    "solltet"
    ],
    [
     "sie / Sie",
     "wären",
     "hätten",
     "würden",
-    "könnten"
+    "könnten",
+    "sollten"
    ]
   ],
   "notes": [
@@ -2715,7 +2737,8 @@
   "chapter": "A2 ch 5, 8, 11; B1 ch 4",
   "lessons": [
    "a2-c05-04",
-   "a2-c05-05"
+   "a2-c05-05",
+   "a2-c08-02"
   ]
  },
  {
@@ -2784,7 +2807,12 @@
    "a2-c05-05",
    "a2-c05-09",
    "a2-c06-09",
-   "a2-c07-03"
+   "a2-c07-03",
+   "a2-c08-01",
+   "a2-c08-02",
+   "a2-c08-03",
+   "a2-c08-07",
+   "a2-c08-08"
   ]
  },
  {
@@ -2994,7 +3022,9 @@
    "a2-c07-06",
    "a2-c07-07",
    "a2-c07-08",
-   "a2-c07-09"
+   "a2-c07-09",
+   "a2-c08-03",
+   "a2-c08-09"
   ]
  },
  {
@@ -3060,7 +3090,74 @@
   "lessons": [
    "a2-c07-01",
    "a2-c07-02",
-   "a2-c07-03"
+   "a2-c07-03",
+   "a2-c08-03",
+   "a2-c08-06"
+  ]
+ },
+ {
+  "id": "a2-was-fuer",
+  "level": "a2",
+  "group": "Articles",
+  "title": "Was für ein …? asking what kind",
+  "why": "Was für ein asks what kind of thing something is; welcher asks which one from a known group.",
+  "headers": [
+   "Case",
+   "Question",
+   "Answer"
+  ],
+  "rows": [
+   [
+    "nominative (m)",
+    "Was für ein Kurs ist das?",
+    "Ein kleiner Abendkurs."
+   ],
+   [
+    "nominative (f)",
+    "Was für eine Prüfung ist das?",
+    "Eine schriftliche Prüfung."
+   ],
+   [
+    "nominative (n)",
+    "Was für ein Buch ist das?",
+    "Ein dickes Wörterbuch."
+   ],
+   [
+    "accusative (m)",
+    "Was für einen Lehrer hast du?",
+    "Einen sehr netten Lehrer."
+   ],
+   [
+    "dative (f)",
+    "In was für einer Firma arbeitest du?",
+    "In einer kleinen Firma."
+   ],
+   [
+    "plural",
+    "Was für Bücher liest du?",
+    "Spannende Krimis."
+   ]
+  ],
+  "notes": [
+   "für does not decide the case here: ein takes the ending the sentence needs (Kurs ist → ein, ich habe → einen).",
+   "Plural has no ein: Was für Bücher …?",
+   "The answer uses ein/eine + adjective ending, like after ein (A2 ch 6).",
+   "welcher? = which one (from a known choice): Welcher Kurs? – Der Kurs am Montag."
+  ],
+  "examples": [
+   {
+    "de": "Was für ein Kurs ist das?",
+    "en": "What kind of course is that?"
+   },
+   {
+    "de": "Was für eine Präsentation musst du halten?",
+    "en": "What kind of presentation do you have to give?"
+   }
+  ],
+  "chapter": "A2 ch 8",
+  "lessons": [
+   "a2-c08-04",
+   "a2-c08-05"
   ]
  },
  {
