@@ -1170,7 +1170,8 @@
    "a2-c07-02",
    "a2-c08-09",
    "a2-c09-07",
-   "a2-c09-08"
+   "a2-c09-08",
+   "a2-c10-08"
   ]
  },
  {
@@ -1247,7 +1248,8 @@
    "a2-c07-01",
    "a2-c07-03",
    "a2-c08-01",
-   "a2-c09-05"
+   "a2-c09-05",
+   "a2-c10-05"
   ]
  },
  {
@@ -1467,7 +1469,9 @@
   "notes": [
    "Wo? (where is it?) → dative. Wohin? (where does it go?) → accusative.",
    "liegen, stehen, hängen (be somewhere) + dative. legen, stellen, hängen (put somewhere) + accusative.",
-   "Short forms: in dem = im, an dem = am, in das = ins, an das = ans."
+   "Short forms: in dem = im, an dem = am, in das = ins, an das = ans.",
+   "Perfekt: hat gestanden / gestellt, gelegen / gelegt, gehangen / gehängt, gesessen / gesetzt (see 'Position and direction verbs').",
+   "hierhin / dorthin answer Wohin? (Stell es hierhin!), hier / dort answer Wo?."
   ],
   "examples": [
    {
@@ -1492,7 +1496,15 @@
    "a2-c05-07",
    "a2-c05-08",
    "a2-c07-04",
-   "a2-c07-05"
+   "a2-c07-05",
+   "a2-c10-01",
+   "a2-c10-02",
+   "a2-c10-03",
+   "a2-c10-04",
+   "a2-c10-05",
+   "a2-c10-08",
+   "a2-c10-10",
+   "a2-c10-11"
   ]
  },
  {
@@ -1581,7 +1593,8 @@
    "a2-c05-06",
    "a2-c05-07",
    "a2-c07-04",
-   "a2-c07-05"
+   "a2-c07-05",
+   "a2-c10-10"
   ]
  },
  {
@@ -1675,7 +1688,8 @@
    "a2-c04-03",
    "a2-c05-09",
    "a2-c06-07",
-   "a2-c08-07"
+   "a2-c08-07",
+   "a2-c10-04"
   ]
  },
  {
@@ -1767,7 +1781,10 @@
    "a2-c01-05",
    "a2-c07-03",
    "a2-c07-09",
-   "a2-c08-08"
+   "a2-c08-08",
+   "a2-c10-01",
+   "a2-c10-02",
+   "a2-c10-09"
   ]
  },
  {
@@ -1831,7 +1848,8 @@
    "a2-c04-03",
    "a2-c07-09",
    "a2-c08-06",
-   "a2-c09-09"
+   "a2-c09-09",
+   "a2-c10-07"
   ]
  },
  {
@@ -2123,7 +2141,8 @@
    "a2-c05-03",
    "a2-c05-07",
    "a2-c05-08",
-   "a2-c06-01"
+   "a2-c06-01",
+   "a2-c10-10"
   ]
  },
  {
@@ -2492,7 +2511,8 @@
    "a2-c04-03",
    "a2-c04-05",
    "a2-c04-06",
-   "a2-c04-09"
+   "a2-c04-09",
+   "a2-c10-03"
   ]
  },
  {
@@ -2818,7 +2838,8 @@
    "a2-c08-02",
    "a2-c08-03",
    "a2-c08-07",
-   "a2-c08-08"
+   "a2-c08-08",
+   "a2-c10-04"
   ]
  },
  {
@@ -2952,7 +2973,9 @@
    "a2-c09-03",
    "a2-c09-06",
    "a2-c09-08",
-   "a2-c09-09"
+   "a2-c09-09",
+   "a2-c10-06",
+   "a2-c10-09"
   ]
  },
  {
@@ -3006,7 +3029,10 @@
   "notes": [
    "Subordinate clause = a side sentence that can't stand alone. It always has a comma.",
    "The conjugated verb goes to the very end: weil ich müde bin.",
-   "If the side sentence comes first, the main verb comes right after the comma: Weil ich müde bin, gehe ich nach Hause."
+   "If the side sentence comes first, the main verb comes right after the comma: Weil ich müde bin, gehe ich nach Hause.",
+   "als + Perfekt: Als wir eingezogen sind, hat es geregnet. (the verb of the main clause comes right after the comma)",
+   "als = one event in the past; wenn = every time (Immer wenn Anna geklingelt hat, …) or now/future.",
+   "A dass-clause can stand first: Dass du hilfst, finde ich toll."
   ],
   "examples": [
    {
@@ -3050,7 +3076,13 @@
    "a2-c08-03",
    "a2-c08-09",
    "a2-c09-01",
-   "a2-c09-03"
+   "a2-c09-03",
+   "a2-c10-05",
+   "a2-c10-06",
+   "a2-c10-07",
+   "a2-c10-09",
+   "a2-c10-11",
+   "a2-c10-12"
   ]
  },
  {
@@ -3118,7 +3150,8 @@
    "a2-c07-02",
    "a2-c07-03",
    "a2-c08-03",
-   "a2-c08-06"
+   "a2-c08-06",
+   "a2-c10-12"
   ]
  },
  {
@@ -3248,6 +3281,72 @@
    "a2-c09-04",
    "a2-c09-05",
    "a2-c09-06"
+  ]
+ },
+ {
+  "id": "a2-position-verbs",
+  "level": "a2",
+  "group": "Prepositions",
+  "title": "Position and direction verbs: stehen or stellen?",
+  "why": "Two-way prepositions follow the verb: a verb that just says where something is takes the dative (Wo?). A verb that moves something and has an object takes the accusative (Wohin?).",
+  "headers": [
+   "Wo? (no object) → dative",
+   "Perfekt",
+   "Wohin? (with object) → accusative",
+   "Perfekt"
+  ],
+  "rows": [
+   [
+    "stehen: Der Schrank steht in der Ecke.",
+    "hat gestanden",
+    "stellen: Ben stellt den Schrank in die Ecke.",
+    "hat gestellt"
+   ],
+   [
+    "liegen: Der Teppich liegt auf dem Boden.",
+    "hat gelegen",
+    "legen: Leon legt den Teppich auf den Boden.",
+    "hat gelegt"
+   ],
+   [
+    "hängen: Das Bild hängt an der Wand.",
+    "hat gehangen",
+    "hängen: Mira hängt das Bild an die Wand.",
+    "hat gehängt"
+   ],
+   [
+    "sitzen: Anna sitzt auf dem Sofa.",
+    "hat gesessen",
+    "setzen: Anna setzt sich aufs Sofa.",
+    "hat sich gesetzt"
+   ]
+  ],
+  "notes": [
+   "Test: is there an object that somebody moves? yes → Wohin? + accusative; no → Wo? + dative.",
+   "hängen has two Perfekt forms: hat gehangen (it is hanging) and hat gehängt (somebody hangs it). The present is the same: hängt.",
+   "People can put themselves somewhere: sich setzen, sich legen, sich stellen + accusative: Ich setze mich auf das Sofa.",
+   "Movement verbs (gehen, springen, klettern, rennen) also take the accusative for the goal: Die Katze springt auf den Tisch. The result is dative: Die Katze sitzt auf dem Tisch."
+  ],
+  "examples": [
+   {
+    "de": "Das Buch hat auf dem Tisch gelegen.",
+    "en": "The book was lying on the table."
+   },
+   {
+    "de": "Ich habe das Buch auf den Tisch gelegt.",
+    "en": "I put the book on the table."
+   }
+  ],
+  "videos": [
+   "yt:A438Pv_9h9Q",
+   "yt:CcWkEP3Dw8E"
+  ],
+  "chapter": "A1 ch 9; A2 ch 10",
+  "lessons": [
+   "a2-c10-01",
+   "a2-c10-02",
+   "a2-c10-03",
+   "a2-c10-12"
   ]
  },
  {
