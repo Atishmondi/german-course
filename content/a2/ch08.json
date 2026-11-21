@@ -3294,7 +3294,7 @@
        ]
       },
       {
-       "de": "Eine Eselsbrücke hilft dem Gedächtnis.",
+       "de": "Eine Eselsbrücke hilft mir.",
        "en": "A memory trick helps the memory.",
        "parts": [
         [
@@ -3310,11 +3310,7 @@
          "verb"
         ],
         [
-         "dem",
-         "article"
-        ],
-        [
-         "Gedächtnis.",
+         "mir.",
          "dative"
         ]
        ]
@@ -3386,7 +3382,7 @@
        ],
        [
         "die Eselsbrücke",
-        "Eine Eselsbrücke hilft dem Gedächtnis."
+        "Eine Eselsbrücke hilft mir."
        ],
        [
         "ausprobieren",
@@ -3988,7 +3984,7 @@
        "why": "Promises to try."
       },
       {
-       "de": "Das habe ich schon probiert, aber es hilft nicht.",
+       "de": "Das habe ich schon probiert, aber es hat nicht geholfen.",
        "en": "I have tried that already, but it does not help.",
        "parts": [
         [
@@ -4020,12 +4016,16 @@
          "subject"
         ],
         [
-         "hilft",
+         "hat",
          "verb"
         ],
         [
-         "nicht.",
+         "nicht",
          "negation"
+        ],
+        [
+         "geholfen.",
+         "verb2"
         ]
        ],
        "why": "Politely says no."
@@ -4699,7 +4699,7 @@
        "en": "A break is a good habit."
       },
       {
-       "de": "Ich lerne jeden Morgen, das ist meine Gewohnheit.",
+       "de": "Ich lerne jeden Morgen. Das ist meine Gewohnheit.",
        "en": "I study every morning, that is my habit."
       }
      ],
@@ -4729,7 +4729,7 @@
        "en": "Success in learning comes slowly."
       },
       {
-       "de": "Ein Lernplan hilft dem Lernerfolg.",
+       "de": "Ein Lernplan bringt Lernerfolg.",
        "en": "A study plan helps learning success."
       }
      ],
@@ -4755,7 +4755,7 @@
      "en": "memory trick",
      "examples": [
       {
-       "de": "Eine Eselsbrücke hilft dem Gedächtnis.",
+       "de": "Eine Eselsbrücke hilft mir.",
        "en": "A memory trick helps the memory."
       },
       {
@@ -6355,7 +6355,7 @@
      "body": "Mira works bei einer großen Firma, and Anna asks about it. At work you often ask about a place or a team, and then a preposition leads the question: in, bei, mit. Today Was für gets its dative form, so you can ask In was für einer Firma arbeitest du?",
      "steps": [
       "You already know: Was für einen Kurs machst du? from lesson 4, and bei einer großen Firma with the dative -en ending from A2 chapter 6.",
-      "New today: a preposition in front of Was für, then einem or einer: Bei was für einer Firma arbeitest du?",
+      "New today: a preposition in front of Was für, then einem or einer: In was für einer Firma arbeitest du?",
       "By the end you can: ask and answer about your company, your team and your work, and give advice about work."
      ],
      "examples": [
@@ -8709,7 +8709,7 @@
        ]
       },
       {
-       "de": "Mein Tipp für Berufsanfänger Sie sollten viel fragen.",
+       "de": "Mein Tipp für Berufsanfänger: Sie sollten viel fragen.",
        "en": "My tip for career starters: you should ask a lot.",
        "parts": [
         [
@@ -8725,7 +8725,7 @@
          "preposition"
         ],
         [
-         "Berufsanfänger",
+         "Berufsanfänger:",
          "noun"
         ],
         [
@@ -9415,7 +9415,7 @@
      "en": "weakness",
      "examples": [
       {
-       "de": "Meine Schwäche ist: Ich habe wenig Zeit.",
+       "de": "Meine Schwäche ist, dass ich wenig Zeit habe.",
        "en": "My weakness is: I have little time."
       },
       {
@@ -9714,7 +9714,7 @@
        ]
       },
       {
-       "de": "Der Treffpunkt ist jeden Montag im „Zum Löwen“.",
+       "de": "Der Treffpunkt ist jeden Montag im Restaurant „Zum Löwen“.",
        "en": "The meeting point is „Zum Löwen“ every Monday.",
        "parts": [
         [
@@ -9738,7 +9738,7 @@
          "preposition"
         ],
         [
-         "„Zum Löwen“.",
+         "Restaurant „Zum Löwen“.",
          "place"
         ]
        ]
@@ -10223,7 +10223,7 @@
       }
      ],
      "deeper": {
-      "text": "Standard German on the radio says -ig like ich. Many people in the south, in Austria and in Switzerland say [ik], so you will hear both. Choose one and stay with it; this course uses [ich]. With -lich the g is hard too: täglich [k]. Your ear will learn this fast.",
+      "text": "Standard German on the radio says -ig like ich. Many people in the south, in Austria and in Switzerland say [ik], so you will hear both. Choose one and stay with it; this course uses [ich]. Before -lich the g is hard too: täglich sounds like [täk-lich]. Your ear will learn this fast.",
       "example": {
        "de": "Die Straße ist ruhig.",
        "en": "The street is quiet. (ruhig: ich)",
@@ -10971,7 +10971,7 @@
        "en": "Anna reads the notice."
       },
       {
-       "de": "Der Aushang ist im „Zum Löwen“.",
+       "de": "Der Aushang ist im Restaurant „Zum Löwen“.",
        "en": "The notice is in „Zum Löwen“."
       }
      ],
@@ -11027,7 +11027,7 @@
      "en": "meeting point",
      "examples": [
       {
-       "de": "Der Treffpunkt ist im „Zum Löwen“.",
+       "de": "Der Treffpunkt ist im Restaurant „Zum Löwen“.",
        "en": "The meeting point is in „Zum Löwen“."
       },
       {
@@ -11548,7 +11548,7 @@
       "Später hat er viel gearbeitet.",
       "Vor einem Jahr hat er einen Italienischkurs an der Volkshochschule angefangen.",
       "Am Anfang war die Aussprache schwer.",
-      "Er hatte wenig Geduld und viele Fehler.",
+      "Er hatte wenig Geduld und hat viele Fehler gemacht.",
       "Jetzt kann er schon viel verstehen und ein bisschen sprechen.",
       "Er sagt: „Man ist nie zu alt.“"
      ]
@@ -12548,7 +12548,7 @@
        "en": "My vocabulary is still small."
       },
       {
-       "de": "Ein Tandem hilft beim Wortschatz.",
+       "de": "Mit dem Tandem wächst mein Wortschatz.",
        "en": "A tandem helps with vocabulary."
       }
      ],
@@ -12608,7 +12608,7 @@
        "en": "Herr Ali does a language exchange."
       },
       {
-       "de": "Das Tandem ist im „Zum Löwen“.",
+       "de": "Das Tandem ist im Restaurant „Zum Löwen“.",
        "en": "The tandem is in „Zum Löwen“."
       }
      ],
@@ -13719,7 +13719,7 @@
        ]
       },
       {
-       "de": "Wir treffen uns jeden Montag im „Zum Löwen“.",
+       "de": "Wir treffen uns jeden Montag im Restaurant „Zum Löwen“.",
        "en": "We meet every Monday in „Zum Löwen“.",
        "parts": [
         [
@@ -13743,7 +13743,7 @@
          "preposition"
         ],
         [
-         "„Zum Löwen“.",
+         "Restaurant „Zum Löwen“.",
          "place"
         ]
        ]
@@ -13823,7 +13823,7 @@
       "Hauptteil: „Viertel hilft“ ist eine Nachbarschaftshilfe. Die Mitglieder arbeiten ehrenamtlich.",
       "Hauptteil: Auf dieser Folie seht ihr die Hilfsangebote: Einkaufshilfe, Hilfe mit dem Hund und Deutsch im Tandem.",
       "Hauptteil: Das ist ein wichtiger Punkt: Alle helfen ohne Gegenleistung.",
-      "Hauptteil: Jetzt komme ich zum Treffpunkt. Wir treffen uns jeden Montag im „Zum Löwen“.",
+      "Hauptteil: Jetzt komme ich zum Treffpunkt. Wir treffen uns jeden Montag im Restaurant „Zum Löwen“.",
       "Schluss: Zum Schluss möchte ich sagen, dass Helfen Spaß macht.",
       "Schluss: Habt ihr Fragen? Vielen Dank für eure Aufmerksamkeit!"
      ]
@@ -14489,7 +14489,7 @@
    },
    "listening": {
     "title": "Prüfungsangst",
-    "script": "Ben: Anna, ich habe Prüfungsangst.\nAnna: Das ist normal. Wann ist die Klausur?\nBen: In zwei Wochen. Was sollte ich tun?\nAnna: Du solltest eine Lerngruppe suchen. Das hilft.\nBen: Sollte ich auch Karteikarten schreiben?\nAnna: Ja, das solltest du. Und du solltest jeden Tag eine Pause machen.\nBen: Das habe ich schon probiert, aber es hilft nicht.\nAnna: Du könntest morgens früher aufstehen.\nBen: Hm, ich weiß nicht. Ich bin morgens müde.\nAnna: Dann solltest du abends früh schlafen. Ich finde, dass Pausen sehr wichtig sind.\nBen: Gute Idee! Danke für den Tipp.\nAnna: Viel Erfolg!",
+    "script": "Ben: Anna, ich habe Prüfungsangst.\nAnna: Das ist normal. Wann ist die Klausur?\nBen: In zwei Wochen. Was sollte ich tun?\nAnna: Du solltest eine Lerngruppe suchen. Das hilft.\nBen: Sollte ich auch Karteikarten schreiben?\nAnna: Ja, das solltest du. Und du solltest jeden Tag eine Pause machen.\nBen: Das habe ich schon probiert, aber es hat nicht geholfen.\nAnna: Du könntest morgens früher aufstehen.\nBen: Hm, ich weiß nicht. Ich bin morgens müde.\nAnna: Dann solltest du abends früh schlafen. Ich finde, dass Pausen sehr wichtig sind.\nBen: Gute Idee! Danke für den Tipp.\nAnna: Viel Erfolg!",
     "questions": [
      {
       "type": "choice",
@@ -14566,7 +14566,7 @@
       ],
       "answer": 0,
       "hint": "Listen for schon probiert.",
-      "explanation": "Das habe ich schon probiert, aber es hilft nicht.",
+      "explanation": "Das habe ich schon probiert, aber es hat nicht geholfen.",
       "grammar": false
      },
      {
@@ -14754,7 +14754,7 @@
    "day": 2,
    "reading": {
     "title": "Neu an der Volkshochschule",
-    "text": "Neu an der Volkshochschule\nItalienisch lernen? Es gibt drei Kurse.\nKurs 1 ist ein Abendkurs für Anfänger. Er ist am Montag. Der Kurs ist nicht groß: Es gibt nur zehn Teilnehmer. Sie arbeiten mit einem Lehrbuch.\nKurs 2 ist ein Kurs für Fortgeschrittene. Er ist am Mittwoch. Die Kursleiterin kommt aus Rom.\nKurs 3 ist ein Online-Kurs. Die Teilnehmer lernen mit der Lernplattform. Jeder braucht nur einen Computer. Zuerst macht jeder einen Einstufungstest.\nNachricht von Anna:\nHallo Herr Ali, ich mache den Kurs für Fortgeschrittene. Was für einen Kurs suchst du? Der Abendkurs für Anfänger ist gut für dich, und am Montag hast du Zeit. Kommst du mit?\nViele Grüße\nAnna",
+    "text": "Neu an der Volkshochschule\nItalienisch lernen? Es gibt drei Kurse.\nKurs 1 ist ein Abendkurs für Anfänger. Er ist am Montag. Der Kurs ist nicht groß: Es gibt nur zehn Teilnehmer. Sie arbeiten mit einem Lehrbuch.\nKurs 2 ist ein Kurs für Fortgeschrittene. Er ist am Mittwoch. Die Kursleiterin kommt aus Rom.\nKurs 3 ist ein Online-Kurs. Die Teilnehmer lernen mit der Lernplattform. Jeder braucht nur einen Computer. Zuerst macht jeder einen Einstufungstest.\nNachricht von Anna:\nHallo Herr Ali, ich mache den Kurs für Fortgeschrittene. Was für einen Kurs suchen Sie? Der Abendkurs für Anfänger ist gut für Sie, und am Montag haben Sie Zeit. Kommen Sie mit?\nViele Grüße\nAnna",
     "glossary": [
      {
       "de": "der Online-Kurs",
@@ -14890,17 +14890,17 @@
       ],
       "answer": 1,
       "hint": "Look at the end of the message.",
-      "explanation": "Am Montag hast du Zeit.",
+      "explanation": "Am Montag haben Sie Zeit.",
       "grammar": true
      },
      {
       "type": "type",
       "prompt": "Copy the question Anna asks Herr Ali.",
       "answers": [
-       "Was für einen Kurs suchst du?"
+       "Was für einen Kurs suchen Sie?"
       ],
       "hint": "It is in Anna’s message and starts with Was für.",
-      "explanation": "Was für einen Kurs suchst du?",
+      "explanation": "Was für einen Kurs suchen Sie?",
       "grammar": true
      }
     ]
@@ -15199,7 +15199,7 @@
    "day": 3,
    "reading": {
     "title": "Der Aushang von „Viertel hilft“",
-    "text": "Der Aushang von „Viertel hilft“\n\nBrauchen Sie Hilfe? Wir helfen gern! „Viertel hilft“ ist eine Nachbarschaftshilfe. Unsere Mitglieder arbeiten ehrenamtlich und ohne Gegenleistung.\n\nUnsere Hilfsangebote:\n– Einkaufshilfe: Wir gehen für Sie einkaufen.\n– Hund: Wir führen Ihren Hund am Abend aus.\n– Deutsch im Tandem: Sie lernen mit einem Lernpartner.\n\nTreffpunkt: jeden Montag um 18 Uhr im „Zum Löwen“. Fragen? Rufen Sie Frau Weber an!\n\nEine Notiz von Herrn Ali:\nSeit einem Monat mache ich ein Tandem mit einer Nachbarin aus Rom. Am Montag sprechen wir eine halbe Stunde Deutsch und eine halbe Stunde Italienisch. Die Aussprache ist schwer, aber ich habe Geduld. Mein Tipp: Man sollte keine Angst vor Fehlern haben.\n\nViele Grüße\nHerr Ali",
+    "text": "Der Aushang von „Viertel hilft“\n\nBrauchen Sie Hilfe? Wir helfen gern! „Viertel hilft“ ist eine Nachbarschaftshilfe. Unsere Mitglieder arbeiten ehrenamtlich und ohne Gegenleistung.\n\nUnsere Hilfsangebote:\n– Einkaufshilfe: Wir gehen für Sie einkaufen.\n– Hund: Wir führen Ihren Hund am Abend aus.\n– Deutsch im Tandem: Sie lernen mit einem Lernpartner.\n\nTreffpunkt: jeden Montag um 18 Uhr im Restaurant „Zum Löwen“. Fragen? Rufen Sie Frau Weber an!\n\nEine Notiz von Herrn Ali:\nSeit einem Monat mache ich ein Tandem mit einer Nachbarin aus Rom. Am Montag sprechen wir eine halbe Stunde Deutsch und eine halbe Stunde Italienisch. Die Aussprache ist schwer, aber ich habe Geduld. Mein Tipp: Man sollte keine Angst vor Fehlern haben.\n\nViele Grüße\nHerr Ali",
     "glossary": [
      {
       "de": "einen Hund ausführen",
@@ -15281,7 +15281,7 @@
       ],
       "answer": 0,
       "hint": "Treffpunkt …",
-      "explanation": "Treffpunkt: jeden Montag um 18 Uhr im „Zum Löwen“."
+      "explanation": "Treffpunkt: jeden Montag um 18 Uhr im Restaurant „Zum Löwen“."
      },
      {
       "type": "choice",
@@ -15347,7 +15347,7 @@
    },
    "listening": {
     "title": "Annas Präsentation",
-    "script": "Anna: Hallo zusammen! Ich möchte euch heute „Viertel hilft“ vorstellen.\nAnna: Zuerst spreche ich über den Verein, dann über die Hilfsangebote und zum Schluss über den Treffpunkt.\nAnna: „Viertel hilft“ ist eine Nachbarschaftshilfe. Die Mitglieder arbeiten ehrenamtlich.\nAnna: Auf dieser Folie seht ihr die Hilfsangebote: Einkaufshilfe, Hilfe mit dem Hund und Deutsch im Tandem.\nAnna: Das ist ein wichtiger Punkt: Alle helfen ohne Gegenleistung.\nAnna: Jetzt komme ich zum Treffpunkt. Wir treffen uns jeden Montag im „Zum Löwen“.\nAnna: Zum Schluss möchte ich sagen, dass Helfen Spaß macht. Habt ihr Fragen?\nTeilnehmerin: Ja! Kann ich auch am Wochenende helfen?\nAnna: Gute Frage! Das weiß ich leider nicht genau. Du solltest Frau Weber fragen.\nKursleiterin: Danke, Anna! Das war eine gute Präsentation.\nAnna: Vielen Dank für eure Aufmerksamkeit!",
+    "script": "Anna: Hallo zusammen! Ich möchte euch heute „Viertel hilft“ vorstellen.\nAnna: Zuerst spreche ich über den Verein, dann über die Hilfsangebote und zum Schluss über den Treffpunkt.\nAnna: „Viertel hilft“ ist eine Nachbarschaftshilfe. Die Mitglieder arbeiten ehrenamtlich.\nAnna: Auf dieser Folie seht ihr die Hilfsangebote: Einkaufshilfe, Hilfe mit dem Hund und Deutsch im Tandem.\nAnna: Das ist ein wichtiger Punkt: Alle helfen ohne Gegenleistung.\nAnna: Jetzt komme ich zum Treffpunkt. Wir treffen uns jeden Montag im Restaurant „Zum Löwen“.\nAnna: Zum Schluss möchte ich sagen, dass Helfen Spaß macht. Habt ihr Fragen?\nTeilnehmerin: Ja! Kann ich auch am Wochenende helfen?\nAnna: Gute Frage! Das weiß ich leider nicht genau. Du solltest Frau Weber fragen.\nKursleiterin: Danke, Anna! Das war eine gute Präsentation.\nAnna: Vielen Dank für eure Aufmerksamkeit!",
     "questions": [
      {
       "type": "choice",
@@ -15431,7 +15431,7 @@
       ],
       "answer": 1,
       "hint": "jeden …",
-      "explanation": "Wir treffen uns jeden Montag im „Zum Löwen“."
+      "explanation": "Wir treffen uns jeden Montag im Restaurant „Zum Löwen“."
      },
      {
       "type": "choice",
@@ -15601,7 +15601,7 @@
      "Gib einem Freund Tipps gegen Lampenfieber."
     ],
     "examples": [
-     "„Viertel hilft“ ist eine Nachbarschaftshilfe. Die Mitglieder helfen ehrenamtlich, zum Beispiel beim Einkaufen. Der Treffpunkt ist jeden Montag im „Zum Löwen“.",
+     "„Viertel hilft“ ist eine Nachbarschaftshilfe. Die Mitglieder helfen ehrenamtlich, zum Beispiel beim Einkaufen. Der Treffpunkt ist jeden Montag im Restaurant „Zum Löwen“.",
      "Ich lerne seit drei Monaten Deutsch. Ich übe jeden Tag zehn Minuten und mache ein Tandem. Man sollte mutig sein.",
      "Du solltest langsam sprechen. Du solltest vorher ein Glas Wasser trinken. Und du solltest laut üben."
     ]

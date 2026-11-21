@@ -3140,7 +3140,7 @@
     "prompt": "Write in German: Do you know whether the ticket (die Fahrkarte) is valid?",
     "answers": [
      "Weißt du, ob die Fahrkarte gültig ist?",
-     "Weißt du, ob der Fahrschein gültig ist."
+     "Weißt du, ob der Fahrschein gültig ist?"
     ],
     "hint": "Weißt du, ob, then the subject and the verb last.",
     "explanation": "Weißt du, ob die Fahrkarte gültig ist?",
@@ -8357,8 +8357,8 @@
        "en": "The office is upstairs."
       },
       {
-       "de": "Die Koffer sind oben im Zug.",
-       "en": "The suitcases are up on the rack in the train."
+       "de": "Die Koffer liegen oben.",
+       "en": "The suitcases are up there."
       }
      ]
     },

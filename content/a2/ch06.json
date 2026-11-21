@@ -12994,7 +12994,7 @@
      "deeper": {
       "text": "Mira writes the message as short sentences: Anruf von Frau Weber. Sie braucht morgen den alten Lieferwagen. Bitte zurückrufen: 030 4521. The infinitive bitte zurückrufen is a short command, typical for notes. Herr Ali reads it and calls back.",
       "example": {
-       "de": "Herr Ali, bitte Frau Weber zurückrufen.",
+       "de": "Herr Ali, bitte rufen Sie Frau Weber zurück.",
        "en": "Herr Ali, please call Frau Weber back.",
        "parts": [
         [
@@ -13006,11 +13006,19 @@
          "other"
         ],
         [
+         "rufen",
+         "verb"
+        ],
+        [
+         "Sie",
+         "subject"
+        ],
+        [
          "Frau Weber",
          "object"
         ],
         [
-         "zurückrufen.",
+         "zurück.",
          "verb2"
         ]
        ]
@@ -13435,8 +13443,8 @@
        "en": "The line is busy."
       },
       {
-       "de": "Herr Ali ist in der Leitung.",
-       "en": "Herr Ali is on the line."
+       "de": "Bleiben Sie bitte in der Leitung.",
+       "en": "Please stay on the line."
       }
      ],
      "forms": "die Leitungen"
@@ -13668,7 +13676,7 @@
       "prompt": "Where does Leon work in the evening?",
       "options": [
        "at the reception",
-       "in the restaurant Zum Löwen",
+       "in the restaurant „Zum Löwen“",
        "in a big firm"
       ],
       "answer": 1,
@@ -14578,7 +14586,7 @@
    },
    "listening": {
     "title": "Ein Anruf für Herrn Ali",
-    "script": "Mira: Restaurant „Zum Löwen“, Mira am Apparat, guten Tag.\nFrau Weber: Guten Tag, hier spricht Frau Weber. Könnten Sie mich bitte mit Herrn Ali verbinden?\nMira: Einen Moment, bitte. … Es tut mir leid, Herr Ali ist leider nicht da. Er ist auf dem Markt.\nFrau Weber: Ach so. Könnten Sie ihm bitte etwas ausrichten?\nMira: Gern. Was kann ich ihm sagen?\nFrau Weber: Ich brauche am Samstag den alten Lieferwagen. Ich habe einen großen Schrank, und mein Auto ist zu klein.\nMira: Am Samstag, den Lieferwagen. Wie schreibt man Ihren Namen?\nFrau Weber: Weber: W-E-B-E-R.\nMira: Und Ihre Telefonnummer?\nFrau Weber: Die Vorwahl ist 030, dann 4521.\nMira: Ich wiederhole: Frau Weber, 030 4521, Lieferwagen am Samstag.\nFrau Weber: Richtig. Ich werde morgen noch einmal anrufen.\nMira: Gut. Herr Ali ruft Sie sicher heute Abend zurück.\nFrau Weber: Vielen Dank für Ihre Hilfe. Auf Wiederhören!\nMira: Auf Wiederhören, Frau Weber!",
+    "script": "Mira: Restaurant „Zum Löwen“, Mira am Apparat, guten Tag.\nFrau Weber: Guten Tag, hier spricht Frau Weber. Könnten Sie mich bitte mit Herrn Ali verbinden?\nMira: Einen Moment, bitte. … Es tut mir leid, Herr Ali ist nicht da. Er ist auf dem Markt.\nFrau Weber: Ach so. Könnten Sie ihm bitte etwas ausrichten?\nMira: Gern. Was kann ich ihm sagen?\nFrau Weber: Ich brauche am Samstag den alten Lieferwagen. Ich habe einen großen Schrank, und mein Auto ist zu klein.\nMira: Am Samstag, den Lieferwagen. Wie schreibt man Ihren Namen?\nFrau Weber: Weber: W-E-B-E-R.\nMira: Und Ihre Telefonnummer?\nFrau Weber: Die Vorwahl ist 030, dann 4521.\nMira: Ich wiederhole: Frau Weber, 030 4521, Lieferwagen am Samstag.\nFrau Weber: Richtig. Ich werde morgen noch einmal anrufen.\nMira: Gut. Herr Ali ruft Sie sicher heute Abend zurück.\nFrau Weber: Vielen Dank für Ihre Hilfe. Auf Wiederhören!\nMira: Auf Wiederhören, Frau Weber!",
     "questions": [
      {
       "type": "choice",
@@ -14586,7 +14594,7 @@
       "options": [
        "Hallo, wer ist da?",
        "Hier ist Mira.",
-       "Restaurant Zum Löwen, Mira am Apparat, guten Tag."
+       "Restaurant „Zum Löwen“, Mira am Apparat, guten Tag."
       ],
       "answer": 2,
       "hint": "Step 1.",

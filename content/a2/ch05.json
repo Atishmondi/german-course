@@ -1707,15 +1707,11 @@
        ]
       },
       {
-       "de": "Der Schein und die Münze sind Bargeld.",
-       "en": "The banknote and the coin are cash.",
+       "de": "Scheine und Münzen sind Bargeld.",
+       "en": "Banknotes and coins are cash.",
        "parts": [
         [
-         "Der",
-         "article"
-        ],
-        [
-         "Schein",
+         "Scheine",
          "noun"
         ],
         [
@@ -1723,11 +1719,7 @@
          "conjunction"
         ],
         [
-         "die",
-         "article"
-        ],
-        [
-         "Münze",
+         "Münzen",
          "noun"
         ],
         [
@@ -4648,8 +4640,8 @@
        "en": "Ben applies for an ID card."
       },
       {
-       "de": "Wir haben einen Termin beantragt.",
-       "en": "We have asked for an appointment."
+       "de": "Wir haben den Personalausweis beantragt.",
+       "en": "We have applied for the ID card."
       }
      ],
      "forms": "beantragt, hat beantragt"
@@ -6172,8 +6164,8 @@
     "point": "Softening words (bitte, vielleicht, mal, kurz) stand after the subject and the pronoun, before the infinitive. In weil, wenn and dass clauses könnte goes to the very end, after the infinitive: …, wenn Sie mir helfen könnten. With ich or wir, könnte makes an offer: Ich könnte morgen wiederkommen. In a polite question the voice goes up at the end.",
     "oneLine": "Softening words in the middle; in a clause, könnte at the very end.",
     "mistake": {
-     "wrong": "Ich glaube, dass Sie könnten mir helfen.",
-     "right": "Ich glaube, dass Sie mir helfen könnten.",
+     "wrong": "Ich hoffe, dass Sie könnten mir helfen.",
+     "right": "Ich hoffe, dass Sie mir helfen könnten.",
      "why": "After dass the conjugated verb goes to the very end: first the infinitive helfen, then könnten."
     }
    },
@@ -6736,15 +6728,15 @@
        ]
       },
       {
-       "de": "Ich glaube, dass Sie mir eine Auskunft geben könnten.",
-       "en": "I think that you could give me some information.",
+       "de": "Ich hoffe, dass Sie mir eine Auskunft geben könnten.",
+       "en": "I hope that you could give me some information.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "glaube,",
+         "hoffe,",
          "verb"
         ],
         [
@@ -6819,15 +6811,15 @@
      "deeper": {
       "text": "In the clause the order is the same as with können: conjunction, subject, the rest, the infinitive, and then the conjugated verb at the very end. With könnte this means that the dotted chip is the very last word before the full stop. Always ask yourself: which verb changes with the person? It goes to the end.",
       "example": {
-       "de": "Ich glaube, dass ihr mir helfen könntet.",
-       "en": "I think that you (all) could help me.",
+       "de": "Ich hoffe, dass ihr mir helfen könntet.",
+       "en": "I hope that you (all) could help me.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "glaube,",
+         "hoffe,",
          "verb"
         ],
         [
@@ -7221,12 +7213,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich glaube, dass Sie mir helfen ___. (könnte, with Sie)",
+     "prompt": "Complete: Ich hoffe, dass Sie mir helfen ___. (könnte, with Sie)",
      "answers": [
       "könnten"
      ],
      "hint": "Wenn: the verb is last.",
-     "explanation": "Ich glaube, dass Sie mir helfen könnten.",
+     "explanation": "Ich hoffe, dass Sie mir helfen könnten.",
      "grammar": true
     },
     {
@@ -7364,7 +7356,7 @@
       "könnten."
      ],
      "hint": "The infinitive, then könnten last.",
-     "explanation": "Ich glaube, dass Sie mir eine Auskunft geben könnten.",
+     "explanation": "Ich hoffe, dass Sie mir eine Auskunft geben könnten.",
      "grammar": true
     },
     {
@@ -10142,7 +10134,7 @@
     },
     {
      "title": "Leon fährt in die Stadt: everything together",
-     "body": "Follow Leon through town. Every step has a wo or a wohin: Leon fährt mit dem Rad in die Stadt (wohin). Bei Rot wartet er an der Ampel (wo). Er parkt das Rad am Bürgersteig (wo). Dann geht er zu Fuß auf den lebendigen Platz (wohin, masculine accusative -en).",
+     "body": "Follow Leon through town. Every step has a wo or a wohin: Leon fährt mit dem Rad in die Stadt (wohin). Bei Rot wartet er an der Ampel (wo). Er parkt das Rad auf dem Bürgersteig (wo). Dann geht er zu Fuß auf den lebendigen Platz (wohin, masculine accusative -en).",
      "lead": "You have learned the verbs, the endings, the city words and the no-article chunks. This card puts all of them into one short trip through town.",
      "examples": [
       {
@@ -10176,8 +10168,8 @@
        ]
       },
       {
-       "de": "Er parkt das Rad am Bürgersteig.",
-       "en": "He parks the bike by the pavement.",
+       "de": "Er parkt das Rad auf dem Bürgersteig.",
+       "en": "He parks the bike on the pavement.",
        "parts": [
         [
          "Er",
@@ -10196,8 +10188,12 @@
          "noun"
         ],
         [
-         "am",
+         "auf",
          "preposition"
+        ],
+        [
+         "dem",
+         "article"
         ],
         [
          "Bürgersteig.",
@@ -10249,7 +10245,7 @@
       }
      ],
      "deeper": {
-      "text": "Parken (to park) is a place verb for the thing you leave: the bike stays there, so am Bürgersteig is dative. Gehen auf den Platz is movement, so it is accusative, and lebendig gets -en because den is not an easy spot. When you tell a trip, check each phrase: is the person moving there, or already there?",
+      "text": "Parken (to park) is a place verb for the thing you leave: the bike stays there, so auf dem Bürgersteig is dative. Gehen auf den Platz is movement, so it is accusative, and lebendig gets -en because den is not an easy spot. When you tell a trip, check each phrase: is the person moving there, or already there?",
       "example": {
        "de": "Auf dem lebendigen Platz trifft er Mira.",
        "en": "In the lively square he meets Mira.",
@@ -10293,7 +10289,7 @@
      "steps": [
       "Leon fährt mit dem Rad in die Stadt. (wohin: accusative)",
       "Bei Rot wartet er an der Ampel. (wo: dative)",
-      "Er parkt das Rad am Bürgersteig. (wo: dative)",
+      "Er parkt das Rad auf dem Bürgersteig. (wo: dative)",
       "Er geht zu Fuß auf den lebendigen Platz. (wohin: accusative, -en)",
       "Auf dem lebendigen Platz trifft er Mira. (wo: dative, -en)"
      ]
@@ -12418,8 +12414,8 @@
    "cards": [
     {
      "intro": true,
-     "title": "Before we start: Leon’s first day at Zum Löwen",
-     "body": "In lessons 4 and 5 you asked politely with könnte: Könnten Sie das bitte wiederholen? In chapter 4 you learned sich entschuldigen. Today Leon works a trial shift in Herrn Alis restaurant, Zum Löwen. A guest has a problem. Leon asks again, buys time, apologises and offers a solution, and you learn to do the same.",
+     "title": "Before we start: Leon’s first day at „Zum Löwen“",
+     "body": "In lessons 4 and 5 you asked politely with könnte: Könnten Sie das bitte wiederholen? In chapter 4 you learned sich entschuldigen. Today Leon works a trial shift in Herrn Alis restaurant, „Zum Löwen“. A guest has a problem. Leon asks again, buys time, apologises and offers a solution, and you learn to do the same.",
      "steps": [
       "You already know: könnte for requests and offers, softeners like bitte and kurz, sich entschuldigen, and the adjective endings.",
       "New today: words for a shift in a restaurant and four steps to manage a tricky situation.",
@@ -12523,7 +12519,7 @@
      "more": "Think of a tricky moment as a small staircase with four steps. Step 1: you did not understand, so you ask again. Step 2: you need a moment, so you buy time. Step 3: you name the problem and say sorry. Step 4: you offer a solution with könnte. Leon climbs these four steps today, and every step has one or two short sentences you can learn as blocks."
     },
     {
-     "title": "Das Probearbeiten: a trial shift at Zum Löwen",
+     "title": "Das Probearbeiten: a trial shift at „Zum Löwen“",
      "body": "Before you get a job in a restaurant you often work one shift for free: das Probearbeiten. Die Schicht is a work shift. Leon carries das Tablett (the tray), notes die Bestellung (the order) and serves the food: servieren. Herr Ali asks: Könntest du heute die Bestellungen notieren? Notieren means to write down.",
      "lead": "You can ask and offer politely with könnte. Now you go to work with Leon and learn the words for a shift in a restaurant.",
      "examples": [
@@ -12631,7 +12627,7 @@
       }
      ],
      "deeper": {
-      "text": "Servieren and notieren end in -ieren. Verbs like this have no ge- in the Perfekt: Leon hat das Essen serviert, er hat die Bestellung notiert. The restaurant is called Zum Löwen, but inside a sentence people just say im Löwen: dative, because it is where Leon works.",
+      "text": "Servieren and notieren end in -ieren. Verbs like this have no ge- in the Perfekt: Leon hat das Essen serviert, er hat die Bestellung notiert. The restaurant is called „Zum Löwen“, but inside a sentence people just say im Löwen: dative, because it is where Leon works.",
       "example": {
        "de": "Leon hat die Bestellung notiert.",
        "en": "Leon wrote down the order.",
@@ -14335,7 +14331,7 @@
    "day": 2,
    "reading": {
     "title": "Mira eröffnet ein Konto",
-    "text": "Liebe Kundin,\nvielen Dank für Ihre Nachricht. Ihr Termin für das Girokonto ist am Dienstag um 10 Uhr in der Filiale am Markt. Bitte bringen Sie Ihre Unterlagen mit: den Personalausweis, die Bescheinigung vom Bürgeramt und den Mietvertrag. Die Beratung dauert etwa eine halbe Stunde.\nMit freundlichen Grüßen\nIhre Bank\n\nGuten Tag,\nvielen Dank für die Nachricht. Leider kann ich am Dienstag nicht kommen, denn ich habe um 10 Uhr einen Kurs. Könnten Sie mir bitte einen Termin am Mittwoch geben? Und ich hätte noch eine Frage: Muss ich Bargeld mitbringen? Könnten Sie mir das bitte kurz sagen? Danke für Ihr Verständnis.\nViele Grüße\nMira",
+    "text": "Sehr geehrte Kundin,\nvielen Dank für Ihre Nachricht. Ihr Termin für das Girokonto ist am Dienstag um 10 Uhr in der Filiale am Markt. Bitte bringen Sie Ihre Unterlagen mit: den Personalausweis, die Bescheinigung vom Bürgeramt und den Mietvertrag. Die Beratung dauert etwa eine halbe Stunde.\nMit freundlichen Grüßen\nIhre Bank\n\nGuten Tag,\nvielen Dank für die Nachricht. Leider kann ich am Dienstag nicht kommen, denn ich habe um 10 Uhr einen Kurs. Könnten Sie mir bitte einen Termin am Mittwoch geben? Und ich hätte noch eine Frage: Muss ich Bargeld mitbringen? Könnten Sie mir das bitte kurz sagen? Danke für Ihr Verständnis.\nViele Grüße\nMira",
     "glossary": [
      {
       "de": "der Markt",
@@ -14631,12 +14627,12 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Ich glaube, dass Sie mir helfen ___. (könnte, with Sie)",
+      "prompt": "Complete: Ich hoffe, dass Sie mir helfen ___. (könnte, with Sie)",
       "answers": [
        "könnten"
       ],
       "hint": "After wenn the verb is last.",
-      "explanation": "Ich glaube, dass Sie mir helfen könnten.",
+      "explanation": "Ich hoffe, dass Sie mir helfen könnten.",
       "grammar": true
      },
      {
@@ -14932,7 +14928,7 @@
    },
    "listening": {
     "title": "Probearbeiten im Löwen",
-    "script": "Gast: Entschuldigung, dieser Tisch ist zu laut. Hier ist die Tür.\nLeon: Entschuldigung, wie bitte? Könnten Sie das bitte wiederholen?\nGast: Der Tisch an der Tür ist zu laut. Ich möchte bitte an den großen Tisch am Fenster.\nLeon: Einen Moment, bitte. Ich frage kurz nach.\nLeon: Herr Ali, ist der große Tisch am Fenster frei?\nHerr Ali: Nein, der ist reserviert, für acht Uhr. Aber der kleine Tisch in der Ecke ist frei. Dort ist es ruhig.\nLeon: Es tut mir leid, der große Tisch ist reserviert. Ich könnte Ihnen den kleinen Tisch in der Ecke geben. Dort ist es ruhiger.\nGast: Gut, das passt. Und könnten Sie mir die Speisekarte bringen?\nLeon: Natürlich. Ich komme sofort.\nHerr Ali: Leon, das war super. Du hast ruhig reagiert und eine Lösung gefunden. Du bist zuverlässig.\nLeon: Danke, Herr Ali!",
+    "script": "Gast: Entschuldigung, dieser Tisch ist zu laut. Er steht direkt an der Tür.\nLeon: Entschuldigung, wie bitte? Könnten Sie das bitte wiederholen?\nGast: Der Tisch an der Tür ist zu laut. Ich möchte bitte an den großen Tisch am Fenster.\nLeon: Einen Moment, bitte. Ich frage kurz nach.\nLeon: Herr Ali, ist der große Tisch am Fenster frei?\nHerr Ali: Nein, der ist reserviert, für acht Uhr. Aber der kleine Tisch in der Ecke ist frei. Dort ist es ruhig.\nLeon: Es tut mir leid, der große Tisch ist reserviert. Ich könnte Ihnen den kleinen Tisch in der Ecke geben. Dort ist es ruhiger.\nGast: Gut, das passt. Und könnten Sie mir die Speisekarte bringen?\nLeon: Natürlich. Ich komme sofort.\nHerr Ali: Leon, das war super. Du hast ruhig reagiert und eine Lösung gefunden. Du bist zuverlässig.\nLeon: Danke, Herr Ali!",
     "questions": [
      {
       "type": "choice",
