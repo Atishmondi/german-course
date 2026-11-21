@@ -144,7 +144,7 @@
     el.onclick=e=>{
       const b=e.target.closest('[data-act]'); if(!b||!el.contains(b)||b.disabled)return;
       const act=b.dataset.act, s=cfg.screens[i];
-      if(act==='pause'){api.save();api.onExit&&api.onExit();return;}
+      if(act==='pause'){api.save();if(cfg.onPause&&cfg.onPause())return;api.onExit&&api.onExit();return;}
       if(act==='back')return go(i-1);
       if(act==='phase')return go(Number(b.dataset.i));
       if(act==='reset-ask'||act==='over-ask'){ask=act==='over-ask'?'all':'section';return draw(false);}
@@ -281,20 +281,21 @@
           <p class="lp-muted">A good quiz score shows the rule is starting to stick. Saying it in real conversations is the next step.</p>
           ${nw||pr?`<div class="lp-extra"><span class="lp-label">Extra mile (optional)</span>${nw?`<p>Nicos Weg</p><ul>${nw}</ul>`:''}${pr?`<p>More practice</p><ul>${pr}</ul>`:''}</div>`:''}
           ${ready()?'':'<p class="lp-fb-bad">Some questions are still open. Go back and answer them first.</p>'}
-          <div class="lp-actions"><button type="button" class="lp-btn lp-next" data-act="finish"${ready()?'':' disabled'}>${redo()?'Finish redo':done?'Back to the day':`Finish ${esc(name)}`} →</button>
+          <div class="lp-actions"><button type="button" class="lp-btn lp-next" data-act="pause"${ready()?'':' disabled'}>${redo()?'Finish redo':done?'Back to the day':'Save &amp; pause'} →</button>
             ${ready()?'':'<button type="button" class="lp-btn lp-ghost" data-act="first-open">Go to open question</button>'}
             ${done&&!redo()?'<button type="button" class="lp-btn lp-ghost" data-act="redo">Redo lesson</button>':''}</div>`;}}
     ];
     engine(el,api,{title:lesson.title,kind:'lesson',screens,redo,over:{label:'Start lesson over',keys:()=>lessonKeys(lesson)},start:redo()?rec.step:Math.min(rec.step,firstOpen(screens,st)),
       banner:()=>redo()?'<p class="lp-banner">Redo. Your first score stays saved; this run is practice.</p>':'',
       onStep:n=>{api.getState().lessons[id].step=n;},
+      // the lesson is completed only by Save & pause, once every question is answered (user's rule)
+      onPause:()=>{if(!ready())return false;const s=api.getState(),r=K.section(s,id,'check',lesson.check);api.onDone({kind:'lesson',id,right:r.right,total:r.total,redo:redo()});return true;},
       act:(act,b,ctx)=>{
         if(act==='step'){const sk=`${id}#${screens[ctx.index()].card}`;stepsShown[sk]=(stepsShown[sk]||1)+1;ctx.redraw();el.querySelector('.lp-steps li:last-child')?.scrollIntoView?.({block:'nearest'});(el.querySelector('[data-act="step"]')||el.querySelector('.lp-next:not([disabled])'))?.focus();}
         if(act==='more'){const sk=`${id}#${screens[ctx.index()].card}`,o=!moreShown[sk];moreShown[sk]=o;b.setAttribute('aria-expanded',String(o));el.querySelector('#lp-more-t').hidden=!o;}
         if(act==='said'){b.setAttribute('aria-pressed','true');b.textContent='✓ Well done';}
         if(act==='first-open')ctx.go(firstOpen(screens,api.getState()));
         if(act==='redo'){if(K.startRedo(api.getState(),id,lessonKeys(lesson))){Object.keys(pending).forEach(k=>delete pending[k]);api.save();ctx.go(0);}}
-        if(act==='finish'&&ready()){const s=api.getState(),r=K.section(s,id,'check',lesson.check);api.onDone({kind:'lesson',id,right:r.right,total:r.total,redo:redo()});}
       }});
   }
 

@@ -89,9 +89,8 @@
 
   function paintStreak(){paintTop();}
   function paintTop(){
-    const d=dayAt(state.position.day)||days()[days().length-1], c=state.streak.count;
-    document.getElementById('sidenow').innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'')
-      +(c?`<span class="streak"><span aria-hidden="true">🔥</span> ${c}<span class="sr-only"> day streak</span></span>`:'');
+    const d=dayAt(state.position.day)||days()[days().length-1];
+    document.getElementById('sidenow').innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
   }
   function applyReduced(){document.documentElement.classList.toggle('reduced',!!state.settings.reduced);}
 
@@ -215,7 +214,7 @@
     const score=dayScore(d);
     if(!PL.finishDay(plan,state,n,new Date())){btn.disabled=false;toast('Finish every part first, then close the day.');return;}
     save();paintTop();
-    const cel=(k,i)=>MOT?MOT.celebrate(k,Object.assign({streak:state.streak.count},i)):Promise.resolve();
+    const cel=(k,i)=>MOT?MOT.celebrate(k,Object.assign({},i)):Promise.resolve();
     await cel('day',{title:d.title,learned:d.title,right:score.right,total:score.total});
     if(d.dayInWeek===6)await cel('week',{title:`Week ${d.week}`,learned:`Week ${d.week} is done. Rest day next, then onwards.`});
     if(d.dayInWeek===6&&levelEndWeek[d.level]===d.week)await cel('level',{level:levelTitle(d.level),learned:`All of ${levelTitle(d.level)}. Take the practice mock again any time.`});
@@ -307,7 +306,7 @@
       v.innerHTML=`<h1>Progress</h1>
         <section class="pg-hero section"><p class="pg-big"><b>${s.daysDone??0}</b><span>of ${total} study days done</span></p>
           <ul class="pg-figs">${fig(s.lessonsDone??0,'lessons done')}${fig(acc==null?'–':acc+'%','answers right')}${fig(s.wordsSeen??0,'words seen')}</ul></section>
-        <p class="pg-quiet">${state.streak.count} day streak · ${state.stats.answered} answers given</p>
+        <p class="pg-quiet">${state.stats.answered} answers given</p>
         <section class="section chart"><h2>Days finished per week</h2>
           <div class="pg-chart"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Days finished per week, out of 6: ${esc(summary)}">
             <line class="axis" x1="0" x2="${W}" y1="${base}" y2="${base}"/><line class="grid" x1="0" x2="${W}" y1="${top}" y2="${top}"/>${bars}</svg>
@@ -465,7 +464,7 @@
           ${sw('reduced','Reduce motion','No confetti or moving effects')}</section>
         <section class="section"><h2>Checking</h2>
           ${(()=>{const TH={"gold": ["Black and gold", "#000000", "#14213d", "#fca311", "#e5e5e5"], "fiery": ["Fiery ocean", "#780000", "#c1121f", "#fdf0d5", "#003049", "#669bbc"], "deepsea": ["Deep sea", "#00171f", "#003459", "#007ea7", "#00a8e8", "#ffffff"], "classic": ["Black and amber", "#000000", "#16161a", "#f2b866", "#eef1f6"], "lapis": ["Lapis and plum", "#0e1222", "#242b46", "#c3a0e0", "#ece6dc"]};return `<div class="set-block"><p class="set-h">Theme</p><div class="theme-picks" role="group" aria-label="Theme">${Object.entries(TH).map(([k,[n,...c]])=>`<button type="button" class="theme-pick" data-theme-pick="${k}" aria-pressed="${(s.theme||'gold')===k}"><span class="sw">${c.map(x=>`<i style="background:${x}"></i>`).join('')}</span>${n}</button>`).join('')}</div></div>`;})()}
-          ${sw('openAll','Open every day','For checking new chapters. Your progress and streak stay as they are.')}</section>
+          ${sw('openAll','Open every day','For checking new chapters. Your progress stays as it is.')}</section>
         <section class="section"><h2>Listening</h2>
           ${seg('speed','Speech speed',[0.7,0.85,1],x=>x===1?'1×':x+'×')}
           <div class="set"><span class="lbl">Test the German voice</span><button class="btn" type="button" data-test>🔊 Play</button></div></section>
@@ -555,7 +554,7 @@
       if(ok&&MOT){
         const sec=CORE.section(state,id,'check',L.check||[]);
         await MOT.celebrate('lesson',{title:L.title,learned:(L.grammar&&L.grammar.oneLine)||L.title,
-          right:result.right!=null?result.right:sec.right,total:result.total!=null?result.total:sec.total,streak:state.streak.count});
+          right:result.right!=null?result.right:sec.right,total:result.total!=null?result.total:sec.total});
       }else if(!ok)toast('Nearly there: finish the drills, the new sentence on your own and the quiz to complete this lesson.');
     }else if(kind==='skills'){
       const r=state.skillDays[id]||(state.skillDays[id]={step:0,doneAt:null});

@@ -8,7 +8,7 @@
   const MESSAGES=[
     c=>c.right>0?`${c.right} right so far. That is real progress.`:`You are here and working. That is the hard part.`,
     c=>`${c.minutes} minutes of German. Your brain is busy building new paths.`,
-    c=>c.streak>1?`Day ${c.streak} in a row. Quietly impressive.`:`Every streak starts with one day. This is it.`,
+    ()=>`Every day you show up counts. This is one of them.`,
     ()=>`Small steps add up. You are taking one right now.`,
     ()=>`Mistakes are how the rule sticks. Keep them coming.`,
     ()=>`Take a breath. You are doing better than you think.`,
@@ -36,7 +36,7 @@
     ()=>`Halfway feelings are normal. The finish line is closer than it looks.`,
     ()=>`Shoulders down, jaw loose. Then the next one.`,
     ()=>`Toll! That means: great. Because you are doing great.`,
-    c=>c.streak>=7?`${c.streak} days in a row. A real habit is forming.`:`Coming back is the whole secret. You keep coming back.`,
+    ()=>`Coming back is the whole secret. You keep coming back.`,
     ()=>`A short break after this part is a fine idea.`,
     ()=>`Proud of you for sitting down to do this.`,
   ];
