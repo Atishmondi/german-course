@@ -398,7 +398,9 @@
    "a1-c02-01",
    "a1-c06-07",
    "a1-c11-04",
-   "a2-c04-01"
+   "a2-c04-01",
+   "a2-c09-04",
+   "a2-c09-05"
   ]
  },
  {
@@ -1166,7 +1168,9 @@
    "a1-c07-02",
    "a2-c03-04",
    "a2-c07-02",
-   "a2-c08-09"
+   "a2-c08-09",
+   "a2-c09-07",
+   "a2-c09-08"
   ]
  },
  {
@@ -1242,7 +1246,8 @@
    "a2-c06-05",
    "a2-c07-01",
    "a2-c07-03",
-   "a2-c08-01"
+   "a2-c08-01",
+   "a2-c09-05"
   ]
  },
  {
@@ -1825,7 +1830,8 @@
    "a2-c03-08",
    "a2-c04-03",
    "a2-c07-09",
-   "a2-c08-06"
+   "a2-c08-06",
+   "a2-c09-09"
   ]
  },
  {
@@ -2873,7 +2879,9 @@
   ],
   "chapter": "A1 ch 7, 12",
   "lessons": [
-   "a2-c01-07"
+   "a2-c01-07",
+   "a2-c09-01",
+   "a2-c09-02"
   ]
  },
  {
@@ -2899,6 +2907,11 @@
     "Es regnet, trotzdem gehe ich spazieren."
    ],
    [
+    "deswegen / darum",
+    "that's why (= deshalb)",
+    "Ich habe Fieber, darum bleibe ich im Bett."
+   ],
+   [
     "dann",
     "then",
     "Zuerst frühstücke ich, dann gehe ich zur Arbeit."
@@ -2916,7 +2929,10 @@
   ],
   "notes": [
    "After these words: verb, then subject: deshalb bleibe ich (not: deshalb ich bleibe).",
-   "deswegen and darum mean the same as deshalb."
+   "deswegen and darum mean the same as deshalb.",
+   "deshalb and trotzdem can also stand after the verb: Ich bleibe deshalb zu Hause. Wir spielen trotzdem.",
+   "weil gives the reason (verb at the end), deshalb gives the result (verb right after it): Ich trainiere, weil ich gewinnen will. = Ich will gewinnen. Deshalb trainiere ich.",
+   "aber is position 0 (subject first): Es regnet, aber wir spielen. trotzdem is position 1 (verb first): Es regnet, trotzdem spielen wir."
   ],
   "examples": [
    {
@@ -2929,7 +2945,15 @@
    }
   ],
   "videos": [],
-  "chapter": "A2 ch 9; B1 ch 2"
+  "chapter": "A2 ch 9; B1 ch 2",
+  "lessons": [
+   "a2-c09-01",
+   "a2-c09-02",
+   "a2-c09-03",
+   "a2-c09-06",
+   "a2-c09-08",
+   "a2-c09-09"
+  ]
  },
  {
   "id": "a2-conn-end",
@@ -3024,7 +3048,9 @@
    "a2-c07-08",
    "a2-c07-09",
    "a2-c08-03",
-   "a2-c08-09"
+   "a2-c08-09",
+   "a2-c09-01",
+   "a2-c09-03"
   ]
  },
  {
@@ -3158,6 +3184,70 @@
   "lessons": [
    "a2-c08-04",
    "a2-c08-05"
+  ]
+ },
+ {
+  "id": "a2-two-objects",
+  "level": "a2",
+  "group": "Word order",
+  "title": "Two objects: Ich gebe es dir",
+  "why": "Verbs like geben, schenken, zeigen and erklären have a person (dative) and a thing (accusative). Their order depends on nouns or pronouns.",
+  "headers": [
+   "Person (dative)",
+   "Thing (accusative)",
+   "Order",
+   "Example"
+  ],
+  "rows": [
+   [
+    "noun",
+    "noun",
+    "person first",
+    "Ich gebe meinem Bruder den Ball."
+   ],
+   [
+    "pronoun",
+    "noun",
+    "pronoun first (= person first)",
+    "Ich gebe ihm den Ball."
+   ],
+   [
+    "noun",
+    "pronoun",
+    "pronoun first (= thing first)",
+    "Ich gebe ihn meinem Bruder."
+   ],
+   [
+    "pronoun",
+    "pronoun",
+    "thing first",
+    "Ich gebe ihn ihm. / Ich gebe es dir."
+   ]
+  ],
+  "notes": [
+   "Short words before long words: a pronoun comes before a noun.",
+   "Two pronouns: the accusative (the thing) comes first: es dir, ihn ihm, sie ihr.",
+   "With a modal or the Perfekt the second verb still goes to the end: Kannst du es mir zeigen? Ich habe es dir geschickt.",
+   "Typical verbs: geben, schenken, zeigen, leihen, schicken, bringen, erklären, empfehlen, wünschen, zurückgeben, beibringen."
+  ],
+  "examples": [
+   {
+    "de": "Leon schenkt es seinem Vater.",
+    "en": "Leon gives it to his father."
+   },
+   {
+    "de": "Kannst du sie mir erklären?",
+    "en": "Can you explain them to me?"
+   }
+  ],
+  "videos": [
+   "yt:gurtFfgWSzw"
+  ],
+  "chapter": "A1 ch 11; A2 ch 2, 9",
+  "lessons": [
+   "a2-c09-04",
+   "a2-c09-05",
+   "a2-c09-06"
   ]
  },
  {
