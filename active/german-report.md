@@ -1,6 +1,6 @@
 # German check report
 
-556 strings checked. Three independent sources; a string flagged by 2+ sources is most likely wrong.
+582 strings checked. Three independent sources; a string flagged by 2+ sources is most likely wrong.
 
 **Flagged by 2+ sources: 0**
 Add false alarms (names, chosen spellings) to tools/german-ok.txt, one word per line.
@@ -8,8 +8,9 @@ Add false alarms (names, chosen spellings) to tools/german-ok.txt, one word per 
 ## LanguageTool (grammar + spelling): 0 flag(s)
 
 
-## macOS German spell checker: 0 flag(s)
+## macOS German spell checker: 1 flag(s)
 
+- `a2-c07-09.cards[6].examples[0].de` macOS spelling: "Alis" — “Leon ist mit Herrn Alis Lieferwagen zum Bahnhof gekommen.”
 
 ## Wiktionary (noun gender + plural): 0 flag(s)
 
