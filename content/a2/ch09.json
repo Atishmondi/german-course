@@ -51,7 +51,7 @@
     {
      "intro": true,
      "title": "Before we start: from „weil“ to „deshalb“",
-     "body": "This chapter is about sport. Mira plays Volleyball at „SV Kanalufer“, Leon loves Handball, Ben starts running, Anna trains for a Stadtlauf and Frau Weber swims. You already give reasons with weil. Today you learn the word for the result: deshalb.",
+     "body": "This chapter is about sport. Mira plays Volleyball at „SV Kanalufer“, Leon loves Handball, Ben starts running, Anna trains for the city run (der Stadtlauf) and Frau Weber swims. You already give reasons with weil. Today you learn the word for the result: deshalb.",
      "steps": [
       "You already know: weil and denn for a reason (Ich trainiere, weil ich fit werden will) and zuerst / dann with the verb next.",
       "New today: deshalb for a result (Ich will fit werden. Deshalb trainiere ich) and nine words for sport.",
@@ -160,11 +160,11 @@
        "why": "New today: deshalb gives the result, and the verb comes right after it."
       }
      ],
-     "more": "Think of a chain. First comes a reason: I want to get fit. Then comes the result: I train. With weil you start from the reason inside one sentence. With deshalb you say the reason first and then a second sentence with the result. The little word deshalb is the link in the middle."
+     "more": "Picture two sentences on two river banks. On the left bank stands the reason: I want to get fit. On the right bank stands the result: I train. With weil you build the bridge inside one sentence, and the verb falls to the end. With deshalb you keep two separate sentences, and the little word deshalb is the bridge between them. After the bridge the verb walks first, then the person. You already walk that path with zuerst and dann."
     },
     {
      "title": "Sport in the WG: who does what",
-     "body": "Every person in the WG has a Sportart: Mira plays Volleyball in the Sporthalle, Leon watches Handball, Ben runs. A Spieler plays, a Trainer coaches the team. In Handball you score a Tor. A Verletzung is an injury, and sich verletzen means to get hurt.",
+     "body": "Every person in the WG has a sport (die Sportart, plural die Sportarten). Mira plays volleyball in the sports hall, Leon watches handball, Ben runs. Der Spieler plays, der Trainer coaches the team. In handball you score a goal (das Tor). Die Verletzung is an injury; sich verletzen means to get hurt.",
      "lead": "Before the new connector you need the people and places of the chapter. This card gives you nine words for sport, so you can talk about who does what, where.",
      "examples": [
       {
@@ -247,7 +247,7 @@
       }
      ],
      "deeper": {
-      "text": "The words for people have a female form with -in: der Spieler, die Spielerin; der Trainer, die Trainerin. The plural of the male form stays the same (die Spieler), the female plural adds -nen (die Spielerinnen). Verletzung ends in -ung, so it is always die. Sich verletzen uses the reflexive pronoun you know.",
+      "text": "Words for people with -er have a female form with -in: der Spieler, die Spielerin; der Trainer, die Trainerin. The male plural stays the same (die Spieler), the female plural adds -nen (die Spielerinnen). For a mixed group you often hear Spielerinnen und Spieler. Die Verletzung ends in -ung, so it is always die. Sich verletzen needs the reflexive pronoun you already know.",
       "example": {
        "de": "Mira hat sich verletzt.",
        "en": "Mira has hurt herself.",
@@ -271,7 +271,7 @@
        ]
       }
      },
-     "more": "Read the table line by line. Each person has one sport and one place. Say the three sentences out loud. Then change the name or the sport: Ben spielt Handball in der Sporthalle. A Tor is what you shoot in Handball and in football. The Trainer tells the team what to do.",
+     "more": "Imagine the noticeboard in the WG with three name tags. Under each name hang a sport and a place. Read one line aloud: Mira spielt Volleyball in der Sporthalle. Now swap one piece, like in a card game: Ben spielt Handball im Park. Der Spieler plays, der Trainer shouts the plan, and das Tor is the net where the ball must go, in handball and in football. Sich verletzen means you hurt yourself; die Verletzung is the injury afterwards.",
      "table": {
       "headers": [
        "Person",
@@ -295,7 +295,12 @@
         "im Park"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Say who: Mira",
+      "Say the sport: spielt Volleyball",
+      "Say the place: in der Sporthalle"
+     ]
     },
     {
      "title": "Deshalb: the result word",
@@ -434,55 +439,47 @@
       }
      ],
      "deeper": {
-      "text": "The first sentence can be a fact, a feeling or a plan. Deshalb always points back to it. The first sentence keeps its normal word order, because deshalb is not part of it. Only the second sentence changes: deshalb takes the first place, so the verb moves behind it and the subject has to wait.",
+      "text": "Deshalb is an adverb, so it can also move into the middle of the second sentence. Natives often say: Ich will gewinnen. Ich trainiere deshalb jeden Tag. The sentence then keeps its normal order: subject first, verb second, and deshalb right after the verb. The meaning does not change. Starting with Deshalb puts more weight on the result, so use it at the start when you want to stress it.",
       "example": {
-       "de": "Frau Weber schwimmt gern. Deshalb geht sie oft ins Schwimmbad.",
-       "en": "Frau Weber likes swimming. That is why she often goes to the pool.",
+       "de": "Ich will gewinnen. Ich trainiere deshalb jeden Tag.",
+       "en": "I want to win. So I train every day.",
        "parts": [
         [
-         "Frau",
+         "Ich",
          "subject"
         ],
         [
-         "Weber",
-         "subject"
-        ],
-        [
-         "schwimmt",
+         "will",
          "verb"
         ],
         [
-         "gern.",
-         "other"
+         "gewinnen.",
+         "verb2"
         ],
         [
-         "Deshalb",
+         "Ich",
+         "subject"
+        ],
+        [
+         "trainiere",
+         "verb"
+        ],
+        [
+         "deshalb",
          "conjunction"
         ],
         [
-         "geht",
-         "verb"
+         "jeden",
+         "article"
         ],
         [
-         "sie",
-         "subject"
-        ],
-        [
-         "oft",
+         "Tag.",
          "time"
-        ],
-        [
-         "ins",
-         "preposition"
-        ],
-        [
-         "Schwimmbad.",
-         "place"
         ]
        ]
       }
      },
-     "more": "Build the second sentence like this: put deshalb first. Put the verb next. Then say who does it. Then add the rest. Mira trainiert heute becomes Deshalb trainiert sie heute. The verb jumps in front of the person, like in a question without the question mark.",
+     "more": "Build the second sentence like a little train. The engine is deshalb, the first carriage is the verb, the second carriage is the person, and the luggage comes last. Mira trainiert heute turns into Deshalb trainiert sie heute. Compare it with a question: Trainiert sie heute? There too the verb stands in front of the person. The only difference is that deshalb stands in front of the verb, like the engine at the head of the train.",
      "table": {
       "headers": [
        "Reason",
@@ -637,13 +634,13 @@
       }
      ],
      "deeper": {
-      "text": "A full stop gives you two short sentences, which are easy to read. A comma joins them into one flowing sentence. After a comma, deshalb is written with a small d. The meaning does not change. Pick one and keep the verb next to deshalb.",
+      "text": "You can add und in front: Es ist spät, und deshalb geht Ben nach Hause. Und is a position-0 word, so deshalb keeps its place and the verb still comes right after it. This sounds very natural in speech, because und gives you a moment to think. After a comma deshalb is written with a small d. In careful writing, two short sentences with a full stop are often clearer.",
       "example": {
-       "de": "Mira ist erkältet, deshalb bleibt sie heute im Bett.",
-       "en": "Mira has a cold, so she stays in bed today.",
+       "de": "Es ist spät, und deshalb geht Ben nach Hause.",
+       "en": "It is late, and so Ben goes home.",
        "parts": [
         [
-         "Mira",
+         "Es",
          "subject"
         ],
         [
@@ -651,37 +648,37 @@
          "verb"
         ],
         [
-         "erkältet,",
+         "spät,",
          "adjective"
+        ],
+        [
+         "und",
+         "conjunction"
         ],
         [
          "deshalb",
          "conjunction"
         ],
         [
-         "bleibt",
+         "geht",
          "verb"
         ],
         [
-         "sie",
+         "Ben",
          "subject"
         ],
         [
-         "heute",
-         "time"
-        ],
-        [
-         "im",
+         "nach",
          "preposition"
         ],
         [
-         "Bett.",
+         "Hause.",
          "place"
         ]
        ]
       }
      },
-     "more": "Think of deshalb as a door. The verb always walks through the door first, and the person comes after. It does not matter if you put a full stop or a comma in front of the door. The wrong way is to keep the person first, or to push the verb to the end.",
+     "more": "Think of deshalb as a door and of the verb as a polite guest who always walks through the door first. The person comes in after the verb. It makes no difference if you put a full stop or a comma in front of the door. Two mistakes are common. First: the person walks in first (deshalb ich bleibe). Second: the verb is pushed to the very end, like after weil (deshalb ich zu Hause bleibe). Both are wrong. Say it slowly: deshalb, verb, person.",
      "table": {
       "headers": [
        "Wrong",
@@ -808,25 +805,33 @@
       }
      ],
      "deeper": {
-      "text": "The same two facts can be said in two directions: reason first, or result first. The facts stay the same, but the connector flips. Weil and denn belong to the reason sentence, deshalb belongs to the result sentence. If you start with the result, use weil or denn; if you start with the reason, use deshalb.",
+      "text": "Warum asks for a reason, so the answer is a weil-clause, not deshalb: Warum trainierst du so viel? – Weil ich gewinnen will. A weil-clause can stand alone as an answer, and the verb still goes to the end. Deshalb cannot answer Warum? alone, because it gives the result, not the reason. So use weil to answer a question and deshalb to join two statements.",
       "example": {
-       "de": "Ich bin müde, weil ich viel trainiert habe.",
-       "en": "I am tired because I have trained a lot.",
+       "de": "Warum trainierst du so viel? – Weil ich gewinnen will.",
+       "en": "Why do you train so much? – Because I want to win.",
        "parts": [
         [
-         "Ich",
-         "subject"
+         "Warum",
+         "question"
         ],
         [
-         "bin",
+         "trainierst",
          "verb"
         ],
         [
-         "müde,",
-         "adjective"
+         "du",
+         "subject"
         ],
         [
-         "weil",
+         "so viel?",
+         "other"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Weil",
          "conjunction"
         ],
         [
@@ -834,21 +839,17 @@
          "subject"
         ],
         [
-         "viel",
-         "other"
-        ],
-        [
-         "trainiert",
+         "gewinnen",
          "verb2"
         ],
         [
-         "habe.",
+         "will.",
          "verbend"
         ]
        ]
       }
      },
-     "more": "Ask yourself which sentence you say first. If you say the reason first, the second sentence starts with deshalb: verb right after it. If you say the result first, you add the reason with weil (verb at the end) or denn (normal order). A common mistake is Deshalb ich nach Hause gehe: the verb must not go to the end after deshalb.",
+     "more": "Ask yourself which sentence you say first. Reason first? Then the second sentence starts with deshalb, and the verb comes right after it. Result first? Then you add the reason with weil (verb at the end) or denn (normal order). English helps a little: so is deshalb, because is weil or denn. A common trap is Deshalb ich nach Hause gehe: after deshalb the verb must not run to the end. That belongs to weil only.",
      "table": {
       "headers": [
        "Word",
@@ -876,7 +877,12 @@
         "Ich will gewinnen. Deshalb trainiere ich viel."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Weil: the verb goes to the END",
+      "Denn: normal order, the verb stays second",
+      "Deshalb: the verb comes right after it"
+     ]
     },
     {
      "title": "Deshalb with a second verb",
@@ -1011,7 +1017,7 @@
       }
      ],
      "deeper": {
-      "text": "Deswegen and darum work exactly like deshalb: position 1, verb next. The difference is only the style: deshalb is the most common word, so use it when you speak and write. If you hear deswegen or darum, you will understand them without effort. The sentence structure does not change.",
+      "text": "Deswegen and darum work exactly like deshalb: position 1, then the verb. Deswegen is just as common in speech, darum sounds a bit more casual. Darum can also mean about it or for that: Darum geht es nicht means that is not the point. You will meet this in real life, but for now you only need darum = that is why.",
       "example": {
        "de": "Es ist kalt. Darum bleiben wir zu Hause.",
        "en": "It is cold. That is why we stay at home.",
@@ -1041,13 +1047,17 @@
          "subject"
         ],
         [
-         "zu Hause.",
+         "zu",
+         "preposition"
+        ],
+        [
+         "Hause.",
          "place"
         ]
        ]
       }
      },
-     "more": "Think of a sandwich. Deshalb and the first verb are the top. The second verb is the bottom. In the middle goes everything else: the person, nicht, the place. Ich habe Fieber. Deshalb kann ich nicht spielen. Kann is the top, spielen is the bottom. Same for haben and trainiert.",
+     "more": "Think of a sandwich. The top slice is deshalb plus the first verb. The bottom slice is the second verb at the very end. In the middle goes everything else: the person, nicht, the place. Ich habe Fieber. Deshalb kann ich nicht spielen: kann is the top, spielen is the bottom, and ich nicht sits in the middle. With the Perfekt it is the same: haben on top, trainiert at the bottom. The bracket you know from chapter 1 simply stays closed.",
      "table": {
       "headers": [
        "Position 1",
@@ -1079,7 +1089,14 @@
         "trainieren."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Deshalb in position 1",
+      "The first verb (kann, haben, will) right after it",
+      "The subject",
+      "The middle: nicht, the place",
+      "The second verb at the very end"
+     ]
     },
     {
      "title": "Mini dialogue: Ben asks Mira",
@@ -1184,7 +1201,7 @@
       }
      ],
      "deeper": {
-      "text": "Warum asks for a reason, but a good answer can also give the whole story: the reason first, then the result with deshalb. The chunks Ich möchte fit werden and Dann komm mit! are worth learning as they are. Möchte is the polite form of wollen, and werden means to become.",
+      "text": "Möchte is the soft form of wollen. Ich will can sound blunt, so natives choose Ich möchte when they ask or wish for something politely. Dann komm mit! is an invitation: komm is the du-command, and mit is the separable prefix that goes to the end (mitkommen). The question Warum trainierst du so lange? uses so lange for such a long time.",
       "example": {
        "de": "Ich möchte auch Volleyball spielen.",
        "en": "I would like to play volleyball, too.",
@@ -1212,7 +1229,7 @@
        ]
       }
      },
-     "more": "Read the dialogue like a short play. Ben asks, Mira explains with deshalb, Ben says what he wants, Mira invites him. Do not translate word by word. Learn the whole chunk: Dann komm mit! means then come along, and Ich möchte fit werden means I want to get fit.",
+     "more": "Read the dialogue like a tiny play with two actors. Ben asks Warum?, Mira gives the reason and the result in two sentences, Ben says what he wants, and Mira invites him. Do not translate word by word. Learn the chunks whole: Dann komm mit! means then come along, and Ich möchte auch fit werden means I would like to get fit, too. Listen for the reason first, then for the word deshalb, then for the result.",
      "table": {
       "headers": [
        "Who",
@@ -1249,7 +1266,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:SYG_i7rKl_4"
+     "yt:SYG_i7rKl_4",
+     "yt:W7ntnruGJ9k",
+     "yt:Rj2_eX1bFcM"
     ],
     "nicosWeg": [
      "nw:b1-14"
@@ -1274,13 +1293,13 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Mira hat ein Spiel. Deshalb trainiere ich heute.",
-      "Mira hat ein Spiel. Deshalb ich trainiere heute.",
-      "Mira hat ein Spiel. Deshalb heute ich trainiere."
+      "Mira hat ein Spiel. Deshalb trainiert sie heute.",
+      "Mira hat ein Spiel. Deshalb sie trainiert heute.",
+      "Mira hat ein Spiel. Deshalb heute sie trainiert."
      ],
      "answer": 0,
      "hint": "After deshalb comes the verb.",
-     "explanation": "Deshalb trainiere ich heute.",
+     "explanation": "Deshalb trainiert sie heute.",
      "grammar": true
     },
     {
@@ -1876,11 +1895,11 @@
        "why": "New today: trotzdem, the result you do not expect."
       }
      ],
-     "more": "Imagine the weather is bad. The expected result is: we stay at home, so you say deshalb. But Mira's team plays anyway. That is a surprise, and the word for a surprise is trotzdem. It has the same word order as deshalb, so you only have to learn a new meaning."
+     "more": "Imagine the weather is bad. The result you expect is: we stay at home, so you say deshalb. But Mira's team plays anyway. That is a surprise, and the word for a surprise is trotzdem. It has exactly the same word order as deshalb: the verb right behind it, then the person. So you do not learn a new rule today, only a new meaning. Think of deshalb as a green light and trotzdem as running through the red light."
     },
     {
      "title": "A match: win, defeat, draw",
-     "body": "After a game you say the result. Three words matter: der Sieg (3:1), die Niederlage (1:3) and das Unentschieden (2:2). Each team has a Halbzeit, a half, and the Gegner, the other team. You say the score as drei zu eins.",
+     "body": "After a game you say the result. Three words matter: der Sieg (3:1), die Niederlage (1:3) and das Unentschieden (2:2). A game has two halves (die Halbzeit, plural die Halbzeiten), and der Gegner is the other team. You say the score as drei zu eins.",
      "lead": "Before the new connector you need the words for a match. This card gives you five of them, so you can tell how a game ended.",
      "examples": [
       {
@@ -1959,35 +1978,39 @@
       }
      ],
      "deeper": {
-      "text": "Der Sieg and die Niederlage are nouns: Das war ein Sieg. Das war eine Niederlage. Gewinnen, verlieren and unentschieden spielen are the verbs. Das Unentschieden has the same form in the plural. The Gegner is the opponent; a woman is die Gegnerin. You say zu between the two numbers.",
+      "text": "Der Sieg and die Niederlage are nouns, gewinnen and verlieren are the verbs. To say against whom, use gegen with the accusative: Wir haben gegen den Gegner verloren. A woman is die Gegnerin. Das Unentschieden has the same form in the plural. You say zu between the two numbers, and the higher number often comes first for the winner.",
       "example": {
-       "de": "Der Gegner war sehr stark.",
-       "en": "The opponent was very strong.",
+       "de": "Wir haben gegen den Gegner verloren.",
+       "en": "We lost against the opponent.",
        "parts": [
         [
-         "Der",
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "gegen",
+         "preposition"
+        ],
+        [
+         "den",
          "article"
         ],
         [
          "Gegner",
-         "subject"
+         "object"
         ],
         [
-         "war",
-         "verb"
-        ],
-        [
-         "sehr",
-         "other"
-        ],
-        [
-         "stark.",
-         "adjective"
+         "verloren.",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "Think about the final whistle. Your team has more goals: ein Sieg. The other team has more: eine Niederlage. Both have the same number: ein Unentschieden. Read the score as two numbers with zu in the middle: 3:1 is drei zu eins. Wir haben gewonnen, verloren or unentschieden gespielt.",
+     "more": "Think about the final whistle. Your team has more goals: that is ein Sieg. The other team has more: that is eine Niederlage. Both teams have the same number: ein Unentschieden. Read the score as two numbers with zu in the middle: 3:1 is drei zu eins. Then say what you did: Wir haben gewonnen, verloren or unentschieden gespielt. Try it with your own football or handball score from last week.",
      "table": {
       "headers": [
        "Score",
@@ -2126,7 +2149,7 @@
       }
      ],
      "deeper": {
-      "text": "Trotzdem says: the second sentence is the opposite of what you would expect after the first. Cold weather usually means no running, so Es ist kalt. Trotzdem läuft Ben is a surprise. The first sentence is a normal main sentence. Only the second one starts with trotzdem and changes its word order.",
+      "text": "Trotzdem says that the second sentence is the opposite of what you would expect after the first. Cold weather usually means no running, so Es ist kalt. Trotzdem läuft Ben is a surprise. Later you will also meet obwohl, which means although and sends the verb to the end: Ben läuft, obwohl es kalt ist. It tells the same story with a different word order.",
       "example": {
        "de": "Es ist kalt. Trotzdem läuft Ben im Park.",
        "en": "It is cold. Even so, Ben runs in the park.",
@@ -2166,7 +2189,7 @@
        ]
       }
      },
-     "more": "Trotzdem is a word of surprise. First you say a problem: It rains. Then you say what happens: Even so, we play. Put trotzdem first, then the verb, then the person. It is the same as deshalb, only the meaning is different. Use it when the second sentence is a surprise.",
+     "more": "Trotzdem is the word of surprise. First you say a problem: It rains. Then you say what happens against all hope: Even so, we play. Put trotzdem first, then the verb, then the person. It is the same train as deshalb, only the passengers are different. A good test: say But still! in English after the first sentence. If But still! fits, you need trotzdem. Use it whenever the second sentence is a surprise.",
      "table": {
       "headers": [
        "Problem",
@@ -2320,7 +2343,7 @@
       }
      ],
      "deeper": {
-      "text": "The words themselves do not carry good or bad news. They only show how the second sentence relates to the first. When the result fits, say deshalb. When it does not fit, say trotzdem. If you swap them, the sentence still sounds correct, but you tell a different story.",
+      "text": "The test depends on what the speaker thinks is normal. For most people a cold means rest, but a hard-working athlete may say Trotzdem trainiere ich and be proud of it. The same first sentence can take either word, so you choose by the story you want to tell. If you are unsure, ask: would the listener be surprised? Then trotzdem.",
       "example": {
        "de": "Ben hat keine Zeit. Trotzdem kommt er zum Training.",
        "en": "Ben has no time. Even so, he comes to training.",
@@ -2364,7 +2387,7 @@
        ]
       }
      },
-     "more": "Use the test in three steps. Read the first sentence. Ask: what do I expect next? If the second sentence says that, use deshalb. If it says the opposite, use trotzdem. Mira is ill: you expect that she stays at home. Deshalb fits. If she trains, it is a surprise: trotzdem.",
+     "more": "Use the test in three steps. First read the first sentence. Second ask: what do I expect next? Third compare. If the second sentence says what you expect, use deshalb. If it says the opposite, use trotzdem. Mira is ill: you expect that she stays at home, so Deshalb fits. If she trains anyway, you did not expect it, so you need Trotzdem. The two words never swap places freely: the story decides.",
      "table": {
       "headers": [
        "Sentence 1",
@@ -2394,7 +2417,7 @@
     {
      "title": "Aber or trotzdem? Position 0 or position 1",
      "body": "Aber and trotzdem both show a contrast, but their word order differs. Aber is position 0: the sentence goes on normally with the subject. Trotzdem is position 1: the verb comes next. Es regnet, aber wir spielen. Es regnet, trotzdem spielen wir.",
-     "lead": "You know aber from chapter 1. Trotzdem means almost the same, so this card shows you the difference in word order.",
+     "lead": "You already know aber from earlier chapters. Trotzdem means almost the same, so this card shows you the difference in word order.",
      "examples": [
       {
        "de": "Es regnet, aber wir spielen.",
@@ -2488,10 +2511,10 @@
       }
      ],
      "deeper": {
-      "text": "The meaning is very close, but trotzdem is stronger. It says even so, in spite of this, while aber is softer and just contrasts two things. Aber does not change the order of the second part, because it is a position-0 word. Trotzdem takes position 1, so the verb must follow it.",
+      "text": "In speech you often hear both words together: Es ist kalt, aber trotzdem trainieren wir. Aber stays in position 0, so trotzdem is still the first word of its clause and the verb follows it. The double contrast sounds strong, a bit like but still. In careful writing one of the two is usually enough, because trotzdem alone already says it.",
       "example": {
-       "de": "Es ist kalt, aber wir trainieren.",
-       "en": "It is cold, but we train.",
+       "de": "Es ist kalt, aber trotzdem trainieren wir.",
+       "en": "It is cold, but we still train.",
        "parts": [
         [
          "Es",
@@ -2510,17 +2533,21 @@
          "conjunction"
         ],
         [
-         "wir",
-         "subject"
+         "trotzdem",
+         "conjunction"
         ],
         [
-         "trainieren.",
+         "trainieren",
          "verb"
+        ],
+        [
+         "wir.",
+         "subject"
         ]
        ]
       }
      },
-     "more": "Look at the second part of the sentence. After aber you start with the person: wir spielen. After trotzdem you start with the verb: spielen wir. If you put the person first after trotzdem (trotzdem wir spielen), it is a mistake, because trotzdem already stands in front of the verb.",
+     "more": "Look at the second part of the sentence. After aber you start with the person: wir spielen. After trotzdem you start with the verb: spielen wir. If you put the person first after trotzdem (trotzdem wir spielen), it is a mistake, because trotzdem already stands in front of the verb. Imagine a queue: aber waits outside the door (position 0), trotzdem stands inside at the front (position 1), and the verb must be next in line.",
      "table": {
       "headers": [
        "Word",
@@ -2542,11 +2569,17 @@
         "Es regnet, trotzdem spielen wir."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Aber stands outside: position 0",
+      "The subject follows: Es regnet, aber wir spielen",
+      "Trotzdem stands in position 1",
+      "The verb follows: Es regnet, trotzdem spielen wir"
+     ]
     },
     {
      "title": "Trotzdem in the middle, and more verbs",
-     "body": "Trotzdem can also stand after the verb: Wir spielen trotzdem. Then the sentence keeps its normal order. With the Perfekt, trotzdem stands before the participle: Wir haben trotzdem gewonnen. And in position 1: Trotzdem müssen wir mehr üben. You can keep going: Wir machen weiter.",
+     "body": "Trotzdem can also stand after the verb: Wir spielen trotzdem. Then the sentence keeps its normal order. With the Perfekt, trotzdem stands before the participle: Wir haben trotzdem gewonnen. At the start it is still position 1: Trotzdem müssen wir mehr üben.",
      "lead": "Trotzdem does not always begin the sentence. Here you see it inside the sentence and with modal verbs and the Perfekt.",
      "examples": [
       {
@@ -2626,10 +2659,78 @@
          "verb2"
         ]
        ]
+      },
+      {
+       "de": "Trotzdem müssen wir mehr üben.",
+       "en": "Even so, we have to practise more.",
+       "parts": [
+        [
+         "Trotzdem",
+         "conjunction"
+        ],
+        [
+         "müssen",
+         "verb"
+        ],
+        [
+         "wir",
+         "subject"
+        ],
+        [
+         "mehr",
+         "other"
+        ],
+        [
+         "üben.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Mira hatte keine Kraft mehr. Trotzdem hat sie weitergemacht.",
+       "en": "Mira had no strength left. Even so, she kept going.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "hatte",
+         "verb"
+        ],
+        [
+         "keine",
+         "negation"
+        ],
+        [
+         "Kraft",
+         "object"
+        ],
+        [
+         "mehr.",
+         "time"
+        ],
+        [
+         "Trotzdem",
+         "conjunction"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "sie",
+         "subject"
+        ],
+        [
+         "weitergemacht.",
+         "verb2"
+        ]
+       ]
       }
      ],
      "deeper": {
-      "text": "Aufgeben and weitermachen are separable verbs, so the prefix goes to the end: Wir geben nicht auf. Wir machen trotzdem weiter. The Perfekt is hat aufgegeben and hat weitergemacht. When trotzdem is in the middle it often comes right after the verb, before everything else that is new information.",
+      "text": "Aufgeben and weitermachen are separable verbs, so the prefix goes to the end: Wir geben nicht auf. Wir machen trotzdem weiter. The Perfekt is hat aufgegeben and hat weitergemacht. In the middle trotzdem stands before the prefix, not behind it, so the prefix keeps its place at the very end. Wir machen weiter trotzdem sounds odd to a native.",
       "example": {
        "de": "Wir machen trotzdem weiter.",
        "en": "We keep going anyway.",
@@ -2653,7 +2754,7 @@
        ]
       }
      },
-     "more": "Trotzdem can sit in two places. At the start, it takes position 1, so the verb follows: Trotzdem müssen wir mehr üben. In the middle, it comes after the verb: Wir müssen trotzdem mehr üben. The meaning is the same. Use whichever sounds easier to say.",
+     "more": "Trotzdem can sit in two places, like a guest who either greets you at the door or waits inside. At the start it takes position 1, so the verb follows: Trotzdem müssen wir mehr üben. In the middle it comes after the verb: Wir müssen trotzdem mehr üben. The meaning is the same. In the Perfekt it stands in front of the participle, which waits at the end. Use whichever sounds easier to say.",
      "table": {
       "headers": [
        "Position",
@@ -2673,7 +2774,12 @@
         "Wir haben trotzdem gewonnen."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Start of the sentence: Trotzdem + verb + subject",
+      "Middle: subject + verb + trotzdem",
+      "Perfekt: haben + trotzdem + participle"
+     ]
     },
     {
      "title": "Mini text: after a hard game",
@@ -2756,7 +2862,7 @@
       }
      ],
      "deeper": {
-      "text": "In a story you tell with the Perfekt, and with waren or hatten for was and had. The time words zuerst, dann and am Ende order the events. Trotzdem shows a surprise, deshalb a result. Each of them takes position 1, so the verb follows right behind it, then the subject.",
+      "text": "Look at the logic in the story. Trotzdem follows the problem (waren erschöpft): continuing is a surprise. Deshalb follows the result (verloren): being sad is what you expect. Most verbs use the Perfekt in a story, but sein and haben often use waren and hatten. So you can tell one story with all connectors and still keep the verb right after each one.",
       "example": {
        "de": "Am Ende haben wir verloren.",
        "en": "In the end we lost.",
@@ -2780,7 +2886,7 @@
        ]
       }
      },
-     "more": "Read the text as a chain: first they played well, then an injury happened, even so they kept going, at the end they lost, that is why they were sad. Each sentence adds one step. Find zuerst, dann, trotzdem, am Ende and deshalb. All of them take position 1, and the verb comes next.",
+     "more": "Read the text as a chain of six links. First they played well. Then an injury happened. Then everybody was exhausted. Even so, they kept going. At the end they lost, and that is why they were sad. Each sentence adds one step. Find zuerst, dann, trotzdem, am Ende and deshalb. All of them take position 1, so the verb comes right after them. Read it aloud once and clap at every connector.",
      "steps": [
       "Zuerst: the start",
       "Dann: the next step",
@@ -2792,10 +2898,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:SYG_i7rKl_4"
+     "yt:SYG_i7rKl_4",
+     "yt:qDrgJz9V2Yk"
     ],
     "nicosWeg": [
-     "nw:b1-27"
+     "nw:b1-25",
+     "nw:a2-17"
     ],
     "practice": []
    },
@@ -3378,11 +3486,11 @@
        "why": "New today: hoffentlich, verb right after it."
       }
      ],
-     "more": "Hoffentlich is a short way to say Ich hoffe, dass. You do not need a second sentence with dass and the verb at the end. You just say hoffentlich and then the normal order with the verb next. It works like deshalb and trotzdem, which you know now."
+     "more": "Hoffentlich is a shortcut. Ich hoffe, dass wir gewinnen needs two parts: a main part and a dass-part with the verb at the end. Hoffentlich gives you one part only, with the normal order and the verb next: Hoffentlich gewinnen wir! It works like deshalb and trotzdem, which you know now: one word in front, the verb right behind it, then the person. Think of hoffentlich as a wish you can say in one breath."
     },
     {
      "title": "Hope: from „Ich hoffe, dass“ to „Hoffentlich“",
-     "body": "You can hope in four ways. Ich hoffe, dass … sends the verb to the end. Hoffentlich is shorter and takes position 1: Hoffentlich gewinnen wir! Before a game you also say Ich drücke dir die Daumen! (fingers crossed) or Viel Glück! A Hoffnung is a hope.",
+     "body": "You can hope in four ways. Ich hoffe, dass … sends the verb to the end. Hoffentlich is shorter and takes position 1: Hoffentlich gewinnen wir! Before a game you say Ich drücke dir die Daumen! (der Daumen, thumb) or Viel Glück! Die Hoffnung is the noun; the big prize is die Meisterschaft.",
      "lead": "You know hoffen with dass. This card adds the short form hoffentlich and two friendly things to say before a game.",
      "examples": [
       {
@@ -3470,20 +3578,17 @@
          "object"
         ]
        ]
-      }
-     ],
-     "deeper": {
-      "text": "Hoffentlich replaces the whole beginning Ich hoffe, dass. That is why the verb comes right after it, like after deshalb. The chunk Ich drücke dir die Daumen is literal: I press the thumbs for you. Dir is the person who gets the good wish. You say it right before a game, an exam or a race.",
-      "example": {
-       "de": "Hoffentlich haben wir eine Chance.",
-       "en": "Hopefully we have a chance.",
+      },
+      {
+       "de": "Hoffentlich gewinnen wir die Meisterschaft!",
+       "en": "Hopefully we win the championship!",
        "parts": [
         [
          "Hoffentlich",
          "other"
         ],
         [
-         "haben",
+         "gewinnen",
          "verb"
         ],
         [
@@ -3491,17 +3596,46 @@
          "subject"
         ],
         [
-         "eine",
+         "die",
          "article"
         ],
         [
-         "Chance.",
+         "Meisterschaft!",
          "object"
         ]
        ]
       }
+     ],
+     "deeper": {
+      "text": "Hoffentlich replaces the whole beginning Ich hoffe, dass, so the verb comes right after it, like after deshalb. You can also answer a question with it alone: Gewinnt Mira? – Hoffentlich! And the opposite is Hoffentlich nicht! The chunk Ich drücke dir die Daumen is literal: I press the thumbs for you. Dir is the person who gets the good wish.",
+      "example": {
+       "de": "Gewinnt Mira? – Hoffentlich nicht!",
+       "en": "Does Mira win? – Hopefully not!",
+       "parts": [
+        [
+         "Gewinnt",
+         "verb"
+        ],
+        [
+         "Mira?",
+         "subject"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Hoffentlich",
+         "other"
+        ],
+        [
+         "nicht!",
+         "negation"
+        ]
+       ]
+      }
      },
-     "more": "Two ways to hope, same meaning. With dass, the verb jumps to the end: Ich hoffe, dass wir gewinnen. With hoffentlich, the verb jumps up to position 2: Hoffentlich gewinnen wir. Which is easier? The short one. Learn Ich drücke dir die Daumen as a whole sentence for friends.",
+     "more": "Two ways to hope, one meaning. With dass the verb jumps to the end: Ich hoffe, dass wir gewinnen. With hoffentlich the verb stays up in position 2: Hoffentlich gewinnen wir. The short way is easier, so use it first. Then learn Ich drücke dir die Daumen as one whole sentence for friends. English players cross their fingers, Germans press their thumbs, that is why der Daumen is in the sentence.",
      "table": {
       "headers": [
        "You want to say",
@@ -3529,7 +3663,7 @@
     },
     {
      "title": "Disappointment: Schade, dass … and So ein Pech!",
-     "body": "When the result is bad, you can say how you feel. Ich bin enttäuscht, weil … gives the reason. Schade, dass … says what a pity it is, with the verb at the end. Short reactions are So ein Pech! and Was für ein Pech! The Mannschaft can also disappoint you: Sie hat mich enttäuscht.",
+     "body": "When the result is bad, you can say how you feel. Ich bin enttäuscht, weil … gives the reason. Schade, dass … says what a pity it is, with the verb at the end. Short reactions are So ein Pech! and Was für ein Pech! Die Mannschaft (the team) can also disappoint you: Sie hat mich enttäuscht.",
      "lead": "Good news is easy. This card gives you the language for the bad news after a game: your feelings and short reactions.",
      "examples": [
       {
@@ -3624,35 +3758,39 @@
       }
      ],
      "deeper": {
-      "text": "Die Enttäuschung is the noun, enttäuschen is the verb. Something or someone disappoints you: the Mannschaft is the subject, mich is the accusative object. The Perfekt is hat enttäuscht. Schade, dass is a fixed beginning: after dass the verb goes to the end, as you know it.",
+      "text": "Schade! alone is already a full reaction. Schade, dass is a fixed beginning: after dass the verb goes to the end, as you know. To say who disappointed you, use von: Ich bin von der Mannschaft enttäuscht. Die Enttäuschung is the noun and enttäuschen is the verb: Die Niederlage war eine Enttäuschung. Natives use enttäuscht very often after sport, exams and films.",
       "example": {
-       "de": "Die Niederlage ist eine Enttäuschung.",
-       "en": "The defeat is a disappointment.",
+       "de": "Ich bin von der Mannschaft enttäuscht.",
+       "en": "I am disappointed in the team.",
        "parts": [
         [
-         "Die",
-         "article"
-        ],
-        [
-         "Niederlage",
+         "Ich",
          "subject"
         ],
         [
-         "ist",
+         "bin",
          "verb"
         ],
         [
-         "eine",
+         "von",
+         "preposition"
+        ],
+        [
+         "der",
          "article"
         ],
         [
-         "Enttäuschung.",
-         "object"
+         "Mannschaft",
+         "noun"
+        ],
+        [
+         "enttäuscht.",
+         "adjective"
         ]
        ]
       }
      },
-     "more": "Tell your feeling and give the reason: Ich bin enttäuscht, weil wir verloren haben. Or only say what you think: Schade, dass wir verloren haben. A short cry also works: So ein Pech! Choose the length you like. After weil and dass, the finite verb (haben) always goes to the very end.",
+     "more": "Tell your feeling and give the reason: Ich bin enttäuscht, weil wir verloren haben. Or say only what you think: Schade, dass wir verloren haben. A short cry also works: So ein Pech! Choose the length you like, like choosing between a long text message and a single emoji. After weil and dass the finite verb (haben) always goes to the very end. That rule never changes, even when you are sad.",
      "table": {
       "headers": [
        "Feeling",
@@ -3747,7 +3885,7 @@
       }
      ],
      "deeper": {
-      "text": "Klappen means that something works out. It is used with es: Es klappt. Das hat nicht geklappt means that did not work. Das ist doch nicht schlimm uses doch to sound warm. The word bestimmt means for sure, and it makes your comfort stronger.",
+      "text": "Klappen means that something works out, and it is used with es: Es klappt. Das hat nicht geklappt means that did not work. Das ist doch nicht schlimm uses doch to sound warm, and schlimm means bad or serious. Kopf hoch stays the same for one person or many: you can say it to du and to ihr. Bestimmt means for sure and makes your comfort stronger.",
       "example": {
        "de": "Das hat leider nicht geklappt.",
        "en": "Unfortunately that did not work out.",
@@ -3775,7 +3913,7 @@
        ]
       }
      },
-     "more": "Think about how a good friend talks. First a short word: Kopf hoch! Then a hope for the future: Nächstes Mal klappt es bestimmt. Then a praise: Trotzdem habt ihr gut gespielt. Trotzdem fits here: the team lost, a surprise to say they played well.",
+     "more": "Think about how a good friend talks. First comes a short word that lifts the head: Kopf hoch! Then comes a hope for the future: Nächstes Mal klappt es bestimmt. Then comes a compliment: Trotzdem habt ihr gut gespielt. Trotzdem fits here, because losing and still playing well is a surprise. Do not give long speeches. Two short sentences are enough, and a warm voice does the rest.",
      "table": {
       "headers": [
        "The news",
@@ -3914,25 +4052,13 @@
       }
      ],
      "deeper": {
-      "text": "Aber and trotzdem can even meet in one sentence: Mira war verletzt, aber sie hat trotzdem gespielt. Aber is the contrast, trotzdem makes it stronger. Do not worry about the double use: it is natural in German. The check is simple: aber is followed by the subject, trotzdem by the verb or after the verb.",
+      "text": "You can also start with the reason clause: Weil sie gut trainiert hat, hat Mira gewonnen. Look at the verbs: the weil-clause ends with hat, and then the main verb hat comes right after the comma. The whole weil-clause counts as position 1, so the main verb must be second. You will hear this order a lot in speech and in reports.",
       "example": {
-       "de": "Mira war verletzt, aber sie hat trotzdem gespielt.",
-       "en": "Mira was hurt, but she played anyway.",
+       "de": "Weil sie gut trainiert hat, hat Mira gewonnen.",
+       "en": "Because she trained well, Mira won.",
        "parts": [
         [
-         "Mira",
-         "subject"
-        ],
-        [
-         "war",
-         "verb"
-        ],
-        [
-         "verletzt,",
-         "adjective"
-        ],
-        [
-         "aber",
+         "Weil",
          "conjunction"
         ],
         [
@@ -3940,21 +4066,33 @@
          "subject"
         ],
         [
+         "gut",
+         "other"
+        ],
+        [
+         "trainiert",
+         "verb2"
+        ],
+        [
+         "hat,",
+         "verbend"
+        ],
+        [
          "hat",
          "verb"
         ],
         [
-         "trotzdem",
-         "conjunction"
+         "Mira",
+         "subject"
         ],
         [
-         "gespielt.",
+         "gewonnen.",
          "verb2"
         ]
        ]
       }
      },
-     "more": "Try the exercise: Mira war verletzt. ___ hat sie gespielt. The right word is Trotzdem, because playing when you are hurt is a surprise. Mira hat gut trainiert. ___ hat sie gewonnen. The right word is Deshalb: training well leads to winning, as you expect.",
+     "more": "Try the exercise with two gaps. Mira war verletzt. ___ hat sie gespielt. The right word is Trotzdem, because playing when you are hurt is a surprise. Mira hat gut trainiert. ___ hat sie gewonnen. The right word is Deshalb, because training well leads to winning, just as you expect. Ask three questions: reason, expected result or surprise? Then check the verb: weil sends it to the end, the others keep it next.",
      "table": {
       "headers": [
        "Word",
@@ -4103,7 +4241,7 @@
        ]
       }
      },
-     "more": "A story is a line of events. Each sentence starts with a signal word: zuerst, dann, plötzlich, trotzdem, am Ende. Then comes the verb, then the person. Say the story out loud with your own sport. Change the person: Mira, Leon, Anna. Keep the order of the time words.",
+     "more": "A story is a line of events, like beads on a string. Each sentence starts with a signal word: zuerst, dann, plötzlich, trotzdem, am Ende. After the signal comes the verb, then the person. Say the story out loud with your own sport and change the person: Mira, Leon, Anna. Keep the order of the signal words, because they are the string. Notice that trotzdem and aber live in the same sentence: erschöpft, aber stolz.",
      "steps": [
       "Zuerst: how it started",
       "Dann / Plötzlich: what changed",
@@ -4192,35 +4330,31 @@
       }
      ],
      "deeper": {
-      "text": "Notice the formal address: Leon says Herr Ali and uses Sie, and Herr Ali answers with Leon's name. The dialogue follows a typical path: hope, surprise, disappointment, comfort. Das ist doch nicht schlimm shows how doch makes a sentence warmer and softer.",
+      "text": "Leon says Herr Ali and uses Sie, and Herr Ali answers with Leon's first name: in Germany the older person may use the first name. Ich hoffe es auch uses es for the whole idea that we win. Das ist doch nicht schlimm shows how doch makes a sentence warmer. The path hope, surprise, disappointment, comfort is a typical pattern.",
       "example": {
-       "de": "Das ist doch nicht schlimm.",
-       "en": "That is not so bad.",
+       "de": "Ich hoffe es auch.",
+       "en": "I hope so, too.",
        "parts": [
         [
-         "Das",
+         "Ich",
          "subject"
         ],
         [
-         "ist",
+         "hoffe",
          "verb"
         ],
         [
-         "doch",
+         "es",
+         "object"
+        ],
+        [
+         "auch.",
          "other"
-        ],
-        [
-         "nicht",
-         "negation"
-        ],
-        [
-         "schlimm.",
-         "adjective"
         ]
        ]
       }
      },
-     "more": "Read the dialogue three times. First understand it. Then cover the right column and say Herr Ali's lines from memory. Then change the story: your team wins, and Herr Ali says Herzlichen Glückwunsch. Practise with the table: it shows the order of the story.",
+     "more": "Read the dialogue three times. First understand it. Then cover the right column and say Herr Ali's lines from memory. Then change the story: your team wins, and Herr Ali says Herzlichen Glückwunsch! Look at the order of the story: hope, bad news, feeling, comfort, a positive last word. This order is how real conversations after a match go, so practise the table as a pattern, not word by word.",
      "table": {
       "headers": [
        "Who",
@@ -4257,10 +4391,13 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:Ha18hag8N98"
+     "yt:Ha18hag8N98",
+     "yt:UHJ3_4mWock",
+     "yt:wzolLWz4m6Y"
     ],
     "nicosWeg": [
-     "nw:a2-23"
+     "nw:a2-23",
+     "nw:a2-69"
     ],
     "practice": []
    },
@@ -4670,6 +4807,21 @@
       }
      ],
      "forms": "klappt, hat geklappt"
+    },
+    {
+     "de": "die Mannschaft",
+     "en": "team",
+     "examples": [
+      {
+       "de": "Unsere Mannschaft hat gewonnen.",
+       "en": "Our team has won."
+      },
+      {
+       "de": "Die Mannschaft trainiert dreimal in der Woche.",
+       "en": "The team trains three times a week."
+      }
+     ],
+     "forms": "die Mannschaften"
     }
    ],
    "speaking": {
@@ -4769,8 +4921,8 @@
    "cards": [
     {
      "intro": true,
-     "title": "Before we start: from 'Ich zeige meiner Lehrerin mein Heft' to 'Ich zeige es meiner Lehrerin'",
-     "body": "After training, Mira has a bag full of Trikots and Trinkflaschen. The Trainerin asks: Who gets what? In earlier chapters you gave things to people with two nouns. Today the thing becomes a small word like es or ihn, and it jumps to a new place in the sentence.",
+     "title": "Before we start: from „Ich zeige meiner Lehrerin mein Heft“ to „Ich zeige es meiner Lehrerin“",
+     "body": "After training, Mira has a bag full of jerseys (die Trikots) and water bottles (die Trinkflaschen). The coach (die Trainerin) asks: Who gets what? In earlier chapters you gave things to people with two nouns. Today the thing becomes a small word like es or ihn, and it jumps to a new place in the sentence.",
      "steps": [
       "You already know: Ich schenke dir einen Pullover and Ich zeige meiner Lehrerin mein Heft: the person comes first (A1 chapter 11 and A2 chapter 2).",
       "New today: when the thing is a pronoun (ihn, sie, es), it comes BEFORE the person noun.",
@@ -4790,12 +4942,8 @@
          "verb"
         ],
         [
-         "seinem",
+         "seinem Vater",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ],
         [
          "ein Trikot.",
@@ -4828,7 +4976,7 @@
        "why": "You know this too: a person pronoun is still first."
       },
       {
-       "de": "Leon schenkt es seinem Vater",
+       "de": "Leon schenkt es seinem Vater.",
        "en": "Leon gives it to his father.",
        "parts": [
         [
@@ -4844,12 +4992,8 @@
          "object"
         ],
         [
-         "seinem",
+         "seinem Vater.",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ]
        ],
        "why": "New today: the thing is now es, so it jumps in front of the person."
@@ -4859,7 +5003,7 @@
     },
     {
      "title": "A sports bag: things you give, lend and show",
-     "body": "A sports bag is full of things you hand over: das Trikot (jersey), der Fanschal, die Trinkflasche, die Sporttasche, die Stoppuhr, die Medaille, die Urkunde. Learn the article with each word: you need it later to choose the right pronoun. Verbs like geben, leihen, schenken and zeigen have a person and a thing.",
+     "body": "A sports bag is full of things you hand over: das Trikot (jersey), der Fanschal, die Trinkflasche, die Sporttasche, die Stoppuhr, die Medaille, die Urkunde. Learn the article with each word: you need it later to choose the pronoun. Geben, leihen, schenken, zeigen, werfen and überreichen (to hand over) take a person and a thing.",
      "lead": "Before the new rule you need the words. This card gives you the sports things with their articles, and shows who gives what to whom, so the later cards can use them without stopping.",
      "examples": [
       {
@@ -4875,12 +5019,8 @@
          "verb"
         ],
         [
-         "der",
+         "der Trainerin",
          "dative"
-        ],
-        [
-         "Trainerin",
-         "noun"
         ],
         [
          "den Schlüssel.",
@@ -4902,12 +5042,8 @@
          "verb"
         ],
         [
-         "seinem",
+         "seinem Vater",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ],
         [
          "ein Trikot.",
@@ -4994,6 +5130,18 @@
         "bringt",
         "der Mannschaft",
         "die Trinkflaschen"
+       ],
+       [
+        "Die Trainerin",
+        "überreicht",
+        "Mira",
+        "die Medaille"
+       ],
+       [
+        "Mira",
+        "wirft",
+        "Leon",
+        "den Ball"
        ]
       ]
      }
@@ -5016,12 +5164,8 @@
          "verb"
         ],
         [
-         "meinem",
+         "meinem Bruder",
          "dative"
-        ],
-        [
-         "Bruder",
-         "noun"
         ],
         [
          "den Ball.",
@@ -5066,12 +5210,8 @@
          "verb"
         ],
         [
-         "der",
+         "der Mannschaft",
          "dative"
-        ],
-        [
-         "Mannschaft",
-         "noun"
         ],
         [
          "die Trinkflaschen.",
@@ -5126,7 +5266,12 @@
         "den Ball"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Ask Wem? to find the person (dative)",
+      "Ask Was? to find the thing (accusative)",
+      "Two nouns: say the person first, then the thing"
+     ]
     },
     {
      "title": "A person pronoun: still first",
@@ -5286,7 +5431,7 @@
      "lead": "This is the new idea of the lesson. You replace the thing with a small word and move it forward. Follow the four steps and the table, and you can do it with any sports thing from the bag.",
      "examples": [
       {
-       "de": "Ich gebe ihn meinem Bruder",
+       "de": "Ich gebe ihn meinem Bruder.",
        "en": "I give it to my brother. (der Ball)",
        "parts": [
         [
@@ -5302,18 +5447,14 @@
          "object"
         ],
         [
-         "meinem",
+         "meinem Bruder.",
          "dative"
-        ],
-        [
-         "Bruder",
-         "noun"
         ]
        ],
        "why": "ihn replaces der Ball and jumps in front."
       },
       {
-       "de": "Leon schenkt es seinem Vater",
+       "de": "Leon schenkt es seinem Vater.",
        "en": "Leon gives it to his father. (das Trikot)",
        "parts": [
         [
@@ -5329,18 +5470,14 @@
          "object"
         ],
         [
-         "seinem",
+         "seinem Vater.",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ]
        ],
        "why": "es replaces das Trikot."
       },
       {
-       "de": "Mira gibt ihn der Trainerin",
+       "de": "Mira gibt ihn der Trainerin.",
        "en": "Mira gives it to the coach. (der Schlüssel)",
        "parts": [
         [
@@ -5356,21 +5493,47 @@
          "object"
         ],
         [
-         "der",
+         "der Trainerin.",
          "dative"
-        ],
-        [
-         "Trainerin",
-         "noun"
         ]
        ],
        "why": "ihn replaces der Schlüssel."
+      },
+      {
+       "de": "Mira wirft den Ball. Leon fängt ihn.",
+       "en": "Mira throws the ball. Leon catches it.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "wirft",
+         "verb"
+        ],
+        [
+         "den Ball.",
+         "object"
+        ],
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "fängt",
+         "verb"
+        ],
+        [
+         "ihn.",
+         "object"
+        ]
+       ]
       }
      ],
      "deeper": {
       "text": "Why ihn and not er? The thing is the object of the verb, so you need the accusative form: ihn. Sie and es look the same in both cases. The plural pronoun for things is sie, the same word as she. So you must know the noun to understand which sie is meant: one stopwatch or many things.",
       "example": {
-       "de": "Ben leiht sie Anna",
+       "de": "Ben leiht sie Anna.",
        "en": "Ben lends it to Anna. (die Stoppuhr)",
        "parts": [
         [
@@ -5386,7 +5549,7 @@
          "object"
         ],
         [
-         "Anna",
+         "Anna.",
          "dative"
         ]
        ],
@@ -5448,12 +5611,8 @@
          "verb"
         ],
         [
-         "seinem",
+         "seinem Vater",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ],
         [
          "ein Trikot.",
@@ -5486,7 +5645,7 @@
        "why": "Person pronoun first."
       },
       {
-       "de": "Leon schenkt es seinem Vater",
+       "de": "Leon schenkt es seinem Vater.",
        "en": "Leon gives it to his father.",
        "parts": [
         [
@@ -5502,22 +5661,18 @@
          "object"
         ],
         [
-         "seinem",
+         "seinem Vater.",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ]
        ],
        "why": "Thing pronoun first."
       }
      ],
      "deeper": {
-      "text": "Pronouns are short and everybody knows what they point to, so German puts them early. That is why this line works as a rule of thumb. Be careful: the trap is to keep the old order out of habit and say Ich gebe meinem Bruder ihn. That sentence is wrong. A pronoun never waits behind a noun.",
+      "text": "With two nouns the person-first order is the neutral one, but natives sometimes put the thing first to stress the person: Ich gebe den Ball meinem Bruder, nicht meiner Schwester. With a pronoun this switch is not possible: Ich gebe meinem Bruder ihn is always wrong. So the pronoun rule is stricter than the rule for nouns, and you can rely on it every time.",
       "example": {
-       "de": "Ich gebe sie der Trainerin",
-       "en": "I give it to the coach. (die Stoppuhr)",
+       "de": "Ich gebe den Ball meinem Bruder, nicht meiner Schwester.",
+       "en": "I give the ball to my brother, not to my sister.",
        "parts": [
         [
          "Ich",
@@ -5528,19 +5683,22 @@
          "verb"
         ],
         [
-         "sie",
+         "den Ball",
          "object"
         ],
         [
-         "der",
+         "meinem Bruder,",
          "dative"
         ],
         [
-         "Trainerin",
-         "noun"
+         "nicht",
+         "negation"
+        ],
+        [
+         "meiner Schwester.",
+         "dative"
         ]
-       ],
-       "why": "Pronoun sie first, noun der Trainerin last."
+       ]
       }
      },
      "more": "Think of a shelf with small boxes and big boxes. Small boxes (pronouns) always go on the front of the shelf, big boxes (nouns) go behind them. It does not matter whether the small box is the person or the thing. Look at your sentence and ask: is there a small word? Put it first. If there are two nouns, the person goes first. That is all the rule you need today.",
@@ -5567,7 +5725,12 @@
         "Ich gebe ihn meinem Bruder."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Is there a pronoun? Put it first",
+      "Two nouns? The person comes first",
+      "Thing pronoun + person noun: the thing comes first"
+     ]
     },
     {
      "title": "Questions and the Perfekt",
@@ -5575,7 +5738,7 @@
      "lead": "So far you have seen statements in the present. This card shows the same new order in a question and in the Perfekt, the two forms you need most in real conversation.",
      "examples": [
       {
-       "de": "Gibst du ihn deiner Schwester",
+       "de": "Gibst du ihn deiner Schwester?",
        "en": "Do you give it to your sister? (der Ball)",
        "parts": [
         [
@@ -5591,12 +5754,8 @@
          "object"
         ],
         [
-         "deiner",
+         "deiner Schwester?",
          "dative"
-        ],
-        [
-         "Schwester",
-         "noun"
         ]
        ],
        "why": "Question: verb first, then du, then ihn."
@@ -5618,12 +5777,8 @@
          "object"
         ],
         [
-         "meinem",
+         "meinem Vater",
          "dative"
-        ],
-        [
-         "Vater",
-         "noun"
         ],
         [
          "geschenkt.",
@@ -5649,12 +5804,8 @@
          "object"
         ],
         [
-         "der",
+         "der Mannschaft",
          "dative"
-        ],
-        [
-         "Mannschaft",
-         "noun"
         ],
         [
          "gebracht.",
@@ -5706,16 +5857,23 @@
         "Herr Ali hat sie der Mannschaft gebracht."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Question: the verb comes first, then du",
+      "Then the thing pronoun and the person",
+      "Perfekt: the participle goes to the end"
+     ]
     }
    ],
    "media": {
     "grammarVideos": [
      "yt:gurtFfgWSzw",
-     "yt:8VowGvnRU_s"
+     "yt:vPl0M_31_aU",
+     "yt:dFYZJQs68JA"
     ],
     "nicosWeg": [
-     "nw:a2-61"
+     "nw:a2-61",
+     "nw:a2-62"
     ],
     "practice": []
    },
@@ -6230,7 +6388,7 @@
    "cards": [
     {
      "intro": true,
-     "title": "Before we start: from 'Ich gebe ihn meinem Bruder' to 'Ich gebe es dir'",
+     "title": "Before we start: from „Ich gebe ihn meinem Bruder“ to „Ich gebe es dir“",
      "body": "Leon needs a Fanschal for Saturday. Mira says: Klar, ich gebe ihn dir! Two small words, no nouns. In the last lesson only the thing was a pronoun. Today both the thing and the person are small words, and you learn which one comes first.",
      "steps": [
       "You already know: Ich gebe ihm den Ball and Ich gebe ihn meinem Bruder (lesson 4): a pronoun comes before a noun.",
@@ -6262,7 +6420,7 @@
        "why": "You know this already: person pronoun, then the thing."
       },
       {
-       "de": "Ich gebe ihn meinem Bruder",
+       "de": "Ich gebe ihn meinem Bruder.",
        "en": "I give it to my brother.",
        "parts": [
         [
@@ -6278,18 +6436,14 @@
          "object"
         ],
         [
-         "meinem",
+         "meinem Bruder.",
          "dative"
-        ],
-        [
-         "Bruder",
-         "noun"
         ]
        ],
        "why": "You know this from lesson 4: the thing pronoun jumps ahead."
       },
       {
-       "de": "Ich gebe ihn dir",
+       "de": "Ich gebe ihn dir.",
        "en": "I give it to you.",
        "parts": [
         [
@@ -6305,14 +6459,14 @@
          "object"
         ],
         [
-         "dir",
+         "dir.",
          "dative"
         ]
        ],
        "why": "New today: both are pronouns. The thing comes first."
       }
      ],
-     "more": "Imagine two runners, both small and quick. Who goes first? The one who carries the baton, the thing. The person pronoun follows right behind. It is one clear rule with no exceptions. You will practise it in six small steps: first the plain rule, then a table with all four cases, then new verbs and the places where the pronouns stay put."
+     "more": "Imagine two runners, both small and quick. Who goes first? The one who carries the baton, the thing. The person pronoun follows right behind. It is one clear rule with no exceptions. English says give it to him, with the little word to; German has no such word, the order alone does the job. You will practise it in six small steps: the plain rule, a table with all four cases, new verbs, and the places where the pronouns stay put."
     },
     {
      "title": "Two pronouns: the thing first",
@@ -6320,7 +6474,7 @@
      "lead": "You know that a pronoun comes before a noun. Now two pronouns meet in the same sentence, and you need to know which one goes first. This card gives you a three-step way to build it.",
      "examples": [
       {
-       "de": "Ich gebe es dir",
+       "de": "Ich gebe es dir.",
        "en": "I give it to you. (das Trikot)",
        "parts": [
         [
@@ -6336,7 +6490,7 @@
          "object"
         ],
         [
-         "dir",
+         "dir.",
          "dative"
         ]
        ],
@@ -6366,7 +6520,7 @@
        "why": "ihn comes before ihr."
       },
       {
-       "de": "Herr Ali zeigt es ihnen",
+       "de": "Herr Ali zeigt es ihnen.",
        "en": "Herr Ali shows it to them. (das Spiel)",
        "parts": [
         [
@@ -6382,7 +6536,7 @@
          "object"
         ],
         [
-         "ihnen",
+         "ihnen.",
          "dative"
         ]
        ],
@@ -6390,9 +6544,9 @@
       }
      ],
      "deeper": {
-      "text": "Why the thing first? When both words are pronouns, German puts the accusative before the dative. You can remember it with the letters: A before D, like in the alphabet. This works only with two pronouns. With nouns the order is different, as you saw in lesson 4.",
+      "text": "Why the thing first? When both words are pronouns, German puts the accusative before the dative. You can remember it with the letters: A before D, like in the alphabet. English does it with a little word: give it to him. German has no to, so only the order shows who gets what. This works only with two pronouns. With nouns the order is different, as in lesson 4.",
       "example": {
-       "de": "Leon gibt sie mir",
+       "de": "Leon gibt sie mir.",
        "en": "Leon gives it to me. (die Stoppuhr)",
        "parts": [
         [
@@ -6408,7 +6562,7 @@
          "object"
         ],
         [
-         "mir",
+         "mir.",
          "dative"
         ]
        ],
@@ -6469,12 +6623,8 @@
          "verb"
         ],
         [
-         "der",
+         "der Trainerin",
          "dative"
-        ],
-        [
-         "Trainerin",
-         "noun"
         ],
         [
          "den Schlüssel.",
@@ -6484,7 +6634,7 @@
        "why": "Two nouns: the person first."
       },
       {
-       "de": "Mira gibt ihn der Trainerin",
+       "de": "Mira gibt ihn der Trainerin.",
        "en": "Mira gives it to the coach.",
        "parts": [
         [
@@ -6500,12 +6650,8 @@
          "object"
         ],
         [
-         "der",
+         "der Trainerin.",
          "dative"
-        ],
-        [
-         "Trainerin",
-         "noun"
         ]
        ],
        "why": "The thing pronoun is first."
@@ -6535,7 +6681,7 @@
       }
      ],
      "deeper": {
-      "text": "Look at the pattern in the table. In three of the four cases a pronoun comes first. Only with two nouns do you say the person first. The only case where the person pronoun goes second is two pronouns, and there the thing has to go first. Read the table from top to bottom, and the sentence gets shorter every time.",
+      "text": "Compare with English: give it to him uses to, but German has no such word, so the order and the case do the work. Look at the pattern in the table. In three of the four cases a pronoun comes first. Only with two nouns do you say the person first, and only with two pronouns the thing first. Read the table from top to bottom and the sentence gets shorter every time.",
       "example": {
        "de": "Mira gibt ihr den Schlüssel.",
        "en": "Mira gives her the key.",
@@ -6677,7 +6823,7 @@
      "deeper": {
       "text": "Be careful with the word ihr. It can be the subject (ihr = you all) or the person (ihr = to her). In Gebt ihr es ihr? the first ihr is the subject and the second is the person: Do you all give it to her? You only need to recognise this sentence. You do not need to say it yet.",
       "example": {
-       "de": "Gebt ihr es ihr",
+       "de": "Gebt ihr es ihr?",
        "en": "Do you all give it to her?",
        "parts": [
         [
@@ -6693,14 +6839,14 @@
          "object"
         ],
         [
-         "ihr",
+         "ihr?",
          "dative"
         ]
        ],
        "why": "First ihr = you all, second ihr = to her."
       }
      },
-     "more": "Think of a toolbox. You already have a tool for giving (geben). Now you add four more tools. They look different, but they work in the same way: a person gets something. Wünschen is for wishes, beibringen is for teaching, versprechen is for promises, and reichen is for passing something along. Try each one with the little words es and dir.",
+     "more": "Think of a toolbox. You already have one tool for giving (geben). Now you add four more tools. They look different, but they work in the same way: a person gets something. Wünschen is for wishes, beibringen is for teaching, versprechen is for promises, and reichen is for passing something along. Try each one with the little words es and dir, then add besorgen, erklären, schicken and empfehlen from the table.",
      "table": {
       "headers": [
        "Verb",
@@ -6742,13 +6888,18 @@
         "empfehlen",
         "to recommend",
         "Ich empfehle Ihnen den Kurs."
+       ],
+       [
+        "besorgen",
+        "to get, to organise",
+        "Kein Problem, ich besorge sie dir."
        ]
       ]
      }
     },
     {
      "title": "With a modal verb or the Perfekt",
-     "body": "The two pronouns stay close to the subject, right after the finite verb. The second verb goes to the end: the infinitive after a modal verb, the participle in the Perfekt. Learn: Kannst du sie mir erklären? Ich habe sie dir geschickt. Willst du es ihm zurückgeben?",
+     "body": "The two pronouns stay close to the subject. The second verb goes to the end: the infinitive after a modal verb, the participle in the Perfekt. Learn: Kannst du sie mir erklären? Ich habe sie dir geschickt. Willst du es ihm zurückgeben? The thing comes first, the person second.",
      "lead": "So far the verb was the only verb. Now there are two verbs, a helper and a second one. This card shows where the pronouns go: they do not travel to the end with the second verb.",
      "examples": [
       {
@@ -6831,16 +6982,13 @@
         ]
        ],
        "why": "zurückgeben stays together at the end."
-      }
-     ],
-     "deeper": {
-      "text": "The pronouns do not move. In every sentence the order is: finite verb, subject, thing, person, then the second verb. You can see the middle of the sentence stays the same as in the present. Only the end changes. Notice that after the subject you can drop the thing and the person into a small block of two words.",
-      "example": {
-       "de": "Er hat es mir versprochen.",
-       "en": "He promised it to me.",
+      },
+      {
+       "de": "Die Trainerin hat ihn uns in der Übungsstunde gezeigt.",
+       "en": "The coach showed it to us in the practice session. (der Aufschlag)",
        "parts": [
         [
-         "Er",
+         "Die Trainerin",
          "subject"
         ],
         [
@@ -6848,19 +6996,59 @@
          "verb"
         ],
         [
-         "es",
+         "ihn",
          "object"
         ],
         [
-         "mir",
+         "uns",
          "dative"
         ],
         [
-         "versprochen.",
+         "in",
+         "preposition"
+        ],
+        [
+         "der Übungsstunde",
+         "place"
+        ],
+        [
+         "gezeigt.",
          "verb2"
         ]
-       ],
-       "why": "The block es mir stays together."
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "The pronouns do not move, and they stand before nicht: Ich habe ihn dir nicht gegeben. In every sentence the order is: finite verb, subject, thing, person, nicht if you need it, then the second verb. The middle of the sentence stays the same as in the present. Only the end changes. So you can build long sentences by adding one block at a time.",
+      "example": {
+       "de": "Ich habe ihn dir nicht gegeben.",
+       "en": "I did not give it to you.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "ihn",
+         "object"
+        ],
+        [
+         "dir",
+         "dative"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "gegeben.",
+         "verb2"
+        ]
+       ]
       }
      },
      "more": "Imagine a sandwich. The first verb is the top slice, the second verb is the bottom slice, and the pronouns are the filling in the middle. The filling does not slip out: it is always between the two slices. Make three sandwiches with different fillings: es mir, sie dir, ihn ihm. Change the top slice from kannst to willst to hast and say each sentence aloud.",
@@ -6879,11 +7067,16 @@
         "Ich habe sie dir geschickt."
        ],
        [
-        "separable verb",
+        "modal verb + separable verb",
         "Willst du es ihm zurückgeben?"
        ]
       ]
-     }
+     },
+     "steps": [
+      "The first verb (kannst, habe, willst)",
+      "The subject, then the thing, then the person",
+      "The second verb at the very end"
+     ]
     },
     {
      "title": "Imperative and polite sentences",
@@ -6958,16 +7151,46 @@
         ]
        ],
        "why": "Polite: Ihnen with a capital letter."
+      },
+      {
+       "de": "Die Ausrüstung? Ich besorge sie Ihnen morgen.",
+       "en": "The equipment? I will get it for you tomorrow.",
+       "parts": [
+        [
+         "Die Ausrüstung?",
+         "object"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "besorge",
+         "verb"
+        ],
+        [
+         "sie",
+         "object"
+        ],
+        [
+         "Ihnen",
+         "dative"
+        ],
+        [
+         "morgen.",
+         "time"
+        ]
+       ]
       }
      ],
      "deeper": {
-      "text": "For Frau Weber or Herr Ali you use Sie. Then the pronouns stay in the same order: Können Sie es mir bitte zeigen? The pronouns Sie and Ihnen look similar, but Sie is the subject and Ihnen is the person. Keep the order thing first, person second, and the polite sentence is ready.",
+      "text": "The du-form of the imperative drops -st: gib, zeig. Strong verbs change the vowel: Gib ihn mir! (not Geb). For Frau Weber or Herr Ali you use Sie, and the verb comes first with Sie after it: Geben Sie ihn mir bitte! The pronouns keep the order thing first, person second. Sie is the subject, Ihnen is the person: do not mix them up.",
       "example": {
-       "de": "Können Sie es mir bitte zeigen?",
-       "en": "Can you show it to me, please?",
+       "de": "Geben Sie ihn mir bitte!",
+       "en": "Please give it to me! (formal)",
        "parts": [
         [
-         "Können",
+         "Geben",
          "verb"
         ],
         [
@@ -6975,7 +7198,7 @@
          "subject"
         ],
         [
-         "es",
+         "ihn",
          "object"
         ],
         [
@@ -6983,15 +7206,10 @@
          "dative"
         ],
         [
-         "bitte",
+         "bitte!",
          "other"
-        ],
-        [
-         "zeigen?",
-         "verb2"
         ]
-       ],
-       "why": "Polite: Können Sie es mir bitte zeigen?"
+       ]
       }
      },
      "more": "When you hand a friend a bottle, you say Hier, bitte! When you hand it over politely, you can add the pronouns: Ich gebe sie Ihnen. In both cases you only use short words. That is why the order matters. A short word in the right place sounds better than a long phrase in the wrong place. Practise: Gib ihn mir, bitte. Gib sie ihm, bitte. Zeig es uns, bitte.",
@@ -7014,7 +7232,13 @@
         "Ich bringe sie Ihnen gleich."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Verb first: Gib",
+      "The thing: ihn",
+      "The person: mir",
+      "Bitte at the end or after the pronouns"
+     ]
     },
     {
      "title": "In dass, ob and weil clauses",
@@ -7145,6 +7369,44 @@
         ]
        ],
        "why": "weil: the helper verb hat is last."
+      },
+      {
+       "de": "Ich weiß nicht, ob die Ersatzspielerin sie uns bringt.",
+       "en": "I do not know if the substitute will bring them to us. (die Trinkflaschen)",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "weiß",
+         "verb"
+        ],
+        [
+         "nicht,",
+         "negation"
+        ],
+        [
+         "ob",
+         "conjunction"
+        ],
+        [
+         "die Ersatzspielerin",
+         "subject"
+        ],
+        [
+         "sie",
+         "object"
+        ],
+        [
+         "uns",
+         "dative"
+        ],
+        [
+         "bringt.",
+         "verbend"
+        ]
+       ]
       }
      ],
      "deeper": {
@@ -7210,9 +7472,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:8VowGvnRU_s"
+     "yt:8VowGvnRU_s",
+     "yt:vPl0M_31_aU",
+     "yt:uoEwlH9XgZ0"
     ],
     "nicosWeg": [
+     "nw:a2-62",
      "nw:a2-60"
     ],
     "practice": []
@@ -7723,10 +7988,10 @@
    "cards": [
     {
      "intro": true,
-     "title": "Before we start: from 'Ich gebe es dir' to a fan comment",
+     "title": "Before we start: from „Ich gebe es dir“ to a fan comment",
      "body": "After the game, Leon wants to write in the fan forum of the Kanal-Haie. He needs to cheer, say what he thinks and ask a question. You already know how to write a short comment and how to give things with two objects. Today you put it all into one fan post.",
      "steps": [
-      "You already know: Ich finde, dass ... and Ich hoffe, dass ... (A2 chapter 2 and 3), and the two-object order from lessons 4 and 5.",
+      "You already know: Ich finde, dass ... and Ich hoffe, dass ... (earlier chapters and lesson 3), and the two-object order from lessons 4 and 5.",
       "New today: a fan post and its comments, with deshalb, trotzdem and questions and answers in a thread.",
       "By the end you can: read a fan post, write a short comment and answer a question in a thread."
      ],
@@ -7833,7 +8098,7 @@
     },
     {
      "title": "Fans and the stadium",
-     "body": "Fans watch games in the Stadion. The Fans stand in the Fankurve, the fans' end of the stadium. The Liga is the league, and the Tabelle shows which team is first. The Schiedsrichterin leads the game. What do they do? Fans feuern die Mannschaft an and jubeln. The referee pfeift.",
+     "body": "Fans (der Fan, die Fans) watch games in the stadium (das Stadion). They stand in die Fankurve, the fans' end. The league is die Liga, and die Tabelle shows which team is first. Die Schiedsrichterin leads the game. Fans feuern die Mannschaft an and jubeln; the referee pfeift.",
      "lead": "Before you read a fan post, you need the words of a stadium. This card gives you the places, the people and three verbs of what happens there: cheering, cheering on and whistling.",
      "examples": [
       {
@@ -7891,7 +8156,7 @@
       }
      ],
      "deeper": {
-      "text": "A fan can be a man or a woman: der Fan, die Fans. A referee has two forms: der Schiedsrichter and die Schiedsrichterin. The plural of Stadion is irregular: die Stadien. The plural of Liga is die Ligen, and the plural of Tabelle is die Tabellen. Learn each plural with its noun.",
+      "text": "Fan is der Fan for men and women; the plural is die Fans. A referee has two forms: der Schiedsrichter and die Schiedsrichterin. Anfeuern is separable: Die Fans feuern die Mannschaft an, and in the Perfekt Wir haben sie angefeuert. Some plurals are irregular: die Stadien, die Ligen, die Tabellen. Learn each plural with its noun.",
       "example": {
        "de": "Im Stadion jubeln alle.",
        "en": "In the stadium everybody cheers.",
@@ -7944,7 +8209,7 @@
     },
     {
      "title": "A fan post: headline, result, opinion, hope",
-     "body": "A fan post has four parts: a headline, the result, your opinion and your hope. Leon writes in the forum of die Kanal-Haie. He uses what you know: Ich finde, dass ..., trotzdem, deshalb and Hoffentlich. Each sentence says one thing. Read the table and find the four parts.",
+     "body": "A fan post has four main parts: a headline, the result, your opinion and your hope. Two extra sentences make it richer: a contrast with trotzdem and a reason with deshalb. Leon writes in the forum of die Kanal-Haie. Read the table and find all six sentences.",
      "lead": "You know the words and the building blocks. Now you see them in one real post, so you can copy the structure when you write your own.",
      "examples": [
       {
@@ -8197,33 +8462,32 @@
       }
      ],
      "deeper": {
-      "text": "After Schade, dass the sentence is a dass-clause: the verb goes to the end. You know this from chapter 3. Schade, dass wir verloren haben. The words Schade and dass are separated by a comma. You can also say Was für ein Pech! when you are sad, but a short Schade! is the most common reaction in a forum.",
+      "text": "Chunks have a tone. Ich bin ganz deiner Meinung is a polite agreement, and Das sehe ich anders is a polite disagreement: Germans are direct, but they stay friendly. You can soften it: Das sehe ich ein bisschen anders. And for a quick agreement natives say Genau! or Finde ich auch. After Schade, dass the verb goes to the end, as in lesson 3.",
       "example": {
-       "de": "Schade, dass wir verloren haben.",
-       "en": "Too bad that we lost.",
+       "de": "Das sehe ich ein bisschen anders.",
+       "en": "I see that a bit differently.",
        "parts": [
         [
-         "Schade,",
-         "other"
+         "Das",
+         "object"
         ],
         [
-         "dass",
-         "conjunction"
+         "sehe",
+         "verb"
         ],
         [
-         "wir",
+         "ich",
          "subject"
         ],
         [
-         "verloren",
-         "verb2"
+         "ein bisschen",
+         "other"
         ],
         [
-         "haben.",
-         "verbend"
+         "anders.",
+         "other"
         ]
-       ],
-       "why": "dass: the verb part haben is at the end."
+       ]
       }
      },
      "more": "When you are in a crowd, you do not give a speech. You shout one short phrase. Chunks are shouts that you can use again and again. Learn them like song lines: put one in each hand. Super Spiel! is for good news. Schade! is for bad news. Das sehe ich anders is for a different opinion. Wir schaffen das! is for the next game. Read the table and pick the one that fits your mood.",
@@ -8359,40 +8623,31 @@
       }
      ],
      "deeper": {
-      "text": "If somebody asks for something, you often answer with a pronoun, because everybody knows what the thing is. Hat jemand noch einen Fanschal? Ja, ich leihe ihn dir. You do not repeat the noun. You use ihn and dir, in the order you know: thing first, then person.",
+      "text": "Jemand means somebody and takes a singular verb: Hat jemand, not Haben jemand. The opposite is niemand, nobody: Niemand hat noch eine Karte. Answers in a thread stay short and often use pronouns, because everybody knows what the thing is: Ja, ich leihe ihn dir. You do not repeat the noun, and the order stays thing first, person second.",
       "example": {
-       "de": "Ja, ich leihe ihn dir gern.",
-       "en": "Yes, I will gladly lend it to you.",
+       "de": "Niemand hat noch eine Karte.",
+       "en": "Nobody has a ticket left.",
        "parts": [
         [
-         "Ja,",
-         "other"
-        ],
-        [
-         "ich",
+         "Niemand",
          "subject"
         ],
         [
-         "leihe",
+         "hat",
          "verb"
         ],
         [
-         "ihn",
-         "object"
-        ],
-        [
-         "dir",
-         "dative"
-        ],
-        [
-         "gern.",
+         "noch",
          "other"
+        ],
+        [
+         "eine Karte.",
+         "object"
         ]
-       ],
-       "why": "Question about der Fanschal: answer with ihn."
+       ]
       }
      },
-     "more": "A thread is like a conversation across a table. One person asks, another answers. The easiest answer begins with Ja and then repeats the verb of the question. Add a small word for the thing and a small word for the person. Take Hat jemand noch eine Karte? and answer: Ja, ich kann sie dir geben. Practise with three different things from the bag.",
+     "more": "A thread is like a conversation across a big table. One person asks, another answers. The easiest answer begins with Ja and then repeats the verb of the question. Add a small word for the thing and a small word for the person. Take Hat jemand noch eine Karte? and answer: Ja, ich kann sie dir geben. The question has a noun, the answer has two pronouns. Practise with three different things from the bag.",
      "table": {
       "headers": [
        "Question",
@@ -8700,8 +8955,8 @@
        ],
        [
         "Mira",
-        "Ich gebe sie dir am Samstag.",
-        "an offer"
+        "Ich habe noch eine Karte. Ich gebe sie dir am Samstag.",
+        "a ticket and a promise"
        ],
        [
         "Herr Ali",
@@ -8709,15 +8964,23 @@
         "an offer"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Leon posts a hope",
+      "Mira has a ticket and promises it: sie dir",
+      "Herr Ali offers to show the game: es euch"
+     ]
     }
    ],
    "media": {
     "grammarVideos": [
-     "yt:gurtFfgWSzw"
+     "yt:jFySmJVNcnI",
+     "yt:7KeczWJHXlY",
+     "yt:Ha18hag8N98"
     ],
     "nicosWeg": [
-     "nw:a2-72"
+     "nw:a2-72",
+     "nw:a2-71"
     ],
     "practice": []
    },
@@ -9300,7 +9563,7 @@
     },
     {
      "title": "Competition words: before, during and after the race",
-     "body": "A Wettkampf or Wettbewerb is a competition; a Rennen is a race. Before the start you get a Startnummer and you take part: am Stadtlauf teilnehmen. During the race you run Runden and überholen other Läufer. After the Ziellinie you may have a new Rekord.",
+     "body": "A competition is der Wettkampf or der Wettbewerb; a race is das Rennen. Before the start you get die Startnummer and you take part: am Stadtlauf teilnehmen. During the race you run die Runden and überholen other Läufer. After die Ziellinie you may have der Rekord, a record.",
      "lead": "Anna runs her first Stadtlauf in this chapter. After the fan words of lesson 6 you now get the words of the race itself, in the order of the day: before, during and after.",
      "examples": [
       {
@@ -9410,39 +9673,35 @@
       }
      ],
      "deeper": {
-      "text": "Wettkampf and Wettbewerb both mean competition. Wettkampf is mostly sport: a fight for the win. Wettbewerb is wider, for example a drawing contest. A Rennen is always about speed. For a run through a town people say Stadtlauf. Läufer is the runner, Läuferin the female runner.",
+      "text": "Teilnehmen is separable and a bit irregular: nehmen becomes nimmt. Anna nimmt am Stadtlauf teil: nimmt is in position 2 and teil goes to the very end. In the Perfekt it is Anna hat am Stadtlauf teilgenommen. Wettkampf and Wettbewerb both mean competition, but Wettkampf is mostly sport, and Wettbewerb is wider, for example a drawing contest.",
       "example": {
-       "de": "Das ist ein Wettbewerb für Kinder.",
-       "en": "That is a competition for children.",
+       "de": "Anna hat am Stadtlauf teilgenommen.",
+       "en": "Anna took part in the city run.",
        "parts": [
         [
-         "Das",
+         "Anna",
          "subject"
         ],
         [
-         "ist",
+         "hat",
          "verb"
         ],
         [
-         "ein",
-         "article"
-        ],
-        [
-         "Wettbewerb",
-         "noun"
-        ],
-        [
-         "für",
+         "am",
          "preposition"
         ],
         [
-         "Kinder.",
-         "noun"
+         "Stadtlauf",
+         "place"
+        ],
+        [
+         "teilgenommen.",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "Imagine a race day. In the morning you pick up your number. Then comes the start, you run your laps and you pass other runners. At the end there is a line on the road, the finish. Each step has its own word. Learn them in this order and the day is easy to remember.",
+     "more": "Imagine the race day as a film with three scenes. Scene one: you pick up your number and sign up, so you take part. Scene two: the starting shot, the laps, and you overtake other runners. Scene three: the finish line and the record you hope for. Each scene has its own words, and you learn them in the order of the film. Say one sentence per scene about Anna, then put yourself in the main role.",
      "table": {
       "headers": [
        "When",
@@ -9466,7 +9725,13 @@
         "Anna kommt an der Ziellinie an."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Say who: Anna",
+      "Say nimmt in position 2",
+      "Say what: am Stadtlauf",
+      "Put teil at the very end"
+     ]
     },
     {
      "title": "The German l is always clear",
@@ -9572,7 +9837,7 @@
        ]
       }
      },
-     "more": "Say la, la, la with your tongue tip touching just behind your top teeth. That is the German l. Now say ball. Do not let the tongue sink. Keep the tip up until the very end. Easy test: if you hear a tiny w or oo before the l, it is the English one.",
+     "more": "Say la, la, la and feel where your tongue sits: the tip touches the little ridge just behind your top teeth. That is the German l. Now say Ball and keep the tip up until the very end. English drops the tongue, so a tiny w or oo sneaks in before the l. German does not let it in. Use a mirror: say Halle and look. If the tip of the tongue lifts at the end, it is German.",
      "table": {
       "headers": [
        "Word",
@@ -9596,7 +9861,12 @@
         "l at the end: no dark sound, tip stays up"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Put the tip of your tongue behind your top teeth",
+      "Say la, la, la",
+      "Keep the tip up in Halle and Ball, too"
+     ]
     },
     {
      "title": "The German r at the start of a syllable",
@@ -9718,7 +9988,7 @@
        ]
       }
      },
-     "more": "Gargle a little water? Almost. The German r lives at the back of your mouth, near where you swallow. It should feel like a very soft gargle, not a loud growl. If you roll it with the tip of your tongue, that is fine too, but never push the lips forward.",
+     "more": "Imagine a tiny sip of water at the back of your throat. You are about to gargle, but very softly. That quiet vibration is the German r. It should feel like a purr, not a growl. Start with the kh sound of ach, then let your voice join in: rh. A rolled r with the tip of the tongue works too, as many people in the south say it. Only avoid the English r with round lips, because it sounds foreign everywhere.",
      "table": {
       "headers": [
        "Type of r",
@@ -9742,7 +10012,12 @@
         "do not use"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Start with the kh sound of ach",
+      "Add your voice: rh",
+      "Say Rennen, Rekord, Runde"
+     ]
     },
     {
      "title": "The r after a vowel sounds like uh",
@@ -9872,7 +10147,7 @@
        ]
       }
      },
-     "more": "The r is shy at the end of a word. It does not growl. It only whispers a short uh. Say Tor like toe-uh and der like day-uh, but fast. When a vowel comes after the r, as in Läuferin, the r wakes up and is strong again.",
+     "more": "The r is shy at the end of a syllable. It does not growl, it only whispers a short uh. Say Tor like toe plus a quick uh, and der like day plus a quick uh. The ending -er works the same way, so Läufer, Trainer and Spieler all end in a soft uh. When a vowel follows, as in Läuferin, the r wakes up and is strong again, because it starts a new syllable.",
      "table": {
       "headers": [
        "Word",
@@ -9901,7 +10176,11 @@
         "r after a vowel = uh"
        ]
       ]
-     }
+     },
+     "steps": [
+      "r before a vowel: strong throat r (Läuferin)",
+      "r after a vowel at the end of a syllable: short uh (Läufer)"
+     ]
     },
     {
      "title": "r or l? Six word pairs",
@@ -10000,31 +10279,35 @@
       }
      ],
      "deeper": {
-      "text": "Practise a pair slowly. For the r word the sound is in your throat. For the l word the tip of your tongue touches your teeth. Then say the pair three times fast. Be careful with two pairs: Lose are lottery tickets and Latte is a slat, not a coffee.",
+      "text": "Practise a pair slowly. For the r word the sound is in your throat. For the l word the tip of your tongue touches your teeth. Then say the pair three times fast. Be careful with two pairs: die Lose are lottery tickets, and die Latte is a slat, a thin wooden bar. A wrong sound can give you a very different word, so slow and clear is better than fast.",
       "example": {
-       "de": "Ben sagt leise Reise.",
-       "en": "Ben says Reise quietly.",
+       "de": "Auf der Reise sind wir leise.",
+       "en": "On the trip we are quiet.",
        "parts": [
         [
-         "Ben",
-         "subject"
+         "Auf",
+         "preposition"
         ],
         [
-         "sagt",
+         "der Reise",
+         "place"
+        ],
+        [
+         "sind",
          "verb"
         ],
         [
-         "leise",
-         "other"
+         "wir",
+         "subject"
         ],
         [
-         "Reise.",
-         "other"
+         "leise.",
+         "adjective"
         ]
        ]
       }
      },
-     "more": "Two words, one tiny difference. Think of two buttons. One button is r in your throat. The other is l with your tongue tip up. Press the wrong one and the word changes: you wanted the edge, but you said the country. Say the pairs slowly and feel which button you press.",
+     "more": "Two words, one tiny difference. Think of two buttons on a machine. One button is the throat r, the other is the clear l with the tongue tip up. Press the wrong one and the machine serves a different word: you wanted the edge, but you ordered the country. Say each pair slowly, twice, and feel which button you press. Then record yourself on your phone and listen: can you hear the difference between Glas and Gras?",
      "table": {
       "headers": [
        "Pair",
@@ -10056,7 +10339,12 @@
         "rat – slat"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Listen: which sound do you hear, r or l?",
+      "Throat for r, tongue tip for l",
+      "Say the pair slowly, then three times fast"
+     ]
     },
     {
      "title": "Anna's plan for the race",
@@ -10161,7 +10449,7 @@
       }
      ],
      "deeper": {
-      "text": "Notice the two objects. Ben leiht mir seine Stoppuhr: person first, because Stoppuhr is a noun. Er gibt sie mir: both are pronouns, so the thing comes first: sie, then mir. Notice too that Stoppuhr ends in uh: the r after the vowel is only uh.",
+      "text": "Notice the two objects. Ben leiht mir seine Stoppuhr: person first, because Stoppuhr is a noun. Er gibt sie mir: both are pronouns, so the thing comes first. Notice, too, how Anna uses deshalb and trotzdem in one plan: deshalb for a result she expects (a long run, so she trains), trotzdem for a surprise (she is nervous, but she starts). Her plan is the whole chapter in four sentences.",
       "example": {
        "de": "Der Lauf ist lang, deshalb trainiere ich viel.",
        "en": "The run is long, that is why I train a lot.",
@@ -10201,7 +10489,7 @@
        ]
       }
      },
-     "more": "Anna is nervous but she runs anyway. That is trotzdem. She trains a lot because the run is long. That is deshalb. She also borrows Ben's stopwatch, and Ben gives it to her on Friday. Read it aloud: bright l in Lauf and lang, throat r in trainiere.",
+     "more": "Anna is nervous, but she runs anyway: that is trotzdem. She trains a lot because the run is long: that is deshalb. She also borrows Ben's stopwatch, and Ben gives it to her on Friday. Read the plan aloud like a short speech before the start. Listen for the bright l in Lauf and lang, the throat r in trainiere and the soft uh at the end of Stoppuhr. Then say it again, faster, as if the starting shot is about to go.",
      "table": {
       "headers": [
        "Word",
@@ -10231,7 +10519,8 @@
    "media": {
     "grammarVideos": [
      "yt:3C8j7y9VxUk",
-     "yt:q6Fzd75ONUA"
+     "yt:q6Fzd75ONUA",
+     "yt:uZLL2cNVA2s"
     ],
     "nicosWeg": [
      "nw:a1-66"
@@ -10756,7 +11045,7 @@
     {
      "intro": true,
      "title": "Before we start: from Anna's race plan to the newspaper after the race",
-     "body": "After the race the newspaper tells the story. Sports articles are full of words you do not know, but you can still understand the main points. You already know Überschrift, Absatz and berichten from chapter 4. Today you meet Schlagzeile, Schlüsselwort and überfliegen, and you read an article above your level.",
+     "body": "After the race the newspaper tells the story. Sports articles are full of words you do not know, but you can still understand the main points. You already know die Überschrift, der Absatz and berichten from A2 chapter 4. Today you meet die Schlagzeile, das Schlüsselwort and überfliegen, and you read an article above your level.",
      "steps": [
       "You already know: Überschrift, Absatz and berichten from the blog lessons.",
       "New today: Schlagzeile, Schlüsselwort and überfliegen, a six-step plan for a difficult text.",
@@ -10849,7 +11138,7 @@
        "why": "New today: the big headline of a newspaper."
       }
      ],
-     "more": "A difficult text is like a foggy road. You cannot see everything, but you can see enough to drive. You do not need every word. You need the road signs: the headline, the names, the numbers and the words you know. Today you learn six steps that always work, in a newspaper, on a poster or in an email."
+     "more": "A difficult text is like a foggy road. You cannot see everything, but you can see enough to drive. You do not need every word. You need the road signs: the headline, the names, the numbers and the words you already know. Today you get six steps that always work, in a newspaper, on a poster or in an email. Each step is small. Do them in order and the fog lifts bit by bit."
     },
     {
      "title": "Steps 1 and 2: the headline and the W-questions",
@@ -10951,7 +11240,7 @@
       }
      ],
      "deeper": {
-      "text": "Skimming is not reading slowly. Your eyes run over the text and look for names, numbers, places and times. The first paragraph often answers most W-questions. Do not translate; ask the four questions in your head and only look for those answers.",
+      "text": "Skimming is not slow reading. Your eyes run over the text and look for names, numbers, places and times. In German this is easier than in English, because every noun starts with a capital letter, so people and things jump out of the line. The first paragraph often answers most W-questions. Do not translate: ask Wer? Was? Wann? Wo? in your head.",
       "example": {
        "de": "Wo ist der Lauf? In Hamburg.",
        "en": "Where is the run? In Hamburg.",
@@ -10983,7 +11272,7 @@
        ]
       }
      },
-     "more": "Imagine you run past a shop window. You cannot read everything, but you see enough: the big sign, the photo, the prices. That is überfliegen. Read once and fast and only ask: who, what, when, where. Then you already know what the story is about.",
+     "more": "Imagine you jog past a shop window. You cannot read every price, but you see the big sign, the photo and the colours, and that is enough to know it is a bakery. Überfliegen works the same way. Read once, fast, and ask only four questions: who, what, when, where. The headline and the photo already answer some of them. Do not stop at a word you do not know: your eyes keep running.",
      "table": {
       "headers": [
        "Question",
@@ -11110,7 +11399,7 @@
       }
      ],
      "deeper": {
-      "text": "Be careful with false friends, words that look the same but mean something different. Most sports words are safe, but Handy is a mobile phone, not a hand. If the meaning does not fit the context, do not trust the look-alike. Check it in the sentence.",
+      "text": "Be careful with false friends, words that look the same but mean something different. Most sports words are safe, but Handy is a mobile phone, not a hand, and das Gymnasium is a kind of school, not a gym. If the meaning does not fit the sentence, do not trust the look-alike. Check it against the context, which is step 6.",
       "example": {
        "de": "Das Training beginnt um acht Uhr.",
        "en": "The training starts at eight o'clock.",
@@ -11142,7 +11431,7 @@
        ]
       }
      },
-     "more": "A key word is a word you already know. Put a small dot under it. After a minute the dots form a path through the text. International words are free helpers. Marathon, Team, Finale: you know them from English, and the table also tells you the article.",
+     "more": "A key word is a word you already know. Imagine putting a small dot under each one with a pencil. After a minute the dots form a path through the text, and you can follow it like stepping stones across a stream. International words are free stones: Marathon, Team and Finale look like English, and the table gives you the article, too. Mark five dots before you start to worry about the rest.",
      "table": {
       "headers": [
        "German word",
@@ -11181,7 +11470,12 @@
         "der Fan"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Step 3: mark the words you already know",
+      "Step 4: spot the international words",
+      "Use both as anchors and ignore the rest"
+     ]
     },
     {
      "title": "Step 5: split long compound words",
@@ -11260,7 +11554,7 @@
       }
      ],
      "deeper": {
-      "text": "Work from the back. Zuschauerrekord: the last part is Rekord, so the word is a record. Which kind? Of the Zuschauer. Sometimes a small joining letter sits between the parts, for example Arbeit|s|platz. Ignore it when you split the word.",
+      "text": "Work from the back. Zuschauerrekord: the last part is Rekord, so the word is a record. Which kind? A record of the Zuschauer, the spectators. Sometimes a small joining letter sits between the parts, for example Arbeit-s-platz: ignore it when you split the word. The plural also comes from the last part: die Siegerin gives die Stadtlaufsiegerinnen.",
       "example": {
        "de": "Die Wettkampfstrecke ist lang.",
        "en": "The competition route is long.",
@@ -11284,7 +11578,7 @@
        ]
       }
      },
-     "more": "Think of building blocks. Each block is a small word you know: Stadt, Lauf, Siegerin. German sticks them together without spaces. To read the long word you take the blocks apart again. The block on the right is the most important one. It tells you the thing and the article.",
+     "more": "Think of building blocks. Each block is a small word you know: Stadt, Lauf, Siegerin. German sticks them together without spaces. To read a long word, take the blocks apart again, starting from the right. The block on the right is the boss: it tells you what the thing is and which article to use. The blocks on the left only describe it. A Stadtlaufsiegerin is a Siegerin, but a special one: the winner of the Stadtlauf.",
      "table": {
       "headers": [
        "Long word",
@@ -11313,7 +11607,12 @@
         "die Strecke → die"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Split the long word into short words",
+      "Find the last part",
+      "Take the article from the last part"
+     ]
     },
     {
      "title": "Step 6: guess from the context",
@@ -11451,7 +11750,7 @@
        ]
       }
      },
-     "more": "It is a detective game. The unknown word is the suspect. The clues are the other words in the sentence. Is it hot? Do the runners drink? Then the new word probably has to do with sweating. You do not have to be sure. A good guess helps you read on.",
+     "more": "It is a detective game. The unknown word is the suspect, and the clues are the other words in the sentence. It is very hot, and the runners are in the sun: the new word probably has to do with sweating. You do not have to be sure. A good guess is enough to read on, and the next sentences often confirm it. Write your guess in the margin with a question mark, then see whether the text agrees.",
      "table": {
       "headers": [
        "Unknown word",
@@ -11475,7 +11774,13 @@
         "to clap"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Read the sentence around the new word",
+      "Ask what fits the clues",
+      "Guess, then read on",
+      "Look up at most three words"
+     ]
     },
     {
      "title": "The article: Nach dem Wettbewerb",
@@ -11585,7 +11890,7 @@
       }
      ],
      "deeper": {
-      "text": "The article is in the Perfekt: hat geschienen, hat geschafft, ist gelaufen. Only war and ist stand alone. That is the usual way to report in speech, and many newspapers use the Präteritum. You do not need that yet. Look at deshalb and trotzdem: the verb comes right after them.",
+      "text": "The article tells the past with the Perfekt, as people do in speech: hat geschienen, hat geschafft, ist gelaufen. Many newspapers prefer the Präteritum (schien, schaffte), which you will learn later; only war is the same everywhere. Look at deshalb and trotzdem in the text: the verb comes right after them, exactly as in the first lessons of this chapter.",
       "example": {
        "de": "Ihre Leistung war toll.",
        "en": "Her performance was great.",
@@ -11609,7 +11914,7 @@
        ]
       }
      },
-     "more": "Read the text like a film. First the big picture: a run in the sun with many fans. Then the winner and her record. Then Anna: she was nervous but she ran, and she is thrilled. Notice that you understand more than you thought. Every key word is a step on the path.",
+     "more": "Read the text like a short film. First the big picture: a run in the sun with many fans. Then the winner and her record. Then Anna: she was nervous, but she ran, and in the end she is thrilled. Use the six steps one after the other and notice how much you already understand. Every key word you know is a stone in the stream. Look up three words at most, and only if a sentence stays unclear.",
      "table": {
       "headers": [
        "Part",
@@ -11633,7 +11938,13 @@
         "Auch Anna hat zum ersten Mal am Stadtlauf teilgenommen. Sie war sehr nervös und hat nicht gut geschlafen. Trotzdem ist sie gelaufen. Am Ende ist sie über die Ziellinie gekommen. Ein Reporter hat sie gefragt: „Wie war der Lauf?“ Anna hat geantwortet: „Ich bin müde, aber begeistert!“ Ihre Leistung war toll."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Headline and photo: guess the topic",
+      "Skim once for Wer? Was? Wann? Wo?",
+      "Mark key words and international words",
+      "Split compounds and guess the rest"
+     ]
     },
     {
      "title": "Check your understanding",
@@ -11717,28 +12028,20 @@
      "deeper": {
       "text": "Two chunks help with a first look at a text: Auf den ersten Blick … means at first glance, and Im Großen und Ganzen … means on the whole. You only need to recognise them. When you read Im Großen und Ganzen, a summary follows. It is a good sign that the author is about to say the most important thing.",
       "example": {
-       "de": "Die Leistung von Anna war toll.",
-       "en": "Anna's performance was great.",
+       "de": "Im Großen und Ganzen war der Lauf toll.",
+       "en": "On the whole, the run was great.",
        "parts": [
         [
-         "Die",
-         "article"
-        ],
-        [
-         "Leistung",
-         "subject"
-        ],
-        [
-         "von",
-         "preposition"
-        ],
-        [
-         "Anna",
-         "noun"
+         "Im Großen und Ganzen",
+         "other"
         ],
         [
          "war",
          "verb"
+        ],
+        [
+         "der Lauf",
+         "subject"
         ],
         [
          "toll.",
@@ -11747,7 +12050,7 @@
        ]
       }
      },
-     "more": "After a hard text you have two small jobs. First, check single facts: is it true or false, and where in the text can you prove it? Second, say the whole story in one sentence. If you can do both, you have understood the text, even if some words stayed new.",
+     "more": "After a hard text you have two small jobs. First check single facts: is the sentence richtig or falsch, and where in the text can you prove it? Second, say the whole story in one sentence, like a headline for a friend. If you can do both, you have understood the text, even if some words stayed new. A real exam asks for exactly these two things, so practise them every time you read something.",
      "table": {
       "headers": [
        "Sentence",
@@ -11776,15 +12079,23 @@
         "Ihre Zeit ist ein neuer Rekord."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Is each sentence richtig or falsch?",
+      "Find the proof in the text",
+      "Say the main information in one sentence"
+     ]
     }
    ],
    "media": {
     "grammarVideos": [
+     "yt:NafRXUWieG0",
+     "yt:SYG_i7rKl_4",
      "yt:Ha18hag8N98"
     ],
     "nicosWeg": [
-     "nw:b1-49"
+     "nw:b1-49",
+     "nw:b1-50"
     ],
     "practice": []
    },
@@ -12299,7 +12610,7 @@
      "title": "Before we start: from the newspaper to your own report",
      "body": "The newspaper told Anna's story from the outside. Now you tell your own: a travel report. You know Zuerst sind wir … gefahren from the blog lessons. Today you add the words of a sports trip, the structure of a report and an invented place for sport: die Halle am Kanal.",
      "steps": [
-      "You already know: Zuerst sind wir nach Hamburg gefahren. Danach … from chapter 4.",
+      "You already know: Zuerst sind wir nach Hamburg gefahren. Danach … from A2 chapter 4.",
       "New today: Die Anreise war lang. Trotzdem waren wir pünktlich. and the plan of a travel report.",
       "By the end you can: write a short report with a beginning, three events in order, a contrast and an end."
      ],
@@ -12410,11 +12721,11 @@
        "why": "New today: Anreise and trotzdem in a report."
       }
      ],
-     "more": "A good report is like a short film in four scenes: the title, the start, the main part and the end. Each scene has its own words. You tell what happened in the order it happened. Add a surprise (trotzdem), a reason (deshalb) and your feeling, and your text comes alive."
+     "more": "A good report is like a short film in four scenes: the title, the start, the main part and the end. Each scene has its own words. You tell what happened in the order it happened, like numbers on a map: first, second, third. Then you add a surprise (trotzdem), a reason (deshalb) and your feeling, and your text comes alive. Your reader was not there, so you take them by the hand."
     },
     {
      "title": "Travel words for a sports trip",
-     "body": "A trip to a competition has four parts. The Anreise is the journey there. Then you sleep in a Unterkunft, for example a Jugendherberge. You feel the Atmosphäre at the race. Then comes the Rückreise, the journey back. Each word has its place in a report.",
+     "body": "A trip to a competition has four parts. Die Anreise is the journey there. Then you sleep in die Unterkunft, for example die Jugendherberge (youth hostel). You feel die Atmosphäre at the race. Then comes die Rückreise, the journey back. Each word has its place in a report.",
      "lead": "You know the race words. A trip to a race also needs words for the journey. They follow the order of your trip: there, stay, race, back.",
      "examples": [
       {
@@ -12519,7 +12830,7 @@
       }
      ],
      "deeper": {
-      "text": "Anreise and Rückreise are built from Reise: an = on the way there, zurück = back. Compare Hinfahrt and Rückfahrt: you know them. Fahrt is the journey itself, Reise is the whole trip. With Anreise you stress the arrival, with Reise the whole journey.",
+      "text": "Anreise and Rückreise are built from Reise: an means on the way there, zurück means back. You know Hinfahrt and Rückfahrt: die Fahrt is the single ride in a vehicle, die Reise is the whole trip with everything around it. Anreise is a bit more formal and you often read it on event websites and in hotel mails: Anreise mit dem Zug.",
       "example": {
        "de": "Die Anreise und die Rückreise waren lang.",
        "en": "The journey there and the journey back were long.",
@@ -12555,7 +12866,7 @@
        ]
       }
      },
-     "more": "Draw a line. On the left is your home, on the right the city of the race. The way to the right is the Anreise. In the city you sleep in the Unterkunft and you run. Then you go back along the line to the left. That is the Rückreise. Four stops, four words.",
+     "more": "Draw a line on paper. On the left is your home, on the right the city of the race. The way to the right is die Anreise. In the city you sleep in die Unterkunft, you feel die Atmosphäre and you run. Then you go back along the line to the left: that is die Rückreise. Four stops, four words. Tell the line aloud and point at each stop.",
      "table": {
       "headers": [
        "Part of the trip",
@@ -12584,7 +12895,13 @@
         "Die Rückreise war ruhig."
        ]
       ]
-     }
+     },
+     "steps": [
+      "Die Anreise: the way there",
+      "Die Unterkunft: where you sleep",
+      "Die Atmosphäre: what you feel at the race",
+      "Die Rückreise: the way back"
+     ]
     },
     {
      "title": "The structure of a travel report",
@@ -12681,7 +12998,7 @@
       }
      ],
      "deeper": {
-      "text": "Sein or haben? Use sein when someone moves from one place to another or changes: ist gefahren, ist gelaufen, ist angekommen, ist geblieben. For all other verbs, use haben: hat geschlafen, hat geregnet, hat gewonnen. You know this from the Perfekt. Check it again when you write.",
+      "text": "Sein or haben? Use sein when someone moves from one place to another or changes: ist gefahren, ist gelaufen, ist angekommen. Three verbs are special and always take sein: sein, bleiben and werden (ist geblieben). For all other verbs use haben: hat geschlafen, hat geregnet, hat gewonnen. You know this from the Perfekt. Check it again when you write.",
       "example": {
        "de": "Am Ende sind wir glücklich angekommen.",
        "en": "In the end we arrived happily.",
@@ -12713,7 +13030,7 @@
        ]
       }
      },
-     "more": "Imagine you tell a friend about your trip. You say where you went and with whom. Then you tell what happened first, second and third. At the end you say how you feel. A report is exactly that, but written. The four parts are four breaths of the story.",
+     "more": "Imagine you tell a friend about your trip. First you say where you went and with whom. Then you tell what happened first, second and third. At the end you say how you feel. A report is exactly that, but written down. The four parts are four breaths of the story: title, start, middle, end. Check every event sentence: the time word comes first, and the verb follows right behind it.",
      "table": {
       "headers": [
        "Verb",
@@ -12744,7 +13061,7 @@
       ]
      },
      "steps": [
-      "Überschrift: a short title, for example Liebe Grüße aus Hamburg!",
+      "Überschrift: a short title, for example Unser Wochenende in Hamburg",
       "Einleitung: wohin, wann, mit wem",
       "Hauptteil: zuerst, dann, danach, plötzlich, am Ende",
       "Schluss: your feeling and a hope"
@@ -12930,7 +13247,7 @@
        ]
       }
      },
-     "more": "Result or surprise? Heat makes you thirsty: that is a normal result, so deshalb. Rain should keep you at home, but you run anyway: that is a surprise, so trotzdem. Both words sit at the start of the sentence, and the verb always follows right behind them.",
+     "more": "Result or surprise? Heat makes you thirsty: that is a normal result, so deshalb. Rain should keep you at home, but you run anyway: that is a surprise, so trotzdem. Both words sit at the start of the sentence, and the verb follows right behind them. Aber is different: it stands outside, and the subject comes next. Ask yourself before you write: would a friend be surprised? Yes: trotzdem. No: deshalb.",
      "table": {
       "headers": [
        "You want to say",
@@ -12954,11 +13271,16 @@
         "Am Anfang war ich nervös, aber am Ende war ich glücklich."
        ]
       ]
-     }
+     },
+     "steps": [
+      "A normal result: deshalb",
+      "A surprise: trotzdem",
+      "A change of feeling: aber"
+     ]
     },
     {
      "title": "Culture: die Halle am Kanal",
-     "body": "The Halle am Kanal is a place made up for this course. It is an old Fabrik by the Kanal. Today it is a sports place with a Kletterhalle, a Sporthalle for the club „SV Kanalufer“ and the boats of a Ruderverein. Frau Weber was a good Ruderin when she was young.",
+     "body": "The Halle am Kanal is a place made up for this course. It is an old factory (die Fabrik) by the canal (der Kanal). Today it has die Kletterhalle, die Sporthalle for the club „SV Kanalufer“ and the boats of a rowing club. Frau Weber was a good Ruderin when she was young.",
      "lead": "A trip to a race often ends at a place of its own. Here is a place for sport that fits this chapter. You read about it in simple sentences.",
      "examples": [
       {
@@ -13061,7 +13383,7 @@
       }
      ],
      "deeper": {
-      "text": "In the Kletterhalle you find a Kletterwand and a Seil. On the Kanal there are Boote. You can say Man kann auf dem Kanal rudern. The club „SV Kanalufer“ uses the Sporthalle. Old factory halls are often reused today, because they have a lot of space.",
+      "text": "In die Kletterhalle you find die Kletterwand and das Seil. On the canal there are Boote, and people can rudern. Früher means in the past and goes with war: Die Halle war früher eine Fabrik. Old factory halls are often reused today, because they have a lot of space, high ceilings and a good location by the water.",
       "example": {
        "de": "Man kann auf dem Kanal rudern.",
        "en": "You can row on the canal.",
@@ -13079,11 +13401,7 @@
          "preposition"
         ],
         [
-         "dem",
-         "article"
-        ],
-        [
-         "Kanal",
+         "dem Kanal",
          "place"
         ],
         [
@@ -13093,7 +13411,7 @@
        ]
       }
      },
-     "more": "Imagine an old factory with big halls and a canal beside it. Nobody makes things there any more. Now people climb, play and row. It is the same building but with a new life. The name tells the story: the hall at the canal.",
+     "more": "Imagine an old factory with big halls and a canal beside it. Nobody makes things there any more. Now people climb, play and row. It is the same building, but with a new life. The name tells the story: the hall at the canal. Walk through it in your mind: climbing wall and rope on the left, the sports hall for the club in the middle, the boats on the water at the back.",
      "table": {
       "headers": [
        "Place",
@@ -13113,11 +13431,16 @@
         "Boote, the Ruderverein"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Früher: a factory by the canal",
+      "Heute: a sports place",
+      "Three things to do: climb, play, row"
+     ]
     },
     {
      "title": "Culture: Sportvereine in D-A-CH",
-     "body": "In Germany, Austria and Switzerland many people are members of a Sportverein. A club has Mannschaften for children and adults. Many towns have a Stadtlauf. Popular sports are Fußball, Handball, Volleyball, Schwimmen, Radfahren and Laufen. You find the clubs near you online or in the newspaper.",
+     "body": "In Germany, Austria and Switzerland many people are members of a sports club (der Sportverein). A club has teams (die Mannschaften) for children and adults. Many towns have a city run (der Stadtlauf). Popular sports are Fußball, Handball, Volleyball, Schwimmen, Radfahren and Laufen. You find clubs near you online.",
      "lead": "The Halle am Kanal is invented, but clubs are real life. A few facts about sports clubs in German-speaking countries help you for your own report.",
      "examples": [
       {
@@ -13284,7 +13607,7 @@
        ]
       }
      },
-     "more": "A Sportverein is a bit like a family for a sport. You train with the same people every week. In summer you play, in winter maybe you train in the hall, and sometimes you go to a Wettkampf. In many towns there is a club for almost every sport.",
+     "more": "A Sportverein is a bit like a family for one sport. You train with the same people every week. In summer you play outside, in winter you train in the hall, and sometimes you go to a Wettkampf together. In many towns there is a club for almost every sport, and children often start there. You pay a small fee, and in return you get a coach, a place and friends.",
      "table": {
       "headers": [
        "Where",
@@ -13308,7 +13631,12 @@
         "Fußball"
        ]
       ]
-     }
+     },
+     "steps": [
+      "Join a club near you",
+      "Train with a team every week",
+      "Go to a competition together"
+     ]
     },
     {
      "title": "Write your report in five steps",
@@ -13400,7 +13728,7 @@
        ]
       }
      },
-     "more": "Think of the report as a ladder. Each step is one small job. Do not jump to the top. First the plan, then the start, then three events, then the contrast, then the end. After each step you have already written a part of the text. At the end you only add your name.",
+     "more": "Think of the report as a ladder. Each step is one small job. Do not jump to the top. First the plan, then the start, then three events, then the contrast, then the end. After each step you already have a part of the text. At the end you add a feeling: Es hat sich gelohnt! means it was worth it, and Ich komme bestimmt wieder means I will definitely come again. Then only your name is missing.",
      "table": {
       "headers": [
        "Part",
@@ -13409,7 +13737,7 @@
       "rows": [
        [
         "Überschrift",
-        "Liebe Grüße aus Hamburg!"
+        "Unser Wochenende in Hamburg"
        ],
        [
         "Einleitung",
@@ -13436,10 +13764,13 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:u8M5d4XyNYQ"
+     "yt:u8M5d4XyNYQ",
+     "yt:sC1kWsL_Azo",
+     "yt:50istPWib_g"
     ],
     "nicosWeg": [
-     "nw:a2-18"
+     "nw:a2-18",
+     "nw:a2-17"
     ],
     "practice": []
    },
@@ -13694,7 +14025,7 @@
       "only golf"
      ],
      "answer": 1,
-     "hint": "Look at card 5.",
+     "hint": "Look at the sports club card.",
      "explanation": "Popular sports: Fußball, Handball, Volleyball, Schwimmen, Radfahren, Laufen.",
      "grammar": false
     },
@@ -13929,11 +14260,11 @@
    "day": 1,
    "reading": {
     "title": "Das Spiel am Samstag",
-    "text": "Mira: Hallo ihr! Unser Spiel am Samstag war schwer. Zuerst haben wir gut gespielt. Dann habe ich mich verletzt. Ich konnte nicht gut laufen und war sehr erschöpft. Trotzdem habe ich nach der Halbzeit weitergemacht. Am Ende haben wir leider zwei zu drei verloren. Deshalb bin ich enttäuscht, aber ich bin auch stolz.\nBen: Kopf hoch, Mira! Das ist doch nicht schlimm. Nächstes Mal klappt es bestimmt.\nLeon: Du hast trotzdem super gespielt! Die Gegner waren wirklich stark. Hoffentlich bist du bald wieder fit.\nAnna: Du solltest heute früh schlafen. Ich drücke euch die Daumen für das Finale!\nMira: Danke, ihr seid super!",
+    "text": "Mira: Hallo ihr! Unser Spiel am Samstag war schwer. Zuerst haben wir gut gespielt. Dann habe ich mich verletzt. Ich konnte nicht gut laufen und war sehr erschöpft. Trotzdem habe ich nach der Pause weitergemacht. Am Ende haben wir leider zwei zu drei verloren. Deshalb bin ich enttäuscht, aber ich bin auch stolz.\nBen: Kopf hoch, Mira! Das ist doch nicht schlimm. Nächstes Mal klappt es bestimmt.\nLeon: Du hast trotzdem super gespielt! Die Gegner waren wirklich stark. Hoffentlich bist du bald wieder fit.\nAnna: Du solltest heute früh schlafen. Ich drücke euch die Daumen für das nächste Spiel!\nMira: Danke, ihr seid super!",
     "glossary": [
      {
-      "de": "die Halbzeit",
-      "en": "half-time, half"
+      "de": "die Pause",
+      "en": "break"
      },
      {
       "de": "sich verletzen",
@@ -14002,11 +14333,11 @@
       "options": [
        "no, she went home",
        "no, the game was over",
-       "yes, after half-time"
+       "yes, after the break"
       ],
       "answer": 2,
       "hint": "Look for trotzdem.",
-      "explanation": "Trotzdem habe ich nach der Halbzeit weitergemacht.",
+      "explanation": "Trotzdem habe ich nach der Pause weitergemacht.",
       "grammar": false
      },
      {
@@ -14082,7 +14413,7 @@
       ],
       "answer": 2,
       "hint": "Ich drücke euch die Daumen.",
-      "explanation": "Ich drücke euch die Daumen für das Finale!",
+      "explanation": "Ich drücke euch die Daumen für das nächste Spiel!",
       "grammar": false
      }
     ]
@@ -14354,7 +14685,7 @@
    "day": 2,
    "reading": {
     "title": "Fragen vor dem Spiel",
-    "text": "Fragen vor dem Spiel\nForum der Kanal-Haie\nLeon: Hallo zusammen! Am Samstag spielen wir in Köln. Leider habe ich keinen Fanschal mehr. Kann mir jemand einen leihen?\nMira: Hallo Leon! Ich habe zwei Fanschals. Ich gebe ihn dir am Samstag, kein Problem.\nAnna: Ich bin neu hier und kenne die Regeln nicht gut. Kann sie mir jemand erklären?\nLeon: Klar, Anna. Ich erkläre sie dir nach dem Spiel.\nHerr Ali: Hallo! Wer hat keine Karte? Ich zeige das Spiel im Restaurant „Zum Löwen“ auf dem großen Bildschirm. Ich verspreche es euch: Wenn wir gewinnen, gibt es Getränke für alle.\nMira: Super, Herr Ali! Wir kommen alle. Hoffentlich gewinnen wir!",
+    "text": "Fragen vor dem Spiel\nForum der Kanal-Haie\nLeon: Hallo zusammen! Am Samstag spielen wir in Köln. Leider habe ich keinen Fanschal mehr. Kann mir jemand einen Fanschal leihen?\nMira: Hallo Leon! Ich habe noch einen Fanschal. Ich gebe ihn dir am Samstag, kein Problem.\nAnna: Ich bin neu hier und kenne die Regeln nicht gut. Kann sie mir jemand erklären?\nLeon: Klar, Anna. Ich erkläre sie dir nach dem Spiel.\nHerr Ali: Hallo! Wer hat keine Karte? Ich zeige das Spiel im Restaurant „Zum Löwen“ auf dem großen Bildschirm. Ich verspreche es euch: Wenn wir gewinnen, gibt es Getränke für alle.\nMira: Super, Herr Ali! Wir kommen alle. Hoffentlich gewinnen wir!",
     "glossary": [
      {
       "de": "Hallo zusammen",
@@ -14504,7 +14835,7 @@
        "the fan scarf"
       ],
       "answer": 2,
-      "hint": "Which word is a der-word in Leon's question?",
+      "hint": "Which word is a der-word in Leon's first message?",
       "explanation": "ihn = der Fanschal.",
       "grammar": true
      }
@@ -14790,7 +15121,7 @@
    "day": 3,
    "reading": {
     "title": "Liebe Grüße aus Hamburg!",
-    "text": "Liebe Grüße aus Hamburg!\n\nLiebe Leser,\n\nich bin zum ersten Mal in Hamburg und habe am Stadtlauf teilgenommen! Zuerst sind wir mit dem Zug gefahren. Die Anreise war lang, aber wir sind pünktlich angekommen. Wir haben in der Jugendherberge geschlafen. Am Morgen hat es geregnet. Trotzdem bin ich gelaufen. Ben hat mir seine Stoppuhr geliehen, und Mira hat mich angefeuert. Am Ende bin ich über die Ziellinie gelaufen. Die Atmosphäre war toll, und viele Fans haben gejubelt. Danach war die Siegerehrung. Ich war sehr müde, deshalb bin ich früh ins Bett gegangen. Aber ich bin glücklich. Es hat sich gelohnt!\n\nViele Grüße\nAnna",
+    "text": "Liebe Grüße aus Hamburg!\n\nLiebe Leser,\n\nich bin zum ersten Mal in Hamburg und habe am Stadtlauf teilgenommen! Zuerst sind wir mit dem Zug gefahren. Die Anreise war lang, aber wir sind pünktlich angekommen. Wir haben in der Jugendherberge geschlafen. Am Morgen war ich sehr nervös. Trotzdem bin ich gelaufen. Ben hat mir seine Stoppuhr geliehen, und Mira hat mich angefeuert. Am Ende bin ich über die Ziellinie gelaufen. Die Atmosphäre war toll, und viele Fans haben gejubelt. Danach war die Siegerehrung. Ich war sehr müde, deshalb bin ich früh ins Bett gegangen. Aber ich bin glücklich. Es hat sich gelohnt!\n\nViele Grüße\nAnna",
     "glossary": [
      {
       "de": "Liebe Leser",
@@ -14852,21 +15183,21 @@
      },
      {
       "type": "choice",
-      "prompt": "What was the weather in the morning?",
+      "prompt": "How did Anna feel in the morning?",
       "options": [
-       "sun",
-       "snow",
-       "rain"
+       "happy",
+       "nervous",
+       "ill"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Am Morgen …",
-      "explanation": "Am Morgen hat es geregnet."
+      "explanation": "Am Morgen war ich sehr nervös."
      },
      {
       "type": "choice",
       "prompt": "Did Anna run?",
       "options": [
-       "Yes, in spite of the weather.",
+       "Yes, in spite of her nerves.",
        "No, she stayed in the hostel.",
        "Only a little."
       ],
@@ -14938,7 +15269,7 @@
    },
    "listening": {
     "title": "Hallo? … Was ist los?",
-    "script": "Frau Weber: Hallo? Anna, sind Sie das? Was ist los? Sie klingen so traurig.\nAnna: Hallo, Frau Weber. Ja, ich bin ein bisschen enttäuscht. Meine Zeit war nicht gut.\nFrau Weber: Aber Sie haben doch am Stadtlauf teilgenommen! Das ist schon eine tolle Leistung.\nAnna: Ich war so nervös. Es hat geregnet, und ich habe schlecht geschlafen.\nFrau Weber: Kopf hoch, Anna! Trotzdem sind Sie ins Ziel gekommen. Nächstes Mal klappt es bestimmt.\nAnna: Vielen Dank, Frau Weber. Das ist nett.\nFrau Weber: Wissen Sie, ich war früher eine gute Ruderin. Auch ich hatte einmal Pech bei einem Wettkampf. Trotzdem habe ich weitergemacht.\nAnna: Ja, Sie haben recht.\nFrau Weber: Kommen Sie heute Abend ins Restaurant „Zum Löwen“! Herr Ali gibt den Läufern ein Getränk. Es ist gratis.\nAnna: Wirklich? Das ist eine schöne Überraschung. Ich komme gern!\nFrau Weber: Super! Bis später, Anna.\nAnna: Bis später, Frau Weber.",
+    "script": "Frau Weber: Hallo? Anna, sind Sie das? Was ist los? Sie klingen so traurig.\nAnna: Hallo, Frau Weber. Ja, ich bin ein bisschen enttäuscht. Meine Zeit war nicht gut.\nFrau Weber: Aber Sie haben doch am Stadtlauf teilgenommen! Das ist schon eine tolle Leistung.\nAnna: Ich war so nervös, und ich habe schlecht geschlafen.\nFrau Weber: Kopf hoch, Anna! Trotzdem sind Sie ins Ziel gekommen. Nächstes Mal klappt es bestimmt.\nAnna: Vielen Dank, Frau Weber. Das ist nett.\nFrau Weber: Wissen Sie, ich war früher eine gute Ruderin. Auch ich hatte einmal Pech bei einem Wettkampf. Trotzdem habe ich weitergemacht.\nAnna: Ja, Sie haben recht.\nFrau Weber: Kommen Sie heute Abend ins Restaurant „Zum Löwen“! Herr Ali gibt den Läufern ein Getränk. Es ist gratis.\nAnna: Wirklich? Das ist eine schöne Überraschung. Ich komme gern!\nFrau Weber: Super! Bis später, Anna.\nAnna: Bis später, Frau Weber.",
     "questions": [
      {
       "type": "choice",
@@ -14978,15 +15309,15 @@
      },
      {
       "type": "choice",
-      "prompt": "What was the weather like?",
+      "prompt": "How did Anna sleep before the race?",
       "options": [
-       "It rained.",
-       "It was hot.",
-       "It was snowing."
+       "very well",
+       "badly",
+       "not at all"
       ],
-      "answer": 0,
-      "hint": "Es hat …",
-      "explanation": "Es hat geregnet."
+      "answer": 1,
+      "hint": "Listen after nervös.",
+      "explanation": "Ich habe schlecht geschlafen."
      },
      {
       "type": "choice",
@@ -15096,12 +15427,12 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Es hat geregnet. ___ bin ich gelaufen. (still)",
+      "prompt": "Complete: Ich war nervös. ___ bin ich gelaufen. (still)",
       "answers": [
        "Trotzdem"
       ],
       "hint": "Surprising result.",
-      "explanation": "Es hat geregnet. Trotzdem bin ich gelaufen.",
+      "explanation": "Ich war nervös. Trotzdem bin ich gelaufen.",
       "grammar": true
      },
      {
