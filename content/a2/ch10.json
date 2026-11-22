@@ -132,7 +132,7 @@
        "why": "New today: stellen has an object, so it goes Wohin?."
       }
      ],
-     "more": "You know that the same small word can answer Wo? or Wohin?. The trouble is: which one do I choose? Today you get a test that works every time. If somebody moves a thing, ask Wohin?. If the thing just sits there, ask Wo?."
+     "more": "Think of a moving day. Friends carry boxes and keep asking two things: Where is it? and Where do I put it? In English you already feel the difference, because 'is' and 'put' are two different words. German does the same with stehen and stellen. Today you get one test that sorts every sentence: is somebody moving the thing? If yes, ask Wohin?. If not, ask Wo?. After that, only the articles are left to choose."
     },
     {
      "title": "Two verbs, two questions",
@@ -237,7 +237,7 @@
        ]
       }
      },
-     "more": "Imagine a film. If you pause it and see the cupboard standing quietly, you say stehen. If you press play and see Ben carrying it, you say stellen. A moving thing needs a person who moves it, and that person gives you the object.",
+     "more": "English also has pairs: 'the cup is on the table' and 'I put the cup on the table'. German is just as tidy. Stehen is the quiet verb: the thing is there and nobody does anything. Stellen is the busy verb: a person holds the thing and moves it. Busy verb, busy question: Wohin? Quiet verb, quiet question: Wo? Try it with a cup near you: Die Tasse steht auf dem Tisch. Ich stelle die Tasse auf den Tisch.",
      "table": {
       "headers": [
        "",
@@ -381,7 +381,7 @@
        ]
       }
      },
-     "more": "Do not learn the grid by heart in one piece. Pick one noun of each gender and say it aloud in both columns: dem Schrank / den Schrank, dem Regal / das Regal, der Kommode / die Kommode, den Kisten / die Kisten. The verb tells you which column you need, the noun tells you which row.",
+     "more": "Think of the grid as a vending machine with two buttons. Button one is the verb: a state gives you the dative column, a movement gives you the accusative column. Button two is the gender of the noun. Out comes the article. Practise with one noun of each gender and say the pairs aloud: dem Schrank, den Schrank. dem Regal, das Regal. der Kommode, die Kommode. In the plural, Kisten already ends in -n, so nothing is added.",
      "table": {
       "headers": [
        "",
@@ -407,8 +407,8 @@
        ],
        [
         "Short forms",
-        "am, im",
-        "ans, ins, aufs",
+        "am, im (Wo?)",
+        "am, im (Wo?) · ans, ins, aufs (Wohin?)",
         "—",
         "—"
        ]
@@ -416,8 +416,168 @@
      }
     },
     {
+     "title": "Furniture words: article and plural",
+     "body": "Learn every noun with its article and its plural, because the article decides the ending after Wo? and Wohin?. Say the whole chunk: der Hocker, die Hocker. Compound nouns take the article of the LAST part: Nacht + der Tisch = der Nachttisch; Bücher + das Regal = das Bücherregal.",
+     "lead": "You can now choose the verb and the case. This card gives you the furniture words you will move around in the free room, each with the article that makes the endings work.",
+     "examples": [
+      {
+       "de": "Die Steckdose ist hinter dem Regal.",
+       "en": "The socket is behind the shelf.",
+       "parts": [
+        [
+         "Die Steckdose",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "hinter",
+         "preposition"
+        ],
+        [
+         "dem Regal.",
+         "dative"
+        ]
+       ],
+       "why": "die Steckdose, die Steckdosen"
+      },
+      {
+       "de": "Der Vorhang hängt am Fenster.",
+       "en": "The curtain hangs at the window.",
+       "parts": [
+        [
+         "Der Vorhang",
+         "subject"
+        ],
+        [
+         "hängt",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Fenster.",
+         "dative"
+        ]
+       ],
+       "why": "der Vorhang, die Vorhänge"
+      },
+      {
+       "de": "Ben stellt den Nachttisch neben das Bett.",
+       "en": "Ben puts the bedside table next to the bed.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "stellt",
+         "verb"
+        ],
+        [
+         "den Nachttisch",
+         "object"
+        ],
+        [
+         "neben",
+         "preposition"
+        ],
+        [
+         "das Bett.",
+         "object"
+        ]
+       ],
+       "why": "der Nachttisch, die Nachttische"
+      }
+     ],
+     "deeper": {
+      "text": "Many plurals of furniture add an umlaut: der Schrank, die Schränke; der Vorhang, die Vorhänge. Words ending in -er or -el often stay the same: der Hocker, die Hocker; das Kabel, die Kabel. Words ending in -e add -n: die Kommode, die Kommoden. Learn the plural together with the singular, and you will rarely guess wrong.",
+      "example": {
+       "de": "Die Hocker stehen neben den Schränken.",
+       "en": "The stools stand next to the cupboards.",
+       "parts": [
+        [
+         "Die Hocker",
+         "subject"
+        ],
+        [
+         "stehen",
+         "verb"
+        ],
+        [
+         "neben",
+         "preposition"
+        ],
+        [
+         "den Schränken.",
+         "dative"
+        ]
+       ]
+      }
+     },
+     "more": "Treat every noun like a person with a name tag. The tag is the article: der, das or die. If you lose the tag, you cannot choose dem or den later. So never learn Hocker alone, always der Hocker. A second trick: the plural tells you the family. A word that ends in -e almost always takes -n, and a word that ends in -er or -el stays the same. Say each pair aloud once and you will remember it better than from a list.",
+     "table": {
+      "headers": [
+       "Article + noun",
+       "Plural",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Schrank",
+        "die Schränke",
+        "cupboard"
+       ],
+       [
+        "das Bücherregal",
+        "die Bücherregale",
+        "bookshelf"
+       ],
+       [
+        "die Kommode",
+        "die Kommoden",
+        "chest of drawers"
+       ],
+       [
+        "der Nachttisch",
+        "die Nachttische",
+        "bedside table"
+       ],
+       [
+        "der Hocker",
+        "die Hocker",
+        "stool"
+       ],
+       [
+        "die Steckdose",
+        "die Steckdosen",
+        "socket"
+       ],
+       [
+        "das Kabel",
+        "die Kabel",
+        "cable"
+       ],
+       [
+        "der Vorhang",
+        "die Vorhänge",
+        "curtain"
+       ],
+       [
+        "der Wäscheständer",
+        "die Wäscheständer",
+        "clothes drying rack"
+       ]
+      ]
+     }
+    },
+    {
      "title": "The object test with six pairs",
-     "body": "Here are six sentences with the same preposition, in. Always the same pair: the first sentence is a state, the second has a person who moves a thing. Look only at the verb and the object. No object means dative. An object that somebody moves means accusative. The preposition never tells you the case.",
+     "body": "Here are three pairs of sentences. In each pair the thing and the place are the same: the left sentence is a state, the right one has a person who moves the thing. Look only at the verb and the object. No object means dative. An object that somebody moves means accusative. The preposition never tells you the case.",
      "lead": "Now you try the test on real furniture. Read each row from left to right: same thing, same place, but a different verb and so a different case.",
      "examples": [
       {
@@ -524,7 +684,7 @@
        ]
       }
      },
-     "more": "Common trap: you can never „stand“ something. Ich stehe den Schrank in die Ecke sounds like a person who stands the cupboard, but German has no such sentence: you stelle it. Another trap goes the other way: Der Schrank stellt in der Ecke is wrong, the cupboard does nothing, so it steht. Always check: who does something, and to what?",
+     "more": "A quick way to test yourself: cover one column with your hand. Read the left sentence and build the right one in your head, then swap. Notice what changes: the verb, the person who appears, the article. What stays the same: the thing, the place and the preposition. So the small word in or vor never decides the case. If you get stuck, ask: Does somebody do something to the thing? If yes, you need the accusative.",
      "table": {
       "headers": [
        "Wo? stehen (no object)",
@@ -663,7 +823,7 @@
        ]
       }
      },
-     "more": "Think of the bracket as two hands that hold the sentence: the helper hat on the left, the participle gestanden or gestellt on the right. Everything else lies between them. Aufstellen is like aufstehen from chapter 4: the prefix auf- is separable, so the small ge- goes after it: auf-ge-stellt.",
+     "more": "Compare with English: 'has stood' and 'has put'. English also keeps one participle for the end of the clause, and German does it even more strictly. Stehen is an old irregular verb, like English 'stand, stood', so its participle changes inside: gestanden. Stellen is regular, so it simply ends in -t: gestellt. A separable verb puts ge- in the middle: auf-ge-stellt. Say the three chunks aloud five times: hat gestanden, hat gestellt, hat aufgestellt.",
      "table": {
       "headers": [
        "Infinitive",
@@ -783,7 +943,7 @@
        ]
       }
      },
-     "more": "Imagine you hold a heavy cupboard and shout Wohin damit? The helper points and says Stell ihn in die Ecke! One small word, ihn, stands for the whole cupboard. Check the gender of the thing: der Hocker is ihn, die Lampe is sie, das Regal is es.",
+     "more": "Picture a loud moving day: nobody has time for long sentences. Somebody shouts Wohin damit? and points. The helper answers with the shortest thing that works: Stell ihn ans Fenster! Three tiny tricks make this work. First, the pronoun copies the gender of the noun: der Hocker, so ihn. Second, the du-imperative of stellen has no -st: Stell! Third, the goal phrase keeps its accusative: ans Fenster, in die Ecke. Everything else is dropped because everybody can see it.",
      "table": {
       "headers": [
        "Question",
@@ -951,7 +1111,7 @@
        ]
       }
      },
-     "more": "Listen for the verb, not for the preposition. In every line of the dialogue the verb tells you the case: stellen or an imperative of stellen means Wohin? and accusative, steht means Wo? and dative. If you hear the question Wohin, the answer will have a movement verb or an imperative.",
+     "more": "Treat the dialogue like a small treasure hunt. Read it once for the story. Then read it again with two coloured pens. Mark every verb that moves something (stellen, Stell!) in one colour, and every verb that only says where a thing is (steht) in the other. Next, underline each preposition phrase and check the article: after stellen it is accusative (an die Wand), after steht it is dative (im Flur). Finally, read it aloud with a friend, one role each.",
      "table": {
       "headers": [
        "Who",
@@ -988,7 +1148,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:CcWkEP3Dw8E"
+     "yt:CcWkEP3Dw8E",
+     "yt:gxJ2ghkTBCs"
     ],
     "nicosWeg": [
      "nw:a2-43"
@@ -1014,10 +1175,10 @@
      "prompt": "Ben ___ den Schrank in die Ecke.",
      "options": [
       "steht",
-      "stehen",
-      "stellt"
+      "stellt",
+      "stehen"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "There is an object: den Schrank.",
      "explanation": "Ben stellt den Schrank in die Ecke.",
      "grammar": true
@@ -1036,11 +1197,11 @@
      "type": "choice",
      "prompt": "What does der Hocker mean?",
      "options": [
-      "stool",
       "curtain",
-      "socket"
+      "socket",
+      "stool"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "A small seat without a back.",
      "explanation": "Der Hocker = stool.",
      "grammar": false
@@ -1072,11 +1233,11 @@
      "type": "choice",
      "prompt": "Leon stellt das Regal in ___ Ecke.",
      "options": [
-      "der",
       "die",
+      "der",
       "dem"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Wohin? Die Ecke is feminine: accusative die.",
      "explanation": "Leon stellt das Regal in die Ecke.",
      "grammar": true
@@ -1118,11 +1279,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Hocker steht am Fenster.",
       "Der Hocker steht ans Fenster.",
+      "Der Hocker steht am Fenster.",
       "Der Hocker stellt am Fenster."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "No object: stehen + dative (am).",
      "explanation": "Der Hocker steht am Fenster.",
      "grammar": true
@@ -1132,10 +1293,10 @@
      "prompt": "Ich ___ die Lampe auf den Schreibtisch.",
      "options": [
       "stehe",
-      "stelle",
-      "steht"
+      "steht",
+      "stelle"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Ich + stellen: -e.",
      "explanation": "Ich stelle die Lampe auf den Schreibtisch.",
      "grammar": true
@@ -1176,11 +1337,11 @@
      "type": "choice",
      "prompt": "Ben ___ den Schrank in die Ecke gestellt.",
      "options": [
+      "hat",
       "ist",
-      "steht",
-      "hat"
+      "steht"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Stellen uses haben in the Perfekt.",
      "explanation": "Ben hat den Schrank in die Ecke gestellt.",
      "grammar": true
@@ -1199,11 +1360,11 @@
      "type": "choice",
      "prompt": "What does die Steckdose mean?",
      "options": [
-      "socket",
       "cable",
+      "socket",
       "curtain"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "You plug the cable into it.",
      "explanation": "Die Steckdose = socket.",
      "grammar": false
@@ -1223,10 +1384,10 @@
      "prompt": "Which question asks for the goal when Leon moves the shelf?",
      "options": [
       "Wo?",
-      "Wohin?",
-      "Woher?"
+      "Woher?",
+      "Wohin?"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Somebody moves it: a goal.",
      "explanation": "Wohin?",
      "grammar": true
@@ -1508,7 +1669,7 @@
     {
      "intro": true,
      "title": "Before we start: three pairs, one test",
-     "body": "The free room needs more than der Schrank. Mira wants der Teppich on the floor and das Poster over the bed. Leon looks for his Hammer. Today the test from lesson 1 works for flat things (liegen and legen) and for things that hang. But hängen is special: it has two Perfekt forms.",
+     "body": "The free room needs more than der Schrank. Mira wants der Teppich on the floor and das Poster over the bed. Leon looks for the hammer. Today the test from lesson 1 works for flat things (liegen and legen) and for things that hang. But hängen is special: it has two Perfekt forms.",
      "steps": [
       "You already know: stehen and stellen, the object test (an object that somebody moves = Wohin? + accusative), and hat gestanden / hat gestellt.",
       "New today: liegen and legen for flat things, hängen with and without an object, the Perfekt gehangen or gehängt, and the separable verb aufhängen.",
@@ -1593,7 +1754,7 @@
        "why": "New today: the same test with legen."
       }
      ],
-     "more": "Standing things are only one kind of furniture. Carpets and towels lie flat, posters and curtains hang. German has a verb pair for each kind. The good news: the question you ask is always the same, so you only learn new verbs and no new rule."
+     "more": "Imagine a trip to the hardware store before the room is ready. You buy a hammer, nails, a ladder, a carpet. At home every item gets a job: some stand, some lie flat, some hang on the wall. German gives each job its own verb, and for every job you ask the two questions you already know: Wo? or Wohin? So today you add three verb pairs but no new rule. Only hängen is odd, because it has two Perfekt forms."
     },
     {
      "title": "liegen or legen: flat things",
@@ -1702,7 +1863,7 @@
        ]
       }
      },
-     "more": "Say the two verbs together as a pair: liegen, legen. Then say two sentences in your head: the carpet liegt on the floor (nobody does anything), and Leon legt the carpet on the floor (Leon does something). If a person does something to the thing, it is legen.",
+     "more": "English has almost the same pair: 'to lie' and 'to lay'. The book lies on the table. I lay the book on the table. German keeps the two verbs clearly apart: liegen and legen. A hint for the spelling: liegen has the i, like 'lie', and legen has the e, like 'lay'. The verb with an object is the one with the e: legen. Say them as two little pictures: liegt means it rests, legt means somebody puts it.",
      "table": {
       "headers": [
        "",
@@ -1845,7 +2006,7 @@
        ]
       }
      },
-     "more": "Do not look at hängt itself, it never changes. Look at the rest of the sentence: is there a thing that somebody moves? Das Bild hängt: nobody does anything. Mira hängt das Bild: Mira does something and das Bild is the object. One word, two pictures.",
+     "more": "Look at the sentence like a photo with a person in it. Das Bild hängt: the photo shows only the picture on the wall. Mira hängt das Bild: the photo shows Mira with her arms up, holding the picture. A person doing something means an object in the sentence, and an object means accusative. English also uses one word for both: 'the coat hangs' and 'I hang the coat'. The question is the same as with stellen, only the verb never changes in the present.",
      "table": {
       "headers": [
        "",
@@ -2001,7 +2162,7 @@
        ]
       }
      },
-     "more": "Read the ending as a clue. The ending -en is the quiet one: gestanden, gelegen, gehangen, nothing happens. The ending -t is the active one: gestellt, gelegt, gehängt, somebody does something. Ge-hang-en and ge-häng-t differ in two ways: the vowel (a or ä) and the ending (-en or -t).",
+     "more": "Learn the Perfekt as a short rhyme in your head: quiet verbs wear -en, busy verbs wear -t. Gestanden, gelegen, gehangen: nobody moves. Gestellt, gelegt, gehängt: somebody moves a thing. The vowel also shows it: gehangen has a, gehängt has ä. When you write the Perfekt, ask first: object or no object? The ending follows. And never mix up gelegen and gelegt: one letter, a different job.",
      "table": {
       "headers": [
        "Wo? (no object)",
@@ -2113,7 +2274,7 @@
       }
      ],
      "deeper": {
-      "text": "Aufhängen always has an object, so it always means somebody hangs something up: the accusative goal is the only possible case. The same is true of aufstellen from lesson 1 and hinlegen: Leon legt den Hammer hin. You can ask them with a command too: Häng das Poster bitte an die Wand!",
+      "text": "Aufhängen and aufstellen always need an object: somebody hangs or sets up something, so the goal is accusative. Hinlegen works the same with a thing (Leon legt den Hammer hin). With a person it becomes reflexive: Ich lege mich hin, as in chapter 4. You can order all of them too: Häng das Poster bitte auf!",
       "example": {
        "de": "Leon legt den Hammer hin.",
        "en": "Leon puts the hammer down.",
@@ -2137,7 +2298,7 @@
        ]
       }
      },
-     "more": "A separable verb is like a train with two cars that split in the present. The first car, hängt, drives on in position 2. The second car, auf, waits at the end. Everything that belongs in between (the picture, the wall) fits into the middle. In the Perfekt the cars join again: aufgehängt.",
+     "more": "Think of a sandwich. The top bread is hängt, the bottom bread is auf, and the goal an die Wand is the filling in the middle. That is the present: Mira hängt das Bild an die Wand auf. In the Perfekt the bread closes into one word, aufgehängt, and the filling sits between hat and the participle. English works in a similar way: 'hang the picture up'. The small part moves away from its verb, and German sends it to the end.",
      "table": {
       "headers": [
        "Infinitive",
@@ -2159,6 +2320,170 @@
         "hinlegen",
         "Leon legt den Hammer hin.",
         "hat hingelegt"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "The tool box: words for hanging things",
+     "body": "Hanging a poster needs tools. Learn each word with its article and plural: der Hammer, der Nagel, die Schraube, die Bohrmaschine. Das Werkzeug means tools in general. The ladder is die Leiter. Verb + noun makes a mini-sentence: Der Hammer liegt, die Leiter steht, das Poster hängt.",
+     "lead": "You can now place things with six verbs. This card gives you the small words around the job: tools and things to hang, each with article and plural, ready for the drills.",
+     "examples": [
+      {
+       "de": "Leon holt die Bohrmaschine und die Schrauben.",
+       "en": "Leon gets the drill and the screws.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "holt",
+         "verb"
+        ],
+        [
+         "die Bohrmaschine",
+         "object"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "die Schrauben.",
+         "object"
+        ]
+       ],
+       "why": "die Bohrmaschine, die Schrauben"
+      },
+      {
+       "de": "Das Werkzeug liegt im Flur.",
+       "en": "The tools are in the hallway.",
+       "parts": [
+        [
+         "Das Werkzeug",
+         "subject"
+        ],
+        [
+         "liegt",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Flur.",
+         "dative"
+        ]
+       ],
+       "why": "das Werkzeug = tools in general"
+      },
+      {
+       "de": "Mira stellt die Leiter neben den Schrank.",
+       "en": "Mira puts the ladder next to the cupboard.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "stellt",
+         "verb"
+        ],
+        [
+         "die Leiter",
+         "object"
+        ],
+        [
+         "neben",
+         "preposition"
+        ],
+        [
+         "den Schrank.",
+         "object"
+        ]
+       ],
+       "why": "stellen + object: Wohin? accusative"
+      }
+     ],
+     "deeper": {
+      "text": "German builds many words from two parts, and the last part gives the article: das Werkzeug = Werk (work) + Zeug (stuff); das Handtuch = Hand + Tuch (cloth); die Bohrmaschine = bohren (to drill) + die Maschine. When you meet a long new word, split it: the meaning and the gender both appear.",
+      "example": {
+       "de": "Das Handtuch liegt auf dem Bett.",
+       "en": "The towel lies on the bed.",
+       "parts": [
+        [
+         "Das Handtuch",
+         "subject"
+        ],
+        [
+         "liegt",
+         "verb"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "dem Bett.",
+         "dative"
+        ]
+       ]
+      }
+     },
+     "more": "A tool box is a good place to learn word families. Open it in your head: Werkzeug is the big word, the box itself. Inside you find der Hammer, der Nagel, die Schraube. Say each word with its article, then tie it to a verb: der Hammer liegt, die Leiter steht, das Poster hängt. A noun plus a verb makes a mini-sentence that is easy to remember. After a week you will say it without thinking.",
+     "table": {
+      "headers": [
+       "Article + noun",
+       "Plural",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Hammer",
+        "die Hämmer",
+        "hammer"
+       ],
+       [
+        "der Nagel",
+        "die Nägel",
+        "nail"
+       ],
+       [
+        "die Schraube",
+        "die Schrauben",
+        "screw"
+       ],
+       [
+        "die Bohrmaschine",
+        "die Bohrmaschinen",
+        "drill"
+       ],
+       [
+        "das Werkzeug",
+        "die Werkzeuge",
+        "tool"
+       ],
+       [
+        "die Leiter",
+        "die Leitern",
+        "ladder"
+       ],
+       [
+        "das Poster",
+        "die Poster",
+        "poster"
+       ],
+       [
+        "das Handtuch",
+        "die Handtücher",
+        "towel"
+       ],
+       [
+        "die Gardine",
+        "die Gardinen",
+        "net curtain"
        ]
       ]
      }
@@ -2260,7 +2585,7 @@
        ]
       }
      },
-     "more": "Ask yourself three quick questions. Is the thing standing on its feet? stehen. Is it flat on something? liegen. Is it hanging down or fixed on a wall? hängen. These three answer Wo? with the dative. If somebody moves it, change the verb to stellen, legen or hängen and the case to the accusative.",
+     "more": "Imagine you walk through the room with a camera and name what you see. The wardrobe stands, the rug lies, the curtain hangs. Do it every day for a week with things in your own flat: Die Tasse steht. Das Handy liegt. Die Jacke hängt. It takes two minutes and the verbs stick fast. If a thing can be placed in two ways, like a towel, the verb tells the picture: Das Handtuch liegt (flat) or Das Handtuch hängt (from a hook).",
      "table": {
       "headers": [
        "Thing",
@@ -2415,7 +2740,7 @@
        ]
       }
      },
-     "more": "When you read a dialogue like this, underline the verb first. Hängen with es as the object (Häng es!) is an action: accusative. Hängt es as a statement (Jetzt hängt es ...) is a state: dative. The little word es is the clue: es as a thing that somebody moves means Wohin?.",
+     "more": "Read the dialogue aloud and act it out. When Leon says Er liegt auf dem Boden, point at the floor: a state, the hammer just lies there. When he says Häng es über das Bett, point up and move your hand: a movement with a goal. Your hands show you the case. Hand still: dative. Hand moving: accusative. The more you connect the verbs with gestures, the less you have to think about the rule.",
      "table": {
       "headers": [
        "Who",
@@ -2459,7 +2784,9 @@
      "yt:A438Pv_9h9Q",
      "yt:Dmv2BzXv_7U"
     ],
-    "nicosWeg": [],
+    "nicosWeg": [
+     "nw:a1-44"
+    ],
     "practice": []
    },
    "drills": [
@@ -2480,11 +2807,11 @@
      "type": "choice",
      "prompt": "Leon ___ den Teppich auf den Boden.",
      "options": [
-      "legt",
       "liegt",
-      "legen"
+      "legen",
+      "legt"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "There is an object: den Teppich.",
      "explanation": "Leon legt den Teppich auf den Boden.",
      "grammar": true
@@ -2503,11 +2830,11 @@
      "type": "choice",
      "prompt": "What does der Nagel mean?",
      "options": [
+      "nail",
       "hammer",
-      "ladder",
-      "nail"
+      "ladder"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You hit it with the hammer.",
      "explanation": "Der Nagel = nail.",
      "grammar": false
@@ -2587,10 +2914,10 @@
      "prompt": "Ich habe das Poster an die Wand ___.",
      "options": [
       "gehangen",
-      "gehängt",
-      "gehängen"
+      "gehängen",
+      "gehängt"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "There is an object (das Poster).",
      "explanation": "Ich habe das Poster an die Wand gehängt.",
      "grammar": true
@@ -2599,11 +2926,11 @@
      "type": "choice",
      "prompt": "Das Poster hat zwei Wochen an der Wand ___.",
      "options": [
+      "gehangen",
       "gehängt",
-      "gehängen",
-      "gehangen"
+      "gehängen"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Nobody hangs it: it just hangs.",
      "explanation": "Das Poster hat zwei Wochen an der Wand gehangen.",
      "grammar": true
@@ -2644,11 +2971,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Mira hängt das Bild an die Wand auf.",
       "Mira hängt das Bild an der Wand auf.",
+      "Mira hängt das Bild an die Wand auf.",
       "Mira hängt das Bild an die Wand aufgehängt."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Object: accusative; the prefix goes to the end.",
      "explanation": "Mira hängt das Bild an die Wand auf.",
      "grammar": true
@@ -2680,11 +3007,11 @@
      "type": "choice",
      "prompt": "What does das Werkzeug mean?",
      "options": [
+      "tool",
       "nail",
-      "drill",
-      "tool"
+      "drill"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Hammer, Schraube, Bohrmaschine: all of them.",
      "explanation": "Das Werkzeug = tool.",
      "grammar": false
@@ -2704,10 +3031,10 @@
      "prompt": "What does die Leiter mean?",
      "options": [
       "banister",
-      "tool",
-      "ladder"
+      "ladder",
+      "tool"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "You climb it.",
      "explanation": "Die Leiter = ladder.",
      "grammar": false
@@ -2716,11 +3043,11 @@
      "type": "choice",
      "prompt": "Mira hängt das Poster über das Bett. Which question fits?",
      "options": [
-      "Wohin?",
       "Wo?",
-      "Woher?"
+      "Woher?",
+      "Wohin?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Somebody hangs it: a goal.",
      "explanation": "Wohin?",
      "grammar": true
@@ -3056,7 +3383,7 @@
        "why": "New today: a place with the accusative."
       }
      ],
-     "more": "You can already say that you sit down. Now you add the place: where do you sit down to? The reflexive pronoun mich, dich or sich is the object, so the test from lessons 1 and 2 works again: the place after it is Wohin?, and so it is accusative."
+     "more": "Think about a café. You walk in, look around and sit down: first you go to the table, then you sit. German has one verb for the going-to-sit and another for the sitting. When you add mich, dich or sich, you are the thing that moves, so the place after it answers Wohin? and takes the accusative. Today you meet three of these verbs and a new group: verbs of real movement, like jumping and climbing."
     },
     {
      "title": "sitzen or sich setzen",
@@ -3165,7 +3492,7 @@
        ]
       }
      },
-     "more": "Learn the reflexive pronoun in the verb column, not as an extra word. The row for sich setzen is always: ich setze mich, du setzt dich, er setzt sich. After it comes the goal. If the pronoun is missing, you do not have the action: Ich sitze auf dem Sofa describes where you are, nothing more.",
+     "more": "Learn sich setzen as one block, like a train with a pronoun at its back. Ich setze mich. Du setzt dich. Er setzt sich. The pronoun is not decoration: without it you only say where somebody is. Compare: Ich sitze auf dem Sofa (I am there already) and Ich setze mich auf das Sofa (I am going there to sit). English hides the same difference in one word, 'sit', and you only know it from the context. German shows it in the verb.",
      "table": {
       "headers": [
        "",
@@ -3288,29 +3615,29 @@
      "deeper": {
       "text": "Sich stellen has a special meaning with people: you take a position, you stand up somewhere. Leon stellt sich ans Fenster means that he goes and stands there. You hear it for a person who walks over to a place and stops: Stell dich neben mich!",
       "example": {
-       "de": "Ich sitze auf dem Hocker.",
-       "en": "I am sitting on the stool.",
+       "de": "Stell dich neben mich!",
+       "en": "Stand next to me!",
        "parts": [
         [
-         "Ich",
-         "subject"
-        ],
-        [
-         "sitze",
+         "Stell",
          "verb"
         ],
         [
-         "auf",
+         "dich",
+         "reflexive"
+        ],
+        [
+         "neben",
          "preposition"
         ],
         [
-         "dem Hocker.",
-         "dative"
+         "mich!",
+         "object"
         ]
        ]
       }
      },
-     "more": "Check each pair in the table with the same question: is there a reflexive pronoun? Then it is the action, Wohin?, accusative. No pronoun? Then it is the state, Wo?, dative. The pronoun works like the object in stellen, legen, hängen: a person or a thing, and somebody moves it.",
+     "more": "Think of a game with a small child: 'Sit! Lie! Stand!' You use the state words when the child is already there, and the action words when you place the child somewhere. For yourself it is the same, only now you are the child. Ich sitze: I am there already. Ich setze mich: I move myself there. Do the same with liegen and stehen. The pronoun mich is the whole difference, plus the case of the place that follows.",
      "table": {
       "headers": [
        "Wo? (no object) → dative",
@@ -3461,7 +3788,7 @@
        ]
       }
      },
-     "more": "Learn the order as a small rhyme: haben, sich, place, participle. Anna hat sich auf das Sofa gesetzt. The word sich always comes right after haben, before the rest of the sentence. If you remember this order, the participle falls to the end by itself.",
+     "more": "Count the order on your fingers: Anna (1) hat (2) sich (3) auf das Sofa (4) gesetzt (5). The pronoun sits right behind the helper verb, and the participle waits at the end. English says 'Anna sat down' and puts the 'down' last. German pays with one extra word, sich, but the order is easy to learn. Say this one sentence ten times, then swap the place: aufs Bett, ans Fenster, auf den Hocker.",
      "table": {
       "headers": [
        "Infinitive",
@@ -3597,7 +3924,7 @@
        ]
       }
      },
-     "more": "Think of a film with two scenes. Scene one: the cat springt (Wohin?, accusative) and the Perfekt tells it with sein: ist gesprungen. Scene two: the cat sitzt (Wo?, dative). A wrong sentence mixes the two scenes: Die Katze sitzt auf den Tisch is wrong, because sitting is always a state. And if the cat arrives, say auf den Tisch.",
+     "more": "Think of a film with two scenes. Scene one: the cat springt. It is on its way, so the goal gets Wohin? and the accusative, and the Perfekt uses sein because the cat changes its place. Scene two: the cat sitzt on the table, and the state gets Wo? and the dative. A wrong sentence mixes the scenes: Die Katze sitzt auf den Tisch is wrong, because sitting is a state and not a goal. Tell the cat's story in two steps: ist gesprungen, then sitzt.",
      "table": {
       "headers": [
        "Verb",
@@ -3624,8 +3951,168 @@
      }
     },
     {
+     "title": "Seats and the stairwell: new words",
+     "body": "Seats: der Sitzsack, der Liegestuhl, der Gartenstuhl, die Hängematte. The house: das Treppenhaus, die Stufe, das Geländer, das Fensterbrett, das Dach. Learn each with its article and plural, then tie it to a verb: Der Sitzsack liegt, die Hängematte hängt, der Gartenstuhl steht.",
+     "lead": "You can now say who sits, lies or stands where. This card adds the words for the places and seats around the free room and the stairwell, so your sentences have something to talk about.",
+     "examples": [
+      {
+       "de": "Die Katze sitzt auf dem Fensterbrett.",
+       "en": "The cat is sitting on the windowsill.",
+       "parts": [
+        [
+         "Die Katze",
+         "subject"
+        ],
+        [
+         "sitzt",
+         "verb"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "dem Fensterbrett.",
+         "dative"
+        ]
+       ],
+       "why": "sitzen = state, Wo? dative"
+      },
+      {
+       "de": "Anna setzt sich auf den Sitzsack.",
+       "en": "Anna sits down on the beanbag.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "setzt",
+         "verb"
+        ],
+        [
+         "sich",
+         "reflexive"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "den Sitzsack.",
+         "object"
+        ]
+       ],
+       "why": "sich setzen = Wohin? accusative"
+      },
+      {
+       "de": "Ben steht am Geländer.",
+       "en": "Ben is standing at the banister.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Geländer.",
+         "dative"
+        ]
+       ],
+       "why": "am = an dem"
+      }
+     ],
+     "deeper": {
+      "text": "Many German seats are compounds that tell you their job: der Liegestuhl is a chair to lie in (liegen), der Sitzsack is a sack to sit in (sitzen), der Gartenstuhl is a chair for the garden. The first part is often a verb stem. When you know the verb, you can often guess the noun.",
+      "example": {
+       "de": "Der Liegestuhl steht im Garten.",
+       "en": "The deck chair is in the garden.",
+       "parts": [
+        [
+         "Der Liegestuhl",
+         "subject"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Garten.",
+         "dative"
+        ]
+       ]
+      }
+     },
+     "more": "Try a sticky-note game. Take five pieces of paper and write one word on each: die Stufe, das Fensterbrett, das Geländer, das Dach, der Sitzsack. Put each paper next to the thing in your home, or next to a picture of it. Then say a sentence with a verb from this lesson: Ich setze mich auf die Stufe. Der Sitzsack liegt am Fenster. The notes give you the article, and the sentence gives you the case.",
+     "table": {
+      "headers": [
+       "Article + noun",
+       "Plural",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Sitzsack",
+        "die Sitzsäcke",
+        "beanbag"
+       ],
+       [
+        "der Liegestuhl",
+        "die Liegestühle",
+        "deck chair"
+       ],
+       [
+        "der Gartenstuhl",
+        "die Gartenstühle",
+        "garden chair"
+       ],
+       [
+        "die Hängematte",
+        "die Hängematten",
+        "hammock"
+       ],
+       [
+        "das Treppenhaus",
+        "die Treppenhäuser",
+        "stairwell"
+       ],
+       [
+        "die Stufe",
+        "die Stufen",
+        "step"
+       ],
+       [
+        "das Geländer",
+        "die Geländer",
+        "banister"
+       ],
+       [
+        "das Fensterbrett",
+        "die Fensterbretter",
+        "windowsill"
+       ],
+       [
+        "das Dach",
+        "die Dächer",
+        "roof"
+       ]
+      ]
+     }
+    },
+    {
      "title": "Wo? Wohin? Woher?: questions with people and places",
-     "body": "You know three question words for places. Wo? asks where somebody is and gets the dative. Wohin? asks where somebody goes and gets the accusative. Woher? asks where somebody comes from and gets aus or von with the dative. In answers the short forms are common: aufs Sofa, am Tisch, ans Fenster.",
+     "body": "Three question words for places. Wo? asks where somebody is: dative. Wohin? asks where somebody goes: accusative. Woher? asks where from: aus or von with the dative. Short forms are common in answers: aufs Sofa, am Tisch, ans Fenster.",
      "lead": "This card is a revision of three question words from the earlier chapters. Here they appear together with the verbs of this lesson, so you can ask about every situation in the room.",
      "examples": [
       {
@@ -3708,7 +4195,7 @@
        ]
       }
      },
-     "more": "Ask the question first, then pick the case. Wo? is a place to be: dative. Wohin? is a goal: accusative. Woher? is a place you left: aus or von with the dative. Three questions, three answers, and one clear way to choose: look at the question word before the preposition.",
+     "more": "Ask the question first, and the answer picks its own case. Wo? is a place to be: dative. Wohin? is a goal: accusative. Woher? is a place you left: aus or von with the dative. A good drill: stand in the middle of your room, look at one object and ask all three questions about it. Wo ist die Lampe? Wohin stelle ich sie? Woher kommt sie? Three questions, three answers, and the question word chooses for you.",
      "table": {
       "headers": [
        "Question",
@@ -3741,7 +4228,7 @@
     },
     {
      "title": "In the free room: Anna, Ben and Mira",
-     "body": "The three of them try the free room. Read the dialogue and find three kinds of sentences: the imperative with a reflexive pronoun (Setz dich! Leg dich!), the state with sitzen and bleiben, and the action with sich setzen. You know the polite chunks Setzen Sie sich bitte! and Nehmen Sie Platz! for guests.",
+     "body": "The three of them try the free room. Read the dialogue and find three kinds of sentences: the imperative with a reflexive pronoun (Setz dich! Leg dich!), the state with sitzen and bleiben, and the action with sich setzen. For guests there is a polite version: Setzen Sie sich bitte! or Nehmen Sie Platz!",
      "lead": "The last card of the lesson shows the three verbs in one conversation. Read the dialogue and check each sentence with the object test.",
      "examples": [
       {
@@ -3832,7 +4319,7 @@
       }
      ],
      "deeper": {
-      "text": "The imperative of a reflexive verb is short: the verb first, then the pronoun dich: Setz dich! Leg dich! For the polite Sie form the pronoun is sich: Setzen Sie sich bitte! Guests in the WG hear it from Frau Weber too. Nehmen Sie Platz! is a polite invitation: take a seat.",
+      "text": "The imperative of a reflexive verb is short: the verb first, then the pronoun dich: Setz dich! Leg dich! For the polite Sie form the pronoun is sich: Setzen Sie sich bitte! You hear it with guests and strangers, for example when Herr Ali welcomes guests in the restaurant „Zum Löwen“. Nehmen Sie Platz! is a polite invitation: take a seat.",
       "example": {
        "de": "Setzen Sie sich bitte!",
        "en": "Please sit down!",
@@ -3856,7 +4343,7 @@
        ]
       }
      },
-     "more": "In the dialogue Ben refuses with another state: Ich sitze lieber auf dem Boden. He does not move anywhere new, so it is a state with Wo? and the dative. The imperatives ask him to move, so they take the accusative. One small question tells you which: does somebody get a new place?",
+     "more": "Notice how Ben says no. He does not repeat the imperative. He answers with a state: Ich sitze lieber auf dem Boden. He is already on the floor, so nothing moves: Wo? and the dative. The others ask him to move somewhere new with imperatives, and those take the accusative. A real conversation always mixes both pictures. When you read, ask one small question about each line: does somebody get a new place? If yes, accusative. If not, dative.",
      "table": {
       "headers": [
        "Who",
@@ -3896,7 +4383,9 @@
      "yt:cPJ1Es1rF1g",
      "yt:Se54fFZCRDQ"
     ],
-    "nicosWeg": [],
+    "nicosWeg": [
+     "nw:a2-67"
+    ],
     "practice": []
    },
    "drills": [
@@ -3904,11 +4393,11 @@
      "type": "choice",
      "prompt": "Anna ___ auf dem Sofa.",
      "options": [
+      "sitzt",
       "setzt",
-      "sitzen",
-      "sitzt"
+      "sitzen"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "She stays where she is: no pronoun.",
      "explanation": "Anna sitzt auf dem Sofa.",
      "grammar": true
@@ -3917,11 +4406,11 @@
      "type": "choice",
      "prompt": "Anna ___ sich auf das Sofa.",
      "options": [
-      "setzt",
       "sitzt",
+      "setzt",
       "sitze"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sich is the object: she sits down.",
      "explanation": "Anna setzt sich auf das Sofa.",
      "grammar": true
@@ -3940,11 +4429,11 @@
      "type": "choice",
      "prompt": "What does die Hängematte mean?",
      "options": [
-      "hammock",
       "banister",
-      "roof"
+      "roof",
+      "hammock"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "You lie in it between two trees.",
      "explanation": "Die Hängematte = hammock.",
      "grammar": false
@@ -3974,11 +4463,11 @@
      "type": "choice",
      "prompt": "Leon stellt sich an ___ Fenster.",
      "options": [
-      "dem",
       "das",
+      "dem",
       "der"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Wohin? Das Fenster: accusative das.",
      "explanation": "Leon stellt sich an das Fenster.",
      "grammar": true
@@ -4019,11 +4508,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich setze mich auf das Sofa.",
       "Ich sitze mich auf das Sofa.",
+      "Ich setze mich auf das Sofa.",
       "Ich setze mich auf dem Sofa."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Setzen + mich + accusative.",
      "explanation": "Ich setze mich auf das Sofa.",
      "grammar": true
@@ -4033,10 +4522,10 @@
      "prompt": "Ben ___ sich aufs Bett gelegt.",
      "options": [
       "ist",
-      "hat",
-      "liegt"
+      "liegt",
+      "hat"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Sich legen uses haben.",
      "explanation": "Ben hat sich aufs Bett gelegt.",
      "grammar": true
@@ -4081,11 +4570,11 @@
      "type": "choice",
      "prompt": "Die Katze ist auf den Tisch ___.",
      "options": [
-      "gesprungt",
       "gesprungen",
+      "gesprungt",
       "gespringt"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Springen is irregular: -en.",
      "explanation": "Die Katze ist auf den Tisch gesprungen.",
      "grammar": true
@@ -4104,11 +4593,11 @@
      "type": "choice",
      "prompt": "Woher kommt die Katze?",
      "options": [
-      "Aus dem Treppenhaus.",
       "In das Treppenhaus.",
+      "Aus dem Treppenhaus.",
       "Auf das Treppenhaus."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Woher? = from where: aus + dative.",
      "explanation": "Aus dem Treppenhaus.",
      "grammar": true
@@ -4140,11 +4629,11 @@
      "type": "choice",
      "prompt": "What does das Geländer mean?",
      "options": [
+      "banister",
       "step",
-      "windowsill",
-      "banister"
+      "windowsill"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You hold it on the stairs.",
      "explanation": "Das Geländer = banister.",
      "grammar": false
@@ -4501,7 +4990,7 @@
        "why": "New today: a friendly way to start."
       }
      ],
-     "more": "Today is about being nice when you need help. You can say Stell das hin! to a friend, and it is fine. But if you start with Ich habe eine Bitte and then ask Könntest du …?, people like to help you. Same wish, softer words."
+     "more": "Imagine the same wish in three voices. A friend yells: Stell den Karton in den Flur! A flatmate asks: Kannst du den Karton in den Flur stellen? A neighbour hears: Könnten Sie den Karton bitte in den Flur stellen? The box goes to the same place, but the voices sound different. In German, politeness lives mostly in the verb form and in the little words bitte and leider. Today you learn to pick the right voice for the right person, and then to say yes or no kindly."
     },
     {
      "title": "Ask for help: friend or neighbour",
@@ -4634,7 +5123,7 @@
        ]
       }
      },
-     "more": "Before you ask, you open the door. Kannst du mir helfen? is the door to a friend. Können Sie mir helfen? is the door to a neighbour. The answer is usually Klar or Gern, and then you ask your real question.",
+     "more": "Before the real question, people often knock on the door first. Hast du kurz Zeit? is a knock. Ich habe eine Bitte is a knock too. The other person gets two seconds to get ready and says Klar or Was gibt's? (what's up?). Only then comes your real question. English does this as well: 'Have you got a minute?' or 'Can I ask you something?' So the habit is not new. You only have to use du with friends and Sie with neighbours and Herr Ali.",
      "table": {
       "headers": [
        "To a friend (du)",
@@ -4793,7 +5282,7 @@
        ]
       }
      },
-     "more": "Think of a sandwich. The first bread is kannst or könntest. The last bread is the infinitive: stellen. Everything else goes inside: du, den Karton, bitte, in den Flur. If you forget the last bread, the sandwich falls apart. Kannst du bitte stell den Karton … is wrong: say Kannst du bitte den Karton in den Flur stellen?",
+     "more": "Imagine a little bridge. On the left end stands kannst or könntest, on the right end stands the infinitive. Everything you want to say walks across the bridge: du, den Karton, bitte, in den Flur. The bridge only works if both ends are there. English has a similar bridge: 'Could you put the box in the hall?' But there, put stays next to could. In German the second verb runs all the way to the end, so the listener waits for it until the last word.",
      "steps": [
       "Imperative = direct: Stell den Karton bitte in den Flur!",
       "Kannst du … = normal: modal in position 2",
@@ -4927,7 +5416,7 @@
        ]
       }
      },
-     "more": "With Sie, the polite word is könnten, and Sie comes right after it. At the end you put the second verb: helfen or stellen. If a neighbour says yes, she often asks back: Wohin soll ich es stellen? That means: tell me where it goes.",
+     "more": "Think of the Sie-form as a polite hat that you put on your request. With Sie you never use kannst or könntest, because those belong to du. You use können or könnten, and Sie comes right after it. Then the sentence works as before: the infinitive goes to the end. Neighbours often say yes and ask back: Wohin soll ich es stellen? That is a good sign, because now you only have to point and say: In den Keller, bitte.",
      "table": {
       "headers": [
        "Form",
@@ -5064,7 +5553,7 @@
        ]
       }
      },
-     "more": "On moving day, you shout short lines. Start with the verb, then the thing, and if the verb has a little front part like ein or aus, that part jumps to the end: Pack ein! Pack aus! Hilf mit! Short and clear, and everyone knows what to do.",
+     "more": "Imagine a relay race with moving boxes. Each helper gets one very short order: Pack ein! Trag das! Räum aus! The verb stands first, and if it has a front part like ein, aus or mit, that part runs to the end of the sentence. Notice that you never say du or ihr: the verb ending already shows who you mean. With a group of friends use the ihr-form, which ends in -t: Packt die Kisten ein! Helft mit!",
      "table": {
       "headers": [
        "Verb",
@@ -5091,6 +5580,150 @@
         "mithelfen",
         "Hilf mit!",
         "Helft mit!"
+       ],
+       [
+        "ausräumen",
+        "Räum den Schrank aus!",
+        "Räumt den Schrank aus!"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Moving-day words",
+     "body": "Nouns: die Bitte, die Hilfe, der Helfer, die Helferin, der Umzugswagen. Verbs with a front part: einpacken, auspacken, einräumen, ausräumen, mithelfen. Verschieben has no separable part. Learn the verbs as du-orders: Pack ein! Pack aus! Räum ein! Räum aus! Hilf mit! The front part always ends up last.",
+     "lead": "You can ask, instruct and answer. This card collects the words you will say again and again on moving day, so the next questions only test what you have already learned.",
+     "examples": [
+      {
+       "de": "Brauchst du Hilfe?",
+       "en": "Do you need help?",
+       "parts": [
+        [
+         "Brauchst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "Hilfe?",
+         "object"
+        ]
+       ],
+       "why": "die Hilfe has no plural"
+      },
+      {
+       "de": "Der Umzugswagen steht vor dem Haus.",
+       "en": "The removal van is in front of the house.",
+       "parts": [
+        [
+         "Der Umzugswagen",
+         "subject"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "vor",
+         "preposition"
+        ],
+        [
+         "dem Haus.",
+         "dative"
+        ]
+       ],
+       "why": "steht = state, Wo? dative"
+      },
+      {
+       "de": "Alle haben mitgeholfen.",
+       "en": "Everybody helped out.",
+       "parts": [
+        [
+         "Alle",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "mitgeholfen.",
+         "verb2"
+        ]
+       ],
+       "why": "mit-ge-holfen: ge- in the middle"
+      }
+     ],
+     "deeper": {
+      "text": "Add -in to name a woman: der Helfer, die Helferin; der Nachbar, die Nachbarin. The plural of -in words is -innen: die Helferinnen. Words for men in -er keep the same plural: die Helfer. Die Hilfe is uncountable and has no plural: you say viel Hilfe or keine Hilfe, never Hilfen.",
+      "example": {
+       "de": "Eine Helferin trägt die Kisten.",
+       "en": "A helper carries the boxes.",
+       "parts": [
+        [
+         "Eine Helferin",
+         "subject"
+        ],
+        [
+         "trägt",
+         "verb"
+        ],
+        [
+         "die Kisten.",
+         "object"
+        ]
+       ]
+      }
+     },
+     "more": "Moving words come in pairs of opposites: einpacken and auspacken, einräumen and ausräumen. Ein- means into, aus- means out. Picture a box: you pack things into it, and later you take them out. The same with a wardrobe: you räumen things in or out. So when you know ein and aus, you learn two verbs for the price of one. Say the pairs aloud: ein, aus, ein, aus.",
+     "table": {
+      "headers": [
+       "Word",
+       "Forms",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "die Bitte",
+        "die Bitten",
+        "request"
+       ],
+       [
+        "die Hilfe",
+        "no plural",
+        "help"
+       ],
+       [
+        "der Helfer / die Helferin",
+        "die Helfer / die Helferinnen",
+        "helper"
+       ],
+       [
+        "der Umzugswagen",
+        "die Umzugswagen",
+        "removal van"
+       ],
+       [
+        "einpacken / auspacken",
+        "packt ein, hat eingepackt",
+        "to pack / to unpack"
+       ],
+       [
+        "einräumen / ausräumen",
+        "räumt ein, hat eingeräumt",
+        "to put away / to empty"
+       ],
+       [
+        "verschieben",
+        "verschiebt, hat verschoben",
+        "to push along"
+       ],
+       [
+        "mithelfen",
+        "hilft mit, hat mitgeholfen",
+        "to help out"
        ]
       ]
      }
@@ -5270,7 +5903,7 @@
        ]
       }
      },
-     "more": "A no is fine in Germany, but give a small reason and say leider. Ich kann leider nicht, denn ich muss arbeiten. Then the other person is not sad. And when someone helps you, always say Danke, das ist nett! It costs nothing.",
+     "more": "A no is perfectly fine in Germany, and people like it when you are clear. Make it soft with three small tricks: say leider, give a short reason, and offer another day. Ich kann leider nicht, denn ich muss arbeiten. Aber am Sonntag habe ich Zeit. Then nobody is offended. And if you say yes, say Gern! with a smile. Whoever helps gets a Danke, das ist nett! Practise one yes and one no with a friend, out loud.",
      "table": {
       "headers": [
        "Yes",
@@ -5481,7 +6114,7 @@
        ]
       }
      },
-     "more": "Read it like a small play. Mira asks nicely, Leon says yes and asks where. Mira points. Leon pushes the Schrank and says what he did. Mira says thanks. Read it two times out loud, once as Mira and once as Leon.",
+     "more": "Read the dialogue like a small play. First Mira asks nicely, then Leon says yes and asks where the box goes, Mira points, Leon pushes it and reports what he did. Mira says thanks. Read it twice, once as Mira and once as Leon. The second time, change the thing: not Schrank, but Regal or Fahrrad. Wohin soll ich es stellen? works for every thing, and only the article changes: den Schrank becomes das Regal.",
      "steps": [
       "Open: Ich habe eine Bitte.",
       "Ask: Könntest du mir beim Umzug helfen?",
@@ -5494,7 +6127,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:hunvSsyEeBU"
+     "yt:hunvSsyEeBU",
+     "yt:mB397pClcq8"
     ],
     "nicosWeg": [
      "nw:a2-14"
@@ -5507,10 +6141,10 @@
      "prompt": "___ du mir bitte helfen? (very polite)",
      "options": [
       "Kannst",
-      "Hilf",
-      "Könntest"
+      "Könntest",
+      "Hilf"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Very polite: the könnte form.",
      "explanation": "Könntest du mir bitte helfen?",
      "grammar": true
@@ -5519,11 +6153,11 @@
      "type": "choice",
      "prompt": "Könntest du den Karton in den Flur ___?",
      "options": [
-      "stellen",
       "stellst",
-      "gestellt"
+      "gestellt",
+      "stellen"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The second verb goes to the end as an infinitive.",
      "explanation": "Könntest du den Karton in den Flur stellen?",
      "grammar": true
@@ -5542,11 +6176,11 @@
      "type": "choice",
      "prompt": "To Frau Weber: ___ Sie mir bitte beim Tragen helfen?",
      "options": [
+      "Könnten",
       "Könntest",
-      "Kannst",
-      "Könnten"
+      "Kannst"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Sie needs the Sie form.",
      "explanation": "Könnten Sie mir bitte beim Tragen helfen?",
      "grammar": true
@@ -5622,11 +6256,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Könntest du den Karton in den Flur stellen?",
       "Könntest du stellst den Karton in den Flur?",
-      "Könntest du den Karton in den Flur stellst?"
+      "Könntest du den Karton in den Flur stellst?",
+      "Könntest du den Karton in den Flur stellen?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Infinitive at the end.",
      "explanation": "Könntest du den Karton in den Flur stellen?",
      "grammar": true
@@ -5635,11 +6269,11 @@
      "type": "choice",
      "prompt": "Which phrase fits? Kannst du das Bild ___ hängen?",
      "options": [
-      "an der Wand",
       "an die Wand",
+      "an der Wand",
       "an den Wand"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "hängen with an object = Wohin? = accusative; die Wand.",
      "explanation": "Kannst du das Bild an die Wand hängen?",
      "grammar": true
@@ -5648,11 +6282,11 @@
      "type": "choice",
      "prompt": "Which is the most polite?",
      "options": [
-      "Könntest du den Karton bitte in den Flur stellen?",
       "Stell den Karton in den Flur!",
+      "Könntest du den Karton bitte in den Flur stellen?",
       "Kannst du den Karton in den Flur stellen?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "könntest + bitte.",
      "explanation": "Könntest du den Karton bitte in den Flur stellen?",
      "grammar": true
@@ -5671,11 +6305,11 @@
      "type": "choice",
      "prompt": "beim Tragen means …",
      "options": [
-      "bei dem Tragen: while carrying",
       "by the carrier",
-      "before carrying"
+      "before carrying",
+      "bei dem Tragen: while carrying"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "beim = bei dem.",
      "explanation": "Könnten Sie mir beim Tragen helfen? = Could you help me carry?",
      "grammar": true
@@ -5709,10 +6343,10 @@
      "prompt": "Ich habe keine Zeit. ___ kann ich nicht helfen.",
      "options": [
       "Denn",
-      "Aber",
-      "Deshalb"
+      "Deshalb",
+      "Aber"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Result, verb right after it.",
      "explanation": "Deshalb kann ich nicht helfen.",
      "grammar": true
@@ -5756,10 +6390,10 @@
      "prompt": "Gern, wohin ___ ich es stellen?",
      "options": [
       "sollen",
-      "soll",
-      "stelle"
+      "stelle",
+      "soll"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "ich + sollen.",
      "explanation": "Gern, wohin soll ich es stellen?",
      "grammar": true
@@ -6133,7 +6767,7 @@
        "why": "From lesson 4: the request after the complaint."
       }
      ],
-     "more": "A complaint does not have to be a fight. You say what bothers you, you stay friendly, and you ask for one small change. The sentence frame Es stört mich, dass … does most of the work. The verb goes to the end, just like in every dass-clause you know."
+     "more": "Picture two neighbours on the stairs. One says: Your shoes are in my way! The other hears an attack. Try another way: Es stört mich, dass die Schuhe im Hausflur stehen. The problem is the same, but now the sentence talks about a feeling, not about a bad person. That is why German speakers like the frame Es stört mich, dass …. It names what bothers you, not who is guilty. Today you learn this frame, and how to ask for one small change."
     },
     {
      "title": "A complaint in four steps",
@@ -6274,7 +6908,7 @@
        ]
       }
      },
-     "more": "Think of four doors. Door one: hello. Door two: what is wrong. Door three: how you feel about it. Door four: what you want. If you skip door one or door four, the complaint sounds rude. With all four doors, people usually listen.",
+     "more": "A complaint is like a recipe with four ingredients: a greeting, the problem, your feeling, a small wish. If one is missing, it tastes wrong. Without the greeting it is rude, without the wish nobody knows what to do. Count them on your fingers: Guten Tag (1), Die Musik war zu laut (2), Es stört mich, dass … (3), Könnten Sie bitte …? (4). English speakers do the same with 'Sorry to bother you, but …'. Practise with one real problem from your day, three times, out loud.",
      "table": {
       "headers": [
        "Frame",
@@ -6467,7 +7101,7 @@
        ]
       }
      },
-     "more": "Dass is like a magnet at the end of the sentence. It pulls the verb to the very end. So you say: dass die Schuhe im Hausflur stehen, not dass die Schuhe stehen im Hausflur. Say the place first, then the verb, and stop.",
+     "more": "Imagine the dass-clause as a small room with the last seat at the back. The verb must take the last seat. Everyone else sits down first: dass (the door), die Schuhe (who), im Hausflur (where), and last of all stehen. In English the verb stays near the subject: 'that the shoes are in the hallway'. In German it travels to the back. So say the place first, then the verb, then stop: dass die Schuhe im Hausflur stehen.",
      "table": {
       "headers": [
        "Main clause",
@@ -6698,7 +7332,7 @@
        ]
       }
      },
-     "more": "In a normal Perfekt sentence, haben is in position 2: Sie haben die Kiste gestellt. After dass, haben runs to the very end, behind the participle: …, dass Sie die Kiste gestellt haben. Wrong: …, dass Sie haben die Kiste gestellt. Right: …, dass Sie die Kiste in den Hausflur gestellt haben.",
+     "more": "Compare the same facts in two modes. In a normal sentence haben is in position 2: Sie haben die Kiste gestellt. After dass the order flips: dass Sie die Kiste gestellt haben. Both verb parts go to the back, the participle first and haben last. Practise in two steps: first say the facts (Sie die Kiste in den Hausflur gestellt), then close with haben, hast, habt or hat. The last word tells you who did it: Sie haben, du hast, ihr habt, Ben hat.",
      "steps": [
       "Main clause: Es stört mich,",
       "dass + subject: dass Sie",
@@ -6879,7 +7513,7 @@
        ]
       }
      },
-     "more": "Imagine your words are a pillow. Bitte, leider and vielleicht make the pillow soft. Then the hard part, the complaint, does not hurt. And always end with a wish: Könnten Sie bitte …? Then the other person knows what to do.",
+     "more": "Imagine your words are a pillow. Bitte, leider and vielleicht make it soft, so the hard part, the complaint, does not hurt. Compare two versions. Hard: Die Musik ist laut! Soft: Die Musik war leider sehr laut. Könnten Sie sie bitte leiser machen? Both say the same thing, but the second makes the neighbour want to help. And always end with a wish, because a complaint without a wish leaves the other person guessing what to do.",
      "table": {
       "headers": [
        "Softener",
@@ -6901,6 +7535,167 @@
        [
         "kurz",
         "Darf ich kurz etwas sagen?"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Words for the house: noise, rubbish, rules",
+     "body": "Learn the nouns with their article: der Hausflur, der Müll, der Mülleimer, der Krach, die Lautstärke, die Mittagsruhe, die Beschwerde, die Hausordnung. Two verbs: stören (to bother) and sich beschweren (to complain). Der Krach is an unpleasant noise. Die Lautstärke is how loud something is.",
+     "lead": "You can complain and you can answer a complaint. This card collects the words the neighbours use, so the questions only test what you have already met.",
+     "examples": [
+      {
+       "de": "Der Krach im Hausflur stört mich.",
+       "en": "The noise in the hallway bothers me.",
+       "parts": [
+        [
+         "Der Krach",
+         "subject"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Hausflur",
+         "dative"
+        ],
+        [
+         "stört",
+         "verb"
+        ],
+        [
+         "mich.",
+         "object"
+        ]
+       ],
+       "why": "stören + accusative: mich"
+      },
+      {
+       "de": "Der Mülleimer steht in der Küche.",
+       "en": "The bin is in the kitchen.",
+       "parts": [
+        [
+         "Der Mülleimer",
+         "subject"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "der Küche.",
+         "dative"
+        ]
+       ],
+       "why": "steht = state, Wo? dative"
+      },
+      {
+       "de": "Frau Weber hat eine Beschwerde.",
+       "en": "Frau Weber has a complaint.",
+       "parts": [
+        [
+         "Frau Weber",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "eine Beschwerde.",
+         "object"
+        ]
+       ],
+       "why": "die Beschwerde, die Beschwerden"
+      }
+     ],
+     "deeper": {
+      "text": "Der Müll is uncountable: you say der Müll, never Mülls. Many words for rubbish are compounds with Müll: der Mülleimer is the bin, and die Mülltrennung is sorting rubbish into several bins. Germans take that seriously, so the Müll topic often appears in house rules. Der Krach has no plural either.",
+      "example": {
+       "de": "Der Müll muss in den Mülleimer.",
+       "en": "The rubbish has to go in the bin.",
+       "parts": [
+        [
+         "Der Müll",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "den Mülleimer.",
+         "object"
+        ]
+       ]
+      }
+     },
+     "more": "Sort the words into three boxes in your head. Box one is noise: der Krach, die Lautstärke. Box two is the house: der Hausflur, die Hausordnung, die Mittagsruhe. Box three is rubbish: der Müll, der Mülleimer. Then say one sentence for each box: Der Krach stört mich. Die Hausordnung hängt im Hausflur. Der Müll liegt vor der Tür. Words in boxes stay in your head longer than words in a long list.",
+     "table": {
+      "headers": [
+       "Word",
+       "Forms",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Hausflur",
+        "die Hausflure",
+        "hallway"
+       ],
+       [
+        "der Müll",
+        "no plural",
+        "rubbish"
+       ],
+       [
+        "der Mülleimer",
+        "die Mülleimer",
+        "bin"
+       ],
+       [
+        "der Krach",
+        "no plural",
+        "racket, noise"
+       ],
+       [
+        "die Lautstärke",
+        "no plural",
+        "volume"
+       ],
+       [
+        "die Mittagsruhe",
+        "no plural",
+        "midday quiet time"
+       ],
+       [
+        "die Beschwerde",
+        "die Beschwerden",
+        "complaint"
+       ],
+       [
+        "die Hausordnung",
+        "die Hausordnungen",
+        "house rules"
+       ],
+       [
+        "stören",
+        "stört, hat gestört",
+        "to bother"
+       ],
+       [
+        "sich beschweren",
+        "beschwert sich, hat sich beschwert",
+        "to complain"
        ]
       ]
      }
@@ -7080,7 +7875,7 @@
        ]
       }
      },
-     "more": "If someone complains, the best answer is short: Das tut mir leid. Then say what you will do now, in the present tense: Ich mache die Musik leiser. Ich stelle die Schuhe in den Schrank. A quick fix ends most problems.",
+     "more": "The best reaction to a complaint is short and has two parts: sorry and action. Das tut mir leid. Ich mache die Musik leiser. Say what you do in the present tense, and then really do it. If you think the complaint is not fair, you can still stay friendly: Ich verstehe das, aber … and then give your reason. In both cases listen first and do not interrupt. People forget a complaint quickly, but they remember how you answered.",
      "table": {
       "headers": [
        "Situation",
@@ -7283,7 +8078,7 @@
        ]
       }
      },
-     "more": "Frau Weber is older and the neighbour, so Ben says Sie. She knows the four young people well, so she says du. She is polite: she asks first if he has time. Ben is polite too: he says sorry and does something at once. Nobody shouts.",
+     "more": "Frau Weber is older and a neighbour, so Ben says Sie to her. She knows the four young people well, so she says du. Both are polite anyway: she asks first if he has time, and he says sorry and acts at once. Nobody shouts. Read the dialogue a second time and mark the four steps in Frau Weber's lines. Notice that her wish is missing: Ben offers the fix himself, and that is a very good reaction.",
      "steps": [
       "Frau Weber opens: Hast du kurz Zeit?",
       "Ben: Natürlich, Frau Weber.",
@@ -7295,7 +8090,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:HsqV5qmpOQs"
+     "yt:HsqV5qmpOQs",
+     "yt:DNMQCPywIKk"
     ],
     "nicosWeg": [
      "nw:a2-70"
@@ -7320,11 +8116,11 @@
      "type": "choice",
      "prompt": "Es stört mich, dass der Müll vor ___ Tür liegt.",
      "options": [
-      "der",
       "die",
+      "der",
       "den"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "liegen = Wo? = dative; die Tür.",
      "explanation": "vor der Tür (dative).",
      "grammar": true
@@ -7343,11 +8139,11 @@
      "type": "choice",
      "prompt": "Es stört mich, dass Sie die Kiste in ___ Hausflur gestellt haben.",
      "options": [
-      "den",
       "dem",
-      "der"
+      "der",
+      "den"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Moved = Wohin? = accusative; der Hausflur.",
      "explanation": "in den Hausflur gestellt.",
      "grammar": true
@@ -7356,11 +8152,11 @@
      "type": "choice",
      "prompt": "…, dass ihr den Müll vor die Tür gelegt ___.",
      "options": [
-      "haben",
       "habt",
+      "haben",
       "hat"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "ihr + haben.",
      "explanation": "…, dass ihr den Müll vor die Tür gelegt habt.",
      "grammar": true
@@ -7429,11 +8225,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Es stört mich, dass die Schuhe im Hausflur stehen.",
       "Es stört mich, dass die Schuhe stehen im Hausflur.",
-      "Es stört mich, die Schuhe im Hausflur stehen."
+      "Es stört mich, die Schuhe im Hausflur stehen.",
+      "Es stört mich, dass die Schuhe im Hausflur stehen."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "dass sends the verb to the end.",
      "explanation": "Es stört mich, dass die Schuhe im Hausflur stehen.",
      "grammar": true
@@ -7455,12 +8251,12 @@
      "type": "choice",
      "prompt": "Step 1 of a polite complaint is …",
      "options": [
-      "Greet: Guten Tag, Frau Weber.",
       "Ask: Könnten Sie bitte …?",
+      "Greet: Guten Tag, Frau Weber.",
       "Feeling: Es stört mich, dass …"
      ],
-     "answer": 0,
-     "hint": "Start with the door that says hello.",
+     "answer": 1,
+     "hint": "Look at the four steps in the card: which one comes first?",
      "explanation": "Greet first.",
      "grammar": true
     },
@@ -7470,7 +8266,7 @@
      "answers": [
       "beschweren"
      ],
-     "hint": "sich beschweren.",
+     "hint": "A reflexive verb after möchte: the infinitive goes to the end.",
      "explanation": "Ich möchte mich beschweren.",
      "grammar": true
     },
@@ -7483,7 +8279,7 @@
       "den Mülleimer"
      ],
      "answer": 2,
-     "hint": "der Mülleimer = bin.",
+     "hint": "Think about where rubbish goes in the kitchen.",
      "explanation": "Der Müll muss in den Mülleimer.",
      "grammar": true
     },
@@ -7496,7 +8292,7 @@
       "a noisy party"
      ],
      "answer": 0,
-     "hint": "Ruhe = quiet.",
+     "hint": "Mittag means midday. Is it loud or quiet?",
      "explanation": "Die Mittagsruhe ist oft von 13 bis 15 Uhr.",
      "grammar": true
     },
@@ -7506,7 +8302,7 @@
      "answers": [
       "Krach"
      ],
-     "hint": "der Krach.",
+     "hint": "An unpleasant noise; it is masculine and has no plural.",
      "explanation": "Der Krach im Treppenhaus ist zu laut.",
      "grammar": true
     },
@@ -7514,11 +8310,11 @@
      "type": "choice",
      "prompt": "Ich ärgere ___, dass die Musik so laut ist.",
      "options": [
-      "mich",
       "mir",
+      "mich",
       "ich"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "sich ärgern: accusative reflexive.",
      "explanation": "Ich ärgere mich, dass die Musik so laut ist.",
      "grammar": true
@@ -7564,7 +8360,7 @@
       "Das tut mir leid!",
       "Tut mir leid."
      ],
-     "hint": "Das tut mir …",
+     "hint": "Tut + the person + the feeling.",
      "explanation": "Das tut mir leid.",
      "grammar": true
     },
@@ -7572,11 +8368,11 @@
      "type": "choice",
      "prompt": "Which is the most polite?",
      "options": [
-      "Könnten Sie die Musik bitte leiser machen?",
       "Mach die Musik leiser!",
-      "Die Musik ist laut."
+      "Die Musik ist laut.",
+      "Könnten Sie die Musik bitte leiser machen?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "könnten + bitte.",
      "explanation": "Könnten Sie die Musik bitte leiser machen?",
      "grammar": true
@@ -7945,7 +8741,7 @@
        "why": "New today: the decision."
       }
      ],
-     "more": "A WG-Treffen is a small meeting of everyone who lives in the flat. Somebody suggests something, the others say yes or no, and at the end there is a decision. You only need a few frames, and every one of them ends with a dass-clause you already know how to build."
+     "more": "Think about the last time a group had to decide something: where to eat, who pays, who drives. Somebody suggests, the others say yes or no, and at the end one sentence says what is settled. German has a frame for each of these small jobs, and every one ends in a dass-clause. So you do not learn a new grammar rule today. You learn how to use a rule you already know in a real meeting, with people who may disagree."
     },
     {
      "title": "A WG-Treffen in five steps",
@@ -8070,7 +8866,7 @@
        ]
       }
      },
-     "more": "A meeting is like a short road with five stops. Stop one: what are we talking about? Stop two: one idea. Stop three: everyone says yes or no. Stop four: hands up, we count. Stop five: the result. Learn one sentence for each stop.",
+     "more": "A meeting is like a short road with five stops. Stop one: what are we talking about? Stop two: one idea. Stop three: everyone says yes or no. Stop four: hands up, we count. Stop five: the result. Learn one sentence for each stop and the meeting runs by itself. In English you may say 'I propose', 'I'm in favour' and 'The motion is carried'. German is simpler: schlage vor, bin dafür, stimmen ab, haben entschieden.",
      "table": {
       "headers": [
        "Step",
@@ -8252,7 +9048,7 @@
        ]
       }
      },
-     "more": "First the frame: Ich schlage vor, or Wir haben entschieden. Then a comma. Then dass and a small sentence where the verb walks to the very end. Wrong: dass Leon macht den Küchendienst. Right: dass Leon den Küchendienst macht. Note: Ich schlage vor, wir machen … is heard in speech too, but here we keep dass.",
+     "more": "Think of the main clause as a ticket and the dass-clause as the story on the back. The ticket says what kind of thing is happening: I suggest, we decided. The story says what exactly. Between them sits the comma, a small bridge. Wrong: dass Leon macht den Küchendienst. Right: dass Leon den Küchendienst macht. In English you can often drop 'that', but in German dass stays. Say the frame aloud with three different topics.",
      "table": {
       "headers": [
        "Main clause",
@@ -8439,7 +9235,7 @@
        ]
       }
      },
-     "more": "Picture a train. The engine is dass. The last carriage is the modal: muss, soll. Just before it rides the infinitive: putzen, stehen. All the other carriages, the person, the thing, the place, ride in the middle. The engine and the last carriage never change places.",
+     "more": "Picture a train. The engine is dass. The last carriage is the modal: muss, soll. Just before it rides the infinitive: putzen, stehen. All the other carriages, the person, the thing and the place, ride in the middle. The engine and the last carriage never change places. For a quick check count from the back: the last word is the verb that changes (muss, soll), the second-last is the infinitive. This also works after weil and wenn.",
      "steps": [
       "Main clause: Wir haben entschieden,",
       "dass + subject: dass Anna",
@@ -8447,6 +9243,176 @@
       "Infinitive: putzen / stehen",
       "Modal at the very END: muss / soll"
      ]
+    },
+    {
+     "title": "The Putzplan: who does what?",
+     "body": "A Putzplan lists the chores and who does them each week. Chores: das Bad putzen, das Fenster putzen, die Wäsche waschen, spülen, einkaufen, den Müll rausbringen (separable). Taking turns is abwechselnd. Put a chore into the decision: Wir haben entschieden, dass Ben das Bad putzt.",
+     "lead": "You can suggest, vote and report a decision. This card gives you the chores the WG actually decides about, so your dass-clauses have real content.",
+     "examples": [
+      {
+       "de": "Anna bringt jeden Montag den Müll raus.",
+       "en": "Anna takes the rubbish out every Monday.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "bringt",
+         "verb"
+        ],
+        [
+         "jeden Montag",
+         "time"
+        ],
+        [
+         "den Müll",
+         "object"
+        ],
+        [
+         "raus.",
+         "verb2"
+        ]
+       ],
+       "why": "rausbringen is separable"
+      },
+      {
+       "de": "Wir haben entschieden, dass Ben das Bad putzt.",
+       "en": "We have decided that Ben cleans the bathroom.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "entschieden,",
+         "verb2"
+        ],
+        [
+         "dass",
+         "conjunction"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "das Bad",
+         "object"
+        ],
+        [
+         "putzt.",
+         "verbend"
+        ]
+       ],
+       "why": "dass: verb at the end"
+      },
+      {
+       "de": "Wir spülen abwechselnd.",
+       "en": "We wash up in turns.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "spülen",
+         "verb"
+        ],
+        [
+         "abwechselnd.",
+         "other"
+        ]
+       ],
+       "why": "abwechselnd = in turns"
+      }
+     ],
+     "deeper": {
+      "text": "A chore with a noun is a small phrase: das Bad putzen, die Wäsche waschen. The noun stays in front of the verb, so in a dass-clause you get dass Ben das Bad putzt. A separable verb joins again at the end: Ich bringe den Müll raus, but dass Ben den Müll rausbringt. In everyday speech raus is short for heraus.",
+      "example": {
+       "de": "Es ist fair, dass Ben den Müll rausbringt.",
+       "en": "It is fair that Ben takes the rubbish out.",
+       "parts": [
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "fair,",
+         "adjective"
+        ],
+        [
+         "dass",
+         "conjunction"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "den Müll",
+         "object"
+        ],
+        [
+         "rausbringt.",
+         "verbend"
+        ]
+       ]
+      }
+     },
+     "more": "Think of the Putzplan as a table on the fridge. On the left are the chores, on the right the names. Every Monday the names move one line down, so everybody does every job once. That is what abwechselnd means: in turns. Say the rule once in German: Wir haben entschieden, dass wir abwechselnd putzen. The table on the fridge then tells the story of the whole week, and nobody has to argue about it.",
+     "table": {
+      "headers": [
+       "Chore",
+       "German",
+       "Note"
+      ],
+      "rows": [
+       [
+        "clean the bathroom",
+        "das Bad putzen",
+        "putzt das Bad"
+       ],
+       [
+        "clean the window",
+        "das Fenster putzen",
+        "putzt das Fenster"
+       ],
+       [
+        "take the rubbish out",
+        "den Müll rausbringen",
+        "bringt den Müll raus"
+       ],
+       [
+        "wash up",
+        "spülen",
+        "spült"
+       ],
+       [
+        "go shopping",
+        "einkaufen",
+        "kauft ein"
+       ],
+       [
+        "do the laundry",
+        "die Wäsche waschen",
+        "wäscht die Wäsche"
+       ],
+       [
+        "in turns",
+        "abwechselnd",
+        "adverb: no ending"
+       ]
+      ]
+     }
     },
     {
      "title": "Vote and find a compromise",
@@ -8599,7 +9565,7 @@
        ]
       }
      },
-     "more": "Voting is easy: put up your hand for yes or for no. More hands win. That is die Mehrheit. But sometimes both sides give a little: that is a Kompromiss. Then you say Wir einigen uns, which means we agree, all together.",
+     "more": "Voting is easy: put up your hand for yes or for no. More hands win. That is die Mehrheit, the majority. But sometimes the losing side has a good reason, so both sides give a little: that is a Kompromiss. Then you say Wir einigen uns, which means we agree, all together. English says 'we met in the middle'. Try it for your own flat: who does the bathroom, who does the kitchen? Then say the result with Wir haben uns geeinigt, dass …",
      "table": {
       "headers": [
        "Question or result",
@@ -8766,7 +9732,7 @@
        ]
       }
      },
-     "more": "Turn the sentence around like a coat. Normal: Ich finde es gut, dass wir ein Treffen machen. Turned: Dass wir ein Treffen machen, finde ich gut. The dass part is now at the front, and the verb finde comes right after the comma. Just recognise it for now.",
+     "more": "Turn the sentence around like a coat. Normal: Ich finde es gut, dass wir ein Treffen machen. Turned: Dass wir ein Treffen machen, finde ich gut. The dass part is now at the front, and the verb finde comes right after the comma, because the whole clause counts as position 1. English can do something similar for emphasis: 'That we meet, I think, is good.' For now just recognise it when you read or hear it. You do not have to use it yet.",
      "table": {
       "headers": [
        "Order",
@@ -8969,7 +9935,7 @@
        ]
       }
      },
-     "more": "Read it as a small play with four people. Mira suggests, Ben says yes, Leon says no with a reason, Anna wants a vote, and Mira gives the result. Find each of the five steps in it.",
+     "more": "Read it as a small play with four people. Mira suggests, Ben says yes, Leon says no and gives a reason, Anna wants a vote, and Mira says the result. Read it once as yourself and once with the roles. Then find each of the five steps and tick them off. Last, change the topic: not a casting, but a cleaning rota or a party. The frames stay the same and only the dass-clause changes. That is the whole trick of a good meeting.",
      "steps": [
       "Topic: Wir haben noch ein freies Zimmer.",
       "Suggestion: Ich schlage vor, dass …",
@@ -8981,7 +9947,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:_tHi2rjFKd0"
+     "yt:_tHi2rjFKd0",
+     "yt:PKK476h0xEw"
     ],
     "nicosWeg": [
      "nw:a2-13"
@@ -8993,11 +9960,11 @@
      "type": "choice",
      "prompt": "Ich schlage vor, dass wir einen Putzplan ___.",
      "options": [
+      "machen",
       "gemacht",
-      "macht",
-      "machen"
+      "macht"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "wir + machen, at the end.",
      "explanation": "Ich schlage vor, dass wir einen Putzplan machen.",
      "grammar": true
@@ -9006,11 +9973,11 @@
      "type": "choice",
      "prompt": "Wir haben ___, dass Leon den Küchendienst macht.",
      "options": [
-      "entschieden",
       "entscheiden",
+      "entschieden",
       "entschied"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Perfekt: haben + participle.",
      "explanation": "Wir haben entschieden, dass …",
      "grammar": true
@@ -9079,12 +10046,12 @@
      "type": "choice",
      "prompt": "Wer ist ___? Drei Hände sind oben.",
      "options": [
-      "einverstanden",
       "dafür",
+      "einverstanden",
       "Kompromiss"
      ],
-     "answer": 1,
-     "hint": "Who is for it?",
+     "answer": 0,
+     "hint": "A vote has two sides: for or against. Which question fits three raised hands?",
      "explanation": "Wer ist dafür?",
      "grammar": true
     },
@@ -9114,11 +10081,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Wir haben entschieden, dass Leon den Küchendienst macht.",
       "Wir haben entschieden, dass Leon macht den Küchendienst.",
+      "Wir haben entschieden, dass Leon den Küchendienst macht.",
       "Wir haben entschieden, Leon den Küchendienst macht."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "dass sends the verb to the end.",
      "explanation": "Wir haben entschieden, dass Leon den Küchendienst macht.",
      "grammar": true
@@ -9127,11 +10094,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "…, dass Anna das Fenster putzen muss.",
       "…, dass Anna muss das Fenster putzen.",
-      "…, dass Anna das Fenster muss putzen."
+      "…, dass Anna das Fenster muss putzen.",
+      "…, dass Anna das Fenster putzen muss."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Infinitive, then modal last.",
      "explanation": "…, dass Anna das Fenster putzen muss.",
      "grammar": true
@@ -9153,11 +10120,11 @@
      "type": "choice",
      "prompt": "Step 4 of a WG-Treffen is …",
      "options": [
-      "abstimmen",
       "Thema nennen",
+      "abstimmen",
       "Ergebnis sagen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Topic, suggestion, for/against, vote, result.",
      "explanation": "abstimmen: Wir stimmen ab.",
      "grammar": true
@@ -9177,11 +10144,11 @@
      "prompt": "Die ___ ist dafür. (more than half)",
      "options": [
       "Abstimmung",
-      "Mehrheit",
-      "Entscheidung"
+      "Entscheidung",
+      "Mehrheit"
      ],
-     "answer": 1,
-     "hint": "die Mehrheit = majority.",
+     "answer": 2,
+     "hint": "The result of counting the raised hands.",
      "explanation": "Die Mehrheit ist dafür.",
      "grammar": true
     },
@@ -9189,12 +10156,12 @@
      "type": "choice",
      "prompt": "Nobody wins, both sides give a little: that is …",
      "options": [
-      "ein Küchendienst",
       "ein Kompromiss",
+      "ein Küchendienst",
       "ein Putzplan"
      ],
-     "answer": 1,
-     "hint": "der Kompromiss.",
+     "answer": 0,
+     "hint": "Think of Wir machen einen … from the card.",
      "explanation": "Wir machen einen Kompromiss.",
      "grammar": true
     },
@@ -9637,7 +10604,7 @@
        "why": "New today: a position verb in the Perfekt inside the story."
       }
      ],
-     "more": "Think of a photo album of the day you moved. Each als-sentence is one photo: one moment, once, in the past. Today you learn to stick the photos together into a little story."
+     "more": "Think of a photo album of the day you moved. Every als-sentence is one photo: one moment, once, in the past. A photo shows what is happening (it rained, Frau Weber rang the bell) and what the room looked like (a sofa stood in the hall). You already know both kinds of sentence. Today you stick the photos together into a little story. Then your friends see the whole day, not only one picture, and they laugh at the right moment."
     },
     {
      "title": "Als wir eingezogen sind: verb at the END, then the main verb",
@@ -9796,7 +10763,7 @@
        ]
       }
      },
-     "more": "Wrong: Als wir sind eingezogen, … Right: Als wir eingezogen sind, … Think of als as a magnet at the end: it pulls the helper verb (sind) to the very back. Then the comma, then the next verb comes at once: hat es geregnet.",
+     "more": "Think of als as a magnet at the back of the sentence. It pulls the helper verb (sind, hat) to the very end, behind the participle. Wrong: Als wir sind eingezogen. Right: Als wir eingezogen sind. Then comes the comma, and the next word is a verb at once: hat es geregnet. Two verbs meet at the comma, like two people shaking hands. If you see them side by side, the order is right. Say the pattern ten times with different stories.",
      "steps": [
       "Start with Als + subject: Als wir …",
       "Put the participle, then the helper verb at the END: … eingezogen sind,",
@@ -10001,7 +10968,7 @@
        ]
       }
      },
-     "more": "A story is like a film. Als is the moment the camera clicks. Then you look around the room: what stood there, what lay there? Say it with hat gestanden, hat gelegen, hat gehangen. These verbs only describe, so the place takes dem, der, im.",
+     "more": "A story is like a film. Als is the moment when the camera clicks. Then the camera looks around the room: what stood there, what lay there, what hung on the wall? You say it with hat gestanden, hat gelegen, hat gehangen. These verbs only describe, so the place takes dem, der or im. Try it with your own room on your first day: Als ich eingezogen bin, hat nur ein Bett im Zimmer gestanden. Describe three things in a row.",
      "table": {
       "headers": [
        "Present",
@@ -10185,7 +11152,7 @@
        ]
       }
      },
-     "more": "Three doors. Als: one moment, back then. Wenn: again and again, or now and later. Dass: it opens a sentence after 'I saw', 'I say', 'I think'. Wrong: Wenn wir eingezogen sind, hat es geregnet. That happened once, so: Als wir eingezogen sind.",
+     "more": "Three doors. Als: one moment, back then. Wenn: again and again, or now and later. Dass: it opens a statement after 'I saw', 'I say', 'I think'. English uses 'when' for the first two, so English speakers often pick wenn by mistake. Wrong: Wenn wir eingezogen sind, hat es geregnet. The move happened once, so: Als wir eingezogen sind. Test yourself with 'every time': if you can add it in English, wenn is right. If not, and it is the past, take als.",
      "table": {
       "headers": [
        "Word",
@@ -10364,7 +11331,7 @@
        ]
       }
      },
-     "more": "Two halves of a sandwich. You can put either half on top. If als is on top, the next verb jumps to the front: Als …, hat es geregnet. If als is at the bottom, everything stays normal: Es hat geregnet, als wir eingezogen sind.",
+     "more": "Think of a sandwich with two halves. You can put either half on top. If the als-half is on top, the next verb jumps to the front: Als …, hat es geregnet. If the als-half is at the bottom, everything stays normal: Es hat geregnet, als wir eingezogen sind. In both cases the verb inside the als-half stands last. Choose the order by what you want to stress: the thing that happened (main clause first) or the moment (als first).",
      "table": {
       "headers": [
        "als-clause first",
@@ -10378,6 +11345,183 @@
        [
         "Als Frau Weber geklingelt hat, hat Mira aufgemacht.",
         "Mira hat aufgemacht, als Frau Weber geklingelt hat."
+       ]
+      ]
+     }
+    },
+    {
+     "title": "Moving-in words: contract, bell, building",
+     "body": "Verbs: ausziehen (to move out), klingeln (to ring), sich einleben (to settle in). Nouns: der Mietvertrag, die Kaution, der Briefkasten, das Türschild, die Klingel. Two kinds of building: der Altbau (old building) and der Neubau (new building). Learn each noun with its article, then tell your first day with them.",
+     "lead": "You can tell the day as a story. This card gives you the things that belong to a first day in a flat: papers, the bell, the letterbox, and the type of house.",
+     "examples": [
+      {
+       "de": "Als wir eingezogen sind, war die Klingel kaputt.",
+       "en": "When we moved in, the doorbell was broken.",
+       "parts": [
+        [
+         "Als",
+         "conjunction"
+        ],
+        [
+         "wir",
+         "subject"
+        ],
+        [
+         "eingezogen",
+         "verb2"
+        ],
+        [
+         "sind,",
+         "verbend"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "die Klingel",
+         "subject"
+        ],
+        [
+         "kaputt.",
+         "adjective"
+        ]
+       ],
+       "why": "als: helper verb at the end"
+      },
+      {
+       "de": "Wir haben den Mietvertrag unterschrieben.",
+       "en": "We signed the rental contract.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "den Mietvertrag",
+         "object"
+        ],
+        [
+         "unterschrieben.",
+         "verb2"
+        ]
+       ],
+       "why": "unterschreiben: no ge- in the participle"
+      },
+      {
+       "de": "Ich habe mich gut eingelebt.",
+       "en": "I have settled in well.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "mich",
+         "reflexive"
+        ],
+        [
+         "gut",
+         "other"
+        ],
+        [
+         "eingelebt.",
+         "verb2"
+        ]
+       ],
+       "why": "sich einleben: reflexive and separable"
+      }
+     ],
+     "deeper": {
+      "text": "Altbau and Neubau show how German builds words: alt + Bau (building), neu + Bau. Altbau flats often have high ceilings and wooden floors, and many people love them. The Kaution is a deposit, usually up to three months' rent. You get it back when you move out, if the flat is in good condition. Both words come up in every flat search.",
+      "example": {
+       "de": "Unsere WG ist in einem Altbau.",
+       "en": "Our flat share is in an old building.",
+       "parts": [
+        [
+         "Unsere WG",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "einem Altbau.",
+         "dative"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine the first day in a new flat as a list on the fridge: sign the Mietvertrag, pay the Kaution, put the names on the Türschild, test the Klingel, empty the Briefkasten. Each word is a job. Say them in the order of the day, then tell it as a story with als, dann and am Abend. A list that you can see in your head is easier to remember than a column of dry words.",
+     "table": {
+      "headers": [
+       "Word",
+       "Forms",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Mietvertrag",
+        "die Mietverträge",
+        "rental contract"
+       ],
+       [
+        "die Kaution",
+        "die Kautionen",
+        "deposit"
+       ],
+       [
+        "der Briefkasten",
+        "die Briefkästen",
+        "letterbox"
+       ],
+       [
+        "das Türschild",
+        "die Türschilder",
+        "nameplate"
+       ],
+       [
+        "die Klingel",
+        "die Klingeln",
+        "doorbell"
+       ],
+       [
+        "der Altbau",
+        "die Altbauten",
+        "old building"
+       ],
+       [
+        "der Neubau",
+        "die Neubauten",
+        "new building"
+       ],
+       [
+        "ausziehen",
+        "zieht aus, ist ausgezogen",
+        "to move out"
+       ],
+       [
+        "klingeln",
+        "klingelt, hat geklingelt",
+        "to ring"
+       ],
+       [
+        "sich einleben",
+        "lebt sich ein, hat sich eingelebt",
+        "to settle in"
        ]
       ]
      }
@@ -10519,7 +11663,7 @@
        ]
       }
      },
-     "more": "A story is a little hill. Anfang: you walk up. Problem: it gets hard (rain, heavy boxes). Höhepunkt: the top, the funny moment. Ende: you walk down and rest. One or two sentences for each part is enough.",
+     "more": "A story is a little hill. Anfang: you walk up. Problem: it gets hard, with rain and heavy boxes. Höhepunkt: the top, the funny moment. Ende: you walk down and rest. One or two sentences for each part are enough, and each part can start with a different small word: als, dann, plötzlich, am Abend. Think of the hill before you speak. Then you will not forget the end, and your listener knows when the story is over.",
      "table": {
       "headers": [
        "Part",
@@ -10703,7 +11847,7 @@
        ]
       }
      },
-     "more": "Weißt du noch? is like opening a photo album together. One person shows a photo (Als wir eingezogen sind …), the other adds what they see (Ja, und der Teppich hat im Flur gelegen!).",
+     "more": "Weißt du noch? is like opening a photo album together with a friend. One person shows a photo (Als wir eingezogen sind …), the other adds what they see (Ja, und der Teppich hat im Flur gelegen!). Neither of them tells the whole story alone. That makes it good speaking practice, because you only have to say one or two sentences at a time. Read the dialogue aloud with a friend, then close the book and remember your own first day together.",
      "table": {
       "headers": [
        "Who",
@@ -10740,7 +11884,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:C7Ehqfq0AeQ"
+     "yt:C7Ehqfq0AeQ",
+     "yt:9YOP2Vs6Zro"
     ],
     "nicosWeg": [
      "nw:a2-59"
@@ -10753,10 +11898,10 @@
      "prompt": "Als wir ___, hat es geregnet. (einziehen, Perfekt)",
      "options": [
       "sind eingezogen",
-      "eingezogen sind",
-      "einziehen"
+      "einziehen",
+      "eingezogen sind"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "als: helper verb at the END.",
      "explanation": "Als wir eingezogen sind, hat es geregnet.",
      "grammar": true
@@ -10765,11 +11910,11 @@
      "type": "choice",
      "prompt": "Als Ben angekommen ist, ___ Anna schon gekocht.",
      "options": [
+      "hat",
       "Anna hat",
-      "haben",
-      "hat"
+      "haben"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "After the comma: verb first.",
      "explanation": "Als Ben angekommen ist, hat Anna schon gekocht.",
      "grammar": true
@@ -10779,10 +11924,10 @@
      "prompt": "Als wir eingezogen sind, hat ein Sofa im Flur ___.",
      "options": [
       "gestellt",
-      "steht",
-      "gestanden"
+      "gestanden",
+      "steht"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "No object: it just stands.",
      "explanation": "hat … gestanden: Perfekt of stehen.",
      "grammar": true
@@ -10792,10 +11937,10 @@
      "prompt": "Once in the past: ___ ich eingezogen bin, war ich müde.",
      "options": [
       "Wenn",
-      "Als",
-      "Dass"
+      "Dass",
+      "Als"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Once or every time?",
      "explanation": "One moment in the past: als.",
      "grammar": true
@@ -10875,11 +12020,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Als wir eingezogen sind, hat es geregnet.",
       "Als wir sind eingezogen, hat es geregnet.",
+      "Als wir eingezogen sind, hat es geregnet.",
       "Als wir eingezogen sind, es hat geregnet."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Helper verb at the end, then verb after the comma.",
      "explanation": "Als wir eingezogen sind, hat es geregnet.",
      "grammar": true
@@ -10888,11 +12033,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Als wir eingezogen sind, hat es geregnet.",
       "Wenn wir eingezogen sind, hat es geregnet.",
-      "Dass wir eingezogen sind, hat es geregnet."
+      "Dass wir eingezogen sind, hat es geregnet.",
+      "Als wir eingezogen sind, hat es geregnet."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The move happened once.",
      "explanation": "Once in the past: als.",
      "grammar": true
@@ -10901,11 +12046,11 @@
      "type": "choice",
      "prompt": "Als Mira angekommen ist, hat das Poster schon an der Wand ___.",
      "options": [
-      "gehängt",
       "gehangen",
+      "gehängt",
       "hängt"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Nobody moves it: it just hangs.",
      "explanation": "hat gehangen: it was hanging.",
      "grammar": true
@@ -10915,10 +12060,10 @@
      "prompt": "Ich habe gesehen, ___ die Kiste im Flur steht.",
      "options": [
       "als",
-      "wenn",
-      "dass"
+      "dass",
+      "wenn"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "A statement after gesehen.",
      "explanation": "Ich habe gesehen, dass die Kiste im Flur steht.",
      "grammar": true
@@ -10928,10 +12073,10 @@
      "prompt": "___ ich Zeit habe, helfe ich dir. (now/future)",
      "options": [
       "Als",
-      "Wenn",
-      "Dass"
+      "Dass",
+      "Wenn"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Not the past.",
      "explanation": "Now or future: wenn.",
      "grammar": true
@@ -10981,7 +12126,7 @@
       "the rental contract"
      ],
      "answer": 2,
-     "hint": "Miete = rent.",
+     "hint": "A paper you sign with the landlord.",
      "explanation": "der Mietvertrag = rental contract.",
      "grammar": false
     },
@@ -11207,11 +12352,11 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Could you help me? (du, könntest)",
+     "prompt": "Write in German: Could you help me? (du, very polite)",
      "answers": [
       "Könntest du mir helfen?"
      ],
-     "hint": "Könntest du … helfen?",
+     "hint": "Very polite du-request: the modal first, helfen at the end.",
      "explanation": "Könntest du mir helfen?",
      "grammar": true
     }
@@ -11337,7 +12482,7 @@
        "why": "New today: the present tense for a plan."
       }
      ],
-     "more": "A party is like a little play. Everyone needs a role (Mira: drinks, Ben: Girlande), every thing needs a place, and the invitation is the poster. And when you talk, one word in each sentence shines brightest: that is the stress."
+     "more": "A party is like a little play. Everyone needs a role (Mira: drinks, Ben: garland), every thing needs a place, and the invitation is the poster. And when you talk, one word in each sentence shines brightest: that is the stress. Today you do all four jobs at once: you plan with the Wohin? side of the two-way rule, you describe the result with the Wo? side, you write the invitation, and you make your sentences sound German."
     },
     {
      "title": "The plan: who puts what where?",
@@ -11444,7 +12589,7 @@
        ]
       }
      },
-     "more": "A plan is a to-do list with arrows. Each arrow goes from a person to a place: Mira → drinks → onto the balcony. An arrow means movement, so you say auf den, an die, in die.",
+     "more": "A plan is a to-do list with arrows. Each arrow goes from a person to a place: Mira, the drinks, onto the balcony. An arrow means movement, so you say auf den, an die, in die. You also do not need a special future tense. English says 'will' or 'is going to'. German simply uses the present and adds a time word: am Samstag, um acht, schon morgen. The time word tells everybody that it is a plan, not something happening now.",
      "table": {
       "headers": [
        "Wer?",
@@ -11579,7 +12724,7 @@
        ]
       }
      },
-     "more": "First the arrow, then the dot. Arrow: someone moves it (auf den Balkon). Dot: it is just there (auf dem Balkon). Wrong: Die Getränke stehen auf den Balkon. Right: Die Getränke stehen auf dem Balkon.",
+     "more": "First the arrow, then the dot. Arrow: someone moves it, so auf den Balkon. Dot: it is just there, so auf dem Balkon. Imagine a photo of the party: nobody carries anything, everything stands, hangs or sits. So the photo needs the dative. Wrong: Die Getränke stehen auf den Balkon. Right: Die Getränke stehen auf dem Balkon. A quick check: can you add a person who carries it? No person, no arrow, so dative.",
      "table": {
       "headers": [
        "Wohin? (plan, accusative)",
@@ -11606,8 +12751,160 @@
      }
     },
     {
+     "title": "Party words: decoration, food, jobs",
+     "body": "Learn the party words with their article: die Girlande, der Luftballon, der Lautsprecher, die Deko, das Besteck. Die Chips is plural only. The host is der Gastgeber or die Gastgeberin. Verbs: aufbauen (to set up) and abbauen (to take down) are opposites, and verteilen means to hand out.",
+     "lead": "You can plan and describe the party. This card gives you the words for the things and the jobs, so you can fill your plan with real content.",
+     "examples": [
+      {
+       "de": "Anna verteilt das Besteck.",
+       "en": "Anna hands out the cutlery.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "verteilt",
+         "verb"
+        ],
+        [
+         "das Besteck.",
+         "object"
+        ]
+       ],
+       "why": "das Besteck has no plural"
+      },
+      {
+       "de": "Die Luftballons hängen an der Decke.",
+       "en": "The balloons hang from the ceiling.",
+       "parts": [
+        [
+         "Die Luftballons",
+         "subject"
+        ],
+        [
+         "hängen",
+         "verb"
+        ],
+        [
+         "an",
+         "preposition"
+        ],
+        [
+         "der Decke.",
+         "dative"
+        ]
+       ],
+       "why": "hängen = state, Wo? dative"
+      },
+      {
+       "de": "Mira ist heute die Gastgeberin.",
+       "en": "Mira is the host today.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "die Gastgeberin.",
+         "noun"
+        ]
+       ],
+       "why": "die Gastgeberin: add -in for a woman"
+      }
+     ],
+     "deeper": {
+      "text": "Everyday German often shortens long words: die Dekoration becomes die Deko, die Universität becomes die Uni. The short word keeps the article. Aufbauen and abbauen are opposites: auf- builds up, ab- takes away. Both are separable, so the prefix goes to the end of the sentence.",
+      "example": {
+       "de": "Wir bauen alles ab.",
+       "en": "We take everything down.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "bauen",
+         "verb"
+        ],
+        [
+         "alles",
+         "object"
+        ],
+        [
+         "ab.",
+         "verb2"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine the party as three boxes. In box one are the things you hang or put up: die Girlande, der Luftballon, die Deko. In box two are the things for eating: das Besteck, die Chips. In box three are the people and the jobs: der Gastgeber, aufbauen, abbauen, verteilen. Pull one word from each box and make a sentence: Der Gastgeber verteilt das Besteck. Boxes help you find the word fast when you speak.",
+     "table": {
+      "headers": [
+       "Word",
+       "Forms",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "der Gastgeber / die Gastgeberin",
+        "die Gastgeber / die Gastgeberinnen",
+        "host"
+       ],
+       [
+        "die Girlande",
+        "die Girlanden",
+        "garland"
+       ],
+       [
+        "der Luftballon",
+        "die Luftballons",
+        "balloon"
+       ],
+       [
+        "der Lautsprecher",
+        "die Lautsprecher",
+        "speaker"
+       ],
+       [
+        "die Deko",
+        "no plural",
+        "decoration"
+       ],
+       [
+        "das Besteck",
+        "no plural",
+        "cutlery"
+       ],
+       [
+        "die Chips",
+        "plural only",
+        "crisps"
+       ],
+       [
+        "aufbauen / abbauen",
+        "baut auf, hat aufgebaut / baut ab, hat abgebaut",
+        "to set up / to take down"
+       ],
+       [
+        "verteilen",
+        "verteilt, hat verteilt",
+        "to hand out"
+       ]
+      ]
+     }
+    },
+    {
      "title": "The invitation: Wann? Wo? Was mitbringen?",
-     "body": "A good invitation answers four questions: Wann? Wo? Wie lange? Was mitbringen? Write to Frau Weber and Herr Ali with Sie. Start with Liebe Frau Weber or Lieber Herr Ali, no comma after the closing: Viele Grüße, new line, your name.",
+     "body": "A good invitation answers four questions: Wann? Wo? Wie lange? Was mitbringen? Write to Frau Weber and Herr Ali with Sie. Start with Liebe Frau Weber, or Lieber Herr Ali, and continue with a small letter. End with Viele Grüße, a new line and your name: no comma after the closing.",
      "lead": "Everything has its place. Now the guests need to know about it, so you write an invitation and learn how to answer one.",
      "examples": [
       {
@@ -11710,7 +13007,7 @@
        ]
       }
      },
-     "more": "An invitation is a small map: when (Saturday, 7 pm), where (our WG), how long (till midnight), what to bring (a salad?). Here is Mira's: Liebe Frau Weber, / wir feiern am Samstag um 19 Uhr in unserer WG. Kommen Sie auch? / Viele Grüße / Mira",
+     "more": "An invitation is a small map: when (Saturday, 7 pm), where (our WG), how long (until midnight), what to bring (a salad?). If one of the four is missing, the guest has to write back and ask. Here is Mira's invitation, with Sie: Liebe Frau Weber, (new line) wir feiern am Samstag um 19 Uhr in unserer WG. Kommen Sie auch? (new line) Viele Grüße (new line) Mira. Note the comma after the greeting, and none after the closing.",
      "table": {
       "headers": [
        "Question",
@@ -11723,7 +13020,7 @@
        ],
        [
         "Wo?",
-        "in unserer WG, zweiter Stock"
+        "in unserer WG, im zweiten Stock"
        ],
        [
         "Wie lange?",
@@ -11738,12 +13035,12 @@
     },
     {
      "title": "Sentence stress: the important word is loud",
-     "body": "In every sentence one word carries the stress (der Satzakzent): the most important or new word. Little words like der, die, in, ich stay short and quiet. Change the stress and the meaning changes: Wir FEIERN am Samstag (not work). Wir feiern am SAMSTAG (not Sunday).",
+     "body": "In every sentence one word carries the stress (der Satzakzent): the most important or new word. Little words like der, die, in, ich stay short and quiet. Change the stress and the meaning changes: stress on feiern means we celebrate and do not work; stress on Samstag means Saturday, not Sunday.",
      "lead": "You can now say the plan. Now you learn how to say it like a German: which word in the sentence is loud, and why it can change what you mean.",
      "examples": [
       {
        "de": "Wir feiern am Samstag.",
-       "en": "We celebrate on SATURDAY. (stress: SAMSTAG, not Sunday)",
+       "en": "We celebrate on Saturday. (stress on Samstag: not Sunday)",
        "parts": [
         [
          "Wir",
@@ -11761,7 +13058,7 @@
       },
       {
        "de": "Wir feiern am Samstag.",
-       "en": "We CELEBRATE on Saturday. (stress: FEIERN, we don't work)",
+       "en": "We celebrate on Saturday. (stress on feiern: we don't work)",
        "parts": [
         [
          "Wir",
@@ -11779,7 +13076,7 @@
       },
       {
        "de": "Nicht in die Küche, sondern in den Flur.",
-       "en": "Not into the KITCHEN, but into the HALL. (stress: KÜCHE, FLUR)",
+       "en": "Not into the kitchen, but into the hall. (stress on Küche and Flur)",
        "parts": [
         [
          "Nicht",
@@ -11801,10 +13098,10 @@
       }
      ],
      "deeper": {
-      "text": "In a normal sentence with no contrast, the stress falls on the last important word: Mira stellt die Getränke auf den BALKON. When you correct someone, you stress the new information: Nicht Ben, LEON macht den Salat. This stress is often stronger than in English, so do not be shy.",
+      "text": "In a normal sentence with no contrast, the stress falls on the last important word: in Mira stellt die Getränke auf den Balkon it is Balkon. When you correct someone, you stress the new information: Nicht Ben, Leon macht den Salat (stress on Leon). This stress is often stronger than in English, so do not be shy.",
       "example": {
        "de": "Leon macht den Salat.",
-       "en": "LEON makes the salad. (stress: LEON, not Ben)",
+       "en": "Leon makes the salad. (stress on Leon, not Ben)",
        "parts": [
         [
          "Leon",
@@ -11821,27 +13118,32 @@
        ]
       }
      },
-     "more": "Picture a torch. In each sentence you shine it on one word. That word is louder and a bit longer. The little words stay in the dark. Where the torch shines, that is the news.",
+     "more": "Picture a torch. In each sentence you shine it on one word. That word is louder, a little higher and a bit longer. The little words stay in the dark. Where the torch shines, there is the news. English does this too: 'I said Saturday, not Sunday.' Try it: say Wir feiern am Samstag three times and shine the torch on a different word each time. Listen to how the meaning moves with the light.",
      "table": {
       "headers": [
-       "Sentence (stress in CAPITALS)",
+       "Sentence",
+       "Stress on",
        "Meaning"
       ],
       "rows": [
        [
-        "Wir FEIERN am Samstag.",
+        "Wir feiern am Samstag.",
+        "feiern",
         "we celebrate, we don't work"
        ],
        [
-        "Wir feiern am SAMSTAG.",
+        "Wir feiern am Samstag.",
+        "Samstag",
         "Saturday, not Sunday"
        ],
        [
-        "WIR feiern am Samstag.",
+        "Wir feiern am Samstag.",
+        "Wir",
         "we, not the neighbours"
        ],
        [
-        "Nicht in die KÜCHE, sondern in den FLUR.",
+        "Nicht in die Küche, sondern in den Flur.",
+        "Küche, Flur",
         "the hall, not the kitchen"
        ]
       ]
@@ -11849,7 +13151,7 @@
     },
     {
      "title": "Questions and melody: up or down?",
-     "body": "Yes/no questions go up at the end: Kommst du auch? ↗. W-questions go down: Wann feiern wir? ↘, Wohin stellen wir die Getränke? ↘. In a W-question, the question word and the last content word get the stress.",
+     "body": "Yes/no questions go up at the end: Kommst du auch? ↗. W-questions go down: Wann feiern wir? ↘, Wohin stellen wir die Getränke? ↘. In a W-question the stress is usually on the question word or on the last important word.",
      "lead": "Stress makes one word loud. The melody is the line of the whole sentence, and in questions it tells the listener what kind of answer you want.",
      "examples": [
       {
@@ -11890,7 +13192,7 @@
       },
       {
        "de": "Wohin stellen wir die Getränke?",
-       "en": "Where do we put the drinks? ↘ (stress: WOHIN, GETRÄNKE)",
+       "en": "Where do we put the drinks? ↘ (stress on Wohin or Getränke)",
        "parts": [
         [
          "Wohin",
@@ -11932,7 +13234,7 @@
        ]
       }
      },
-     "more": "Melody is a hill or a slide. Yes/no questions climb a hill at the end: auch? ↗. W-questions slide down: wir? ↘. Draw an arrow in your notes over every question you practise.",
+     "more": "Melody is a hill or a slide. Yes/no questions climb a hill at the end: Kommst du auch? ↗. W-questions slide down: Wann feiern wir? ↘. Draw a small arrow over every question you practise in your notes. English does the same for yes/no questions, so you already feel it. The new part is the W-question, where English speakers often go up. In German, down is normal, and up sounds like 'Sorry, what did you say?'",
      "table": {
       "headers": [
        "Question",
@@ -12064,7 +13366,7 @@
        ]
       }
      },
-     "more": "A planning talk is ping-pong: a question flies over (Wer? Wohin?), a short answer comes back (Ich! An die Wand.). Keep the answers short, but keep den, die, das right.",
+     "more": "A planning talk is ping-pong: a question flies over (Wer? Wohin?), a short answer comes back (Ich! An die Wand.). Keep the answers short, but keep den, die, das right, because the case stays the same as in the full sentence. Read the dialogue aloud and listen to the melody: the W-questions slide down, and the answers are short and firm. Then close the book and plan a party with a friend: choose three jobs and three places.",
      "table": {
       "headers": [
        "Who",
@@ -12105,7 +13407,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:ELLKtyQVnaQ"
+     "yt:ELLKtyQVnaQ",
+     "yt:7OhFb-G75HE",
+     "yt:U2Sc2UQmyq0"
     ],
     "nicosWeg": [
      "nw:a2-57"
@@ -12117,11 +13421,11 @@
      "type": "choice",
      "prompt": "Plan: Mira stellt die Getränke auf ___ Balkon.",
      "options": [
-      "den",
       "dem",
+      "den",
       "der"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Movement → Wohin?",
      "explanation": "auf den Balkon: accusative.",
      "grammar": true
@@ -12130,11 +13434,11 @@
      "type": "choice",
      "prompt": "Result: Die Getränke stehen auf ___ Balkon.",
      "options": [
-      "dem",
       "den",
-      "die"
+      "die",
+      "dem"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "No object → Wo?",
      "explanation": "auf dem Balkon: dative.",
      "grammar": true
@@ -12156,11 +13460,11 @@
      "type": "choice",
      "prompt": "Die Girlande hängt an ___ Wand.",
      "options": [
-      "der",
       "die",
+      "der",
       "dem"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Wo? die Wand → dative der.",
      "explanation": "an der Wand.",
      "grammar": true
@@ -12169,11 +13473,11 @@
      "type": "choice",
      "prompt": "Which melody? Kommst du auch?",
      "options": [
-      "up ↗",
       "down ↘",
-      "flat"
+      "flat",
+      "up ↗"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Yes/no question.",
      "explanation": "Yes/no questions go up.",
      "grammar": true
@@ -12182,11 +13486,11 @@
      "type": "choice",
      "prompt": "Which melody? Wann feiern wir?",
      "options": [
-      "up ↗",
       "down ↘",
+      "up ↗",
       "flat"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "W-question.",
      "explanation": "W-questions go down.",
      "grammar": true
@@ -12243,11 +13547,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Ich stelle die Getränke auf den Balkon.",
       "Ich stelle die Getränke auf dem Balkon.",
+      "Ich stelle die Getränke auf den Balkon.",
       "Ich stehe die Getränke auf den Balkon."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "stellen + object → Wohin?",
      "explanation": "Ich stelle die Getränke auf den Balkon.",
      "grammar": true
@@ -12256,11 +13560,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Die Getränke stehen auf dem Balkon.",
       "Die Getränke stehen auf den Balkon.",
-      "Die Getränke stellen auf dem Balkon."
+      "Die Getränke stellen auf dem Balkon.",
+      "Die Getränke stehen auf dem Balkon."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "stehen, no object → Wo?",
      "explanation": "Die Getränke stehen auf dem Balkon.",
      "grammar": true
@@ -12282,11 +13586,11 @@
      "type": "choice",
      "prompt": "Leon stellt die Lautsprecher in ___ Ecke.",
      "options": [
-      "die",
       "der",
+      "die",
       "dem"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Wohin? → accusative.",
      "explanation": "in die Ecke.",
      "grammar": true
@@ -12306,13 +13610,13 @@
     },
     {
      "type": "choice",
-     "prompt": "Wir feiern am SAMSTAG. What does the stress say?",
+     "prompt": "Wir feiern am Samstag, with the stress on Samstag. What does the stress say?",
      "options": [
+      "Saturday, not another day",
       "we celebrate, we don't work",
-      "we, not the others",
-      "Saturday, not another day"
+      "we, not the others"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The loud word is the news.",
      "explanation": "Stress on SAMSTAG: the day is the news.",
      "grammar": true
@@ -12321,11 +13625,11 @@
      "type": "choice",
      "prompt": "Nicht Ben, ___ macht den Salat. Which word gets the stress?",
      "options": [
-      "Leon",
       "macht",
+      "Leon",
       "den"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Stress the correction.",
      "explanation": "LEON is the new information.",
      "grammar": true
@@ -12335,10 +13639,10 @@
      "prompt": "Which closing is right in the invitation?",
      "options": [
       "Viele Grüße, (new line) Mira",
-      "Viele Grüße (new line) Mira",
-      "Viele Grüße! Mira"
+      "Viele Grüße! Mira",
+      "Viele Grüße (new line) Mira"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "No comma after the closing.",
      "explanation": "Viele Grüße, new line, Mira: no comma.",
      "grammar": true
@@ -12347,11 +13651,11 @@
      "type": "choice",
      "prompt": "Der Gastgeber is …",
      "options": [
-      "the guest",
       "the host",
+      "the guest",
       "the neighbour"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "He gives the party.",
      "explanation": "der Gastgeber = host.",
      "grammar": false
@@ -12361,11 +13665,11 @@
      "prompt": "Nach der Party ___ wir die Lautsprecher ab.",
      "options": [
       "stellen",
-      "legen",
-      "bauen"
+      "bauen",
+      "legen"
      ],
-     "answer": 2,
-     "hint": "abbauen = take down.",
+     "answer": 1,
+     "hint": "The prefix ab stands at the end of the sentence: which verb takes it?",
      "explanation": "Wir bauen die Lautsprecher ab.",
      "grammar": false
     },
@@ -12376,7 +13680,7 @@
       "Anna verteilt das Besteck.",
       "Anna verteilt das Besteck"
      ],
-     "hint": "verteilen + das Besteck.",
+     "hint": "A verb with ver-, and the noun for knives and forks.",
      "explanation": "Anna verteilt das Besteck.",
      "grammar": false
     }
@@ -12542,7 +13846,7 @@
     "examples": [
      "Mira stellt die Getränke auf den Balkon. Ben hängt die Girlande an die Wand. Ich mache den Salat.",
      "Frau Weber, wir feiern am Samstag um 19 Uhr. Kommen Sie auch? Wir freuen uns auf Sie.",
-     "Wir FEIERN am Samstag. Wir feiern am SAMSTAG."
+     "Wir feiern am Samstag. (Stress on feiern.) Wir feiern am Samstag. (Stress on Samstag.)"
     ]
    },
    "retrieval": [
@@ -12725,7 +14029,7 @@
        "why": "New today: kaputtgehen with sein."
       }
      ],
-     "more": "Telling a story is like putting a puzzle together. The pieces are short sentences in the Perfekt. The connectors (als, weil, deshalb, trotzdem) are the edges that hold them together. Today you also get a box lid with the picture: five steps to follow."
+     "more": "Telling a story is like putting a puzzle together. The pieces are short sentences in the Perfekt. The connectors (als, weil, deshalb, trotzdem) are the edges that hold the pieces together, and the five steps are the picture on the box lid. Yesterday you only planned. Today you look back, so everything that happened gets a participle at the end. After this lesson you can tell a friend what happened at a party and write it down in ten sentences."
     },
     {
      "title": "The morning after: spülen, wegräumen, kaputtgehen",
@@ -12828,7 +14132,7 @@
        ]
       }
      },
-     "more": "Imagine a messy kitchen. Each verb is one job: spülen (wash the dishes), wegräumen (put away), sich entschuldigen (say sorry). Kaputtgehen is the accident that made the mess. In the Perfekt: hat gespült, hat weggeräumt, hat sich entschuldigt, but ist kaputtgegangen.",
+     "more": "Imagine a messy kitchen on Sunday. Each verb is one job: spülen (wash the dishes), wegräumen (put away), sich entschuldigen (say sorry). Kaputtgehen is the accident that made the mess. Look at the helper verb: when a person does a job, you use haben (hat gespült, hat weggeräumt). When something just happens to a thing, you use sein (ist kaputtgegangen). Ask yourself: does somebody do it, or does it just happen? That decides haben or sein.",
      "table": {
       "headers": [
        "Infinitive",
@@ -12860,6 +14164,143 @@
         "sich verabschieden",
         "hat sich verabschiedet",
         "to say goodbye"
+       ]
+      ]
+     }
+    },
+    {
+     "title": "After the party: things and leftovers",
+     "body": "Learn the nouns with their article: das Geschirr (dishes, no plural), die Scherbe, der Fleck, der Rest, der Müllsack. Übrig means left over and takes no ending. Use these words in the Perfekt report: Wir haben das Geschirr gespült. Es ist noch Kuchen übrig.",
+     "lead": "You can name the jobs of the morning after. This card adds the things you find in the flat: dishes, broken glass, stains and leftovers.",
+     "examples": [
+      {
+       "de": "Der Fleck geht nicht weg.",
+       "en": "The stain won't come out.",
+       "parts": [
+        [
+         "Der Fleck",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "weg.",
+         "verb2"
+        ]
+       ],
+       "why": "weggehen is separable"
+      },
+      {
+       "de": "Wo sind die Müllsäcke?",
+       "en": "Where are the rubbish bags?",
+       "parts": [
+        [
+         "Wo",
+         "question"
+        ],
+        [
+         "sind",
+         "verb"
+        ],
+        [
+         "die Müllsäcke?",
+         "subject"
+        ]
+       ],
+       "why": "der Müllsack, die Müllsäcke"
+      },
+      {
+       "de": "Ist noch Salat übrig?",
+       "en": "Is there any salad left?",
+       "parts": [
+        [
+         "Ist",
+         "verb"
+        ],
+        [
+         "noch",
+         "time"
+        ],
+        [
+         "Salat",
+         "subject"
+        ],
+        [
+         "übrig?",
+         "adjective"
+        ]
+       ],
+       "why": "übrig: no ending"
+      }
+     ],
+     "deeper": {
+      "text": "Die Scherbe is one piece of broken glass, die Scherben are the pieces on the floor. A German saying goes: Scherben bringen Glück, broken pieces bring luck. People say it when a glass breaks at a party, to make the person feel better. Der Rest has a plural too: die Reste means leftovers.",
+      "example": {
+       "de": "Die Scherben liegen auf dem Boden.",
+       "en": "The broken pieces are lying on the floor.",
+       "parts": [
+        [
+         "Die Scherben",
+         "subject"
+        ],
+        [
+         "liegen",
+         "verb"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "dem Boden.",
+         "dative"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine the kitchen on Sunday morning and say what you see. Das Geschirr steht auf dem Tisch. Die Scherben liegen auf dem Boden. Ein Fleck ist auf dem Teppich. Ein Rest Kuchen ist übrig. Each sentence uses a word from this card and a position verb from this chapter. That is how the topic words and the grammar stick together, and you can repeat it every morning with your own kitchen.",
+     "table": {
+      "headers": [
+       "Word",
+       "Forms",
+       "Meaning"
+      ],
+      "rows": [
+       [
+        "das Geschirr",
+        "no plural",
+        "dishes"
+       ],
+       [
+        "die Scherbe",
+        "die Scherben",
+        "broken piece of glass"
+       ],
+       [
+        "der Fleck",
+        "die Flecken",
+        "stain"
+       ],
+       [
+        "der Rest",
+        "die Reste",
+        "rest, leftover"
+       ],
+       [
+        "der Müllsack",
+        "die Müllsäcke",
+        "rubbish bag"
+       ],
+       [
+        "übrig",
+        "no ending",
+        "left over"
        ]
       ]
      }
@@ -13017,7 +14458,7 @@
        ]
       }
      },
-     "more": "Wrong: Als die Party zu Ende war, wir haben aufgeräumt. After the comma, the verb comes first: haben wir aufgeräumt. Think: verb, comma, verb. war, haben.",
+     "more": "Wrong: Als die Party zu Ende war, wir haben aufgeräumt. After the comma the verb comes first: haben wir aufgeräumt. Think: verb, comma, verb. war, haben. Two verbs stand next to the comma like two neighbours. Dass works as a window into your thoughts: Ich habe gesehen, dass … is something you saw, and Ich finde es schade, dass … is something you feel. English often hides 'that' (I saw the stain was big), but German always shows it, and always with a comma before it.",
      "steps": [
       "als or dass at the start of the clause",
       "subject",
@@ -13191,7 +14632,7 @@
        ]
       }
      },
-     "more": "Wrong: Deshalb ich bin müde. Right: Deshalb bin ich müde. Deshalb and trotzdem take the first seat, so the verb sits right next to them. Weil is different: it sends the verb to the end.",
+     "more": "Weil, deshalb and trotzdem tell the same story from different sides. Imagine a seesaw. Weil: the reason is in the side sentence, and the verb goes to the end. Deshalb: the reason comes first, then the result jumps to the front. Trotzdem: the result does not match the reason, like a surprise. Wrong: Deshalb ich bin müde. Right: Deshalb bin ich müde. Deshalb and trotzdem take the first seat, so the verb sits right next to them.",
      "table": {
       "headers": [
        "Word",
@@ -13334,7 +14775,7 @@
        ]
       }
      },
-     "more": "Building a story is like cooking. Step 1: get the ingredients (words). Step 2: put them in order. Step 3: mix them (connectors). Step 4: taste (check the verbs). Step 5: serve (read it aloud).",
+     "more": "Building a story is like cooking. Step 1: get the ingredients, which are words and ideas. Step 2: put them in order. Step 3: mix them with connectors. Step 4: taste, which means check the verbs. Step 5: serve, which means read it aloud. Cooks never skip tasting, and writers should not skip step 4, because that is where most mistakes are found. Use the little checklist on this card for every text you write, at home and in an exam.",
      "table": {
       "headers": [
        "Check",
@@ -13476,10 +14917,10 @@
       }
      ],
      "deeper": {
-      "text": "Mira's whole text: Am Samstag haben wir unsere erste WG-Party gefeiert. Zuerst haben Ben und ich die Girlande aufgehängt. Um acht sind die Gäste gekommen. Dann ist ein Glas kaputtgegangen. Frau Weber hat geklingelt, weil die Musik zu laut war. Als Herr Ali gekommen ist, haben alle gelacht. Trotzdem waren wir am Sonntag müde.",
+      "text": "Mira's whole text: Am Samstag haben wir unsere erste WG-Party gefeiert. Zuerst haben Ben und ich die Girlande aufgehängt. Um acht sind die Gäste gekommen. Dann ist ein Glas kaputtgegangen. Frau Weber hat geklingelt, weil die Musik zu laut war. Trotzdem haben wir getanzt. Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht. Am Sonntag waren wir müde.",
       "example": {
-       "de": "Trotzdem haben wir bis zwei Uhr getanzt.",
-       "en": "Still, we danced until two o'clock.",
+       "de": "Trotzdem haben wir getanzt.",
+       "en": "Still, we danced.",
        "parts": [
         [
          "Trotzdem",
@@ -13494,17 +14935,13 @@
          "subject"
         ],
         [
-         "bis zwei Uhr",
-         "time"
-        ],
-        [
          "getanzt.",
          "verb2"
         ]
        ]
       }
      },
-     "more": "Read the text like a detective. Find als (one moment), weil (a reason), deshalb (a result), trotzdem (a surprise). Then find every verb at the end. When you can find them all, you can write your own.",
+     "more": "Read the text like a detective. Find als (one moment), weil (a reason), deshalb (a result), trotzdem (a surprise). Then find every verb at the end. Put a finger on each participle and say its helper: gefeiert (haben), gekommen (sein), kaputtgegangen (sein). When you can find them all, you can write your own text. A good exercise: copy the model text and change three facts, for example the day, the gift or the person who comes late.",
      "table": {
       "headers": [
        "Part",
@@ -13517,11 +14954,11 @@
        ],
        [
         "Problem",
-        "Dann ist ein Glas kaputtgegangen. Deshalb haben Scherben auf dem Boden gelegen. Frau Weber hat geklingelt, weil die Musik zu laut war. Ben hat sich entschuldigt."
+        "Dann ist ein Glas kaputtgegangen. Deshalb haben Scherben auf dem Boden gelegen. Frau Weber hat geklingelt, weil die Musik zu laut war. Ben hat die Musik leiser gemacht. Trotzdem haben wir getanzt."
        ],
        [
         "Höhepunkt",
-        "Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht. Trotzdem haben wir bis zwei Uhr getanzt."
+        "Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht."
        ],
        [
         "Ende",
@@ -13532,7 +14969,7 @@
     },
     {
      "title": "Wie war die Party? Ben and Mira",
-     "body": "Ben was away on Saturday. On Sunday morning he asks Mira. Listen for the question Wie war …?, als with the Perfekt and trotzdem. Answer a Wie war …? question with an adjective first (Super! Lustig!) and then one detail.",
+     "body": "Ben went to bed early on Saturday and missed the end of the party. On Sunday morning he asks Mira. Listen for the question Wie war …?, als with the Perfekt and trotzdem. Answer a Wie war …? question with an adjective first (Super! Lustig!) and then one detail.",
      "lead": "You have read Mira's text. Now hear the same story in a real conversation: spoken reports are shorter and use more short answers.",
      "examples": [
       {
@@ -13655,7 +15092,7 @@
        ]
       }
      },
-     "more": "A morning-after chat is like a short news show. Ben asks the headline (Wie war die Party?). Mira gives a one-word answer (Super!) and one story (Als Herr Ali gekommen ist, …). Then they talk about now: the mess in the hall.",
+     "more": "A morning-after chat is like a short news show. Ben asks the headline (Wie war die Party?). Mira gives a one-word answer (Super!) and one story (Als Herr Ali gekommen ist, …). Then they talk about now: the mess in the hall. Notice that spoken German is shorter than written German: only short pieces, and they are the same pieces as in the model text. Practise it with a friend: one asks, one tells, and then you swap.",
      "table": {
       "headers": [
        "Who",
@@ -13705,11 +15142,11 @@
      "type": "choice",
      "prompt": "Ein Glas ___ kaputtgegangen.",
      "options": [
-      "ist",
       "hat",
-      "wird"
+      "wird",
+      "ist"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "kaputtgehen takes sein.",
      "explanation": "Ein Glas ist kaputtgegangen.",
      "grammar": true
@@ -13731,11 +15168,11 @@
      "type": "choice",
      "prompt": "Ben hat ___ entschuldigt.",
      "options": [
-      "sich",
       "ihm",
+      "sich",
       "er"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Reflexive for er.",
      "explanation": "Ben hat sich entschuldigt.",
      "grammar": true
@@ -13757,11 +15194,11 @@
      "type": "choice",
      "prompt": "Wir waren müde. ___ haben wir alles weggeräumt.",
      "options": [
-      "Deshalb",
       "Trotzdem",
+      "Deshalb",
       "Weil"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A surprise: tired, but still.",
      "explanation": "Trotzdem: the opposite of what you expect.",
      "grammar": true
@@ -13821,11 +15258,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Als die Party zu Ende war, haben wir aufgeräumt.",
       "Als die Party zu Ende war, wir haben aufgeräumt.",
+      "Als die Party zu Ende war, haben wir aufgeräumt.",
       "Als die Party war zu Ende, haben wir aufgeräumt."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Verb at the END, then verb after the comma.",
      "explanation": "Als die Party zu Ende war, haben wir aufgeräumt.",
      "grammar": true
@@ -13834,11 +15271,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Deshalb bin ich müde.",
       "Deshalb ich bin müde.",
-      "Deshalb müde ich bin."
+      "Deshalb müde ich bin.",
+      "Deshalb bin ich müde."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Deshalb at position 1, verb next.",
      "explanation": "Deshalb bin ich müde.",
      "grammar": true
@@ -13847,11 +15284,11 @@
      "type": "choice",
      "prompt": "Ein Glas ist kaputtgegangen. Deshalb ___ Scherben auf dem Boden gelegen.",
      "options": [
-      "sind",
       "haben",
+      "sind",
       "hat"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "liegen takes haben; Scherben = plural.",
      "explanation": "Deshalb haben Scherben auf dem Boden gelegen.",
      "grammar": true
@@ -13860,11 +15297,11 @@
      "type": "choice",
      "prompt": "Ich habe gesehen, ___ ein Fleck auf dem Teppich war.",
      "options": [
-      "dass",
       "als",
+      "dass",
       "weil"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A statement after gesehen.",
      "explanation": "Ich habe gesehen, dass ein Fleck auf dem Teppich war.",
      "grammar": true
@@ -13874,10 +15311,10 @@
      "prompt": "Als der letzte Gast ___, war es zwei Uhr.",
      "options": [
       "ist gegangen",
-      "gegangen ist",
-      "gegangen hat"
+      "gegangen hat",
+      "gegangen ist"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "gehen takes sein; verb at the END.",
      "explanation": "Als der letzte Gast gegangen ist, war es zwei Uhr.",
      "grammar": true
@@ -13886,11 +15323,11 @@
      "type": "choice",
      "prompt": "Which step comes first when you write a story?",
      "options": [
+      "Collect words and ideas.",
       "Read it aloud.",
-      "Check the verbs.",
-      "Collect words and ideas."
+      "Check the verbs."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Step 1 of 5.",
      "explanation": "First collect words and ideas.",
      "grammar": false
@@ -13900,10 +15337,10 @@
      "prompt": "Which step checks: is the verb at the END after als, dass, weil?",
      "options": [
       "step 2: order",
-      "step 1: collect",
-      "step 4: check the verbs"
+      "step 4: check the verbs",
+      "step 1: collect"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Checking comes near the end.",
      "explanation": "Step 4: check the verbs.",
      "grammar": true
@@ -13923,10 +15360,10 @@
      "prompt": "Der Fleck is …",
      "options": [
       "a broken piece",
-      "a stain",
-      "a rubbish bag"
+      "a rubbish bag",
+      "a stain"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "On the carpet after the party.",
      "explanation": "der Fleck = stain.",
      "grammar": false
@@ -13940,7 +15377,7 @@
       "gespült"
      ],
      "answer": 0,
-     "hint": "left over",
+     "hint": "What is still there when everybody has eaten?",
      "explanation": "übrig = left over.",
      "grammar": false
     },
@@ -13950,7 +15387,7 @@
      "answers": [
       "Wo sind die Müllsäcke?"
      ],
-     "hint": "Plural: die Müllsäcke.",
+     "hint": "Plural of a masculine word with a: the a takes an umlaut.",
      "explanation": "Wo sind die Müllsäcke?",
      "grammar": false
     }
@@ -14701,7 +16138,7 @@
     },
     {
      "title": "Present a town in five steps",
-     "body": "A short city presentation has five steps: 1 the name and where it is, 2 the size and the people, 3 the places, 4 what you do where, 5 your opinion and an invitation. To compare city and country, use einerseits … andererseits.",
+     "body": "A short city presentation has five steps: 1 the name and where it is, 2 the size and the people (die Einwohner = the inhabitants), 3 the places, 4 what you do where, 5 your opinion and an invitation. To compare city and country, use einerseits … andererseits.",
      "lead": "Now you have places, pointing words and endings. This card puts them in order: five steps that turn single sentences into a short presentation of your town.",
      "examples": [
       {
@@ -15075,10 +16512,10 @@
      "prompt": "Wir gehen ___ Einkaufszentrum.",
      "options": [
       "im",
-      "am",
-      "ins"
+      "ins",
+      "am"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "gehen moves: Wohin? Das Einkaufszentrum is neuter.",
      "explanation": "ins = in das: Wohin? + accusative.",
      "grammar": true
@@ -15087,11 +16524,11 @@
      "type": "choice",
      "prompt": "Das Einkaufszentrum liegt ___ Stadtrand.",
      "options": [
-      "am",
       "an den",
-      "ans"
+      "ans",
+      "am"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "liegen does not move: Wo?",
      "explanation": "am = an dem: Wo? + dative.",
      "grammar": true
@@ -15111,11 +16548,11 @@
      "type": "choice",
      "prompt": "Wo ist die Katze? — ___.",
      "options": [
-      "Dorthin",
       "Dort",
+      "Dorthin",
       "Hierhin"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Wo? asks for a place, no movement.",
      "explanation": "Wo? → dort (no -hin).",
      "grammar": true
@@ -15191,11 +16628,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich gehe dorthin.",
       "Ich gehe dort.",
-      "Ich gehe dorthin gehen."
+      "Ich gehe dorthin gehen.",
+      "Ich gehe dorthin."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "gehen moves: you need the arrow word.",
      "explanation": "Ich gehe dorthin: Wohin? → dorthin.",
      "grammar": true
@@ -15204,11 +16641,11 @@
      "type": "choice",
      "prompt": "Mira wohnt in ___ ruhigen Viertel.",
      "options": [
-      "ein",
       "einem",
+      "ein",
       "einen"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "wohnen = Wo? = dative; das Viertel is neuter.",
      "explanation": "in einem ruhigen Viertel (dative).",
      "grammar": true
@@ -15228,10 +16665,10 @@
      "prompt": "What is step 1 of a city presentation?",
      "options": [
       "your opinion and an invitation",
-      "what you do at the weekend",
-      "the name and where it is"
+      "the name and where it is",
+      "what you do at the weekend"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Start with the cover of the photo album.",
      "explanation": "Step 1: Ich wohne in … Das liegt …",
      "grammar": false
@@ -15251,11 +16688,11 @@
      "type": "choice",
      "prompt": "Im Dorf gibt es viel Natur und wenig Verkehr. Es ist sehr ___.",
      "options": [
-      "ländlich",
       "laut",
-      "lebendig"
+      "lebendig",
+      "ländlich"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Think of the country, not the city.",
      "explanation": "ländlich = rural.",
      "grammar": false
@@ -15287,11 +16724,11 @@
      "type": "choice",
      "prompt": "Einerseits ist das Stadtleben lebendig, ___ ist es laut.",
      "options": [
-      "deshalb",
       "andererseits",
+      "deshalb",
       "trotzdem"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Two sides of one coin.",
      "explanation": "einerseits … andererseits.",
      "grammar": true
@@ -15310,11 +16747,11 @@
      "type": "choice",
      "prompt": "___ gibt es einen Marktplatz.",
      "options": [
-      "Hier",
       "Hierhin",
+      "Hier",
       "Dorthin"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "es gibt describes a place, nothing moves.",
      "explanation": "Wo? → hier.",
      "grammar": true
@@ -15325,7 +16762,7 @@
      "answers": [
       "vorbei"
      ],
-     "hint": "vorbeikommen is separable.",
+     "hint": "A separable verb: the prefix stands at the end. Which prefix means 'come round to my place'?",
      "explanation": "Kommt mal vorbei! (come round)",
      "grammar": false
     }
@@ -15663,7 +17100,7 @@
     },
     {
      "title": "Pets and what they do",
-     "body": "Das Tier is any animal; das Haustier lives with you. Der Hund bellt, die Katze sitzt gern auf dem Fensterbrett, das Kaninchen and der Vogel live in a Käfig. You füttern (feed) them with Futter and you streicheln (stroke) them. A dog walks at the Leine.",
+     "body": "Das Tier is any animal; das Haustier lives with you. Der Hund bellt, die Katze sits on the Fensterbrett, das Kaninchen and der Vogel live in a Käfig (cage). You füttern (feed) them with Futter and you streicheln (stroke) them. A dog needs a Leine (lead) in the park.",
      "lead": "You know das Haustier, der Hund, die Katze and der Fisch. This card adds more animals, what they do and where they are, with Wo? and Wohin?.",
      "examples": [
       {
@@ -15787,7 +17224,7 @@
     },
     {
      "title": "The Germans and their pets",
-     "body": "Many people in Germany have a Haustier, often a dog or a cat. In a rented flat the Vermieter often has a say: look in the Mietvertrag. In many places a dog must be at the Leine. A Tierheim looks after animals without a home. And in a WG you ask the others first.",
+     "body": "Many people in Germany have a Haustier, often a dog or a cat. In a rented flat the Vermieter (landlord) often has a say: look in the Mietvertrag. In many places a dog must be on a Leine. A Tierheim looks after animals without a home. And in a WG you ask the others first.",
      "lead": "You know the animal words now. This card shows how people in Germany live with their pets, so you can compare it with your own country.",
      "examples": [
       {
@@ -16407,7 +17844,7 @@
      "examples": [
       {
        "de": "Ich habe gelesen, dass ein Kaninchen viel Platz braucht.",
-       "en": "I have read that a rabbit needs little space.",
+       "en": "I have read that a rabbit needs a lot of space.",
        "parts": [
         [
          "Ich",
@@ -16539,7 +17976,9 @@
      "yt:6m0hX0eLc8M",
      "yt:Yh_KEW6P-d8"
     ],
-    "nicosWeg": [],
+    "nicosWeg": [
+     "nw:a2-69"
+    ],
     "practice": []
    },
    "drills": [
@@ -16547,11 +17986,11 @@
      "type": "choice",
      "prompt": "Ich habe gehört, dass viele Deutsche eine Katze ___.",
      "options": [
-      "haben",
       "hat",
-      "habe"
+      "habe",
+      "haben"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "viele Deutsche is plural; the verb goes to the end.",
      "explanation": "…, dass viele Deutsche eine Katze haben.",
      "grammar": true
@@ -16671,11 +18110,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich habe gehört, dass viele Deutsche eine Katze haben.",
       "Ich habe gehört, dass viele Deutsche haben eine Katze.",
+      "Ich habe gehört, dass viele Deutsche eine Katze haben.",
       "Ich habe gehört, viele Deutsche dass eine Katze haben."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "dass first, verb at the end.",
      "explanation": "…, dass viele Deutsche eine Katze haben.",
      "grammar": true
@@ -16694,11 +18133,11 @@
      "type": "choice",
      "prompt": "Ich weiß nicht, ___ sie kommt.",
      "options": [
-      "ob",
       "dass",
-      "als"
+      "als",
+      "ob"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "You do not know: it is a yes/no question.",
      "explanation": "Ich weiß nicht, ob sie kommt.",
      "grammar": true
@@ -16741,11 +18180,11 @@
      "prompt": "Where do animals without a home wait?",
      "options": [
       "im Einkaufszentrum",
-      "auf dem Marktplatz",
-      "im Tierheim"
+      "im Tierheim",
+      "auf dem Marktplatz"
      ],
-     "answer": 2,
-     "hint": "A home for animals.",
+     "answer": 1,
+     "hint": "Look at the card about the Germans and their pets.",
      "explanation": "das Tierheim = animal shelter.",
      "grammar": false
     },
@@ -16779,10 +18218,10 @@
      "prompt": "Schade, dass Leon dagegen ___.",
      "options": [
       "sein",
-      "ist",
-      "bist"
+      "bist",
+      "ist"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Leon = er; the verb goes to the end.",
      "explanation": "Schade, dass Leon dagegen ist.",
      "grammar": true
@@ -16801,11 +18240,11 @@
      "type": "choice",
      "prompt": "Anna ___ die Katze. Die Katze ist glücklich.",
      "options": [
-      "bellt",
       "streichelt",
+      "bellt",
       "stellt"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "You do it with your hand.",
      "explanation": "streicheln = to stroke.",
      "grammar": false
@@ -17002,7 +18441,7 @@
      "answers": [
       "beschweren"
      ],
-     "hint": "sich beschweren, infinitive at the end.",
+     "hint": "A reflexive verb from lesson 5: the infinitive goes to the end after möchte.",
      "explanation": "Ich möchte mich beschweren.",
      "grammar": true
     },
@@ -17030,9 +18469,9 @@
     125
    ],
    "grammar": {
-    "topic": "consolidation: questions inside sentences (ob, W-words), dass, als with the Perfekt, Wo?/Wohin? with position verbs, sich vorstellen, auswählen",
-    "point": "Inside a sentence a question starts with ob or a W-word and its verb goes to the END: Weißt du, ob …? Kannst du mir sagen, wo du wohnst? The same is true after dass and als. Sich vorstellen takes mich/dich/sich: Ich stelle mich vor. After auswählen a W-word can follow: Wir haben ausgewählt, wer einzieht.",
-    "oneLine": "Wir haben ausgewählt, wer einzieht.",
+    "topic": "consolidation: questions inside sentences (ob, W-words), dass, als with the Perfekt, Wo?/Wohin? with position verbs, sich vorstellen, auswählen, entscheiden + W-word",
+    "point": "Inside a sentence a question starts with ob or a W-word and its verb goes to the END: Weißt du, ob …? Kannst du mir sagen, wo du wohnst? The same is true after dass and als. Sich vorstellen takes mich/dich/sich: Ich stelle mich vor. After entscheiden a W-word can follow: Wir haben entschieden, wer einzieht.",
+    "oneLine": "Wir haben entschieden, wer einzieht.",
     "mistake": {
      "wrong": "Ich weiß nicht, ob du ein Haustier hast du.",
      "right": "Ich weiß nicht, ob du ein Haustier hast.",
@@ -17065,7 +18504,7 @@
      "body": "The WG has decided: the free room gets a new flatmate, and the four hold a WG-Casting. Three applicants come, ask questions, look at the room and talk about themselves. Today there is no new grammar. You use everything from this chapter in one real situation, and at the end you tell the story of the day.",
      "steps": [
       "You already know: Wo? and Wohin? with stehen and stellen, als with the Perfekt (lesson 7), dass after entscheiden and hören (lessons 6 and 11), questions with ob and W-words inside a sentence.",
-      "New today: words for a Casting, sich vorstellen (Ich stelle mich vor) and auswählen with a W-question.",
+      "New today: words for a Casting, sich vorstellen (Ich stelle mich vor), auswählen, and entscheiden with a W-question.",
       "By the end you can: take part in a WG-Casting, introduce yourself, help decide and tell the story in four parts."
      ],
      "examples": [
@@ -17596,8 +19035,8 @@
     },
     {
      "title": "The decision",
-     "body": "After the Casting the WG talks and decides. Give your opinion with Ich bin dafür / dagegen, dass … Then the result: Wir haben entschieden, dass … or Wir haben ausgewählt, wer einzieht. Auswählen (to choose) can take a W-question: wer, welche Person. The verb goes to the END.",
-     "lead": "The visit is over. This card brings back the decision frames from lesson 6 and adds auswählen with a W-question to choose the new flatmate.",
+     "body": "After the Casting the WG talks and decides. Give your opinion with Ich bin dafür / dagegen, dass … Then the result: Wir haben entschieden, dass … or Wir haben entschieden, wer einzieht. Entscheiden can take a W-question (wer, wann). Auswählen (to choose) takes an object: Wir haben die Bewerberin ausgewählt. The verb goes to the END.",
+     "lead": "The visit is over. This card brings back the decision frames from lesson 6 and adds entscheiden with a W-question and auswählen to choose the new flatmate.",
      "examples": [
       {
        "de": "Ich bin dafür, dass die Bewerberin einzieht.",
@@ -17664,7 +19103,7 @@
        ]
       },
       {
-       "de": "Wir haben ausgewählt, wer einzieht.",
+       "de": "Wir haben entschieden, wer einzieht.",
        "en": "We have chosen who moves in.",
        "parts": [
         [
@@ -17676,7 +19115,7 @@
          "verb"
         ],
         [
-         "ausgewählt,",
+         "entschieden,",
          "verb2"
         ],
         [
@@ -17715,12 +19154,12 @@
        ]
       }
      },
-     "more": "Think of a vote with three buttons. Button 1: Ich bin dafür, dass die Bewerberin einzieht. Button 2: Ich bin dagegen, dass … Button 3, the result: Wir haben entschieden, dass sie das Zimmer bekommt. After auswählen you can say who: Wir haben ausgewählt, wer einzieht. A common mistake: Wir haben ausgewählt, wer zieht ein. After wer the verb goes to the end and the separable verb glues back together: wer einzieht.",
+     "more": "Think of a vote with three buttons. Button 1: Ich bin dafür, dass die Bewerberin einzieht. Button 2: Ich bin dagegen, dass … Button 3, the result: Wir haben entschieden, dass sie das Zimmer bekommt. After entscheiden you can say who: Wir haben entschieden, wer einzieht. A common mistake: Wir haben entschieden, wer zieht ein. After wer the verb goes to the end and the separable verb glues back together: wer einzieht.",
      "steps": [
       "Opinion: Ich bin dafür / dagegen, dass die Bewerberin einzieht.",
       "Reason: …, denn sie ist ordentlich und hilfsbereit.",
       "Decision: Wir haben entschieden, dass sie das Zimmer bekommt.",
-      "Result: Wir haben ausgewählt, wer einzieht."
+      "Result: Wir haben entschieden, wer einzieht."
      ]
     },
     {
@@ -18033,10 +19472,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:vY7WCRyG-n8"
+     "yt:vY7WCRyG-n8",
+     "yt:Klbzp6TyKqM"
     ],
     "nicosWeg": [
-     "nw:a2-13"
+     "nw:a2-13",
+     "nw:a2-38"
     ],
     "practice": []
    },
@@ -18056,7 +19497,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir haben ausgewählt, wer ___. (einziehen)",
+     "prompt": "Wir haben entschieden, wer ___. (einziehen)",
      "answers": [
       "einzieht"
      ],
@@ -18069,10 +19510,10 @@
      "prompt": "Weißt du, ___ ihr eine Spülmaschine habt? (you don't know)",
      "options": [
       "wer",
-      "ob",
-      "als"
+      "als",
+      "ob"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "An open yes/no question.",
      "explanation": "Weißt du, ob ihr eine Spülmaschine habt?",
      "grammar": true
@@ -18129,11 +19570,11 @@
      "type": "choice",
      "prompt": "___ ich das Zimmer gesehen habe, habe ich mich sofort gefreut.",
      "options": [
-      "Als",
       "Wenn",
+      "Als",
       "Dass"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "One event in the past.",
      "explanation": "Als + Perfekt for one moment in the past.",
      "grammar": true
@@ -18166,11 +19607,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich weiß nicht, ob du ein Haustier hast.",
       "Ich weiß nicht, ob du ein Haustier hast du.",
-      "Ich weiß nicht, ob hast du ein Haustier."
+      "Ich weiß nicht, ob hast du ein Haustier.",
+      "Ich weiß nicht, ob du ein Haustier hast."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "After ob: subject, rest, verb at the END.",
      "explanation": "Ich weiß nicht, ob du ein Haustier hast.",
      "grammar": true
@@ -18187,13 +19628,13 @@
     },
     {
      "type": "choice",
-     "prompt": "Wir haben ausgewählt, wer ___.",
+     "prompt": "Wir haben entschieden, wer ___.",
      "options": [
+      "einzieht",
       "zieht ein",
-      "ein zieht",
-      "einzieht"
+      "ein zieht"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "At the end of the clause a separable verb is one word.",
      "explanation": "…, wer einzieht.",
      "grammar": true
@@ -18212,12 +19653,12 @@
      "type": "choice",
      "prompt": "Someone who often helps other people is ___.",
      "options": [
-      "hilfsbereit",
       "ordentlich",
+      "hilfsbereit",
       "ländlich"
      ],
-     "answer": 0,
-     "hint": "Hilfe + bereit (ready).",
+     "answer": 1,
+     "hint": "Look at the table of Eigenschaften: who carries boxes gladly?",
      "explanation": "hilfsbereit = helpful.",
      "grammar": false
     },
@@ -18250,11 +19691,11 @@
      "type": "choice",
      "prompt": "Wohin stellst du dein Bett? — ___ Fenster.",
      "options": [
-      "Ans",
       "Am",
-      "Im"
+      "Im",
+      "Ans"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Wohin? → accusative.",
      "explanation": "ans = an das.",
      "grammar": true
@@ -18445,8 +19886,8 @@
      "en": "to choose",
      "examples": [
       {
-       "de": "Wir haben ausgewählt, wer einzieht.",
-       "en": "We have chosen who moves in."
+       "de": "Wir haben die Bewerberin ausgewählt.",
+       "en": "We have chosen the applicant."
       },
       {
        "de": "Heute wählen wir eine Bewerberin aus.",
@@ -18553,10 +19994,10 @@
       "prompt": "Where does the Schrank stand?",
       "options": [
        "in the hallway",
-       "at the wall",
-       "at the window"
+       "at the window",
+       "at the wall"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at Mira's first lines.",
       "explanation": "Der Schrank steht schon an der Wand.",
       "grammar": false
@@ -18565,25 +20006,25 @@
       "type": "choice",
       "prompt": "Where does the Regal stand at the moment?",
       "options": [
-       "in the room",
        "in the hallway",
+       "in the room",
        "on the carpet"
       ],
-      "answer": 1,
-      "hint": "Mira says noch im Flur.",
+      "answer": 0,
+      "hint": "Look at Mira's sentence about the Regal.",
       "explanation": "Das Regal steht noch im Flur.",
       "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "Wohin stellt Ben the Regal today?",
+      "prompt": "Where does Ben put the Regal today?",
       "options": [
        "onto the stool",
        "into the room",
        "into the corner"
       ],
       "answer": 1,
-      "hint": "Ben stellt es heute in das Zimmer.",
+      "hint": "Look at what Ben says he does with the Regal today.",
       "explanation": "Ben stellt es heute in das Zimmer.",
       "grammar": true
      },
@@ -18592,10 +20033,10 @@
       "prompt": "Where does the Teppich lie?",
       "options": [
        "on the bed",
-       "on the floor",
-       "at the door"
+       "at the door",
+       "on the floor"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for liegt.",
       "explanation": "Der Teppich liegt auf dem Boden.",
       "grammar": false
@@ -18604,11 +20045,11 @@
       "type": "choice",
       "prompt": "What is not on the wall yet?",
       "options": [
-       "the Schrank",
        "the Poster",
+       "the Schrank",
        "the Teppich"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for hängt noch nicht.",
       "explanation": "Das Poster hängt noch nicht.",
       "grammar": false
@@ -18617,11 +20058,11 @@
       "type": "choice",
       "prompt": "What has Ben already done?",
       "options": [
-       "He has put the stool at the window.",
        "He has hung up the poster.",
+       "He has put the stool at the window.",
        "He has fetched the ladder."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Ben: Ich habe schon …",
       "explanation": "Ich habe schon den Hocker ans Fenster gestellt.",
       "grammar": true
@@ -18631,10 +20072,10 @@
       "prompt": "Where does Leon hang the Hängematte?",
       "options": [
        "over the bed",
-       "in the corner",
-       "at the door"
+       "at the door",
+       "in the corner"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at Leon's first sentence.",
       "explanation": "Ich hänge die Hängematte in die Ecke.",
       "grammar": true
@@ -18643,12 +20084,12 @@
       "type": "choice",
       "prompt": "What has Leon already fetched?",
       "options": [
-       "the hammer",
        "the ladder",
+       "the hammer",
        "the beanbag"
       ],
-      "answer": 1,
-      "hint": "Die Leiter habe ich schon geholt.",
+      "answer": 0,
+      "hint": "Read Leon's lines carefully.",
       "explanation": "Die Leiter habe ich schon geholt.",
       "grammar": false
      },
@@ -18657,11 +20098,11 @@
       "prompt": "What does Anna want to do on the Sitzsack?",
       "options": [
        "sleep",
-       "work",
-       "sit and read"
+       "sit and read",
+       "work"
       ],
-      "answer": 2,
-      "hint": "Look for setze ich mich … und lese.",
+      "answer": 1,
+      "hint": "Read Anna's line.",
       "explanation": "Dann setze ich mich dort auf den Sitzsack und lese.",
       "grammar": false
      },
@@ -18669,11 +20110,11 @@
       "type": "choice",
       "prompt": "For whom is the Gartenstuhl?",
       "options": [
-       "for the cat of Frau Weber",
        "for Herr Ali",
-       "for Mira"
+       "for Mira",
+       "for the cat of Frau Weber"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at Ben's second message.",
       "explanation": "Der Gartenstuhl ist für die Katze von Frau Weber.",
       "grammar": false
@@ -18686,14 +20127,14 @@
     "questions": [
      {
       "type": "choice",
-      "prompt": "Wohin stellt Ben the Wäscheständer?",
+      "prompt": "Where does Ben put the Wäscheständer?",
       "options": [
-       "into the hallway",
        "into the bathroom",
+       "into the hallway",
        "into the kitchen"
       ],
-      "answer": 1,
-      "hint": "Listen for ins Bad.",
+      "answer": 0,
+      "hint": "Listen to Anna's first answer.",
       "explanation": "Stell ihn ins Bad.",
       "grammar": true
      },
@@ -18701,12 +20142,12 @@
       "type": "choice",
       "prompt": "Where does the carpet go?",
       "options": [
-       "on the floor in front of the bed",
        "on the bed",
+       "on the floor in front of the bed",
        "behind the door"
       ],
-      "answer": 0,
-      "hint": "Listen for auf den Boden.",
+      "answer": 1,
+      "hint": "Listen to Anna's second answer.",
       "explanation": "Leg ihn auf den Boden, vor das Bett.",
       "grammar": false
      },
@@ -18715,10 +20156,10 @@
       "prompt": "Does the carpet look good now?",
       "options": [
        "no",
-       "yes",
-       "Ben does not say"
+       "Ben does not say",
+       "yes"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen for schön.",
       "explanation": "Jetzt liegt er schön da.",
       "grammar": false
@@ -18758,7 +20199,7 @@
        "He sits down on the stool."
       ],
       "answer": 2,
-      "hint": "Listen for setze mich.",
+      "hint": "Listen to Ben's line before the cat arrives.",
       "explanation": "Ich setze mich kurz auf den Hocker.",
       "grammar": true
      },
@@ -18766,11 +20207,11 @@
       "type": "choice",
       "prompt": "Who has jumped onto the windowsill?",
       "options": [
-       "Ben",
        "the cat of Frau Weber",
+       "Ben",
        "Mira"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for gesprungen.",
       "explanation": "Die Katze von Frau Weber ist auf das Fensterbrett gesprungen.",
       "grammar": false
@@ -18805,12 +20246,12 @@
       "type": "choice",
       "prompt": "Why are they tired?",
       "options": [
+       "They have worked a lot.",
        "They have been to a party.",
-       "They have not slept.",
-       "They have worked a lot."
+       "They have not slept."
       ],
-      "answer": 2,
-      "hint": "Listen for viel gearbeitet.",
+      "answer": 0,
+      "hint": "Listen to Anna's last statement before her question.",
       "explanation": "Wir haben viel gearbeitet.",
       "grammar": false
      }
@@ -18977,11 +20418,11 @@
       "type": "choice",
       "prompt": "Who helped Mira with the wardrobe?",
       "options": [
-       "Leon",
        "Ben",
+       "Leon",
        "Anna"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Point 1.",
       "explanation": "Leon hat mir am Samstag beim Umzug geholfen.",
       "grammar": true
@@ -18995,7 +20436,7 @@
        "against the wall"
       ],
       "answer": 2,
-      "hint": "an die Wand gestellt.",
+      "hint": "Point 1: where did they put it?",
       "explanation": "Wir haben den Schrank an die Wand gestellt.",
       "grammar": true
      },
@@ -19003,11 +20444,11 @@
       "type": "choice",
       "prompt": "Who complained?",
       "options": [
+       "Frau Weber",
        "Herr Ali",
-       "Anna",
-       "Frau Weber"
+       "Anna"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Point 2.",
       "explanation": "Frau Weber hat sich beschwert.",
       "grammar": true
@@ -19021,7 +20462,7 @@
        "the rubbish at the door"
       ],
       "answer": 1,
-      "hint": "Es stört sie, dass …",
+      "hint": "Point 2: what bothers her?",
       "explanation": "Es stört sie, dass unsere Schuhe im Hausflur stehen.",
       "grammar": true
      },
@@ -19047,7 +20488,7 @@
        "only Leon"
       ],
       "answer": 0,
-      "hint": "einverstanden.",
+      "hint": "Look at the end of point 2.",
       "explanation": "Alle sind einverstanden.",
       "grammar": true
      },
@@ -19055,11 +20496,11 @@
       "type": "choice",
       "prompt": "Who has kitchen duty this week?",
       "options": [
-       "Leon",
        "Anna",
+       "Leon",
        "Ben"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Point 3.",
       "explanation": "Leon macht diese Woche den Küchendienst.",
       "grammar": true
@@ -19073,7 +20514,7 @@
        "he cleans the bathroom"
       ],
       "answer": 2,
-      "hint": "Ben putzt …",
+      "hint": "Point 3: look at the third name.",
       "explanation": "Ben putzt das Bad.",
       "grammar": true
      },
@@ -19094,11 +20535,11 @@
       "type": "choice",
       "prompt": "Why was Leon against the casting at first?",
       "options": [
-       "it takes a long time",
        "he has no time on Saturday",
+       "it takes a long time",
        "he wants the room"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "denn …",
       "explanation": "Leon war zuerst dagegen, denn das dauert lange.",
       "grammar": true
@@ -19107,18 +20548,18 @@
    },
    "listening": {
     "title": "Ein Wagen für den Umzug",
-    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am Samstag ist bei uns ein WG-Casting, und vorher bringen wir die alten Möbel aus dem freien Zimmer weg. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Umzugswagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Wir räumen das Zimmer am Montag aus.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellt ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
+    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am nächsten Samstag ist bei uns ein WG-Casting, und vorher holen wir noch ein Sofa für das freie Zimmer. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Umzugswagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Dann holen wir das Sofa am Montag.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellt ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
     "questions": [
      {
       "type": "choice",
       "prompt": "What does Anna ask for?",
       "options": [
-       "the van",
        "money",
-       "a cupboard"
+       "a cupboard",
+       "the van"
       ],
-      "answer": 0,
-      "hint": "Könnten Sie uns Ihren Wagen leihen?",
+      "answer": 2,
+      "hint": "Listen to Anna's third line.",
       "explanation": "Anna asks Herr Ali for his van.",
       "grammar": true
      },
@@ -19126,11 +20567,11 @@
       "type": "choice",
       "prompt": "How does Anna start?",
       "options": [
+       "Ich habe eine Bitte.",
        "Ich möchte mich beschweren.",
-       "Wir stimmen ab.",
-       "Ich habe eine Bitte."
+       "Wir stimmen ab."
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "A soft opener.",
       "explanation": "Ich habe eine Bitte.",
       "grammar": true
@@ -19157,7 +20598,7 @@
        "Herr Ali needs it himself"
       ],
       "answer": 2,
-      "hint": "Am Samstag brauche ich ihn selbst.",
+      "hint": "Listen to what Herr Ali says about Saturday.",
       "explanation": "Herr Ali needs it himself.",
       "grammar": true
      },
@@ -19165,13 +20606,13 @@
       "type": "choice",
       "prompt": "What will the WG do on Monday?",
       "options": [
-       "empty the room",
+       "fetch the sofa",
        "have the casting",
        "clean the restaurant"
       ],
       "answer": 0,
-      "hint": "ausräumen.",
-      "explanation": "Wir räumen das Zimmer am Montag aus.",
+      "hint": "Listen to Anna's answer after Herr Ali says Montag.",
+      "explanation": "Dann holen wir das Sofa am Montag.",
       "grammar": true
      },
      {
@@ -19183,7 +20624,7 @@
        "Leon"
       ],
       "answer": 1,
-      "hint": "Er hat einen Führerschein.",
+      "hint": "Listen to Anna's answer to Wer fährt?",
       "explanation": "Ben fährt.",
       "grammar": true
      },
@@ -19192,11 +20633,11 @@
       "prompt": "Where is the van?",
       "options": [
        "in front of the house",
-       "behind the restaurant",
-       "at the station"
+       "at the station",
+       "behind the restaurant"
       ],
-      "answer": 1,
-      "hint": "hinter dem …",
+      "answer": 2,
+      "hint": "Listen to where Herr Ali says the van stands.",
       "explanation": "Der Wagen steht hinter dem Restaurant „Zum Löwen“.",
       "grammar": true
      },
@@ -19204,11 +20645,11 @@
       "type": "choice",
       "prompt": "Where is the key?",
       "options": [
-       "in the van",
        "at the till",
+       "in the van",
        "with Frau Weber"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Der Schlüssel liegt …",
       "explanation": "Der Schlüssel liegt an der Kasse.",
       "grammar": true
@@ -19217,12 +20658,12 @@
       "type": "choice",
       "prompt": "What should they do in the evening?",
       "options": [
-       "park the van behind the restaurant again",
        "bring the key to Herr Ali's flat",
+       "park the van behind the restaurant again",
        "wash the van"
       ],
-      "answer": 0,
-      "hint": "wieder hinter das Restaurant.",
+      "answer": 1,
+      "hint": "Listen to the last thing Herr Ali asks for.",
       "explanation": "Bitte stellt ihn am Abend wieder hinter das Restaurant.",
       "grammar": true
      },
@@ -19230,12 +20671,12 @@
       "type": "choice",
       "prompt": "Why is Monday no problem for Herr Ali?",
       "options": [
-       "the restaurant is closed on Monday",
        "he is on holiday",
-       "he has a second van"
+       "he has a second van",
+       "the restaurant is closed on Monday"
       ],
-      "answer": 0,
-      "hint": "am Montag ist das Restaurant zu.",
+      "answer": 2,
+      "hint": "Listen to Herr Ali's last answer.",
       "explanation": "Am Montag ist das Restaurant zu.",
       "grammar": true
      }
@@ -19299,7 +20740,7 @@
       "answers": [
        "beschweren"
       ],
-      "hint": "sich beschweren.",
+      "hint": "A reflexive verb from lesson 5: the infinitive goes to the end after möchte.",
       "explanation": "Ich möchte mich beschweren.",
       "grammar": true
      },
@@ -19335,12 +20776,12 @@
      },
      {
       "type": "type",
-      "prompt": "Write in German: I agree. (einverstanden)",
+      "prompt": "Write in German: I agree.",
       "answers": [
        "Ich bin einverstanden.",
        "Ich bin einverstanden!"
       ],
-      "hint": "Ich bin …",
+      "hint": "Ich bin + the adjective of the WG-Treffen for agreeing.",
       "explanation": "Ich bin einverstanden.",
       "grammar": true
      }
@@ -19373,7 +20814,7 @@
    "day": 3,
    "reading": {
     "title": "Unsere erste Woche",
-    "text": "Unsere erste Woche\n\nAls wir eingezogen sind, hat es den ganzen Tag geregnet. Zuerst haben wir die Kisten ins Haus getragen. Das war schwer, denn unsere WG ist im dritten Stock, und der Altbau hat keinen Aufzug.\n\nAls ich in mein Zimmer gekommen bin, hat nur ein alter Schrank in der Ecke gestanden. Ein Teppich hat im Flur gelegen. Leon hat ihn in das Wohnzimmer gelegt, und Ben hat ein Poster an die Wand gehängt.\n\nAm Abend hat es geklingelt. Als Mira die Tür aufgemacht hat, hat Frau Weber mit einem Kuchen vor der Tür gestanden. Ben hatte noch eine Kiste auf dem Kopf. Wir haben alle gelacht!\n\nAm Freitag haben wir ein Türschild gemacht und unsere Namen auf den Briefkasten geschrieben. Am Samstag haben wir gefeiert. Ich finde, dass wir uns schon gut eingelebt haben.\n\nViele Grüße\nAnna",
+    "text": "Unsere erste Woche\n\nAls wir eingezogen sind, hat es den ganzen Tag geregnet. Zuerst haben wir die Kisten ins Haus getragen. Das war schwer, denn unsere WG ist im dritten Stock, und der Altbau hat keinen Aufzug.\n\nAls ich in mein Zimmer gekommen bin, hat nur ein alter Schrank in der Ecke gestanden. Ein Teppich hat im Flur gelegen. Leon hat ihn in das Wohnzimmer gelegt, und Ben hat ein Poster an die Wand gehängt.\n\nAm Abend hat es geklingelt. Als Mira die Tür aufgemacht hat, hat Frau Weber mit einem Kuchen vor der Tür gestanden. Ben hatte noch eine Kiste auf dem Kopf. Wir haben alle gelacht!\n\nAm Freitag haben wir ein Türschild gemacht und unsere Namen auf den Briefkasten geschrieben. Am Samstag haben wir zusammen gekocht. Ich finde, dass wir uns schon gut eingelebt haben.\n\nViele Grüße\nAnna",
     "glossary": [
      {
       "de": "den ganzen Tag",
@@ -19401,11 +20842,11 @@
       "type": "choice",
       "prompt": "What was the weather like when they moved in?",
       "options": [
+       "it rained all day",
        "sunny",
-       "it snowed",
-       "it rained all day"
+       "it snowed"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "First sentence.",
       "explanation": "Als wir eingezogen sind, hat es den ganzen Tag geregnet."
      },
@@ -19426,12 +20867,12 @@
       "prompt": "What was in Anna's room?",
       "options": [
        "a sofa and a lamp",
-       "only an old wardrobe in the corner",
-       "nothing at all"
+       "nothing at all",
+       "only an old wardrobe in the corner"
       ],
-      "answer": 1,
-      "hint": "Als ich in mein Zimmer gekommen bin, …",
-      "explanation": "Nur ein alter Schrank hat in der Ecke gestanden."
+      "answer": 2,
+      "hint": "Look at what Anna says about her room.",
+      "explanation": "Als ich in mein Zimmer gekommen bin, hat nur ein alter Schrank in der Ecke gestanden."
      },
      {
       "type": "choice",
@@ -19449,11 +20890,11 @@
       "type": "choice",
       "prompt": "Where did Leon put the carpet?",
       "options": [
-       "into the living room",
        "into the kitchen",
+       "into the living room",
        "onto the balcony"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Leon hat ihn … gelegt.",
       "explanation": "Leon hat ihn in das Wohnzimmer gelegt."
      },
@@ -19462,22 +20903,22 @@
       "prompt": "What did Ben do?",
       "options": [
        "He opened the door.",
-       "He hung a poster on the wall.",
-       "He baked a cake."
+       "He baked a cake.",
+       "He hung a poster on the wall."
       ],
-      "answer": 1,
-      "hint": "Ben hat ein Poster …",
+      "answer": 2,
+      "hint": "Look at the end of paragraph two.",
       "explanation": "Ben hat ein Poster an die Wand gehängt."
      },
      {
       "type": "choice",
       "prompt": "Who rang the bell in the evening?",
       "options": [
-       "Herr Ali",
        "Frau Weber",
+       "Herr Ali",
        "a guest"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Am Abend hat es geklingelt.",
       "explanation": "Frau Weber hat mit einem Kuchen vor der Tür gestanden."
      },
@@ -19490,7 +20931,7 @@
        "The cake fell down."
       ],
       "answer": 1,
-      "hint": "Ben hatte noch …",
+      "hint": "Look at the end of paragraph three.",
       "explanation": "Ben hatte noch eine Kiste auf dem Kopf."
      },
      {
@@ -19498,10 +20939,10 @@
       "prompt": "What did they do on Friday?",
       "options": [
        "They had a party.",
-       "They made a nameplate and wrote their names on the letterbox.",
-       "They bought a lift."
+       "They bought a lift.",
+       "They made a nameplate and wrote their names on the letterbox."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Am Freitag …",
       "explanation": "Am Freitag haben wir ein Türschild gemacht und unsere Namen auf den Briefkasten geschrieben."
      },
@@ -19521,19 +20962,19 @@
    },
    "listening": {
     "title": "Der Morgen nach der Party",
-    "script": "Ben: Guten Morgen, Mira! Wie war die Party?\nMira: Super! Leider warst du nicht da. Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht.\nBen: Und um wie viel Uhr ist der letzte Gast gegangen?\nMira: Um zwei Uhr. Wir haben lange getanzt.\nBen: Und wer hat aufgeräumt?\nMira: Wir alle. Leon hat das Geschirr gespült, und Anna hat die Girlande abgebaut.\nBen: Ist etwas kaputtgegangen?\nMira: Ja, ein Glas. Deshalb haben Scherben auf dem Boden gelegen. Leon hat sie weggeräumt.\nBen: Und der Fleck da auf dem Teppich?\nMira: Der ist vom Rotwein. Trotzdem war das ein schöner Abend.\nBen: Ist noch etwas übrig?\nMira: Ja, noch ein Rest Kuchen und viele Chips. Und im Flur stehen noch zwei Müllsäcke.\nBen: Kein Problem, ich bringe die Müllsäcke runter.",
+    "script": "Ben: Guten Morgen, Mira! Wie war die Party?\nMira: Super! Schade, dass du so früh ins Bett gegangen bist. Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht.\nBen: Und um wie viel Uhr ist der letzte Gast gegangen?\nMira: Um zwei Uhr. Wir haben lange getanzt.\nBen: Und wer hat aufgeräumt?\nMira: Wir alle. Leon hat das Geschirr gespült, und Anna hat die Girlande abgebaut.\nBen: Ist etwas kaputtgegangen?\nMira: Ja, ein Glas. Deshalb haben Scherben auf dem Boden gelegen. Leon hat sie weggeräumt.\nBen: Und der Fleck da auf dem Teppich?\nMira: Der ist vom Rotwein. Trotzdem war das ein schöner Abend.\nBen: Ist noch etwas übrig?\nMira: Ja, noch ein Rest Kuchen und viele Chips. Und im Flur stehen noch zwei Müllsäcke.\nBen: Kein Problem, ich bringe die Müllsäcke runter.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Was Ben at the party?",
+      "prompt": "What does Mira regret?",
       "options": [
-       "No, he wasn't there.",
-       "Yes, all evening.",
-       "Only at the end."
+       "that the party was short",
+       "that Ben went to bed so early",
+       "that the cake was gone"
       ],
-      "answer": 0,
-      "hint": "Leider warst du nicht da.",
-      "explanation": "Leider warst du nicht da."
+      "answer": 1,
+      "hint": "Listen to Mira's first words after Super!",
+      "explanation": "Schade, dass du so früh ins Bett gegangen bist."
      },
      {
       "type": "choice",
@@ -19544,18 +20985,18 @@
        "when Herr Ali came with the cake"
       ],
       "answer": 2,
-      "hint": "Als Herr Ali …",
+      "hint": "Listen to what happens when somebody arrives.",
       "explanation": "Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht."
      },
      {
       "type": "choice",
       "prompt": "When did the last guest leave?",
       "options": [
+       "at two o'clock",
        "at midnight",
-       "at one o'clock",
-       "at two o'clock"
+       "at one o'clock"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Um … Uhr.",
       "explanation": "Um zwei Uhr."
      },
@@ -19563,11 +21004,11 @@
       "type": "choice",
       "prompt": "Who washed the dishes?",
       "options": [
-       "Leon",
        "Anna",
+       "Leon",
        "Mira"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "… hat das Geschirr gespült.",
       "explanation": "Leon hat das Geschirr gespült."
      },
@@ -19576,10 +21017,10 @@
       "prompt": "What did Anna do?",
       "options": [
        "She cleared away the broken pieces.",
-       "She took down the garland.",
-       "She bought crisps."
+       "She bought crisps.",
+       "She took down the garland."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Anna hat die Girlande …",
       "explanation": "Anna hat die Girlande abgebaut."
      },
@@ -19587,11 +21028,11 @@
       "type": "choice",
       "prompt": "What broke?",
       "options": [
+       "a glass",
        "a lamp",
-       "a plate",
-       "a glass"
+       "a plate"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Ja, ein …",
       "explanation": "Ja, ein Glas."
      },
@@ -19600,10 +21041,10 @@
       "prompt": "Who cleared away the broken pieces?",
       "options": [
        "Ben",
-       "Mira",
-       "Leon"
+       "Leon",
+       "Mira"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "… hat sie weggeräumt.",
       "explanation": "Leon hat sie weggeräumt."
      },
@@ -19611,11 +21052,11 @@
       "type": "choice",
       "prompt": "Where is the stain?",
       "options": [
-       "on the carpet",
        "on the sofa",
-       "on the wall"
+       "on the wall",
+       "on the carpet"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Der Fleck da auf …",
       "explanation": "Der Fleck da auf dem Teppich."
      },
@@ -19636,10 +21077,10 @@
       "prompt": "What does Ben do at the end?",
       "options": [
        "He goes back to bed.",
-       "He washes the carpet.",
-       "He takes down the rubbish bags."
+       "He takes down the rubbish bags.",
+       "He washes the carpet."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Kein Problem, ich …",
       "explanation": "Ich bringe die Müllsäcke runter."
      }
@@ -19832,11 +21273,11 @@
       "type": "choice",
       "prompt": "How many applicants came?",
       "options": [
+       "three",
        "two",
-       "four",
-       "three"
+       "four"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "First paragraph.",
       "explanation": "Am Samstag sind drei Bewerber gekommen."
      },
@@ -19868,11 +21309,11 @@
       "type": "choice",
       "prompt": "Where was the wardrobe?",
       "options": [
+       "against the wall",
        "by the window",
-       "in the corner",
-       "against the wall"
+       "in the corner"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Der Schrank hat … gestanden.",
       "explanation": "Der Schrank hat an der Wand gestanden."
      },
@@ -19881,10 +21322,10 @@
       "prompt": "Why did Ben put the bed by the window?",
       "options": [
        "It is quiet there.",
-       "The cat sits there.",
-       "It is bright there."
+       "It is bright there.",
+       "The cat sits there."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look after denn.",
       "explanation": "…, denn dort ist es hell."
      },
@@ -19892,11 +21333,11 @@
       "type": "choice",
       "prompt": "Where did the cat jump?",
       "options": [
-       "onto the bed",
        "onto the windowsill",
-       "onto the wardrobe"
+       "onto the wardrobe",
+       "onto the bed"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "aufs …",
       "explanation": "Die Katze ist aufs Bett gesprungen."
      },
@@ -19904,11 +21345,11 @@
       "type": "choice",
       "prompt": "What did the applicant say?",
       "options": [
+       "that she loves animals",
        "that she has a dog",
-       "that she does not like cats",
-       "that she loves animals"
+       "that she does not like cats"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look after gesagt, dass …",
       "explanation": "Sie hat gesagt, dass sie Tiere liebt."
      },
@@ -19916,11 +21357,11 @@
       "type": "choice",
       "prompt": "What has Leon heard about her?",
       "options": [
-       "that she likes cooking",
        "that she plays music",
+       "that she likes cooking",
        "that she has a rabbit"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Ich habe gehört, dass …",
       "explanation": "Ich habe gehört, dass sie gern kocht."
      },
@@ -19928,11 +21369,11 @@
       "type": "choice",
       "prompt": "When does she move in?",
       "options": [
-       "on Monday",
        "on Saturday",
-       "on Sunday"
+       "on Sunday",
+       "on Monday"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Last lines.",
       "explanation": "Am Montag zieht sie ein."
      }
@@ -19946,23 +21387,23 @@
       "type": "choice",
       "prompt": "Who are the two WG members in the interview?",
       "options": [
+       "Mira and Anna",
        "Ben and Leon",
-       "Anna and Ben",
-       "Mira and Anna"
+       "Anna and Ben"
       ],
-      "answer": 2,
-      "hint": "First line.",
+      "answer": 0,
+      "hint": "Listen to the first two sentences.",
       "explanation": "Ich bin Mira, und das ist Anna."
      },
      {
       "type": "choice",
       "prompt": "Where does the applicant come from?",
       "options": [
-       "Kiel",
        "Köln",
+       "Kiel",
        "Wien"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Ich komme aus …",
       "explanation": "Ich komme aus Kiel."
      },
@@ -19971,10 +21412,10 @@
       "prompt": "What is she?",
       "options": [
        "a cook",
-       "a student",
-       "a teacher"
+       "a teacher",
+       "a student"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "… und bin …",
       "explanation": "Ich bin Studentin."
      },
@@ -19982,11 +21423,11 @@
       "type": "choice",
       "prompt": "Where does she live now?",
       "options": [
-       "in the old town",
        "in a suburb",
+       "in the old town",
        "in a village"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Ich wohne in einem …",
       "explanation": "Ich wohne in einem Vorort."
      },
@@ -19994,11 +21435,11 @@
       "type": "choice",
       "prompt": "How does she travel there?",
       "options": [
-       "by bus",
        "by tram",
+       "by bus",
        "on foot"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Dorthin fahre ich …",
       "explanation": "… mit dem Bus."
      },
@@ -20007,10 +21448,10 @@
       "prompt": "What is important to her?",
       "options": [
        "that the room is big",
-       "that everybody is considerate",
-       "that there is a party every week"
+       "that there is a party every week",
+       "that everybody is considerate"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Ich finde es wichtig, dass …",
       "explanation": "…, dass alle rücksichtsvoll sind."
      },
@@ -20018,11 +21459,11 @@
       "type": "choice",
       "prompt": "Does she have a pet?",
       "options": [
-       "Yes, a cat.",
        "No.",
+       "Yes, a cat.",
        "Yes, a rabbit."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Mira asks: Hast du ein Haustier?",
       "explanation": "Nein, aber …"
      },
@@ -20031,10 +21472,10 @@
       "prompt": "What has she read?",
       "options": [
        "that the room is free",
-       "that dogs need a lead",
-       "that a cat lives here"
+       "that a cat lives here",
+       "that dogs need a lead"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "ich habe gelesen, dass …",
       "explanation": "…, dass hier eine Katze wohnt."
      },
@@ -20042,11 +21483,11 @@
       "type": "choice",
       "prompt": "Where is the dishwasher?",
       "options": [
-       "in the kitchen next to the cooker",
        "in the hallway",
-       "in the cellar"
+       "in the cellar",
+       "in the kitchen next to the cooker"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Mira: Ja, sie steht …",
       "explanation": "Sie steht in der Küche neben dem Herd."
      },
@@ -20054,12 +21495,12 @@
       "type": "choice",
       "prompt": "Where can she put her desk?",
       "options": [
+       "by the window",
        "against the wall",
-       "in the corner",
-       "by the window"
+       "in the corner"
       ],
-      "answer": 2,
-      "hint": "Wohin? Ans …",
+      "answer": 0,
+      "hint": "Listen to Anna's last answer.",
       "explanation": "Ans Fenster. Dort ist es hell."
      }
     ]
@@ -20139,7 +21580,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Wir haben ausgewählt, wer ___. (einziehen)",
+      "prompt": "Complete: Wir haben entschieden, wer ___. (einziehen)",
       "answers": [
        "einzieht"
       ],
