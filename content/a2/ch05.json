@@ -403,7 +403,7 @@
        ]
       }
      },
-     "more": "Ask one question: is the adjective after sein, or in front of a noun? After sein it stands alone: Der Fluss ist breit. In front of a noun it needs a hat, the ending: der breite Fluss. A common slip is to put the ending after sein, too: Der Fluss ist breite. That is wrong. Say Der Fluss ist breit.",
+     "more": "Ask one question: is the adjective after sein, or in front of a noun? After sein it stands alone: Der Fluss ist breit. In front of a noun it needs a hat, the ending: der breite Fluss. A common slip is to put the ending after sein, too: Der Fluss ist breite. That is wrong. Say Der Fluss ist breit. Test it with your own street: Die Straße ist ruhig, so die ruhige Straße.",
      "table": {
       "headers": [
        "Where is the adjective?",
@@ -558,7 +558,7 @@
        ]
       }
      },
-     "more": "Imagine three boxes: masculine, feminine and neuter. Each box holds a different article (der, die, das), but the adjective always puts on the same hat, -e. So you do not have to think about gender here. Just look at the article, see der, die or das as subject, and add -e. The only change is the article itself.",
+     "more": "Picture a family photo: Herr Der, Frau Die and baby Das stand in a row. They look different, but each one puts the same small hat on the next word: -e. So der alte Brunnen, die alte Gasse, das alte Ufer. In English old never changes, so this feels new, but here it is easy, because the hat is always the same in the nominative. Look at the article, check it is the subject, and add -e.",
      "table": {
       "headers": [
        "Gender",
@@ -717,21 +717,49 @@
        ]
       }
      },
-     "more": "Treat dieser and welcher as the same team as der, die and das. They stand where the article stands, and the next word is the adjective with -e. If you can say der alte Brunnen, you can also say dieser alte Brunnen and welcher alte Brunnen. Nothing else changes in the nominative.",
+     "more": "Think of dieser and welcher as der in a costume. Dieser is der pointing a finger: this one. Welcher is der with a question mark: which one? Under the costume it is still der, so the adjective behind it behaves the same and wears -e: dieser alte Brunnen, welche enge Gasse? In English this and which never change, but in German they copy the endings of der, die, das: dieser, diese, dieses.",
      "steps": [
       "Step 1: choose the article word: der, die, das, dieser or welcher.",
       "Step 2: add the adjective with -e.",
       "Step 3: add the noun."
-     ]
+     ],
+     "table": {
+      "headers": [
+       "Gender",
+       "der-word",
+       "Adjective + ending",
+       "Noun"
+      ],
+      "rows": [
+       [
+        "masculine",
+        "dieser / welcher",
+        "alt + e",
+        "Brunnen"
+       ],
+       [
+        "feminine",
+        "diese / welche",
+        "eng + e",
+        "Gasse"
+       ],
+       [
+        "neuter",
+        "dieses / welches",
+        "historisch + e",
+        "Rathaus"
+       ]
+      ]
+     }
     },
     {
      "title": "Spelling traps: teure, dunkle, hohe",
-     "body": "Three adjectives change their stem before the ending: teuer becomes teure, dunkel becomes dunkle, hoch becomes hohe. The e before the last letter drops (teuer, dunkel) and hoch loses its c. Two adjectives in a row both get the same ending: der alte, historische Brunnen.",
+     "body": "Three adjectives change their stem before the ending: teuer becomes teure, dunkel becomes dunkle, hoch becomes hohe. The e before the last letter drops (teuer, dunkel) and hoch loses its c. Two adjectives in a row both get the same ending: der alte historische Brunnen.",
      "lead": "You know the -e rule. Now the small traps: three common adjectives look different when the ending is added, and you need to learn them once.",
      "examples": [
       {
-       "de": "Die teure Fußgängerzone ist laut.",
-       "en": "The expensive pedestrian zone is loud.",
+       "de": "Die teure Wohnung ist im Zentrum.",
+       "en": "The expensive flat is in the centre.",
        "parts": [
         [
          "Die",
@@ -746,7 +774,7 @@
          "ending"
         ],
         [
-         "Fußgängerzone",
+         "Wohnung",
          "noun"
         ],
         [
@@ -754,8 +782,12 @@
          "verb"
         ],
         [
-         "laut.",
-         "adjective"
+         "im",
+         "preposition"
+        ],
+        [
+         "Zentrum.",
+         "noun"
         ]
        ]
       },
@@ -790,8 +822,8 @@
        ]
       },
       {
-       "de": "Das hohe Hochhaus ist modern.",
-       "en": "The tall high-rise is modern.",
+       "de": "Das hohe Haus ist modern.",
+       "en": "The tall building is modern.",
        "parts": [
         [
          "Das",
@@ -806,7 +838,7 @@
          "ending"
         ],
         [
-         "Hochhaus",
+         "Haus",
          "noun"
         ],
         [
@@ -821,10 +853,10 @@
       }
      ],
      "deeper": {
-      "text": "Why do they change? Teure and dunkle are easier to say than teuere and dunkele: two weak e sounds in a row are shortened. Hoch drops the c because hohe is how it sounds. After the ending is added you hear the same word, just smoother. Two adjectives each need the ending: der alte, historische Brunnen. Lila and rosa never take one.",
+      "text": "Why do they change? Teure and dunkle are easier to say than teuere and dunkele: two weak e sounds in a row are shortened. Hoch drops the c because hohe is how it sounds. After the ending is added you hear the same word, just smoother. Two adjectives each need the ending: der alte historische Brunnen. Lila and rosa never take one.",
       "example": {
        "de": "Der alte historische Brunnen ist berühmt.",
-       "en": "The old, historic fountain is famous.",
+       "en": "The old historic fountain is famous.",
        "parts": [
         [
          "Der",
@@ -861,7 +893,7 @@
        ]
       }
      },
-     "more": "Say the stems out loud: teuer, so teur-, and then add e: teure. Dunkel, so dunkl-, plus e: dunkle. Hoch, so hoh-, plus e: hohe. Each time one little letter disappears. If you are unsure, say the group out loud, die dunkle Gasse, and listen: the correct form sounds smooth.",
+     "more": "Imagine the ending -e as a heavy suitcase. Teuer and dunkel already carry a weak e inside, so when the suitcase arrives they drop that inner e to keep their balance: teure, dunkle. Hoch is different: its ch does not like the new e, so it changes to h: hohe. English does something similar in hungry from hunger. Say die teure Wohnung, die dunkle Gasse and das hohe Haus five times, and your ear will learn them.",
      "table": {
       "headers": [
        "Adjective",
@@ -1027,7 +1059,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:t2jLvRrDThM"
+     "yt:t2jLvRrDThM",
+     "yt:_zxq6dkt_xE"
     ],
     "nicosWeg": [
      "nw:a2-55"
@@ -1300,13 +1333,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: The old, historic fountain is famous.",
+     "prompt": "Write in German: The old historic fountain is famous.",
      "answers": [
-      "Der alte, historische Brunnen ist berühmt.",
       "Der alte historische Brunnen ist berühmt."
      ],
      "hint": "Both adjectives get -e.",
-     "explanation": "Der alte, historische Brunnen ist berühmt.",
+     "explanation": "Der alte historische Brunnen ist berühmt.",
      "grammar": true
     }
    ],
@@ -1901,7 +1933,7 @@
       }
      ],
      "deeper": {
-      "text": "Why -en? The article den already says: this is the accusative masculine. The adjective repeats the signal with its own n. Dieser and welcher work the same way: diesen and welchen.",
+      "text": "Why -en? The article den already says: this is the accusative masculine. The adjective repeats the signal with its own n, like an echo. Dieser and welcher work the same way: diesen alten Schein, welchen neuen Kontoauszug. Only the masculine has this echo. In fast speech the -en is often swallowed, so listen for the n in den first: it tells you the ending before you hear it.",
       "example": {
        "de": "Ben sucht diesen alten Schein.",
        "en": "Ben is looking for this old banknote.",
@@ -1933,7 +1965,7 @@
        ]
       }
      },
-     "more": "Think of the n as a small hook. The masculine article hooks an n in the accusative (der becomes den), and the adjective hooks an n, too (neue becomes neuen). Say the group as one block: den neuen Kontoauszug. A common slip is to change only the article and leave the adjective: den neue Kontoauszug. That is wrong. Say den neuen Kontoauszug.",
+     "more": "Think of the n as a small hook. The masculine article hooks an n in the accusative (der becomes den), and the adjective hooks an n, too (neue becomes neuen). Say the group as one block: den neuen Kontoauszug. A common slip is to change only the article and leave the adjective: den neue Kontoauszug. That is wrong. Say den neuen Kontoauszug. In English new never changes, so watch this one spot closely.",
      "table": {
       "headers": [
        "Gender",
@@ -2053,8 +2085,8 @@
      "deeper": {
       "text": "Why is the feminine and the neuter the same in both cases? In German, die and das look the same in the nominative and the accusative. That is true for the article, and the adjective follows it. So the -e spots are: nominative der, die, das, and accusative die, das. That is five spots, and everything else will be -en. Nächste is made like the other adjectives and means nearest; learn die nächste Filiale as a block now.",
       "example": {
-       "de": "Ben sieht das hohe Hochhaus.",
-       "en": "Ben sees the tall high-rise.",
+       "de": "Ben sieht das hohe Haus.",
+       "en": "Ben sees the tall building.",
        "parts": [
         [
          "Ben",
@@ -2077,13 +2109,13 @@
          "ending"
         ],
         [
-         "Hochhaus.",
+         "Haus.",
          "noun"
         ]
        ]
       }
      },
-     "more": "Test: is the noun masculine? Look at the article. If it is der, you change it to den and add -en. If it is die or das, you change nothing. The group stays as it was. A common slip is to add -en to feminine words: die neuen Bankkarte. That is wrong. Only the masculine gets -en here. Say die neue Bankkarte.",
+     "more": "Test: is the noun masculine? Look at the article. If it is der, you change it to den and add -en. If it is die or das, you change nothing. The group stays as it was. A common slip is to add -en to feminine words: die neuen Bankkarte. That is wrong. Only the masculine gets -en here. Say die neue Bankkarte. Picture the masculine as the only guest who changes his coat at the door.",
      "table": {
       "headers": [
        "Gender",
@@ -2111,12 +2143,12 @@
     },
     {
      "title": "At the bank: abheben and überweisen",
-     "body": "Two useful verbs. Geld abheben means to withdraw money: er hebt Geld ab. Geld überweisen means to transfer money: er überweist Geld. Abheben is separable, so ab goes to the end: Ich hebe das Bargeld ab. Überweisen is not separable. Die Überweisung is the transfer. And mit Karte bezahlen means to pay by card.",
+     "body": "Two useful verbs. Geld abheben means to withdraw money: er hebt Geld ab. Geld überweisen means to transfer money: er überweist Geld. Abheben is separable, so ab goes to the end: Ich hebe Bargeld ab. Überweisen is not separable. Die Überweisung is the transfer. And mit Karte bezahlen means to pay by card.",
      "lead": "You know how the accusative works. Now two bank verbs that take an object, so that you can build real bank sentences with an adjective in the group.",
      "examples": [
       {
-       "de": "Ich hebe das Bargeld ab.",
-       "en": "I withdraw the cash.",
+       "de": "Ich hebe Bargeld ab.",
+       "en": "I withdraw cash.",
        "parts": [
         [
          "Ich",
@@ -2127,12 +2159,8 @@
          "verb"
         ],
         [
-         "das",
-         "article"
-        ],
-        [
          "Bargeld",
-         "noun"
+         "object"
         ],
         [
          "ab.",
@@ -2194,31 +2222,43 @@
       }
      ],
      "deeper": {
-      "text": "Abheben has a prefix ab that splits off, like anrufen: Ich hebe das Bargeld ab. In the Perfekt the ab stays inside the participle: Ben hat Geld abgehoben. Überweisen keeps its prefix, and the participle has no ge-: überwiesen. The stress tells you: AB-heben splits, über-WEI-sen does not.",
+      "text": "In everyday German many short phrases with these prepositions have no article at all: für Kinder, ohne Karte, ohne Geld. Then no der-word carries the signal, and the adjective works differently; that table comes in chapter 6. For now use the prepositions with der, die, das, and the rule from this lesson works every time: für den teuren Kaffee, ohne die neue Geheimzahl.",
       "example": {
-       "de": "Ben hat Geld abgehoben.",
-       "en": "Ben has withdrawn money.",
+       "de": "Ohne Karte hebt Ben kein Geld ab.",
+       "en": "Without a card Ben does not withdraw any money.",
        "parts": [
+        [
+         "Ohne",
+         "preposition"
+        ],
+        [
+         "Karte",
+         "noun"
+        ],
+        [
+         "hebt",
+         "verb"
+        ],
         [
          "Ben",
          "subject"
         ],
         [
-         "hat",
-         "verb"
+         "kein",
+         "negation"
         ],
         [
          "Geld",
-         "noun"
+         "object"
         ],
         [
-         "abgehoben.",
+         "ab.",
          "verb2"
         ]
        ]
       }
      },
-     "more": "Picture two things you do at a bank. With abheben you take money out of the machine: the machine gives you the cash, and the verb has a little word, ab, that jumps to the end. With überweisen you send money to someone: the verb stays in one piece. If you see ab at the end of a sentence, the verb is abheben.",
+     "more": "Picture two things you do at a bank. With abheben you take money out of the machine: the machine gives you the cash, and the verb has a little word, ab, that jumps to the end. With überweisen you send money to someone: the verb stays in one piece. If you see ab at the end of a sentence, the verb is abheben. English has the same pair of ideas: take out and send.",
      "table": {
       "headers": [
        "Infinitive",
@@ -2407,7 +2447,7 @@
        ]
       }
      },
-     "more": "Read the preposition first, then look at the noun. Für, ohne, durch and um say accusative. If the noun is masculine, you need den and -en. If it is feminine or neuter, you need die or das and -e. For an easy memory, say this like a song: für den, durch die, ohne das, um den. Then add the adjective.",
+     "more": "Read the preposition first, then look at the noun. Für, ohne, durch and um say accusative. If the noun is masculine, you need den and -en. If it is feminine or neuter, you need die or das and -e. For an easy memory, say this like a song: für den, durch die, ohne das, um den. Then add the adjective. Picture a gate with the four words on it: whoever walks through takes the accusative.",
      "table": {
       "headers": [
        "Preposition",
@@ -2534,7 +2574,7 @@
        "why": "The noun can be dropped, but the ending stays."
       }
      },
-     "more": "In a dialogue, the question and the answer have the same case. Welchen goes with den, welche with die, welches with das. First hear the question: the ending of welch- tells you the gender. Then answer with the matching article and adjective. If you hear welchen, think: den ... -en.",
+     "more": "Think of a game of ping-pong. The question serves the ball, and the answer sends it back in the same shape. Welchen Schein? comes with an n, so the answer returns it with an n: Den großen. Welche Münze? has no n, so the answer has none either: Die kleine. In English you just say the big one, but in German the ending still travels with the answer, even when the noun is dropped.",
      "table": {
       "headers": [
        "Question",
@@ -2559,7 +2599,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:plJWxJxbvmM"
+     "yt:plJWxJxbvmM",
+     "yt:OnNGCS5tVMw"
     ],
     "nicosWeg": [
      "nw:a2-06"
@@ -2628,12 +2669,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich hebe das Bargeld ___. (abheben)",
+     "prompt": "Complete: Ich hebe Bargeld ___. (abheben)",
      "answers": [
       "ab"
      ],
      "hint": "The prefix goes to the end.",
-     "explanation": "Ich hebe das Bargeld ab.",
+     "explanation": "Ich hebe Bargeld ab.",
      "grammar": true
     },
     {
@@ -3295,7 +3336,7 @@
        ]
       }
      },
-     "more": "Picture the room. At the door is a machine: you pull a number, die Wartenummer. You wait on a chair. When your number shows on the screen, you go to a counter, der Schalter. There you put a paper on the table: das Formular. You sign it, die Unterschrift, and you pay the small amount, die Gebühr. At the end you get your document.",
+     "more": "Picture the room. At the door is a machine: you pull a number, die Wartenummer. You wait on a chair. When your number shows on the screen, you go to a counter, der Schalter. There you put a paper on the table: das Formular. You sign it, die Unterschrift, and you pay the small amount, die Gebühr. At the end you get your document. Say each word aloud with its article.",
      "table": {
       "headers": [
        "Word",
@@ -3505,7 +3546,7 @@
        ]
       }
      },
-     "more": "Test: does the preposition take the dative? Then the group after it ends in -en, whether it is masculine, feminine or neuter. A common slip is to use the nominative -e after the article: mit dem neue Formular. That is wrong. After mit dem the adjective needs -en. Say mit dem neuen Formular.",
+     "more": "Picture the dative as a waiting room where everybody gets the same chair: -en. It does not matter if the visitor is masculine, feminine or neuter, the chair is always -en: mit dem neuen Formular, mit der neuen Wartenummer, am richtigen Schalter. In English, with the new form has no ending at all, so learners often forget it. A common slip is mit dem neue Formular. Hear the n in dem and repeat it: neuen.",
      "table": {
       "headers": [
        "Gender",
@@ -3680,7 +3721,7 @@
        ]
       }
      },
-     "more": "Imagine a crowd of forms on the desk: more than one, so the plural. Whenever you see die or den in front of a plural, the adjective is -en. Nothing changes between the nominative, the accusative and the dative. A common slip is to forget the ending: die neue Formulare. That is wrong. Say die neuen Formulare.",
+     "more": "Imagine a pile of forms on the desk. As soon as there is more than one, the adjective puts on its winter coat, -en, and keeps it on in every case: die neuen Formulare, die alten Anträge, mit den neuen Formularen. English says the new forms with no change at all. A common slip in German is die neue Formulare. If you see a plural noun after die or den, say -en and you are right.",
      "table": {
       "headers": [
        "Case",
@@ -3842,7 +3883,7 @@
        ]
       }
      },
-     "more": "Say the rule like this: -e in five spots, -en everywhere else. The five spots are always the \"nothing changes\" spots: the nominative, plus the accusative of feminine and neuter. The change spots are masculine accusative, the dative, and the plural. If you are unsure, use -en: you will be right seven times out of twelve.",
+     "more": "Picture a box of chocolates with twelve pieces: three rows for the cases, four columns for masculine, feminine, neuter and plural. Five pieces are milk chocolate, the -e spots: the nominative der, die, das and the accusative die and das. The other seven are dark chocolate, -en. A trick: where the article looks exactly like the dictionary form, and the noun is singular, the ending is -e. Everywhere else, -en wins.",
      "table": {
       "headers": [
        "Case",
@@ -4017,7 +4058,7 @@
        ]
       }
      },
-     "more": "Tip: if you hear aus at the end of a sentence, the verb is ausfüllen. If the verb starts with be-, as in beantragen, it never splits. Look at the object: it is an accusative group, so the masculine gets -en (den neuen Personalausweis) and feminine and neuter get -e (das lange Formular).",
+     "more": "Think of the two verbs as two kinds of zip. Ausfüllen has an open zip: aus comes off and goes to the end of the sentence, Ben füllt das Formular aus. Beantragen has a closed zip: be- is sewn on and never moves, Ben beantragt den Ausweis. English fill in works a bit like the open zip: fill the form in. In the Perfekt only the open zip lets ge- slip inside: ausgefüllt, but beantragt.",
      "table": {
       "headers": [
        "Infinitive",
@@ -4179,7 +4220,7 @@
        ]
       }
      },
-     "more": "Dialogues have a rhythm. The clerk says what is wrong (am falschen Schalter), you ask where to go (der richtige Schalter), and the clerk tells you (zum nächsten Schalter). The three endings change because the case changes: dative -en, nominative -e, dative -en. Read the little dialogue aloud once, then cover it and say it again.",
+     "more": "Imagine the office as a small stage with three lines. The clerk points: Sie sind am falschen Schalter (dative, -en). You ask: Wo ist der richtige Schalter? (nominative, -e). The clerk sends you on: zum nächsten Schalter (dative, -en). Richtig and falsch are like the green and red of a traffic light, and they take the same endings as every adjective. Act the three lines aloud, then swap roles and be the clerk.",
      "table": {
       "headers": [
        "Who",
@@ -4212,7 +4253,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:r8HiWsBe5ko"
+     "yt:r8HiWsBe5ko",
+     "yt:XmFh5v6s2y4"
     ],
     "nicosWeg": [
      "nw:a2-42"
@@ -4391,7 +4433,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Anna wartet mit den lang___ Wartenummern.",
+     "prompt": "Anna wartet bei den neu___ Schaltern.",
      "options": [
       "e",
       "en",
@@ -4715,7 +4757,7 @@
    ],
    "grammar": {
     "topic": "Konjunktiv II: könnte (polite requests)",
-    "point": "Könnte is the polite form of können: ich könnte, du könntest, er/sie/es könnte, wir könnten, ihr könntet, sie/Sie könnten. It stands in position 2 of a question and the infinitive goes to the end: Könnten Sie mir helfen? Konnte (without umlaut) is the past; könnte (with ö) is polite.",
+    "point": "Könnte is the polite form of können: ich könnte, du könntest, er/sie/es könnte, wir könnten, ihr könntet, sie/Sie könnten. It stands at the start of a yes/no question and the infinitive goes to the end: Könnten Sie mir helfen? Konnte (without umlaut) is the past; könnte (with ö) is polite.",
     "oneLine": "Könnten Sie mir helfen? Polite verb first, infinitive last.",
     "mistake": {
      "wrong": "Konnten Sie mir helfen?",
@@ -4951,7 +4993,7 @@
     },
     {
      "title": "The dotted chip: könnte is Konjunktiv II",
-     "body": "From now on the polite form has its own chip: orange with a dotted outline. It is the polite \"could\" form, called Konjunktiv II. It stands where können stood, in position 2 of a question. Like every modal verb, it sends the second verb, the infinitive, to the very end of the sentence.",
+     "body": "From now on the polite form has its own chip: orange with a dotted outline. It is the polite \"could\" form, called Konjunktiv II. It stands where können stood, at the start of a yes/no question. Like every modal verb, it sends the second verb, the infinitive, to the very end of the sentence.",
      "lead": "You have seen Könnten Sie …? in plain verb colour. This card gives the polite form its own colour, so that you can find it in every sentence from now on, and shows where the other verb goes.",
      "examples": [
       {
@@ -5066,7 +5108,7 @@
        ]
       }
      },
-     "more": "A common slip is to put the infinitive straight after Sie: Könnten Sie helfen mir? This is the same slip as with können. Remember the sandwich: the polite verb stands at the front, then everything else (Sie, mir, bitte), and the infinitive closes the sentence. Könnten Sie mir bitte helfen? Say it as one melody: first word, middle, last word.",
+     "more": "A common slip is to put the infinitive straight after Sie: Könnten Sie helfen mir? This is the same slip as with können. Remember the sandwich: the polite verb stands at the front, then everything else (Sie, mir, bitte), and the infinitive closes the sentence. Könnten Sie mir bitte helfen? Say it as one melody: first word, middle, last word. Picture the dotted line as a soft cushion around the verb.",
      "steps": [
       "Step 1: the polite verb in position 1 of the question: Könnten",
       "Step 2: then the subject and the small words: Sie mir bitte",
@@ -5075,7 +5117,7 @@
     },
     {
      "title": "All six forms: ich könnte, du könntest …",
-     "body": "Könnte comes from konnte, but the vowel has an umlaut: ö. The endings are the same as in the past: ich könnte, du könntest, er könnte, wir könnten, ihr könntet, sie könnten. Rule of thumb: ö is polite or possible, o is the past, and a is the present.",
+     "body": "Könnte comes from konnte, but the vowel has an umlaut: ö. The endings are the same as in the past: ich könnte, du könntest, er könnte, wir könnten, ihr könntet, sie könnten. Rule of thumb: kann is now, konnte (o) is the past, könnte (ö) is polite or possible.",
      "lead": "You know can (kann) and could in the past (konnte). This card puts all three side by side in one table, so you see that one letter changes the meaning of the whole sentence.",
      "examples": [
       {
@@ -5351,7 +5393,7 @@
        ]
       }
      },
-     "more": "Mira stands at the machine and cannot find her card. She turns to Ben: Könntest du mir die Bankkarte geben? Ben smiles and answers: Natürlich! The sentence is short, it asks, it does not order, and it sounds friendly. Compare Gib mir die Bankkarte! That is an order, and between friends it can sound rude. With könntest the same wish is a request.",
+     "more": "Mira stands at the machine and cannot find her card. She turns to Ben: Könntest du mir die Bankkarte geben? Ben smiles and answers: Natürlich! The sentence is short, it asks, it does not order, and it sounds friendly. Compare Gib mir die Bankkarte! That is an order, and between friends it can sound rude. With könntest the same wish is a request. Then try it with your own name.",
      "table": {
       "headers": [
        "You ask …",
@@ -5439,8 +5481,8 @@
        ]
       },
       {
-       "de": "Könnten Sie meine Anmeldung verlängern?",
-       "en": "Could you extend my registration?",
+       "de": "Könnten Sie mein Visum verlängern?",
+       "en": "Could you extend my visa?",
        "parts": [
         [
          "Könnten",
@@ -5451,11 +5493,11 @@
          "subject"
         ],
         [
-         "meine",
+         "mein",
          "article"
         ],
         [
-         "Anmeldung",
+         "Visum",
          "object"
         ],
         [
@@ -5605,7 +5647,7 @@
       }
      ],
      "deeper": {
-      "text": "After the dative zum, the adjective ends in -en: zum nächsten Schalter. You learned that in lesson 3: the dative always has -en. Leider nicht alone sounds cold, so add the hint: Gehen Sie bitte zum nächsten Schalter. The woman at the counter does that in the dialogue below.",
+      "text": "Natürlich and gern are not quite the same. Natürlich means of course: the request is normal and easy. Gern means gladly: you are happy to help. Clerks often answer Einen Moment, bitte, which buys time politely. Leider nicht alone sounds cold, so Germans add a hint: Leider nicht, aber gehen Sie bitte zum nächsten Schalter. After zum the adjective has -en, as in lesson 3.",
       "example": {
        "de": "Natürlich. Wie heißen Sie?",
        "en": "Of course. What is your name?",
@@ -5629,7 +5671,7 @@
        ]
       }
      },
-     "more": "Here is a small dialogue. Mira: Könnten Sie mir bitte helfen? Ich möchte ein Girokonto eröffnen. Frau am Schalter: Natürlich. Einen Moment, bitte. Wohnen Sie schon lange hier? Mira: Nein, ich wohne seit einem Monat hier. Frau am Schalter: Gut. Dann brauche ich Ihre Unterlagen. Notice that nobody gives orders: it is all requests and friendly answers.",
+     "more": "Think of an answer as the second half of a handshake. The other person holds out a hand: Könnten Sie kurz warten? You take it: Natürlich, or Ja, gern. If you cannot help, you still shake hands, but you point the way: Leider nicht, aber gehen Sie bitte zum nächsten Schalter. In English, too, you would never answer a polite request with a bare no. A short yes, or a no with a hint, keeps it friendly.",
      "table": {
       "headers": [
        "They ask …",
@@ -5663,7 +5705,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:uMlagwZP9dw"
+     "yt:uMlagwZP9dw",
+     "yt:ggZnDWlMBJ8"
     ],
     "nicosWeg": [
      "nw:a2-08"
@@ -5964,12 +6007,12 @@
      "en": "to extend",
      "examples": [
       {
-       "de": "Könnten Sie meine Anmeldung verlängern?",
-       "en": "Could you extend my registration?"
+       "de": "Könnten Sie mein Visum verlängern?",
+       "en": "Could you extend my visa?"
       },
       {
-       "de": "Ben hat den Termin verlängert.",
-       "en": "Ben has extended the appointment."
+       "de": "Mira hat ihren Vertrag verlängert.",
+       "en": "Mira has extended her contract."
       }
      ],
      "forms": "verlängert, hat verlängert"
@@ -6164,8 +6207,8 @@
     "point": "Softening words (bitte, vielleicht, mal, kurz) stand after the subject and the pronoun, before the infinitive. In weil, wenn and dass clauses könnte goes to the very end, after the infinitive: …, wenn Sie mir helfen könnten. With ich or wir, könnte makes an offer: Ich könnte morgen wiederkommen. In a polite question the voice goes up at the end.",
     "oneLine": "Softening words in the middle; in a clause, könnte at the very end.",
     "mistake": {
-     "wrong": "Ich hoffe, dass Sie könnten mir helfen.",
-     "right": "Ich hoffe, dass Sie mir helfen könnten.",
+     "wrong": "Ich glaube, dass Sie könnten mir helfen.",
+     "right": "Ich glaube, dass Sie mir helfen könnten.",
      "why": "After dass the conjugated verb goes to the very end: first the infinitive helfen, then könnten."
     }
    },
@@ -6274,7 +6317,7 @@
        "why": "New: two small words make the request even softer."
       }
      ],
-     "more": "A request has a skeleton and a skin. The skeleton is the word order you know: polite verb, subject, the rest, infinitive. The skin is everything you add: bitte, vielleicht, mal, kurz and your voice. A learner who only knows the skeleton is understood. A learner who also has the skin sounds friendly, and at a counter that can make the whole visit easier."
+     "more": "A request has a skeleton and a skin. The skeleton is the word order you know: polite verb, subject, the rest, infinitive. The skin is everything you add: bitte, vielleicht, mal, kurz and your voice. A learner who only knows the skeleton is understood. A learner who also has the skin sounds friendly, and at a counter that can make the whole visit easier. Listen for all three in the next lesson video."
     },
     {
      "title": "Softening words: bitte, vielleicht, mal, kurz",
@@ -6393,7 +6436,7 @@
        ]
       }
      },
-     "more": "A common slip is to put mal before du: Könntest mal du kommen? The softening word does not come first. After the polite verb, the subject always follows right away. Say it like a train: Könntest, then du, then the small words, then kommen. The same train works with Sie: Könnten Sie vielleicht kurz kommen?",
+     "more": "Think of the four words as spices. Bitte is salt: it goes into almost everything. Vielleicht is a mild herb for officials and strangers. Mal is chilli between friends: casual and warm. Kurz is sugar: it makes the wait sound small. One or two spices make a request better, but all four at once taste strange. They always go into the middle of the pot, after the subject and before the infinitive at the end.",
      "table": {
       "headers": [
        "Word",
@@ -6529,7 +6572,7 @@
        ]
       }
      },
-     "more": "You can practise anywhere. Say Könnten Sie mir bitte helfen? aloud ten times, each time a little softer on bitte and a little higher on helfen. Record yourself if you like. A good sign is a small smile while you speak: it changes your voice without effort. A flat voice with a hard bitte sounds like a complaint, even if the grammar is perfect.",
+     "more": "You can practise anywhere. Say Könnten Sie mir bitte helfen? aloud ten times, each time a little softer on bitte and a little higher on helfen. Record yourself if you like. A good sign is a small smile while you speak: it changes your voice without effort. A flat voice with a hard bitte sounds like a complaint, even if the grammar is perfect. English works the same: could you help me? rises at the end too.",
      "steps": [
       "Step 1: start at your normal level: Könnten Sie mir …",
       "Step 2: say bitte softly, not hard.",
@@ -6658,7 +6701,7 @@
        ]
       }
      },
-     "more": "Danke für Ihr Verständnis is a fixed phrase that officials and employees often say. You can also say it yourself when you must wait: the person understands that you are patient. It is a block: you do not need to change anything. The word Verständnis comes from verstehen and means \"understanding\", with no plural in daily life.",
+     "more": "Picture a staircase with three steps. On the bottom step stands the order: Gib mir das Formular! It is short and hard, like a door that slams. One step up, Können Sie mir bitte das Formular geben? is a door that opens. On the top step, Könnten Sie mir bitte das Formular geben? holds the door open with a smile. At an office, climb to the top step. With friends, the middle step is enough.",
      "table": {
       "headers": [
        "Level",
@@ -6686,7 +6729,7 @@
     },
     {
      "title": "Könnte at the end of a clause",
-     "body": "Könnte also works inside weil, wenn and dass clauses. Like every conjugated verb in these clauses, it goes to the very end, after the infinitive: …, weil Sie mir vielleicht helfen könnten. You often use such a clause to explain why you ask: Ich frage, weil … Or to say what you hope: Ich hoffe, dass … könntest.",
+     "body": "Könnte also works inside weil, wenn and dass clauses. Like every conjugated verb in these clauses, it goes to the very end, after the infinitive: …, weil Sie mir vielleicht helfen könnten. Use it to explain why you ask: Ich frage, weil … Or to say what you think is possible: Ich glaube, dass Ben kommen könnte.",
      "lead": "Until now könnte always stood at the front of a question. This card moves it to the end of a clause, using the verb-at-the-end rule you know from weil, wenn and dass, to give you longer and still polite sentences.",
      "examples": [
       {
@@ -6728,15 +6771,15 @@
        ]
       },
       {
-       "de": "Ich hoffe, dass Sie mir eine Auskunft geben könnten.",
-       "en": "I hope that you could give me some information.",
+       "de": "Ich denke, dass Ben morgen kommen könnte.",
+       "en": "I think that Ben could come tomorrow.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "hoffe,",
+         "denke,",
          "verb"
         ],
         [
@@ -6744,23 +6787,57 @@
          "conjunction"
         ],
         [
-         "Sie",
+         "Ben",
          "subject"
         ],
         [
-         "mir",
-         "dative"
+         "morgen",
+         "time"
         ],
         [
-         "eine",
-         "article"
+         "kommen",
+         "verb2"
         ],
         [
-         "Auskunft",
-         "object"
+         "könnte.",
+         "konj2"
+        ]
+       ]
+      },
+      {
+       "de": "Leon sagt, dass wir zusammen zur Bank gehen könnten.",
+       "en": "Leon says that we could go to the bank together.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
         ],
         [
-         "geben",
+         "sagt,",
+         "verb"
+        ],
+        [
+         "dass",
+         "conjunction"
+        ],
+        [
+         "wir",
+         "subject"
+        ],
+        [
+         "zusammen",
+         "other"
+        ],
+        [
+         "zur",
+         "preposition"
+        ],
+        [
+         "Bank",
+         "noun"
+        ],
+        [
+         "gehen",
          "verb2"
         ],
         [
@@ -6768,62 +6845,24 @@
          "konj2"
         ]
        ]
-      },
-      {
-       "de": "Ich hoffe, dass du mir kurz helfen könntest.",
-       "en": "I hope that you could help me for a moment.",
-       "parts": [
-        [
-         "Ich",
-         "subject"
-        ],
-        [
-         "hoffe,",
-         "verb"
-        ],
-        [
-         "dass",
-         "conjunction"
-        ],
-        [
-         "du",
-         "subject"
-        ],
-        [
-         "mir",
-         "dative"
-        ],
-        [
-         "kurz",
-         "other"
-        ],
-        [
-         "helfen",
-         "verb2"
-        ],
-        [
-         "könntest.",
-         "konj2"
-        ]
-       ]
       }
      ],
      "deeper": {
-      "text": "In the clause the order is the same as with können: conjunction, subject, the rest, the infinitive, and then the conjugated verb at the very end. With könnte this means that the dotted chip is the very last word before the full stop. Always ask yourself: which verb changes with the person? It goes to the end.",
+      "text": "In the clause the order is the same as with können: conjunction, subject, the rest, the infinitive, and then the conjugated verb at the very end. With könnte this means that the dotted chip is the very last word before the full stop. Always ask yourself: which verb changes with the person? It goes to the end. In a dass clause könnte often means a possibility, not a request: Ich denke, dass Ben morgen kommen könnte.",
       "example": {
-       "de": "Ich hoffe, dass ihr mir helfen könntet.",
-       "en": "I hope that you (all) could help me.",
+       "de": "Ich frage, weil ihr mir vielleicht helfen könntet.",
+       "en": "I am asking because you (all) could perhaps help me.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "hoffe,",
+         "frage,",
          "verb"
         ],
         [
-         "dass",
+         "weil",
          "conjunction"
         ],
         [
@@ -6833,6 +6872,10 @@
         [
          "mir",
          "dative"
+        ],
+        [
+         "vielleicht",
+         "other"
         ],
         [
          "helfen",
@@ -6845,10 +6888,10 @@
        ]
       }
      },
-     "more": "A common slip is dass Sie könnten mir helfen. This is the order of a main sentence, but after dass the verb walks to the end. The two verbs end the clause side by side: infinitive first, könnten last. Compare: Können Sie mir helfen? (question) and …, wenn Sie mir helfen könnten. (clause). The same two words, in a different order.",
+     "more": "A common slip is dass Sie könnten mir helfen. That is the order of a main sentence, but after weil, wenn and dass the verb walks to the end. Picture a train: the conjunction is the engine, the subject and the small words are the carriages, and the two verbs are the last wagons, the infinitive first and könnte at the very end. Compare Können Sie mir helfen? with …, weil Sie mir helfen könnten.",
      "steps": [
-      "Step 1: the main clause first: Ich bin froh,",
-      "Step 2: wenn, the subject and the rest: wenn Sie mir eine Auskunft",
+      "Step 1: the main clause first: Ich frage,",
+      "Step 2: weil, the subject and the rest: weil Sie mir vielleicht eine Auskunft",
       "Step 3: the infinitive: geben",
       "Step 4: the polite verb at the very end: könnten."
      ]
@@ -6907,8 +6950,8 @@
        ]
       },
       {
-       "de": "Ben könnte eventuell den Termin verlängern.",
-       "en": "Ben could possibly extend the appointment.",
+       "de": "Ben könnte eventuell morgen früh kommen.",
+       "en": "Ben could possibly come early tomorrow.",
        "parts": [
         [
          "Ben",
@@ -6923,15 +6966,11 @@
          "other"
         ],
         [
-         "den",
-         "article"
+         "morgen früh",
+         "time"
         ],
         [
-         "Termin",
-         "object"
-        ],
-        [
-         "verlängern.",
+         "kommen.",
          "verb2"
         ]
        ]
@@ -6970,7 +7009,7 @@
        ]
       }
      },
-     "more": "Imagine Mira is at the bank and has forgotten a paper. She does not demand anything. She says: Ich könnte morgen wiederkommen. The woman at the counter hears a polite offer and can answer: Ja, gern, or Leider nicht. The key is that könnte leaves the decision to the other person.",
+     "more": "Imagine you hold out an open hand with a key on it. Ich könnte morgen wiederkommen means: here is a possibility, you decide. Ich kann morgen kommen is a fact, a key already in the lock. In English could does the same job: I could come back tomorrow. Mira forgot a paper at the bank, so she offers: Ich könnte morgen wiederkommen. The woman at the counter says Ja, gern, or Leider nicht. The decision stays with her.",
      "table": {
       "headers": [
        "Fact",
@@ -7154,7 +7193,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:onP9fcDi7FQ"
+     "yt:onP9fcDi7FQ",
+     "yt:vY7WCRyG-n8"
     ],
     "nicosWeg": [
      "nw:a2-13"
@@ -7213,12 +7253,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich hoffe, dass Sie mir helfen ___. (könnte, with Sie)",
+     "prompt": "Complete: Ich glaube, dass Sie mir helfen ___. (könnte, with Sie)",
      "answers": [
       "könnten"
      ],
-     "hint": "Wenn: the verb is last.",
-     "explanation": "Ich hoffe, dass Sie mir helfen könnten.",
+     "hint": "After dass the verb is last.",
+     "explanation": "Ich glaube, dass Sie mir helfen könnten.",
      "grammar": true
     },
     {
@@ -7296,13 +7336,13 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich hoffe, dass du mir helfen könntest.",
-      "Ich hoffe, dass du könntest mir helfen.",
-      "Ich hoffe, dass du mir könntest helfen."
+      "Ich glaube, dass du mir helfen könntest.",
+      "Ich glaube, dass du könntest mir helfen.",
+      "Ich glaube, dass du mir könntest helfen."
      ],
      "answer": 0,
      "hint": "Könntest at the very end.",
-     "explanation": "Ich hoffe, dass du mir helfen könntest.",
+     "explanation": "Ich glaube, dass du mir helfen könntest.",
      "grammar": true
     },
     {
@@ -7330,24 +7370,22 @@
     },
     {
      "type": "build",
-     "prompt": "Build: I would be glad if you could give me some information.",
+     "prompt": "Build: I think that you could give me some information.",
      "tokens": [
-      "Ich",
-      "Sie",
-      "bin",
-      "mir",
-      "eine",
-      "wenn",
-      "froh,",
-      "geben",
+      "könnten.",
       "Auskunft",
-      "könnten."
+      "Ich",
+      "dass",
+      "geben",
+      "glaube,",
+      "mir",
+      "Sie",
+      "eine"
      ],
      "answer": [
       "Ich",
-      "bin",
-      "froh,",
-      "wenn",
+      "glaube,",
+      "dass",
       "Sie",
       "mir",
       "eine",
@@ -7356,7 +7394,7 @@
       "könnten."
      ],
      "hint": "The infinitive, then könnten last.",
-     "explanation": "Ich hoffe, dass Sie mir eine Auskunft geben könnten.",
+     "explanation": "Ich glaube, dass Sie mir eine Auskunft geben könnten.",
      "grammar": true
     },
     {
@@ -7582,7 +7620,7 @@
      "examples": [
       {
        "de": "Ich möchte mein Konto kündigen.",
-       "en": "I would like to cancel my account."
+       "en": "I would like to close my account."
       },
       {
        "de": "Leon hat den Vertrag gekündigt.",
@@ -7888,7 +7926,7 @@
        ]
       }
      },
-     "more": "Always begin with Entschuldigung. In German towns people are happy to help, but they like to be asked first, like at the bank. A short, polite opening is half of the answer. After the explanation, say Vielen Dank! and, if you did not understand everything, ask again: Könnten Sie das bitte noch einmal sagen? Slow and polite always works better than fast and sharp.",
+     "more": "Always begin with Entschuldigung. In German towns people are happy to help, but they like to be asked first, like at the bank. A short, polite opening is half of the answer. After the explanation, say Vielen Dank! and, if you did not understand everything, ask again: Könnten Sie das bitte noch einmal sagen? Slow and polite always works better than fast and sharp. Entschuldigung opens every door.",
      "table": {
       "headers": [
        "You want to go to …",
@@ -8043,7 +8081,7 @@
        ]
       }
      },
-     "more": "Do not mix up über with the two-way preposition from A1. You know über as a two-way word: über dem Tisch (where?) and über den Tisch (where to?). When you cross something, as in a route, über always takes the accusative, because you move. A common slip is durch dem Park. Durch is always accusative: durch den Park, no matter what.",
+     "more": "Do not mix up über with the two-way preposition from A1. You know über as a two-way word: über dem Tisch (where?) and über den Tisch (where to?). When you cross something, as in a route, über always takes the accusative, because you move. A common slip is durch dem Park. Durch is always accusative: durch den Park, no matter what. Picture yourself walking: crossing a bridge is always a movement.",
      "table": {
       "headers": [
        "Word",
@@ -8195,7 +8233,7 @@
        ]
       }
      },
-     "more": "A common slip is an die Kirche vorbei. An is a two-way preposition, so learners think of the accusative because they are moving. But in an … vorbei the preposition is part of a fixed frame, and the frame always takes the dative: an der Kirche vorbei. Learn the whole frame as one piece, and you never have to think about the case.",
+     "more": "A common slip is an die Kirche vorbei. An is a two-way preposition, so learners think of the accusative because they are moving. But in an … vorbei the preposition is part of a fixed frame, and the frame always takes the dative: an der Kirche vorbei. Learn the whole frame as one piece, and you never have to think about the case. Picture the church as a fixed point that you pass.",
      "table": {
       "headers": [
        "Word",
@@ -8358,7 +8396,7 @@
        ]
       }
      },
-     "more": "Here is a full route, step by step. Gehen Sie durch den Park. Dann überqueren Sie die Straße am Zebrastreifen. Biegen Sie links ab und gehen Sie bis zur Ampel. Each step is one short command. When you give directions, do not make long sentences: short steps, one thing at a time, and the other person can follow you.",
+     "more": "Think of a route as a list of short commands, like the voice of a satnav. Gehen Sie durch den Park. Überqueren Sie die Straße am Zebrastreifen. Biegen Sie links ab. Notice the two kinds of verb: abbiegen splits, so ab jumps to the end like a small tail; überqueren stays in one piece, like over in English overtake. Give one step at a time, and wait until the other person nods.",
      "table": {
       "headers": [
        "Verb",
@@ -8532,7 +8570,7 @@
        ]
       }
      },
-     "more": "Imagine a walk through the old town. Gehen Sie durch die enge Gasse, über die alte Brücke und am neuen Rathaus vorbei. Read the endings aloud: enge (die, accusative, -e), alte (die, accusative, -e), neuen (dem, dative, -en). If you know the article, you know the ending. It is the same story as in lessons 2 and 3.",
+     "more": "Imagine a walk through the old town with a pen in your hand. Under each article you write the case: durch die enge Gasse (accusative, -e), über die alte Brücke (accusative, -e), am neuen Rathaus vorbei (dative, -en). The route word chooses the case, the case chooses the article, and the article chooses the ending. It is a chain with three links. If you know the first link, the other two follow.",
      "table": {
       "headers": [
        "Route",
@@ -8664,7 +8702,7 @@
        ]
       }
      },
-     "more": "Here is a small scene. Anna stands at the station and calls Mira. Anna: Ich habe mich verlaufen. Die App zeigt meinen Standort, aber das ist ein Umweg. Mira: Geh bitte durch den Park. Das ist eine Abkürzung. Notice that Mira uses du, because they are friends. The route words stay the same: durch den Park is accusative, no matter who is speaking.",
+     "more": "Here is a small scene. Anna stands at the station and calls Mira. Anna: Ich habe mich verlaufen. Die App zeigt meinen Standort, aber das ist ein Umweg. Mira: Geh bitte durch den Park. Das ist eine Abkürzung. Notice that Mira uses du, because they are friends. The route words stay the same: durch den Park is accusative, no matter who is speaking. Set your phone to German, and you will read Standort every day.",
      "table": {
       "headers": [
        "German",
@@ -9328,7 +9366,7 @@
        "why": "New today: wo in town."
       }
      ],
-     "more": "Think of the flat from A1 as a small model of the town. The lamp went into the corner (wohin, accusative) and then stood in the corner (wo, dative). In town it is exactly the same, only the places are bigger: you go into the old town, and then you are in the old town. Same prepositions, same two questions, same two cases."
+     "more": "Think of the flat from A1 as a small model of the town. The lamp went into the corner (wohin, accusative) and then stood in the corner (wo, dative). In town it is exactly the same, only the places are bigger: you go into the old town, and then you are in the old town. Same prepositions, same two questions, same two cases. Today you take the model outside."
     },
     {
      "title": "Gehen, fahren or sein? Movement verbs and place verbs",
@@ -9779,7 +9817,7 @@
        ]
       }
      },
-     "more": "Picture a town from above. In the middle is die Stadtmitte with lots of cars (der Verkehr) and noise (der Lärm). Around the edge is der Stadtrand, with more green spaces (die Grünflächen) and cleaner air (die Luft). Between the street and the houses runs der Bürgersteig, where you walk. Five places, one picture.",
+     "more": "Picture a town from a balloon. In the middle lies die Stadtmitte, full of cars (der Verkehr) and noise (der Lärm). Around the edge runs der Stadtrand, with green spaces (die Grünflächen) and clean air (die Luft). Between each street and the houses runs a narrow path for people on foot: der Bürgersteig. In English pavement and traffic have no gender, so learn each word with its article: der Lärm, but die Luft.",
      "table": {
       "headers": [
        "Word",
@@ -9959,7 +9997,7 @@
        ]
       }
      },
-     "more": "Think of two pictures side by side. Left: a small town, quiet, clean, narrow streets. Right: a big city, loud, a bit dirty, wide streets. Now say the difference with -er and als: Die Kleinstadt ist ruhiger als die Großstadt. Die Großstadt ist lauter. You already know this from chapter 2; only the places are new.",
+     "more": "Think of two postcards side by side. On the left: a small town, quiet streets, clean air. On the right: a big city, wide streets, traffic and noise. Now compare them with -er and als, just like Anna ist älter als Mira: Die Kleinstadt ist ruhiger als die Großstadt. Die Großstadt ist lauter. Only the places are new. Add mit dem Rad, and you can even say which way is faster.",
      "table": {
       "headers": [
        "Kleinstadt",
@@ -10086,7 +10124,7 @@
        ]
       }
      },
-     "more": "A very common mistake is: Ich fahre nach die Stadt. Nach never takes an article in this meaning. For die Stadt you need a two-way preposition: Ich fahre in die Stadt. Keep nach for nach Hause and city names: nach Wien, nach Berlin. And zu Hause is where you are, nach Hause is where you go. If you remember that pair, the rest follows.",
+     "more": "A very common mistake is: Ich fahre nach die Stadt. Nach never takes an article in this meaning. For die Stadt you need a two-way preposition: Ich fahre in die Stadt. Keep nach for nach Hause and city names: nach Wien, nach Berlin. And zu Hause is where you are, nach Hause is where you go. If you remember that pair, the rest follows. Two pairs, and the rest follows.",
      "table": {
       "headers": [
        "Chunk",
@@ -10285,7 +10323,7 @@
        ]
       }
      },
-     "more": "Read the trip like a film. Scene 1: Leon on the bike, moving into town, wohin. Scene 2: a red light, he stops, wo. Scene 3: he leaves the bike, it stays, wo. Scene 4: he walks onto the square, wohin. Scene 5: on the square he meets Mira, wo. Moving scenes take the accusative, still scenes take the dative.",
+     "more": "Read the trip like a film. Scene 1: Leon on the bike, moving into town, wohin. Scene 2: a red light, he stops, wo. Scene 3: he leaves the bike, it stays, wo. Scene 4: he walks onto the square, wohin. Scene 5: on the square he meets Mira, wo. Moving scenes take the accusative, still scenes take the dative. Try it with your own trip to work tomorrow.",
      "steps": [
       "Leon fährt mit dem Rad in die Stadt. (wohin: accusative)",
       "Bei Rot wartet er an der Ampel. (wo: dative)",
@@ -11081,7 +11119,7 @@
        ]
       }
      },
-     "more": "Think of the Ring as a necklace round the old town, and the famous buildings are the stones on it: die Oper, das Parlament, die Hofburg, a palace. Between them you find old cafés, die Kaffeehäuser, where people sit for hours. You do not need dates or numbers for this lesson, only the names and their articles.",
+     "more": "Think of the Ring as a necklace round the old town, and the famous buildings are its stones: die Oper, das Parlament and die Hofburg, a big palace. Between the stones are old cafés, die Kaffeehäuser, where people sit for hours with one coffee and a newspaper. A tram runs along the necklace, so you can see every stone without walking. Learn each stone with its article, because you will use the endings with them soon.",
      "table": {
       "headers": [
        "Place",
@@ -11229,7 +11267,7 @@
        ]
       }
      },
-     "more": "A tour has a guide, a route and a way to move. The guide: der Stadtführer or die Stadtführerin, or a book, der Reiseführer. The route: der Rundgang or die Stadtführung. The way to move: zu Fuß, mit der Straßenbahn, or in der Kutsche with horses, die Pferde. Pick one from each group and you have your tour.",
+     "more": "A tour is like a meal with three courses. First the guide: der Stadtführer, die Stadtführerin, or a book, der Reiseführer. Then the route: a short walk, der Rundgang, or a full guided tour, die Stadtführung. Then the way to move: zu Fuß, mit der Straßenbahn, or in der Kutsche with two horses, die Pferde. Pick one from each course, and you can tell your whole tour in three sentences.",
      "table": {
       "headers": [
        "Word",
@@ -11411,7 +11449,7 @@
        ]
       }
      },
-     "more": "Picture two columns. Left: what you see, your eyes going to a thing: accusative, den alten Palast, die berühmte Oper, das große Parlament. Right: where you are, your feet standing in a place: dative, im alten Palast, in der berühmten Oper, im großen Parlament. Only accusative die and das take -e. Everything else takes -en.",
+     "more": "Picture two photos from the trip. In photo one your eyes look at a building: Wir sehen den alten Palast, die berühmte Oper, das große Parlament (accusative). In photo two your feet stand inside: im alten Palast, in der berühmten Oper, im großen Parlament (dative). In the dative photo every ending is -en. In the accusative photo only die and das keep the easy -e. Before you speak, ask: eyes or feet?",
      "table": {
       "headers": [
        "",
@@ -11571,7 +11609,7 @@
        ]
       }
      },
-     "more": "Telling a tour is like showing photos. For each photo you say what you did, in the Perfekt: Wir sind gefahren, wir haben gesehen, wir haben getrunken. Then you add how it was, with war: Es war schön, es war teuer, es war voll. Use zuerst, dann and am Ende to put the photos in order.",
+     "more": "Telling a tour is like showing photos to a friend. For each photo you say what you did, in the Perfekt: Wir sind gefahren, wir haben gesehen, wir haben gegessen. Then you add how it was, with war: Es war schön, es war teuer. Zuerst, dann and am Ende put the photos in order. The adjective endings stay the same as in the present, so die berühmte Oper is still die berühmte Oper.",
      "steps": [
       "Zuerst sind wir mit der Straßenbahn um den Ring gefahren.",
       "Dann haben wir den alten Palast besichtigt.",
@@ -11694,15 +11732,15 @@
      "deeper": {
       "text": "The superlative stem schönst works like any adjective: after der, die, das in the nominative it takes -e. The same works with other adjectives you know from chapter 2: der älteste Palast, die größte Kirche, das teuerste Hotel. After sein you still say am schönsten: Der Palast ist am schönsten.",
       "example": {
-       "de": "Der älteste Palast ist die Hofburg.",
-       "en": "The oldest palace is the Hofburg.",
+       "de": "Das teuerste Hotel ist am Ring.",
+       "en": "The most expensive hotel is on the Ring.",
        "parts": [
         [
-         "Der",
+         "Das",
          "article"
         ],
         [
-         "ältest",
+         "teuerst",
          "adjective"
         ],
         [
@@ -11710,7 +11748,7 @@
          "ending"
         ],
         [
-         "Palast",
+         "Hotel",
          "noun"
         ],
         [
@@ -11718,17 +11756,17 @@
          "verb"
         ],
         [
-         "die",
-         "article"
+         "am",
+         "preposition"
         ],
         [
-         "Hofburg.",
+         "Ring.",
          "noun"
         ]
        ]
       }
      },
-     "more": "Two ways to say the same idea. Without a noun, after sein: Das Kaffeehaus ist am schönsten. With a noun, as the subject: Das schönste Kaffeehaus. In that place the ending is always -e, never -er. So a learner who says der schönster Palast is mixing it up with the comparative schöner: the right form is der schönste Palast.",
+     "more": "Think of a podium with three places: schön, schöner, am schönsten. When the winner stands alone after sein, you say am schönsten: Das Kaffeehaus ist am schönsten. When the winner stands in front of its noun, it wears the normal easy-spot ending: das schönste Kaffeehaus. A common slip is der schönster Palast, a mix with the comparative schöner. The right form is der schönste Palast, with the same -e as der alte Palast.",
      "table": {
       "headers": [
        "Gender",
@@ -11752,7 +11790,7 @@
     },
     {
      "title": "Könnten Sie das wiederholen? Asking the guide",
-     "body": "On a tour you often need help. Use könnte from lesson 4: Könnten Sie das bitte wiederholen? Könnten Sie ein Foto von uns machen? For a quick question use wo: Wo ist der nächste Eingang? Polite words like bitte and kurz make the question softer.",
+     "body": "On a tour you often need help. Use könnte from lesson 4: Könnten Sie das bitte wiederholen? Könnten Sie ein Foto von uns machen? To find a place, a normal W-question is enough: Wo ist der nächste Eingang? Polite words like bitte and kurz make the question softer.",
      "lead": "You can now understand and tell a tour. This card helps you talk to the guide politely when you did not hear something or need a favour.",
      "examples": [
       {
@@ -11847,10 +11885,10 @@
       }
      ],
      "deeper": {
-      "text": "The verb könnte goes first in a yes or no question, the infinitive goes to the end. Short softeners like bitte, mal or kurz sit in the middle: Könnten Sie uns kurz den Weg zeigen? With friends in the group you say Könntest du …? and with two friends Könntet ihr …?",
+      "text": "In Vienna people greet with Grüß Gott, and in a traditional café the waiter is called Herr Ober. Guides and waiters in Austria are addressed with Sie, so the polite könnte fits perfectly. Austrians often sound even softer than Germans and add bitte and gern to almost every sentence. If a guide speaks too fast, use a comparative from chapter 2: Könnten Sie bitte langsamer sprechen?",
       "example": {
-       "de": "Könnten Sie uns kurz den Weg zeigen?",
-       "en": "Could you quickly show us the way?",
+       "de": "Könnten Sie bitte langsamer sprechen?",
+       "en": "Could you speak more slowly, please?",
        "parts": [
         [
          "Könnten",
@@ -11861,29 +11899,21 @@
          "subject"
         ],
         [
-         "uns",
-         "dative"
-        ],
-        [
-         "kurz",
+         "bitte",
          "other"
         ],
         [
-         "den",
-         "article"
+         "langsamer",
+         "adjective"
         ],
         [
-         "Weg",
-         "noun"
-        ],
-        [
-         "zeigen?",
+         "sprechen?",
          "verb2"
         ]
        ]
       }
      },
-     "more": "On a tour three questions save you. You did not understand: Könnten Sie das bitte wiederholen? You want a picture: Könnten Sie ein Foto von uns machen? You are lost: Wo ist der nächste Eingang? Learn these three as blocks. The first word is the dotted konj2 chip, the last word is the infinitive, and that frame makes it polite.",
+     "more": "On a tour three questions save you. You did not understand: Könnten Sie das bitte wiederholen? You want a picture: Könnten Sie ein Foto von uns machen? You need the door: Wo ist der nächste Eingang? Keep them in your pocket like a ticket. The first two have the polite frame: könnten at the front, the infinitive at the end. The third is a normal question with wo, because a place question needs no extra softness.",
      "table": {
       "headers": [
        "Situation",
@@ -11908,7 +11938,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:0DLBdbv1f6A"
+     "yt:0DLBdbv1f6A",
+     "yt:nMtzEgBuDHk"
     ],
     "nicosWeg": [
      "nw:a2-54"
@@ -12524,8 +12555,8 @@
      "lead": "You can ask and offer politely with könnte. Now you go to work with Leon and learn the words for a shift in a restaurant.",
      "examples": [
       {
-       "de": "Leon hat heute Probearbeiten im Löwen.",
-       "en": "Leon has a trial shift at the Löwen today.",
+       "de": "Leon hat heute Probearbeiten im Restaurant „Zum Löwen“.",
+       "en": "Leon has a trial shift at the restaurant „Zum Löwen“ today.",
        "parts": [
         [
          "Leon",
@@ -12541,15 +12572,19 @@
         ],
         [
          "Probearbeiten",
-         "noun"
+         "object"
         ],
         [
          "im",
          "preposition"
         ],
         [
-         "Löwen.",
+         "Restaurant",
          "noun"
+        ],
+        [
+         "„Zum Löwen“.",
+         "other"
         ]
        ]
       },
@@ -12655,11 +12690,11 @@
        ]
       }
      },
-     "more": "Picture Leon in a black shirt. His shift, die Schicht, starts at five. In one hand he has das Tablett. A guest says what he wants: that is die Bestellung, and Leon notes it. Then he brings the food to the table: er serviert das Essen. Das Probearbeiten is the test day: if it goes well, Herr Ali gives him the job.",
+     "more": "Picture Leon in a black shirt. His shift, die Schicht, starts at five. In one hand he has das Tablett. A guest says what he wants: that is die Bestellung, and Leon notes it. Then he brings the food to the table: er serviert das Essen. Das Probearbeiten is the test day: if it goes well, Herr Ali gives him the job. In English you might call it a trial day.",
      "table": {
       "headers": [
        "Word",
-       "Plural",
+       "Plural / forms",
        "Meaning"
       ],
       "rows": [
@@ -12844,7 +12879,7 @@
        ]
       }
      },
-     "more": "Wie bitte? is short and fine with anybody. Könnten Sie das bitte wiederholen? is longer and more polite. Watch the word order: könnten first, das in the middle, wiederholen at the very end. A common mistake is Könnten Sie wiederholen das? The infinitive always closes the question: Könnten Sie das wiederholen?",
+     "more": "Picture a guest speaking fast in a noisy room. Guessing is like throwing a dart with your eyes closed; asking again is opening your eyes first. Wie bitte? is short and fine with anybody. Könnten Sie das bitte wiederholen? is longer and more polite. A choice question is even better: Meinen Sie den großen Tisch oder den kleinen Tisch? Now the guest only has to say one word, and you get the order right.",
      "steps": [
       "You do not understand: Entschuldigung, wie bitte?",
       "You need it again: Könnten Sie das bitte wiederholen?",
@@ -12916,7 +12951,7 @@
       }
      ],
      "deeper": {
-      "text": "Nachfragen is separable, like anrufen: Ich frage kurz nach. In the Perfekt it becomes Ich habe nachgefragt. Kurz is a softener from lesson 5: it makes the wait sound small. You can also say who you ask: Ich frage kurz bei Herrn Ali nach. Bei + dative, and Herrn is the polite form of Herr.",
+      "text": "Nachfragen is separable, like anrufen: Ich frage kurz nach. In the Perfekt it becomes Ich habe nachgefragt. Kurz is a softener from lesson 5: it makes the wait sound small. You can also say who you ask: Ich frage kurz bei Herrn Ali nach. Bei takes the dative, and after a preposition Herr becomes Herrn.",
       "example": {
        "de": "Ich frage kurz bei Herrn Ali nach.",
        "en": "I will just check with Mr Ali.",
@@ -12948,7 +12983,7 @@
        ]
       }
      },
-     "more": "Imagine the guest is waiting and looking at you. Silence feels long. One short sentence fills the gap: Einen Moment, bitte. Then you say what you will do: Ich frage kurz nach. When you go, you promise to come back: Ich komme sofort. Three blocks, three seconds, and the guest knows you are on it.",
+     "more": "Imagine the guest is looking at you and the silence feels long. One short sentence fills the gap, like a small bridge over a stream: Einen Moment, bitte. Then say what you will do: Ich frage kurz nach. When you walk away, promise to come back: Ich komme sofort. In English you would say just a moment, let me check, I will be right back. Three blocks, three seconds, and the guest relaxes.",
      "table": {
       "headers": [
        "Block",
@@ -13055,7 +13090,7 @@
       }
      ],
      "deeper": {
-      "text": "Reagieren is another -ieren verb: Leon hat ruhig reagiert, no ge-. You can also apologise with the reflexive verb from chapter 4: Ich entschuldige mich. And with a weil clause you can give the reason: Es tut mir leid, weil der Tisch reserviert ist. Keep the reason short; the guest wants a solution.",
+      "text": "Reagieren is another -ieren verb: Leon hat ruhig reagiert, no ge-. You can also apologise with the reflexive verb from chapter 4: Ich entschuldige mich für das Missverständnis. To give the reason, add aber and a short main clause: Es tut mir leid, aber der Tisch ist reserviert. Keep the reason short; the guest wants a solution, not a long story.",
       "example": {
        "de": "Ich entschuldige mich für das Missverständnis.",
        "en": "I apologise for the misunderstanding.",
@@ -13087,7 +13122,7 @@
        ]
       }
      },
-     "more": "When something goes wrong, two things help: a name for the problem and a sorry. The name: Das Problem ist der Tisch, or das ist ein Missverständnis. The sorry: Es tut mir leid. Say it calmly, not too fast. A calm voice is half the solution: Leon reagiert ruhig, so the guest calms down too.",
+     "more": "When something goes wrong, think of a good doctor. First the doctor names the problem, then says it will be all right. You do the same: Das ist ein Missverständnis, or Das Problem ist der Tisch. Then you say sorry: Es tut mir leid. Say it slowly and calmly. A calm voice is half the solution: Leon reagiert ruhig, so the guest calms down too, and step 4 can begin.",
      "table": {
       "headers": [
        "Word",
@@ -13250,7 +13285,7 @@
        ]
       }
      },
-     "more": "Think of könnte as an open hand: you offer, you do not decide for the guest. Ich gebe Ihnen den Tisch sounds like an order. Ich könnte Ihnen den Tisch geben sounds like a gift. Keep the frame: subject, könnte, the middle part, the infinitive at the end. Never put the infinitive in the middle: Ich könnte Ihnen geben den Tisch is wrong.",
+     "more": "Think of könnte as an open hand: you offer, you do not decide for the guest. Ich gebe Ihnen den Tisch sounds like an order. Ich könnte Ihnen den Tisch geben sounds like a gift. Keep the frame: subject, könnte, the middle part, the infinitive at the end. Never put the infinitive in the middle: Ich könnte Ihnen geben den Tisch is wrong. English could works the same way: I could give you the table.",
      "table": {
       "headers": [
        "Subject",
@@ -13349,7 +13384,7 @@
       }
      ],
      "deeper": {
-      "text": "Herrn Alis is the genitive of a name from chapter 3: with Herr the title also changes to Herrn. Feedback often uses a weil or dass clause: Herr Ali sagt, dass Leon zuverlässig ist. Ich bin froh, weil die Situation gut war. The verb goes to the end of the clause.",
+      "text": "Herrn Alis is the genitive of a name from chapter 3: with Herr the title also changes to Herrn. Feedback often uses a weil or dass clause: Herr Ali sagt, dass Leon zuverlässig ist. Herr Ali ist froh, weil Leon so ruhig war. The verb goes to the end of the clause.",
       "example": {
        "de": "Herr Ali sagt, dass Leon zuverlässig ist.",
        "en": "Mr Ali says that Leon is reliable.",
@@ -13381,7 +13416,7 @@
        ]
       }
      },
-     "more": "Imagine a card in your pocket with four steps. A guest is unhappy. Step 1: Wie bitte? Könnten Sie das wiederholen? Step 2: Einen Moment, ich frage kurz nach. Step 3: Es tut mir leid. Step 4: Ich könnte Ihnen … geben. Use the four steps in order, and you will sound calm and polite, at work and anywhere else.",
+     "more": "Imagine a card in your pocket with four steps. A guest is unhappy. Step 1: Wie bitte? Könnten Sie das wiederholen? Step 2: Einen Moment, ich frage kurz nach. Step 3: Es tut mir leid. Step 4: Ich könnte Ihnen … geben. Use the four steps in order, and you will sound calm and polite, at work and anywhere else. Write the four steps on a real card tonight.",
      "steps": [
       "Ask again: Könnten Sie das bitte wiederholen?",
       "Buy time: Einen Moment, bitte. Ich frage kurz nach.",
@@ -13392,7 +13427,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:4vriPwOPpSg"
+     "yt:4vriPwOPpSg",
+     "yt:ELLKtyQVnaQ"
     ],
     "nicosWeg": [
      "nw:b1-18"
@@ -14627,12 +14663,12 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Ich hoffe, dass Sie mir helfen ___. (könnte, with Sie)",
+      "prompt": "Complete: Ich glaube, dass Sie mir helfen ___. (könnte, with Sie)",
       "answers": [
        "könnten"
       ],
       "hint": "After wenn the verb is last.",
-      "explanation": "Ich hoffe, dass Sie mir helfen könnten.",
+      "explanation": "Ich glaube, dass Sie mir helfen könnten.",
       "grammar": true
      },
      {
