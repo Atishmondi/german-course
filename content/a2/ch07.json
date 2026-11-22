@@ -5043,7 +5043,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Weißt du, ob wir hier warten ___? (dürfen)",
+     "prompt": "Complete: Weißt du, ob wir hier warten ___? (may)",
      "answers": [
       "dürfen"
      ],
@@ -6948,7 +6948,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Wir ___ am Samstag eine Radtour machen. (werden)",
+     "prompt": "Complete: Wir ___ am Samstag eine Radtour machen. (future)",
      "answers": [
       "werden"
      ],
@@ -15283,7 +15283,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Zuerst ___ sie die Fahrkarten gekauft. (haben)",
+     "prompt": "Complete: Zuerst ___ sie die Fahrkarten gekauft. (to have)",
      "answers": [
       "haben"
      ],
@@ -15700,7 +15700,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Complete: Das Diagramm zeigt, wie viele Leute mit dem Bus ___. (fahren)",
+     "prompt": "Complete: Das Diagramm zeigt, wie viele Leute mit dem Bus ___. (to drive)",
      "answers": [
       "fahren"
      ],
@@ -16961,7 +16961,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Das Diagramm zeigt, wie viele Leute mit dem Rad ___. (fahren)",
+      "prompt": "Complete: Das Diagramm zeigt, wie viele Leute mit dem Rad ___. (to drive)",
       "answers": [
        "fahren"
       ],
@@ -16971,7 +16971,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Die meisten ___ mit dem Bus. (fahren)",
+      "prompt": "Complete: Die meisten ___ mit dem Bus. (to drive)",
       "answers": [
        "fahren"
       ],
@@ -16991,7 +16991,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Zuerst ___ sie die Fahrkarten gekauft. (haben)",
+      "prompt": "Complete: Zuerst ___ sie die Fahrkarten gekauft. (to have)",
       "answers": [
        "haben"
       ],

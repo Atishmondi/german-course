@@ -3868,7 +3868,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wie viel ___ Sie? (wiegen)",
+     "prompt": "Wie viel ___ Sie? (to weigh)",
      "answers": [
       "wiegen"
      ],
@@ -5269,7 +5269,7 @@
    "drills": [
     {
      "type": "type",
-     "prompt": "___ Sie viel Tee! (trinken)",
+     "prompt": "___ Sie viel Tee! (to drink)",
      "answers": [
       "Trinken"
      ],
@@ -5296,7 +5296,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie eine Tablette! (nehmen)",
+     "prompt": "___ Sie eine Tablette! (to take)",
      "answers": [
       "Nehmen"
      ],
@@ -5399,7 +5399,7 @@
     },
     {
      "type": "type",
-     "prompt": "Rufen Sie mich ___. (an)",
+     "prompt": "Rufen Sie mich ___. (at)",
      "answers": [
       "an"
      ],
@@ -5465,7 +5465,7 @@
     },
     {
      "type": "type",
-     "prompt": "Stehen Sie langsam ___. (auf)",
+     "prompt": "Stehen Sie langsam ___. (on)",
      "answers": [
       "auf"
      ],
@@ -6904,7 +6904,7 @@
     },
     {
      "type": "type",
-     "prompt": "Mach die Augen ___. (zu)",
+     "prompt": "Mach die Augen ___. (too)",
      "answers": [
       "zu"
      ],
@@ -9666,7 +9666,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ heute nicht arbeiten. (dürfen)",
+     "prompt": "Wir ___ heute nicht arbeiten. (may)",
      "answers": [
       "dürfen"
      ],
@@ -9764,7 +9764,7 @@
    "check": [
     {
      "type": "choice",
-     "prompt": "Mira ___ heute nicht arbeiten. (darf)",
+     "prompt": "Mira ___ heute nicht arbeiten. (dürfen)",
      "options": [
       "darfst",
       "dürfen",
@@ -9867,7 +9867,7 @@
     },
     {
      "type": "type",
-     "prompt": "Man darf hier nicht ___. (telefonieren)",
+     "prompt": "Man darf hier nicht ___. (to phone)",
      "answers": [
       "telefonieren"
      ],
@@ -11276,7 +11276,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Tabletten nehmen. (sollen)",
+     "prompt": "Wir ___ Tabletten nehmen. (to be supposed to)",
      "answers": [
       "sollen"
      ],
@@ -13927,7 +13927,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "___ Sie dreimal am Tag eine Tablette! (nehmen)",
+      "prompt": "___ Sie dreimal am Tag eine Tablette! (to take)",
       "answers": [
        "Nehmen"
       ],

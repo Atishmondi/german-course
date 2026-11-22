@@ -3653,7 +3653,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ mit dem Zug. (fahren)",
+     "prompt": "Wir ___ mit dem Zug. (to drive)",
      "answers": [
       "fahren"
      ],
@@ -6148,7 +6148,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie geradeaus! (gehen)",
+     "prompt": "___ Sie geradeaus! (to go)",
      "answers": [
       "Gehen"
      ],
@@ -6158,7 +6158,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie die U-Bahn! (nehmen)",
+     "prompt": "___ Sie die U-Bahn! (to take)",
      "answers": [
       "Nehmen"
      ],
@@ -6266,7 +6266,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie bitte links! (gehen)",
+     "prompt": "___ Sie bitte links! (to go)",
      "answers": [
       "Gehen"
      ],
@@ -6276,7 +6276,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie das Taxi! (nehmen)",
+     "prompt": "___ Sie das Taxi! (to take)",
      "answers": [
       "Nehmen"
      ],
@@ -8648,7 +8648,7 @@
      },
      {
       "type": "type",
-      "prompt": "___ Sie geradeaus! (gehen)",
+      "prompt": "___ Sie geradeaus! (to go)",
       "answers": [
        "Gehen"
       ],

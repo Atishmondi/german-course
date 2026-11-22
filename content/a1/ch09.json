@@ -7934,7 +7934,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ben und Anna ___ auf dem Sofa. (sitzen)",
+     "prompt": "Ben und Anna ___ auf dem Sofa. (to sit)",
      "answers": [
       "sitzen"
      ],
@@ -14746,7 +14746,7 @@
     },
     {
      "type": "type",
-     "prompt": "Das Bad ist in ___. (Ordnung)",
+     "prompt": "Das Bad ist in ___. (order)",
      "answers": [
       "Ordnung"
      ],

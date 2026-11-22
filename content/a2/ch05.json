@@ -5699,7 +5699,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Könnten Sie mir bitte ___? (helfen)",
+     "prompt": "Complete: Könnten Sie mir bitte ___? (to help)",
      "answers": [
       "helfen"
      ],
@@ -5921,7 +5921,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich möchte meinen Wohnsitz ___. (anmelden)",
+     "prompt": "Complete: Ich möchte meinen Wohnsitz ___. (to register)",
      "answers": [
       "anmelden"
      ],
@@ -7190,7 +7190,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Könnten Sie bitte kurz ___? (warten)",
+     "prompt": "Complete: Könnten Sie bitte kurz ___? (to wait)",
      "answers": [
       "warten"
      ],
@@ -8744,7 +8744,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Gehen Sie über ___ Brücke. (die)",
+     "prompt": "Complete: Gehen Sie über ___ Brücke. (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -9172,7 +9172,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Anna freut ___ auf das Wochenende. (sich)",
+     "prompt": "Complete: Anna freut ___ auf das Wochenende. (reflexive pronoun)",
      "answers": [
       "sich"
      ],
@@ -13621,7 +13621,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Die ___ ist schwierig. (situation)",
+     "prompt": "Complete: Die ___ ist schwierig. (how things are at the moment)",
      "answers": [
       "Situation"
      ],
@@ -14607,7 +14607,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "Complete: Könnten Sie mir bitte ___? (helfen)",
+      "prompt": "Complete: Könnten Sie mir bitte ___? (to help)",
       "answers": [
        "helfen"
       ],

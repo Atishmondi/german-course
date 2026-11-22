@@ -8875,7 +8875,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Schade, dass wir verloren ___. (haben)",
+     "prompt": "Complete: Schade, dass wir verloren ___. (to have)",
      "answers": [
       "haben"
      ],
@@ -14255,7 +14255,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Hoffentlich ___ wir das Finale. (gewinnen)",
+      "prompt": "Complete: Hoffentlich ___ wir das Finale. (to win)",
       "answers": [
        "gewinnen"
       ],

@@ -7145,7 +7145,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Wenn es regnet, ___ wir ein Brettspiel spielen. (werden)",
+     "prompt": "Complete: Wenn es regnet, ___ wir ein Brettspiel spielen. (future)",
      "answers": [
       "werden"
      ],
@@ -7230,7 +7230,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich werde pünktlich ___. (sein)",
+     "prompt": "Complete: Ich werde pünktlich ___. (to be)",
      "answers": [
       "sein"
      ],
@@ -10145,7 +10145,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: ___ Sie bitte ein! (steigen)",
+     "prompt": "Complete: ___ Sie bitte ein! (to rise)",
      "answers": [
       "Steigen"
      ],
@@ -14301,7 +14301,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Am Samstag werde ich ein Brettspiel ___. (spielen)",
+      "prompt": "Complete: Am Samstag werde ich ein Brettspiel ___. (to play)",
       "answers": [
        "spielen"
       ],
@@ -14311,7 +14311,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Ich werde dich morgen ___. (anrufen)",
+      "prompt": "Complete: Ich werde dich morgen ___. (to call)",
       "answers": [
        "anrufen"
       ],
@@ -14321,7 +14321,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Wenn es regnet, ___ wir ins Kino gehen. (werden)",
+      "prompt": "Complete: Wenn es regnet, ___ wir ins Kino gehen. (future)",
       "answers": [
        "werden"
       ],
@@ -14734,7 +14734,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Wann ___ wir? (fahren)",
+      "prompt": "Complete: Wann ___ wir? (to drive)",
       "answers": [
        "fahren"
       ],
@@ -14744,7 +14744,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: ___ Sie bitte ein! (steigen)",
+      "prompt": "Complete: ___ Sie bitte ein! (to rise)",
       "answers": [
        "Steigen"
       ],
@@ -14764,7 +14764,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Eine Studie zeigt, dass viele im Homeoffice ___. (arbeiten)",
+      "prompt": "Complete: Eine Studie zeigt, dass viele im Homeoffice ___. (to work)",
       "answers": [
        "arbeiten"
       ],

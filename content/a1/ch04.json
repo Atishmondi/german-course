@@ -858,7 +858,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Saft. (trinken)",
+     "prompt": "Wir ___ Saft. (to drink)",
      "answers": [
       "trinken"
      ],
@@ -4756,7 +4756,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Suppe. (möchten)",
+     "prompt": "Wir ___ Suppe. (would like)",
      "answers": [
       "möchten"
      ],
@@ -6167,7 +6167,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Suppe. (mögen)",
+     "prompt": "Wir ___ Suppe. (to like)",
      "answers": [
       "mögen"
      ],
@@ -9010,7 +9010,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Brötchen. (nehmen)",
+     "prompt": "Wir ___ Brötchen. (to take)",
      "answers": [
       "nehmen"
      ],
@@ -10300,7 +10300,7 @@
     },
     {
      "type": "type",
-     "prompt": "Abends ___ wir Brot. (essen)",
+     "prompt": "Abends ___ wir Brot. (to eat)",
      "answers": [
       "essen"
      ],
@@ -11568,7 +11568,7 @@
     },
     {
      "type": "type",
-     "prompt": "___ Sie ein Stück Kuchen? (möchten)",
+     "prompt": "___ Sie ein Stück Kuchen? (would like)",
      "answers": [
       "Möchten"
      ],

@@ -2549,7 +2549,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ am Samstag. (feiern)",
+     "prompt": "Wir ___ am Samstag. (to celebrate)",
      "answers": [
       "feiern"
      ],
@@ -5467,7 +5467,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich rufe Mira ___. (an)",
+     "prompt": "Ich rufe Mira ___. (at)",
      "answers": [
       "an"
      ],
@@ -6890,7 +6890,7 @@
    "drills": [
     {
      "type": "type",
-     "prompt": "Ich muss um 7 Uhr ___. (aufstehen)",
+     "prompt": "Ich muss um 7 Uhr ___. (to get up)",
      "answers": [
       "aufstehen"
      ],
@@ -6985,7 +6985,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir wollen am Sonntag ___. (einkaufen)",
+     "prompt": "Wir wollen am Sonntag ___. (to shop)",
      "answers": [
       "einkaufen"
      ],
@@ -7018,7 +7018,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ ins Kino gehen. (wollen)",
+     "prompt": "Wir ___ ins Kino gehen. (to want to)",
      "answers": [
       "wollen"
      ],
@@ -8274,7 +8274,7 @@
     },
     {
      "type": "type",
-     "prompt": "Das ___ 12 Euro. (macht)",
+     "prompt": "Das ___ 12 Euro. (machen)",
      "answers": [
       "macht"
      ],
@@ -8351,7 +8351,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ zwei Eis. (nehmen)",
+     "prompt": "Wir ___ zwei Eis. (to take)",
      "answers": [
       "nehmen"
      ],

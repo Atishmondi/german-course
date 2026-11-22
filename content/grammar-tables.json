@@ -3062,7 +3062,8 @@
    "als + Perfekt: Als wir eingezogen sind, hat es geregnet. (the verb of the main clause comes right after the comma)",
    "als = one event in the past; wenn = every time (Immer wenn Anna geklingelt hat, …) or now/future.",
    "A dass-clause can stand first: Dass du hilfst, finde ich toll.",
-   "Unreal wenn: the Konjunktiv II form goes to the end of the wenn-part: Wenn ich mehr Zeit hätte, … / Wenn Anna nicht so müde wäre, …"
+   "Unreal wenn: the Konjunktiv II form goes to the end of the wenn-part: Wenn ich mehr Zeit hätte, … / Wenn Anna nicht so müde wäre, …",
+   "Relative clauses work the same way: comma, relative pronoun, verb at the end: …, die aus Hamburg kommt."
   ],
   "examples": [
    {
@@ -3457,7 +3458,11 @@
   "notes": [
    "Relative clause = a side sentence that describes a noun. The verb goes to the end.",
    "Gender and number come from the noun. The case comes from the job in the relative clause.",
-   "Same as der/die/das, except the dative plural: denen."
+   "Same as der/die/das, except the dative plural: denen.",
+   "In A2 you use the nominative and the accusative. The dative row comes in B1.",
+   "Comma before the relative pronoun, verb at the end: Die Band, die heute spielt, kommt aus Hamburg.",
+   "Nominative or accusative? Is the pronoun the subject of the side sentence? Der Sänger, der singt … (subject) / Der Sänger, den ich mag … (object). Only the masculine changes: der → den.",
+   "Relative pronoun das (one s) = which/that; dass (two s) = that after sagen, glauben, finden."
   ],
   "examples": [
    {
@@ -3465,14 +3470,191 @@
     "en": "That's the man who lives next to me."
    },
    {
-    "de": "Das ist die Frau, der ich oft helfe.",
-    "en": "That's the woman (whom) I often help."
+    "de": "Das ist das Bild, das Anna gemalt hat.",
+    "en": "That's the picture (that) Anna painted."
    }
   ],
   "videos": [
    "yt:XchW3E0kTPk"
   ],
   "chapter": "A2 ch 12; B1 ch 6"
+ },
+ {
+  "id": "a2-indefinite",
+  "level": "a2",
+  "group": "Pronouns",
+  "title": "Indefinite pronouns: jemand, niemand, etwas, nichts",
+  "why": "Words for people or things when you don't say exactly who or what: someone, no one, everything, nothing.",
+  "headers": [
+   "Meaning",
+   "people",
+   "things"
+  ],
+  "rows": [
+   [
+    "some … / any …",
+    "jemand",
+    "etwas"
+   ],
+   [
+    "no …",
+    "niemand",
+    "nichts"
+   ],
+   [
+    "all / every …",
+    "alle",
+    "alles"
+   ],
+   [
+    "many / much",
+    "viele",
+    "viel"
+   ],
+   [
+    "a few / a little",
+    "einige",
+    "wenig"
+   ],
+   [
+    "people in general",
+    "man",
+    "–"
+   ]
+  ],
+  "notes": [
+   "jemand, niemand, man, alles, etwas, nichts take a singular verb: Niemand hat Zeit. Alles ist teuer.",
+   "alle, viele, einige take a plural verb: Alle sind müde. Viele kommen mit.",
+   "alle = all people (plural); alles = everything (singular).",
+   "As an object you can say jemanden / niemanden: Ich sehe niemanden."
+  ],
+  "examples": [
+   {
+    "de": "Hat jemand eine Taschenlampe?",
+    "en": "Does anyone have a torch?"
+   },
+   {
+    "de": "Ich habe nichts vergessen. Alles ist im Zelt.",
+    "en": "I haven't forgotten anything. Everything is in the tent."
+   }
+  ],
+  "videos": [
+   "yt:iFIOL1rssNc"
+  ],
+  "chapter": "A2 ch 12",
+  "lessons": []
+ },
+ {
+  "id": "a2-indef-einer",
+  "level": "a2",
+  "group": "Pronouns",
+  "title": "einer, keiner, welche: one, none, some",
+  "why": "Say 'I have one' or 'I don't have one' without repeating the noun.",
+  "headers": [
+   "Case",
+   "masc.",
+   "fem.",
+   "neuter",
+   "plural"
+  ],
+  "rows": [
+   [
+    "Nominative: one",
+    {
+     "t": "einer",
+     "g": "m"
+    },
+    {
+     "t": "eine",
+     "g": "f"
+    },
+    {
+     "t": "eins",
+     "g": "n"
+    },
+    {
+     "t": "welche",
+     "g": "pl"
+    }
+   ],
+   [
+    "Accusative: one",
+    {
+     "t": "einen",
+     "g": "m"
+    },
+    {
+     "t": "eine",
+     "g": "f"
+    },
+    {
+     "t": "eins",
+     "g": "n"
+    },
+    {
+     "t": "welche",
+     "g": "pl"
+    }
+   ],
+   [
+    "Nominative: none",
+    {
+     "t": "keiner",
+     "g": "m"
+    },
+    {
+     "t": "keine",
+     "g": "f"
+    },
+    {
+     "t": "keins",
+     "g": "n"
+    },
+    {
+     "t": "keine",
+     "g": "pl"
+    }
+   ],
+   [
+    "Accusative: none",
+    {
+     "t": "keinen",
+     "g": "m"
+    },
+    {
+     "t": "keine",
+     "g": "f"
+    },
+    {
+     "t": "keins",
+     "g": "n"
+    },
+    {
+     "t": "keine",
+     "g": "pl"
+    }
+   ]
+  ],
+  "notes": [
+   "The pronoun takes the gender of the noun you don't repeat: ein Kuli → einer / einen, ein Zelt → eins.",
+   "Like the article, but masc. nominative einer/keiner and neuter eins/keins.",
+   "Plural: there is no 'ein' plural, so you say welche (some): Ich habe welche."
+  ],
+  "examples": [
+   {
+    "de": "Hast du einen Becher? – Ja, ich habe einen.",
+    "en": "Do you have a cup? – Yes, I have one."
+   },
+   {
+    "de": "Brauchst du Snacks? – Nein, ich habe noch welche.",
+    "en": "Do you need snacks? – No, I still have some."
+   }
+  ],
+  "videos": [
+   "yt:iFIOL1rssNc"
+  ],
+  "chapter": "A2 ch 12",
+  "lessons": []
  },
  {
   "id": "a2-verb-prep",

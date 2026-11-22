@@ -9913,7 +9913,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Deutsch sprechen. (können)",
+     "prompt": "Wir ___ Deutsch sprechen. (can)",
      "answers": [
       "können"
      ],
@@ -10101,7 +10101,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wo kann ich Kaffee ___? (kaufen)",
+     "prompt": "Wo kann ich Kaffee ___? (to buy)",
      "answers": [
       "kaufen"
      ],
@@ -10144,7 +10144,7 @@
     },
     {
      "type": "type",
-     "prompt": "Am Abend kann ich Suppe ___. (kochen)",
+     "prompt": "Am Abend kann ich Suppe ___. (to cook)",
      "answers": [
       "kochen"
      ],
@@ -10337,7 +10337,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich kann Deutsch ___. (sprechen)",
+     "prompt": "Ich kann Deutsch ___. (to speak)",
      "answers": [
       "sprechen"
      ],
@@ -10346,7 +10346,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir können gut ___. (kochen)",
+     "prompt": "Wir können gut ___. (to cook)",
      "answers": [
       "kochen"
      ],
@@ -11447,7 +11447,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Tennis spielen. (wollen)",
+     "prompt": "Wir ___ Tennis spielen. (to want to)",
      "answers": [
       "wollen"
      ],
@@ -11573,7 +11573,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wollt ihr Pizza ___? (essen)",
+     "prompt": "Wollt ihr Pizza ___? (to eat)",
      "answers": [
       "essen"
      ],
@@ -11748,7 +11748,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Wir ___ lernen. (müssen)",
+     "prompt": "Wir ___ lernen. (must)",
      "answers": [
       "müssen"
      ],

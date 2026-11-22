@@ -1047,7 +1047,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ gern am Meer wohnen. (würde)",
+     "prompt": "Wir ___ gern am Meer wohnen. (werden, Konjunktiv II)",
      "answers": [
       "würden"
      ],
@@ -1057,7 +1057,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ihr ___ gern länger schlafen. (würde)",
+     "prompt": "Ihr ___ gern länger schlafen. (werden, Konjunktiv II)",
      "answers": [
       "würdet"
      ],
@@ -1099,7 +1099,7 @@
     },
     {
      "type": "type",
-     "prompt": "Am liebsten ___ ich zaubern. (würde)",
+     "prompt": "Am liebsten ___ ich zaubern. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
@@ -1174,7 +1174,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wohin ___ du gern fahren? (würde)",
+     "prompt": "Wohin ___ du gern fahren? (werden, Konjunktiv II)",
      "answers": [
       "würdest"
      ],
@@ -1216,7 +1216,7 @@
     },
     {
      "type": "type",
-     "prompt": "Anna hat keine Zeit. Sie würde gern Gitarre ___. (spielen)",
+     "prompt": "Anna hat keine Zeit. Sie würde gern Gitarre ___. (to play)",
      "answers": [
       "spielen"
      ],
@@ -2886,7 +2886,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Ich ___ gern eine Weltreise machen. (würde)",
+     "prompt": "Ich ___ gern eine Weltreise machen. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
@@ -4228,7 +4228,7 @@
     },
     {
      "type": "type",
-     "prompt": "Was ___ du machen, wenn du einen freien Tag hättest? (würde)",
+     "prompt": "Was ___ du machen, wenn du einen freien Tag hättest? (werden, Konjunktiv II)",
      "answers": [
       "würdest"
      ],
@@ -4300,7 +4300,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wenn ich mehr Geld hätte, ___ ich ein Ferienhaus. (haben)",
+     "prompt": "Wenn ich reich wäre, ___ ich ein Ferienhaus. (haben)",
      "answers": [
       "hätte"
      ],
@@ -5978,7 +5978,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Ich ___ gern ausschlafen. (würde)",
+     "prompt": "Ich ___ gern ausschlafen. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
@@ -7365,7 +7365,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "An deiner Stelle ___ ich eine Pause machen. (würde)",
+     "prompt": "An deiner Stelle ___ ich eine Pause machen. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
@@ -11351,7 +11351,7 @@
     },
     {
      "type": "type",
-     "prompt": "Hauptsache, wir ___ Spaß. (haben)",
+     "prompt": "Hauptsache, wir ___ Spaß. (to have)",
      "answers": [
       "haben"
      ],
@@ -11558,7 +11558,7 @@
     },
     {
      "type": "type",
-     "prompt": "An deiner Stelle ___ ich früher ins Bett gehen. (würde)",
+     "prompt": "An deiner Stelle ___ ich früher ins Bett gehen. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
@@ -17232,7 +17232,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wenn wir in der Zukunft leben ___, würden wir vielleicht keine Autos brauchen. (würde-form, wir)",
+     "prompt": "Wenn wir in der Zukunft leben ___, hätten wir vielleicht keine Autos. (würde-form, wir)",
      "answers": [
       "würden"
      ],
@@ -17875,7 +17875,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "Ich ___ gern ausschlafen. (würde)",
+      "prompt": "Ich ___ gern ausschlafen. (werden, Konjunktiv II)",
       "answers": [
        "würde"
       ],
@@ -17885,7 +17885,7 @@
      },
      {
       "type": "type",
-      "prompt": "___ du gern segeln? (würde)",
+      "prompt": "___ du gern segeln? (werden, Konjunktiv II)",
       "answers": [
        "Würdest"
       ],
@@ -17945,7 +17945,7 @@
      },
      {
       "type": "type",
-      "prompt": "Wenn wir mehr Zeit hätten, ___ wir öfter töpfern. (würde)",
+      "prompt": "Wenn wir mehr Zeit hätten, ___ wir öfter töpfern. (werden, Konjunktiv II)",
       "answers": [
        "würden"
       ],
@@ -18342,7 +18342,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "An deiner Stelle ___ ich mehr schlafen. (würde)",
+      "prompt": "An deiner Stelle ___ ich mehr schlafen. (werden, Konjunktiv II)",
       "answers": [
        "würde"
       ],
@@ -18787,7 +18787,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: ___ wen wartest du? – Auf Leon.",
+      "prompt": "Complete: ___ wen wartest du? – Leon.",
       "answers": [
        "Auf"
       ],

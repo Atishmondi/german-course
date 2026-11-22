@@ -1738,7 +1738,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wie ___ Sie? (heißen)",
+     "prompt": "Wie ___ Sie? (to be called)",
      "answers": [
       "heißen",
       "heissen"
@@ -1882,7 +1882,7 @@
     },
     {
      "type": "type",
-     "prompt": "Guten Tag, Frau Weber! Wie ___ Sie? (heißen)",
+     "prompt": "Guten Tag, Frau Weber! Wie ___ Sie? (to be called)",
      "answers": [
       "heißen",
       "heissen"
@@ -3186,7 +3186,7 @@
     },
     {
      "type": "type",
-     "prompt": "Woher ___ Sie? (kommen)",
+     "prompt": "Woher ___ Sie? (to come)",
      "answers": [
       "kommen"
      ],
@@ -7572,7 +7572,7 @@
      },
      {
       "type": "type",
-      "prompt": "Guten Tag! Wie ___ Sie? (heißen) — polite",
+      "prompt": "Guten Tag! Wie ___ Sie? (to be called) — polite",
       "answers": [
        "heißen",
        "heissen"

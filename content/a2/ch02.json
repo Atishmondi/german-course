@@ -11184,7 +11184,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir warten in ___ Aula. (die)",
+     "prompt": "Wir warten in ___ Aula. (Wohin? article)",
      "answers": [
       "der"
      ],
@@ -11194,7 +11194,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich gehe in ___ Schwimmhalle. (die)",
+     "prompt": "Ich gehe in ___ Schwimmhalle. (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -14554,7 +14554,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ben geht in ___ Berufsschule. (die)",
+     "prompt": "Ben geht in ___ Berufsschule. (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -14635,7 +14635,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich gehe an ___ Hochschule. (die)",
+     "prompt": "Ich gehe an ___ Hochschule. (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -14716,7 +14716,7 @@
     },
     {
      "type": "type",
-     "prompt": "In Österreich gibt es ___ Matura. (die)",
+     "prompt": "In Österreich gibt es ___ Matura. (article)",
      "answers": [
       "die"
      ],
@@ -16093,7 +16093,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "Ich gehe in ___ Aula. (die)",
+      "prompt": "Ich gehe in ___ Aula. (Wohin? article)",
       "answers": [
        "die"
       ],
@@ -16189,7 +16189,7 @@
      },
      {
       "type": "type",
-      "prompt": "Ich gehe auf ___ Gymnasium. (das)",
+      "prompt": "Ich gehe auf ___ Gymnasium. (this)",
       "answers": [
        "das"
       ],

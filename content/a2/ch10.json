@@ -2655,7 +2655,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Häng das Poster bitte an ___ Wand! (die)",
+     "prompt": "Complete: Häng das Poster bitte an ___ Wand! (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -4092,7 +4092,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Jetzt sitzt sie auf ___ Tisch. (dem)",
+     "prompt": "Complete: Jetzt sitzt sie auf ___ Tisch. (der Tisch, Wo?)",
      "answers": [
       "dem"
      ],
@@ -9425,7 +9425,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Complete: Es stört mich, dass die Schuhe im Hausflur ___. (stehen)",
+     "prompt": "Complete: Es stört mich, dass die Schuhe im Hausflur ___. (to stand)",
      "answers": [
       "stehen"
      ],
@@ -11197,7 +11197,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Es stört mich, dass die Schuhe im Hausflur ___. (stehen)",
+     "prompt": "Complete: Es stört mich, dass die Schuhe im Hausflur ___. (to stand)",
      "answers": [
       "stehen"
      ],
@@ -15514,7 +15514,7 @@
     },
     {
      "type": "type",
-     "prompt": "Es stört mich, dass die Schuhe im Hausflur ___. (stehen)",
+     "prompt": "Es stört mich, dass die Schuhe im Hausflur ___. (to stand)",
      "answers": [
       "stehen"
      ],
@@ -18471,7 +18471,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Ich habe gehört, dass viele Deutsche einen Hund ___. (haben)",
+     "prompt": "Ich habe gehört, dass viele Deutsche einen Hund ___. (to have)",
      "answers": [
       "haben"
      ],
@@ -19255,7 +19255,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Kannst du den Karton bitte in den Flur ___? (stellen)",
+      "prompt": "Complete: Kannst du den Karton bitte in den Flur ___? (to put)",
       "answers": [
        "stellen"
       ],

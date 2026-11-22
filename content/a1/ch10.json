@@ -1402,7 +1402,7 @@
     },
     {
      "type": "type",
-     "prompt": "Polite question: Was ___ Sie gestern gemacht? (haben)",
+     "prompt": "Polite question: Was ___ Sie gestern gemacht? (to have)",
      "answers": [
       "haben"
      ],

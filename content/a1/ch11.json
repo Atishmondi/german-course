@@ -1410,7 +1410,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Hose ist ___. (grün)",
+     "prompt": "Die Hose ist ___. (green)",
      "answers": [
       "grün"
      ],
@@ -2863,7 +2863,7 @@
     },
     {
      "type": "type",
-     "prompt": "Welche ___ haben Sie? Ich habe Größe 40. (size)",
+     "prompt": "Welche ___ haben Sie? Ich brauche 40. (size)",
      "answers": [
       "Größe"
      ],
@@ -7401,7 +7401,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Schuhe ___ mir. (gefallen)",
+     "prompt": "Die Schuhe ___ mir. (to please)",
      "answers": [
       "gefallen"
      ],
@@ -7511,7 +7511,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Jeans ___ mir. (gefallen)",
+     "prompt": "Die Jeans ___ mir. (to please)",
      "answers": [
       "gefallen"
      ],
@@ -9004,7 +9004,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Schuhe ___ mir. (passen)",
+     "prompt": "Die Schuhe ___ mir. (to suit)",
      "answers": [
       "passen"
      ],
@@ -10554,7 +10554,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich möchte die Jacke ___. (anprobieren)",
+     "prompt": "Ich möchte die Jacke ___. (to try on)",
      "answers": [
       "anprobieren"
      ],
@@ -14802,7 +14802,7 @@
      },
      {
       "type": "type",
-      "prompt": "Die Schuhe ___ mir. (gefallen)",
+      "prompt": "Die Schuhe ___ mir. (to please)",
       "answers": [
        "gefallen"
       ],

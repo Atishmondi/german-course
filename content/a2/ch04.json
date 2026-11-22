@@ -3791,7 +3791,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: ___ Sie sich bitte! (setzen)",
+     "prompt": "Complete: ___ Sie sich bitte! (to sit down)",
      "answers": [
       "Setzen"
      ],
@@ -3885,7 +3885,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Mira muss sich ___. (konzentrieren)",
+     "prompt": "Complete: Mira muss sich ___. (to concentrate)",
      "answers": [
       "konzentrieren"
      ],
@@ -5455,7 +5455,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich rufe dich an, wenn ich nicht ___ kann. (kommen)",
+     "prompt": "Complete: Ich rufe dich an, wenn ich nicht ___ kann. (to come)",
      "answers": [
       "kommen"
      ],
@@ -6850,7 +6850,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Immer wenn wir ___, tanzt Leon. (feiern)",
+     "prompt": "Complete: Immer wenn wir ___, tanzt Leon. (to celebrate)",
      "answers": [
       "feiern"
      ],
@@ -11268,7 +11268,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Als Ben in Kiel ___, war das Wetter schön. (sein)",
+     "prompt": "Complete: Als Ben in Kiel ___, hatte er viel Zeit. (sein)",
      "answers": [
       "war"
      ],
@@ -11662,7 +11662,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Complete: Wenn Weihnachten ist, ___ wir die Wohnung. (schmücken)",
+     "prompt": "Complete: Wenn Weihnachten ist, ___ wir die Wohnung. (to decorate)",
      "answers": [
       "schmücken"
      ],
@@ -12776,7 +12776,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Danach ___ wir Fisch. (essen)",
+     "prompt": "Complete: Danach ___ wir Fisch. (to eat)",
      "answers": [
       "essen"
      ],

@@ -790,7 +790,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Fußball. (spielen)",
+     "prompt": "Wir ___ Fußball. (to play)",
      "answers": [
       "spielen"
      ],
@@ -851,7 +851,7 @@
     },
     {
      "type": "type",
-     "prompt": "Anna und Leon ___ Tennis. (spielen)",
+     "prompt": "Anna und Leon ___ Tennis. (to play)",
      "answers": [
       "spielen"
      ],
@@ -901,7 +901,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Tennis. (spielen)",
+     "prompt": "Wir ___ Tennis. (to play)",
      "answers": [
       "spielen"
      ],
@@ -3324,7 +3324,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ja, wir ___ gern. (reisen)",
+     "prompt": "Ja, wir ___ gern. (to travel)",
      "answers": [
       "reisen"
      ],
@@ -5496,7 +5496,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ Pizza. (essen)",
+     "prompt": "Wir ___ Pizza. (to eat)",
      "answers": [
       "essen"
      ],
@@ -6622,7 +6622,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ hier. (warten)",
+     "prompt": "Wir ___ hier. (to wait)",
      "answers": [
       "warten"
      ],
@@ -9299,7 +9299,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Frauen ___ gern. (kochen)",
+     "prompt": "Die Frauen ___ gern. (to cook)",
      "answers": [
       "kochen"
      ],
@@ -11054,7 +11054,7 @@
     "items": [
      {
       "type": "type",
-      "prompt": "Wir ___ Fußball. (spielen)",
+      "prompt": "Wir ___ Fußball. (to play)",
       "answers": [
        "spielen"
       ],
@@ -11108,7 +11108,7 @@
      },
      {
       "type": "type",
-      "prompt": "Wir ___ gern. (tanzen)",
+      "prompt": "Wir ___ gern. (to dance)",
       "answers": [
        "tanzen"
       ],
@@ -11117,7 +11117,7 @@
      },
      {
       "type": "type",
-      "prompt": "Anna und Leon ___ Zeit. (haben)",
+      "prompt": "Anna und Leon ___ Zeit. (to have)",
       "answers": [
        "haben"
       ],

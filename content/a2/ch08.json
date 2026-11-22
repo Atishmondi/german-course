@@ -1154,7 +1154,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Du solltest das Wort ___. (nachschlagen)",
+     "prompt": "Complete: Du solltest das Wort ___. (to look up)",
      "answers": [
       "nachschlagen"
      ],
@@ -4398,7 +4398,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich glaube, dass Ben eine Pause machen ___. (sollte)",
+     "prompt": "Complete: Ich glaube, dass Ben eine Pause machen ___. (sollen, Konjunktiv II)",
      "answers": [
       "sollte"
      ],
@@ -4510,7 +4510,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ben weiß nicht, ob er mehr üben ___. (sollte)",
+     "prompt": "Complete: Ben weiß nicht, ob er mehr üben ___. (sollen, Konjunktiv II)",
      "answers": [
       "sollte"
      ],
@@ -4586,7 +4586,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich finde, dass du mehr ___ solltest. (schlafen)",
+     "prompt": "Complete: Ich finde, dass du mehr ___ solltest. (to sleep)",
      "answers": [
       "schlafen"
      ],
@@ -7782,7 +7782,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ich sollte mehr ___. (lernen)",
+     "prompt": "Complete: Ich sollte mehr ___. (to learn)",
      "answers": [
       "lernen"
      ],
@@ -15555,7 +15555,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Auf dieser Folie ___ Sie die Hilfsangebote. (sehen)",
+      "prompt": "Complete: Auf dieser Folie ___ Sie die Hilfsangebote. (to see)",
       "answers": [
        "sehen"
       ],

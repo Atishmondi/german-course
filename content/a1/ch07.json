@@ -1353,7 +1353,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ich habe einen Laptop, aber ich ___ keinen Drucker. (haben)",
+     "prompt": "Mira hat einen Laptop, aber ich ___ keinen Drucker. (haben)",
      "answers": [
       "habe"
      ],
