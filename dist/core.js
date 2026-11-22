@@ -4,7 +4,8 @@
   const VERSION=2;
   const HINT_AFTER=2; // wrong tries before the hint shows and "Show answer" unlocks
 
-  const normalise=s=>String(s??'').normalize('NFC').toLocaleLowerCase('de').replace(/ß/g,'ss')
+  // ae/oe/ue count as ä/ö/ü (the course teaches this spelling for keyboards without umlauts)
+  const normalise=s=>String(s??'').normalize('NFC').toLocaleLowerCase('de').replace(/ß/g,'ss').replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue')
     .replace(/[.,!?;:„“”"'’‚‘«»()\-–—]/g,' ').replace(/\s+/g,' ').trim();
 
   const defaults=planId=>({version:VERSION,planId:planId||null,
