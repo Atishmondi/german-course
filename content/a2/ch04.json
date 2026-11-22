@@ -2000,7 +2000,7 @@
        ]
       }
      },
-     "more": "Langweilen is the quiet verb: nothing happens, the clock moves slowly, you check your phone. Wundern is the surprised verb: something is different from what you thought. Both take mich, dich, sich, uns, euch. If you want to say what surprised you, use über and the accusative, the same way as with freuen über. One block, two verbs.",
+     "more": "Picture two faces on a Sunday afternoon. Leon sits on the sofa, the clock ticks slowly, nothing happens: er langweilt sich. Then Anna looks out of the window and sees snow in May. She did not expect that: sie wundert sich. English needs two different shapes, I am bored and I wonder, but German uses one pattern for both: the verb plus mich, dich or sich. To name the surprise, add über and the accusative: über das Wetter.",
      "steps": [
       "Step 1: say Ich wundere mich.",
       "Step 2: what surprised you? Add über and the accusative.",
@@ -2104,39 +2104,35 @@
       }
      ],
      "deeper": {
-      "text": "In German you can fall in love with things and places too, not only with people, and it sounds natural: Ich verliebe mich in Berlin. The word in is always followed by the accusative here, because you move towards the new love. Like ordinary verbs, it is regular.",
+      "text": "In German you can fall in love with places and things too, and it sounds natural: Ich habe mich in Berlin verliebt. After in comes the accusative, the direction case, and in das usually shrinks to ins: Ben verliebt sich ins Café. For the state of being in love German uses the adjective verliebt with sein, without sich: Anna ist in Leon verliebt.",
       "example": {
-       "de": "Wir verlieben uns in das Café.",
-       "en": "We fall in love with the café.",
+       "de": "Anna ist in Leon verliebt.",
+       "en": "Anna is in love with Leon.",
        "parts": [
         [
-         "Wir",
+         "Anna",
          "subject"
         ],
         [
-         "verlieben",
+         "ist",
          "verb"
-        ],
-        [
-         "uns",
-         "reflexive"
         ],
         [
          "in",
          "preposition"
         ],
         [
-         "das",
-         "article"
+         "Leon",
+         "object"
         ],
         [
-         "Café.",
-         "noun"
+         "verliebt.",
+         "adjective"
         ]
        ]
       }
      },
-     "more": "Sich verlieben is a verb with a direction. You are moving from not in love to in love, so German says in and the accusative, the direction case. You can remember it as a little jump into the thing: in die Stadt, in die Musik. English says with, but German says in. Learn the whole block as one piece.",
+     "more": "In English you fall in love with someone. In German you jump into the love: sich verlieben in. Picture Anna on her first day in a new city. She walks through the old streets, sees the river and thinks: this is my place. Anna verliebt sich in die Stadt. Because it is a jump, a movement, the accusative follows: in die Stadt, in den Park, in die Musik. Say the whole block aloud as one piece.",
      "table": {
       "headers": [
        "Verb",
@@ -3240,7 +3236,7 @@
       }
      ],
      "deeper": {
-      "text": "When a name follows the verb in the sentence, the little word comes before the name, as you learned in lesson 1: Heute muss sich Ben beeilen. The infinitive still stays at the end. This is the same order as in Heute fühlt sich Mira besser. A modal sentence also works as a question: Müssen wir uns beeilen? The infinitive is always the last word.",
+      "text": "When a name follows the verb, the little word usually comes before the name, as in lesson 1: Heute muss sich Ben beeilen. Natives also say Heute muss Ben sich beeilen, and both are correct. With a pronoun only one order works: Heute muss er sich beeilen. The infinitive always stays at the very end, in a question too: Müssen wir uns beeilen?",
       "example": {
        "de": "Heute muss sich Ben beeilen.",
        "en": "Today Ben must hurry.",
@@ -3455,7 +3451,7 @@
       }
      ],
      "deeper": {
-      "text": "You can use both blocks in one sentence: Ich bedanke mich bei Frau Weber für die Torte. Bei names the person, für names the thing. The person has no article change here, because names do not take one. You will use this in the next lessons, whenever someone gives you a gift or helps you.",
+      "text": "You can use both blocks in one sentence: Ich bedanke mich bei Frau Weber für die Torte. Bei names the person and takes the dative: bei dir, bei Ihnen, bei meiner Mutter, and Herr becomes Herrn: bei Herrn Ali. Für names the thing and takes the accusative. In everyday speech many people simply say Danke für die Torte; sich bedanken sounds more careful and polite.",
       "example": {
        "de": "Ich bedanke mich bei Frau Weber für die Torte.",
        "en": "I thank Frau Weber for the cake.",
@@ -4412,7 +4408,7 @@
        ]
       }
      },
-     "more": "Think of a door with a sign: the main clause only walks through if the wenn part says yes. Ich gehe spazieren is the plan. Wenn das Wetter schön ist is the sign on the door. Inside the wenn part, the verb waits at the very end, just like after weil and dass, which you already know well.",
+     "more": "Think of a door with a sign on it. The main clause, Ich gehe spazieren, is the plan. The sign says Wenn das Wetter schön ist. Only if the sign says yes does the plan walk through the door. Compare English: I go for a walk if the weather is nice. English keeps the verb in the middle, is nice, but German sends it to the very end: wenn das Wetter schön ist. That is the same move you know from weil and dass.",
      "steps": [
       "Step 1: the main clause: Ich gehe spazieren.",
       "Step 2: a comma, then wenn.",
@@ -4872,7 +4868,7 @@
        ]
       }
      },
-     "more": "Think of a little film for each feeling. Sad: tears, die Tränen, and you cry, du weinst. Happy: a small smile, du lächelst, or a big laugh, du lachst. Wenn gives the film its scene: wenn Anna traurig ist, weint sie. You choose the scene, the feeling verb follows.",
+     "more": "Think of a little film for each feeling. Sad scene: Anna sits by the window, tears run down her face, die Tränen, and she cries: sie weint. Happy scene: Ben reads a message and a small smile appears: er lächelt. Funny scene: Leon tells a joke and everybody laughs out loud: alle lachen. Wenn gives each film its starting scene: Wenn Anna traurig ist, weint sie. Like English smile and laugh, lächeln is small and lachen is big.",
      "table": {
       "headers": [
        "Situation (wenn …)",
@@ -5217,7 +5213,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:9YOP2Vs6Zro"
+     "yt:9YOP2Vs6Zro",
+     "yt:sZQT-qtiueQ"
     ],
     "nicosWeg": [
      "nw:a2-59"
@@ -5844,7 +5841,7 @@
        "why": "New today: wenn = every time."
       }
      ],
-     "more": "English uses two words: if (maybe it happens) and whenever (it happens again and again). German uses wenn for both, and the word order does not change at all. Put immer in front, immer wenn, and everybody hears: this happens every time. Then you get the words for a small WG quarrel and for saying sorry."
+     "more": "English uses two words here: if (maybe it happens) and whenever (it happens again and again). German uses one word, wenn, for both, and the word order does not change at all. Picture the WG kitchen: every time Leon cooks, the pans pile up. That is a habit, so you can put immer in front: Immer wenn Leon kocht, ist die Küche schmutzig. After that you get the words for a small WG quarrel, for saying sorry and for making up."
     },
     {
      "title": "Immer wenn: every time something happens",
@@ -5983,7 +5980,7 @@
        ]
       }
      },
-     "more": "Think of a habit, something on repeat like a song. Every time Ben hears music, he sings. That is immer wenn. In lesson 4 you had a door with a sign: if yes, go through. Now the door opens every day at the same time. Same door, same order of words, but it happens again and again.",
+     "more": "Think of a habit, something on repeat like your favourite song. Every time Ben hears music, he sings: Immer wenn Ben Musik hört, singt er. In lesson 4 wenn was a door with a sign: if yes, go through. Now the same door opens every single day. Same door, same order of words: the verb at the end of the wenn part, then the next verb right after the comma. Only the meaning is new: again and again.",
      "steps": [
       "Step 1: immer wenn, then the subject: Immer wenn Ben",
       "Step 2: the rest, verb last: Musik hört,",
@@ -6262,7 +6259,7 @@
        ]
       }
      },
-     "more": "Picture two people pulling one rope. Each pulls, and the rope pulls back: that is why German says streiten sich, they argue with each other. The little word uns or sich shows that both sides are in it. Sauer is the face of the person who is angry, beleidigt is the face of the person who feels hurt.",
+     "more": "Picture two people pulling one rope. Each one pulls, and the other pulls back: that is why German says sie streiten sich, they argue with each other. The little word uns or sich shows that both sides are in it. Now look at their faces. Ben is sauer: red face, arms crossed. Leon is beleidigt: he looks away and says nothing. And often the whole thing began with a small Missverständnis, one message that nobody read.",
      "table": {
       "headers": [
        "German",
@@ -6390,7 +6387,7 @@
        ]
       }
      },
-     "more": "An apology has two halves, like a handshake. One person says: Entschuldige bitte, das ist meine Schuld. The other person takes the hand: Ich verzeihe dir. Bei dir means to you, the person who gets the sorry. Learn the pieces as blocks and say them aloud: they sound kind and they work.",
+     "more": "An apology has two halves, like a handshake. One person holds out a hand: Entschuldige bitte, das ist meine Schuld. The other person takes it: Ich verzeihe dir, or simply Kein Problem. In English you say sorry to someone; in German you say sorry bei someone: Ich entschuldige mich bei dir. Learn the pieces as blocks and say them aloud. A short, honest apology works better than a long speech, in German as in English.",
      "table": {
       "headers": [
        "Who",
@@ -6517,7 +6514,7 @@
        ]
       }
      },
-     "more": "Here is the little WG film. Scene 1, Schlechte Laune: the kitchen is dirty again, Ben is sauer, Leon is beleidigt. Scene 2, Die Nachricht: Leon writes, Entschuldige bitte, das ist meine Schuld, ich schäme mich. Scene 3, Alles wieder gut: they meet in the kitchen, cook together and say, Wir vertragen uns wieder.",
+     "more": "Here is the little WG film in three scenes. Scene 1, Schlechte Laune: the kitchen is dirty again, Ben is sauer, Leon is beleidigt. Scene 2, Die Nachricht: Leon writes, Entschuldige bitte, das ist meine Schuld, ich schäme mich. Scene 3, Alles wieder gut: they meet in the kitchen, cook together and laugh. Now they can say: Wir vertragen uns wieder. Notice that almost every scene has a reflexive verb in it.",
      "steps": [
       "Scene 1, Schlechte Laune: Ben und Leon streiten sich.",
       "Scene 2, Die Nachricht: Entschuldige bitte! Das ist meine Schuld.",
@@ -6526,7 +6523,7 @@
     },
     {
      "title": "Put it together: wenn, reflexive and Perfekt",
-     "body": "Now combine the parts of this chapter. A reflexive verb in the wenn clause: Wenn wir uns streiten, … The pronoun stands after the subject, the verb at the end. The main clause starts with its verb, and it can be in the Perfekt: Wenn wir uns gestritten haben, sind wir immer traurig.",
+     "body": "Now combine the parts of this chapter. A reflexive verb in the wenn clause: Wenn wir uns streiten, … The pronoun stands after the subject, the verb at the end. The main clause starts with its verb. The wenn clause can be in the Perfekt for what is finished first: Wenn wir uns gestritten haben, vertragen wir uns wieder.",
      "lead": "You have every piece now: wenn in two meanings, dann, and reflexive verbs for quarrels. This last card puts them together in longer sentences.",
      "examples": [
       {
@@ -6606,8 +6603,8 @@
        ]
       },
       {
-       "de": "Immer wenn wir uns gestritten haben, vertragen wir uns schnell.",
-       "en": "Every time we have argued, we make up quickly.",
+       "de": "Immer wenn wir uns gestritten haben, vertragen wir uns schnell wieder.",
+       "en": "Every time we have argued, we quickly make up again.",
        "parts": [
         [
          "Immer",
@@ -6646,50 +6643,54 @@
          "reflexive"
         ],
         [
-         "schnell.",
+         "schnell",
+         "other"
+        ],
+        [
+         "wieder.",
          "other"
         ]
        ]
       }
      ],
      "deeper": {
-      "text": "In the main clause after the comma the reflexive pronoun comes right after the subject: vertragen wir uns, verzeiht Ben ihm. In the wenn clause it comes right after the subject too: wenn wir uns streiten. In both halves the pronoun sticks to its subject. Only the verbs move: last in the wenn clause, first in the main clause.",
+      "text": "A Perfekt inside the wenn clause shows what is finished first: wenn wir uns gestritten haben means after we have argued. The main clause stays in the present and tells what follows: vertragen wir uns wieder. This mix of tenses is normal German, not a mistake. The helper haben or sein is the last word of the wenn clause, so in the middle you hear verb, comma, verb.",
       "example": {
-       "de": "Wenn ich mich schäme, entschuldige ich mich.",
-       "en": "When I am ashamed, I apologise.",
+       "de": "Wenn Leon gekocht hat, putzen wir zusammen.",
+       "en": "When Leon has cooked, we clean together.",
        "parts": [
         [
          "Wenn",
          "conjunction"
         ],
         [
-         "ich",
+         "Leon",
          "subject"
         ],
         [
-         "mich",
-         "reflexive"
+         "gekocht",
+         "verb2"
         ],
         [
-         "schäme,",
+         "hat,",
          "verbend"
         ],
         [
-         "entschuldige",
+         "putzen",
          "verb"
         ],
         [
-         "ich",
+         "wir",
          "subject"
         ],
         [
-         "mich.",
-         "reflexive"
+         "zusammen.",
+         "other"
         ]
        ]
       }
      },
-     "more": "Build it in three moves. First the short sentence: Wir streiten uns. Then the wenn version, with the verb at the end: wenn wir uns streiten. Then the main clause, verb first: sind wir traurig. Put a comma in the middle, and you have Wenn wir uns streiten, sind wir traurig. Check the middle: two verbs, one comma.",
+     "more": "Build it in three moves, like stacking bricks. First the short sentence: Wir streiten uns. Then the wenn version, with the verb sent to the end: wenn wir uns streiten. Then the main clause, verb first: sind wir danach traurig. Put a comma in the middle, and you have Wenn wir uns streiten, sind wir danach traurig. Check the middle of the sentence: two verbs, one comma. And notice that uns stays glued to wir in both halves.",
      "steps": [
       "Step 1: the short sentence: Wir streiten uns.",
       "Step 2: the wenn clause, verb last: Wenn wir uns streiten,",
@@ -6699,7 +6700,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:0YeaDRTD56M"
+     "yt:0YeaDRTD56M",
+     "yt:vQXxjNb7pHA"
     ],
     "nicosWeg": [
      "nw:a2-27"
@@ -6994,7 +6996,7 @@
        "en": "We often argue."
       }
      ],
-     "forms": "die Streite (rare)"
+     "forms": "usually no plural (several quarrels: die Streitigkeiten)"
     },
     {
      "de": "sich streiten",
@@ -7419,7 +7421,7 @@
        ]
       }
      },
-     "more": "Make a little calendar of life. A birthday every year: zum Geburtstag. A wedding, when two people marry: zur Hochzeit. An anniversary, when a shop is ten or twenty years old: zum Jubiläum. A farewell, when someone leaves: zum Abschied. The one thing that changes is zum or zur, and it follows der, die, das.",
+     "more": "Make a little calendar of life. A birthday every year: zum Geburtstag. A wedding, when two people marry: zur Hochzeit. An anniversary, when a shop or a club is ten or twenty years old: zum Jubiläum. A farewell, when a colleague leaves or a friend moves away: zum Abschied. English says on your birthday, but German says zum Geburtstag. Only zum or zur changes, and it follows the article: der and das take zum, die takes zur.",
      "table": {
       "headers": [
        "Occasion",
@@ -7555,7 +7557,7 @@
        ]
       }
      },
-     "more": "Picture your friend with great news, a wedding or a new job. You say three things: first the key phrase, Herzlichen Glückwunsch!, then a wish, Alles Gute!, then your own feeling, Ich freue mich für dich. Three short blocks, and it sounds natural. Never write für after Glückwunsch: it is zum or zur.",
+     "more": "Picture your friend with great news, a wedding or a new job. You say three things, one after the other. First the key phrase: Herzlichen Glückwunsch! Then a wish for the future: Alles Gute! Then your own feeling: Ich freue mich für dich. Three short blocks, and it sounds warm and natural. English says congratulations on, so learners often write für. Never write für after Glückwunsch: it is zum or zur, Herzlichen Glückwunsch zur Hochzeit.",
      "table": {
       "headers": [
        "You want to …",
@@ -7601,15 +7603,15 @@
        ]
       },
       {
-       "de": "Frau Webers Katze ist gestorben.",
-       "en": "Frau Weber’s cat has died.",
+       "de": "Herrn Alis Vater ist gestorben.",
+       "en": "Herr Ali’s father has died.",
        "parts": [
         [
-         "Frau Webers",
+         "Herrn Alis",
          "subject"
         ],
         [
-         "Katze",
+         "Vater",
          "noun"
         ],
         [
@@ -7678,7 +7680,7 @@
        ]
       }
      },
-     "more": "Here less is more. A few calm words are kinder than many. Say Es tut mir sehr leid, or write Mein herzliches Beileid on a card. Then offer help: Wenn Sie Hilfe brauchen, rufen Sie mich an. That one sentence shows you care, and it uses the wenn you know from this chapter.",
+     "more": "Here less is more. When someone is sad, a few calm words are kinder than many. Say Es tut mir sehr leid, or write Mein herzliches Beileid on a card when a person has died. For a pet, like Frau Weber’s old cat, the simple Es tut mir so leid sounds warmer. Then offer help: Wenn Sie Hilfe brauchen, rufen Sie mich an. That one sentence shows you care, and it uses the wenn from this chapter.",
      "steps": [
       "Step 1: the feeling: Es tut mir sehr leid.",
       "Step 2: on a card or for a person: Mein herzliches Beileid.",
@@ -7790,7 +7792,7 @@
        ]
       }
      },
-     "more": "Thanks are a little ladder. The lowest step is Danke! Then Vielen Dank! Then Vielen Dank für die Hilfe! At the top, for something big: Ich bin dir sehr dankbar. When someone thanks you, catch it with a short answer: Gern geschehen! It is like saying: it was a pleasure.",
+     "more": "Thanks are a little ladder. The lowest step is Danke! for a small thing, like a door held open. Then Vielen Dank! Then Vielen Dank für die Hilfe! with the reason. At the top, for something big, like a friend who helped you move: Ich bin dir sehr dankbar. When someone thanks you, catch it with a short answer: Gern geschehen! It is like saying it was a pleasure. Kein Problem! is more relaxed and fits friends.",
      "table": {
       "headers": [
        "Step",
@@ -7953,7 +7955,7 @@
        ]
       }
      },
-     "more": "Picture two faces. The happy face says Wie schön! or Toll, dass du da bist! The sorry face says Schade, dass … or Es tut mir leid, dass … A common slip is Schade, dass du kannst nicht kommen. Remember dass: the modal goes last, and the infinitive waits before it: dass du nicht kommen kannst.",
+     "more": "Picture two faces. The happy face says Wie schön! or Toll, dass du da bist! The sorry face says Schade, dass … or Es tut mir leid, dass … Both faces use dass, so the verb runs to the end. A common slip is Schade, dass du kannst nicht kommen. Remember the dass rule: the modal goes last, and the infinitive waits before it: dass du nicht kommen kannst. Ich bedauere is the same sorry face in a suit and tie.",
      "table": {
       "headers": [
        "Joy",
@@ -7977,7 +7979,7 @@
     },
     {
      "title": "A short card: greeting, wish, wenn and closing",
-     "body": "A card has four parts. 1. Greeting: Lieber Herr Ali, … 2. The wish: Herzlichen Glückwunsch zum Jubiläum! 3. A personal sentence, maybe with wenn: Wenn Sie Hilfe brauchen, rufen Sie mich an! 4. Closing: Alles Gute! Viele Grüße, Mira. Short and warm is perfect.",
+     "body": "A card has four parts. 1. Greeting: Lieber Herr Ali, … 2. The wish: Herzlichen Glückwunsch zum Jubiläum! 3. A personal sentence, maybe with wenn: Wenn Sie Hilfe brauchen, rufen Sie mich an! 4. Closing: Alles Gute! Viele Grüße (no comma), the name on a new line. Short and warm is perfect.",
      "lead": "You have every block now: occasions, wishes, sympathy, thanks, joy and regret. This last card puts them into one short card text, the way people really write it.",
      "examples": [
       {
@@ -8100,18 +8102,19 @@
        ]
       }
      },
-     "more": "Write it like building a small house. The door is the greeting, Lieber Herr Ali. The main room is the wish, Herzlichen Glückwunsch zum Jubiläum! A small window is one personal sentence, Wenn Sie Hilfe brauchen, rufen Sie mich an. The roof is the closing: Alles Gute! Viele Grüße, Mira. Four parts, and your card is ready.",
+     "more": "Write it like building a small house. The door is the greeting: Lieber Herr Ali, with a comma, and the next line starts small. The main room is the wish: herzlichen Glückwunsch zum Jubiläum! A small window is one personal sentence: Wenn Sie Hilfe brauchen, rufen Sie mich an. The roof is the closing, Viele Grüße, with no comma after it, and your name, Mira, on the next line. Four parts, a few warm words, and your card is ready.",
      "steps": [
       "Step 1: greeting: Lieber Herr Ali,",
       "Step 2: the wish: herzlichen Glückwunsch zum Jubiläum!",
       "Step 3: a personal sentence: Wenn Sie Hilfe brauchen, rufen Sie mich an!",
-      "Step 4: closing: Alles Gute! Viele Grüße, Mira"
+      "Step 4: closing: Alles Gute! Viele Grüße (no comma), then Mira on a new line"
      ]
     }
    ],
    "media": {
     "grammarVideos": [
-     "yt:fWrCYzpXWfQ"
+     "yt:fWrCYzpXWfQ",
+     "yt:Wzk3yal5zh0"
     ],
     "nicosWeg": [
      "nw:a2-61",
@@ -8713,7 +8716,7 @@
     },
     {
      "title": "The festival year: Silvester, Karneval, Ostern, Weihnachten",
-     "body": "Silvester is the 31st of December, the last evening of the year. Karneval is in February, with costumes and parades. Ostern is in spring, Weihnachten is in December. A public holiday is der Feiertag: shops and offices are closed. Each festival has its own wish. Learn the wish as one block.",
+     "body": "Silvester is the 31st of December, the last evening of the year. Karneval is in February or early March, with costumes and parades. Ostern is in spring, Weihnachten is in December. A public holiday is der Feiertag: shops and offices are closed. Each festival has its own wish. Learn the wish as one block.",
      "lead": "You know the months and seasons from A1. Now you put the big German festivals into that year and learn the short wish that belongs to each one.",
      "examples": [
       {
@@ -8776,7 +8779,7 @@
       }
      ],
      "deeper": {
-      "text": "Weihnachten and Ostern are really plural words. That is why the wishes are Frohe Weihnachten! and Frohe Ostern! with -e: they are fixed blocks, so you do not need to build them. In a normal sentence you use the festival names without an article: Weihnachten ist im Dezember. Silvester works the same way.",
+      "text": "In normal sentences Weihnachten and Ostern are singular and take no article: Weihnachten ist im Dezember, Ostern war schön. In the wishes they behave like plurals, which is why you hear the -e: Frohe Weihnachten! Frohe Ostern! You also hear Fröhliche Weihnachten, which means the same. Silvester and Karneval also usually go without an article when you say what you do: Silvester feiern wir mit Freunden.",
       "example": {
        "de": "Silvester feiern wir mit Freunden.",
        "en": "We celebrate New Year’s Eve with friends.",
@@ -8819,7 +8822,7 @@
        ],
        [
         "Karneval",
-        "Februar",
+        "Februar oder März",
         "Helau! / Alaaf!"
        ],
        [
@@ -9580,7 +9583,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:tNrwiUGHMiU"
+     "yt:tNrwiUGHMiU",
+     "yt:U2Sc2UQmyq0"
     ],
     "nicosWeg": [
      "nw:a2-57",
@@ -9916,7 +9920,7 @@
        "en": "Anna celebrates carnival in Cologne."
       }
      ],
-     "forms": "die Karnevals"
+     "forms": "die Karnevale / die Karnevals"
     },
     {
      "de": "der Feiertag",
@@ -9976,7 +9980,7 @@
        "en": "We drink sparkling wine on New Year’s Eve."
       }
      ],
-     "forms": "die Sekte"
+     "forms": "die Sekte (kinds of Sekt)"
     },
     {
      "de": "schmücken",
@@ -10696,7 +10700,7 @@
       }
      ],
      "deeper": {
-      "text": "Small words in the sentence help you decide. Immer, jedes Mal, oft and manchmal show that something happens again and again: then you need wenn. Einmal, damals and zum ersten Mal show one single time: then you need als. If a sentence about the past already has immer in it, you can be almost sure that it needs wenn.",
+      "text": "Small words in the sentence help you decide. Immer, jedes Mal, oft and manchmal show that something happens again and again: then you need wenn. Einmal, damals and zum ersten Mal show one single time: then you need als. If a sentence about the past already has immer in it, you can be almost sure that it needs wenn. Careful: als in a comparison from chapter 3, größer als, is a different job and does not move any verb.",
       "example": {
        "de": "Als ich zum ersten Mal in Kiel war, war ich zehn.",
        "en": "When I was in Kiel for the first time, I was ten.",
@@ -11219,7 +11223,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:C7Ehqfq0AeQ"
+     "yt:C7Ehqfq0AeQ",
+     "yt:JtGT8F9brXs",
+     "yt:9YOP2Vs6Zro"
     ],
     "nicosWeg": [
      "nw:a2-58"
@@ -11375,7 +11381,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Every summer we were at the sea. Immer ___ Sommer war, waren wir am Meer.",
+     "prompt": "Every summer we were at the sea. Immer ___ es Sommer war, waren wir am Meer.",
      "options": [
       "als",
       "wenn",
@@ -11383,7 +11389,7 @@
      ],
      "answer": 1,
      "hint": "Every summer: again and again.",
-     "explanation": "Immer wenn Sommer war, waren wir am Meer.",
+     "explanation": "Immer wenn es Sommer war, waren wir am Meer.",
      "grammar": true
     },
     {
@@ -12693,7 +12699,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:3-pV9tY4VDg"
+     "yt:3-pV9tY4VDg",
+     "yt:AVwXXf57e9g"
     ],
     "nicosWeg": [
      "nw:a2-60",
@@ -13636,7 +13643,7 @@
    "day": 2,
    "reading": {
     "title": "Die Nachricht",
-    "text": "Liebe Mira, lieber Ben, lieber Leon, liebe Anna,\nmein Restaurant „Zum Löwen“ ist jetzt zwanzig Jahre alt! Ich bin sehr dankbar, denn ohne meine Gäste gibt es kein Restaurant. Das Jubiläum feiern wir am Samstag um 19 Uhr. Es gibt Musik und eine Torte. Wenn ihr Zeit habt, kommt bitte! Ich freue mich auf euch.\nViele Grüße Herr Ali\n\nLieber Herr Ali,\nherzlichen Glückwunsch zum Jubiläum! Wir freuen uns sehr für Sie. Vielen Dank für die Einladung! Ben, Anna und ich kommen gern. Schade, dass Leon nicht kommen kann. Er arbeitet am Samstag und ärgert sich sehr. Immer wenn wir bei Ihnen essen, ist die Stimmung super. Wenn Sie Hilfe brauchen, rufen Sie uns an!\nAlles Gute und bis Samstag,\nMira",
+    "text": "Liebe Mira, lieber Ben, lieber Leon, liebe Anna,\nmein Restaurant „Zum Löwen“ ist jetzt zwanzig Jahre alt! Ich bin sehr dankbar, denn ohne meine Gäste gibt es kein Restaurant. Das Jubiläum feiern wir am Samstag um 19 Uhr. Es gibt Musik und eine Torte. Wenn ihr Zeit habt, kommt bitte! Ich freue mich auf euch.\nViele Grüße Herr Ali\n\nLieber Herr Ali,\nherzlichen Glückwunsch zum Jubiläum! Wir freuen uns sehr für Sie. Vielen Dank für die Einladung! Ben, Anna und ich kommen gern. Schade, dass Leon nicht kommen kann. Er arbeitet am Samstag und ärgert sich sehr. Immer wenn wir bei Ihnen essen, ist die Stimmung super. Wenn Sie Hilfe brauchen, rufen Sie uns an!\nAlles Gute und bis Samstag\nMira",
     "glossary": [
      {
       "de": "Löwe",
@@ -14053,7 +14060,7 @@
     "free": {
      "prompt": "Eine Karte: write a short card (5 or 6 sentences) for an occasion: a wedding, an anniversary, a birthday or a farewell. Congratulate or thank, write one sentence with wenn, one with Schade, dass … or Es tut mir leid, dass …, and use one reflexive verb.",
      "minWords": 40,
-     "model": "Liebe Anna, lieber Ben, herzlichen Glückwunsch zur Hochzeit! Wir freuen uns sehr für euch. Vielen Dank für die Einladung. Leider muss ich am Samstag arbeiten. Schade, dass ich nicht kommen kann. Wenn ihr wieder zu Hause seid, feiern wir zusammen. Alles Gute und viele Grüße, Mira",
+     "model": "Liebe Anna, lieber Ben, herzlichen Glückwunsch zur Hochzeit! Wir freuen uns sehr für euch. Vielen Dank für die Einladung. Leider muss ich am Samstag arbeiten. Schade, dass ich nicht kommen kann. Wenn ihr wieder zu Hause seid, feiern wir zusammen. Alles Gute und viele Grüße\nMira",
      "checks": [
       {
        "label": "has a sentence with wenn",
