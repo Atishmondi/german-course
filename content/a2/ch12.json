@@ -49,17 +49,17 @@
    "cards": [
     {
      "intro": true,
-     "title": "Before we start: from 'Mira hat ein Zelt' to 'Hat jemand ein Zelt?'",
+     "title": "Before we start: from 'Mira hat Zeit' to 'Hat jemand Zeit?'",
      "body": "This last A2 chapter is called Gute Unterhaltung! (Enjoy the show!). It is about music, festivals and pictures. First the WG plans a weekend at the Sommerfestival near Kiel. Leon asks the big questions: Who comes? Who has a tent? When you do not know the name of the person, you need new little words: jemand, niemand, alle.",
      "steps": [
-      "You already know: Mira hat ein Zelt. Alle Leute sind da. Man braucht Tickets.",
+      "You already know: Mira hat Zeit. Alle Leute sind da. Man braucht Tickets.",
       "New today: Hat jemand ein Zelt? Niemand hat Zeit. Alle kommen mit. jemand and niemand take a singular verb, alle, viele and einige a plural verb.",
       "By the end you can: plan a festival weekend, ask who has something, and talk about people without names."
      ],
      "examples": [
       {
-       "de": "Mira hat ein Zelt.",
-       "en": "Mira has a tent.",
+       "de": "Mira hat Zeit.",
+       "en": "Mira has time.",
        "parts": [
         [
          "Mira",
@@ -70,15 +70,15 @@
          "verb"
         ],
         [
-         "ein Zelt.",
+         "Zeit.",
          "object"
         ]
        ],
        "why": "You know this: a name and a normal verb."
       },
       {
-       "de": "Hat jemand ein Zelt?",
-       "en": "Does anyone have a tent?",
+       "de": "Hat jemand Zeit?",
+       "en": "Does anyone have time?",
        "parts": [
         [
          "Hat",
@@ -89,7 +89,7 @@
          "subject"
         ],
         [
-         "ein Zelt?",
+         "Zeit?",
          "object"
         ]
        ],
@@ -447,7 +447,7 @@
     },
     {
      "title": "alle, viele, einige: plural verb",
-     "body": "For groups you need other words: alle (everyone), viele (many), einige (some, a few). They mean many people, so the verb is plural, like for wir and sie: Alle kommen mit. Viele fahren mit dem Zug. Only jemand and niemand take the singular verb.",
+     "body": "For groups you need other words: alle (everyone), viele (many), einige (some, a few). They mean many people, so the verb is plural, like for wir and sie: Alle kommen mit. Viele fahren mit dem Zug. jemand, niemand and man take the singular verb.",
      "lead": "jemand and niemand are one person. Now we look at the words for groups of people, and here the verb changes to the plural form.",
      "examples": [
       {
@@ -890,7 +890,7 @@
       "ist",
       "zu Hause."
      ],
-     "hint": "niemand in position 1, then the verb.",
+     "hint": "The no-person word is the subject: it takes position 1, then the verb.",
      "explanation": "Niemand ist zu Hause.",
      "grammar": true
     },
@@ -926,7 +926,7 @@
       "Niemand haben Zeit."
      ],
      "answer": 0,
-     "hint": "niemand already says no, and it takes the singular.",
+     "hint": "Think what the no-word already contains, and which verb form goes with er.",
      "explanation": "Niemand hat Zeit.",
      "grammar": true
     }
@@ -939,7 +939,7 @@
      "Hat jemand einen Schlafsack? Nein, niemand.",
      "Hat jemand einen Schlafsack? - Nein, niemand."
     ],
-    "hint": "Verb first, then jemand; der Schlafsack → einen.",
+    "hint": "Verb first, then the person word; the masculine object takes the object form of ein.",
     "explanation": "Hat jemand einen Schlafsack? – Nein, niemand.",
     "grammar": true
    },
@@ -966,7 +966,7 @@
       "No one is here."
      ],
      "answer": 2,
-     "hint": "niemand = no one.",
+     "hint": "Look at the word after ist: what does it already contain?",
      "explanation": "Hier ist niemand. = No one is here.",
      "grammar": true
     },
@@ -1008,7 +1008,7 @@
       "kein Glas",
       "mitbringen."
      ],
-     "hint": "man + darf, the infinitive at the end.",
+     "hint": "Start with the word for people in general; the infinitive goes last.",
      "explanation": "Man darf kein Glas mitbringen.",
      "grammar": true
     },
@@ -1057,7 +1057,7 @@
      "answers": [
       "der Schlafsack"
      ],
-     "hint": "der …",
+     "hint": "Masculine noun: a compound of sleep + bag.",
      "explanation": "der Schlafsack, die Schlafsäcke",
      "grammar": false
     },
@@ -1256,7 +1256,7 @@
      "answers": [
       "Hättest"
      ],
-     "hint": "Konjunktiv II: hätte, du → hättest.",
+     "hint": "Konjunktiv II of haben, du-form (it ends in -st).",
      "explanation": "Hättest du am Samstag Zeit?",
      "grammar": true
     },
@@ -1266,7 +1266,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "ich → würde.",
+     "hint": "The Konjunktiv II helper for would, ich-form.",
      "explanation": "Wenn ich Zeit hätte, würde ich mitkommen.",
      "grammar": true
     },
@@ -1286,7 +1286,7 @@
      "answers": [
       "solltest"
      ],
-     "hint": "du → solltest.",
+     "hint": "Konjunktiv II of sollen, du-form (it ends in -st).",
      "explanation": "Du solltest einen Regenschirm mitnehmen.",
      "grammar": true
     }
@@ -1981,6 +1981,156 @@
      ]
     },
     {
+     "title": "Words for the tent weekend",
+     "lead": "Many of Ben's things have their own names. This card collects them with their articles and forms, so you know every word before the practice questions.",
+     "body": "Nouns with article: die Powerbank, das Pflaster, die Regenjacke, das Mückenspray, die Mücke. Two verbs are separable: aufladen (lädt auf) means to charge, and dabeihaben (hat dabei) means to have with you: Ich habe nichts dabei. The small part goes to the end of the sentence.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "die Powerbank",
+        "power bank",
+        "die Powerbanks"
+       ],
+       [
+        "das Pflaster",
+        "plaster, band-aid",
+        "die Pflaster"
+       ],
+       [
+        "die Regenjacke",
+        "rain jacket",
+        "die Regenjacken"
+       ],
+       [
+        "das Mückenspray",
+        "insect spray",
+        "die Mückensprays"
+       ],
+       [
+        "die Mücke",
+        "mosquito",
+        "die Mücken"
+       ],
+       [
+        "aufladen / dabeihaben",
+        "to charge / to have with you",
+        "lädt auf / hat dabei"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Ich muss mein Handy aufladen.",
+       "en": "I have to charge my phone.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "mein Handy",
+         "object"
+        ],
+        [
+         "aufladen.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Hast du eine Regenjacke dabei?",
+       "en": "Do you have a rain jacket with you?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "eine Regenjacke",
+         "object"
+        ],
+        [
+         "dabei?",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Am See gibt es viele Mücken.",
+       "en": "There are many mosquitoes at the lake.",
+       "parts": [
+        [
+         "Am See",
+         "place"
+        ],
+        [
+         "gibt",
+         "verb"
+        ],
+        [
+         "es",
+         "subject"
+        ],
+        [
+         "viele Mücken.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "Mückenspray is a compound: Mücke plus das Spray, and the last word gives the article, so das Mückenspray. In the same way die Regenjacke is Regen plus die Jacke. When dabeihaben stands at the end of a clause, its two parts join again: weil ich nichts dabeihabe. You already know this from separable verbs after weil and in relative clauses.",
+      "example": {
+       "de": "Ich weiß nicht, ob Ben ein Pflaster dabeihat.",
+       "en": "I don't know if Ben has a plaster with him.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "weiß",
+         "verb"
+        ],
+        [
+         "nicht,",
+         "negation"
+        ],
+        [
+         "ob",
+         "conjunction"
+        ],
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "ein Pflaster",
+         "object"
+        ],
+        [
+         "dabeihat.",
+         "verbend"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine Ben's rucksack as a little shop. On the shelf lie the things: die Powerbank, das Pflaster, die Regenjacke and das Mückenspray. A mosquito, die Mücke, sits on the edge of the shelf. Ben wants to charge his phone: aufladen. Mira asks: Hast du das dabei? That is dabeihaben, to have it with you. Say the list once aloud and touch each thing in your head: article first, then the word."
+    },
+    {
      "title": "At the tent: Ben has nothing",
      "body": "Ben has forgotten almost everything. Read the six lines: Ben uses nichts, fast nichts (almost nothing) and the polite hättest. Mira helps, but at the end she asks with überhaupt (at all): Ben, hast du überhaupt etwas eingepackt? That means: did you pack anything at all?",
      "lead": "Now Ben needs all of today's words at once. In this mini dialogue you see nichts, etwas and the polite questions working together.",
@@ -2200,7 +2350,7 @@
      "answers": [
       "Könntest"
      ],
-     "hint": "du → könntest.",
+     "hint": "Konjunktiv II of können, du-form.",
      "explanation": "Könntest du mir deine Powerbank leihen?",
      "grammar": true
     },
@@ -2219,7 +2369,7 @@
       "ein Pflaster",
       "für mich?"
      ],
-     "hint": "hättest first, then du.",
+     "hint": "The Konjunktiv II of haben comes first, then the subject.",
      "explanation": "Hättest du ein Pflaster für mich?",
      "grammar": true
     },
@@ -2241,7 +2391,7 @@
      "Hast du etwas gegen Mücken? Ich habe nichts dabei.",
      "Hast du was gegen Mücken? Ich habe nichts dabei."
     ],
-    "hint": "etwas for a thing; dabei at the end.",
+    "hint": "Use the thing-word for something; the word for with me goes to the end.",
     "explanation": "Hast du etwas gegen Mücken? Ich habe nichts dabei.",
     "grammar": true
    },
@@ -2255,7 +2405,7 @@
       "etwas"
      ],
      "answer": 2,
-     "hint": "Twin pairs: jemand – etwas.",
+     "hint": "Each people word has a twin for things.",
      "explanation": "etwas = something.",
      "grammar": true
     },
@@ -2281,7 +2431,7 @@
       "Alles ist im Zelt."
      ],
      "answer": 2,
-     "hint": "Things: alles + singular.",
+     "hint": "Things, not people: the verb is singular.",
      "explanation": "Alles ist im Zelt.",
      "grammar": true
     },
@@ -2338,7 +2488,7 @@
       "nichts",
       "dabei."
      ],
-     "hint": "dabei at the end.",
+     "hint": "The little word that means with me goes to the end.",
      "explanation": "Tut mir leid, ich habe nichts dabei.",
      "grammar": true
     },
@@ -2590,7 +2740,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "Unreal: sein → wäre.",
+     "hint": "An unreal wenn-clause: the Konjunktiv II of sein.",
      "explanation": "Wenn das Wetter schön wäre, würden wir grillen.",
      "grammar": true
     }
@@ -3495,6 +3645,149 @@
      }
     },
     {
+     "title": "The things on the campsite",
+     "lead": "Before the pronoun questions, we need the things themselves. This card gathers the nouns of the lesson with their plurals, so each answer word has something to point to.",
+     "body": "Learn each noun with its article, because the article decides einer, eine or eins. Seven camping nouns come up all lesson: der Becher, die Wasserflasche, das Taschentuch, der Snack, der Klappstuhl, die Isomatte and der Müllbeutel. The table shows meaning and plural; a new one is the rubbish bag.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "der Becher",
+        "cup, mug",
+        "die Becher"
+       ],
+       [
+        "die Wasserflasche",
+        "water bottle",
+        "die Wasserflaschen"
+       ],
+       [
+        "das Taschentuch",
+        "tissue",
+        "die Taschentücher"
+       ],
+       [
+        "der Snack",
+        "snack",
+        "die Snacks"
+       ],
+       [
+        "der Klappstuhl",
+        "folding chair",
+        "die Klappstühle"
+       ],
+       [
+        "die Isomatte",
+        "sleeping mat",
+        "die Isomatten"
+       ],
+       [
+        "der Müllbeutel",
+        "rubbish bag",
+        "die Müllbeutel"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Der Müllbeutel ist voll.",
+       "en": "The rubbish bag is full.",
+       "parts": [
+        [
+         "Der Müllbeutel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "voll.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Leon bringt zwei Klappstühle mit.",
+       "en": "Leon brings two folding chairs.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "bringt",
+         "verb"
+        ],
+        [
+         "zwei Klappstühle",
+         "object"
+        ],
+        [
+         "mit.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Ohne Isomatte ist der Boden kalt.",
+       "en": "Without a sleeping mat the ground is cold.",
+       "parts": [
+        [
+         "Ohne Isomatte",
+         "other"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der Boden",
+         "subject"
+        ],
+        [
+         "kalt.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "Look at the plurals. der Becher and der Müllbeutel do not change: die Becher, die Müllbeutel. Many nouns ending in -er or -el stay the same. But der Klappstuhl and das Taschentuch get an umlaut: die Klappstühle, die Taschentücher. So the plural is part of the word. Learn der Becher, die Becher as one chunk, and then welche is easy to use.",
+      "example": {
+       "de": "Wir haben zwei Becher und drei Klappstühle.",
+       "en": "We have two cups and three folding chairs.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "zwei Becher",
+         "object"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "drei Klappstühle.",
+         "object"
+        ]
+       ]
+      }
+     },
+     "more": "Think of a camping box with seven things in it. Each thing has a label with its article: der Becher, die Wasserflasche, das Taschentuch. When someone asks Hast du …?, you look at the label and you know the answer word: einen, eine or eins. A label without the article is useless, like a box without a lid. So when you meet a new camping word, say it with der, die or das, and say its plural once."
+    },
+    {
      "title": "Three steps and a festival dialogue",
      "body": "Find the form in three steps. Then read Ben and Anna at the festival. Notice: Anna answers with the gender of each noun, and with yes or no.",
      "lead": "Now you have all the forms. These three steps help you choose the right one quickly, and the dialogue shows them in a real conversation.",
@@ -3679,27 +3972,27 @@
    "drills": [
     {
      "type": "choice",
-     "prompt": "Hast du noch Becher? – Ja, ich habe ___.",
+     "prompt": "Do you have a cup? – Ja, ich habe ___. (der Becher)",
      "options": [
       "einen",
       "einer",
       "eins"
      ],
      "answer": 0,
-     "hint": "der Becher, object: -en.",
+     "hint": "Masculine noun, and it is the object.",
      "explanation": "Ja, ich habe einen.",
      "grammar": true
     },
     {
      "type": "choice",
-     "prompt": "Hast du noch Wasserflaschen? – Ja, ich habe ___.",
+     "prompt": "Do you have a water bottle? – Ja, ich habe ___. (die Wasserflasche)",
      "options": [
       "eins",
       "eine",
       "einen"
      ],
      "answer": 1,
-     "hint": "die Wasserflasche → eine.",
+     "hint": "Feminine noun: the pronoun looks like the article.",
      "explanation": "Ja, ich habe eine.",
      "grammar": true
     },
@@ -3712,7 +4005,7 @@
       "eins"
      ],
      "answer": 2,
-     "hint": "das Taschentuch → eins.",
+     "hint": "Neuter noun: the pronoun ends in the same letter as das.",
      "explanation": "Ja, gib mir eins, bitte.",
      "grammar": true
     },
@@ -3764,7 +4057,7 @@
       "habe",
       "keinen."
      ],
-     "hint": "Masculine object: keinen.",
+     "hint": "Masculine object: the no-word with the extra -n.",
      "explanation": "Nein, ich habe keinen.",
      "grammar": true
     },
@@ -3774,7 +4067,7 @@
      "answers": [
       "keins"
      ],
-     "hint": "das Taschentuch → keins.",
+     "hint": "Neuter noun: the no-word ends in the same letter as das.",
      "explanation": "Nein, ich habe keins.",
      "grammar": true
     }
@@ -3787,7 +4080,7 @@
      "Hast du einen Becher? Nein, ich habe keinen.",
      "Hast du einen Becher? - Nein, ich habe keinen."
     ],
-    "hint": "der Becher; object: einen / keinen.",
+    "hint": "Cup is masculine and the object: use the object forms of ein and of the no-word.",
     "explanation": "Hast du einen Becher? – Nein, ich habe keinen.",
     "grammar": true
    },
@@ -3801,7 +4094,7 @@
       "keins"
      ],
      "answer": 0,
-     "hint": "die Isomatte → keine.",
+     "hint": "Feminine noun: the pronoun looks like the article.",
      "explanation": "Nein, ich habe keine.",
      "grammar": true
     },
@@ -3867,7 +4160,7 @@
       "ist",
       "eins."
      ],
-     "hint": "das → eins.",
+     "hint": "Neuter noun: the pronoun ends in the same letter as das.",
      "explanation": "Hier ist eins.",
      "grammar": true
     },
@@ -3880,7 +4173,7 @@
       "eine"
      ],
      "answer": 2,
-     "hint": "Feminine stays eine.",
+     "hint": "Feminine nouns do not change in the object form.",
      "explanation": "Ich nehme eine.",
      "grammar": true
     },
@@ -3893,7 +4186,7 @@
       "the cup"
      ],
      "answer": 1,
-     "hint": "For the rubbish on the campsite.",
+     "hint": "Think of what you throw away on the campsite.",
      "explanation": "der Müllbeutel = the rubbish bag.",
      "grammar": false
     },
@@ -3903,7 +4196,7 @@
      "answers": [
       "der Klappstuhl"
      ],
-     "hint": "der …",
+     "hint": "Masculine noun: Klapp + Stuhl.",
      "explanation": "der Klappstuhl, die Klappstühle",
      "grammar": false
     },
@@ -4114,7 +4407,7 @@
      "answers": [
       "etwas"
      ],
-     "hint": "A thing: etwas.",
+     "hint": "A thing, not a person: the twin of jemand.",
      "explanation": "Hast du etwas gegen Mücken?",
      "grammar": true
     },
@@ -4134,7 +4427,7 @@
      "answers": [
       "Kannst"
      ],
-     "hint": "du → kannst.",
+     "hint": "The du-form of können, first word.",
      "explanation": "Kannst du mir deine Regenjacke leihen?",
      "grammar": true
     }
@@ -5050,6 +5343,152 @@
      }
     },
     {
+     "title": "Words for songs and singers",
+     "lead": "You have met many music words in the lessons. This card puts the last ones in one place, with their articles and plurals, because the article decides which pronoun comes after the comma.",
+     "body": "die Melodie is the tune you hum. der Song and der Hit are everyday words from English: a Hit is a very popular song. The singers: der Sänger, die Sängerin, from singen. For music styles you use der Jazz and die Klassik, but without an article in sentences: Ich höre gern Jazz. Learn the article with each noun.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "die Melodie",
+        "melody, tune",
+        "die Melodien"
+       ],
+       [
+        "der Song",
+        "song",
+        "die Songs"
+       ],
+       [
+        "der Hit",
+        "hit",
+        "die Hits"
+       ],
+       [
+        "der Sänger",
+        "singer (m)",
+        "die Sänger"
+       ],
+       [
+        "die Sängerin",
+        "singer (f)",
+        "die Sängerinnen"
+       ],
+       [
+        "der Jazz / die Klassik",
+        "jazz / classical music",
+        "no plural"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Die Melodie ist schön.",
+       "en": "The melody is beautiful.",
+       "parts": [
+        [
+         "Die Melodie",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist ein Hit, der überall läuft.",
+       "en": "That's a hit that is playing everywhere.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein Hit,",
+         "other"
+        ],
+        [
+         "der",
+         "relative"
+        ],
+        [
+         "überall",
+         "place"
+        ],
+        [
+         "läuft.",
+         "verbend"
+        ]
+       ]
+      },
+      {
+       "de": "Mira kennt die Melodie.",
+       "en": "Mira knows the tune.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "kennt",
+         "verb"
+        ],
+        [
+         "die Melodie.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "Song and Hit come from English, but in German they have an article: der Song, der Hit. The German word for song, das Lied, is neuter. So you say das Lied, das läuft, but der Song, der läuft. That is why you must learn the article with the word: it decides the relative pronoun. A singer is a Sänger or a Sängerin, depending on gender.",
+      "example": {
+       "de": "Das ist ein Lied, das gerade läuft.",
+       "en": "That's a song that is playing right now.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "ein Lied,",
+         "other"
+        ],
+        [
+         "das",
+         "relative"
+        ],
+        [
+         "gerade",
+         "time"
+        ],
+        [
+         "läuft.",
+         "verbend"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine a radio. Out of the speaker comes die Melodie, the tune you hum in the shower. Then a voice joins: it is der Sänger or die Sängerin, and the song is a Hit if everybody knows it. At the end the presenter says: Das war ein Song, der gerade überall läuft. Radio words always come with an article, because the next part of the sentence needs der, die or das after the comma, and you can only choose it if you know the gender."
+    },
+    {
      "title": "Leon shows Mira his playlist",
      "body": "Read the six lines. Each relative clause describes a song, a singer or a band. Find the pronoun after each comma, look back at its noun and find the verb at the end. Two new chunks: Hör mal! (Listen!) and gerade (right now).",
      "lead": "Now all the pieces come together. Leon shows Mira the songs on his phone, and every description is a relative clause.",
@@ -5235,7 +5674,7 @@
       "die"
      ],
      "answer": 2,
-     "hint": "Plural → die.",
+     "hint": "Bands is plural: which pronoun fits the plural?",
      "explanation": "Ich mag Bands, die laut spielen.",
      "grammar": true
     },
@@ -5271,7 +5710,7 @@
       "aus Wien",
       "kommt."
      ],
-     "hint": "Comma, der, verb last.",
+     "hint": "Comma first; the pronoun copies the gender of the noun; the verb goes last.",
      "explanation": "Das ist der Sänger, der aus Wien kommt.",
      "grammar": true
     },
@@ -5306,7 +5745,7 @@
      "Das ist die Band, die in Kiel spielt.",
      "Das ist die Band, die in Kiel spielt"
     ],
-    "hint": "die Band; verb at the end.",
+    "hint": "The pronoun copies the gender of Band; the verb goes to the end.",
     "explanation": "Das ist die Band, die in Kiel spielt.",
     "grammar": true
    },
@@ -5351,11 +5790,11 @@
      "type": "choice",
      "prompt": "Mira sagt, ___ die Melodie schön ist.",
      "options": [
-      "das",
       "dass",
+      "das",
       "die"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "After sagen: a new statement.",
      "explanation": "Mira sagt, dass die Melodie schön ist.",
      "grammar": true
@@ -5410,11 +5849,11 @@
      "type": "choice",
      "prompt": "Ich kenne Sänger, die sehr gut ___.",
      "options": [
-      "singt",
       "singen",
+      "singt",
       "singe"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Plural noun → plural verb.",
      "explanation": "Ich kenne Sänger, die sehr gut singen.",
      "grammar": true
@@ -5424,10 +5863,10 @@
      "prompt": "'die Geige' means …",
      "options": [
       "the drums",
-      "the violin",
-      "the piano"
+      "the piano",
+      "the violin"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "An instrument with strings, played under the chin.",
      "explanation": "die Geige = the violin.",
      "grammar": false
@@ -5438,7 +5877,7 @@
      "answers": [
       "das Schlagzeug"
      ],
-     "hint": "das …",
+     "hint": "Neuter compound: Schlag + Zeug.",
      "explanation": "das Schlagzeug, die Schlagzeuge",
      "grammar": false
     },
@@ -5446,11 +5885,11 @@
      "type": "choice",
      "prompt": "Frau Weber hört am liebsten ___: Mozart und Bach.",
      "options": [
-      "Jazz",
       "Klassik",
+      "Jazz",
       "Rock"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Old music for orchestra and piano.",
      "explanation": "Frau Weber hört am liebsten Klassik.",
      "grammar": false
@@ -6543,6 +6982,147 @@
      }
     },
     {
+     "title": "Words for a band portrait",
+     "lead": "Leon's portrait needs a few more words: the woman who plays, the verb to found, and the things on stage. Here they are with their articles and forms.",
+     "body": "Nouns: die Musikerin is the woman who plays music; das Mikrofon is what she sings into; der Text means the lyrics. Verb: gründen means to found or start a band: Die Musiker haben die Band gegründet. Adjective: erfolgreich means successful: Das Album ist sehr erfolgreich. Learn the plural with each noun.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "die Musikerin",
+        "musician (f)",
+        "die Musikerinnen"
+       ],
+       [
+        "das Mikrofon",
+        "microphone",
+        "die Mikrofone"
+       ],
+       [
+        "der Text",
+        "lyrics, text",
+        "die Texte"
+       ],
+       [
+        "gründen",
+        "to found, to start",
+        "gründet, hat gegründet"
+       ],
+       [
+        "erfolgreich",
+        "successful",
+        "(adjective)"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Die Musikerin singt ins Mikrofon.",
+       "en": "The musician sings into the microphone.",
+       "parts": [
+        [
+         "Die Musikerin",
+         "subject"
+        ],
+        [
+         "singt",
+         "verb"
+        ],
+        [
+         "ins Mikrofon.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Die Musiker haben die Band 2019 gegründet.",
+       "en": "The musicians founded the band in 2019.",
+       "parts": [
+        [
+         "Die Musiker",
+         "subject"
+        ],
+        [
+         "haben",
+         "verb"
+        ],
+        [
+         "die Band",
+         "object"
+        ],
+        [
+         "2019",
+         "time"
+        ],
+        [
+         "gegründet.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Das Album ist sehr erfolgreich.",
+       "en": "The album is very successful.",
+       "parts": [
+        [
+         "Das Album",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr erfolgreich.",
+         "adjective"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "Because the stem of gründen ends in d, the participle ends in -et: gegründet, like gearbeitet. In a relative clause you meet it at the end: …, die die Musiker gegründet haben. Also notice that die Musikerin is the feminine form of der Musiker: you add -in. Most job words work like that, and the plural adds -nen: die Musikerinnen.",
+      "example": {
+       "de": "Das ist die Band, die die Musiker 2019 gegründet haben.",
+       "en": "That's the band the musicians founded in 2019.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "die Band,",
+         "other"
+        ],
+        [
+         "die",
+         "relative"
+        ],
+        [
+         "die Musiker",
+         "subject"
+        ],
+        [
+         "2019",
+         "time"
+        ],
+        [
+         "gegründet haben.",
+         "verbend"
+        ]
+       ]
+      }
+     },
+     "more": "Think of Leon's band poster. On the poster there is a Musikerin with a Mikrofon in her hand. Under her name stands the band's story: Die Nachteulen haben die Band 2019 gegründet. The album did well, so Leon writes erfolgreich. The lyrics, die Texte, are printed on the back. Take each word in turn and make one short sentence about the Nachteulen. Say it aloud, with the article and the Perfekt where it fits."
+    },
+    {
      "title": "Present a band",
      "body": "Use five questions as a plan: Name? Woher? Wer spielt was? Musikrichtung? Warum gut? Answer each with one sentence, and use relative clauses for details. Then read Leon's portrait of Die Nachteulen. New chunk: eine tolle Stimme haben (to have a great voice).",
      "lead": "Now you can put every kind of verb at the end. Here is a plan for a whole band portrait, and Leon's model text.",
@@ -6712,7 +7292,7 @@
      "answers": [
       "will"
      ],
-     "hint": "die Band = sie → will; modal last.",
+     "hint": "The modal for want to, er/sie/es-form; the modal goes last.",
      "explanation": "Ich suche eine Band, die auf dem Festival spielen will.",
      "grammar": true
     },
@@ -6725,7 +7305,7 @@
       "macht gehabt"
      ],
      "answer": 1,
-     "hint": "Participle, then hat.",
+     "hint": "Participle first, then the helper verb that goes with haben.",
      "explanation": "…, die das Album gemacht hat.",
      "grammar": true
     },
@@ -6735,7 +7315,7 @@
      "answers": [
       "ist"
      ],
-     "hint": "kommen → ist.",
+     "hint": "A verb of movement: which helper verb does it take?",
      "explanation": "Das ist der Musiker, der aus Köln gekommen ist.",
      "grammar": true
     },
@@ -6806,7 +7386,7 @@
      "Die Sängerin, die die Texte schreibt, hat eine tolle Stimme.",
      "Der Sänger, der die Texte schreibt, hat eine tolle Stimme."
     ],
-    "hint": "Clause in the middle; then hat.",
+    "hint": "The clause sits in the middle between two commas; then the main verb.",
     "explanation": "Die Sängerin, die die Texte schreibt, hat eine tolle Stimme.",
     "grammar": true
    },
@@ -6856,7 +7436,7 @@
       "dass"
      ],
      "answer": 0,
-     "hint": "das Album: neuter.",
+     "hint": "Album is neuter; the pronoun copies it.",
      "explanation": "Die Band hat ein Album, das sehr erfolgreich ist.",
      "grammar": true
     },
@@ -6881,7 +7461,7 @@
       "gekommen",
       "ist."
      ],
-     "hint": "Participle, then ist.",
+     "hint": "Participle first, then the helper verb for movement verbs.",
      "explanation": "Das ist der Musiker, der aus Köln gekommen ist.",
      "grammar": true
     },
@@ -6940,7 +7520,7 @@
      "answers": [
       "das Album"
      ],
-     "hint": "das …",
+     "hint": "Neuter noun ending in -um; the plural is Alben.",
      "explanation": "das Album, die Alben",
      "grammar": false
     },
@@ -7144,11 +7724,11 @@
     },
     {
      "type": "type",
-     "prompt": "Hast du noch Becher? – Ja, ich habe ___. (one)",
+     "prompt": "Do you have a cup? – Ja, ich habe ___. (der Becher)",
      "answers": [
       "einen"
      ],
-     "hint": "der Becher, object.",
+     "hint": "Masculine noun, and it is the object.",
      "explanation": "Ja, ich habe einen.",
      "grammar": true
     },
@@ -7943,6 +8523,140 @@
      }
     },
     {
+     "title": "Newspaper words",
+     "lead": "The newspaper report used many new nouns. Before you answer questions about it, this card collects them with their articles, plus the separable verb of the topic.",
+     "body": "Newspapers have their own nouns: der Bericht, der Artikel, die Meldung and die Schlagzeile. People are der Leser and die Leserin; the organiser is der Veranstalter. A Rückfrage is a question to check something. The verb stattfinden is separable: Das Konzert findet am Samstag statt. The table gives the plurals.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "der Bericht",
+        "report",
+        "die Berichte"
+       ],
+       [
+        "der Artikel",
+        "article",
+        "die Artikel"
+       ],
+       [
+        "die Meldung",
+        "short news item",
+        "die Meldungen"
+       ],
+       [
+        "die Schlagzeile",
+        "headline",
+        "die Schlagzeilen"
+       ],
+       [
+        "der Leser / die Leserin",
+        "reader",
+        "die Leser / die Leserinnen"
+       ],
+       [
+        "der Veranstalter",
+        "organiser",
+        "die Veranstalter"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Leon schreibt einen Bericht für den Blog.",
+       "en": "Leon is writing a report for the blog.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "schreibt",
+         "verb"
+        ],
+        [
+         "einen Bericht",
+         "object"
+        ],
+        [
+         "für den Blog.",
+         "other"
+        ]
+       ]
+      },
+      {
+       "de": "Eine Leserin hat eine Frage.",
+       "en": "A reader has a question.",
+       "parts": [
+        [
+         "Eine Leserin",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "eine Frage.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Hast du den Artikel gelesen?",
+       "en": "Have you read the article?",
+       "parts": [
+        [
+         "Hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "den Artikel",
+         "object"
+        ],
+        [
+         "gelesen?",
+         "verb2"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "A Meldung is only a few lines, an Artikel is longer, and a Bericht tells a whole event in detail. Note that der Artikel has a second meaning from school: the little word der, die, das. The plural is die Artikel for both. Words for people in -er, like der Leser and der Veranstalter, add -in for women: die Leserin. The plural of the men's form does not change.",
+      "example": {
+       "de": "Eine Leserin hat den Artikel geschrieben.",
+       "en": "A reader wrote the article.",
+       "parts": [
+        [
+         "Eine Leserin",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "den Artikel",
+         "object"
+        ],
+        [
+         "geschrieben.",
+         "verb2"
+        ]
+       ]
+      }
+     },
+     "more": "Think of a newspaper page as a small house. On the roof is die Schlagzeile, in big letters. Under the roof lives die Meldung, short and quick. In the big rooms are der Artikel and der Bericht, with more details. Outside the house stands die Leserin with a letter, and behind her the Veranstalter who planned the event. When you read, look at the roof first and then walk into the rooms."
+    },
+    {
      "title": "On the phone: Anna and Leon",
      "body": "Anna calls Leon from the festival. The connection is bad (Die Verbindung ist schlecht.), so Leon asks back three times. Listen for the echo questions and the polite check at the end.",
      "lead": "Now everything comes together: a phone call with a bad connection, three echo questions and one polite check.",
@@ -8086,11 +8800,11 @@
      "type": "choice",
      "prompt": "Das Konzert ist am Freitag. You missed the day. Echo question?",
      "options": [
-      "Wann?",
       "Wo?",
-      "Wer?"
+      "Wer?",
+      "Wann?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Missing piece: a time.",
      "explanation": "Wann?",
      "grammar": true
@@ -8125,11 +8839,11 @@
      "type": "choice",
      "prompt": "… (noise) singt heute. Echo question?",
      "options": [
-      "Wer?",
       "Was?",
+      "Wer?",
       "Wie viel?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Missing piece: a person.",
      "explanation": "Wer?",
      "grammar": true
@@ -8151,11 +8865,11 @@
      "type": "choice",
      "prompt": "An echo question: where does the voice go at the end?",
      "options": [
-      "up ↗",
       "down ↘",
+      "up ↗",
       "it stays flat"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "You ask back.",
      "explanation": "Echo questions go up.",
      "grammar": true
@@ -8166,7 +8880,7 @@
      "answers": [
       "Können"
      ],
-     "hint": "Sie → können, first word.",
+     "hint": "The Sie-form of the modal verb for can.",
      "explanation": "Können Sie das bitte wiederholen?",
      "grammar": true
     },
@@ -8187,7 +8901,7 @@
       "richtig",
       "verstanden?"
      ],
-     "hint": "Habe first, participle last.",
+     "hint": "The helper verb of the Perfekt, ich-form, comes first; the participle is last.",
      "explanation": "Habe ich das richtig verstanden?",
      "grammar": true
     }
@@ -8198,7 +8912,7 @@
     "answers": [
      "Wer ist die Frau, die das Festival leitet?"
     ],
-    "hint": "Wer ist …, die … leitet?",
+    "hint": "Ask for a person; the relative clause says which one; its verb goes last.",
     "explanation": "Wer ist die Frau, die das Festival leitet?",
     "grammar": true
    },
@@ -8207,11 +8921,11 @@
      "type": "choice",
      "prompt": "Mira says to Frau Weber (she didn't hear): …",
      "options": [
-      "Wie bitte?",
       "Was?",
-      "Wer?"
+      "Wer?",
+      "Wie bitte?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Polite and always fine.",
      "explanation": "Wie bitte?",
      "grammar": true
@@ -8284,7 +8998,7 @@
      "answers": [
       "findet"
      ],
-     "hint": "er/es → findet; statt at the end.",
+     "hint": "The er/es-form of the verb; its separable part goes to the end.",
      "explanation": "Das Festival findet am Samstag statt.",
      "grammar": true
     },
@@ -8292,11 +9006,11 @@
      "type": "choice",
      "prompt": "Which question does the headline answer first? „Sommerfestival bei Kiel: Konzert am Samstag später“",
      "options": [
-      "Wann ist das Konzert?",
       "Wie heißt die Sängerin?",
-      "Wer leitet das Festival?"
+      "Wer leitet das Festival?",
+      "Wann ist das Konzert?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "am Samstag später",
      "explanation": "Wann?",
      "grammar": true
@@ -8310,7 +9024,7 @@
       "the report"
      ],
      "answer": 1,
-     "hint": "The big words at the top.",
+     "hint": "The big words at the top of a newspaper page.",
      "explanation": "die Schlagzeile = the headline.",
      "grammar": false
     },
@@ -8320,7 +9034,7 @@
      "answers": [
       "das Gewitter"
      ],
-     "hint": "das …",
+     "hint": "Neuter noun; the plural looks the same.",
      "explanation": "das Gewitter, die Gewitter",
      "grammar": false
     },
@@ -8587,7 +9301,7 @@
     {
      "intro": true,
      "title": "Before we start: from 'der Sänger, der …' to 'der Sänger, den ich mag'",
-     "body": "Anna has a small Atelier in her room, and Ben comes in to look at her pictures. He wants to say: That's the picture you are painting. You already know der Sänger, der aus Hamburg kommt. Today the noun is not the one doing the action. Someone else does it, and der turns into den.",
+     "body": "Anna has a small Atelier (studio) in her room, and Ben comes in to look at her pictures. He wants to say: That's the picture you are painting. You already know der Sänger, der aus Hamburg kommt. Today the noun is not the one doing the action. Someone else does it, and der turns into den.",
      "steps": [
       "You already know: Das ist der Sänger, der aus Hamburg kommt. And from A1: Ich mag den Sänger.",
       "New today: Das ist der Sänger, den ich mag. The pronoun is the object, so it is in the accusative.",
@@ -9146,12 +9860,12 @@
     },
     {
      "title": "Nominative or accusative?",
-     "body": "Ask who does the action in the side sentence. If the pronoun itself does it, it is the subject: der. If another subject is there, like ich or Anna, the pronoun is the object: den. Der Maler, der Anna hilft: the painter helps. Der Maler, den Anna mag: Anna likes him.",
+     "body": "Ask who does the action in the side sentence. If the pronoun itself does it, it is the subject: der. If another subject is there, like ich or Anna, the pronoun is the object: den. Der Maler, der in Wien wohnt: the painter lives there. Der Maler, den Anna mag: Anna likes him.",
      "lead": "Now you know both sets: der for subjects, den for objects. This card shows how to choose quickly when you write a masculine noun.",
      "examples": [
       {
-       "de": "Der Maler, der Anna hilft, kommt aus Wien.",
-       "en": "The painter who helps Anna comes from Vienna.",
+       "de": "Der Maler, der in Wien wohnt, malt Landschaften.",
+       "en": "The painter who lives in Vienna paints landscapes.",
        "parts": [
         [
          "Der Maler,",
@@ -9162,20 +9876,20 @@
          "relative"
         ],
         [
-         "Anna",
-         "dative"
+         "in Wien",
+         "place"
         ],
         [
-         "hilft,",
+         "wohnt,",
          "verbend"
         ],
         [
-         "kommt",
+         "malt",
          "verb"
         ],
         [
-         "aus Wien.",
-         "place"
+         "Landschaften.",
+         "object"
         ]
        ]
       },
@@ -9263,7 +9977,7 @@
       }
      ],
      "deeper": {
-      "text": "A quick test: count the subjects. In …, den Anna mag there is already a subject, Anna, with the verb mag. A verb has only one subject, so the pronoun must be the object. In …, der Anna hilft the verb hilft needs a helper, and that is the pronoun. helfen takes the dative, so Anna is not the subject there. Watch the verb ending too: ich kenne, Anna mag.",
+      "text": "A quick test: count the subjects. In …, den Anna mag there is already a subject, Anna, with the verb mag. A verb has only one subject, so the pronoun must be the object. In …, der in Wien wohnt nobody else is named: the painter himself lives there, so the pronoun is the subject. Watch the verb ending too: ich kenne, Anna mag.",
       "example": {
        "de": "Das ist der Pinsel, der auf dem Tisch liegt.",
        "en": "That's the brush that is lying on the table.",
@@ -9304,7 +10018,7 @@
       ],
       "rows": [
        [
-        "der Maler, … Anna hilft",
+        "der Maler, … in Wien wohnt",
         "the painter",
         "der"
        ],
@@ -9863,15 +10577,15 @@
     },
     {
      "type": "choice",
-     "prompt": "Der Maler, ___ Anna hilft, kommt aus Wien.",
+     "prompt": "Der Maler, ___ in Wien wohnt, malt Landschaften.",
      "options": [
       "der",
       "den",
       "das"
      ],
      "answer": 0,
-     "hint": "Who helps? The painter himself.",
-     "explanation": "Der Maler, der Anna hilft, kommt aus Wien.",
+     "hint": "Who lives in Vienna? The painter himself.",
+     "explanation": "Der Maler, der in Wien wohnt, malt Landschaften.",
      "grammar": true
     },
     {
@@ -9883,7 +10597,7 @@
       "Das ist das Porträt, das hat Anna gemalt."
      ],
      "answer": 1,
-     "hint": "hat is the very last word.",
+     "hint": "The helper verb is the very last word of the clause.",
      "explanation": "Das ist das Porträt, das Anna gemalt hat.",
      "grammar": true
     },
@@ -9906,7 +10620,7 @@
       "ich",
       "kenne."
      ],
-     "hint": "Comma, pronoun, ich, verb last.",
+     "hint": "Comma, pronoun, subject, verb last.",
      "explanation": "Das ist der Künstler, den ich kenne.",
      "grammar": true
     },
@@ -9929,7 +10643,7 @@
      "Das ist der Pinsel, den Anna braucht.",
      "Das ist der Pinsel, den Anna braucht"
     ],
-    "hint": "der Pinsel; Anna is the subject.",
+    "hint": "The masculine noun after Das ist; Anna does the action.",
     "explanation": "Das ist der Pinsel, den Anna braucht.",
     "grammar": true
    },
@@ -10017,7 +10731,7 @@
       "gemalt",
       "hat."
      ],
-     "hint": "Participle, then hat.",
+     "hint": "Participle first, then the helper verb.",
      "explanation": "Das ist das Porträt, das Anna gemalt hat.",
      "grammar": true
     },
@@ -10064,7 +10778,7 @@
      "answers": [
       "die Landschaft"
      ],
-     "hint": "die …",
+     "hint": "Feminine noun; the plural is Landschaften.",
      "explanation": "die Landschaft, die Landschaften",
      "grammar": false
     },
@@ -10332,7 +11046,7 @@
     {
      "intro": true,
      "title": "Before we start: from 'Das Buch liegt auf dem Tisch' to 'Im Vordergrund sieht man …'",
-     "body": "Anna has painted the WG at the festival. Leon was not there, so Mira describes the picture to him on the phone. He cannot see it, so she must say where everything is. You know place words from your room. Today you use them for a picture, and you add details with relative clauses.",
+     "body": "Anna has painted the WG at the festival. Leon has not seen it yet, so Mira describes the picture to him on the phone. He cannot see it, so she must say where everything is. You know place words from your room. Today you use them for a picture, and you add details with relative clauses.",
      "steps": [
       "You already know: Links ist ein Baum. Das Buch liegt auf dem Tisch. And: Das ist das Bild, das Anna malt.",
       "New today: Im Vordergrund sieht man eine Frau, die tanzt. Place first, then the verb, then the details.",
@@ -10607,7 +11321,7 @@
       }
      ],
      "deeper": {
-      "text": "Man sieht … takes the accusative, because sieht has a subject, man: Man sieht einen Baum. With ist, steht or liegt the thing is the subject, so it stays nominative: Da steht ein Baum. English often uses there is for both. German prefers a real verb: things that are tall stehen, things that are flat liegen, people sitzen.",
+      "text": "sehen takes the accusative: Man sieht einen Baum (der Baum becomes einen). With ist, steht or liegt the thing is the subject, so it stays nominative: Da steht ein Baum. English often uses there is for both. German prefers a real verb: tall things stehen, flat things liegen, people sitzen. So choose the verb that fits the picture.",
       "example": {
        "de": "Rechts liegt eine Decke auf der Wiese.",
        "en": "On the right a blanket is lying on the meadow.",
@@ -11052,6 +11766,148 @@
      }
     },
     {
+     "title": "Words for the landscape in a picture",
+     "lead": "The five-step plan needs words for what is in a landscape. Here are the nouns of the lesson, each with its article and plural, so your description has material.",
+     "body": "Nouns with article: die Wiese (meadow), der Baum (tree), der Himmel (sky), der Nebel (fog) and die Figur, a person or animal drawn in a picture. The adverb vorne means at the front. Painters use these words in every landscape: Auf der Wiese steht ein Baum. Learn each article, then say one place sentence.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "die Wiese",
+        "meadow",
+        "die Wiesen"
+       ],
+       [
+        "der Baum",
+        "tree",
+        "die Bäume"
+       ],
+       [
+        "der Himmel",
+        "sky",
+        "die Himmel"
+       ],
+       [
+        "der Nebel",
+        "fog, mist",
+        "(mostly singular)"
+       ],
+       [
+        "die Figur",
+        "figure in a picture",
+        "die Figuren"
+       ],
+       [
+        "vorne",
+        "at the front",
+        "(adverb)"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Auf der Wiese steht ein Baum.",
+       "en": "On the meadow there is a tree.",
+       "parts": [
+        [
+         "Auf der Wiese",
+         "place"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "ein Baum.",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Der Himmel ist grau, und im Hintergrund ist Nebel.",
+       "en": "The sky is grey, and in the background there is fog.",
+       "parts": [
+        [
+         "Der Himmel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "grau,",
+         "adjective"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "im Hintergrund",
+         "place"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "Nebel.",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Vorne sieht man eine Figur.",
+       "en": "At the front you can see a figure.",
+       "parts": [
+        [
+         "Vorne",
+         "place"
+        ],
+        [
+         "sieht",
+         "verb"
+        ],
+        [
+         "man",
+         "subject"
+        ],
+        [
+         "eine Figur.",
+         "object"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "der Baum has an umlaut in the plural: die Bäume. die Wiese and die Figur just add -n or -en. der Himmel means sky and also heaven, and der Nebel is mostly used in the singular. For where something is, German uses a two-way preposition with the dative: auf der Wiese, unter dem Baum. The place word stays in position 1 and the verb comes second.",
+      "example": {
+       "de": "Unter dem Baum liegt eine Decke.",
+       "en": "A blanket lies under the tree.",
+       "parts": [
+        [
+         "Unter dem Baum",
+         "place"
+        ],
+        [
+         "liegt",
+         "verb"
+        ],
+        [
+         "eine Decke.",
+         "subject"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine you stand in front of a picture of the festival field. At your feet is die Wiese. Next to the tent grows one Baum. Above everything hangs der Himmel, and far behind lies der Nebel. In the middle a person walks: die Figur. Walk through the picture like a camera, from the grass up to the sky, and say one short sentence for each word. Put the place first, then the verb, then the thing."
+    },
+    {
      "title": "Mira describes Anna's festival picture",
      "body": "Here is Mira's description for Leon. Read it and find the five steps: topic, front to back, details with relative clauses, colours with wirken and her opinion. Every sentence about a place starts with the place word. Look for one nominative and one accusative relative clause.",
      "lead": "All five steps are ready. Now Mira uses them in one full description, the kind you will write yourself on the practice day.",
@@ -11368,7 +12224,7 @@
       "unten links"
      ],
      "answer": 1,
-     "hint": "hinten",
+     "hint": "The back of the room in the picture.",
      "explanation": "im Hintergrund = hinten",
      "grammar": true
     },
@@ -11433,7 +12289,7 @@
       "man",
       "einen Baum."
      ],
-     "hint": "Place, verb, man.",
+     "hint": "Place first, then the verb, then the subject.",
      "explanation": "Im Hintergrund sieht man einen Baum.",
      "grammar": true
     },
@@ -11456,7 +12312,7 @@
      "In der Mitte steht eine Frau, die tanzt.",
      "In der Mitte sieht man eine Frau, die tanzt."
     ],
-    "hint": "Place first; die + verb last.",
+    "hint": "Place first, verb second; the relative clause says what she does.",
     "explanation": "In der Mitte ist eine Frau, die tanzt.",
     "grammar": true
    },
@@ -11538,7 +12394,7 @@
       "eine Landschaft",
       "dar."
      ],
-     "hint": "Separable verb: dar at the end.",
+     "hint": "Separable verb: the small part goes to the end of the sentence.",
      "explanation": "Das Bild stellt eine Landschaft dar.",
      "grammar": true
     },
@@ -11561,7 +12417,7 @@
       "bin"
      ],
      "answer": 0,
-     "hint": "After weil: verb last, er → ist.",
+     "hint": "After weil the verb goes last: which form goes with er?",
      "explanation": "Mir gefällt besonders der Baum, weil er so groß ist.",
      "grammar": true
     },
@@ -11584,7 +12440,7 @@
      "answers": [
       "die Wiese"
      ],
-     "hint": "die …",
+     "hint": "Feminine noun; the plural is Wiesen.",
      "explanation": "die Wiese, die Wiesen",
      "grammar": false
     },
@@ -11953,7 +12809,7 @@
        "why": "New today: the same pattern for famous painters."
       }
      ],
-     "more": "Think of a small museum tour in one lesson. Room one: an old picture from Nürnberg, more than five hundred years old. Room two: a man in the fog in Hamburg. Room three: a blue horse in München. Then you leave the museum and see painting today: on a tablet, on a wall in the street. You need no new grammar for the tour. You use the relative clauses you already have."
+     "more": "Think of a small museum tour in one lesson. Room one: an old picture by a painter from Nürnberg, more than five hundred years old. Room two: a man in the fog in Hamburg. Room three: a blue horse in München. Then you leave the museum and see painting today: on a tablet, on a wall in the street. You need no new grammar for the tour. You use the relative clauses you already have."
     },
     {
      "title": "Albrecht Dürer: the hare",
@@ -12350,7 +13206,7 @@
        ]
       }
      },
-     "more": "Think of how you feel on a happy day. You might say: today everything is pink. Of course nothing is really pink, but the word shows your mood. Marc did the same with paint. A blue horse is not a mistake. Blue was a colour that he connected with a strong, calm feeling. So when you look at the picture, do not ask: is it real? Ask: how does it wirken?",
+     "more": "Think of how you feel on a happy day. You might say: today everything is pink. Of course nothing is really pink, but the word shows your mood. Marc did the same with paint. A blue horse is not a mistake. For Marc, blue was a strong, serious and spiritual colour. So when you look at the picture, do not ask: is it real? Ask: how does it wirken?",
      "table": {
       "headers": [
        "question",
@@ -12633,6 +13489,131 @@
      ]
     },
     {
+     "title": "Words for Anna's show",
+     "lead": "Anna's show needs a few last words: where she paints, what makes a picture the real one, and the word for your own favourite. Here they are with their articles.",
+     "body": "Nouns with article: das Atelier is the painter's studio. das Lieblingsbild is your favourite picture: Lieblings- plus das Bild. der Hase is the hare of Dürer. das Original is the real picture, die Kopie is the copy. All four fit Anna's show in the restaurant „Zum Löwen“. Say each with its article.",
+     "table": {
+      "headers": [
+       "word",
+       "meaning",
+       "plural"
+      ],
+      "rows": [
+       [
+        "das Atelier",
+        "studio",
+        "die Ateliers"
+       ],
+       [
+        "das Lieblingsbild",
+        "favourite picture",
+        "die Lieblingsbilder"
+       ],
+       [
+        "der Hase",
+        "hare",
+        "die Hasen"
+       ],
+       [
+        "das Original",
+        "the real picture",
+        "die Originale"
+       ],
+       [
+        "die Kopie",
+        "copy",
+        "die Kopien"
+       ]
+      ]
+     },
+     "examples": [
+      {
+       "de": "Anna hat ein kleines Atelier in ihrem Zimmer.",
+       "en": "Anna has a small studio in her room.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "ein kleines Atelier",
+         "object"
+        ],
+        [
+         "in ihrem Zimmer.",
+         "place"
+        ]
+       ]
+      },
+      {
+       "de": "Mein Lieblingsbild ist der „Feldhase“.",
+       "en": "My favourite picture is the 'Feldhase'.",
+       "parts": [
+        [
+         "Mein Lieblingsbild",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der „Feldhase“.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Der Hase sitzt auf der Wiese.",
+       "en": "The hare is sitting on the meadow.",
+       "parts": [
+        [
+         "Der Hase",
+         "subject"
+        ],
+        [
+         "sitzt",
+         "verb"
+        ],
+        [
+         "auf der Wiese.",
+         "place"
+        ]
+       ]
+      }
+     ],
+     "deeper": {
+      "text": "Lieblings- can stand in front of many nouns: das Lieblingslied, die Lieblingsband, das Lieblingsessen. The last word gives the article, so Lieblingsband is feminine. Atelier comes from French: the end sounds like yeh, with a soft t (ah-te-LYEH). The plural of Original just adds -e: die Originale, but die Kopie adds -n: die Kopien.",
+      "example": {
+       "de": "Mein Lieblingslied läuft gerade im Radio.",
+       "en": "My favourite song is playing on the radio right now.",
+       "parts": [
+        [
+         "Mein Lieblingslied",
+         "subject"
+        ],
+        [
+         "läuft",
+         "verb"
+        ],
+        [
+         "gerade",
+         "time"
+        ],
+        [
+         "im Radio.",
+         "place"
+        ]
+       ]
+      }
+     },
+     "more": "Imagine Anna's evening at „Zum Löwen“. She walks out of her Atelier with her picture under her arm and hangs it on the wall. Guests ask: Ist das ein Original? Anna smiles: Ja, und es ist mein Lieblingsbild. In the corner of the room hangs a poster of Dürer's Hase, a Kopie. Retell this small evening in four sentences, and use the new nouns with their articles."
+    },
+    {
      "title": "Anna's picture in „Zum Löwen“",
      "body": "Herr Ali hangs Anna's festival picture in the restaurant „Zum Löwen“. He says du to Anna, and Anna says Sie to him. Read the dialogue and find the relative clauses and the indefinite pronouns. Notice: auf dem Festival, not am Festival.",
      "lead": "All the parts of the chapter are here. In the last card Anna and Herr Ali talk about the picture that now hangs in the restaurant.",
@@ -12875,7 +13856,7 @@
        ]
       }
      },
-     "more": "Think of the first day of a small show. The picture hangs on the wall, the guests come in with their food and stop. Somebody points: Wer hat das gemalt? Herr Ali proudly says: Anna, eine Künstlerin, die bei uns im Haus wohnt. Anna stands next to it and feels a bit shy. At the end of A2, you can say all of this yourself.",
+     "more": "Think of the first day of a small show. The picture hangs on the wall, the guests come in with their food and stop. Somebody points: Wer hat das gemalt? Herr Ali proudly says: Anna, eine Künstlerin, die oft bei uns isst. Anna stands next to it and feels a bit shy. At the end of A2, you can say all of this yourself, in German, without notes.",
      "table": {
       "headers": [
        "sentence",
@@ -12960,7 +13941,7 @@
       "in München"
      ],
      "answer": 0,
-     "hint": "Hamburger Kunsthalle.",
+     "hint": "Look at the card about Friedrich: where does the table say it hangs?",
      "explanation": "In Hamburg, in der Hamburger Kunsthalle.",
      "grammar": false
     },
@@ -13024,7 +14005,7 @@
      "Das ist das Bild, das Frau Weber am liebsten mag.",
      "Das ist das Bild, das Frau Weber am liebsten mag"
     ],
-    "hint": "Frau Weber is the subject; mag last.",
+    "hint": "The pronoun copies a neuter noun; Frau Weber is the subject; the verb goes last.",
     "explanation": "Das ist das Bild, das Frau Weber am liebsten mag.",
     "grammar": true
    },
@@ -13087,7 +14068,7 @@
       "Niemand malt nicht so gut wie Anna."
      ],
      "answer": 2,
-     "hint": "niemand already says no.",
+     "hint": "One of the sentences says no twice.",
      "explanation": "Right: Niemand malt so gut wie Anna.",
      "grammar": true
     },
@@ -13114,7 +14095,7 @@
       "gemalt",
       "habe."
      ],
-     "hint": "auf dem Festival; habe last.",
+     "hint": "The place phrase comes before the participle; the helper verb is last.",
      "explanation": "Das ist das Bild, das ich auf dem Festival gemalt habe.",
      "grammar": true
     },
@@ -13150,7 +14131,7 @@
       "a picture of a landscape"
      ],
      "answer": 0,
-     "hint": "still + Leben: nothing moves.",
+     "hint": "Still + Leben: a quiet kind of painting.",
      "explanation": "das Stillleben = still life.",
      "grammar": false
     },
@@ -13160,7 +14141,7 @@
      "answers": [
       "das Selbstporträt"
      ],
-     "hint": "das …",
+     "hint": "Neuter noun: a picture of yourself.",
      "explanation": "das Selbstporträt, die Selbstporträts",
      "grammar": false
     },
@@ -13322,11 +14303,11 @@
        "en": "Some paint graffiti on walls."
       },
       {
-       "de": "An der Wand ist ein Graffiti, das sehr bunt ist.",
-       "en": "On the wall there is a graffiti that is very colourful."
+       "de": "Das Graffiti an der Wand ist sehr bunt.",
+       "en": "The graffiti on the wall is very colourful."
       }
      ],
-     "forms": "die Graffitis"
+     "forms": "die Graffiti"
     }
    ],
    "speaking": {
@@ -13439,7 +14420,7 @@
        "Leon"
       ],
       "answer": 2,
-      "hint": "Ich habe eine.",
+      "hint": "Read the second message in the chat.",
       "explanation": "Leon hat eine Taschenlampe.",
       "grammar": false
      },
@@ -13465,7 +14446,7 @@
        "Frau Weber's"
       ],
       "answer": 2,
-      "hint": "Das Zelt von …",
+      "hint": "Read Leon's message again, second sentence.",
       "explanation": "Das Zelt von Frau Weber ist im Auto.",
       "grammar": false
      },
@@ -13478,7 +14459,7 @@
        "He has some things."
       ],
       "answer": 1,
-      "hint": "nichts = nothing.",
+      "hint": "Look at the word after Ich habe.",
       "explanation": "Ben hat nichts.",
       "grammar": true
      },
@@ -13491,7 +14472,7 @@
        "a sleeping bag"
       ],
       "answer": 2,
-      "hint": "Ben asks for einen Schlafsack.",
+      "hint": "Look at what Ben asked Mira for: the pronoun copies that noun.",
       "explanation": "einen = einen Schlafsack.",
       "grammar": true
      },
@@ -13504,7 +14485,7 @@
        "no cups"
       ],
       "answer": 0,
-      "hint": "welche = some (plural).",
+      "hint": "The pronoun is plural: which thing did Mira just talk about?",
       "explanation": "Anna hat Becher.",
       "grammar": true
      },
@@ -13517,7 +14498,7 @@
        "the cups"
       ],
       "answer": 0,
-      "hint": "… fehlen noch.",
+      "hint": "Read the second part of Anna's last message.",
       "explanation": "Nur die Snacks fehlen noch.",
       "grammar": false
      },
@@ -13530,7 +14511,7 @@
        "They are too expensive."
       ],
       "answer": 1,
-      "hint": "Das Wetter ist …",
+      "hint": "Read the second sentence of Anna's answer.",
       "explanation": "Das Wetter ist gut, es gibt keinen Regen.",
       "grammar": false
      },
@@ -13575,7 +14556,7 @@
        "for tea"
       ],
       "answer": 0,
-      "hint": "Ich möchte … trinken.",
+      "hint": "Listen to the end of Ben's first line.",
       "explanation": "Er möchte Kaffee trinken.",
       "grammar": false
      },
@@ -13588,7 +14569,7 @@
        "cup"
       ],
       "answer": 2,
-      "hint": "der Becher → keinen.",
+      "hint": "Ben's first question names the thing; the pronoun copies its gender.",
       "explanation": "keinen Becher",
       "grammar": true
      },
@@ -13601,7 +14582,7 @@
        "Leon"
       ],
       "answer": 2,
-      "hint": "Frag Leon, er hat welche.",
+      "hint": "Listen to what Mira tells Ben to do.",
       "explanation": "Leon hat Becher.",
       "grammar": false
      },
@@ -13627,7 +14608,7 @@
        "It is lost."
       ],
       "answer": 0,
-      "hint": "mein Handy ist leer",
+      "hint": "Listen to Ben's second request.",
       "explanation": "Sein Handy ist leer.",
       "grammar": false
      },
@@ -13653,7 +14634,7 @@
        "nobody"
       ],
       "answer": 1,
-      "hint": "Aber Mira hat eine.",
+      "hint": "Listen to the two replies after Ben's request.",
       "explanation": "Mira hat eine.",
       "grammar": true
      },
@@ -13666,7 +14647,7 @@
        "cups"
       ],
       "answer": 1,
-      "hint": "Wir haben Snacks.",
+      "hint": "Listen to Leon's offer before his question.",
       "explanation": "welche = Snacks.",
       "grammar": true
      },
@@ -13679,7 +14660,7 @@
        "He has nothing at all."
       ],
       "answer": 0,
-      "hint": "fast nichts",
+      "hint": "Listen to Mira's last line.",
       "explanation": "Du hast fast nichts dabei!",
       "grammar": true
      }
@@ -13733,17 +14714,17 @@
       "answers": [
        "Alles"
       ],
-      "hint": "Things: alles.",
+      "hint": "Things, not people.",
       "explanation": "Alles ist im Auto.",
       "grammar": true
      },
      {
       "type": "type",
-      "prompt": "Hast du noch Becher? – Ja, ich habe ___. (one)",
+      "prompt": "Do you have a cup? – Ja, ich habe ___. (der Becher)",
       "answers": [
        "einen"
       ],
-      "hint": "der Becher, object.",
+      "hint": "Masculine noun, and it is the object.",
       "explanation": "Ja, ich habe einen.",
       "grammar": true
      },
@@ -13753,7 +14734,7 @@
       "answers": [
        "keins"
       ],
-      "hint": "das → keins.",
+      "hint": "Neuter noun: the no-word ends in the same letter as das.",
       "explanation": "Nein, ich habe keins.",
       "grammar": true
      },
@@ -13784,7 +14765,7 @@
        "deine Powerbank",
        "leihen?"
       ],
-      "hint": "Könntest first, leihen at the end.",
+      "hint": "The polite verb comes first, the infinitive last.",
       "explanation": "Könntest du mir deine Powerbank leihen?",
       "grammar": true
      },
@@ -13809,7 +14790,7 @@
        "ist",
        "keiner."
       ],
-      "hint": "Subject, masculine, no: keiner.",
+      "hint": "Masculine subject form of the no-word.",
       "explanation": "Ist hier ein Klappstuhl? Nein, hier ist keiner.",
       "grammar": true
      }
@@ -13887,7 +14868,7 @@
        "in Vienna"
       ],
       "answer": 0,
-      "hint": "… am See …, Kiel.",
+      "hint": "Read the first sentence of the first paragraph.",
       "explanation": "Am See bei Kiel.",
       "grammar": false
      },
@@ -13913,7 +14894,7 @@
        "at 10 pm"
       ],
       "answer": 2,
-      "hint": "erst um 22 Uhr",
+      "hint": "Read the last sentence of the first paragraph.",
       "explanation": "um 22 Uhr",
       "grammar": false
      },
@@ -13952,7 +14933,7 @@
        "the organiser"
       ],
       "answer": 0,
-      "hint": "Die Sängerin, die auch die Texte schreibt …",
+      "hint": "Read the second paragraph.",
       "explanation": "die Sängerin",
       "grammar": true
      },
@@ -13978,7 +14959,7 @@
        "at home"
       ],
       "answer": 1,
-      "hint": "… im Zelt bleiben.",
+      "hint": "Read what the organiser says in the third paragraph.",
       "explanation": "im Zelt",
       "grammar": false
      },
@@ -14004,7 +14985,7 @@
        "The concert is at 6 pm as planned."
       ],
       "answer": 2,
-      "hint": "wie geplant um 18 Uhr",
+      "hint": "Read the last paragraph.",
       "explanation": "Am Sonntag um 18 Uhr, wie geplant.",
       "grammar": false
      }
@@ -14023,7 +15004,7 @@
        "the name of the band"
       ],
       "answer": 2,
-      "hint": "Wie heißt die Band?",
+      "hint": "Listen to Frau Weber's first line.",
       "explanation": "den Namen der Band",
       "grammar": false
      },
@@ -14036,7 +15017,7 @@
        "Hamburg"
       ],
       "answer": 2,
-      "hint": "… eine Band, die aus Hamburg kommt.",
+      "hint": "Listen to Leon's second line.",
       "explanation": "aus Hamburg",
       "grammar": false
      },
@@ -14075,7 +15056,7 @@
        "the singer who also plays the guitar"
       ],
       "answer": 2,
-      "hint": "Die Sängerin, die auch Gitarre spielt …",
+      "hint": "Listen to Leon's long sentence about the voice.",
       "explanation": "die Sängerin",
       "grammar": true
      },
@@ -14101,7 +15082,7 @@
        "piano"
       ],
       "answer": 2,
-      "hint": "Mein Klavier …",
+      "hint": "Listen to Leon's question before her answer.",
       "explanation": "Klavier",
       "grammar": false
      },
@@ -14114,7 +15095,7 @@
        "It is broken."
       ],
       "answer": 1,
-      "hint": "… sehr alt, aber …",
+      "hint": "Listen to the sentence after the instrument.",
       "explanation": "sehr alt, aber sie spielt es sehr gern",
       "grammar": false
      },
@@ -14127,7 +15108,7 @@
        "She thinks ten is very late."
       ],
       "answer": 2,
-      "hint": "Das ist aber spät!",
+      "hint": "Listen to her reaction after the time.",
       "explanation": "Sie findet zehn Uhr spät.",
       "grammar": true
      },
@@ -14140,7 +15121,7 @@
        "There is a thunderstorm."
       ],
       "answer": 2,
-      "hint": "es gibt ein Gewitter",
+      "hint": "Listen to Leon's last line.",
       "explanation": "ein Gewitter",
       "grammar": false
      }
@@ -14246,7 +15227,7 @@
        "bitte",
        "wiederholen?"
       ],
-      "hint": "Können first, infinitive last.",
+      "hint": "The polite modal comes first, the infinitive last.",
       "explanation": "Können Sie das bitte wiederholen?",
       "grammar": true
      },
@@ -14269,7 +15250,7 @@
        "sind",
        "sehr jung."
       ],
-      "hint": "Clause in the middle, then sind.",
+      "hint": "Clause in the middle, then the main verb.",
       "explanation": "Die Musiker, die hier auftreten, sind sehr jung.",
       "grammar": true
      }
@@ -14314,7 +15295,7 @@
    "day": 3,
    "reading": {
     "title": "Kleine Ausstellung im Restaurant „Zum Löwen“",
-    "text": "Kleine Ausstellung im Restaurant „Zum Löwen“\n\nLiebe Gäste,\nab Freitag hängen bei uns drei Bilder von Anna. Anna ist eine junge Künstlerin, die bei uns im Haus wohnt. Kommen Sie am Freitag um 19 Uhr! Es gibt Musik und einen kleinen Snack. Der Eintritt ist frei.\nHerzliche Grüße\nIhr Herr Ali\n\n1. „Unser Festival“\nDas ist das Bild, das Anna auf dem Festival gemalt hat. Im Vordergrund sieht man ein Zelt, im Hintergrund eine bunte Bühne. Das Bild wirkt fröhlich.\n\n2. „Frau Weber“\nDas ist ein Porträt, das Anna im Winter gemalt hat. Frau Weber ist eine Nachbarin, die gern Klavier spielt.\n\n3. „Am Meer bei Kiel“\nEine Landschaft mit Wiese, Himmel und Nebel. Das Original kann man kaufen.",
+    "text": "Kleine Ausstellung im Restaurant „Zum Löwen“\n\nLiebe Gäste,\nab Freitag hängen bei uns drei Bilder von Anna. Anna ist eine junge Künstlerin, die oft bei uns isst. Kommen Sie am Freitag um 19 Uhr! Es gibt Musik und einen kleinen Snack. Der Eintritt ist frei.\nHerzliche Grüße\nIhr Herr Ali\n\n1. „Unser Festival“\nDas ist das Bild, das Anna auf dem Festival gemalt hat. Im Vordergrund sieht man ein Zelt, im Hintergrund eine bunte Bühne. Das Bild wirkt fröhlich.\n\n2. „Frau Weber“\nDas ist ein Porträt, das Anna im Winter gemalt hat. Frau Weber ist eine Nachbarin, die gern Klavier spielt.\n\n3. „Am Meer bei Kiel“\nEine Landschaft mit Wiese, Himmel und Nebel. Das Original kann man kaufen.",
     "glossary": [
      {
       "de": "Liebe Gäste",
@@ -14364,20 +15345,20 @@
        "five"
       ],
       "answer": 1,
-      "hint": "… drei Bilder …",
+      "hint": "Read the first paragraph of Herr Ali's letter.",
       "explanation": "drei",
       "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "'eine junge Künstlerin, die bei uns im Haus wohnt' – who lives in the house?",
+      "prompt": "'eine junge Künstlerin, die oft bei uns isst' – who often eats at the restaurant?",
       "options": [
        "Herr Ali",
        "Anna",
        "the guests"
       ],
       "answer": 1,
-      "hint": "die points back to Künstlerin.",
+      "hint": "The pronoun die points back to the noun Künstlerin.",
       "explanation": "Anna",
       "grammar": true
      },
@@ -14390,7 +15371,7 @@
        "Friday at 7 pm"
       ],
       "answer": 2,
-      "hint": "am Freitag um 19 Uhr",
+      "hint": "Read the first paragraph, third sentence.",
       "explanation": "Freitag, 19 Uhr",
       "grammar": false
      },
@@ -14403,7 +15384,7 @@
        "nothing"
       ],
       "answer": 2,
-      "hint": "Der Eintritt ist frei.",
+      "hint": "Read the last sentence of the letter.",
       "explanation": "nichts, frei",
       "grammar": false
      },
@@ -14416,7 +15397,7 @@
        "Herr Ali"
       ],
       "answer": 0,
-      "hint": "Anna is the subject; das is the object.",
+      "hint": "Who does the painting? Find the subject of the clause.",
       "explanation": "Anna",
       "grammar": true
      },
@@ -14455,7 +15436,7 @@
        "in winter"
       ],
       "answer": 2,
-      "hint": "… im Winter gemalt hat.",
+      "hint": "Read the text under picture 2.",
       "explanation": "im Winter",
       "grammar": false
      },
@@ -14500,7 +15481,7 @@
        "Anna's"
       ],
       "answer": 0,
-      "hint": "… das Frau Weber am liebsten mag.",
+      "hint": "Listen to Mira's first sentence.",
       "explanation": "Frau Weber",
       "grammar": true
      },
@@ -14526,7 +15507,7 @@
        "on a rock"
       ],
       "answer": 2,
-      "hint": "… auf einem Felsen …",
+      "hint": "Listen to Mira's second line.",
       "explanation": "auf einem Felsen",
       "grammar": false
      },
@@ -14552,7 +15533,7 @@
        "very small, on the left"
       ],
       "answer": 0,
-      "hint": "… nur von hinten.",
+      "hint": "Listen to Mira's third line.",
       "explanation": "von hinten",
       "grammar": false
      },
@@ -14565,7 +15546,7 @@
        "very loud"
       ],
       "answer": 1,
-      "hint": "ruhig … ein bisschen traurig",
+      "hint": "Listen to how Ben describes the feeling.",
       "explanation": "ruhig, ein bisschen traurig",
       "grammar": false
      },
@@ -14604,7 +15585,7 @@
        "to Wien"
       ],
       "answer": 2,
-      "hint": "… nach Wien!",
+      "hint": "Listen to Ben's last line.",
       "explanation": "nach Wien",
       "grammar": false
      }
@@ -14713,7 +15694,7 @@
        "gemalt",
        "hat."
       ],
-      "hint": "hat last.",
+      "hint": "The helper verb is the very last word.",
       "explanation": "Das ist ein Bild, das Albrecht Dürer gemalt hat.",
       "grammar": true
      },
@@ -14732,7 +15713,7 @@
        "man",
        "Nebel."
       ],
-      "hint": "Place, verb, man.",
+      "hint": "Place first, then the verb, then the subject.",
       "explanation": "Im Hintergrund sieht man Nebel.",
       "grammar": true
      }
