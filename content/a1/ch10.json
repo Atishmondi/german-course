@@ -167,7 +167,7 @@
       {
        "de": "Was hast du gestern gemacht?",
        "en": "What did you do yesterday?",
-       "why": "A chunk for now: learn it whole. Card 6 explains it.",
+       "why": "A chunk for now: learn it whole. A later card explains it.",
        "parts": [
         [
          "Was",
@@ -1154,7 +1154,7 @@
      "answers": [
       "habe"
      ],
-     "hint": "Ich goes with habe.",
+     "hint": "Match the form of haben to ich.",
      "explanation": "Ich habe gestern Tennis gespielt.",
      "grammar": true
     },
@@ -1196,7 +1196,7 @@
       "Kaffee",
       "gekocht."
      ],
-     "hint": "hat is part 2, gekocht is last.",
+     "hint": "Helper verb in part 2, participle at the very end.",
      "explanation": "Mira hat Kaffee gekocht.",
      "grammar": true
     },
@@ -1219,7 +1219,7 @@
      "answers": [
       "hast"
      ],
-     "hint": "du goes with hast.",
+     "hint": "Match the form of haben to du.",
      "explanation": "Du hast Musik gehört.",
      "grammar": true
     },
@@ -1240,7 +1240,7 @@
       "Tennis",
       "gespielt."
      ],
-     "hint": "The time comes first, so habe is part 2.",
+     "hint": "The time word comes first, so the helper verb stays in part 2.",
      "explanation": "Gestern habe ich Tennis gespielt.",
      "grammar": true
     },
@@ -1263,7 +1263,7 @@
      "Gestern hat Mira Brot gekauft.",
      "Mira hat gestern ein Brot gekauft."
     ],
-    "hint": "hat + Brot + gekauft at the end.",
+    "hint": "The er/sie form of the helper in part 2, participle at the very end.",
     "explanation": "Mira hat gestern Brot gekauft.",
     "grammar": true
    },
@@ -1316,7 +1316,7 @@
      "answers": [
       "habt"
      ],
-     "hint": "ihr goes with habt.",
+     "hint": "Match the form of haben to ihr.",
      "explanation": "Ihr habt Sport gemacht.",
      "grammar": true
     },
@@ -1360,7 +1360,7 @@
       "gestern",
       "gemacht?"
      ],
-     "hint": "A W-question: hast is part 2.",
+     "hint": "A W-question: the helper verb is part 2.",
      "explanation": "Was hast du gestern gemacht?",
      "grammar": true
     },
@@ -1396,7 +1396,7 @@
       "hat"
      ],
      "answer": 0,
-     "hint": "ich goes with habe.",
+     "hint": "Match the form of haben to ich.",
      "explanation": "ich habe.",
      "grammar": true
     },
@@ -1406,7 +1406,7 @@
      "answers": [
       "haben"
      ],
-     "hint": "Sie takes haben.",
+     "hint": "The polite Sie takes the same form as wir.",
      "explanation": "Was haben Sie gestern gemacht?",
      "grammar": true
     }
@@ -1584,7 +1584,7 @@
      "answers": [
       "Ich habe Deutsch gelernt."
      ],
-     "hint": "habe + Deutsch + gelernt.",
+     "hint": "Helper verb in part 2, then the object, participle last.",
      "explanation": "Ich habe Deutsch gelernt."
     },
     {
@@ -1593,7 +1593,7 @@
      "answers": [
       "Ben hat Musik gehört."
      ],
-     "hint": "hat + Musik + gehört.",
+     "hint": "The er/sie form of the helper in part 2, participle last.",
      "explanation": "Ben hat Musik gehört."
     },
     {
@@ -1613,7 +1613,7 @@
       "Wir haben gestern getanzt.",
       "Gestern haben wir getanzt."
      ],
-     "hint": "haben + gestern + getanzt.",
+     "hint": "Helper verb in part 2, the time word, then the participle last.",
      "explanation": "Wir haben gestern getanzt."
     }
    ]
@@ -1799,7 +1799,7 @@
      "more": "A mouth-saver is what the extra e really is. After a t or a d, adding another -t is hard to say, so German adds a small e in between. You already did this in chapter 2 with arbeiten and warten. Now check the table: the extra e in du arbeitest and er arbeitet is the same e you see in gearbeitet. For spielen there is no problem for your mouth, so no extra e: spielt, gespielt.",
      "lead": "In lesson 1 you made participles like gespielt. On this card: you see that the extra e from the present comes back in the Perfekt, so a form like gearbeitet will not surprise you.",
      "deeper": {
-      "text": "Pronounce the difference: gespielt has one clean t at the end. Gearbeitet has an extra syllable, so it has four parts: ge-ar-bei-tet. If you say it slowly, your mouth shows you where the e belongs. Say it three times.",
+      "text": "Pronounce the difference: gespielt has one clean t at the end. Gearbeitet has an extra syllable, so it has four parts: ge-ar-bei-tet. If you say it slowly, your mouth shows you where the e belongs. Say it three times and listen for the extra beat before the final t.",
       "example": {
        "de": "Ich habe schon gearbeitet.",
        "en": "I have already worked.",
@@ -2635,7 +2635,7 @@
        ]
       ]
      },
-     "more": "Sorting helps your brain more than reading a list. Look at the two columns. In the left column the stem is easy to say, so only t is added. In the right column the stem ends in a hard spot, so an extra e is added to help you. When you meet a new verb, do the three-step test from card 3: cut off -en, check the end of the stem, then decide. This quick check will soon feel automatic.",
+     "more": "Sorting helps your brain more than reading a list. Look at the two columns. In the left column the stem is easy to say, so only t is added. In the right column the stem ends in a hard spot, so an extra e is added to help you. When you meet a new verb, do the three-step test from the card When do you add the extra e?: cut off -en, check the end of the stem, then decide. This quick check will soon feel automatic.",
      "lead": "You have seen both kinds of participle. On this card, the last of the lesson: a short sorting so you can decide between ge...t and ge...et quickly.",
      "deeper": {
       "text": "If you are not sure, say the stem and add -t aloud. Is it easy to say? Then no extra e. Is it hard, as in arbeit + t? Then add the e. The sound often tells you the answer, and the spelling follows. Check the table when you write.",
@@ -2666,10 +2666,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:sC1kWsL_Azo"
+     "yt:sC1kWsL_Azo",
+     "yt:0q8ceeaEI68"
     ],
     "nicosWeg": [
-     "nw:a1-71"
+     "nw:a1-71",
+     "nw:a1-37"
     ]
    },
    "drills": [
@@ -2719,7 +2721,7 @@
       "hat",
       "geantwortet."
      ],
-     "hint": "hat is part 2, geantwortet is last.",
+     "hint": "Helper verb in part 2, participle last.",
      "explanation": "Ben hat geantwortet.",
      "grammar": true
     },
@@ -2783,7 +2785,7 @@
      "Leon hat gestern gearbeitet.",
      "Gestern hat Leon gearbeitet."
     ],
-    "hint": "hat + gestern + gearbeitet.",
+    "hint": "The er/sie helper in part 2, participle last; check the stem.",
     "explanation": "Leon hat gestern gearbeitet.",
     "grammar": true
    },
@@ -2859,7 +2861,7 @@
      "answers": [
       "Spaß"
      ],
-     "hint": "Spaß machen is a chunk.",
+     "hint": "Think of the chunk for it is fun: a verb and a short noun.",
      "explanation": "Der Job macht Spaß."
     },
     {
@@ -2902,7 +2904,7 @@
       "Spaß",
       "gemacht."
      ],
-     "hint": "hat is part 2, gemacht is last.",
+     "hint": "The past of the chunk: helper verb in part 2, participle last.",
      "explanation": "Der Job hat Spaß gemacht.",
      "grammar": true
     },
@@ -2912,7 +2914,7 @@
      "answers": [
       "anstrengend"
      ],
-     "hint": "anstrengend = tiring.",
+     "hint": "The adjective for work that makes you tired: see the job chunks.",
      "explanation": "Die Arbeit ist anstrengend."
     },
     {
@@ -2970,8 +2972,8 @@
        "en": "The position is well paid."
       },
       {
-       "de": "Leon hat eine Stelle.",
-       "en": "Leon has a position."
+       "de": "Meine Freundin hat eine Stelle.",
+       "en": "My friend has a position."
       }
      ],
      "article": "die",
@@ -3102,7 +3104,7 @@
      "answers": [
       "Ich habe gewartet."
      ],
-     "hint": "habe + gewartet.",
+     "hint": "Helper verb in part 2, participle last (check the stem for the extra e).",
      "explanation": "Ich habe gewartet."
     },
     {
@@ -3112,7 +3114,7 @@
       "Am Montag hat es geregnet.",
       "Es hat am Montag geregnet."
      ],
-     "hint": "hat + es + geregnet.",
+     "hint": "The weather subject takes the er/sie/es helper; participle last.",
      "explanation": "Am Montag hat es geregnet."
     },
     {
@@ -3121,7 +3123,7 @@
      "answers": [
       "Anna hat geantwortet."
      ],
-     "hint": "hat + geantwortet.",
+     "hint": "The er/sie helper in part 2, participle last; check the stem.",
      "explanation": "Anna hat geantwortet."
     },
     {
@@ -3131,7 +3133,7 @@
       "Wir haben gestern gezeichnet.",
       "Gestern haben wir gezeichnet."
      ],
-     "hint": "haben + gestern + gezeichnet.",
+     "hint": "Helper verb, time word, participle last; check the stem.",
      "explanation": "Wir haben gestern gezeichnet."
     }
    ]
@@ -3413,8 +3415,8 @@
        ]
       },
       {
-       "de": "Ben hat Anna fotografiert.",
-       "en": "Ben took a photo of Anna.",
+       "de": "Ben hat Mira fotografiert.",
+       "en": "Ben took a photo of Mira.",
        "why": "fotografieren → fotografiert",
        "parts": [
         [
@@ -3426,7 +3428,7 @@
          "verb"
         ],
         [
-         "Anna",
+         "Mira",
          "object"
         ],
         [
@@ -3514,7 +3516,7 @@
     },
     {
      "title": "Also no ge-: be-, ver-, er-",
-     "body": "Verbs that start with be-, ver- or er- have no ge- either. The beginning already does the job. Bezahlen is bezahlt, so gut bezahlt means well paid, as in lesson 2. Besuchen is besucht, bestellen is bestellt, verdienen is verdient.",
+     "body": "Verbs that start with be-, ver- or er- have no ge- either. The beginning already does the job. Bezahlen is bezahlt, so gut bezahlt means well paid, as in lesson 2. Besuchen is besucht, bestellen is bestellt, verdienen is verdient, erklären (to explain) is erklärt.",
      "examples": [
       {
        "de": "Leon hat den Kaffee bezahlt.",
@@ -3616,13 +3618,18 @@
         "verdienen",
         "verdient",
         "earn"
+       ],
+       [
+        "erklären",
+        "erklärt",
+        "explain"
        ]
       ]
      },
      "more": "In lesson 2 you learned gut bezahlt as a chunk. Now you can see what is inside: bezahlt is the participle of bezahlen. The job is paid well. The sign is the beginning: be- at the start of bezahlen, besuchen and bestellen, ver- at the start of verdienen. These beginnings are small words that are glued to the verb. So there is no room for ge-. The rest is easy: stem + t, like in lesson 1.",
      "lead": "You know the -ieren group. On this card: the second group, verbs that start with be- or ver-, so you can say bezahlt, besucht, bestellt and verdient.",
      "deeper": {
-      "text": "Look at the beginning of the verb, not at the end. Be- and ver- are not words on their own, but they change the meaning: zahlen is to pay, bezahlen is to pay for. Also remember: the stem of bestellen ends in -ll, so the participle is bestellt, not bestellet.",
+      "text": "Look at the beginning of the verb, not at the end. Be- and ver- are not words on their own, but they change the meaning: zahlen is to pay, bezahlen is to pay for. The stem of bestellen ends in -ll, not in t or d, so it needs no extra e: bestellt, not bestellet.",
       "example": {
        "de": "Ich habe Pizza bestellt.",
        "en": "I ordered pizza.",
@@ -3698,12 +3705,12 @@
        ]
       },
       {
-       "de": "Anna arbeitet als Pflegerin.",
-       "en": "Anna works as a nurse.",
+       "de": "Meine Schwester arbeitet als Pflegerin.",
+       "en": "My sister works as a nurse.",
        "why": "woman: -in",
        "parts": [
         [
-         "Anna",
+         "Meine Schwester",
          "subject"
         ],
         [
@@ -3755,11 +3762,11 @@
      "deeper": {
       "text": "To talk about a job, the easiest way is to say your own: Ich arbeite als Mechaniker. Remember two things. First, there is no ein before the job. Second, a woman adds -in: Mechanikerin. If you forget the -in, people still understand you, but the correct form sounds much more natural.",
       "example": {
-       "de": "Mira ist Programmiererin.",
-       "en": "Mira is a programmer.",
+       "de": "Meine Freundin ist Programmiererin.",
+       "en": "My friend is a programmer.",
        "parts": [
         [
-         "Mira",
+         "Meine Freundin",
          "subject"
         ],
         [
@@ -4022,7 +4029,7 @@
      "more": "Three small questions solve every regular participle. Question one: does the verb end in -ieren or start with be- or ver-? Then no ge-, just stem + t. Question two: does the stem end in t, d, gn, fn or chn? Then ge + stem + et. Question three: everything else is ge + stem + t. Try the table and say a sentence for each row. After a few rounds you will do this without thinking.",
      "lead": "You have all three kinds of regular participle. On this card, the last of the lesson: a three-way sorting, so you can choose the right form for any verb.",
      "deeper": {
-      "text": "If you are ever unsure, check the dictionary. It shows the forms: besuchen, besucht, hat besucht. The same pattern appears in the vocabulary lists of this course: studieren (studiert, hat studiert). Read these little brackets, they tell you the participle.",
+      "text": "If you are ever unsure, check a dictionary. It shows the forms: besuchen, besucht, hat besucht. Look for the little bracket after each verb in the word list of your dictionary: it tells you the participle and also whether the helper is haben or sein. Make a habit of copying the participle together with every new verb.",
       "example": {
        "de": "Mira hat Anna besucht.",
        "en": "Mira visited Anna.",
@@ -4050,10 +4057,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:Rx3axTMEMSw"
+     "yt:Rx3axTMEMSw",
+     "yt:XTrsVMe6_mI"
     ],
     "nicosWeg": [
-     "nw:b1-40"
+     "nw:b1-40",
+     "nw:a1-38"
     ]
    },
    "drills": [
@@ -4105,7 +4114,7 @@
       "Pizza",
       "bestellt."
      ],
-     "hint": "bestellt has no ge-.",
+     "hint": "A verb that starts with be-: stem + t, no ge-.",
      "explanation": "Ich habe Pizza bestellt.",
      "grammar": true
     },
@@ -4151,18 +4160,18 @@
       "Projekt",
       "organisiert."
      ],
-     "hint": "hat is part 2, organisiert is last.",
+     "hint": "Helper verb in part 2, participle last; it is an -ieren verb.",
      "explanation": "Der Ingenieur hat das Projekt organisiert.",
      "grammar": true
     },
     {
      "type": "type",
-     "prompt": "Say it: Anna works as a nurse. Anna arbeitet als ___.",
+     "prompt": "Say it: My sister works as a nurse. Meine Schwester arbeitet als ___.",
      "answers": [
       "Pflegerin"
      ],
      "hint": "A woman adds -in.",
-     "explanation": "Anna arbeitet als Pflegerin."
+     "explanation": "Meine Schwester arbeitet als Pflegerin."
     }
    ],
    "blind": {
@@ -4172,7 +4181,7 @@
      "Ich habe Informatik studiert.",
      "Informatik habe ich studiert."
     ],
-    "hint": "habe + Informatik + studiert.",
+    "hint": "Helper verb in part 2, participle last; an -ieren verb.",
     "explanation": "Ich habe Informatik studiert.",
     "grammar": true
    },
@@ -4417,8 +4426,8 @@
      "en": "mechanic (die Mechanikerin = woman)",
      "examples": [
       {
-       "de": "Leon arbeitet als Mechaniker.",
-       "en": "Leon works as a mechanic."
+       "de": "Mein Onkel arbeitet als Mechaniker.",
+       "en": "My uncle works as a mechanic."
       },
       {
        "de": "Die Mechanikerin hat das Auto repariert.",
@@ -4433,8 +4442,8 @@
      "en": "nurse, care worker (die Pflegerin = woman)",
      "examples": [
       {
-       "de": "Anna arbeitet als Pflegerin.",
-       "en": "Anna works as a nurse."
+       "de": "Meine Schwester arbeitet als Pflegerin.",
+       "en": "My sister works as a nurse."
       },
       {
        "de": "Der Pfleger hat viel telefoniert.",
@@ -4449,8 +4458,8 @@
      "en": "programmer (die Programmiererin = woman)",
      "examples": [
       {
-       "de": "Mira arbeitet als Programmiererin.",
-       "en": "Mira works as a programmer."
+       "de": "Meine Freundin arbeitet als Programmiererin.",
+       "en": "My friend works as a programmer."
       },
       {
        "de": "Der Programmierer arbeitet viel.",
@@ -4495,7 +4504,7 @@
      "answers": [
       "Wir haben Anna besucht."
      ],
-     "hint": "haben + Anna + besucht.",
+     "hint": "Helper verb in part 2, participle last; look at the start of the verb.",
      "explanation": "Wir haben Anna besucht."
     },
     {
@@ -4505,7 +4514,7 @@
       "Leon hat gestern das Auto repariert.",
       "Gestern hat Leon das Auto repariert."
      ],
-     "hint": "hat + gestern + repariert.",
+     "hint": "Helper verb in part 2, time word, participle last; an -ieren verb.",
      "explanation": "Leon hat gestern das Auto repariert."
     },
     {
@@ -4514,7 +4523,7 @@
      "answers": [
       "Ich habe viel telefoniert."
      ],
-     "hint": "habe + viel + telefoniert.",
+     "hint": "Helper verb in part 2, participle last; an -ieren verb.",
      "explanation": "Ich habe viel telefoniert."
     },
     {
@@ -4655,7 +4664,7 @@
       {
        "de": "Ich habe Pizza gegessen.",
        "en": "I ate pizza.",
-       "why": "Irregular: ge + gess + en.",
+       "why": "Irregular: learn gegessen as one whole word.",
        "parts": [
         [
          "Ich",
@@ -4723,7 +4732,7 @@
        ]
       ]
      },
-     "more": "Regular verbs are like a recipe you can repeat: ge, stem, t. Irregular verbs are like family recipes where the cook changed one ingredient. You cannot guess them, so you remember each one. Step 1: see essen. Step 2: do not say geesst. Step 3: say gegessen from memory. Good news: the ten you need most are in the next card, and you already know the present forms from earlier chapters.",
+     "more": "Regular verbs are like a recipe you can repeat: ge, stem, t. Irregular verbs are like family recipes where the cook changed one ingredient. You cannot guess them, so you remember each one. Step 1: see essen. Step 2: do not say geesst. Step 3: say gegessen from memory. Good news: the eleven you need most are in the next card, and you already know the present forms from earlier chapters.",
      "lead": "In lesson 1 you built gespielt from spiel. Now meet verbs that break that recipe: essen gives gegessen, not geesst. On this card you see the new ending -en.",
      "deeper": {
       "text": "English does the same. Play becomes played, which is regular, but eat becomes eaten and drink becomes drunk, which are not. Many German irregular participles even look like their English cousins: getrunken and drunk, gesehen and seen. Use that link to help you remember them.",
@@ -4753,7 +4762,7 @@
     },
     {
      "title": "ge ... en: the pattern",
-     "body": "Learn the three forms together. The participle starts with ge and ends in -en. The middle is the stem, and it often changes: trinken becomes getrunken. These ten come first. A table like this is your cheat sheet.",
+     "body": "Learn the three forms together. The participle starts with ge and ends in -en. The middle is the stem, and it often changes: trinken becomes getrunken. These eleven come first. A table like this is your cheat sheet.",
      "examples": [
       {
        "de": "Ich habe ein Buch gelesen.",
@@ -4779,8 +4788,8 @@
        ]
       },
       {
-       "de": "Ben hat Anna getroffen.",
-       "en": "Ben met Anna.",
+       "de": "Ben hat Mira getroffen.",
+       "en": "Ben met Mira.",
        "why": "treffen: trifft, getroffen.",
        "parts": [
         [
@@ -4792,7 +4801,7 @@
          "verb"
         ],
         [
-         "Anna",
+         "Mira",
          "object"
         ],
         [
@@ -4882,6 +4891,12 @@
         "to meet"
        ],
        [
+        "geben",
+        "gibt",
+        "gegeben",
+        "to give"
+       ],
+       [
         "schlafen",
         "schläft",
         "geschlafen",
@@ -4895,8 +4910,8 @@
        ]
       ]
      },
-     "more": "Imagine ten friends, and each one has three names: one for now, one for he or she, and one for yesterday. Essen, isst, gegessen. You say all three out loud, like a little song. Step 1: cover the English. Step 2: say the infinitive. Step 3: say the participle. Do this once a day and it sticks fast. Extra example: Ich habe Wasser getrunken means I drank water.",
-     "lead": "You saw that essen gives gegessen. On this card you meet ten useful verbs in one table, so you can talk about what you ate, drank, saw, read and wrote.",
+     "more": "Imagine eleven friends, and each one has three names: one for now, one for he or she, and one for yesterday. Essen, isst, gegessen. You say all three out loud, like a little song. Step 1: cover the English. Step 2: say the infinitive. Step 3: say the participle. Do this once a day and it sticks fast. Extra example: Ich habe Wasser getrunken means I drank water.",
+     "lead": "You saw that essen gives gegessen. On this card you meet eleven useful verbs in one table, so you can talk about what you ate, drank, saw, read and wrote.",
      "deeper": {
       "text": "Look at the table again. The participle keeps -en at the end, but the stem vowel can change, like i to u in trinken or e to o in sprechen. Also nehmen doubles the m (genommen) and treffen keeps ff. Spell them with care: one wrong letter looks odd to a German reader.",
       "example": {
@@ -5030,7 +5045,7 @@
       ]
      },
      "more": "Think of sorting socks. If you throw all of them into one drawer, you search for ages. If you make two piles, you find a pair at once. Pile 1 is the same-vowel pile: the middle sound does not move. Pile 2 is the changing pile: the middle sound jumps, like trinken to getrunken. Step 1: read pile 1 aloud. Step 2: read pile 2 aloud. Step 3: cover the table and try to say one from each pile.",
-     "lead": "You have all ten in one table. Next we sort them into two small groups, because a short group is easier to remember than ten loose words.",
+     "lead": "You have all eleven in one table. Next we sort them into two small groups, because a short group is easier to remember than eleven loose words.",
      "deeper": {
       "text": "Careful: a vowel change in the present does not mean the same change in the participle. Er liest has ie, but the participle is gelesen with a plain e. Er sieht has ie, but the participle is gesehen. Learn the participle on its own, as its own word.",
       "example": {
@@ -5274,12 +5289,12 @@
        ]
       },
       {
-       "de": "Anna hat eine Stelle gefunden.",
-       "en": "Anna found a job.",
+       "de": "Meine Schwester hat eine Stelle gefunden.",
+       "en": "My sister found a job.",
        "why": "finden: gefunden.",
        "parts": [
         [
-         "Anna",
+         "Meine Schwester",
          "subject"
         ],
         [
@@ -5334,7 +5349,7 @@
      "more": "At work, most of the day is little tasks: read this, write that, talk to someone, meet someone. Each task is one verb from your table. Step 1: pick the task. Step 2: pick the verb. Step 3: put habe or hat in the second place and the participle last. Extra example: Ich habe die Kollegin getroffen means I met the colleague. With sprechen, do not forget mit: you speak with someone.",
      "lead": "You can already talk about food. Next you meet work: the same verbs for mail, letters and meetings. On this card you also see that sprechen needs mit and treffen does not.",
      "deeper": {
-      "text": "Treffen takes the person directly: Ich habe Anna getroffen. Sprechen needs mit: Ich habe mit Anna gesprochen. English does the same when you say talk with someone. If you forget mit, the sentence sounds wrong.",
+      "text": "Treffen takes the person directly: Ich habe Anna getroffen. Sprechen needs mit: Ich habe mit Anna gesprochen. English does the same when you say talk with someone. If you forget mit, the sentence sounds wrong. A quick check: after sprechen ask with whom? and add mit; after treffen no extra word is needed.",
       "example": {
        "de": "Ich habe mit Anna gesprochen.",
        "en": "I spoke with Anna.",
@@ -5364,12 +5379,12 @@
      "body": "Learn the place with its word for where. Use in for most places: in der Fabrik, in der Werkstatt, im Geschäft. Two are special: auf der Baustelle and am Arbeitsplatz. Learn each one as one piece. You know in der and im from chapters 7 and 9.",
      "examples": [
       {
-       "de": "Leon hat in der Werkstatt gearbeitet.",
-       "en": "Leon worked in the workshop.",
+       "de": "Mein Onkel hat in der Werkstatt gearbeitet.",
+       "en": "My uncle worked in the workshop.",
        "why": "in der Werkstatt: learn it as one piece.",
        "parts": [
         [
-         "Leon",
+         "Mein Onkel",
          "subject"
         ],
         [
@@ -5477,10 +5492,10 @@
        ]
       ]
      },
-     "more": "Think of each work place as a label with its own small sticker for where. Fabrik gets in der, Werkstatt gets in der, Geschäft gets im, Baustelle gets auf der, Arbeitsplatz gets am. You do not need to ask why yet. Step 1: learn the place. Step 2: learn the sticker with it. Step 3: put the whole block in the middle of the sentence. Extra example: Ich habe am Arbeitsplatz Kaffee getrunken.",
+     "more": "Think of each work place as a label with its own small sticker for where. Fabrik gets in der, Werkstatt gets in der, Geschäft gets im, Baustelle gets auf der, Arbeitsplatz gets am. You do not need to ask why yet. Step 1: learn the place. Step 2: learn the sticker with it. Step 3: put the whole block in the middle of the sentence. Extra example: Ich habe am Arbeitsplatz Kaffee getrunken. A craftsperson is der Handwerker, and a woman is die Handwerkerin.",
      "lead": "So far the sentences were about food and mail. On this card: five words for places where people work, and in + the place, so you can say where you worked.",
      "deeper": {
-      "text": "Draußen and drinnen are small words that say outside and inside. They need no in and no ending. Craftspeople often work draußen, and office workers often work drinnen. Put them in the middle, just like a place block.",
+      "text": "Draußen and drinnen are small words that say outside and inside. They need no in and no ending. Craftspeople often work draußen, and office workers often work drinnen. Put them in the middle, just like a place block: after the helper verb and the subject, and before the participle.",
       "example": {
        "de": "Die Handwerker haben draußen gearbeitet.",
        "en": "The craftspeople worked outside.",
@@ -5725,7 +5740,7 @@
      "answers": [
       "geschrieben"
      ],
-     "hint": "Look at the table of ten verbs.",
+     "hint": "Look at the table of eleven verbs.",
      "explanation": "schreiben - schreibt - geschrieben.",
      "grammar": true
     },
@@ -5754,14 +5769,14 @@
     },
     {
      "type": "choice",
-     "prompt": "Leon hat ___ gearbeitet.",
+     "prompt": "Mein Onkel hat ___ gearbeitet.",
      "options": [
       "im Werkstatt",
       "in der Werkstatt",
       "in den Werkstatt"
      ],
      "answer": 1,
-     "hint": "Learn in der Werkstatt as one piece.",
+     "hint": "One of the work places that takes in and the feminine form.",
      "explanation": "in der Werkstatt."
     },
     {
@@ -5850,13 +5865,13 @@
      "type": "choice",
      "prompt": "Which sentence has the right word order?",
      "options": [
-      "Ben hat getroffen Anna.",
-      "Ben hat Anna getroffen.",
-      "Ben getroffen hat Anna."
+      "Ben hat getroffen Mira.",
+      "Ben hat Mira getroffen.",
+      "Ben getroffen hat Mira."
      ],
      "answer": 1,
      "hint": "The participle is last.",
-     "explanation": "Ben hat Anna getroffen.",
+     "explanation": "Ben hat Mira getroffen.",
      "grammar": true
     },
     {
@@ -5865,7 +5880,7 @@
      "answers": [
       "hast"
      ],
-     "hint": "du goes with hast.",
+     "hint": "Match the form of haben to du.",
      "explanation": "Was hast du gegessen?",
      "grammar": true
     },
@@ -5888,7 +5903,7 @@
       "kaufen"
      ],
      "answer": 2,
-     "hint": "The irregular ones are on the table of ten.",
+     "hint": "The irregular ones are on the table of eleven.",
      "explanation": "kaufen - gekauft is regular."
     },
     {
@@ -5937,8 +5952,8 @@
        "en": "I cannot find the station."
       },
       {
-       "de": "Mira hat eine Stelle gefunden.",
-       "en": "Mira found a job."
+       "de": "Meine Schwester hat eine Stelle gefunden.",
+       "en": "My sister found a job."
       }
      ],
      "forms": "findet, hat gefunden"
@@ -5963,8 +5978,8 @@
      "en": "factory",
      "examples": [
       {
-       "de": "Frau Weber hat in der Fabrik gearbeitet.",
-       "en": "Frau Weber worked in the factory."
+       "de": "Mein Onkel hat in der Fabrik gearbeitet.",
+       "en": "My uncle worked in the factory."
       },
       {
        "de": "Die Fabrik ist groß.",
@@ -5979,12 +5994,12 @@
      "en": "workshop",
      "examples": [
       {
-       "de": "Leon arbeitet in der Werkstatt.",
-       "en": "Leon works in the workshop."
+       "de": "Mein Onkel arbeitet in der Werkstatt.",
+       "en": "My uncle works in the workshop."
       },
       {
-       "de": "Leon hat die Werkstatt um acht geöffnet.",
-       "en": "Leon opened the workshop at eight."
+       "de": "Mein Onkel hat die Werkstatt um acht geöffnet.",
+       "en": "My uncle opened the workshop at eight."
       }
      ],
      "article": "die",
@@ -6043,8 +6058,8 @@
      "en": "craftsperson (man)",
      "examples": [
       {
-       "de": "Leon ist Handwerker.",
-       "en": "Leon is a craftsman."
+       "de": "Mein Onkel ist Handwerker.",
+       "en": "My uncle is a craftsman."
       },
       {
        "de": "Der Handwerker hat draußen gearbeitet.",
@@ -6142,12 +6157,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Anna worked in the factory.",
+     "prompt": "Write in German: My uncle worked in the factory.",
      "answers": [
-      "Anna hat in der Fabrik gearbeitet."
+      "Mein Onkel hat in der Fabrik gearbeitet."
      ],
-     "hint": "in der Fabrik, then the participle.",
-     "explanation": "Anna hat in der Fabrik gearbeitet."
+     "hint": "The place block after the helper verb, participle last.",
+     "explanation": "Mein Onkel hat in der Fabrik gearbeitet."
     }
    ]
   },
@@ -7230,7 +7245,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:50istPWib_g"
+     "yt:50istPWib_g",
+     "yt:tkVix83IePU"
     ],
     "nicosWeg": [
      "nw:a1-55"
@@ -7269,7 +7285,7 @@
      "answers": [
       "bist"
      ],
-     "hint": "du goes with bist.",
+     "hint": "Match the form of sein to du.",
      "explanation": "du bist geflogen.",
      "grammar": true
     },
@@ -7471,7 +7487,7 @@
       "back"
      ],
      "answer": 2,
-     "hint": "Think of coming back home.",
+     "hint": "Think of the way home after a trip.",
      "explanation": "zurück = back."
     },
     {
@@ -7713,7 +7729,7 @@
      "answers": [
       "Der Pilot ist nach Hamburg geflogen."
      ],
-     "hint": "fliegen takes sein; Hamburg takes nach.",
+     "hint": "A movement verb takes sein; cities take a small word for to.",
      "explanation": "Der Pilot ist nach Hamburg geflogen."
     },
     {
@@ -7723,7 +7739,7 @@
       "Gestern haben wir Pizza gegessen.",
       "Wir haben gestern Pizza gegessen."
      ],
-     "hint": "Eating is no move: haben.",
+     "hint": "Eating is no move from A to B.",
      "explanation": "Gestern haben wir Pizza gegessen."
     },
     {
@@ -8349,7 +8365,7 @@
      "more": "A bad morning is a little story with a problem and a surprise. The Wecker did not wake you, so you woke up too late. Then came a Stau, and maybe even an Unfall. Plötzlich is the word for the surprise. Step 1: say what happened first. Step 2: add a small word like plötzlich or zu spät. Step 3: finish with sein or haben and the participle. Extra example: Ich habe den Wecker nicht gehört means I did not hear the alarm clock.",
      "lead": "You can build the participles now. On this card: five words for telling a bad morning, so you can answer Was ist passiert?",
      "deeper": {
-      "text": "Was ist passiert? is the normal question when something happened. The answer often starts with a time word or with es: Gestern ist ein Unfall passiert. Passieren never has an object, because things simply happen.",
+      "text": "Was ist passiert? is the normal question when something happened. The answer often starts with a time word or with es: Gestern ist ein Unfall passiert. Passieren never has an object, because things simply happen to people. It always uses sein and has no ge-, so the participle looks like the present form: passiert.",
       "example": {
        "de": "Gestern ist ein Unfall passiert.",
        "en": "Yesterday an accident happened.",
@@ -8482,11 +8498,11 @@
      "deeper": {
       "text": "Some verbs are busy actions but take haben, because nobody changes place or state: arbeiten, schlafen, essen. When you meet a new verb, ask the three questions before you build the Perfekt. Good dictionaries also show it: look for ist or hat in front of the participle.",
       "example": {
-       "de": "Leon hat in der Werkstatt gearbeitet.",
-       "en": "Leon worked in the workshop.",
+       "de": "Mein Onkel hat in der Werkstatt gearbeitet.",
+       "en": "My uncle worked in the workshop.",
        "parts": [
         [
-         "Leon",
+         "Mein Onkel",
          "subject"
         ],
         [
@@ -8781,7 +8797,7 @@
       "ich",
       "gefrühstückt."
      ],
-     "hint": "Dann is part 1. The helper verb is part 2.",
+     "hint": "Start with the order word for then; the helper verb is part 2.",
      "explanation": "Dann + habe + ich + gefrühstückt.",
      "grammar": true
     },
@@ -9408,12 +9424,12 @@
        ]
       },
       {
-       "de": "Ben und Leon waren im Café.",
-       "en": "Ben and Leon were in the café.",
+       "de": "Ben und Mira waren im Café.",
+       "en": "Ben and Mira were in the café.",
        "why": "sie waren: ending -en.",
        "parts": [
         [
-         "Ben und Leon",
+         "Ben und Mira",
          "subject"
         ],
         [
@@ -9627,7 +9643,7 @@
        ]
       ]
      },
-     "more": "Hatte is the twin of war. Same song, new words: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten. Step 1: remember that haben = to have. Step 2: say the six forms. Step 3: build one sentence: Wir hatten keine Zeit. Extra example: Ben hatte Hunger = Ben was hungry.",
+     "more": "Hatte is the twin of war. Same song, new words: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten. Step 1: remember that haben = to have. Step 2: say the six forms. Step 3: build one sentence: Wir hatten keine Zeit. Extra example: Ben hatte Hunger = Ben was hungry. Watch one trap: hatten and hattet differ by one letter, so say both slowly, twice.",
      "lead": "You know war now. Its twin hatte covers everything you had yesterday: time, an exam or hunger. Same pattern, so this card should feel familiar.",
      "deeper": {
       "text": "English uses two different ideas here: I was hungry (to be) but German says Ich hatte Hunger (to have). Watch out for this. Hunger and Durst are things you have in German, not things you are. Learn Ich hatte Hunger as one piece.",
@@ -9919,7 +9935,7 @@
       "Say what you did: Ich habe viel gelernt.",
       "Say the result: Es war schwer, aber ich habe bestanden."
      ],
-     "more": "Telling a story is like switching between two tools in a toolbox. Short sentence about how things were: war or hatte. Sentence about something you did: Perfekt. Step 1: set the scene with war or hatte. Step 2: tell the actions with the Perfekt. Step 3: finish with the result. Extra example: Ich war müde, aber ich habe gearbeitet.",
+     "more": "Telling a story is like switching between two tools in a toolbox. Short sentence about how things were: war or hatte. Sentence about something you did: Perfekt. Step 1: set the scene with war or hatte. Step 2: tell the actions with the Perfekt. Step 3: finish with the result. Extra example: Ich war müde, aber ich habe gearbeitet. Now tell your own yesterday in three sentences.",
      "lead": "You can choose the right tool for each verb. Now you use both in one little story, the way real speakers do when they tell about a day.",
      "deeper": {
       "text": "Look at bestanden. It starts with be-, like bezahlt in lesson 3, so there is no ge-. But the stem also changes: bestehen, bestanden. Treat bestanden as one new piece. You will meet more verbs like this, so just learn the participle with the verb: besteht, hat bestanden.",
@@ -10241,7 +10257,8 @@
      "yt:JtGT8F9brXs"
     ],
     "nicosWeg": [
-     "nw:b1-11"
+     "nw:b1-11",
+     "nw:a1-36"
     ],
     "practice": [
      "link:lingolia-tenses"
@@ -10384,7 +10401,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Mira und Anna ___ in der Mensa.",
+     "prompt": "Mira und Ben ___ in der Mensa.",
      "options": [
       "war",
       "wart",
@@ -10392,7 +10409,7 @@
      ],
      "answer": 2,
      "hint": "sie (they) → -en.",
-     "explanation": "Mira und Anna waren in der Mensa.",
+     "explanation": "Mira und Ben waren in der Mensa.",
      "grammar": true
     },
     {
@@ -10514,7 +10531,7 @@
    ],
    "vocabulary": [
     {
-     "de": "das Studium",
+     "de": "Studium",
      "en": "studies, university life",
      "examples": [
       {
@@ -10529,7 +10546,7 @@
      "article": "das"
     },
     {
-     "de": "das Seminar",
+     "de": "Seminar",
      "en": "seminar",
      "examples": [
       {
@@ -10545,7 +10562,7 @@
      "plural": "die Seminare"
     },
     {
-     "de": "die Note",
+     "de": "Note",
      "en": "grade, mark",
      "examples": [
       {
@@ -10576,7 +10593,7 @@
      "forms": "besteht, hat bestanden"
     },
     {
-     "de": "der Stundenplan",
+     "de": "Stundenplan",
      "en": "timetable",
      "examples": [
       {
@@ -10592,7 +10609,7 @@
      "plural": "die Stundenpläne"
     },
     {
-     "de": "die Mensa",
+     "de": "Mensa",
      "en": "university canteen",
      "examples": [
       {
@@ -10608,7 +10625,7 @@
      "plural": "die Mensen"
     },
     {
-     "de": "das Referat",
+     "de": "Referat",
      "en": "presentation (at university)",
      "examples": [
       {
@@ -10624,7 +10641,7 @@
      "plural": "die Referate"
     },
     {
-     "de": "der Studiengang",
+     "de": "Studiengang",
      "en": "degree programme",
      "examples": [
       {
@@ -10640,7 +10657,7 @@
      "plural": "die Studiengänge"
     },
     {
-     "de": "der Abschluss",
+     "de": "Abschluss",
      "en": "degree, completion",
      "examples": [
       {
@@ -10969,7 +10986,7 @@
        ]
       ]
      },
-     "more": "A yes/no question is like flipping a coin: only the first two things swap places. Step 1: take the statement Du hast gearbeitet. Step 2: move the helper verb to the front: Hast du gearbeitet? Step 3: leave the participle at the end, where it waits. Extra example: Sind Sie nach Berlin gefahren? = Did you go to Berlin?",
+     "more": "A yes/no question is like flipping a coin: only the first two things swap places. Step 1: take the statement Du hast gearbeitet. Step 2: move the helper verb to the front: Hast du gearbeitet? Step 3: leave the participle at the end, where it waits. Extra example: Sind Sie nach Berlin gefahren? = Did you go to Berlin? Say each pair aloud once.",
      "lead": "You know the Perfekt bracket as a statement. Now you learn to turn it into a question, which is the first thing a boss or a classmate will ask you.",
      "deeper": {
       "text": "In a job talk you often hear the formal Sie: Haben Sie schon gearbeitet? Sind Sie schon geflogen? The pattern is the same as with du: helper verb first, participle last. The Sie form always has a capital S, and the helper verb has the same form as for wir: haben, sind.",
@@ -11136,7 +11153,7 @@
        ]
       ]
      },
-     "more": "A W-question is a yes/no question with a question word in front. Step 1: start from Hast du gearbeitet? Step 2: put the W-word before it: Wo hast du gearbeitet? Step 3: the helper verb is still in second place and the participle is still last. Extra example: Was hast du gestern gemacht? = What did you do yesterday?",
+     "more": "A W-question is a yes/no question with a question word in front. Step 1: start from Hast du gearbeitet? Step 2: put the W-word before it: Wo hast du gearbeitet? Step 3: the helper verb is still in second place and the participle is still last. Extra example: Was hast du gestern gemacht? = What did you do yesterday? Say all four questions aloud once.",
      "lead": "Yes/no questions are done. Now W-questions, so you can ask for details: what, where, when and how long. They are the questions that keep a conversation going.",
      "deeper": {
       "text": "In an interview you will hear these four questions again and again: Was haben Sie studiert? Wo haben Sie gearbeitet? Wann haben Sie angefangen? Wie lange haben Sie gearbeitet? Learn them as a set. The helper verb is always in second place, even after a long W-word like wie lange.",
@@ -11675,9 +11692,9 @@
       "ich habe Ihre Anzeige gelesen.",
       "Ich möchte bei Ihnen arbeiten.",
       "Ich habe schon im Café gearbeitet.",
-      "Mit freundlichen Grüßen, Mira"
+      "Mit freundlichen Grüßen (new line) Mira"
      ],
-     "more": "An application email is like a small recipe with four steps. Step 1: say hello politely: Sehr geehrte Frau Weber. Step 2: say what you read: Ich habe Ihre Anzeige gelesen. Step 3: say what you want: Ich möchte bei Ihnen arbeiten. Step 4: say what you did and say goodbye: Mit freundlichen Grüßen. Each step is one short sentence you already know.",
+     "more": "An application email is like a small recipe with four steps. Step 1: say hello politely: Sehr geehrte Frau Weber. Step 2: say what you read: Ich habe Ihre Anzeige gelesen. Step 3: say what you want: Ich möchte bei Ihnen arbeiten. Step 4: say what you did and say goodbye: Mit freundlichen Grüßen. Each step is one short sentence you already know. After your email, a Bewerbungsgespräch (job interview) may follow.",
      "lead": "You have the words and the sentence patterns. Now you put them in the right order to build a real, short email to a possible boss.",
      "deeper": {
       "text": "Keep the email short and polite. The words Sehr geehrte and Mit freundlichen Grüßen are the frame of every formal email, and they stay the same. For a man you write Sehr geehrter Herr Ali, with -er at the end. Put your name under Mit freundlichen Grüßen. The boss decides in a few seconds, so short is good.",
@@ -11826,11 +11843,13 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:iyoptTjDtz0"
+     "yt:iyoptTjDtz0",
+     "yt:09HKlpu8Uyc",
+     "yt:lFBRaAMH0uc"
     ],
     "nicosWeg": [
      "nw:a2-50",
-     "nw:b1-19"
+     "nw:a1-40"
     ]
    },
    "drills": [
@@ -11872,7 +11891,7 @@
      "answers": [
       "Ich habe nicht gearbeitet."
      ],
-     "hint": "nicht goes before the participle.",
+     "hint": "The negation goes right in front of the last word.",
      "explanation": "Ich habe nicht gearbeitet.",
      "grammar": true
     },
@@ -11885,7 +11904,7 @@
       "Ich nicht habe das Buch gelesen."
      ],
      "answer": 0,
-     "hint": "nicht stands right before the participle.",
+     "hint": "The negation stands right in front of the last word.",
      "explanation": "Ich habe das Buch nicht gelesen.",
      "grammar": true
     },
@@ -11960,7 +11979,7 @@
      "Ich habe die Stellenanzeige nicht gelesen.",
      "Ich habe die Anzeige nicht gelesen."
     ],
-    "hint": "nicht before the participle.",
+    "hint": "The negation goes in front of the participle.",
     "explanation": "Ich habe die Stellenanzeige nicht gelesen.",
     "grammar": true
    },
@@ -12018,7 +12037,7 @@
       "Ich habe Informatik studiert nicht."
      ],
      "answer": 1,
-     "hint": "nicht before the participle at the end.",
+     "hint": "The negation goes in front of the participle at the end.",
      "explanation": "Ich habe Informatik nicht studiert.",
      "grammar": true
     },
@@ -12028,7 +12047,7 @@
      "answers": [
       "Gestern habe ich nicht gearbeitet."
      ],
-     "hint": "Time first, helper in part 2, nicht before the participle.",
+     "hint": "Time first, helper in part 2, negation in front of the participle.",
      "explanation": "Gestern habe ich nicht gearbeitet.",
      "grammar": true
     },
@@ -12072,7 +12091,7 @@
       "nicht",
       "gegessen."
      ],
-     "hint": "noch nicht goes before the participle.",
+     "hint": "The words for not yet go in front of the participle.",
      "explanation": "Ich habe noch nicht gegessen.",
      "grammar": true
     },
@@ -12122,7 +12141,7 @@
    ],
    "vocabulary": [
     {
-     "de": "die Bewerbung",
+     "de": "Bewerbung",
      "en": "application",
      "examples": [
       {
@@ -12138,7 +12157,7 @@
      "plural": "die Bewerbungen"
     },
     {
-     "de": "der Lebenslauf",
+     "de": "Lebenslauf",
      "en": "CV, résumé",
      "examples": [
       {
@@ -12154,7 +12173,7 @@
      "plural": "die Lebensläufe"
     },
     {
-     "de": "das Bewerbungsgespräch",
+     "de": "Bewerbungsgespräch",
      "en": "job interview",
      "examples": [
       {
@@ -12170,7 +12189,7 @@
      "plural": "die Bewerbungsgespräche"
     },
     {
-     "de": "die Stellenanzeige",
+     "de": "Stellenanzeige",
      "en": "job ad",
      "examples": [
       {
@@ -12186,7 +12205,7 @@
      "plural": "die Stellenanzeigen"
     },
     {
-     "de": "die Erfahrung",
+     "de": "Erfahrung",
      "en": "experience",
      "examples": [
       {
@@ -12202,7 +12221,7 @@
      "plural": "die Erfahrungen"
     },
     {
-     "de": "die Ausbildung",
+     "de": "Ausbildung",
      "en": "training, apprenticeship",
      "examples": [
       {
@@ -12218,7 +12237,7 @@
      "plural": "die Ausbildungen"
     },
     {
-     "de": "das Zeugnis",
+     "de": "Zeugnis",
      "en": "certificate, reference",
      "examples": [
       {
@@ -12234,7 +12253,7 @@
      "plural": "die Zeugnisse"
     },
     {
-     "de": "der Nebenjob",
+     "de": "Nebenjob",
      "en": "side job",
      "examples": [
       {
@@ -12250,7 +12269,7 @@
      "plural": "die Nebenjobs"
     },
     {
-     "de": "der Erntehelfer",
+     "de": "Erntehelfer",
      "en": "harvest helper (f: die Erntehelferin)",
      "examples": [
       {
@@ -12266,7 +12285,7 @@
      "plural": "die Erntehelfer"
     },
     {
-     "de": "die Saison",
+     "de": "Saison",
      "en": "season (busy time of the year)",
      "examples": [
       {
@@ -12311,7 +12330,7 @@
      "answers": [
       "Ich habe nicht studiert."
      ],
-     "hint": "nicht before the participle.",
+     "hint": "The negation goes in front of the participle.",
      "explanation": "Ich habe nicht studiert.",
      "grammar": true
     },
@@ -12331,7 +12350,7 @@
      "answers": [
       "Ich habe noch nicht gegessen."
      ],
-     "hint": "noch nicht before the participle.",
+     "hint": "The words for not yet go in front of the participle.",
      "explanation": "Ich habe noch nicht gegessen.",
      "grammar": true
     }
@@ -12562,7 +12581,7 @@
        ]
       ]
      },
-     "more": "A call has an opening, like opening a door. Step 1: knock with Guten Tag. Step 2: say your name with Hier spricht ... Step 3: say who you want to talk to. The other person has two easy answers: Am Apparat (that is me) or Ich verbinde Sie (I will pass you on). Do not try to explain verbinde. Just learn it like a song line.",
+     "more": "A call has an opening, like opening a door. Step 1: knock with Guten Tag. Step 2: say your name with Hier spricht ... Step 3: say who you want to talk to. The other person has two easy answers: Am Apparat (that is me) or Ich verbinde Sie (I will pass you on). Do not try to explain verbinde. Just learn it like a song line. A phone call is der Anruf: Der Anruf ist für Sie.",
      "lead": "You know how to greet someone face to face. On the phone you need a few extra fixed phrases, so you sound clear and polite from the first second.",
      "deeper": {
       "text": "Why Hier spricht Mira and not Ich bin Mira? On the phone Germans say Hier spricht ... or Hier ist ... instead of I am. It is a fixed habit: hier means here, the place of the speaker. It is also polite to give your full name at a business call. In a private call Hier ist Leon is enough.",
@@ -12836,7 +12855,7 @@
       "rows": [
        [
         "M",
-        "emm"
+        "em"
        ],
        [
         "I",
@@ -12844,7 +12863,7 @@
        ],
        [
         "R",
-        "err"
+        "er"
        ],
        [
         "A",
@@ -12852,7 +12871,7 @@
        ]
       ]
      },
-     "more": "Spelling on the phone is like giving someone building blocks, one by one. Step 1: ask Können Sie das buchstabieren? Step 2: the other person says each letter slowly. Step 3: repeat the letters back to check. Letters in German sound like this: M = emm, I = ih, R = err, A = ah. Extra example: Wie schreibt man Hallo? = How do you write Hallo?",
+     "more": "Spelling on the phone is like giving someone building blocks, one by one. Step 1: ask Können Sie das buchstabieren? Step 2: the other person says each letter slowly. Step 3: repeat the letters back to check. Letters in German sound like this: M = em, I = ih, R = er, A = ah. Extra example: Wie schreibt man Hallo? = How do you write Hallo?",
      "lead": "After asking someone to repeat, the next thing you often need is spelling. This card gives you the two questions and a way to say your own name.",
      "deeper": {
       "text": "Spelling is very common in Germany, because many names and street names are long. People often say a name for each letter, like M wie Mira. At A1 it is enough to say the letters one after the other, slowly. A German likes it when you repeat the letters back: it shows you are careful.",
@@ -13238,19 +13257,19 @@
      "deeper": {
       "text": "The h also appears in some very common words where you do not hear it: nehmen, sehen, gehen, Zahn, Uhr. You can still use it as a clue for spelling: when the vowel is long, a silent h often follows. Native speakers do not have to think about it. You can learn the words as pairs of sound and spelling.",
       "example": {
-       "de": "Ich habe Hunger.",
-       "en": "I am hungry.",
+       "de": "Ich sehe die Uhr.",
+       "en": "I see the clock.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "habe",
+         "sehe",
          "verb"
         ],
         [
-         "Hunger.",
+         "die Uhr.",
          "object"
         ]
        ]
@@ -13259,7 +13278,7 @@
     },
     {
      "title": "A whole call",
-     "body": "Here is a whole call. Mira phones Herr Ali about the Nebenjob. She opens the call, says why she calls, asks him to repeat, asks him to spell and closes the call. Read the five steps in order and notice the phrases from this lesson.",
+     "body": "Here is a whole call. Mira phones Frau Weber about the Nebenjob. She opens the call, says why she calls, asks him to repeat, asks him to spell and closes the call. Read the five steps in order and notice the phrases from this lesson.",
      "examples": [
       {
        "de": "Guten Tag, hier spricht Mira.",
@@ -13428,7 +13447,8 @@
      "yt:onGGS27eUGA"
     ],
     "nicosWeg": [
-     "nw:a2-31"
+     "nw:a2-31",
+     "nw:a1-04"
     ]
    },
    "drills": [
@@ -13484,7 +13504,7 @@
       "Können Sie das bitte wiederholen?"
      ],
      "answer": 2,
-     "hint": "Können first, the person after it, the infinitive at the very end.",
+     "hint": "The modal verb first, the person after it, the infinitive at the very end.",
      "explanation": "Können Sie das bitte wiederholen?",
      "grammar": true
     },
@@ -13523,7 +13543,7 @@
       "Auf Wiederhören!"
      ],
      "answer": 1,
-     "hint": "A polite request with Können.",
+     "hint": "A polite request with the modal for can.",
      "explanation": "Können Sie das buchstabieren?",
      "grammar": true
     },
@@ -13545,7 +13565,7 @@
      "Können Sie bitte langsamer sprechen?",
      "Können Sie langsamer sprechen?"
     ],
-    "hint": "Können + Sie + ... + infinitive last.",
+    "hint": "Modal + Sie + ... + infinitive last.",
     "explanation": "Können Sie bitte langsamer sprechen?",
     "grammar": true
    },
@@ -13565,7 +13585,7 @@
       "langsamer",
       "sprechen?"
      ],
-     "hint": "Können first, sprechen last.",
+     "hint": "Modal first, the second verb last.",
      "explanation": "Können Sie langsamer sprechen?",
      "grammar": true
     },
@@ -13576,7 +13596,7 @@
       "Können Sie bitte lauter sprechen?",
       "Können Sie lauter sprechen?"
      ],
-     "hint": "Können + Sie + ... + infinitive last.",
+     "hint": "Modal + Sie + ... + infinitive last.",
      "explanation": "Können Sie bitte lauter sprechen?",
      "grammar": true
     },
@@ -13620,7 +13640,7 @@
       "nicht",
       "verstanden."
      ],
-     "hint": "Helper verb in part 2, nicht before the participle.",
+     "hint": "Helper verb in part 2, negation before the participle.",
      "explanation": "Ich habe Sie nicht verstanden.",
      "grammar": true
     },
@@ -13676,7 +13696,7 @@
      "answers": [
       "rufe"
      ],
-     "hint": "ich → rufe.",
+     "hint": "A separable verb: use the ich form.",
      "explanation": "Ich rufe später noch einmal an.",
      "grammar": true
     },
@@ -13689,14 +13709,14 @@
       "Ich habe Sie verstanden nicht."
      ],
      "answer": 1,
-     "hint": "nicht goes before the participle.",
+     "hint": "The negation goes right in front of the participle.",
      "explanation": "Ich habe Sie nicht verstanden.",
      "grammar": true
     }
    ],
    "vocabulary": [
     {
-     "de": "der Anruf",
+     "de": "Anruf",
      "en": "call, phone call",
      "examples": [
       {
@@ -13825,7 +13845,7 @@
      ]
     },
     {
-     "de": "die Mailbox",
+     "de": "Mailbox",
      "en": "voicemail",
      "examples": [
       {
@@ -13904,12 +13924,8 @@
    "day": 1,
    "reading": {
     "title": "Miras erste Uni-Woche",
-    "text": "Hallo Leon, wie geht's? Meine erste Woche in der Uni war anstrengend, aber super. Ich habe viel gelernt. In der Vorlesung habe ich gefragt, und die Lehrerin hat geantwortet. Am Mittwoch habe ich für die Prüfung geübt. Dann habe ich mit Anna telefoniert. Sie hat ein Praktikum gemacht und das Projekt organisiert. Das hat Spaß gemacht. Ich habe auch eine Idee: Ich möchte ein Praktikum machen. Der Job ist gut bezahlt und macht Spaß. Und du? Was hast du gemacht? Hast du auch gearbeitet? Hast du in der Werkstatt gearbeitet? Viele Grüße\nMira",
+    "text": "Hallo Leon, wie geht's? Meine erste Woche in der Uni war anstrengend, aber super. Ich habe viel gelernt. In der Vorlesung habe ich gefragt, und die Lehrerin hat geantwortet. Am Mittwoch habe ich für die Prüfung geübt. Dann habe ich mit Anna telefoniert. Sie hat ein Praktikum gemacht und das Projekt organisiert. Das hat Spaß gemacht. Ich habe auch eine Idee: Ich möchte ein Praktikum machen. Der Job ist gut bezahlt und macht Spaß. Und du? Was hast du gemacht? Hast du auch gearbeitet? Hast du im Café gearbeitet? Viele Grüße\nMira",
     "glossary": [
-     {
-      "de": "Werkstatt",
-      "en": "workshop, garage"
-     },
      {
       "de": "erste",
       "en": "first"
@@ -14030,13 +14046,13 @@
       "type": "choice",
       "prompt": "What does Mira ask Leon at the end?",
       "options": [
-       "what he did and whether he worked in the garage",
+       "what he did and whether he worked in a café",
        "whether he is ill",
        "where he lives"
       ],
       "answer": 0,
       "hint": "Look at the last questions.",
-      "explanation": "Was hast du gemacht? Hast du in der Werkstatt gearbeitet?"
+      "explanation": "Was hast du gemacht? Hast du im Café gearbeitet?"
      }
     ]
    },
@@ -14243,7 +14259,7 @@
        "viel",
        "gelernt."
       ],
-      "hint": "habe is part 2, gelernt is last.",
+      "hint": "Helper verb in part 2, participle last.",
       "explanation": "Ich habe viel gelernt.",
       "grammar": true
      },
@@ -14293,7 +14309,7 @@
       "answers": [
        "hast"
       ],
-      "hint": "du goes with hast.",
+      "hint": "Match the form of haben to du.",
       "explanation": "Was hast du gemacht?",
       "grammar": true
      }
@@ -14338,7 +14354,7 @@
    "day": 2,
    "reading": {
     "title": "Leons langer Tag",
-    "text": "Gestern war Leon sehr müde. Er ist um acht aufgewacht, zu spät! Er hat nicht gefrühstückt und ist schnell zum Bus gelaufen. Der Bus ist im Stau stecken geblieben. Um neun ist Leon in der Werkstatt angekommen. Frau Weber hat gefragt: Was ist passiert? Leon hat geantwortet: „Ein Stau!“ Zuerst hat er eine E-Mail gelesen und geschrieben. Dann hat er ein Auto repariert. Leon hat viel gearbeitet. Mittags hat er Suppe gegessen und Tee getrunken. Am Abend ist Leon in der Werkstatt geblieben. Danach hat er mit Frau Weber gesprochen. Um sieben ist er nach Hause gegangen.",
+    "text": "Gestern war Leon sehr müde. Er ist um acht aufgewacht, zu spät! Er hat nicht gefrühstückt und ist schnell zum Bus gelaufen. Der Bus ist im Stau stecken geblieben. Um neun ist Leon in der Uni angekommen. Die Lehrerin hat gefragt: Was ist passiert? Leon hat geantwortet: „Ein Stau!“ Zuerst hat er eine E-Mail gelesen und geschrieben. Dann hat er Hausaufgaben gemacht. Leon hat viel gelernt. Mittags hat er Suppe gegessen und Tee getrunken. Am Abend ist Leon in der Uni geblieben. Danach hat er mit Mira telefoniert. Um sieben ist er nach Hause gegangen.",
     "glossary": [],
     "questions": [
      {
@@ -14390,7 +14406,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When did Leon arrive at the workshop?",
+      "prompt": "When did Leon arrive at the university?",
       "options": [
        "at eight",
        "at seven",
@@ -14398,11 +14414,11 @@
       ],
       "answer": 2,
       "hint": "Look for angekommen.",
-      "explanation": "Um neun ist Leon in der Werkstatt angekommen."
+      "explanation": "Um neun ist Leon in der Uni angekommen."
      },
      {
       "type": "choice",
-      "prompt": "What did Frau Weber ask?",
+      "prompt": "What did the teacher ask?",
       "options": [
        "What happened?",
        "Where is the bus?",
@@ -14410,7 +14426,7 @@
       ],
       "answer": 0,
       "hint": "Look for gefragt.",
-      "explanation": "Frau Weber hat gefragt: Was ist passiert?"
+      "explanation": "Die Lehrerin hat gefragt: Was ist passiert?"
      },
      {
       "type": "choice",
@@ -14426,15 +14442,15 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Leon repair?",
+      "prompt": "What did Leon do after the e-mail?",
       "options": [
-       "a bus",
-       "a computer",
-       "a car"
+       "He played tennis.",
+       "He repaired a car.",
+       "He did his homework."
       ],
       "answer": 2,
-      "hint": "Look for repariert.",
-      "explanation": "Dann hat er ein Auto repariert."
+      "hint": "Look for Dann.",
+      "explanation": "Dann hat er Hausaufgaben gemacht."
      },
      {
       "type": "choice",
@@ -14458,29 +14474,29 @@
       ],
       "answer": 1,
       "hint": "Look at the last sentence.",
-      "explanation": "Danach hat er mit Frau Weber gesprochen. Um sieben ist er nach Hause gegangen."
+      "explanation": "Danach hat er mit Mira telefoniert. Um sieben ist er nach Hause gegangen."
      }
     ]
    },
    "listening": {
     "title": "Was ist passiert?",
-    "script": "Ben: Hallo, Anna! Was ist passiert? Du bist spät.\nAnna: Ja, ich bin zu spät aufgewacht. Ich habe den Wecker nicht gehört.\nBen: Und dann? Bist du mit dem Bus gefahren?\nAnna: Ja. Aber plötzlich ist ein Unfall passiert, und der Bus ist im Stau stecken geblieben.\nBen: Oh nein! Bist du zu spät angekommen?\nAnna: Ja, um neun. Ich habe mit Frau Weber gesprochen.\nBen: Hast du gefrühstückt?\nAnna: Nein, ich habe nicht gefrühstückt. Aber ich habe einen Kaffee getrunken.\nBen: Gut! Ich habe Brot mitgebracht.\nAnna: Super, danke!",
+    "script": "Ben: Hallo, Mira! Was ist passiert? Du bist spät.\nMira: Ja, ich bin zu spät aufgewacht. Ich habe den Wecker nicht gehört.\nBen: Und dann? Bist du mit dem Bus gefahren?\nMira: Ja. Aber plötzlich ist ein Unfall passiert, und der Bus ist im Stau stecken geblieben.\nBen: Oh nein! Bist du zu spät angekommen?\nMira: Ja, um neun. Ich habe mit Frau Weber gesprochen.\nBen: Hast du gefrühstückt?\nMira: Nein, ich habe nicht gefrühstückt. Aber ich habe einen Kaffee getrunken.\nBen: Gut! Ich habe Brot mitgebracht.\nMira: Super, danke!",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Why was Anna late?",
+      "prompt": "Why was Mira late?",
       "options": [
        "She lost her bus ticket.",
        "She went to the doctor.",
        "She woke up too late."
       ],
       "answer": 2,
-      "hint": "Listen to Anna's first answer.",
+      "hint": "Listen to Mira's first answer.",
       "explanation": "Ich bin zu spät aufgewacht."
      },
      {
       "type": "choice",
-      "prompt": "Did Anna hear her alarm clock?",
+      "prompt": "Did Mira hear her alarm clock?",
       "options": [
        "no",
        "yes"
@@ -14491,7 +14507,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How did Anna travel?",
+      "prompt": "How did Mira travel?",
       "options": [
        "by train",
        "by bus",
@@ -14527,7 +14543,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When did Anna arrive?",
+      "prompt": "When did Mira arrive?",
       "options": [
        "at eight",
        "at nine",
@@ -14539,7 +14555,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Who did Anna speak with?",
+      "prompt": "Who did Mira speak with?",
       "options": [
        "Herr Ali",
        "Leon",
@@ -14551,7 +14567,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Did Anna have breakfast?",
+      "prompt": "Did Mira have breakfast?",
       "options": [
        "no",
        "yes"
@@ -14562,7 +14578,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Anna drink?",
+      "prompt": "What did Mira drink?",
       "options": [
        "tea",
        "coffee",
@@ -14678,7 +14694,7 @@
        "Arbeit",
        "gefahren."
       ],
-      "hint": "Dann is part 1. The helper verb is part 2.",
+      "hint": "Start with the order word for then; the helper verb is part 2.",
       "explanation": "Dann + bin + ich + zur Arbeit + gefahren."
      },
      {
@@ -14696,7 +14712,7 @@
       "answers": [
        "sind"
       ],
-      "hint": "wir goes with sind.",
+      "hint": "Match the form of sein to wir.",
       "explanation": "Wir sind zum Bahnhof gelaufen."
      },
      {
@@ -14746,7 +14762,7 @@
    "day": 3,
    "reading": {
     "title": "Eine Stellenanzeige und eine E-Mail",
-    "text": "Stellenanzeige: Das Hotel Ali sucht im Sommer eine Hilfe für die Rezeption. Arbeitszeit: Montag bis Freitag, nachmittags. Erfahrung ist gut, aber nicht nötig. Bewerbung bitte per E-Mail an Herrn Ali.\n\nSehr geehrter Herr Ali,\nich habe Ihre Stellenanzeige gelesen. Ich möchte bei Ihnen arbeiten. Ich heiße Mira und ich studiere Informatik. Letztes Jahr hatte ich ein Praktikum. Es war toll! Ich habe viel telefoniert und E-Mails geschrieben. Ich habe auch schon im Café gearbeitet. Ich war immer pünktlich. Ich habe im Sommer viel Zeit. Ich möchte gern lernen.\nMit freundlichen Grüßen\nMira",
+    "text": "Stellenanzeige: Die Sprachschule sucht im Sommer eine Hilfe für die Rezeption. Arbeitszeit: Montag bis Freitag, nachmittags. Erfahrung ist gut, aber nicht nötig. Bewerbung bitte per E-Mail an Frau Weber.\n\nSehr geehrte Frau Weber,\nich habe Ihre Stellenanzeige gelesen. Ich möchte bei Ihnen arbeiten. Ich heiße Mira und ich studiere Informatik. Letztes Jahr hatte ich ein Praktikum. Es war toll! Ich habe viel telefoniert und E-Mails geschrieben. Ich habe auch schon im Café gearbeitet. Ich war immer pünktlich. Ich habe im Sommer viel Zeit. Ich möchte gern lernen.\nMit freundlichen Grüßen\nMira",
     "glossary": [
      {
       "de": "sucht",
@@ -14777,14 +14793,14 @@
       "en": "by e-mail"
      },
      {
-      "de": "Herrn Ali",
-      "en": "Mr Ali (Herr gets -n after an: learn it as one piece)"
+      "de": "die Sprachschule",
+      "en": "language school"
      }
     ],
     "questions": [
      {
       "type": "choice",
-      "prompt": "What is Hotel Ali looking for?",
+      "prompt": "What is the language school looking for?",
       "options": [
        "a cook",
        "a helper for the reception",
@@ -14905,20 +14921,20 @@
     ]
    },
    "listening": {
-    "title": "Mira phones Herr Ali",
-    "script": "Herr Ali: Hotel Ali, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe Ihre Stellenanzeige gelesen.\nHerr Ali: Wie bitte? Ich habe Sie nicht verstanden. Können Sie das buchstabieren?\nMira: M, I, R, A.\nHerr Ali: Danke, Mira. Haben Sie schon Erfahrung?\nMira: Ja. Letztes Jahr hatte ich ein Praktikum. Es war toll.\nHerr Ali: Sehr gut. Möchten Sie am Dienstag zum Bewerbungsgespräch kommen? Um zehn Uhr.\nMira: Wie bitte? Können Sie das bitte wiederholen?\nHerr Ali: Am Dienstag um zehn Uhr.\nMira: Ja, gern. Ich habe Zeit. Vielen Dank, Herr Ali. Auf Wiederhören!\nHerr Ali: Auf Wiederhören, Mira!",
+    "title": "Mira phones Frau Weber",
+    "script": "Frau Weber: Sprachschule, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe Ihre Stellenanzeige gelesen.\nFrau Weber: Wie bitte? Ich habe Sie nicht verstanden. Können Sie das buchstabieren?\nMira: M, I, R, A.\nFrau Weber: Danke, Mira. Haben Sie schon Erfahrung?\nMira: Ja. Letztes Jahr hatte ich ein Praktikum. Es war toll.\nFrau Weber: Sehr gut. Möchten Sie am Dienstag zum Bewerbungsgespräch kommen? Um zehn Uhr.\nMira: Wie bitte? Können Sie das bitte wiederholen?\nFrau Weber: Am Dienstag um zehn Uhr.\nMira: Ja, gern. Ich habe Zeit. Vielen Dank, Frau Weber. Auf Wiederhören!\nFrau Weber: Auf Wiederhören, Mira!",
     "questions": [
      {
       "type": "choice",
       "prompt": "Who answers the phone?",
       "options": [
+       "Leon",
        "Frau Weber",
-       "Herr Ali",
-       "Leon"
+       "Herr Ali"
       ],
       "answer": 1,
       "hint": "Listen to the first line.",
-      "explanation": "Hotel Ali."
+      "explanation": "Frau Weber: Sprachschule, guten Tag."
      },
      {
       "type": "choice",
@@ -14934,7 +14950,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali ask Mira to do?",
+      "prompt": "What does Frau Weber ask Mira to do?",
       "options": [
        "to wait",
        "to repeat",
@@ -14982,7 +14998,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Which day does Herr Ali suggest for the interview?",
+      "prompt": "Which day does Frau Weber suggest for the interview?",
       "options": [
        "Monday",
        "Tuesday",
@@ -14994,7 +15010,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Mira ask Herr Ali to do?",
+      "prompt": "What does Mira ask Frau Weber to do?",
       "options": [
        "speak louder",
        "repeat it",
@@ -15151,7 +15167,7 @@
        "Ich habe nicht gearbeitet."
       ],
       "answer": 2,
-      "hint": "nicht goes before the participle.",
+      "hint": "The negation goes right before the participle.",
       "explanation": "Ich habe nicht gearbeitet.",
       "grammar": true
      },
@@ -15179,9 +15195,9 @@
      }
     ],
     "free": {
-     "prompt": "Write a short application email to Herr Ali for a summer job. Say who you are, what you studied or where you worked, what you did last year, and end politely.",
+     "prompt": "Write a short application email to Frau Weber for a summer job. Say who you are, what you studied or where you worked, what you did last year, and end politely.",
      "minWords": 40,
-     "model": "Sehr geehrter Herr Ali, ich habe Ihre Stellenanzeige gelesen. Ich möchte bei Ihnen arbeiten. Ich heiße Mira und ich studiere Informatik. Letztes Jahr hatte ich ein Praktikum. Ich habe viel telefoniert und E-Mails geschrieben. Es war toll! Ich habe auch schon im Café gearbeitet. Mit freundlichen Grüßen Mira",
+     "model": "Sehr geehrte Frau Weber, ich habe Ihre Stellenanzeige gelesen. Ich möchte bei Ihnen arbeiten. Ich heiße Mira und ich studiere Informatik. Letztes Jahr hatte ich ein Praktikum. Ich habe viel telefoniert und E-Mails geschrieben. Es war toll! Ich habe auch schon im Café gearbeitet. Mit freundlichen Grüßen Mira",
      "checks": [
       {
        "label": "greets formally (Sehr geehrter ...)",

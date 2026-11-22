@@ -192,6 +192,7 @@ def lesson(f, lv, ch, n, L, R):
     if not (isinstance(voc, list) and lo <= len(voc) <= hi): err(f, lid, 'vocabulary', f'need {lo}-{hi} words, has {len(voc) if isinstance(voc, list) else 0}')
     for i, w in enumerate(voc if isinstance(voc, list) else []):
         if not (nonempty(w.get('de')) and nonempty(w.get('en'))): err(f, lid, f'vocabulary[{i}]', 'de and en required')
+        elif w.get('article') and w['de'].startswith(w['article'] + ' '): err(f, lid, f'vocabulary[{i}].de', 'article is in "article"; do not repeat it in "de" (the player would show "der der …")')
         ex = w.get('examples')
         if not (isinstance(ex, list) and len(ex) >= 2 and all(nonempty(e.get('de')) and nonempty(e.get('en')) for e in ex)):
             err(f, lid, f'vocabulary[{i}].examples', 'need 2 examples with de and en')
