@@ -197,6 +197,33 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Die Woche hat sieben Tage.",
+       "en": "The week has seven days.",
+       "why": "die Woche = the week.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Woche",
+         "noun"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "sieben",
+         "other"
+        ],
+        [
+         "Tage.",
+         "noun"
+        ]
+       ]
       }
      ],
      "table": {
@@ -411,12 +438,16 @@
         "der siebzehnte"
        ],
        [
+        "18",
+        "der achtzehnte"
+       ],
+       [
         "19",
         "der neunzehnte"
        ]
       ]
      },
-     "more": "Here is the whole rule in one line: number + te. vier becomes vierte, fünf becomes fünfte, dreizehn becomes dreizehnte. Only a few words change in spelling. Remember three: erste, dritte, siebte. And elfte and zwölfte have no little brother in the number, so learn them from the table. Extra example: Heute ist der siebzehnte August. = Today is the seventeenth of August.",
+     "more": "Picture the teens as a ladder. From 13 up they all follow one rule: the number plus -te, so dreizehn becomes dreizehnte and neunzehn becomes neunzehnte. Only the two bottom rungs, elf and zwölf, are special: they add -te to their own letters and give elfte and zwölfte. Step 1: say the number. Step 2: add -te. Step 3: for 11 and 12 look at the table. Extra example: Heute ist der siebzehnte August. = Today is the seventeenth of August.",
      "lead": "You know the first ten order words now. This card shows how the teens from eleven to nineteen work, so you can name later days of the month.",
      "deeper": {
       "text": "Dates stop at 31, so a month needs ordinals from 1 to 31 and no more. That makes the tables small. The words elfte and zwölfte look odd, because they keep the f from elf and zwölf and just add -te. You mostly need to recognise them in dates, not say them fast.",
@@ -569,7 +600,7 @@
      "more": "Cut the month into two halves. Days 1 to 19 get -te. Days 20 to 31 get -ste. Step 1: is the number 20 or more? Step 2: add -ste. Step 3: for 21 to 29 say the one first: ein-und-zwanzig-ste. It is the same backwards order you learned for numbers. Extra example: der fünfundzwanzigste Dezember = the 25th of December.",
      "lead": "From the teens you move on to twenty and beyond. This card covers the bigger order words, so you can name the last days of a month, up to the 31st.",
      "deeper": {
-      "text": "Why -ste after 20? zwanzigte would be hard to say, but zwanzigste flows. So the rule of thumb is simple: up to 19 add -te, from 20 add -ste. In 21 to 31 only the last piece changes, and the one stays first: ein-und-zwanzig-ste.",
+      "text": "Why -ste after 20? Every number that ends in -zig takes -ste: zwanzig-ste, dreißig-ste. You will meet the same ending later for big numbers, like hundertste. In 21 to 31 only the last piece changes, and the one stays first: ein-und-zwanzig-ste. So the rule of thumb is simple: up to 19 add -te, from 20 add -ste.",
       "example": {
        "de": "Heute ist der fünfundzwanzigste Juli.",
        "en": "Today is the twenty-fifth of July.",
@@ -690,10 +721,10 @@
       "der dritte Mai",
       "Heute ist der dritte Mai."
      ],
-     "more": "The little dot is a secret sign. It says: say this number as a first, second, third. So 3. Mai is not drei Mai. It is der dritte Mai. Step 1: see the number with a dot. Step 2: turn it into the ordinal. Step 3: add the month. Extra example: 8. August = der achte August.",
+     "more": "The little dot is a secret sign. It says: read this number as a first, second, third. So 3. Mai is not drei Mai. It is der dritte Mai. Picture a sticker on the number: the dot sticker means ordinal. Step 1: see the number with a dot. Step 2: turn it into the ordinal. Step 3: add the month. Extra example: 8. August = der achte August.",
      "lead": "Dates are often written with digits and a dot. This card shows what that dot means and how to read it aloud, so you can say the date when you see 3. Mai.",
      "deeper": {
-      "text": "In a written date the dot is a silent ending: it stands for -te or -ste. So 24. Dezember is read der vierundzwanzigste Dezember. You will see this on calendars, tickets and emails. 24.12. means the 24th of December: day first, then month. This is the opposite of the US order.",
+      "text": "In a written date the dot is a silent ending: it stands for -te or -ste. So 24. Dezember is read der vierundzwanzigste Dezember. You will see this in every Kalender (calendar), on tickets and in emails. 24.12. means the 24th of December: day first, then month. This is the opposite of the US order.",
       "example": {
        "de": "Heute ist der 24. Dezember.",
        "en": "Today is the 24th of December.",
@@ -995,6 +1026,37 @@
          "place"
         ]
        ]
+      },
+      {
+       "de": "Der dritte Mai ist am Wochenende.",
+       "en": "The third of May is at the weekend.",
+       "why": "das Wochenende = the weekend.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "dritte",
+         "adjective"
+        ],
+        [
+         "Mai",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Wochenende.",
+         "time"
+        ]
+       ]
       }
      ],
      "steps": [
@@ -1032,7 +1094,7 @@
      "more": "Remember the verb chair from chapter 1: the verb always sits in part 2. The date can fill part 1. Then the verb sits in part 2, and ich moves behind it. Step 1: Am fünften Mai (part 1). Step 2: habe (part 2). Step 3: ich. Step 4: Zeit. Extra example: Am zweiten Mai arbeite ich. = On the second of May I work.",
      "lead": "Dates can sit inside whole sentences now. This card gives two ways to use them, a plain fact and a sentence about a day, so you can say what you do on a date.",
      "deeper": {
-      "text": "Which date is today? Ask Welches Datum ist heute? and answer Heute ist der … with the ordinal. Welches Datum means which date. Use Heute ist der … for a fact and Am … when you say on which day something happens. They look similar, so choose by the job.",
+      "text": "Which date is today? Ask Welches Datum ist heute? and answer Heute ist der … with the ordinal. Welches Datum means which date. Use Heute ist der … for a fact and Am … when you say on which day something happens. They look similar, so choose by the job. Natives also ask Der Wievielte ist heute? and the answer is the same: Heute ist der …",
       "example": {
        "de": "Welches Datum ist heute?",
        "en": "What is the date today?",
@@ -1559,7 +1621,7 @@
    ],
    "grammar": {
     "topic": "dates",
-    "point": "You have a birthday: Ich habe am ersten Mai Geburtstag; wann asks for the date; after 12 o'clock add 12 (18 Uhr = 6 pm)",
+    "point": "You have a birthday: Ich habe am ersten Mai Geburtstag; wann asks for the date; after 12 o'clock the 24-hour clock keeps counting, so take away 12 (18 Uhr = 6 pm)",
     "oneLine": "Wann hast du Geburtstag? – Am ersten Mai. Die Party ist um 18 Uhr.",
     "mistake": {
      "wrong": "Ich bin am ersten Mai Geburtstag.",
@@ -1785,7 +1847,7 @@
      "more": "Imagine a birthday is something you own, like a hat. You do not say I am a birthday. You say I have a birthday. So we use haben, which you know: ich habe, du hast, er hat. Step 1: Ich habe. Step 2: am + the date. Step 3: Geburtstag. Extra example: Ben hat am zehnten Juli Geburtstag. = Ben has his birthday on the tenth of July.",
      "lead": "You can say dates now, so the next question people ask at parties is when a birthday is. This card shows how to ask it and how to answer with a date.",
      "deeper": {
-      "text": "Geburtstag is Geburt (birth) + Tag (day): a birth-day. You say you have it, like you have an appointment. Ich habe Geburtstag can mean that it is my birthday today. You can ask about today with heute.",
+      "text": "Geburtstag is Geburt (birth) + Tag (day): a birth-day. Ich habe Geburtstag can mean that it is my birthday today, so you can ask Hast du heute Geburtstag? On a form you will see a different word, das Geburtsdatum, the date you were born. So Geburtstag is the party day, and Geburtsdatum is the fact on your passport.",
       "example": {
        "de": "Hast du heute Geburtstag?",
        "en": "Is it your birthday today?",
@@ -1911,7 +1973,7 @@
      "more": "Two ways to ask, same meaning. Way 1: Wann hast du Geburtstag? Way 2: Wann ist dein Geburtstag? dein is the your that goes with a friend (du). mein is the my that goes with ich. Step 1: pick your question. Step 2: answer with am + date. Extra example: Mein Geburtstag ist am ersten Mai. = My birthday is on the first of May.",
      "lead": "You know how to say your birthday. This card gives a short answer, and the question with dein, so you can ask a friend when theirs is.",
      "deeper": {
-      "text": "Short answers sound natural: Wann hast du Geburtstag? Am ersten Mai. You do not need the whole sentence. The answer repeats am and not um, because a date is a day, and days take am. So the question word Wann can have a very short answer.",
+      "text": "Short answers sound natural: Wann hast du Geburtstag? Am ersten Mai. You do not need the whole sentence. The answer starts with am, not um, because a date is a day, and days take am. Germans rarely add the year when they talk about a birthday. Then ask back: Und du? That keeps the talk going.",
       "example": {
        "de": "Am vierzehnten Juli.",
        "en": "On the fourteenth of July.",
@@ -2009,7 +2071,7 @@
     },
     {
      "title": "Clock times on invitations: 24 hours",
-     "body": "You know um … Uhr (at … o'clock) from chapter 5. On invitations people often use the 24-hour clock. After noon, add 12: 18 Uhr is 6 in the evening. The word um comes before the time.",
+     "body": "You know um … Uhr (at … o'clock) from chapter 5. On invitations people often use the 24-hour clock. After noon the clock keeps counting, so take away 12: 18 Uhr is 6 in the evening. The word um comes before the time.",
      "examples": [
       {
        "de": "Die Party ist um 18 Uhr.",
@@ -2237,6 +2299,29 @@
          "time"
         ]
        ]
+      },
+      {
+       "de": "Das Fest ist bald.",
+       "en": "The party is soon.",
+       "why": "bald = soon.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Fest",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "bald.",
+         "time"
+        ]
+       ]
       }
      ],
      "table": {
@@ -2278,7 +2363,7 @@
        ]
       ]
      },
-     "more": "feiern is like kochen or spielen: nothing odd. Step 1: take off -en: feier. Step 2: add the ending for the person. ich feiere, du feierst, er feiert. The word list for this verb: feiere, feierst, feiert, feiern, feiert, feiern. Extra example: Mira feiert am Sonntag. = Mira celebrates on Sunday.",
+     "more": "feiern is like kochen or spielen: nothing odd. Think of a template: stem plus ending. Step 1: take off -en, and feier is left. Step 2: add the ending for the person: ich feiere, du feierst, er feiert, wir feiern, ihr feiert, sie feiern. Notice that er and ihr look the same, and wir and sie look like the infinitive. Extra example: Mira feiert am Sonntag. = Mira celebrates on Sunday.",
      "lead": "Now you can say when a birthday is and invite people. This card gives the verb for celebrating, so you can say what you do on a day with friends.",
      "deeper": {
       "text": "feiern can take an object: you celebrate something. Ich feiere meinen Geburtstag. As always, the masculine object changes: mein becomes meinen, but a feminine word like Party stays the same. Notice that wir and sie feiern look just like the infinitive.",
@@ -2375,6 +2460,29 @@
         ],
         [
          "Torte.",
+         "object"
+        ]
+       ]
+      },
+      {
+       "de": "Wir sehen einen Film.",
+       "en": "We watch a film.",
+       "why": "der Film → einen Film.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "sehen",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Film.",
          "object"
         ]
        ]
@@ -2522,7 +2630,7 @@
       "um"
      ],
      "answer": 2,
-     "hint": "um goes with a clock time.",
+     "hint": "Days take am; clock times take a different short word.",
      "explanation": "um 18 Uhr.",
      "grammar": true
     },
@@ -2553,7 +2661,7 @@
      "answers": [
       "feiern"
      ],
-     "hint": "wir takes -en.",
+     "hint": "It has the same shape as the infinitive: see the wir row of the table.",
      "explanation": "wir feiern.",
      "grammar": true
     }
@@ -2599,7 +2707,7 @@
      "answers": [
       "am"
      ],
-     "hint": "The same little word as in am Montag.",
+     "hint": "The little word you use with days, like Montag.",
      "explanation": "am zwanzigsten Mai.",
      "grammar": true
     },
@@ -2660,7 +2768,7 @@
       "am"
      ],
      "answer": 0,
-     "hint": "um + clock time.",
+     "hint": "Days take am; clock times take a different short word.",
      "explanation": "um 19 Uhr.",
      "grammar": true
     },
@@ -3042,7 +3150,7 @@
     },
     {
      "title": "An invitation: four parts",
-     "body": "A friendly invitation has four parts. A greeting (Liebe Mira,), the news (Ich habe am Samstag Geburtstag.), the plan (Die Party ist um 18 Uhr.) and a question (Kommst du?). Then you end with Viele Grüße and your name.",
+     "body": "A friendly invitation (die Einladung) has four parts. A greeting (Liebe Mira,), the news (Ich habe am Samstag Geburtstag.), the plan (Die Party ist um 18 Uhr.) and a question (Kommst du?). Then you end with Viele Grüße and your name.",
      "examples": [
       {
        "de": "Ich habe am Samstag Geburtstag.",
@@ -3150,10 +3258,10 @@
        ]
       ]
      },
-     "more": "Think of a letter as four little boxes. Box 1: hello. Box 2: why you write. Box 3: when and where. Box 4: a question, so your friend can answer. Step 1: pick the greeting: Liebe for a woman, Lieber for a man. Step 2: write your news. Step 3: ask. Step 4: say bye with Viele Grüße. Extra example: Lieber Ben, hast du am Samstag Zeit? = Dear Ben, do you have time on Saturday?",
+     "more": "Think of a letter as four little boxes. Box 1: hello. Box 2: why you write. Box 3: when and where. Box 4: a question, so your friend can answer. Step 1: pick the greeting: Liebe for a woman, Lieber for a man. Step 2: write your news. Step 3: ask. Step 4: say bye with Viele Grüße. You can write it on a card (die Karte) or in a message. Extra example: Lieber Ben, hast du am Samstag Zeit? = Dear Ben, do you have time on Saturday?",
      "lead": "You have read about parties. Now you write one. This card names each part of a short invitation to a friend, so you know what to put in your own message.",
      "deeper": {
-      "text": "Lieb means dear. Add -er for a man and -e for a woman: Lieber Ben, Liebe Mira. You may see the greeting for both: Liebe Mira, lieber Ben. In an invitation it works like Dear in English. After the comma, the next line starts the news.",
+      "text": "Lieb means dear. Add -er for a man and -e for a woman: Lieber Ben, Liebe Mira. After the greeting comma the next line starts with a small letter, even though it is a new line: Liebe Mira, then ich habe am Samstag Geburtstag. Only nouns and names keep a capital letter. The closing Viele Grüße has no comma.",
       "example": {
        "de": "Lieber Leon,",
        "en": "Dear Leon,",
@@ -3409,7 +3517,7 @@
     },
     {
      "title": "Say no politely: leider, schade, kann",
-     "body": "To say no, begin with Leider (unfortunately). Leider habe ich keine Zeit. Or use kann (can) from chapter 5: Leider kann ich nicht kommen. The second verb goes to the end. Your friend may answer Schade! (what a pity).",
+     "body": "To say no, begin with Leider (unfortunately). Leider habe ich keine Zeit. Or use kann (from können, to be able to) from chapter 5: Leider kann ich nicht kommen. The second verb goes to the end. Your friend may answer Schade! (what a pity).",
      "examples": [
       {
        "de": "Leider habe ich keine Zeit.",
@@ -3937,7 +4045,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:W7ntnruGJ9k"
+     "yt:W7ntnruGJ9k",
+     "yt:tUkSMLzW9aY"
     ],
     "nicosWeg": [
      "nw:a1-35",
@@ -4141,7 +4250,7 @@
      "answers": [
       "kannst"
      ],
-     "hint": "can: ich kann, du kannst.",
+     "hint": "Modal können: du takes -st.",
      "explanation": "du kannst.",
      "grammar": true
     },
@@ -4623,7 +4732,7 @@
      "more": "Imagine a train with two wagons that can be unhooked. The infinitive anrufen is the whole train. In a sentence you unhook it. The front wagon, rufen, goes to the verb chair in part 2. The little wagon, an, rides all the way to the end of the sentence. They belong together, even when far apart. Step 1: split an | rufen. Step 2: verb in part 2. Step 3: an at the end. Extra example: Anna ruft Mira an. = Anna calls Mira.",
      "lead": "Now you can make plans with friends. This card shows a kind of verb that splits into two parts in a sentence, so you can say you call a friend.",
      "deeper": {
-      "text": "The prefix is a small word that changes the meaning. rufen means to shout or call out, anrufen means to telephone. English does the same with phrasal verbs: call up, get up, come along. If you know call up, you know anrufen. The idea is old and simple.",
+      "text": "The prefix is a small word that changes the meaning. rufen means to shout or call out, anrufen means to telephone (das Telefon is the phone). English does the same with phrasal verbs: call up, get up, come along. If you know call up, you know anrufen. The idea is old and simple.",
       "example": {
        "de": "Mira ruft Ben an.",
        "en": "Mira calls Ben.",
@@ -5362,6 +5471,37 @@
          "verb2"
         ]
        ]
+      },
+      {
+       "de": "Der Kurs fängt am Montag an.",
+       "en": "The course begins on Monday.",
+       "why": "der Kurs = the course; anfangen: fängt … an.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Kurs",
+         "noun"
+        ],
+        [
+         "fängt",
+         "verb"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Montag",
+         "time"
+        ],
+        [
+         "an.",
+         "verb2"
+        ]
+       ]
       }
      ],
      "table": {
@@ -5521,7 +5661,7 @@
      "answers": [
       "kaufen"
      ],
-     "hint": "Take the old verb: kaufen. wir takes -en.",
+     "hint": "The old verb without its prefix; take its wir form.",
      "explanation": "Wir kaufen am Samstag ein.",
      "grammar": true
     },
@@ -6426,7 +6566,7 @@
      "more": "Do not take these apart. Learn them like names of places. ins Kino. ins Café. in den Park. in die Stadt. They answer the question Wohin? = where to? Step 1: ask Wohin gehst du? Step 2: pick a chunk. Step 3: put gehen in part 2. Extra example: Wohin gehst du? Ich gehe ins Café. = Where are you going? I am going to the café.",
      "lead": "You can say when and what you do. Now you need to say where you go. This card gives short chunks for common places like the cinema, the café and the park, so you can say where you are heading.",
      "deeper": {
-      "text": "With gehen you can add a time before the place. Ich gehe um acht Uhr ins Kino. The time comes first and the place second. The question for the place is Wohin gehst du? The answer is often one of the chunks: ins Kino, ins Café.",
+      "text": "In your Freizeit (free time) you often say where you go. With gehen you can add a time before the place: Ich gehe um acht Uhr ins Kino. The time comes first and the place second. The question for the place is Wohin gehst du? The answer is often one of the chunks: ins Kino, ins Café.",
       "example": {
        "de": "Wir gehen am Samstag ins Café.",
        "en": "On Saturday we go to the café.",
@@ -6533,6 +6673,49 @@
         [
          "mit?",
          "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Das ist eine Idee! Wir gehen zusammen ins Kino.",
+       "en": "That is an idea! We go to the cinema together.",
+       "why": "die Idee = the idea; zusammen = together.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Idee!",
+         "noun"
+        ],
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "gehen",
+         "verb"
+        ],
+        [
+         "zusammen",
+         "other"
+        ],
+        [
+         "ins",
+         "preposition"
+        ],
+        [
+         "Kino.",
+         "place"
         ]
        ]
       }
@@ -6715,7 +6898,7 @@
      "deeper": {
       "text": "Wann can be answered with a day or a time. Um wie viel Uhr asks only for the clock time. Choose the question that matches the answer you want. If you want the exact hour, ask Um wie viel Uhr. If you want any time (day or hour), ask Wann.",
       "example": {
-       "de": "Um wie viel Uhr beginnt der Kurs?",
+       "de": "Um wie viel Uhr fängt der Kurs an?",
        "en": "At what time does the course start?",
        "parts": [
         [
@@ -6735,7 +6918,7 @@
          "time"
         ],
         [
-         "beginnt",
+         "fängt",
          "verb"
         ],
         [
@@ -6743,8 +6926,12 @@
          "article"
         ],
         [
-         "Kurs?",
+         "Kurs",
          "noun"
+        ],
+        [
+         "an?",
+         "verb2"
         ]
        ]
       }
@@ -6968,7 +7155,7 @@
      "answers": [
       "ins"
      ],
-     "hint": "Learn ins Kino as one chunk.",
+     "hint": "in + das squeezed into one short word.",
      "explanation": "ins Kino."
     },
     {
@@ -7469,7 +7656,7 @@
     },
     {
      "title": "Order food and drink",
-     "body": "In a café the waiter asks Was möchten Sie? or Was darf es sein? You answer with Ich möchte … or Ich nehme … and bitte. You know möchten from chapter 4. The thing you order is the object: only masculine words change (einen, den).",
+     "body": "In a café the waiter (der Kellner) or waitress (die Kellnerin) asks Was möchten Sie? or Was darf es sein? First you ask Die Speisekarte, bitte! Then you order (bestellen) with Ich möchte … or Ich nehme … and bitte. The thing you order is the object: only masculine words change (einen, den).",
      "examples": [
       {
        "de": "Was möchten Sie?",
@@ -7537,6 +7724,25 @@
         [
          "Suppe.",
          "object"
+        ]
+       ]
+      },
+      {
+       "de": "Die Speisekarte, bitte!",
+       "en": "The menu, please!",
+       "why": "die Speisekarte = the menu.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Speisekarte,",
+         "noun"
+        ],
+        [
+         "bitte!",
+         "other"
         ]
        ]
       }
@@ -8169,15 +8375,15 @@
      "deeper": {
       "text": "Mixing up ei and ie is a very common spelling mistake, because the sounds swap. Here is a trick: the second letter names the sound. ei says i, like the English eye. ie says e, like ee. So Wein (wine) and Wien (Vienna) sound different.",
       "example": {
-       "de": "Mira ist in Wien.",
-       "en": "Mira is in Vienna.",
+       "de": "Anna wohnt in Wien.",
+       "en": "Anna lives in Vienna.",
        "parts": [
         [
-         "Mira",
+         "Anna",
          "subject"
         ],
         [
-         "ist",
+         "wohnt",
          "verb"
         ],
         [
@@ -8196,7 +8402,8 @@
    "media": {
     "grammarVideos": [
      "yt:kPYJF_kwLIs",
-     "yt:JGh9DR6bxpw"
+     "yt:JGh9DR6bxpw",
+     "yt:OFSHdj_2FQA"
     ],
     "nicosWeg": [
      "nw:a1-15",
@@ -8312,7 +8519,7 @@
     "answers": [
      "Mira nimmt die Suppe."
     ],
-    "hint": "er/sie: nimmt.",
+    "hint": "Mira is er/sie: the vowel of nehmen changes.",
     "explanation": "Mira nimmt die Suppe.",
     "grammar": true
    },
@@ -8345,7 +8552,7 @@
      "answers": [
       "nimmt"
      ],
-     "hint": "er/sie: nimmt.",
+     "hint": "er/sie: the vowel of nehmen changes and the h drops, then -t.",
      "explanation": "er nimmt.",
      "grammar": true
     },
@@ -8651,7 +8858,7 @@
      "answers": [
       "Ben nimmt die Pizza."
      ],
-     "hint": "er/sie: nimmt.",
+     "hint": "Ben is er/sie: the vowel of nehmen changes.",
      "explanation": "Ben nimmt die Pizza."
     }
    ]
@@ -9192,29 +9399,33 @@
        ]
       ]
      },
-     "more": "Only some pronouns change. The rest stay the same. wir becomes uns. ihr becomes euch. And these do not change at all: sie (she), sie (they), es and Sie (polite). So how do you know if sie is she or they? Look at the verb ending and the context. Step 1: find the subject pronoun. Step 2: look it up in the table. Step 3: swap. Extra example: Ben sieht uns. = Ben sees us.",
+     "more": "Only some pronouns change. The rest stay the same. wir becomes uns. ihr becomes euch. And these do not change at all: sie (she), sie (they), es and Sie (polite). So how do you tell sie (she) from sie (they)? As a subject the verb ending tells you: sie sieht is she, sie sehen is they. As an object only the story tells you. Step 1: find the pronoun. Step 2: look it up in the table. Step 3: swap. Extra example: Ben sieht uns. = Ben sees us.",
      "lead": "You have pronouns for one person and for things. This card covers the plural ones for us and you all, and the polite you, so you can greet a group or a teacher.",
      "deeper": {
-      "text": "uns and euch change only for wir and ihr. For sie (they) and Sie (polite you) nothing changes in the object. So Ich sehe sie may mean her or them. Look at the story or the verb to know. For example, Sie sehen mich with sehen in the plural means They see me.",
+      "text": "Capital letters help with the polite form. Ich rufe Sie an, Frau Weber means you, but Ich rufe sie an means her or them. In speech there is no capital to hear, so the situation decides: if Frau Weber stands in front of you, Sie means her. In writing the polite Sie always keeps its capital S, even in the middle of a sentence.",
       "example": {
-       "de": "Ich rufe euch an.",
-       "en": "I call you (all).",
+       "de": "Ich sehe Sie, Herr Ali.",
+       "en": "I see you, Herr Ali.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "rufe",
+         "sehe",
          "verb"
         ],
         [
-         "euch",
+         "Sie,",
          "object"
         ],
         [
-         "an.",
-         "verb2"
+         "Herr",
+         "noun"
+        ],
+        [
+         "Ali.",
+         "noun"
         ]
        ]
       }
@@ -9356,7 +9567,7 @@
     },
     {
      "title": "Where does the pronoun go?",
-     "body": "The pronoun comes right after the verb. With a separable verb the prefix still goes last. With a modal, the pronoun comes after the modal and the infinitive is last. Heute rufe ich dich an. Kannst du mich anrufen?",
+     "body": "The pronoun sits right behind the verb and the subject. With a separable verb the prefix still goes last. With a modal the infinitive goes last. Heute rufe ich dich an. Kannst du mich anrufen?",
      "examples": [
       {
        "de": "Heute rufe ich dich an.",
@@ -9438,6 +9649,64 @@
          "verb2"
         ]
        ]
+      },
+      {
+       "de": "Ich lade dich ein.",
+       "en": "I invite you.",
+       "why": "einladen: the pronoun comes before the prefix.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "lade",
+         "verb"
+        ],
+        [
+         "dich",
+         "object"
+        ],
+        [
+         "ein.",
+         "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Leon holt uns um 18 Uhr ab.",
+       "en": "Leon picks us up at 6 pm.",
+       "why": "abholen: holt … ab.",
+       "parts": [
+        [
+         "Leon",
+         "subject"
+        ],
+        [
+         "holt",
+         "verb"
+        ],
+        [
+         "uns",
+         "object"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "18",
+         "time"
+        ],
+        [
+         "Uhr",
+         "time"
+        ],
+        [
+         "ab.",
+         "verb2"
+        ]
+       ]
       }
      ],
      "steps": [
@@ -9502,7 +9771,7 @@
     },
     {
      "title": "Who do you mean? wen?",
-     "body": "Ask about a person who is the object with Wen? It means whom. Wen rufst du an? Ich rufe Mira an. Or with a pronoun: Ich rufe sie an. Wen triffst du? Wen siehst du?",
+     "body": "Ask about a person who is the object with Wen? It means whom. Wen rufst du an? Ich rufe Mira an. Or with a pronoun: Ich rufe sie an. Wen triffst du? Kennst du ihn? (kennen = to know a person.)",
      "examples": [
       {
        "de": "Wen rufst du an?",
@@ -9574,6 +9843,25 @@
         [
          "an.",
          "verb2"
+        ]
+       ]
+      },
+      {
+       "de": "Kennst du ihn?",
+       "en": "Do you know him?",
+       "why": "kennen: a person; er → ihn.",
+       "parts": [
+        [
+         "Kennst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "ihn?",
+         "object"
         ]
        ]
       }
@@ -9663,7 +9951,7 @@
      "answers": [
       "mich"
      ],
-     "hint": "ich becomes mich.",
+     "hint": "The object form of ich (first card).",
      "explanation": "ich → mich.",
      "grammar": true
     },
@@ -9673,7 +9961,7 @@
      "answers": [
       "dich"
      ],
-     "hint": "du becomes dich.",
+     "hint": "The object form of du.",
      "explanation": "du → dich.",
      "grammar": true
     },
@@ -9686,7 +9974,7 @@
       "es"
      ],
      "answer": 0,
-     "hint": "der goes with er, and er becomes ihn.",
+     "hint": "Der is masculine: only the masculine pronoun changes.",
      "explanation": "der Kuchen → ihn.",
      "grammar": true
     },
@@ -9699,7 +9987,7 @@
       "es"
      ],
      "answer": 1,
-     "hint": "die goes with sie. sie does not change.",
+     "hint": "Die is feminine: check the table to see if it changes.",
      "explanation": "die Torte → sie.",
      "grammar": true
     },
@@ -9712,7 +10000,7 @@
       "es"
      ],
      "answer": 2,
-     "hint": "das goes with es. es does not change.",
+     "hint": "Das is neuter: check the table to see if it changes.",
      "explanation": "das Eis → es.",
      "grammar": true
     },
@@ -9741,7 +10029,7 @@
      "answers": [
       "uns"
      ],
-     "hint": "wir becomes uns.",
+     "hint": "The object form of wir (third card).",
      "explanation": "wir → uns.",
      "grammar": true
     }
@@ -9752,7 +10040,7 @@
     "answers": [
      "Ben ruft dich an."
     ],
-    "hint": "du becomes dich. The prefix goes last.",
+    "hint": "Use the object form of du. The prefix goes last.",
     "explanation": "Ben ruft dich an.",
     "grammar": true
    },
@@ -9776,7 +10064,7 @@
      "answers": [
       "ihn"
      ],
-     "hint": "er becomes ihn.",
+     "hint": "The object form of er: the masculine one changes.",
      "explanation": "er → ihn.",
      "grammar": true
     },
@@ -9786,7 +10074,7 @@
      "answers": [
       "sie"
      ],
-     "hint": "sie does not change.",
+     "hint": "Look at the full table: does the feminine pronoun change?",
      "explanation": "sie → sie.",
      "grammar": true
     },
@@ -9799,7 +10087,7 @@
       "es"
      ],
      "answer": 2,
-     "hint": "das goes with es.",
+     "hint": "Handy is a das-word: check the table to see if it changes.",
      "explanation": "es.",
      "grammar": true
     },
@@ -9812,7 +10100,7 @@
       "sie"
      ],
      "answer": 0,
-     "hint": "wir becomes uns.",
+     "hint": "The object form of wir.",
      "explanation": "wir → uns.",
      "grammar": true
     },
@@ -9822,7 +10110,7 @@
      "answers": [
       "euch"
      ],
-     "hint": "ihr becomes euch.",
+     "hint": "The object form of ihr (third card).",
      "explanation": "ihr → euch.",
      "grammar": true
     },
@@ -10070,7 +10358,7 @@
      "answers": [
       "Ich sehe dich."
      ],
-     "hint": "du becomes dich.",
+     "hint": "Use the object form of du.",
      "explanation": "Ich sehe dich."
     },
     {
@@ -10079,7 +10367,7 @@
      "answers": [
       "Anna ruft uns an."
      ],
-     "hint": "wir becomes uns. The prefix is last.",
+     "hint": "Use the object form of wir. The prefix is last.",
      "explanation": "Anna ruft uns an."
     },
     {
@@ -10088,7 +10376,7 @@
      "answers": [
       "Ich esse ihn."
      ],
-     "hint": "der goes with er, and er becomes ihn.",
+     "hint": "Der is masculine: the pronoun for it changes.",
      "explanation": "Ich esse ihn."
     },
     {
@@ -10486,6 +10774,37 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Die Blume ist für die Schwester.",
+       "en": "The flower is for the sister.",
+       "why": "die Schwester: no change.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Blume",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Schwester.",
+         "noun"
+        ]
+       ]
       }
      ],
      "table": {
@@ -10639,6 +10958,41 @@
         [
          "Einladung!",
          "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich bringe einen Kuchen für Mira mit.",
+       "en": "I bring a cake along for Mira.",
+       "why": "mitbringen: bringe … mit; the für part comes before the prefix.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "bringe",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Kuchen",
+         "object"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "Mira",
+         "object"
+        ],
+        [
+         "mit.",
+         "verb2"
         ]
        ]
       }
@@ -10940,18 +11294,18 @@
      "more": "Think of für as a little arrow pointing at the person or number it is for. Time for me. A table for two. After für the pronoun is always the accusative, and a number just stays the number. Step 1: say what: Zeit or einen Tisch. Step 2: für. Step 3: who or how many. Extra example: Ich habe keine Zeit für dich. = I have no time for you.",
      "lead": "Für is not only for gifts. This card shows two more everyday uses, one about time and one about a table, so you can ask for someone's time or book a table.",
      "deeper": {
-      "text": "für also gives a number of people. Einen Tisch für zwei is a table for two. einen is used because Tisch is masculine and a table is the thing you want (the object). The number after für needs no ending. Tables in restaurants are always a good way to practise.",
+      "text": "für also tells how many people a table is for: Einen Tisch für zwei is a table for two. In a restaurant you can ask politely with Sie: Haben Sie einen Tisch für zwei? einen is used because Tisch is masculine and it is the thing you want. The number after für needs no ending, so für drei, für vier and für zehn all work.",
       "example": {
-       "de": "Wir möchten einen Tisch für vier.",
-       "en": "We would like a table for four.",
+       "de": "Haben Sie einen Tisch für zwei?",
+       "en": "Do you have a table for two?",
        "parts": [
         [
-         "Wir",
-         "subject"
+         "Haben",
+         "verb"
         ],
         [
-         "möchten",
-         "verb"
+         "Sie",
+         "subject"
         ],
         [
          "einen",
@@ -10959,14 +11313,14 @@
         ],
         [
          "Tisch",
-         "noun"
+         "object"
         ],
         [
          "für",
          "preposition"
         ],
         [
-         "vier.",
+         "zwei?",
          "other"
         ]
        ]
@@ -11142,7 +11496,7 @@
      "answers": [
       "mich"
      ],
-     "hint": "ich becomes mich.",
+     "hint": "Use the object form of ich after für.",
      "explanation": "für mich.",
      "grammar": true
     },
@@ -11152,7 +11506,7 @@
      "answers": [
       "ihn"
      ],
-     "hint": "er becomes ihn.",
+     "hint": "Use the object form of er after für.",
      "explanation": "für ihn.",
      "grammar": true
     },
@@ -11207,7 +11561,7 @@
      "answers": [
       "Für"
      ],
-     "hint": "für + wen.",
+     "hint": "The word for for, from the title of the first card.",
      "explanation": "Für wen ist das?"
     },
     {
@@ -11240,7 +11594,7 @@
      "answers": [
       "dich"
      ],
-     "hint": "du becomes dich.",
+     "hint": "Use the object form of du after für.",
      "explanation": "für dich.",
      "grammar": true
     },
@@ -11250,7 +11604,7 @@
      "answers": [
       "uns"
      ],
-     "hint": "wir becomes uns.",
+     "hint": "Use the object form of wir after für.",
      "explanation": "für uns.",
      "grammar": true
     },
@@ -11260,7 +11614,7 @@
      "answers": [
       "sie"
      ],
-     "hint": "sie stays sie.",
+     "hint": "Look at the table: does the feminine pronoun change?",
      "explanation": "für sie.",
      "grammar": true
     },
@@ -11299,7 +11653,7 @@
       "ihn"
      ],
      "answer": 1,
-     "hint": "ihr becomes euch.",
+     "hint": "Use the object form of ihr after für.",
      "explanation": "für euch.",
      "grammar": true
     },
@@ -11564,7 +11918,7 @@
      "answers": [
       "Der Tee ist für ihn."
      ],
-     "hint": "er becomes ihn after für.",
+     "hint": "Use the object form of er after für.",
      "explanation": "Der Tee ist für ihn."
     },
     {
@@ -11573,7 +11927,7 @@
      "answers": [
       "Hast du Zeit für mich?"
      ],
-     "hint": "für + mich.",
+     "hint": "Für takes the object form of ich.",
      "explanation": "Hast du Zeit für mich?"
     },
     {
@@ -11582,7 +11936,7 @@
      "answers": [
       "Danke für die Einladung!"
      ],
-     "hint": "Danke für + the noun.",
+     "hint": "Thank you for + the noun with its article.",
      "explanation": "Danke für die Einladung!"
     }
    ]
@@ -12126,7 +12480,7 @@
      "more": "hatte works like war. The base is hatte. Then you add: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten. Be careful: du hattest has an extra -st, and wir hatten has -n. Step 1: find the person. Step 2: pick the form from the table. Step 3: put it in part 2. Extra example: Ihr hattet Zeit. = You (all) had time.",
      "lead": "The second past form works in the same way. This card gives all six forms of hatte, so you can say what each person had on a past day.",
      "deeper": {
-      "text": "war has no ending for ich and er/sie/es. hatte keeps its own e: ich hatte, er hatte, du hattest, wir hatten. The tt makes a short a sound. So you learn one pattern for two verbs. Hattet is the form for ihr.",
+      "text": "hatte is built from the stem hatt- plus the usual past endings: -e, -est, -e, -en, -et, -en. So ich hatte and er hatte look the same. Mind the double t: hat (now) has one t, hatte (past) has two. Germans use hatte a lot: Ich hatte Hunger says you were hungry, and Ich hatte einen schönen Tag says you had a nice day.",
       "example": {
        "de": "Hattet ihr gestern Zeit?",
        "en": "Did you (all) have time yesterday?",
@@ -12369,6 +12723,33 @@
          "place"
         ]
        ]
+      },
+      {
+       "de": "Letzte Woche hatte ich Urlaub.",
+       "en": "Last week I had a holiday.",
+       "why": "der Urlaub = the holiday.",
+       "parts": [
+        [
+         "Letzte",
+         "time"
+        ],
+        [
+         "Woche",
+         "time"
+        ],
+        [
+         "hatte",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "Urlaub.",
+         "object"
+        ]
+       ]
       }
      ],
      "table": {
@@ -12533,6 +12914,60 @@
          "adjective"
         ]
        ]
+      },
+      {
+       "de": "Der Film war lustig, nicht langweilig.",
+       "en": "The film was fun, not boring.",
+       "why": "lustig = fun; langweilig = boring.",
+       "parts": [
+        [
+         "Der",
+         "article"
+        ],
+        [
+         "Film",
+         "noun"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "lustig,",
+         "adjective"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "langweilig.",
+         "adjective"
+        ]
+       ]
+      },
+      {
+       "de": "Das Wetter war schön.",
+       "en": "The weather was lovely.",
+       "why": "das Wetter = the weather.",
+       "parts": [
+        [
+         "Das",
+         "article"
+        ],
+        [
+         "Wetter",
+         "noun"
+        ],
+        [
+         "war",
+         "verb"
+        ],
+        [
+         "schön.",
+         "adjective"
+        ]
+       ]
       }
      ],
      "steps": [
@@ -12620,7 +13055,7 @@
      "answers": [
       "war"
      ],
-     "hint": "ich → war.",
+     "hint": "Look at the past-of-sein table: the ich row.",
      "explanation": "ich war.",
      "grammar": true
     },
@@ -12630,7 +13065,7 @@
      "answers": [
       "warst"
      ],
-     "hint": "du: warst.",
+     "hint": "Look at the table of war: the du row.",
      "explanation": "du warst.",
      "grammar": true
     },
@@ -12640,7 +13075,7 @@
      "answers": [
       "waren"
      ],
-     "hint": "wir: waren.",
+     "hint": "Look at the table of war: the wir row.",
      "explanation": "wir waren.",
      "grammar": true
     },
@@ -12650,7 +13085,7 @@
      "answers": [
       "hatte"
      ],
-     "hint": "ich → hatte.",
+     "hint": "Look at the past-of-haben table: the ich row.",
      "explanation": "ich hatte.",
      "grammar": true
     },
@@ -12660,7 +13095,7 @@
      "answers": [
       "hatte"
      ],
-     "hint": "er/sie → hatte.",
+     "hint": "Look at the past-of-haben table: the er/sie row.",
      "explanation": "sie hatte.",
      "grammar": true
     },
@@ -12715,7 +13150,7 @@
      "answers": [
       "war"
      ],
-     "hint": "er → war.",
+     "hint": "Look at the past-of-sein table: the er row.",
      "explanation": "er war.",
      "grammar": true
     },
@@ -12725,7 +13160,7 @@
      "answers": [
       "wart"
      ],
-     "hint": "ihr: wart.",
+     "hint": "Look at the table of war: the ihr row.",
      "explanation": "ihr wart.",
      "grammar": true
     },
@@ -12735,7 +13170,7 @@
      "answers": [
       "waren"
      ],
-     "hint": "sie (they): waren.",
+     "hint": "Look at the table of war: the sie row.",
      "explanation": "sie waren.",
      "grammar": true
     },
@@ -12745,7 +13180,7 @@
      "answers": [
       "hattest"
      ],
-     "hint": "du: hattest.",
+     "hint": "Look at the table of hatte: the du row.",
      "explanation": "du hattest.",
      "grammar": true
     },
@@ -12755,7 +13190,7 @@
      "answers": [
       "hattet"
      ],
-     "hint": "ihr: hattet.",
+     "hint": "Look at the table of hatte: the ihr row.",
      "explanation": "ihr hattet.",
      "grammar": true
     },
@@ -12765,7 +13200,7 @@
      "answers": [
       "hatten"
      ],
-     "hint": "wir: hatten.",
+     "hint": "Look at the table of hatte: the wir row.",
      "explanation": "wir hatten.",
      "grammar": true
     },
@@ -13038,7 +13473,7 @@
       "Mira hatte am Samstag Geburtstag.",
       "Am Samstag hatte Mira Geburtstag."
      ],
-     "hint": "er/sie: hatte.",
+     "hint": "Mira is er/sie: look at the table of hatte.",
      "explanation": "Mira hatte am Samstag Geburtstag."
     }
    ]
@@ -13052,13 +13487,8 @@
    "day": 1,
    "reading": {
     "title": "Anna's Einladung",
-    "text": "Liebe Mira,\nmein Geburtstag ist am zwanzigsten Mai. Ich feiere am Samstag um 18 Uhr in Hamburg. Ben und Leon kommen auch. Wir essen Torte und hören Musik. Ich kaufe eine Torte und einen Saft. Leon spielt Gitarre und Ben tanzt. Wir trinken Saft und Tee. Ich koche auch Suppe. Möchtest du kommen? Hast du am Samstag Zeit? Frau Weber kann leider nicht kommen. Sie arbeitet am Samstag. Das ist schade! Aber Herr Ali kommt auch. Er hat Zeit. Das Fest ist super!\nViele Grüße\nAnna",
-    "glossary": [
-     {
-      "de": "Hamburg",
-      "en": "a city in the north of Germany (in Hamburg)"
-     }
-    ],
+    "text": "Liebe Mira,\nmein Geburtstag ist am zwanzigsten Mai. Ich feiere am Samstag um 18 Uhr in Wien. Ben und Leon kommen auch. Wir essen Torte und hören Musik. Ich kaufe eine Torte und einen Saft. Leon spielt Gitarre und Ben tanzt. Wir trinken Saft und Tee. Ich koche auch Suppe. Möchtest du kommen? Hast du am Samstag Zeit? Frau Weber kann leider nicht kommen. Sie arbeitet am Samstag. Das ist schade! Aber Herr Ali kommt auch. Er hat Zeit. Das Fest ist super!\nViele Grüße\nAnna",
+    "glossary": [],
     "questions": [
      {
       "type": "choice",
@@ -13092,9 +13522,9 @@
        "in Berlin",
        "in Wien"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for in.",
-      "explanation": "in Hamburg."
+      "explanation": "in Wien."
      },
      {
       "type": "choice",
@@ -13184,7 +13614,7 @@
    },
    "listening": {
     "title": "Anna and Ben",
-    "script": "Anna: Hallo, Ben! Ich habe am zwanzigsten Mai Geburtstag. Möchtest du kommen?\nBen: Wann ist die Party?\nAnna: Am Samstag um 18 Uhr in Hamburg.\nBen: Leider kann ich am Samstag nicht kommen. Ich habe keine Zeit.\nAnna: Schade! Hast du am Sonntag Zeit? Wir feiern auch am Sonntag um 15 Uhr.\nBen: Ja, am Sonntag habe ich Zeit! Ich komme gern.\nAnna: Super! Wir essen Torte.\nBen: Herzlichen Glückwunsch zum Geburtstag, Anna!\nAnna: Danke, Ben!",
+    "script": "Anna: Hallo, Ben! Ich habe am zwanzigsten Mai Geburtstag. Möchtest du kommen?\nBen: Wann ist die Party?\nAnna: Am Samstag um 18 Uhr in Wien.\nBen: Leider kann ich am Samstag nicht kommen. Ich habe keine Zeit.\nAnna: Schade! Hast du am Sonntag Zeit? Wir feiern auch am Sonntag um 15 Uhr.\nBen: Ja, am Sonntag habe ich Zeit! Ich komme gern.\nAnna: Super! Wir essen Torte.\nBen: Herzlichen Glückwunsch zum Geburtstag, Anna!\nAnna: Danke, Ben!",
     "questions": [
      {
       "type": "choice",
@@ -13230,9 +13660,9 @@
        "in Italien",
        "in Wien"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for in.",
-      "explanation": "in Hamburg."
+      "explanation": "in Wien."
      },
      {
       "type": "choice",
@@ -13251,7 +13681,7 @@
       "options": [
        "He is ill.",
        "He has no time.",
-       "He is in Vienna."
+       "He is in Berlin."
       ],
       "answer": 1,
       "hint": "Listen to his next sentence.",
@@ -13333,7 +13763,7 @@
       "answers": [
        "um"
       ],
-      "hint": "um goes with a clock time.",
+      "hint": "The little word that goes with a clock time.",
       "explanation": "um 19 Uhr."
      },
      {
@@ -13421,7 +13851,7 @@
       "answers": [
        "Ja, ich komme gern."
       ],
-      "hint": "Ja, then ich komme, then gern.",
+      "hint": "A short yes, the verb for coming in part 2, then the word for gladly.",
       "explanation": "Ja, ich komme gern."
      }
     ],
@@ -13457,7 +13887,7 @@
    "day": 2,
    "reading": {
     "title": "Im Café",
-    "text": "Mira und Ben sind heute im Café. Das Café ist klein, aber sehr schön. Es ist 15 Uhr. Die Kellnerin kommt und fragt: „Was möchten Sie?“ Mira nimmt einen Kaffee und eine Torte. Ben möchte einen Tee und ein Eis. Er hat auch Hunger und nimmt einen Salat. Die Torte ist lecker. Um 16 Uhr ruft Anna an. Sie möchte mitkommen. Dann sagt Ben: „Zahlen, bitte!“ Die Kellnerin fragt: „Zusammen oder getrennt?“ Mira sagt: „Getrennt, bitte.“ Mira zahlt 8 Euro 50. Ben zahlt 11 Euro. Er sagt: „Stimmt so!“",
+    "text": "Mira und Ben sind heute im Café. Das Café ist klein, aber sehr schön. Es ist 15 Uhr. Die Kellnerin kommt und fragt: „Was möchten Sie?“ Mira nimmt einen Kaffee und eine Torte. Ben möchte einen Tee und ein Eis. Er hat auch Hunger und nimmt einen Salat. Die Torte ist lecker. Um 16 Uhr ruft Frau Weber an. Sie möchte mitkommen. Dann sagt Ben: „Zahlen, bitte!“ Die Kellnerin fragt: „Zusammen oder getrennt?“ Mira sagt: „Getrennt, bitte.“ Mira zahlt 8 Euro 50. Ben zahlt 11 Euro. Er sagt: „Stimmt so!“",
     "glossary": [
      {
       "de": "fragt",
@@ -13537,17 +13967,17 @@
       "type": "choice",
       "prompt": "Who calls at 4 pm?",
       "options": [
-       "Anna",
        "Leon",
+       "Anna",
        "Frau Weber"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for ruft … an.",
-      "explanation": "Um 16 Uhr ruft Anna an."
+      "explanation": "Um 16 Uhr ruft Frau Weber an."
      },
      {
       "type": "choice",
-      "prompt": "What does Anna want?",
+      "prompt": "What does Frau Weber want?",
       "options": [
        "to come along",
        "to pay",
@@ -13808,7 +14238,7 @@
       "answers": [
        "Zusammen oder getrennt?"
       ],
-      "hint": "Two words and oder.",
+      "hint": "Both words from the paying card, with oder between them.",
       "explanation": "Zusammen oder getrennt?"
      },
      {
@@ -13862,7 +14292,7 @@
    "day": 3,
    "reading": {
     "title": "Letztes Wochenende",
-    "text": "Letztes Wochenende war ich in Hamburg. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war auch da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
+    "text": "Letztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war auch da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
     "glossary": [],
     "questions": [
      {
@@ -13873,9 +14303,9 @@
        "in Berlin",
        "in Wien"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at the first sentence.",
-      "explanation": "Letztes Wochenende war ich in Hamburg."
+      "explanation": "Letztes Wochenende war ich in Wien."
      },
      {
       "type": "choice",
@@ -14118,7 +14548,7 @@
       "answers": [
        "war"
       ],
-      "hint": "ich → war.",
+      "hint": "Look at the past-of-sein table: the ich row.",
       "explanation": "Gestern war ich müde."
      },
      {
@@ -14127,7 +14557,7 @@
       "answers": [
        "waren"
       ],
-      "hint": "wir → waren.",
+      "hint": "Look at the table of war: the wir row.",
       "explanation": "Wir waren letztes Wochenende in Wien."
      },
      {
@@ -14136,7 +14566,7 @@
       "answers": [
        "hattest"
       ],
-      "hint": "du → hattest.",
+      "hint": "Look at the table of hatte: the du row.",
       "explanation": "Du hattest gestern Hunger."
      },
      {
@@ -14145,7 +14575,7 @@
       "answers": [
        "hatte"
       ],
-      "hint": "er/sie → hatte.",
+      "hint": "Look at the past-of-haben table: the er/sie row.",
       "explanation": "Anna hatte am Samstag Geburtstag."
      },
      {
@@ -14203,7 +14633,7 @@
       "answers": [
        "ihn"
       ],
-      "hint": "er becomes ihn.",
+      "hint": "The object form of er.",
       "explanation": "Ich rufe ihn an."
      },
      {
@@ -14212,7 +14642,7 @@
       "answers": [
        "hatten"
       ],
-      "hint": "wir → hatten.",
+      "hint": "Look at the past-of-haben table: the wir row.",
       "explanation": "Gestern hatten wir Zeit."
      },
      {
@@ -14228,7 +14658,7 @@
     "free": {
      "prompt": "You are Leon. Write 4 short sentences about last weekend: where you were, what Anna had, how the party was and whom you call.",
      "minWords": 15,
-     "model": "Letztes Wochenende war ich in Hamburg. Am Samstag hatte Anna Geburtstag. Die Party war toll, und das Essen war lecker. Heute rufe ich Anna an.",
+     "model": "Letztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war toll, und das Essen war lecker. Heute rufe ich Anna an.",
      "checks": [
       {
        "label": "says where you were with war",
