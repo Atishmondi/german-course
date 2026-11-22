@@ -19735,7 +19735,7 @@
       },
       {
        "label": "accepts or cancels (zusagen, absagen, komme)",
-       "pattern": "(zusagen|absagen|sage zu|sage ab|komme|kann ich nicht)"
+       "pattern": "(zusagen|absagen|sage\\b.{0,20}\\bzu\\b|sage\\b.{0,20}\\bab\\b|komme|kann ich nicht)"
       }
      ]
     }

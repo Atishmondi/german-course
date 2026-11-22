@@ -139,7 +139,7 @@
     },
     {
      "title": "Ordinal numbers: first, second, third",
-     "body": "Numbers count: eins, zwei, drei. Ordinal numbers give the order: first, second, third. You need them for dates. In German an ordinal has an ending: der erste, der zweite. Here are the first ten.",
+     "body": "Numbers count: eins, zwei, drei. Ordinal numbers give the order: first, second, third. You need them for dates. In German an ordinal has an ending: der erste, der zweite. Here are the first ten. Notice der achte: acht already ends in t, so you add only -e.",
      "examples": [
       {
        "de": "der erste Tag",
@@ -1137,11 +1137,11 @@
      "type": "choice",
      "prompt": "Which is the ordinal for 5?",
      "options": [
-      "fünf",
       "fünfte",
+      "fünf",
       "fünfzehn"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "An ordinal ends in -te or -ste.",
      "explanation": "der fünfte.",
      "grammar": true
@@ -1161,10 +1161,10 @@
      "prompt": "Which is right for 7?",
      "options": [
       "der siebete",
-      "der siebte",
-      "der sieben"
+      "der sieben",
+      "der siebte"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "sieben loses its en.",
      "explanation": "der siebte.",
      "grammar": true
@@ -1173,11 +1173,11 @@
      "type": "choice",
      "prompt": "Which is the 20th?",
      "options": [
-      "zwanzigte",
       "zwanzigste",
+      "zwanzigte",
       "zwanzigsten"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "From 20 on add -ste.",
      "explanation": "der zwanzigste.",
      "grammar": true
@@ -1255,7 +1255,9 @@
     "prompt": "Write in German: On the tenth of August I play tennis.",
     "answers": [
      "Am zehnten August spiele ich Tennis.",
-     "Ich spiele am zehnten August Tennis."
+     "Am zehnten August spiele ich Tennis",
+     "Ich spiele am zehnten August Tennis.",
+     "Ich spiele am zehnten August Tennis"
     ],
     "hint": "am + ordinal with -ten. The verb is part 2.",
     "explanation": "Am zehnten August spiele ich Tennis.",
@@ -1572,7 +1574,8 @@
      "type": "type",
      "prompt": "Write in German: Today is the first of May.",
      "answers": [
-      "Heute ist der erste Mai."
+      "Heute ist der erste Mai.",
+      "Heute ist der erste Mai"
      ],
      "hint": "Heute ist … The first is odd.",
      "explanation": "Heute ist der erste Mai."
@@ -1582,7 +1585,9 @@
      "prompt": "Write in German: On the third of June I have time.",
      "answers": [
       "Am dritten Juni habe ich Zeit.",
-      "Ich habe am dritten Juni Zeit."
+      "Am dritten Juni habe ich Zeit",
+      "Ich habe am dritten Juni Zeit.",
+      "Ich habe am dritten Juni Zeit"
      ],
      "hint": "am + …-ten. The verb is part 2.",
      "explanation": "Am dritten Juni habe ich Zeit."
@@ -1591,7 +1596,8 @@
      "type": "type",
      "prompt": "Write in German: the thirtieth of June",
      "answers": [
-      "der dreißigste Juni"
+      "der dreißigste Juni",
+      "der dreißigste Juni."
      ],
      "hint": "From 20 on add -ste.",
      "explanation": "der dreißigste Juni"
@@ -1600,7 +1606,8 @@
      "type": "type",
      "prompt": "Write in German: Today is the seventh of August.",
      "answers": [
-      "Heute ist der siebte August."
+      "Heute ist der siebte August.",
+      "Heute ist der siebte August"
      ],
      "hint": "sieben loses its en.",
      "explanation": "Heute ist der siebte August."
@@ -2671,7 +2678,11 @@
     "prompt": "Write in German: My birthday is on the fifth of May.",
     "answers": [
      "Mein Geburtstag ist am fünften Mai.",
-     "Ich habe am fünften Mai Geburtstag."
+     "Mein Geburtstag ist am fünften Mai",
+     "Ich habe am fünften Mai Geburtstag.",
+     "Ich habe am fünften Mai Geburtstag",
+     "Am fünften Mai habe ich Geburtstag.",
+     "Am fünften Mai habe ich Geburtstag"
     ],
     "hint": "mein + Geburtstag, or ich habe …",
     "explanation": "Mein Geburtstag ist am fünften Mai.",
@@ -2726,17 +2737,17 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Anna has her birthday on the first of May.",
+     "prompt": "Build: Leon has her birthday on the first of May.",
      "tokens": [
       "hat",
       "ersten",
       "am",
       "Geburtstag.",
       "Mai",
-      "Anna"
+      "Leon"
      ],
      "answer": [
-      "Anna",
+      "Leon",
       "hat",
       "am",
       "ersten",
@@ -2744,7 +2755,7 @@
       "Geburtstag."
      ],
      "hint": "haben: er/sie form.",
-     "explanation": "Anna hat am ersten Mai Geburtstag.",
+     "explanation": "Leon hat am ersten Mai Geburtstag.",
      "grammar": true
     },
     {
@@ -2994,7 +3005,9 @@
      "prompt": "Write in German: I have my birthday on the twentieth of May.",
      "answers": [
       "Ich habe am zwanzigsten Mai Geburtstag.",
-      "Am zwanzigsten Mai habe ich Geburtstag."
+      "Ich habe am zwanzigsten Mai Geburtstag",
+      "Am zwanzigsten Mai habe ich Geburtstag.",
+      "Am zwanzigsten Mai habe ich Geburtstag"
      ],
      "hint": "am + …-ten; haben.",
      "explanation": "Ich habe am zwanzigsten Mai Geburtstag."
@@ -3003,7 +3016,10 @@
      "type": "type",
      "prompt": "Write in German: The party is at 7 pm. (use 19)",
      "answers": [
-      "Die Party ist um 19 Uhr."
+      "Die Party ist um 19 Uhr.",
+      "Die Party ist um 19 Uhr",
+      "Die Party ist um neunzehn Uhr.",
+      "Die Party ist um neunzehn Uhr"
      ],
      "hint": "Add 12 to 7.",
      "explanation": "Die Party ist um 19 Uhr."
@@ -3012,7 +3028,8 @@
      "type": "type",
      "prompt": "Write in German: Mira buys a present.",
      "answers": [
-      "Mira kauft ein Geschenk."
+      "Mira kauft ein Geschenk.",
+      "Mira kauft ein Geschenk"
      ],
      "hint": "Geschenk is a das-word.",
      "explanation": "Mira kauft ein Geschenk."
@@ -3022,7 +3039,9 @@
      "prompt": "Write in German: We celebrate on Saturday.",
      "answers": [
       "Wir feiern am Samstag.",
-      "Am Samstag feiern wir."
+      "Wir feiern am Samstag",
+      "Am Samstag feiern wir.",
+      "Am Samstag feiern wir"
      ],
      "hint": "wir takes -en.",
      "explanation": "Wir feiern am Samstag."
@@ -3993,7 +4012,7 @@
      "more": "A radio voice is fast. You cannot catch every word, and that is fine. Catch only the four key facts. First the thing: Konzert, Film, Fest. Then the day: am Freitag. Then the time: um 20 Uhr. Then the place: in Hamburg. Step 1: listen once for the thing. Step 2: listen again for the day and time. Extra example: Das Fest ist am Samstag um 15 Uhr in Wien. = The party is on Saturday at 3 pm in Vienna.",
      "lead": "Now you use the four facts on a short radio tip. This card shows how to catch them when you listen, so you can understand an event announcement without reading it.",
      "deeper": {
-      "text": "A radio tip has no pictures, so the words do the work. They come in a fixed order: when, then where. Listen for the day and the time (am Freitag um 20 Uhr) and then for the place (in Wien). Learn to hear this order as a pattern.",
+      "text": "A radio tip has no pictures, so the words do the work. They often come in the same order: when, then where. Listen for the day and the time (am Freitag um 20 Uhr) and then for the place (in Wien). Learn to hear this order as a pattern.",
       "example": {
        "de": "Das Konzert ist am Sonntag um 19 Uhr in Wien.",
        "en": "The concert is on Sunday at 7 pm in Vienna.",
@@ -4080,7 +4099,7 @@
      ],
      "answer": 2,
      "hint": "Look at the first card.",
-     "explanation": "Viele Grüße\nAnna."
+     "explanation": "Viele Grüße."
     },
     {
      "type": "build",
@@ -4169,8 +4188,11 @@
     "prompt": "Write in German: Unfortunately I cannot come on Saturday.",
     "answers": [
      "Leider kann ich am Samstag nicht kommen.",
+     "Leider kann ich am Samstag nicht kommen",
      "Am Samstag kann ich leider nicht kommen.",
-     "Leider kann ich nicht am Samstag kommen."
+     "Am Samstag kann ich leider nicht kommen",
+     "Leider kann ich nicht am Samstag kommen.",
+     "Leider kann ich nicht am Samstag kommen"
     ],
     "hint": "Leider + kann + ich … and kommen last.",
     "explanation": "Leider kann ich am Samstag nicht kommen.",
@@ -4295,7 +4317,8 @@
      "type": "type",
      "prompt": "Write in German: Are you coming? (du)",
      "answers": [
-      "Kommst du?"
+      "Kommst du?",
+      "Kommst du"
      ],
      "hint": "A yes/no question: the verb goes first.",
      "explanation": "Kommst du?",
@@ -4483,7 +4506,10 @@
      "type": "type",
      "prompt": "Write in German: Dear Mira,",
      "answers": [
-      "Liebe Mira,"
+      "Liebe Mira,",
+      "Liebe Mira,.",
+      "Liebe Mira",
+      "Liebe Mira."
      ],
      "hint": "Mira is a woman.",
      "explanation": "Liebe Mira,"
@@ -4492,7 +4518,8 @@
      "type": "type",
      "prompt": "Write in German: Unfortunately I do not have time.",
      "answers": [
-      "Leider habe ich keine Zeit."
+      "Leider habe ich keine Zeit.",
+      "Leider habe ich keine Zeit"
      ],
      "hint": "Leider + haben + keine.",
      "explanation": "Leider habe ich keine Zeit."
@@ -4501,7 +4528,8 @@
      "type": "type",
      "prompt": "Write in German: Would you like to come on Sunday?",
      "answers": [
-      "Möchtest du am Sonntag kommen?"
+      "Möchtest du am Sonntag kommen?",
+      "Möchtest du am Sonntag kommen"
      ],
      "hint": "kommen goes last.",
      "explanation": "Möchtest du am Sonntag kommen?"
@@ -4510,7 +4538,8 @@
      "type": "type",
      "prompt": "Write in German: The party is on Saturday at 6 pm. (use 18)",
      "answers": [
-      "Die Party ist am Samstag um 18 Uhr."
+      "Die Party ist am Samstag um 18 Uhr.",
+      "Die Party ist am Samstag um 18 Uhr"
      ],
      "hint": "am + day, um + time.",
      "explanation": "Die Party ist am Samstag um 18 Uhr."
@@ -5211,7 +5240,7 @@
     },
     {
      "title": "Time first: the verb is still part 2",
-     "body": "You can start the sentence with a time word or an object. The verb is still part 2. The prefix still goes to the end. Um 7 Uhr stehe ich auf. Am Samstag kaufen wir ein.",
+     "body": "You can start the sentence with a time word. The verb is still part 2. The prefix still goes to the end. Um 7 Uhr stehe ich auf. Am Samstag kaufen wir ein.",
      "examples": [
       {
        "de": "Um 7 Uhr stehe ich auf.",
@@ -5693,7 +5722,8 @@
     "type": "type",
     "prompt": "Write in German: Mira calls Ben.",
     "answers": [
-     "Mira ruft Ben an."
+     "Mira ruft Ben an.",
+     "Mira ruft Ben an"
     ],
     "hint": "er/sie: ruft. The prefix goes last.",
     "explanation": "Mira ruft Ben an.",
@@ -6019,7 +6049,8 @@
      "type": "type",
      "prompt": "Write in German: I call Leon.",
      "answers": [
-      "Ich rufe Leon an."
+      "Ich rufe Leon an.",
+      "Ich rufe Leon an"
      ],
      "hint": "rufe … an.",
      "explanation": "Ich rufe Leon an."
@@ -6029,7 +6060,9 @@
      "prompt": "Write in German: We get up at 8 o'clock.",
      "answers": [
       "Wir stehen um 8 Uhr auf.",
-      "Um 8 Uhr stehen wir auf."
+      "Wir stehen um 8 Uhr auf",
+      "Um 8 Uhr stehen wir auf.",
+      "Um 8 Uhr stehen wir auf"
      ],
      "hint": "wir + -en; auf last.",
      "explanation": "Wir stehen um 8 Uhr auf."
@@ -6039,7 +6072,9 @@
      "prompt": "Write in German: Ben shops on Saturday.",
      "answers": [
       "Ben kauft am Samstag ein.",
-      "Am Samstag kauft Ben ein."
+      "Ben kauft am Samstag ein",
+      "Am Samstag kauft Ben ein.",
+      "Am Samstag kauft Ben ein"
      ],
      "hint": "er/sie + -t; ein last.",
      "explanation": "Ben kauft am Samstag ein."
@@ -6049,7 +6084,9 @@
      "prompt": "Write in German: The film begins at 8 pm. (use 20)",
      "answers": [
       "Der Film fängt um 20 Uhr an.",
-      "Um 20 Uhr fängt der Film an."
+      "Der Film fängt um 20 Uhr an",
+      "Um 20 Uhr fängt der Film an.",
+      "Um 20 Uhr fängt der Film an"
      ],
      "hint": "a becomes ä; an is last.",
      "explanation": "Der Film fängt um 20 Uhr an."
@@ -7026,10 +7063,10 @@
      "steps": [
       "Leider kann ich nicht mitkommen.",
       "Ich muss arbeiten.",
-      "Both verbs sit in part 2."
+      "Each sentence has its verb in part 2."
      ],
      "more": "A no is nicer with a reason. First the no: Leider kann ich nicht mitkommen. Then the reason with muss: Ich muss arbeiten. Each sentence has its own verb in part 2 and its own infinitive at the end. Step 1: no. Step 2: reason. Step 3: smile. The word leider makes it kind. Extra example: Leider muss ich früh aufstehen. = Unfortunately I must get up early.",
-     "lead": "Not every invitation fits your day. This card shows how to decline in a friendly way and give a reason, so you can say no without sounding unkind. It is the last card of this lesson.",
+     "lead": "Not every invitation fits your day. This card shows how to decline in a friendly way and give a reason, so you can say no without sounding unkind.",
      "deeper": {
       "text": "A refusal sounds friendlier with a reason. Leider muss ich arbeiten is better than only Nein. With a reason the other person understands, and often suggests another day. After muss, a separable verb stays together. Put the reason in the middle and the infinitive at the end.",
       "example": {
@@ -7186,7 +7223,9 @@
     "prompt": "Write in German: I must get up at 6 o'clock.",
     "answers": [
      "Ich muss um 6 Uhr aufstehen.",
-     "Um 6 Uhr muss ich aufstehen."
+     "Ich muss um 6 Uhr aufstehen",
+     "Um 6 Uhr muss ich aufstehen.",
+     "Um 6 Uhr muss ich aufstehen"
     ],
     "hint": "muss, then the whole verb last.",
     "explanation": "Ich muss um 6 Uhr aufstehen.",
@@ -7306,7 +7345,8 @@
      "type": "type",
      "prompt": "Write in German: Do you come along? (du)",
      "answers": [
-      "Kommst du mit?"
+      "Kommst du mit?",
+      "Kommst du mit"
      ],
      "hint": "Verb first. The prefix is last.",
      "explanation": "Kommst du mit?",
@@ -7504,7 +7544,9 @@
      "prompt": "Write in German: I want to shop on Sunday.",
      "answers": [
       "Ich will am Sonntag einkaufen.",
-      "Am Sonntag will ich einkaufen."
+      "Ich will am Sonntag einkaufen",
+      "Am Sonntag will ich einkaufen.",
+      "Am Sonntag will ich einkaufen"
      ],
      "hint": "wollen + the whole verb last.",
      "explanation": "Ich will am Sonntag einkaufen."
@@ -7513,7 +7555,8 @@
      "type": "type",
      "prompt": "Write in German: Can you call Mira?",
      "answers": [
-      "Kannst du Mira anrufen?"
+      "Kannst du Mira anrufen?",
+      "Kannst du Mira anrufen"
      ],
      "hint": "kannst first, anrufen last.",
      "explanation": "Kannst du Mira anrufen?"
@@ -7522,7 +7565,8 @@
      "type": "type",
      "prompt": "Write in German: Unfortunately I cannot come along.",
      "answers": [
-      "Leider kann ich nicht mitkommen."
+      "Leider kann ich nicht mitkommen.",
+      "Leider kann ich nicht mitkommen"
      ],
      "hint": "leider + kann + nicht + mitkommen.",
      "explanation": "Leider kann ich nicht mitkommen."
@@ -7532,7 +7576,9 @@
      "prompt": "Write in German: We go to the cinema on Saturday.",
      "answers": [
       "Wir gehen am Samstag ins Kino.",
-      "Am Samstag gehen wir ins Kino."
+      "Wir gehen am Samstag ins Kino",
+      "Am Samstag gehen wir ins Kino.",
+      "Am Samstag gehen wir ins Kino"
      ],
      "hint": "ins Kino is a chunk.",
      "explanation": "Wir gehen am Samstag ins Kino."
@@ -7919,7 +7965,7 @@
        ]
       ]
      },
-     "more": "nehmen is one of the verbs that changes a vowel, like essen and sehen. For du and er/sie the first e becomes i. And the h is dropped, too: nimmst, nimmt. For ich and wir, nothing changes. Step 1: find the person. Step 2: du or er/sie? Use nimm-. Step 3: add the ending. Extra example: Ben nimmt den Fisch. = Ben takes the fish.",
+     "more": "nehmen is one of the verbs that changes a vowel, like essen and sprechen. For du and er/sie the first e becomes i. And the h is dropped, too: nimmst, nimmt. For ich and wir, nothing changes. Step 1: find the person. Step 2: du or er/sie? Use nimm-. Step 3: add the ending. Extra example: Ben nimmt den Fisch. = Ben takes the fish.",
      "lead": "Ordering needs one more verb, the one for choosing a dish. This card gives its forms, so you can say what you will take and what your friend chooses.",
      "deeper": {
       "text": "nehmen has two changes: e becomes i and the h disappears. Other verbs also change e to i in du and er/sie: essen (to eat) has du isst and er isst. So it is a pattern, not a surprise. Watch for it in du and er/sie, and nowhere else.",
@@ -8371,7 +8417,7 @@
       ]
      },
      "more": "The two letters make one sound, like a little team. ei is not ee. It sounds like the English word eye. Try it: zwei, Eis, Freitag. eu is not you. It sounds like oy in boy: Euro, neu, heute. au sounds like ow in cow: Auto, auf, Haus. Step 1: spot the pair. Step 2: say the team sound. Step 3: say the word. Extra example: Das Haus ist neu. = The house is new.",
-     "lead": "This last card is about sounds, so the café words sound right. This card covers three letter pairs that sound different from English, so you can say Eis and Auto clearly.",
+     "lead": "Sounds come last. Three letter pairs sound different from English, so you can say Eis and Auto clearly.",
      "deeper": {
       "text": "Mixing up ei and ie is a very common spelling mistake, because the sounds swap. Here is a trick: the second letter names the sound. ei says i, like the English eye. ie says e, like ee. So Wein (wine) and Wien (Vienna) sound different.",
       "example": {
@@ -8517,7 +8563,8 @@
     "type": "type",
     "prompt": "Write in German: Mira takes the soup.",
     "answers": [
-     "Mira nimmt die Suppe."
+     "Mira nimmt die Suppe.",
+     "Mira nimmt die Suppe"
     ],
     "hint": "Mira is er/sie: the vowel of nehmen changes.",
     "explanation": "Mira nimmt die Suppe.",
@@ -8828,7 +8875,8 @@
      "type": "type",
      "prompt": "Write in German: I take the salad.",
      "answers": [
-      "Ich nehme den Salat."
+      "Ich nehme den Salat.",
+      "Ich nehme den Salat"
      ],
      "hint": "Salat is masculine.",
      "explanation": "Ich nehme den Salat."
@@ -8837,7 +8885,10 @@
      "type": "type",
      "prompt": "Write in German: Together, please.",
      "answers": [
-      "Zusammen, bitte."
+      "Zusammen, bitte.",
+      "Zusammen, bitte",
+      "Zusammen bitte.",
+      "Zusammen bitte"
      ],
      "hint": "One word and bitte.",
      "explanation": "Zusammen, bitte."
@@ -8847,7 +8898,9 @@
      "prompt": "Write in German: That comes to fifteen euros.",
      "answers": [
       "Das macht fünfzehn Euro.",
-      "Das macht 15 Euro."
+      "Das macht fünfzehn Euro",
+      "Das macht 15 Euro.",
+      "Das macht 15 Euro"
      ],
      "hint": "Das macht + the price.",
      "explanation": "Das macht fünfzehn Euro."
@@ -8856,7 +8909,8 @@
      "type": "type",
      "prompt": "Write in German: Ben takes the pizza.",
      "answers": [
-      "Ben nimmt die Pizza."
+      "Ben nimmt die Pizza.",
+      "Ben nimmt die Pizza"
      ],
      "hint": "Ben is er/sie: the vowel of nehmen changes.",
      "explanation": "Ben nimmt die Pizza."
@@ -9886,7 +9940,7 @@
        ]
       ]
      },
-     "more": "You know wer? = who. When the answer is the object, who becomes wen: whom. It is the same idea as den and ihn: only the masculine-like word changes, and wer is a bit like a masculine. Step 1: ask Wen …? Step 2: the verb comes in part 2. Step 3: answer with a name or a pronoun. Extra example: Wen siehst du? Ich sehe ihn. = Whom do you see? I see him.",
+     "more": "You know wer? = who. When the answer is the object, who becomes wen: whom. It is the same idea as den and ihn: the question word changes when it is the object. Step 1: ask Wen …? Step 2: the verb comes in part 2. Step 3: answer with a name or a pronoun. Extra example: Wen siehst du? Ich sehe ihn. = Whom do you see? I see him.",
      "lead": "Your question words now need to ask about a person. This card gives the question for whom, so you can ask who someone is calling or meeting.",
      "deeper": {
       "text": "wer asks about the subject: who does it. wen asks about the object: who gets it. wen is the accusative of wer. English has the same pair, who and whom, but most people no longer use whom. German still uses wen every day. So Wen? is a very common question.",
@@ -10038,7 +10092,8 @@
     "type": "type",
     "prompt": "Write in German: Ben calls you. (du)",
     "answers": [
-     "Ben ruft dich an."
+     "Ben ruft dich an.",
+     "Ben ruft dich an"
     ],
     "hint": "Use the object form of du. The prefix goes last.",
     "explanation": "Ben ruft dich an.",
@@ -10356,7 +10411,8 @@
      "type": "type",
      "prompt": "Write in German: I see you. (du)",
      "answers": [
-      "Ich sehe dich."
+      "Ich sehe dich.",
+      "Ich sehe dich"
      ],
      "hint": "Use the object form of du.",
      "explanation": "Ich sehe dich."
@@ -10365,7 +10421,8 @@
      "type": "type",
      "prompt": "Write in German: Anna calls us.",
      "answers": [
-      "Anna ruft uns an."
+      "Anna ruft uns an.",
+      "Anna ruft uns an"
      ],
      "hint": "Use the object form of wir. The prefix is last.",
      "explanation": "Anna ruft uns an."
@@ -10374,7 +10431,8 @@
      "type": "type",
      "prompt": "Write in German: I eat it. (der Apfel)",
      "answers": [
-      "Ich esse ihn."
+      "Ich esse ihn.",
+      "Ich esse ihn"
      ],
      "hint": "Der is masculine: the pronoun for it changes.",
      "explanation": "Ich esse ihn."
@@ -10383,7 +10441,8 @@
      "type": "type",
      "prompt": "Write in German: Whom do you meet on Saturday?",
      "answers": [
-      "Wen triffst du am Samstag?"
+      "Wen triffst du am Samstag?",
+      "Wen triffst du am Samstag"
      ],
      "hint": "Wen, then the verb, then du.",
      "explanation": "Wen triffst du am Samstag?"
@@ -11581,7 +11640,8 @@
     "type": "type",
     "prompt": "Write in German: The present is for the father.",
     "answers": [
-     "Das Geschenk ist für den Vater."
+     "Das Geschenk ist für den Vater.",
+     "Das Geschenk ist für den Vater"
     ],
     "hint": "für + masculine: den.",
     "explanation": "Das Geschenk ist für den Vater.",
@@ -11907,7 +11967,8 @@
      "type": "type",
      "prompt": "Write in German: This is for me.",
      "answers": [
-      "Das ist für mich."
+      "Das ist für mich.",
+      "Das ist für mich"
      ],
      "hint": "für + the object form of ich.",
      "explanation": "Das ist für mich."
@@ -11916,7 +11977,8 @@
      "type": "type",
      "prompt": "Write in German: The tea is for him. (der Tee)",
      "answers": [
-      "Der Tee ist für ihn."
+      "Der Tee ist für ihn.",
+      "Der Tee ist für ihn"
      ],
      "hint": "Use the object form of er after für.",
      "explanation": "Der Tee ist für ihn."
@@ -11925,7 +11987,8 @@
      "type": "type",
      "prompt": "Write in German: Do you have time for me?",
      "answers": [
-      "Hast du Zeit für mich?"
+      "Hast du Zeit für mich?",
+      "Hast du Zeit für mich"
      ],
      "hint": "Für takes the object form of ich.",
      "explanation": "Hast du Zeit für mich?"
@@ -11934,7 +11997,8 @@
      "type": "type",
      "prompt": "Write in German: Thank you for the invitation!",
      "answers": [
-      "Danke für die Einladung!"
+      "Danke für die Einladung!",
+      "Danke für die Einladung"
      ],
      "hint": "Thank you for + the noun with its article.",
      "explanation": "Danke für die Einladung!"
@@ -12174,7 +12238,7 @@
      "more": "Imagine a time machine. In the present you say ich bin and ich habe. Step in the machine and the words change: ich war, ich hatte. The sentence order stays the same. Step 1: say the time word: gestern. Step 2: the past verb in part 2: war or hatte. Step 3: the rest. Extra example: Gestern hatte ich Zeit. = Yesterday I had time.",
      "lead": "Your intro asked how the party was. This card gives the past forms of the two most common verbs, so you can say how you were or what you had yesterday.",
      "deeper": {
-      "text": "war and hatte are used much more in speech than other past forms, even by native speakers. For most other verbs people use a different past, which you learn later. So war and hatte are your shortcut for describing how things were. They look like English too: war is was, and both start with w.",
+      "text": "Native speakers use war and hatte all the time in everyday speech. For most other verbs people use a different past, which you learn later. So war and hatte are your shortcut for describing how things were. They look like English too: war is was, and both start with w.",
       "example": {
        "de": "Ich war gestern in Wien.",
        "en": "I was in Vienna yesterday.",
@@ -12994,7 +13058,7 @@
       ]
      ],
      "more": "Tell a short story. Say where you were: war ich in Hamburg. Say what you had: hatten wir Zeit. Say how it was: das Konzert war super. These three small sentences tell an event. After war there is no ending on the describing word, just like after ist. Step 1: where. Step 2: what you had. Step 3: how it was. Extra example: Das Fest war laut, aber schön. = The party was loud, but lovely.",
-     "lead": "The past form works for things and events too, not only for people. This card shows how to describe how something was, so you can say a concert was great. It is the last card of this lesson.",
+     "lead": "The past form works for things and events too, not only for people. This card shows how to describe how something was, so you can say a concert was great.",
      "deeper": {
       "text": "After war and ist, a describing word stands alone with no ending, like in English: it was good. So Das Essen war lecker, not leckere. Words that describe an event are often warm: toll (great) is a favourite after a party. Adding sehr (very) makes it stronger.",
       "example": {
@@ -13137,7 +13201,9 @@
     "prompt": "Write in German: On Saturday we had time.",
     "answers": [
      "Am Samstag hatten wir Zeit.",
-     "Wir hatten am Samstag Zeit."
+     "Am Samstag hatten wir Zeit",
+     "Wir hatten am Samstag Zeit.",
+     "Wir hatten am Samstag Zeit"
     ],
     "hint": "hatten is part 2.",
     "explanation": "Am Samstag hatten wir Zeit.",
@@ -13442,7 +13508,8 @@
      "type": "type",
      "prompt": "Write in German: Yesterday I was hungry.",
      "answers": [
-      "Gestern hatte ich Hunger."
+      "Gestern hatte ich Hunger.",
+      "Gestern hatte ich Hunger"
      ],
      "hint": "Hunger goes with haben.",
      "explanation": "Gestern hatte ich Hunger."
@@ -13452,7 +13519,9 @@
      "prompt": "Write in German: Last weekend we were in Vienna.",
      "answers": [
       "Letztes Wochenende waren wir in Wien.",
-      "Wir waren letztes Wochenende in Wien."
+      "Letztes Wochenende waren wir in Wien",
+      "Wir waren letztes Wochenende in Wien.",
+      "Wir waren letztes Wochenende in Wien"
      ],
      "hint": "Time first. wir: waren.",
      "explanation": "Letztes Wochenende waren wir in Wien."
@@ -13461,7 +13530,8 @@
      "type": "type",
      "prompt": "Write in German: How was the concert?",
      "answers": [
-      "Wie war das Konzert?"
+      "Wie war das Konzert?",
+      "Wie war das Konzert"
      ],
      "hint": "wie + war.",
      "explanation": "Wie war das Konzert?"
@@ -13471,7 +13541,9 @@
      "prompt": "Write in German: Mira had her birthday on Saturday.",
      "answers": [
       "Mira hatte am Samstag Geburtstag.",
-      "Am Samstag hatte Mira Geburtstag."
+      "Mira hatte am Samstag Geburtstag",
+      "Am Samstag hatte Mira Geburtstag.",
+      "Am Samstag hatte Mira Geburtstag"
      ],
      "hint": "Mira is er/sie: look at the table of hatte.",
      "explanation": "Mira hatte am Samstag Geburtstag."
@@ -13486,7 +13558,7 @@
    "chapter": 6,
    "day": 1,
    "reading": {
-    "title": "Anna's Einladung",
+    "title": "Annas Einladung",
     "text": "Liebe Mira,\nmein Geburtstag ist am zwanzigsten Mai. Ich feiere am Samstag um 18 Uhr in Wien. Ben und Leon kommen auch. Wir essen Torte und hören Musik. Ich kaufe eine Torte und einen Saft. Leon spielt Gitarre und Ben tanzt. Wir trinken Saft und Tee. Ich koche auch Suppe. Möchtest du kommen? Hast du am Samstag Zeit? Frau Weber kann leider nicht kommen. Sie arbeitet am Samstag. Das ist schade! Aber Herr Ali kommt auch. Er hat Zeit. Das Fest ist super!\nViele Grüße\nAnna",
     "glossary": [],
     "questions": [
@@ -13530,25 +13602,25 @@
       "type": "choice",
       "prompt": "Who comes too?",
       "options": [
-       "Frau Weber",
+       "Ben and Leon",
        "Herr Ali",
-       "Ben and Leon"
+       "Frau Weber"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look for kommen auch.",
       "explanation": "Ben und Leon kommen auch."
      },
      {
       "type": "choice",
-      "prompt": "What do they eat?",
+      "prompt": "What does Anna cook?",
       "options": [
        "fish",
        "soup",
        "cake"
       ],
-      "answer": 2,
-      "hint": "Find essen.",
-      "explanation": "Wir essen Torte."
+      "answer": 1,
+      "hint": "Find koche.",
+      "explanation": "Ich koche auch Suppe."
      },
      {
       "type": "choice",
@@ -13579,10 +13651,10 @@
       "prompt": "What does Ben do?",
       "options": [
        "He cooks.",
-       "He swims.",
-       "He dances."
+       "He dances.",
+       "He swims."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Find Ben in the sentence with Gitarre.",
       "explanation": "Ben tanzt."
      },
@@ -13590,11 +13662,11 @@
       "type": "choice",
       "prompt": "Who cannot come?",
       "options": [
-       "Ben",
+       "Frau Weber",
        "Leon",
-       "Frau Weber"
+       "Ben"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look for leider nicht kommen.",
       "explanation": "Frau Weber kann leider nicht kommen."
      },
@@ -13821,7 +13893,8 @@
       "type": "type",
       "prompt": "Make it a question: Du kommst am Samstag.",
       "answers": [
-       "Kommst du am Samstag?"
+       "Kommst du am Samstag?",
+       "Kommst du am Samstag"
       ],
       "hint": "A yes/no question starts with the verb.",
       "explanation": "Kommst du am Samstag?"
@@ -13840,7 +13913,9 @@
       "prompt": "Write in German: Happy birthday!",
       "answers": [
        "Herzlichen Glückwunsch zum Geburtstag!",
-       "Herzlichen Glückwunsch!"
+       "Herzlichen Glückwunsch zum Geburtstag",
+       "Herzlichen Glückwunsch!",
+       "Herzlichen Glückwunsch"
       ],
       "hint": "It is a chunk.",
       "explanation": "Herzlichen Glückwunsch zum Geburtstag!"
@@ -13849,7 +13924,10 @@
       "type": "type",
       "prompt": "Write in German: Yes, I will come gladly.",
       "answers": [
-       "Ja, ich komme gern."
+       "Ja, ich komme gern.",
+       "Ja, ich komme gern",
+       "Ja ich komme gern.",
+       "Ja ich komme gern"
       ],
       "hint": "A short yes, the verb for coming in part 2, then the word for gladly.",
       "explanation": "Ja, ich komme gern."
@@ -13866,15 +13944,15 @@
       },
       {
        "label": "says the time with um … Uhr",
-       "pattern": "\\bum 18 uhr\\b"
+       "pattern": "\\bum (18|achtzehn)\\b"
       },
       {
        "label": "says you buy a present",
-       "pattern": "\\bich kaufe (ein|einen|eine)\\b"
+       "pattern": "\\bgeschenk\\b"
       },
       {
        "label": "wishes happy birthday",
-       "pattern": "herzlichen glückwunsch|alles gute"
+       "pattern": "herzlichen glueckwunsch|alles gute"
       }
      ]
     }
@@ -14227,7 +14305,13 @@
       "prompt": "Write in German: The bill, please!",
       "answers": [
        "Die Rechnung, bitte!",
-       "Zahlen, bitte!"
+       "Die Rechnung, bitte",
+       "Die Rechnung bitte!",
+       "Die Rechnung bitte",
+       "Zahlen, bitte!",
+       "Zahlen, bitte",
+       "Zahlen bitte!",
+       "Zahlen bitte"
       ],
       "hint": "Two chunks work.",
       "explanation": "Die Rechnung, bitte!"
@@ -14236,7 +14320,8 @@
       "type": "type",
       "prompt": "Write in German: Together or separate?",
       "answers": [
-       "Zusammen oder getrennt?"
+       "Zusammen oder getrennt?",
+       "Zusammen oder getrennt"
       ],
       "hint": "Both words from the paying card, with oder between them.",
       "explanation": "Zusammen oder getrennt?"
@@ -14254,7 +14339,8 @@
       "type": "type",
       "prompt": "Say it with a modal: Ich rufe Mira an. (möchten)",
       "answers": [
-       "Ich möchte Mira anrufen."
+       "Ich möchte Mira anrufen.",
+       "Ich möchte Mira anrufen"
       ],
       "hint": "The modal is part 2. The whole verb goes last.",
       "explanation": "Ich möchte Mira anrufen."
@@ -14267,11 +14353,11 @@
      "checks": [
       {
        "label": "orders with möchte or nehme + object",
-       "pattern": "\\bich (möchte|nehme) (einen|eine|ein|den|die|das)\\b"
+       "pattern": "\\bich (moechte|nehme)\\b.*\\b(einen|eine|ein|den|die|das)\\b"
       },
       {
        "label": "asks for the bill",
-       "pattern": "zahlen, bitte|die rechnung"
+       "pattern": "zahlen,? bitte|die rechnung"
       },
       {
        "label": "says together",
@@ -14292,7 +14378,7 @@
    "day": 3,
    "reading": {
     "title": "Letztes Wochenende",
-    "text": "Letztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war auch da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
+    "text": "Leon schreibt:\nLetztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war auch da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
     "glossary": [],
     "questions": [
      {
@@ -14419,7 +14505,7 @@
    },
    "listening": {
     "title": "Wie war das Wochenende?",
-    "script": "Mira: Hallo, Leon! Wie war das Wochenende?\nLeon: Super! Am Samstag war ich im Kino. Der Film war lustig und nicht teuer.\nMira: Und am Sonntag? Wo warst du?\nLeon: Am Sonntag war ich in Hamburg. Ich hatte viel Zeit.\nMira: Hattest du Hunger?\nLeon: Ja, ich hatte Hunger. Die Pizza war lecker!\nMira: Ich hatte keine Zeit. Ich war müde.\nLeon: Schade! Möchtest du am Samstag mitkommen?\nMira: Ja, gern!",
+    "script": "Mira: Hallo, Leon! Wie war das Wochenende?\nLeon: Super! Am Samstag war ich im Kino. Der Film war lustig und nicht teuer.\nMira: Und am Sonntag? Wo warst du?\nLeon: Am Sonntag war ich zu Hause. Ich hatte viel Zeit.\nMira: Hattest du Hunger?\nLeon: Ja, ich hatte Hunger. Die Pizza war lecker!\nMira: Ich hatte keine Zeit. Ich war müde.\nLeon: Schade! Möchtest du am Samstag mitkommen?\nMira: Ja, gern!",
     "questions": [
      {
       "type": "choice",
@@ -14473,12 +14559,12 @@
       "prompt": "Where was Leon on Sunday?",
       "options": [
        "at the cinema",
-       "in Hamburg",
+       "at home",
        "in Wien"
       ],
       "answer": 1,
       "hint": "Listen for Am Sonntag.",
-      "explanation": "Am Sonntag war ich in Hamburg."
+      "explanation": "Am Sonntag war ich zu Hause."
      },
      {
       "type": "choice",
@@ -14649,7 +14735,8 @@
       "type": "type",
       "prompt": "Write in German: Yesterday I was in the café.",
       "answers": [
-       "Gestern war ich im Café."
+       "Gestern war ich im Café.",
+       "Gestern war ich im Café"
       ],
       "hint": "Time first, then war.",
       "explanation": "Gestern war ich im Café."
@@ -14670,7 +14757,7 @@
       },
       {
        "label": "says how something was",
-       "pattern": "\\bwar (super|toll|lecker|schön|lustig|laut|nett)\\b"
+       "pattern": "\\bwar (sehr |nicht )?(super|toll|lecker|schoen|lustig|laut|nett|gut)\\b"
       },
       {
        "label": "calls someone with an…an",

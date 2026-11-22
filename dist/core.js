@@ -136,8 +136,10 @@
 
   function writingFeedback(free,text){
     const words=String(text||'').trim().split(/\s+/).filter(Boolean).length;
-    const norm=normalise(text);
-    const checks=(free.checks||[]).map(c=>{let passed=false;try{passed=new RegExp(c.pattern,'iu').test(norm);}catch{}return {label:c.label,passed};});
+    // patterns may be written with ä/ö/ü/ß or ae/oe/ue/ss: test folded, umlaut and raw text; a leading "(?i)" (Python syntax) is dropped
+    const raw=String(text||'').normalize('NFC').toLocaleLowerCase('de'), soft=raw.replace(/[.,!?;:„“”"'’‚‘«»()\-–—]/g,' ').replace(/\s+/g,' ').trim();
+    const variants=[normalise(text),soft,raw];
+    const checks=(free.checks||[]).map(c=>{let passed=false;try{const m=/^\(\?([a-z]+)\)/.exec(String(c.pattern)),fl='iu'+(m&&m[1].includes('s')?'s':'')+(m&&m[1].includes('m')?'m':''),re=new RegExp(String(c.pattern).replace(/^\(\?[a-z]+\)/,''),fl);passed=variants.some(v=>re.test(v));}catch{}return {label:c.label,passed};});
     return {words,enough:words>=(free.minWords||0),checks,passed:words>=(free.minWords||0)&&checks.every(c=>c.passed)};
   }
 

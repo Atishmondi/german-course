@@ -14798,7 +14798,7 @@
     "free": {
      "prompt": "Kommst du mit?: write a message to Anna about the festival (5 to 6 sentences). Say when and where it is and what everyone must bring. Use one sentence with jemand or niemand, one with etwas, nichts or alles, and one short answer with einer, keiner or welche. Start with „Hallo Anna,“ and end with „Viele Grüße“ and your name on the next line.",
      "minWords": 40,
-     "model": "Hallo Anna,\n\nam Freitag fahren wir zum Sommerfestival bei Kiel. Es ist von Freitag bis Sonntag, und wir schlafen auf dem Campingplatz. Alle müssen einen Schlafsack und eine Isomatte mitbringen. Hat jemand eine Taschenlampe? Ich habe keine. Becher habe ich, ich habe noch welche. Wasser kaufen wir dort. Kommst du mit?\n\nViele Grüße\nMira",
+     "model": "Hallo Anna,\n\nam Freitag fahren wir zum Sommerfestival bei Kiel. Es ist von Freitag bis Sonntag, und wir schlafen auf dem Campingplatz. Alle müssen einen Schlafsack und eine Isomatte mitbringen. Hat jemand eine Taschenlampe? Ich habe keine. Becher habe ich, ich habe noch welche. Wasser kaufen wir dort. Sonst brauchst du nichts. Kommst du mit?\n\nViele Grüße\nMira",
      "checks": [
       {
        "label": "uses jemand or niemand",
