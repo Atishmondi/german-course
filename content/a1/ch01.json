@@ -7043,10 +7043,10 @@
      "type": "choice",
      "prompt": "What are the two dots on ä, ö, ü called?",
      "options": [
-      "umlaut",
-      "sharp s"
+      "sharp s",
+      "umlaut"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the first card.",
      "explanation": "The two dots are an umlaut."
     },
@@ -7054,11 +7054,11 @@
      "type": "choice",
      "prompt": "Which letter sounds like ss?",
      "options": [
-      "ß",
       "ü",
-      "ö"
+      "ö",
+      "ß"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "It is called sharp s.",
      "explanation": "ß sounds like ss."
     },
@@ -7066,10 +7066,10 @@
      "type": "choice",
      "prompt": "What do people speak in Austria?",
      "options": [
-      "Deutsch",
-      "Italienisch"
+      "Italienisch",
+      "Deutsch"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look at the language table.",
      "explanation": "Österreich → Deutsch."
     },
@@ -7077,10 +7077,10 @@
      "type": "choice",
      "prompt": "Which word means no?",
      "options": [
-      "nein",
-      "ja"
+      "ja",
+      "nein"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "ja means yes.",
      "explanation": "nein = no."
     }
@@ -7291,7 +7291,7 @@
    "day": 1,
    "reading": {
     "title": "Hallo, Kurs!",
-    "text": "Mira: Hallo! Ich heiße Mira. Ich komme aus Österreich, aus Wien. Ich wohne in Hamburg.\nBen: Guten Morgen! Ich bin Ben. Ich komme aus Spanien, aus Madrid. Ich wohne auch in Hamburg.\nLeon: Hallo! Ich heiße Leon. Ich komme aus Italien. Ich wohne in Berlin. Und du, Anna? Woher kommst du?\nAnna: Hallo, Leon! Ich komme aus Deutschland, aus München. Ich wohne in Wien.\nHerr Ali: Guten Tag! Ich heiße Ali. Ich komme aus Deutschland. Ich wohne in Berlin.\nFrau Weber: Guten Abend! Willkommen im Kurs! Auf Wiedersehen und bis morgen!",
+    "text": "Mira: Hallo! Ich heiße Mira. Ich komme aus Österreich, aus Wien. Ich wohne in Hamburg.\nBen: Guten Morgen! Ich bin Ben. Ich komme aus Spanien, aus Madrid. Ich wohne auch in Hamburg.\nLeon: Hallo! Ich heiße Leon. Ich komme aus Italien. Ich wohne in Berlin. Und du, Anna? Woher kommst du?\nAnna: Hallo, Leon! Ich komme aus Deutschland, aus München. Ich wohne in Wien.\nHerr Ali: Guten Tag! Ich heiße Ali. Ich komme aus der Schweiz. Ich wohne in Berlin.\nFrau Weber: Guten Abend! Willkommen im Kurs! Auf Wiedersehen und bis morgen!",
     "glossary": [
      {
       "de": "auch",

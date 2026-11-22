@@ -299,7 +299,7 @@
       "text": "English has the same word for one person and for many: you. German keeps them apart, so you always know who is meant. The polite Sie works for one person or for many, so Sie does not change. Only the friendly forms are different: du for one friend, ihr for a group.",
       "example": {
        "de": "Wohnt ihr in Wien?",
-       "en": "Do you live in Vienna?",
+       "en": "Do you (friends) live in Vienna?",
        "parts": [
         [
          "Wohnt",
@@ -6573,7 +6573,7 @@
       "text": "To talk about working hours, use von … bis … with days: Ich arbeite von Montag bis Freitag. = I work from Monday to Friday. A full-time job in Germany is often about 40 hours a week, and many shops close on Sunday. You can also ask: Wann arbeitest du? and answer with am + day.",
       "example": {
        "de": "Frau Weber arbeitet von Montag bis Freitag.",
-       "en": "Frau Weber works from Monday to Friday.",
+       "en": "Ms Weber works from Monday to Friday.",
        "parts": [
         [
          "Frau Weber",
@@ -7780,8 +7780,8 @@
        ]
       },
       {
-       "de": "Die Lampe ist neu. Sie ist nett.",
-       "en": "The lamp is new. It is nice.",
+       "de": "Die Lampe ist super. Sie ist neu.",
+       "en": "The lamp is great. It is new.",
        "why": "die Lampe → sie.",
        "parts": [
         [
@@ -7797,7 +7797,7 @@
          "verb"
         ],
         [
-         "neu.",
+         "super.",
          "adjective"
         ],
         [
@@ -7809,7 +7809,7 @@
          "verb"
         ],
         [
-         "nett.",
+         "neu.",
          "adjective"
         ]
        ]
@@ -8173,14 +8173,14 @@
     },
     {
      "type": "choice",
-     "prompt": "What does Was ist das? ask?",
+     "prompt": "What does Das ist das Buch. mean?",
      "options": [
-      "Who is that?",
-      "What is that?"
+      "The book is new.",
+      "That is the book."
      ],
      "answer": 1,
-     "hint": "Look at the vocabulary of lesson 3.",
-     "explanation": "Was = what."
+     "hint": "Das ist + a noun introduces a thing.",
+     "explanation": "Das ist das Buch. = That is the book."
     }
    ],
    "vocabulary": [
@@ -11494,14 +11494,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Who sleeps a lot on Sunday?",
+      "prompt": "Who likes to sleep on Sunday?",
       "options": [
        "Ben",
        "Anna",
        "Mira"
       ],
       "answer": 1,
-      "hint": "Read Leon's last line.",
+      "hint": "Read Leon's line about Anna.",
       "explanation": "Sie schläft am Sonntag gern."
      },
      {
@@ -11837,7 +11837,7 @@
        "Thursday"
       ],
       "answer": 1,
-      "hint": "Read the answer about work.",
+      "hint": "Read the answer about learning.",
       "explanation": "Am Donnerstag habe ich Zeit."
      },
      {
