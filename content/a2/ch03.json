@@ -116,7 +116,7 @@
     },
     {
      "title": "lieber is already a comparative",
-     "body": "You know gern (gladly) and lieber (more gladly). Lieber is a comparative: the form that says more. German makes it by adding -er to the basic word. Klein becomes kleiner, schnell becomes schneller. The -er always means more.",
+     "body": "You know gern (gladly) and lieber (more gladly). Lieber is the comparative of gern: the form that says more. It looks different, but it does the same job as the -er in kleiner. Klein becomes kleiner, schnell becomes schneller. In German, -er on a basic word always means more.",
      "lead": "The introduction showed kleiner next to klein. First, a small surprise: you already used a comparative, the word lieber, when you said what you prefer.",
      "examples": [
       {
@@ -183,7 +183,7 @@
       }
      ],
      "deeper": {
-      "text": "In German the comparative of an adjective is also used for adverbs like gern. English does the same with fast, faster and well, better. Watch out: lieber is one of the few that is not simply +er from the start. You learn gern, lieber and all irregular forms together in the next lesson.",
+      "text": "German uses the same comparative for adjectives and for adverbs like gern, so schnell can describe a phone or a runner. English splits them: fast and faster, but well and better. Lieber is an irregular one, because lieber is not gern plus -er. Lesson 2 collects all the irregular forms in one table, so you only need to meet them once.",
       "example": {
        "de": "Mira trinkt lieber Tee.",
        "en": "Mira prefers to drink tea.",
@@ -235,7 +235,7 @@
     },
     {
      "title": "Make the comparative in two steps",
-     "body": "Step 1: take the adjective. Step 2: add -er. Klein becomes kleiner. After a word ends in -el, -er or -eu the e before it drops: dunkel becomes dunkler, teuer becomes teurer. Words that end in -e only add -r: leise becomes leiser.",
+     "body": "Step 1: take the adjective. Step 2: add -er. Klein becomes kleiner. Words that end in -el lose the e before the l: dunkel becomes dunkler. Teuer is the other one to learn: teurer. Words that end in -e only add -r: leise becomes leiser. Moderner and spannender just add -er.",
      "lead": "You saw that -er means more. Now you learn the exact recipe, so you can build the comparative of almost every adjective yourself.",
      "examples": [
       {
@@ -306,7 +306,7 @@
       }
      ],
      "deeper": {
-      "text": "Why does the e drop? Dunkeler would have two weak syllables in a row, and teuerer is hard to say. German speakers make it shorter, so they say dunkler and teurer. Adjectives with -d or -t at the end, like spannend, just add -er and keep everything else.",
+      "text": "Why does the e drop? Dunkeler would have two weak e sounds in a row, so speakers shorten it to dunkler. The same happens with teuer and teurer. Adjectives that end in -d or -t, like spannend, are fine: they just add -er, and the d stays. Be careful with -er words in general: modern is not shortened, so it is moderner.",
       "example": {
        "de": "Die Serie ist spannender.",
        "en": "The series is more exciting.",
@@ -383,12 +383,12 @@
      "steps": [
       "Step 1: take the adjective: klein.",
       "Step 2: add -er: kleiner.",
-      "Check the ending: -el, -er, -eu drops the e before it (dunkel, dunkler)."
+      "Check the ending: -el drops the e (dunkel, dunkler); teuer becomes teurer; -e only adds -r (leise, leiser)."
      ]
     },
     {
      "title": "als means than",
-     "body": "To compare two things, use als. The pattern is: thing 1 + ist + comparative + als + thing 2. After als the second thing stays in the nominative, the subject form: als ich, als er, als das Handy. Als is a conjunction.",
+     "body": "To compare two things, use als. The pattern is: thing 1 + ist + comparative + als + thing 2. Thing 2 has the same job as thing 1, so after ist it is also in the nominative, the subject form: als ich, als er, als das Handy. Als is a conjunction.",
      "lead": "You can now make kleiner and teurer. On this card you learn how to say what you compare it with, so one sentence holds both things.",
      "examples": [
       {
@@ -479,7 +479,7 @@
       }
      ],
      "deeper": {
-      "text": "English says than me, German says als ich. After als the second person stays in the nominative, so ich, er and sie are right and mich or ihn are wrong. Many learners say it with mich because English does. Think of the full English sentence: faster than I am. There I is the subject, so German uses ich too.",
+      "text": "English says than me, German says als ich. Thing 2 copies the case of thing 1: both are subjects of ist, so ich, er and sie are right and mich or ihn are wrong. Many learners say mich because English does. Test it with the full sentence: faster than I am. There I is the subject, so German uses ich too.",
       "example": {
        "de": "Du bist lauter als er.",
        "en": "You are louder than him.",
@@ -507,7 +507,7 @@
        ]
       }
      },
-     "more": "Als is a little bridge between the two things. On the left bank stands thing one and on the right bank stands thing two. The comparative sits in the middle and says which one is bigger, faster, cheaper. Because both things have the same job in the sentence (they are both the topic of ist), they both use the nominative: Mira ist schneller als ich. Think of the bridge as a plus sign for sentences.",
+     "more": "Als is a little bridge between two things. On the left bank stands thing one, on the right bank thing two. The comparative sits in the middle and says which one is bigger, faster or cheaper. Both things do the same job for ist, so they look the same: Mira ist schneller als ich. Think of als as a plus sign with an arrow: it points to the thing you measure against.",
      "steps": [
       "Step 1: thing 1 and ist: Mein Handy ist.",
       "Step 2: the comparative: kleiner.",
@@ -844,7 +844,7 @@
        ]
       }
      },
-     "more": "Think of the comparison sentence as a train that you can use in three ways. As a statement the train goes: thing, ist, comparative, als, thing. As a question the ist jumps to the front. To say no, drop nicht in front of the comparative. The comparison itself never moves, and neither do als and the second thing. You only move ist or add nicht.",
+     "more": "Picture a light switch with three settings. Statement: the sentence goes in the normal order, thing, ist, comparative, als, thing. Question: you flip ist to the front, like moving a lamp to the top shelf. Negative: you put nicht in front of the comparative, like a sticker that says not. The comparison itself never moves: the comparative, als and the second thing stay together every time.",
      "table": {
       "headers": [
        "Kind",
@@ -868,7 +868,7 @@
     },
     {
      "title": "Short adjectives with an Umlaut",
-     "body": "Seven short, common adjectives also add an Umlaut (two dots) when they get -er: alt becomes älter, jung becomes jünger, lang becomes länger, kurz becomes kürzer, stark becomes stärker, schwach becomes schwächer, warm becomes wärmer. Learn these seven as a group.",
+     "body": "Some short, common adjectives also add an Umlaut (two dots) when they get -er: alt becomes älter, jung becomes jünger, lang becomes länger, kurz becomes kürzer, stark becomes stärker, schwach becomes schwächer, warm becomes wärmer. Learn these seven as a group.",
      "lead": "You know the two steps. Now you learn seven common words that also change their vowel, so you do not say the wrong form like alter or warmer.",
      "examples": [
       {
@@ -963,7 +963,7 @@
       }
      ],
      "deeper": {
-      "text": "The Umlaut is a sound change that German has kept from old times. Not every adjective gets it: klein just becomes kleiner. Only words with the vowel a, o or u can get one, and only a small group does. Groß is in this group too, but it comes in the next lesson with the other special forms. Klein has no dots because its vowel is ei.",
+      "text": "The Umlaut is a sound change that German has kept from old times. Not every adjective gets it: klein just becomes kleiner, and its vowel is ei. These seven are the most common, but a few more behave the same, for example kalt, kälter. Groß also changes, to größer, but it comes in the next lesson with the other special forms. When you meet a new adjective, check the comparative in a dictionary.",
       "example": {
        "de": "Leon ist jünger als Anna.",
        "en": "Leon is younger than Anna.",
@@ -991,7 +991,7 @@
        ]
       }
      },
-     "more": "Picture the vowel as a person standing straight. In these seven words, when the -er carriage arrives, the vowel leans over and puts on a hat with two dots: a becomes ä. It is like a nickname that goes with the word. Only seven words do this, and the English words are old, young, long, short, strong, weak, warm. Say the list aloud three times and your ear learns it. A common mistake is alter instead of älter. Fix: put the dots on.",
+     "more": "Picture the vowel as a person standing straight. In these seven words, when the -er carriage arrives, the vowel leans over and puts on a hat with two dots: a becomes ä. The English words are old, young, long, short, strong, weak, warm. Say the list aloud three times and your ear learns it. The usual mistake is alter instead of älter. The fix: put the dots on.",
      "table": {
       "headers": [
        "Adjective",
@@ -1032,7 +1032,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:dp2HrUCylDo"
+     "yt:dp2HrUCylDo",
+     "yt:SzfIlzLFmn0"
     ],
     "nicosWeg": [
      "nw:a2-16"
@@ -1044,11 +1045,11 @@
      "type": "choice",
      "prompt": "Das Zimmer ist ___ als die Küche. (klein)",
      "options": [
+      "kleiner",
       "klein",
-      "kleine",
-      "kleiner"
+      "kleine"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Look at als: a comparison needs the -er form.",
      "explanation": "Kleiner + als: The room is smaller than the kitchen.",
      "grammar": true
@@ -1069,8 +1070,8 @@
      "answers": [
       "teurer"
      ],
-     "hint": "Teuer loses its e before -er.",
-     "explanation": "Teuer drops the e: teurer.",
+     "hint": "Teuer loses the e in the middle when it gets -er.",
+     "explanation": "Teuer becomes teurer: the e in the middle drops.",
      "grammar": true
     },
     {
@@ -1102,11 +1103,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Anna ist langsamer als ich.",
       "Anna ist langsamer wie ich.",
+      "Anna ist langsamer als ich.",
       "Anna ist langsamer als mich."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Use als for than, and the nominative after it.",
      "explanation": "Anna ist langsamer als ich.",
      "grammar": true
@@ -1117,7 +1118,7 @@
      "answers": [
       "kürzer"
      ],
-     "hint": "Kurz is one of the seven Umlaut words.",
+     "hint": "Kurz is one of the Umlaut words from the table.",
      "explanation": "Kurz becomes kürzer.",
      "grammar": true
     },
@@ -1146,11 +1147,11 @@
      "type": "choice",
      "prompt": "Which is the comparative of dunkel?",
      "options": [
+      "dunkler",
       "dunkeler",
-      "dunkelr",
-      "dunkler"
+      "dunkelr"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The e before -er drops after -el.",
      "explanation": "Dunkel becomes dunkler.",
      "grammar": true
@@ -1171,12 +1172,12 @@
      "type": "choice",
      "prompt": "Ben ist ___ als Mira. (alt)",
      "options": [
-      "älter",
       "alter",
+      "älter",
       "ältere"
      ],
-     "answer": 0,
-     "hint": "Alt is one of the seven Umlaut words.",
+     "answer": 1,
+     "hint": "Alt is one of the Umlaut words from the table.",
      "explanation": "Alt becomes älter.",
      "grammar": true
     },
@@ -1194,11 +1195,11 @@
      "type": "choice",
      "prompt": "Which word means than?",
      "options": [
-      "als",
       "wie",
-      "und"
+      "und",
+      "als"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "It sits between the two things you compare.",
      "explanation": "Als means than.",
      "grammar": true
@@ -1244,11 +1245,11 @@
      "type": "choice",
      "prompt": "Which sentence means: I prefer to read?",
      "options": [
-      "Ich lese gern.",
       "Ich lese lieber.",
+      "Ich lese gern.",
       "Ich lese nie."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Lieber is the comparative of gern.",
      "explanation": "Ich lese lieber."
     },
@@ -1258,7 +1259,7 @@
      "answers": [
       "wärmer"
      ],
-     "hint": "Warm is one of the seven Umlaut words.",
+     "hint": "Warm is one of the Umlaut words from the table.",
      "explanation": "Warm becomes wärmer.",
      "grammar": true
     },
@@ -1310,12 +1311,12 @@
      "type": "choice",
      "prompt": "Which adjective gets an Umlaut in the comparative?",
      "options": [
+      "lang",
       "schnell",
-      "billig",
-      "lang"
+      "billig"
      ],
-     "answer": 2,
-     "hint": "Think of the group of seven short words.",
+     "answer": 0,
+     "hint": "Think of the group of short words with dots.",
      "explanation": "Lang becomes länger.",
      "grammar": true
     }
@@ -1743,7 +1744,7 @@
       }
      ],
      "deeper": {
-      "text": "Besser works with every kind of sentence: with ist, and after action verbs too. Remember the pair: gut is good, besser is better, and the form guter does not exist. If you are unsure, think of English: good, better.",
+      "text": "Besser is also a word on its own, not only half of a comparison. Natives say Das ist besser so (that is better this way), Es geht mir besser (I feel better now) and Gute Besserung (get well soon), where Besserung comes from the same family. English hides this link, but in German besser, Besserung and bessern all belong together. You will hear besser constantly in daily talk.",
       "example": {
        "de": "Leon spielt besser als Ben.",
        "en": "Leon plays better than Ben.",
@@ -1889,7 +1890,7 @@
       }
      ],
      "deeper": {
-      "text": "Mehr and weniger never change, even before a plural noun: mehr Fotos, weniger Apps. Careful: mehrere is a different word, it means several, and it does not mean more. If you want to compare, always say mehr, with no ending.",
+      "text": "English splits its comparatives: more for things you can count (more apps) and less or fewer for the rest. German keeps it simpler. Mehr and weniger work for both: mehr Zeit, mehr Fotos, weniger Zeit, weniger Apps. The word before it can change, though: viel Zeit for something uncountable, but viele Fotos for plural things. In the comparative both just become mehr, with no ending.",
       "example": {
        "de": "Ben hat mehr Apps als ich.",
        "en": "Ben has more apps than I do.",
@@ -2015,22 +2016,30 @@
       }
      ],
      "deeper": {
-      "text": "Gern, lieber and am liebsten are the three steps for liking. Gern is I like it, lieber is I like it more, and am liebsten is I like it most. They are used so much in German that they have their own forms. You will meet am liebsten in lesson 3 with all the others.",
+      "text": "Lieber is also a small reply on its own. Someone offers you coffee and you say Lieber Tee, I would rather have tea. Or you answer an invitation with Lieber nicht, I would rather not. Both are very natural and polite. Lieber has one more life: in letters, Lieber Ben starts a letter to a man, where it means dear. Same spelling, different job: after the verb it is the comparative of gern.",
       "example": {
-       "de": "Ben trinkt lieber Tee.",
-       "en": "Ben prefers to drink tea.",
+       "de": "Möchtest du Kaffee? – Lieber Tee.",
+       "en": "Would you like coffee? – Rather tea.",
        "parts": [
         [
-         "Ben",
-         "subject"
-        ],
-        [
-         "trinkt",
+         "Möchtest",
          "verb"
         ],
         [
-         "lieber",
-         "adjective"
+         "du",
+         "subject"
+        ],
+        [
+         "Kaffee?",
+         "object"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Lieber",
+         "other"
         ],
         [
          "Tee.",
@@ -2161,18 +2170,14 @@
       }
      ],
      "deeper": {
-      "text": "Hoch is the only one of the three that also loses a letter: the c is gone, so you say höher, not höcher. Nah and groß only get dots, and groß keeps its ß. Learn höher as one piece and you will not have to think about it again.",
+      "text": "English uses tall for people and high for towers. German does too, but it uses groß for people and hoch for towers, mountains and prices. Ben ist größer als Mira says Ben is taller, and Der Turm ist höher als das Haus compares heights of buildings. Mixing them up sounds odd. Also note that hoch has no c in its comparative, so you always write höher, never höcher.",
       "example": {
-       "de": "Mein Tablet ist größer als mein Handy.",
-       "en": "My tablet is bigger than my phone.",
+       "de": "Ben ist größer als Leon.",
+       "en": "Ben is taller than Leon.",
        "parts": [
         [
-         "Mein",
-         "article"
-        ],
-        [
-         "Tablet",
-         "noun"
+         "Ben",
+         "subject"
         ],
         [
          "ist",
@@ -2187,17 +2192,13 @@
          "conjunction"
         ],
         [
-         "mein",
-         "article"
-        ],
-        [
-         "Handy.",
-         "noun"
+         "Leon.",
+         "subject"
         ]
        ]
       }
      },
-     "more": "These three are cousins of the Umlaut group from last time: they get two dots, so they feel familiar. Only hoch is a little sneaky: it also loses the c, so hoch becomes höher, not höcher. Say all three: hoch, höher. nah, näher. groß, größer. In the table below you see the whole story in one line each. When you build the sentence, you use them like kleiner: add als and the second thing.",
+     "more": "These three are cousins of the Umlaut group from last time: they get two dots, so they feel familiar. Only hoch is a little sneaky: it also loses the c, so hoch becomes höher, not höcher. Say all three: hoch, höher. nah, näher. groß, größer. The table shows the whole story in one line each. When you build the sentence, you use them like kleiner: add als and the second thing.",
      "table": {
       "headers": [
        "Basic word",
@@ -2583,11 +2584,11 @@
      "type": "choice",
      "prompt": "Mein Handy ist ___ als dein Handy. (gut)",
      "options": [
+      "besser",
       "gut",
-      "guter",
-      "besser"
+      "guter"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Gut has its own comparative.",
      "explanation": "Besser is the comparative of gut.",
      "grammar": true
@@ -2607,10 +2608,10 @@
      "prompt": "Ich habe ___ Zeit als du. (viel)",
      "options": [
       "mehrer",
-      "mehr",
-      "mehre"
+      "mehre",
+      "mehr"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The comparative of viel does not change.",
      "explanation": "Mehr Zeit: Ich habe mehr Zeit als du.",
      "grammar": true
@@ -2621,7 +2622,7 @@
      "answers": [
       "höher"
      ],
-     "hint": "The c drops and the o gets dots.",
+     "hint": "Hoch loses the c, and the o gets dots.",
      "explanation": "Hoch becomes höher.",
      "grammar": true
     },
@@ -2629,11 +2630,11 @@
      "type": "choice",
      "prompt": "Which is the comparative of nah?",
      "options": [
+      "näher",
       "nah",
-      "naher",
-      "näher"
+      "naher"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Two dots on the a.",
      "explanation": "Nah becomes näher.",
      "grammar": true
@@ -2712,11 +2713,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Film ist besser als das Buch.",
       "Der Film ist guter als das Buch.",
-      "Der Film ist gut als das Buch."
+      "Der Film ist gut als das Buch.",
+      "Der Film ist besser als das Buch."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Gut has its own comparative.",
      "explanation": "Der Film ist besser als das Buch.",
      "grammar": true
@@ -2745,11 +2746,11 @@
      "type": "choice",
      "prompt": "Which sentence means: Ben has fewer apps than Mira?",
      "options": [
+      "Ben hat weniger Apps als Mira.",
       "Ben hat mehr Apps als Mira.",
-      "Ben hat Apps weniger Mira.",
-      "Ben hat weniger Apps als Mira."
+      "Ben hat Apps weniger Mira."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Weniger is the opposite of mehr.",
      "explanation": "Ben hat weniger Apps als Mira.",
      "grammar": true
@@ -2814,11 +2815,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Turm ist höher als das Haus.",
       "Der Turm ist höcher als das Haus.",
-      "Der Turm ist hoher als das Haus."
+      "Der Turm ist hoher als das Haus.",
+      "Der Turm ist höher als das Haus."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The c drops and the o gets dots.",
      "explanation": "Der Turm ist höher als das Haus.",
      "grammar": true
@@ -2961,8 +2962,8 @@
      "en": "headphones",
      "examples": [
       {
-       "de": "Der Kopfhörer ist billig.",
-       "en": "The headphone is cheap."
+       "de": "Meine Kopfhörer sind neu.",
+       "en": "My headphones are new."
       },
       {
        "de": "Die Kopfhörer sind teuer.",
@@ -3207,7 +3208,7 @@
     },
     {
      "title": "am ...-sten: the winner",
-     "body": "To say something is the best of all, put am before the adjective and add -sten: am schnellsten, am kleinsten, am billigsten. After a word ending in -t, -d, -s, -z or ß add -esten so you can say it: am ältesten, am kürzesten, am leisesten.",
+     "body": "To say something is the best of all, put am before the adjective and add -sten: am schnellsten, am kleinsten, am billigsten. After a word ending in -t, -d, -s, -z or -ß add -esten so you can say it: am ältesten, am kürzesten, am berühmtesten. Words ending in -e, like leise, just add -sten: am leisesten.",
      "lead": "You know how to say that one thing is more than another. Now you learn the top step, the winner among three or more, so you can say who or what is the best.",
      "examples": [
       {
@@ -3274,7 +3275,7 @@
       }
      ],
      "deeper": {
-      "text": "The short words with an Umlaut keep their dots in the superlative: alt, älter, am ältesten. So you can use the same dots as in the comparative. Note: you use am ...-sten after ist and also after other verbs: Ben läuft am schnellsten means he runs the fastest. One exception: words ending in -end just add -sten: spannend, am spannendsten.",
+      "text": "The short words with an Umlaut keep their dots in the winner form: alt, älter, am ältesten. Adjectives ending in -end are a small exception to the e rule: they take only -sten, so spannend becomes am spannendsten, not spannendesten. You can use am ...-sten after ist and also after action verbs: Ben läuft am schnellsten means he runs the fastest.",
       "example": {
        "de": "Mira läuft am schnellsten.",
        "en": "Mira runs the fastest.",
@@ -3294,7 +3295,7 @@
        ]
       }
      },
-     "more": "Look at the two letters at the front. Am is like a flag that says: this is the winner. Then comes the adjective, and at the end you hang the word -sten like a medal. Sometimes the adjective ends in a hard letter (t, d, s, z) and the medal does not fit directly, so you put a little e between them, am ältesten, so your mouth can say it. That is all. Once you have the flag am and the medal -sten, you can say the winner of everything. A common mistake is to forget the n: am schnellste is wrong, am schnellsten is right.",
+     "more": "Look at the two letters at the front. Am is a flag that says: this is the winner. Then comes the adjective, and at the end you hang -sten like a medal. When the adjective ends in a hard letter (t, d, s, z), the medal does not fit directly, so a little e goes between them, am ältesten, and your mouth can say it. A common mistake is to forget the n: am schnellste is wrong, am schnellsten is right.",
      "table": {
       "headers": [
        "Adjective",
@@ -3330,7 +3331,12 @@
        [
         "leise",
         "am leisesten",
-        "-esten"
+        "add -sten (leise ends in -e)"
+       ],
+       [
+        "berühmt",
+        "am berühmtesten",
+        "-esten after t"
        ]
       ]
      }
@@ -3404,7 +3410,7 @@
       }
      ],
      "deeper": {
-      "text": "Am nächsten means nearest, and the word nächsten also appears in der nächste Bus, the next bus. That is the same word: the nearest bus is the next one. For now remember am nächsten as one chunk. And groß keeps its ß: am größten, not am größesten.",
+      "text": "Am nächsten means nearest, and nächsten also appears in der nächste Bus, the next bus. It is the same word: the nearest bus is the next one. Groß is also a small exception to the e rule: it ends in ß, so you would expect am größesten, but German says am größten. Treat am größten as one piece, like the other irregular winners.",
       "example": {
        "de": "Der Bahnhof ist am nächsten.",
        "en": "The station is the nearest.",
@@ -3428,7 +3434,7 @@
        ]
       }
      },
-     "more": "These six pairs are the same friends you met last time, and now they got a hat, am, and a little tail. Gut, besser, am besten: like good, better, best. Viel, mehr, am meisten: much, more, most. Gern, lieber, am liebsten: gladly, rather, most gladly. Hoch, höher, am höchsten. Nah, näher, am nächsten. Groß, größer, am größten. Say each line three times. If you can say all six, you already speak like a native in this part of the language.",
+     "more": "These six pairs are the same friends you met last lesson, and now they get a flag, am, and a little tail. Gut, besser, am besten: good, better, best. Viel, mehr, am meisten: much, more, most. Gern, lieber, am liebsten. Hoch, höher, am höchsten. Nah, näher, am nächsten. Groß, größer, am größten. Say each line three times and the whole group will sit in your ear.",
      "table": {
       "headers": [
        "Basic word",
@@ -4006,7 +4012,7 @@
        ]
       }
      },
-     "more": "Als and wie are two doors. The sign on the first door says: -er. If you see an -er word, go through the als door. The sign on the second door says: so. If you see so or genauso, go through the wie door. You cannot go through both doors in one sentence. In English both doors are called than and as, so it feels easy to mix them up. In German the sign on the door is always in the sentence. Look for it and you will pick the right word.",
+     "more": "Als and wie are two doors. The sign on the first door says: -er. If you see an -er word, go through the als door. The sign on the second door says: so. If you see so or genauso, go through the wie door. You cannot walk through both doors in one sentence. English calls them than and as, so they are easy to mix up. German puts the sign right in the sentence: look for -er or so, and you will pick the right word.",
      "table": {
       "headers": [
        "Look for",
@@ -4137,7 +4143,7 @@
        ]
       }
      },
-     "more": "Your mouth has two ways to start these sounds. For b, close your lips and then open them with a small pop, like in English baby. For w, do not close your lips: touch your top teeth to your bottom lip and let air through, like English very. Then listen: Bein, Wein. Bald, Wald. Bar, war. Each pair is one letter apart but the meaning is different. Stress is the beat of the word: most German words have the beat on the first part, like HANdy and FERNseher. Words that came from abroad often have it at the end: comPUter.",
+     "more": "Your mouth has two ways to start these sounds. For b, close your lips and open them with a small pop, like English baby. For w, do not close your lips: touch your top teeth to your bottom lip and let air through, like English very. Listen to the pairs Bein, Wein and bald, Wald. Stress is the beat of the word: most German words have it on the first part, like HANdy. Words from abroad often have it at the end: comPUter.",
      "table": {
       "headers": [
        "With b",
@@ -4167,7 +4173,8 @@
    "media": {
     "grammarVideos": [
      "yt:SzfIlzLFmn0",
-     "yt:Pld4X602I3U"
+     "yt:Pld4X602I3U",
+     "yt:dp2HrUCylDo"
     ],
     "nicosWeg": [
      "nw:a2-29"
@@ -4180,10 +4187,10 @@
      "prompt": "Ben ist ___. (schnell)",
      "options": [
       "am schnellste",
-      "am schnellsten",
-      "schnellsten"
+      "schnellsten",
+      "am schnellsten"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The winner is am + adjective + -sten.",
      "explanation": "Ben ist am schnellsten.",
      "grammar": true
@@ -4212,11 +4219,11 @@
      "type": "choice",
      "prompt": "Which is the winner form of gut?",
      "options": [
-      "am besten",
       "am gutesten",
+      "am besten",
       "am bessersten"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Gut has its own irregular winner form.",
      "explanation": "Gut becomes besser and am besten.",
      "grammar": true
@@ -4247,10 +4254,10 @@
      "prompt": "Die Serie ist so spannend ___ der Film.",
      "options": [
       "als",
-      "wie",
-      "und"
+      "und",
+      "wie"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "After so you need the word for as.",
      "explanation": "So spannend wie der Film.",
      "grammar": true
@@ -4310,11 +4317,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Diese App ist am besten.",
       "Diese App ist am gutesten.",
+      "Diese App ist am besten.",
       "Diese App ist am bester."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Gut has its own irregular winner form.",
      "explanation": "Diese App ist am besten.",
      "grammar": true
@@ -4343,11 +4350,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Die Serie ist so spannend wie der Film.",
       "Die Serie ist so spannend als der Film.",
+      "Die Serie ist so spannend wie der Film.",
       "Die Serie ist so spannender wie der Film."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "After so use wie, and the adjective has no -er.",
      "explanation": "Die Serie ist so spannend wie der Film.",
      "grammar": true
@@ -4380,10 +4387,10 @@
      "prompt": "Which word do you use after a comparative like größer?",
      "options": [
       "so",
-      "wie",
-      "als"
+      "als",
+      "wie"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Look for the -er form.",
      "explanation": "After -er use als.",
      "grammar": true
@@ -4413,10 +4420,10 @@
      "prompt": "Which word starts with the [v] sound, like English v?",
      "options": [
       "Bald",
-      "Bar",
-      "Wald"
+      "Wald",
+      "Bar"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "W sounds like English v.",
      "explanation": "Wald starts with [v]; bald and Bar start with [b]."
     },
@@ -4424,33 +4431,31 @@
      "type": "choice",
      "prompt": "Which word is stressed on the last part?",
      "options": [
+      "Computer",
       "Handy",
-      "Fernseher",
-      "Computer"
+      "Fernseher"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Words from other languages often have the stress at the end.",
      "explanation": "comPUter has the stress at the end."
     },
     {
      "type": "build",
-     "prompt": "Build: Ben has the most apps.",
+     "prompt": "Build: Leon sleeps the most.",
      "tokens": [
-      "Apps.",
-      "meisten",
-      "Ben",
+      "meisten.",
       "am",
-      "hat"
+      "Leon",
+      "schläft"
      ],
      "answer": [
-      "Ben",
-      "hat",
+      "Leon",
+      "schläft",
       "am",
-      "meisten",
-      "Apps."
+      "meisten."
      ],
-     "hint": "Am meisten goes before the noun.",
-     "explanation": "Ben + hat + am meisten + Apps.",
+     "hint": "Am meisten goes after the verb.",
+     "explanation": "Leon + schläft + am meisten.",
      "grammar": true
     }
    ],
@@ -4493,15 +4498,14 @@
      "examples": [
       {
        "de": "Die Werbung ist laut.",
-       "en": "The ads are loud."
+       "en": "The advertising is loud."
       },
       {
        "de": "Ben mag keine Werbung.",
-       "en": "Ben does not like ads."
+       "en": "Ben does not like advertising."
       }
      ],
-     "article": "die",
-     "plural": "die Werbungen"
+     "article": "die"
     },
     {
      "de": "Sender",
@@ -5275,7 +5279,7 @@
       }
      ],
      "deeper": {
-      "text": "Two more starters are useful. Hoffen means to hope: Ich hoffe, dass du Zeit hast. And Schade, dass es regnet is a short chunk without a verb: it means It is a pity that it is raining. Learn both as ready-made pieces. They follow the same rule: comma, dass, verb at the end.",
+      "text": "Two more starters are useful. Hoffen means to hope: Ich hoffe, dass du Zeit hast. And Schade, dass es regnet is a ready-made chunk with no first verb at all: it means It is a pity that it is raining. Learn both as pieces. They follow the same rule: comma, dass, verb at the end. Natives use Schade, dass ... all the time to show they are sorry.",
       "example": {
        "de": "Ich hoffe, dass du Zeit hast.",
        "en": "I hope that you have time.",
@@ -5307,7 +5311,7 @@
        ]
       }
      },
-     "more": "You already know how these verbs work in the present: ich finde, du findest, er findet. The only new thing is what comes after. Think of the four verbs as four different voices. Finden says I find it so. Denken says I think. Glauben says I believe, and you are not completely sure. Meinen says I mean, and you want others to hear it. After each voice you open the small train with a comma and dass. Vermuten, to suppose, is a fifth voice, a little more careful.",
+     "more": "You already know how these verbs work in the present: ich finde, du findest, er findet. The only new thing is what comes after. Think of the four verbs as four different voices. Finden says I find it so. Denken says I think. Glauben says I believe, and you are not completely sure. Meinen says I mean, and you want others to hear it. After each voice you open the small train with a comma and dass. Hoffen, to hope, is a fifth voice, and you meet it on the next line.",
      "table": {
       "headers": [
        "verb",
@@ -5350,7 +5354,7 @@
     },
     {
      "title": "dass with a comparison",
-     "body": "Opinions often compare things. The comparison stays together inside the dass clause and the verb still goes last: ..., dass Serien spannender als Filme sind. So the order is: subject, the comparison with als, then the verb. Do not put the verb in front of als.",
+     "body": "Opinions often compare things. The comparison stays together inside the dass clause and the verb still goes last: ..., dass Serien spannender als Filme sind. So the order is: subject, the comparison with als, then the verb. Keep the comparison together before the verb.",
      "lead": "You have learned the comparative in this chapter, and now you have a place to use it. Your opinions get stronger when you compare, so here you put the comparison inside the dass clause.",
      "examples": [
       {
@@ -5481,7 +5485,7 @@
       }
      ],
      "deeper": {
-      "text": "The same happens with the winner and with so ... wie: the whole phrase stays in front of the last verb. Ich finde, dass diese App am besten ist. Ich glaube, dass der Film so lang wie die Serie ist. The verb always has the last place, no matter how long the clause is.",
+      "text": "The whole phrase stays in front of the last verb with the winner and so ... wie, too: Ich finde, dass diese App am besten ist. Natives sometimes also put als and the second thing after the verb: dass Serien spannender sind als Filme. That is correct as well, but it is a spoken habit. Keep the order of this lesson until it feels easy, and you will always be right.",
       "example": {
        "de": "Ich finde, dass diese App am besten ist.",
        "en": "I think that this app is the best.",
@@ -5684,7 +5688,7 @@
        ]
       }
      },
-     "more": "Nicht is a small stop sign, and it stands right in front of the word it stops. If you want to say that Ben is not online, the stop sign goes in front of online. If you want to say that Leon does not work, there is only the verb, so the stop sign goes in front of the verb, and that is the last word anyway. The verb never moves away from the end because of nicht. The order is always: subject, nicht, the rest, verb.",
+     "more": "Nicht is a small stop sign, and it stands right in front of the word it stops. If you want to say that Ben is not online, the stop sign goes in front of online. If you want to say that Leon does not work, there is only the verb, so the stop sign goes in front of the verb, and that is the last word anyway. The verb never moves away from the end because of nicht. In short clauses like these the order is: subject, nicht, adjective or nothing, then the verb.",
      "table": {
       "headers": [
        "positive",
@@ -5887,7 +5891,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:_tHi2rjFKd0"
+     "yt:_tHi2rjFKd0",
+     "yt:WxK_boaYVik"
     ],
     "nicosWeg": [
      "nw:a2-03",
@@ -5900,11 +5905,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich denke, dass das gut ist.",
       "Ich denke, dass das ist gut.",
-      "Ich denke dass das gut ist."
+      "Ich denke dass das gut ist.",
+      "Ich denke, dass das gut ist."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Comma before dass, verb at the end.",
      "explanation": "Ich denke, dass das gut ist.",
      "grammar": true
@@ -5946,11 +5951,11 @@
      "type": "choice",
      "prompt": "Mira ___, dass die Serie spannend ist. (glauben)",
      "options": [
-      "glaubt",
       "glaube",
+      "glaubt",
       "glaubst"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Mira is er/sie: the verb ends in -t.",
      "explanation": "Mira glaubt, dass die Serie spannend ist.",
      "grammar": true
@@ -6040,7 +6045,7 @@
       "rarely"
      ],
      "answer": 1,
-     "hint": "Leon is ständig online: he is online all the time.",
+     "hint": "Think of the word that means all the time, without a break.",
      "explanation": "Ständig means constantly.",
      "grammar": false
     },
@@ -6048,11 +6053,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich denke, dass das gut ist.",
       "Ich denke dass das gut ist.",
-      "Ich denke, dass das ist gut."
+      "Ich denke, dass das ist gut.",
+      "Ich denke, dass das gut ist."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Two things to check: the comma and the last place.",
      "explanation": "Ich denke, dass das gut ist.",
      "grammar": true
@@ -6120,11 +6125,11 @@
      "prompt": "Ben has no internet. He is ...",
      "options": [
       "online",
-      "offline",
-      "süchtig"
+      "süchtig",
+      "offline"
      ],
-     "answer": 1,
-     "hint": "Online has internet, the opposite has not.",
+     "answer": 2,
+     "hint": "The word for without internet is the opposite of online.",
      "explanation": "Offline means without internet.",
      "grammar": false
     },
@@ -6133,10 +6138,10 @@
      "prompt": "Glaubst du, dass Leon online ist? Choose the answer with no.",
      "options": [
       "Nein, ich glaube nicht, dass Leon ist online.",
-      "Nein, ich nicht glaube, dass Leon online ist.",
-      "Nein, ich glaube nicht, dass Leon online ist."
+      "Nein, ich glaube nicht, dass Leon online ist.",
+      "Nein, ich nicht glaube, dass Leon online ist."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Glaube, then nicht, then the dass clause with the verb last.",
      "explanation": "Nein, ich glaube nicht, dass Leon online ist.",
      "grammar": true
@@ -6337,8 +6342,8 @@
        "en": "Anna is not addicted."
       },
       {
-       "de": "Er ist süchtig nach Schokolade.",
-       "en": "He is addicted to chocolate."
+       "de": "Ben ist süchtig nach Schokolade.",
+       "en": "Ben is addicted to chocolate."
       }
      ]
     }
@@ -6619,29 +6624,41 @@
       }
      ],
      "deeper": {
-      "text": "After sein + adjective you can also open a dass clause: Ich bin sicher, dass Anna kommt. Es ist wichtig, dass ... says that something matters. Both have a comma, because the first part is already a complete sentence. The clause after the comma gives the content.",
+      "text": "Wissen is easy to mix up with kennen. Both mean to know in English, but German keeps them apart. Use wissen for facts and whole statements, so it is the one that takes dass: Ich weiß, dass Anna kommt. Use kennen for people and places you are familiar with: Ich kenne Anna. In short answers natives also say just Ich weiß or Weiß ich nicht, with no dass at all.",
       "example": {
-       "de": "Ich bin sicher, dass Anna kommt.",
-       "en": "I am sure that Anna is coming.",
+       "de": "Ich kenne Anna, und ich weiß, dass sie kommt.",
+       "en": "I know Anna, and I know that she is coming.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "bin",
+         "kenne",
          "verb"
         ],
         [
-         "sicher,",
-         "adjective"
+         "Anna,",
+         "object"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "weiß,",
+         "verb"
         ],
         [
          "dass",
          "conjunction"
         ],
         [
-         "Anna",
+         "sie",
          "subject"
         ],
         [
@@ -6798,17 +6815,17 @@
       }
      ],
      "deeper": {
-      "text": "The modal carries the person ending (kann, muss, können) and goes last. The infinitive stays in its basic form and stands right in front of it. This is the same order as in a weil clause from earlier in this level, only with dass.",
+      "text": "What about nicht? With two verbs at the end, nicht stands in front of the infinitive, so just before the verb group: Ben sagt, dass er nicht kommen kann. You do not put nicht between the two verbs. The same order works in a weil clause from earlier in this level. Always read the end of the clause as one block: nicht, infinitive, modal.",
       "example": {
-       "de": "Ich glaube, dass du heute lange schlafen darfst.",
-       "en": "I believe that you may sleep long today.",
+       "de": "Ich weiß, dass Mira nicht singen kann.",
+       "en": "I know that Mira cannot sing.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "glaube,",
+         "weiß,",
          "verb"
         ],
         [
@@ -6816,23 +6833,19 @@
          "conjunction"
         ],
         [
-         "du",
+         "Mira",
          "subject"
         ],
         [
-         "heute",
-         "time"
+         "nicht",
+         "negation"
         ],
         [
-         "lange",
-         "adjective"
-        ],
-        [
-         "schlafen",
+         "singen",
          "verb2"
         ],
         [
-         "darfst.",
+         "kann.",
          "verbend"
         ]
        ]
@@ -6981,7 +6994,7 @@
       }
      ],
      "deeper": {
-      "text": "The helper verb can be hat or ist. It is the conjugated verb, so it goes to the very end. The participle stays right in front of it. The rule is: participle first, helper last. A clause such as dass er das Video gepostet is not complete, because the helper verb is missing.",
+      "text": "Which helper do you put last, hat or ist? Most verbs take hat: gepostet hat, gesehen hat. Verbs of movement and change of state take ist: gegangen ist, geblieben ist, gefahren ist. The helper is the verb that changes with the person, so after dass it is the last word: ..., dass wir gegangen sind. A clause that ends on the participle alone is not finished.",
       "example": {
        "de": "Ich weiß, dass Anna zu Hause geblieben ist.",
        "en": "I know that Anna stayed at home.",
@@ -7323,34 +7336,30 @@
       }
      ],
      "deeper": {
-      "text": "The dass clause in first place counts as one block that fills place 1. So the verb of the main clause must come next, in place 2. That is why finde comes straight after the comma. If you think of the block as a single word, the old place 2 rule still holds.",
+      "text": "The dass clause in first place can also be the subject of a short sentence. Dass du kommst, ist toll means That you are coming is great. Here the whole dass clause does the job of one word, like a subject. The verb ist follows right after the comma, in place 2. This is a favourite way for natives to react to news. Try it with ist toll, ist schön or ist wichtig.",
       "example": {
-       "de": "Dass Leon müde ist, glaube ich.",
-       "en": "That Leon is tired, I believe.",
+       "de": "Dass du kommst, ist toll.",
+       "en": "That you are coming is great.",
        "parts": [
         [
          "Dass",
          "conjunction"
         ],
         [
-         "Leon",
+         "du",
          "subject"
         ],
         [
-         "müde",
-         "adjective"
-        ],
-        [
-         "ist,",
+         "kommst,",
          "verbend"
         ],
         [
-         "glaube",
+         "ist",
          "verb"
         ],
         [
-         "ich.",
-         "subject"
+         "toll.",
+         "adjective"
         ]
        ]
       }
@@ -7467,7 +7476,7 @@
       }
      ],
      "deeper": {
-      "text": "Test: replace the word with dieses. Das Handy becomes dieses Handy, which works, so you write das. In Ich glaube, dass er kommt, dieses does not fit, so you write dass. Another sign: dass comes after a comma, and a subject and a verb at the end follow it.",
+      "text": "Before the spelling reform of 1996 the conjunction was written daß, with the old ß. Since then it is dass with double s, so older books and letters from your grandparents may look different. The reform made the sound rule clearer: ß after a long vowel, ss after a short one, and dass has a short a. It is still a different word from das, so the test with dieses stays useful.",
       "example": {
        "de": "Ich glaube, dass das Tablet neu ist.",
        "en": "I believe that the tablet is new.",
@@ -7532,10 +7541,13 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:8Vmwekr6WN4"
+     "yt:8Vmwekr6WN4",
+     "yt:pCw0kXIZ1xI",
+     "yt:AOQ5X-ayjWE"
     ],
     "nicosWeg": [
-     "nw:a2-31"
+     "nw:a2-31",
+     "nw:a2-30"
     ],
     "practice": []
    },
@@ -7592,11 +7604,11 @@
      "type": "choice",
      "prompt": "Complete: Ich weiß, dass Ben das Video ___.",
      "options": [
-      "hochgeladen hat",
       "hat hochgeladen",
+      "hochgeladen hat",
       "hochlädt hat"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Participle first, helper last.",
      "explanation": "Ich weiß, dass Ben das Video hochgeladen hat.",
      "grammar": true
@@ -7615,11 +7627,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Dass du ständig online bist, finde ich nicht gut.",
       "Dass du ständig online bist, ich finde nicht gut.",
+      "Dass du ständig online bist, finde ich nicht gut.",
       "Dass du ständig online bist finde ich nicht gut."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "After the comma comes the verb of the main clause.",
      "explanation": "Dass du ständig online bist, finde ich nicht gut.",
      "grammar": true
@@ -7628,11 +7640,11 @@
      "type": "choice",
      "prompt": "Which word fits? Ich weiß, ___ das Video lang ist.",
      "options": [
+      "dass",
       "das",
-      "dies",
-      "dass"
+      "dies"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "It connects two parts and sends the verb to the end.",
      "explanation": "Ich weiß, dass das Video lang ist.",
      "grammar": true
@@ -7680,11 +7692,11 @@
      "type": "choice",
      "prompt": "What does hochladen mean?",
      "options": [
-      "to upload",
       "to download",
-      "to delete"
+      "to delete",
+      "to upload"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Hoch means up.",
      "explanation": "Hochladen means to upload.",
      "grammar": false
@@ -8693,7 +8705,7 @@
       }
      ],
      "deeper": {
-      "text": "Two time words fit nicely with comparisons: früher means in the past, and heutzutage means nowadays. They stand inside the dass clause as time words. And remember that mehr and weniger never take an ending: mehr Zeit, weniger Zeit. Both are adjectives here.",
+      "text": "Two time words fit nicely with comparisons: früher means in the past and heutzutage means nowadays. They stand inside the dass clause, before the comparison words. Mehr and weniger never take an ending: mehr Zeit, weniger Zeit. In the colour code they count as adjectives, because they say how much of the noun there is. Together they let you contrast then and now in one sentence.",
       "example": {
        "de": "Ich glaube, dass man heutzutage weniger Zeit hat.",
        "en": "I believe that one has less time nowadays.",
@@ -8900,33 +8912,45 @@
       }
      ],
      "deeper": {
-      "text": "You know the chunks from the chapter on opinions: Da hast du recht. Das sehe ich auch so. Das sehe ich anders. They fit well before a dass sentence. You can say Das sehe ich anders and then give your reason: Ich glaube nicht, dass das stimmt.",
+      "text": "For a more serious discussion natives use a longer opener: Ich bin der Meinung, dass ... It means I am of the opinion that ..., and it opens a dass clause just like Ich glaube, dass ... You can also agree or disagree with it: Ich bin auch der Meinung, dass ... or Ich bin nicht der Meinung, dass ... Learn Ich bin der Meinung as one piece; the grammar behind der Meinung comes later.",
       "example": {
-       "de": "Ich glaube nicht, dass das stimmt.",
-       "en": "I do not believe that this is true.",
+       "de": "Ich bin der Meinung, dass man offline ruhiger ist.",
+       "en": "I am of the opinion that one is calmer offline.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "glaube",
+         "bin",
          "verb"
         ],
         [
-         "nicht,",
-         "negation"
+         "der",
+         "article"
+        ],
+        [
+         "Meinung,",
+         "noun"
         ],
         [
          "dass",
          "conjunction"
         ],
         [
-         "das",
+         "man",
          "subject"
         ],
         [
-         "stimmt.",
+         "offline",
+         "other"
+        ],
+        [
+         "ruhiger",
+         "adjective"
+        ],
+        [
+         "ist.",
          "verbend"
         ]
        ]
@@ -9321,10 +9345,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:onGGS27eUGA"
+     "yt:onGGS27eUGA",
+     "yt:KnzFnqf7T6Y"
     ],
     "nicosWeg": [
-     "nw:a2-37"
+     "nw:a2-37",
+     "nw:a2-71"
     ],
     "practice": []
    },
@@ -9383,11 +9409,11 @@
      "type": "choice",
      "prompt": "Complete: Ein Nachteil ist, dass man nicht ___ kann.",
      "options": [
+      "abschalten",
       "abschaltet",
-      "schaltet ab",
-      "abschalten"
+      "schaltet ab"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "After the modal kann the verb is in the infinitive, in one piece.",
      "explanation": "Ein Nachteil ist, dass man nicht abschalten kann.",
      "grammar": true
@@ -9408,11 +9434,11 @@
      "type": "choice",
      "prompt": "Which sentence disagrees?",
      "options": [
+      "Ich glaube nicht, dass man offline ruhiger ist.",
       "Ich glaube auch, dass man offline ruhiger ist.",
-      "Da hast du recht.",
-      "Ich glaube nicht, dass man offline ruhiger ist."
+      "Da hast du recht."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Nicht goes into the first part.",
      "explanation": "Ich glaube nicht, dass man offline ruhiger ist.",
      "grammar": true
@@ -9486,11 +9512,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ein Nachteil ist, dass man nicht abschalten kann.",
       "Ein Nachteil ist, dass man nicht kann abschalten.",
+      "Ein Nachteil ist, dass man nicht abschalten kann.",
       "Ein Nachteil ist, dass man nicht abschaltet kann."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The modal is the last word.",
      "explanation": "Ein Nachteil ist, dass man nicht abschalten kann.",
      "grammar": true
@@ -9537,10 +9563,10 @@
      "prompt": "Complete: Ich glaube, dass Kinder heute ___ Bildschirmzeit als früher haben.",
      "options": [
       "mehrer",
-      "mehre",
-      "mehr"
+      "mehr",
+      "mehre"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Mehr never gets an ending.",
      "explanation": "Ich glaube, dass Kinder heute mehr Bildschirmzeit als früher haben.",
      "grammar": true
@@ -9572,11 +9598,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ben findet, dass Bücher besser als Apps sind.",
       "Ben findet, dass Bücher sind besser als Apps.",
-      "Ben findet, dass besser Bücher als Apps sind."
+      "Ben findet, dass besser Bücher als Apps sind.",
+      "Ben findet, dass Bücher besser als Apps sind."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The comparison first, the verb last.",
      "explanation": "Ben findet, dass Bücher besser als Apps sind.",
      "grammar": true
@@ -9980,7 +10006,7 @@
      ],
      "more": "Think of a video shop with shelves. Each shelf has a name: crime, comedy, cartoon, horror. Today you learn the names of the shelves, so that you can say which shelf you like best and why. You do not need new grammar. You use what you know: comparisons with als, gern, lieber and am liebsten, and dass and weil clauses. Only the nouns are new, and they all have an article, so you learn the article together with the word.",
      "steps": [
-      "You already know: Was guckst du am liebsten? (lesson 3) and Ich finde, dass ... (lesson 4).",
+      "You already know: gucken and am liebsten (lesson 3), and Ich finde, dass ... (lesson 4).",
       "New today: the names of film types, with articles and plurals.",
       "By the end you can: say which type of film you prefer and give a reason."
      ]
@@ -10333,17 +10359,17 @@
       }
      ],
      "deeper": {
-      "text": "Lieber is a comparison, so it needs als for the second part, never wie: lieber Krimis als Liebesfilme. If you do not name the second part, lieber stands alone: Ich sehe lieber Krimis. With am liebsten you compare with all the others, so you do not need a second part at all.",
+      "text": "Which verb do you use for watching: sehen, gucken or schauen? All three work for films. Sehen is neutral. Gucken is informal and very common in the north and in Berlin. Schauen is the same word in the south, in Bavaria, Austria and Switzerland. Natives choose by region, not by rule, so you can pick one and stay with it. The rest of the sentence with gern, lieber or am liebsten stays exactly the same.",
       "example": {
-       "de": "Ben sieht lieber Dokumentarfilme.",
-       "en": "Ben prefers watching documentaries.",
+       "de": "Ich schaue lieber Krimis.",
+       "en": "I prefer watching crime films.",
        "parts": [
         [
-         "Ben",
+         "Ich",
          "subject"
         ],
         [
-         "sieht",
+         "schaue",
          "verb"
         ],
         [
@@ -10351,7 +10377,7 @@
          "other"
         ],
         [
-         "Dokumentarfilme.",
+         "Krimis.",
          "object"
         ]
        ]
@@ -10443,15 +10469,15 @@
        ]
       },
       {
-       "de": "Ein Dokumentarfilm ist so lang wie ein Film.",
-       "en": "A documentary is as long as a film.",
+       "de": "Ein Krimi ist so lang wie ein Liebesfilm.",
+       "en": "A crime film is as long as a romance film.",
        "parts": [
         [
          "Ein",
          "article"
         ],
         [
-         "Dokumentarfilm",
+         "Krimi",
          "noun"
         ],
         [
@@ -10459,7 +10485,11 @@
          "verb"
         ],
         [
-         "so lang",
+         "so",
+         "other"
+        ],
+        [
+         "lang",
          "adjective"
         ],
         [
@@ -10471,7 +10501,7 @@
          "article"
         ],
         [
-         "Film.",
+         "Liebesfilm.",
          "noun"
         ]
        ]
@@ -10778,30 +10808,26 @@
       }
      ],
      "deeper": {
-      "text": "Was für Filme magst du? is a fixed question: learn it as one piece. The answer uses the plural without article: Ich mag Krimis und Komödien. A word for a kind of film is das Genre, plural die Genres. Krimi and Komödie are two genres. You will use the fixed question for the whole chapter.",
+      "text": "Natives like short forms. Krimi is short for Kriminalfilm, and it can also mean a crime novel, ein Krimi to read. Documentary films are often called die Doku, plural die Dokus. Both short words are completely normal in daily talk, in TV listings and on streaming sites. Other short words you will see are der Thriller (plural die Thriller) and der Western. They belong to the same group, so you can name any film type.",
       "example": {
-       "de": "Krimi und Komödie sind Genres.",
-       "en": "Crime film and comedy are genres.",
+       "de": "Mira sieht gern Dokus.",
+       "en": "Mira likes watching documentaries.",
        "parts": [
         [
-         "Krimi",
-         "noun"
+         "Mira",
+         "subject"
         ],
         [
-         "und",
-         "conjunction"
-        ],
-        [
-         "Komödie",
-         "noun"
-        ],
-        [
-         "sind",
+         "sieht",
          "verb"
         ],
         [
-         "Genres.",
-         "noun"
+         "gern",
+         "other"
+        ],
+        [
+         "Dokus.",
+         "object"
         ]
        ]
       }
@@ -10843,7 +10869,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:dp2HrUCylDo"
+     "yt:dp2HrUCylDo",
+     "yt:_zxq6dkt_xE"
     ],
     "nicosWeg": [
      "nw:a2-66",
@@ -10914,10 +10941,10 @@
      "prompt": "Complete: Komödien sind nicht so spannend ___ Actionfilme.",
      "options": [
       "als",
-      "dass",
-      "wie"
+      "wie",
+      "dass"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Nicht so goes with wie.",
      "explanation": "Komödien sind nicht so spannend wie Actionfilme.",
      "grammar": true
@@ -10936,11 +10963,11 @@
      "type": "choice",
      "prompt": "What is the plural of die Komödie?",
      "options": [
+      "die Komödien",
       "die Komödies",
-      "die Komödie",
-      "die Komödien"
+      "die Komödie"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Think of -n.",
      "explanation": "Die Komödie, die Komödien.",
      "grammar": true
@@ -10990,11 +11017,11 @@
      "type": "choice",
      "prompt": "What does gruselig mean?",
      "options": [
-      "scary",
       "funny",
+      "scary",
       "boring"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Think of a ghost.",
      "explanation": "Gruselig means scary.",
      "grammar": false
@@ -11016,11 +11043,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Krimis sind spannend.",
       "Krimis sind spannende.",
-      "Krimis sind spannender."
+      "Krimis sind spannender.",
+      "Krimis sind spannend."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "After sein the adjective stays short.",
      "explanation": "Krimis sind spannend.",
      "grammar": true
@@ -11062,7 +11089,7 @@
      "options": [
       "Ich finde, dass Krimis spannender als Komödien sind.",
       "Ich finde, dass Krimis sind spannender als Komödien.",
-      "Ich finde, dass Krimis spannender sind als Komödien."
+      "Ich finde, dass sind Krimis spannender als Komödien."
      ],
      "answer": 0,
      "hint": "The verb is the last word.",
@@ -11096,11 +11123,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Film ist nicht so lang wie die Serie.",
       "Der Film ist nicht so lang als die Serie.",
-      "Der Film ist nicht so länger wie die Serie."
+      "Der Film ist nicht so länger wie die Serie.",
+      "Der Film ist nicht so lang wie die Serie."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "So and wie belong together.",
      "explanation": "Der Film ist nicht so lang wie die Serie.",
      "grammar": true
@@ -11594,34 +11621,54 @@
       }
      ],
      "deeper": {
-      "text": "After von you need the dative: einem for der and das words, einer for die words, and -n at the end of a plural noun: von zwei Freunden. After um you need the accusative, which you know: einen Mann, eine Frau. Es geht um is fixed, so es and geht never change. The question is Worum geht es?",
+      "text": "English says about for both patterns, but German keeps a small difference. Handeln von is for stories, films, books and texts: it says what the story deals with. Es geht um is for any topic, also for talks and problems: Worum geht es in dem Gespräch? Es geht um Geld. Es geht um is also what you say when something matters to you. Both patterns are fixed, so es and geht never change.",
       "example": {
-       "de": "Die Serie handelt von zwei Freunden.",
-       "en": "The series is about two friends.",
+       "de": "Worum geht es in dem Gespräch? – Es geht um Geld.",
+       "en": "What is the conversation about? – It is about money.",
        "parts": [
         [
-         "Die",
-         "article"
+         "Worum",
+         "question"
         ],
         [
-         "Serie",
-         "noun"
-        ],
-        [
-         "handelt",
+         "geht",
          "verb"
         ],
         [
-         "von",
+         "es",
+         "subject"
+        ],
+        [
+         "in",
          "preposition"
         ],
         [
-         "zwei",
+         "dem",
+         "article"
+        ],
+        [
+         "Gespräch?",
+         "noun"
+        ],
+        [
+         "–",
          "other"
         ],
         [
-         "Freunden.",
-         "dative"
+         "Es",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "Geld.",
+         "object"
         ]
        ]
       }
@@ -11738,7 +11785,7 @@
       }
      ],
      "deeper": {
-      "text": "To make a woman, add -in to the end of the word. The plural of the -in words ends in -innen: die Schauspielerinnen, die Regisseurinnen. Der Held is a special noun: you only use the form der Held in this lesson, which is the form you need to name the hero. Die Heldin is the heroine.",
+      "text": "For a mixed group the traditional plural is the male form: die Schauspieler can mean actors of all genders. Today many people write Schauspieler:innen or say Schauspielerinnen und Schauspieler to include everybody. You will see all three in the media. The -in rule works for many jobs, not only for film: der Lehrer, die Lehrerin; der Kollege, die Kollegin. Be careful: der Held is the only one here that is not regular.",
       "example": {
        "de": "Die Heldin ist stark.",
        "en": "The heroine is strong.",
@@ -11881,26 +11928,22 @@
       }
      ],
      "deeper": {
-      "text": "Dann is not the same as dass. Dann means then and is about time, dass joins two clauses. After Am Anfang, dann or am Ende the verb comes right after, in second place, and the subject follows it. You can also tell the plot in the present with a longer sentence: Dann sucht die Heldin den Hund.",
+      "text": "Natives use more words than dann to move a story along. Zuerst means first, danach means after that and schließlich means finally. Like dann they stand in place 1, so the verb follows at once: Zuerst trifft ein Mann eine Frau. Danach verliert die Frau das Handy. Schließlich gehen alle nach Hause. A longer plot sounds better when you change the words instead of using dann three times.",
       "example": {
-       "de": "Dann sucht die Heldin den Hund.",
-       "en": "Then the heroine looks for the dog.",
+       "de": "Schließlich finden alle den Hund.",
+       "en": "Finally everyone finds the dog.",
        "parts": [
         [
-         "Dann",
+         "Schließlich",
          "time"
         ],
         [
-         "sucht",
+         "finden",
          "verb"
         ],
         [
-         "die",
-         "article"
-        ],
-        [
-         "Heldin",
-         "noun"
+         "alle",
+         "subject"
         ],
         [
          "den",
@@ -12169,21 +12212,17 @@
       }
      ],
      "deeper": {
-      "text": "Stehen is the verb of printed words: Im Text steht, dass ... Both sagen and stehen are followed by a comma and dass. The part before dass is a normal main clause with the verb in second place. You can also start with the dass clause when you want to put it first, but that is for later.",
+      "text": "Many verbs of reporting open a dass clause, not only sagen and stehen. Schreiben works well for texts, messages and comments: Anna schreibt, dass der Film super ist. Stehen is the special verb for printed words: Im Text steht, dass ... literally means in the text stands that. You use it for what is written in a text, a letter or on a sign, while sagen sounds like a person speaking.",
       "example": {
-       "de": "Der Text sagt, dass der Held stark ist.",
-       "en": "The text says that the hero is strong.",
+       "de": "Anna schreibt, dass der Film super ist.",
+       "en": "Anna writes that the film is great.",
        "parts": [
         [
-         "Der",
-         "article"
+         "Anna",
+         "subject"
         ],
         [
-         "Text",
-         "noun"
-        ],
-        [
-         "sagt,",
+         "schreibt,",
          "verb"
         ],
         [
@@ -12195,11 +12234,11 @@
          "article"
         ],
         [
-         "Held",
+         "Film",
          "noun"
         ],
         [
-         "stark",
+         "super",
          "adjective"
         ],
         [
@@ -12378,7 +12417,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:_tHi2rjFKd0"
+     "yt:_tHi2rjFKd0",
+     "yt:DO0N4ZPkUus"
     ],
     "nicosWeg": [
      "nw:a2-65"
@@ -12390,11 +12430,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Film handelt von einem Mann.",
       "Der Film handelt von ein Mann.",
-      "Der Film handelt von einen Mann."
+      "Der Film handelt von einen Mann.",
+      "Der Film handelt von einem Mann."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Von always takes the dative.",
      "explanation": "Der Film handelt von einem Mann.",
      "grammar": true
@@ -12413,11 +12453,11 @@
      "type": "choice",
      "prompt": "How do you ask what a film is about?",
      "options": [
-      "Worum geht es?",
       "Wo geht es?",
-      "Wer geht es?"
+      "Wer geht es?",
+      "Worum geht es?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "You need um.",
      "explanation": "Worum geht es?",
      "grammar": false
@@ -12451,11 +12491,11 @@
      "type": "choice",
      "prompt": "What is the female form of der Schauspieler?",
      "options": [
-      "die Schauspieler",
       "die Schauspielerin",
+      "die Schauspieler",
       "die Schauspielerinnen"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Add -in.",
      "explanation": "Der Schauspieler, die Schauspielerin.",
      "grammar": false
@@ -12474,11 +12514,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Text sagt, dass der Film traurig ist.",
       "Der Text sagt, dass der Film ist traurig.",
-      "Der Text sagt dass der Film traurig ist."
+      "Der Text sagt dass der Film traurig ist.",
+      "Der Text sagt, dass der Film traurig ist."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Comma, dass, verb last.",
      "explanation": "Der Text sagt, dass der Film traurig ist.",
      "grammar": true
@@ -12527,10 +12567,10 @@
      "prompt": "What does die Handlung mean?",
      "options": [
       "actor",
-      "plot",
-      "screen"
+      "screen",
+      "plot"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "It is the story.",
      "explanation": "Die Handlung means the plot.",
      "grammar": false
@@ -12539,11 +12579,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Die Serie handelt von einer Familie.",
       "Die Serie handelt von eine Familie.",
+      "Die Serie handelt von einer Familie.",
       "Die Serie handelt von einem Familie."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Familie is a die word.",
      "explanation": "Die Serie handelt von einer Familie.",
      "grammar": true
@@ -12562,11 +12602,11 @@
      "type": "choice",
      "prompt": "Which is the first step of the strategy for long texts?",
      "options": [
-      "Look at the title and the pictures.",
       "Translate every word.",
+      "Look at the title and the pictures.",
       "Read the last line."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Look before you read.",
      "explanation": "Look at the title and the pictures.",
      "grammar": false
@@ -12608,11 +12648,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Im Text steht, dass die Schauspielerin berühmt ist.",
       "Im Text steht, dass die Schauspielerin ist berühmt.",
-      "Im Text steht dass die Schauspielerin berühmt ist."
+      "Im Text steht dass die Schauspielerin berühmt ist.",
+      "Im Text steht, dass die Schauspielerin berühmt ist."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The verb goes last.",
      "explanation": "Im Text steht, dass die Schauspielerin berühmt ist.",
      "grammar": true
@@ -12621,11 +12661,11 @@
      "type": "choice",
      "prompt": "Which word starts the last part of a plot?",
      "options": [
-      "Am Ende",
       "Am Anfang",
-      "Dann"
+      "Dann",
+      "Am Ende"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The end is the last part.",
      "explanation": "Am Ende gehen alle nach Hause.",
      "grammar": false
@@ -12780,7 +12820,7 @@
      "en": "subtitle",
      "examples": [
       {
-       "de": "Ich sehe den Film mit Untertitel.",
+       "de": "Ich sehe den Film mit Untertiteln.",
        "en": "I watch the film with subtitles."
       },
       {
@@ -13190,7 +13230,7 @@
       }
      ],
      "deeper": {
-      "text": "Look at the last example. In a dass clause the verb war goes to the end, after the comparison: besser als das Buch war. The most common mistake is to put it in the middle, as in a normal sentence. Check every dass clause in your comment: is the conjugated verb the last word? If yes, the comment is correct.",
+      "text": "Notice the verb in the opinion sentence: war, not ist. When you talk about a film you have already seen, natives use war and hatte, not the Perfekt of sein and haben. Ich finde, dass der Film toll war sounds natural; ist toll gewesen sounds odd. You already know this rule from the past-tense lesson in chapter 2. For all other verbs, use the Perfekt: gesehen, gedreht, gelacht.",
       "example": {
        "de": "Ich finde, dass der Film sehr witzig war.",
        "en": "I think that the film was very funny.",
@@ -13369,42 +13409,34 @@
       }
      ],
      "deeper": {
-      "text": "You can link the rating with the opinion: Der Film hat vier von fünf Sternen, weil er sehr spannend ist. Words that match the stars: fünf Sterne means sehr gut, vier means gut, three means nicht so gut. Do not change the chunk; always say von and Sternen.",
+      "text": "Stars have a singular, too. For one star say einen Stern: Der Film hat nur einen Stern. Natives also give the stars, like a teacher giving marks: Ich gebe dem Film fünf Sterne. Here the film is the person who receives and the stars are the thing that is given, exactly like Ben gibt mir das Buch. Keep the chunk fünf von fünf Sternen for the written rating, and use this sentence when you speak.",
       "example": {
-       "de": "Der Film hat vier von fünf Sternen, weil er spannend ist.",
-       "en": "The film has four out of five stars because it is exciting.",
+       "de": "Ich gebe dem Film fünf Sterne.",
+       "en": "I give the film five stars.",
        "parts": [
         [
-         "Der",
-         "article"
-        ],
-        [
-         "Film",
-         "noun"
-        ],
-        [
-         "hat",
-         "verb"
-        ],
-        [
-         "vier von fünf Sternen,",
-         "other"
-        ],
-        [
-         "weil",
-         "conjunction"
-        ],
-        [
-         "er",
+         "Ich",
          "subject"
         ],
         [
-         "spannend",
+         "gebe",
+         "verb"
+        ],
+        [
+         "dem",
+         "dative"
+        ],
+        [
+         "Film",
+         "dative"
+        ],
+        [
+         "fünf",
          "adjective"
         ],
         [
-         "ist.",
-         "verbend"
+         "Sterne.",
+         "object"
         ]
        ]
       }
@@ -13532,38 +13564,38 @@
       }
      ],
      "deeper": {
-      "text": "In summer many German cities show films outside in a park. People bring a blanket and food. The premiere of a film is a big event, and the Filmfestival in Berlin, called the Berlinale, is very famous. You do not have to remember the name Berlinale now: in your own writing you can say das Filmfestival in Berlin.",
+      "text": "In Germany most foreign films are dubbed: the actors speak German, and you hear it as synchronisiert. If you want the original voices, look for OmU in the programme. It means Original mit Untertiteln, the original language with subtitles. Many cinemas also have a cheaper day, often Tuesday, called Kinotag. So before you buy a Kinokarte, check whether the film is synchronisiert or OmU. It changes how much you can learn.",
       "example": {
-       "de": "Das Filmfestival in Berlin ist sehr berühmt.",
-       "en": "The film festival in Berlin is very famous.",
+       "de": "Ich sehe den Film lieber im Original.",
+       "en": "I prefer to watch the film in the original.",
        "parts": [
         [
-         "Das",
-         "article"
+         "Ich",
+         "subject"
         ],
         [
-         "Filmfestival",
-         "noun"
-        ],
-        [
-         "in",
-         "preposition"
-        ],
-        [
-         "Berlin",
-         "place"
-        ],
-        [
-         "ist",
+         "sehe",
          "verb"
         ],
         [
-         "sehr",
+         "den",
+         "article"
+        ],
+        [
+         "Film",
+         "noun"
+        ],
+        [
+         "lieber",
          "other"
         ],
         [
-         "berühmt.",
-         "adjective"
+         "im",
+         "preposition"
+        ],
+        [
+         "Original.",
+         "noun"
         ]
        ]
       }
@@ -13721,50 +13753,26 @@
       }
      ],
      "deeper": {
-      "text": "The word man is again useful: Man hat in Wien gedreht means one has shot a film in Vienna, without saying who. A film location is a good topic for a comment: Ich weiß, dass man in Hamburg viele Filme gedreht hat. Notice that in the dass clause the helper hat is the last word.",
+      "text": "The word Ort (place) builds many useful compound nouns, and all of them are der words, because Ort is der. Besides der Drehort you will meet der Wohnort, the place where you live, and der Geburtsort, the place where you were born. The plural of Ort is die Orte, so die Drehorte, die Wohnorte. The same trick as with Film in lesson 7: the last part gives the article.",
       "example": {
-       "de": "Ich weiß, dass man in Hamburg viele Filme gedreht hat.",
-       "en": "I know that one has shot many films in Hamburg.",
+       "de": "Mein Wohnort ist Berlin.",
+       "en": "My place of residence is Berlin.",
        "parts": [
         [
-         "Ich",
-         "subject"
+         "Mein",
+         "article"
         ],
         [
-         "weiß,",
+         "Wohnort",
+         "noun"
+        ],
+        [
+         "ist",
          "verb"
         ],
         [
-         "dass",
-         "conjunction"
-        ],
-        [
-         "man",
-         "subject"
-        ],
-        [
-         "in",
-         "preposition"
-        ],
-        [
-         "Hamburg",
-         "place"
-        ],
-        [
-         "viele",
-         "other"
-        ],
-        [
-         "Filme",
-         "object"
-        ],
-        [
-         "gedreht",
-         "verb2"
-        ],
-        [
-         "hat.",
-         "verbend"
+         "Berlin.",
+         "noun"
         ]
        ]
       }
@@ -13908,18 +13916,18 @@
       }
      ],
      "deeper": {
-      "text": "Mitbringen is a separable verb: Ben bringt das Popcorn mit. The small word mit goes to the end. You can add a time: Wir sind um acht Uhr im Park. For friendly pressure say Moment mal! or Na ja ... when you disagree. And do not forget the plural of Picknick: die Picknicks.",
+      "text": "To suggest something, natives often use a question with sollen: Sollen wir ein Picknick machen? It is friendlier than a statement, because the other person decides. Sollen is a modal, so you already know the pattern: the second verb goes to the end. You can answer Ja, gern! or Na ja ... when you are not sure. Use it for plans like picnics, films and cinema evenings.",
       "example": {
-       "de": "Wir sind um acht Uhr im Park.",
-       "en": "We are in the park at eight o'clock.",
+       "de": "Sollen wir um acht Uhr im Park sein?",
+       "en": "Shall we be in the park at eight o'clock?",
        "parts": [
         [
-         "Wir",
-         "subject"
+         "Sollen",
+         "verb"
         ],
         [
-         "sind",
-         "verb"
+         "wir",
+         "subject"
         ],
         [
          "um",
@@ -13938,8 +13946,12 @@
          "preposition"
         ],
         [
-         "Park.",
+         "Park",
          "place"
+        ],
+        [
+         "sein?",
+         "verb2"
         ]
        ]
       }
@@ -14127,7 +14139,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:AVwXXf57e9g"
+     "yt:AVwXXf57e9g",
+     "yt:Ha18hag8N98"
     ],
     "nicosWeg": [
      "nw:a2-67",
@@ -14140,11 +14153,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich finde, dass der Film besser als das Buch war.",
       "Ich finde, dass der Film war besser als das Buch.",
-      "Ich finde, dass der Film besser war als das Buch."
+      "Ich finde, dass war der Film besser als das Buch.",
+      "Ich finde, dass der Film besser als das Buch war."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The verb is the last word.",
      "explanation": "Ich finde, dass der Film besser als das Buch war.",
      "grammar": true
@@ -14163,11 +14176,11 @@
      "type": "choice",
      "prompt": "Which part comes first in a film comment?",
      "options": [
-      "What you saw and when",
       "Your advice",
-      "Your rating"
+      "Your rating",
+      "What you saw and when"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Start at the beginning.",
      "explanation": "Gestern habe ich einen Film gesehen.",
      "grammar": false
@@ -14223,11 +14236,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "In Berlin hat man viele Filme gedreht.",
       "In Berlin man hat viele Filme gedreht.",
+      "In Berlin hat man viele Filme gedreht.",
       "In Berlin hat man viele Filme gedrehen."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Participle at the end: gedreht.",
      "explanation": "In Berlin hat man viele Filme gedreht.",
      "grammar": true
@@ -14275,11 +14288,11 @@
      "type": "choice",
      "prompt": "What does die Kinokarte mean?",
      "options": [
-      "cinema ticket",
       "screen",
-      "premiere"
+      "premiere",
+      "cinema ticket"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "You buy it to go in.",
      "explanation": "Die Kinokarte is the cinema ticket.",
      "grammar": false
@@ -14288,11 +14301,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Der Film hat fünf von fünf Sternen.",
       "Der Film hat fünf von fünf Stern.",
+      "Der Film hat fünf von fünf Sternen.",
       "Der Film hat fünf von Sternen fünf."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Say the chunk.",
      "explanation": "Der Film hat fünf von fünf Sternen.",
      "grammar": true
@@ -14711,10 +14724,10 @@
       "prompt": "Which phone is the cheapest?",
       "options": [
        "Handy B",
-       "Handy C",
-       "Handy A"
+       "Handy A",
+       "Handy C"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for am billigsten.",
       "explanation": "Handy A ist am billigsten."
      },
@@ -14723,10 +14736,10 @@
       "prompt": "How much does Handy B cost?",
       "options": [
        "500 euros",
-       "200 euros",
-       "350 euros"
+       "350 euros",
+       "200 euros"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for the number after Handy B.",
       "explanation": "Es kostet 350 Euro."
      },
@@ -14734,11 +14747,11 @@
       "type": "choice",
       "prompt": "What is true about Handy A and Handy B?",
       "options": [
-       "Handy A is not as fast as Handy B.",
        "Handy A is as fast as Handy B.",
-       "Handy A is faster than Handy B."
+       "Handy A is faster than Handy B.",
+       "Handy A is not as fast as Handy B."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for nicht so schnell wie.",
       "explanation": "Handy A ist nicht so schnell wie Handy B."
      },
@@ -14758,11 +14771,11 @@
       "type": "choice",
       "prompt": "Which camera is better, Handy B or Handy C?",
       "options": [
-       "Handy C",
        "Handy B",
-       "They are the same"
+       "They are the same",
+       "Handy C"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for Kamera and besser.",
       "explanation": "Die Kamera von Handy C ist besser."
      },
@@ -14771,10 +14784,10 @@
       "prompt": "Which battery lasts the longest?",
       "options": [
        "Handy B",
-       "Handy C",
-       "Handy A"
+       "Handy A",
+       "Handy C"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for am längsten.",
       "explanation": "Die Batterie von Handy C hält am längsten."
      },
@@ -14782,11 +14795,11 @@
       "type": "choice",
       "prompt": "What does Mira say?",
       "options": [
-       "The phone must be big.",
        "The phone does not have to be big.",
+       "The phone must be big.",
        "The phone must be cheap."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Mira sagt.",
       "explanation": "Das Handy muss nicht groß sein."
      },
@@ -14806,11 +14819,11 @@
       "type": "choice",
       "prompt": "Which phone does Anna buy?",
       "options": [
-       "Handy B",
        "Handy A",
+       "Handy B",
        "Handy C"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at the last sentence.",
       "explanation": "Ich kaufe Handy B."
      }
@@ -14837,10 +14850,10 @@
       "prompt": "Which one is longer?",
       "options": [
        "the film",
-       "both the same",
-       "the series"
+       "the series",
+       "both the same"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for länger.",
       "explanation": "Die Serie ist länger als der Film."
      },
@@ -14884,11 +14897,11 @@
       "type": "choice",
       "prompt": "What does Ben think about the series?",
       "options": [
-       "It is better and as witty as the film.",
        "It is worse than the film.",
-       "It is too long."
+       "It is too long.",
+       "It is better and as witty as the film."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen to Ben's third line.",
       "explanation": "Ich finde die Serie besser. Sie ist so witzig wie der Film."
      },
@@ -14896,11 +14909,11 @@
       "type": "choice",
       "prompt": "Who has less time?",
       "options": [
+       "Leon",
        "Ben",
-       "Both have the same time",
-       "Leon"
+       "Both have the same time"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for nicht so viel Zeit.",
       "explanation": "Ich habe nicht so viel Zeit wie du."
      },
@@ -14920,11 +14933,11 @@
       "type": "choice",
       "prompt": "What do they decide to watch?",
       "options": [
-       "the film, because it is shorter",
        "the series, because it is funnier",
+       "the film, because it is shorter",
        "nothing"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for kürzer.",
       "explanation": "Dann gucken wir den Film. Er ist kürzer."
      },
@@ -14960,7 +14973,7 @@
       "answers": [
        "teurer"
       ],
-      "hint": "Teuer loses its e before -er.",
+      "hint": "Teuer loses the e in the middle when it gets -er.",
       "explanation": "Der Laptop ist teurer als das Handy.",
       "grammar": true
      },
@@ -15133,11 +15146,11 @@
       "type": "choice",
       "prompt": "What did the flat share do yesterday?",
       "options": [
-       "They went to the cinema.",
        "They had a day without phones.",
+       "They went to the cinema.",
        "They only cooked."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look at the first sentences.",
       "explanation": "Gestern hatten wir in der WG einen Tag ohne Handy."
      },
@@ -15146,10 +15159,10 @@
       "prompt": "Whose idea was it?",
       "options": [
        "Ben's",
-       "Mira's",
-       "Anna's"
+       "Anna's",
+       "Mira's"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for Idee.",
       "explanation": "Mira hatte die Idee."
      },
@@ -15158,10 +15171,10 @@
       "prompt": "What did Leon do all the time in the morning?",
       "options": [
        "He slept.",
-       "He cooked.",
-       "He looked for his phone."
+       "He looked for his phone.",
+       "He cooked."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for gesucht.",
       "explanation": "Ich habe ständig mein Handy gesucht."
      },
@@ -15169,11 +15182,11 @@
       "type": "choice",
       "prompt": "What does Leon admit?",
       "options": [
-       "He is online all the time.",
        "He is always late.",
-       "He cannot cook."
+       "He cannot cook.",
+       "He is online all the time."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for zugeben.",
       "explanation": "Ich muss zugeben, dass ich ständig online bin."
      },
@@ -15182,10 +15195,10 @@
       "prompt": "What did they do at noon?",
       "options": [
        "They went to the cinema.",
-       "They cooked and ate together.",
-       "They streamed videos."
+       "They streamed videos.",
+       "They cooked and ate together."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for Mittag.",
       "explanation": "Am Mittag haben wir zusammen gekocht und gegessen."
      },
@@ -15194,10 +15207,10 @@
       "prompt": "Why was the evening calmer?",
       "options": [
        "They were out.",
-       "They streamed no videos.",
-       "It was raining."
+       "It was raining.",
+       "They streamed no videos."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for weil.",
       "explanation": "Am Abend war es ruhiger, weil wir keine Videos gestreamt haben."
      },
@@ -15205,11 +15218,11 @@
       "type": "choice",
       "prompt": "What did Mira do a lot?",
       "options": [
-       "She slept.",
        "She read.",
+       "She slept.",
        "She streamed videos."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Mira sagt.",
       "explanation": "Mira sagt, dass sie viel gelesen hat."
      },
@@ -15230,10 +15243,10 @@
       "prompt": "What does Anna think?",
       "options": [
        "Phones are cheap.",
-       "Offline one has more time.",
-       "The day was too long."
+       "The day was too long.",
+       "Offline one has more time."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for Anna findet.",
       "explanation": "Anna findet, dass man offline mehr Zeit hat."
      },
@@ -15259,11 +15272,11 @@
       "type": "choice",
       "prompt": "Who does Frau Weber talk to?",
       "options": [
-       "Mira",
        "Anna",
-       "Ben"
+       "Ben",
+       "Mira"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen to the first line.",
       "explanation": "Frau Weber spricht mit Mira."
      },
@@ -15283,11 +15296,11 @@
       "type": "choice",
       "prompt": "What does Mira say about the phone?",
       "options": [
+       "One can do many useful things with it.",
        "It is too expensive.",
-       "She does not use it.",
-       "One can do many useful things with it."
+       "She does not use it."
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for Nützliches.",
       "explanation": "Ich glaube, dass man mit dem Handy viel Nützliches machen kann."
      },
@@ -15295,11 +15308,11 @@
       "type": "choice",
       "prompt": "What does Mira do online?",
       "options": [
-       "She watches films.",
        "She learns words.",
+       "She watches films.",
        "She plays games."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for Vokabeln.",
       "explanation": "Ich lerne online Vokabeln."
      },
@@ -15307,11 +15320,11 @@
       "type": "choice",
       "prompt": "What is a disadvantage for Frau Weber?",
       "options": [
-       "One cannot switch off.",
        "The battery is empty.",
+       "One cannot switch off.",
        "It costs money."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Nachteil.",
       "explanation": "Ein Nachteil ist, dass man nicht mehr abschalten kann."
      },
@@ -15320,10 +15333,10 @@
       "prompt": "What does Mira admit?",
       "options": [
        "She has lost her phone.",
-       "She does not like her friends.",
-       "She sits too long with the phone in the evening."
+       "She sits too long with the phone in the evening.",
+       "She does not like her friends."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for abends.",
       "explanation": "Ich weiß, dass ich abends zu lange am Handy sitze."
      },
@@ -15331,11 +15344,11 @@
       "type": "choice",
       "prompt": "What did children do more in the past, says Frau Weber?",
       "options": [
-       "They played outside.",
        "They read.",
+       "They played outside.",
        "They watched TV."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for früher.",
       "explanation": "Früher haben die Kinder mehr draußen gespielt als heute."
      },
@@ -15355,11 +15368,11 @@
       "type": "choice",
       "prompt": "What does Frau Weber say about herself?",
       "options": [
-       "She is not always reachable, and she likes that.",
        "She is always online.",
-       "She has no phone."
+       "She has no phone.",
+       "She is not always reachable, and she likes that."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for Ich bin nicht immer erreichbar.",
       "explanation": "Ich bin nicht immer erreichbar, und ich finde das gut."
      },
@@ -15383,11 +15396,11 @@
       "type": "choice",
       "prompt": "Which word fits? Ich weiß, ___ Ben online ist.",
       "options": [
+       "dass",
        "das",
-       "dies",
-       "dass"
+       "dies"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "It sends the verb to the end.",
       "explanation": "Ich weiß, dass Ben online ist.",
       "grammar": true
@@ -15441,11 +15454,11 @@
       "type": "choice",
       "prompt": "Which sentence is correct?",
       "options": [
-       "Ein Nachteil ist, dass man ständig Werbung sieht.",
        "Ein Nachteil ist, dass man sieht ständig Werbung.",
+       "Ein Nachteil ist, dass man ständig Werbung sieht.",
        "Ein Nachteil ist dass man ständig Werbung sieht."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Comma before dass, verb last.",
       "explanation": "Ein Nachteil ist, dass man ständig Werbung sieht.",
       "grammar": true
@@ -15510,11 +15523,11 @@
       "type": "choice",
       "prompt": "Which sentence is correct?",
       "options": [
-       "Ich glaube, dass man offline ruhiger ist.",
        "Ich glaube, dass man ist offline ruhiger.",
-       "Ich glaube, dass man offline ist ruhiger."
+       "Ich glaube, dass man offline ist ruhiger.",
+       "Ich glaube, dass man offline ruhiger ist."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "The verb is the last word.",
       "explanation": "Ich glaube, dass man offline ruhiger ist.",
       "grammar": true
@@ -15592,11 +15605,11 @@
       "type": "choice",
       "prompt": "How much does a cinema ticket cost?",
       "options": [
-       "Ten euros",
        "Five euros",
+       "Ten euros",
        "It is free"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for the word nur.",
       "explanation": "Die Kinokarte kostet nur fünf Euro."
      },
@@ -15604,11 +15617,11 @@
       "type": "choice",
       "prompt": "What kind of film is it?",
       "options": [
+       "A crime film",
        "A comedy",
-       "A cartoon",
-       "A crime film"
+       "A cartoon"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look at the second part of the text.",
       "explanation": "Der Film ist ein Krimi."
      },
@@ -15652,11 +15665,11 @@
       "type": "choice",
       "prompt": "What does Mira know about the end?",
       "options": [
-       "It is sad.",
        "It is funny.",
+       "It is sad.",
        "It is long."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for traurig.",
       "explanation": "Ich weiß, dass das Ende traurig ist."
      },
@@ -15676,11 +15689,11 @@
       "type": "choice",
       "prompt": "What does Ben bring?",
       "options": [
+       "The popcorn",
        "The tickets",
-       "The picnic",
-       "The popcorn"
+       "The picnic"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look for mit.",
       "explanation": "Ich bringe das Popcorn mit."
      },
@@ -15689,10 +15702,10 @@
       "prompt": "What does Herr Ali think?",
       "options": [
        "The film is better than the book.",
-       "The book is better than the film.",
-       "The book and the film are the same."
+       "The book and the film are the same.",
+       "The book is better than the film."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for besser als.",
       "explanation": "Ich finde, dass das Buch besser als der Film ist."
      }
@@ -15707,10 +15720,10 @@
       "prompt": "What did Anna see?",
       "options": [
        "A comedy",
-       "A cartoon",
-       "A crime film"
+       "A crime film",
+       "A cartoon"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen to Anna's first answer.",
       "explanation": "Ich habe gestern Abend einen Krimi gesehen."
      },
@@ -15730,11 +15743,11 @@
       "type": "choice",
       "prompt": "What does Anna think about the film?",
       "options": [
-       "It was very exciting.",
        "It was boring.",
-       "It was too long."
+       "It was too long.",
+       "It was very exciting."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for spannend.",
       "explanation": "Ich finde, dass er sehr spannend war."
      },
@@ -15743,10 +15756,10 @@
       "prompt": "Who is the film about?",
       "options": [
        "A director and a cat",
-       "An actress and a dog",
-       "Two friends"
+       "Two friends",
+       "An actress and a dog"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen for handelt von.",
       "explanation": "Der Film handelt von einer Schauspielerin und einem Hund."
      },
@@ -15766,11 +15779,11 @@
       "type": "choice",
       "prompt": "What does the actress play?",
       "options": [
-       "The leading role",
        "A small role",
+       "The leading role",
        "The director"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Hauptrolle.",
       "explanation": "Sie spielt die Hauptrolle."
      },
@@ -15779,10 +15792,10 @@
       "prompt": "What does Herr Ali think?",
       "options": [
        "The film is better than the book.",
-       "The book is better than the film.",
-       "Both are boring."
+       "Both are boring.",
+       "The book is better than the film."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen for besser als.",
       "explanation": "Ich glaube, dass das Buch besser als der Film ist."
      },
@@ -15790,11 +15803,11 @@
       "type": "choice",
       "prompt": "What does Anna think about the film and the book?",
       "options": [
-       "The book was funnier.",
        "The film was funnier.",
+       "The book was funnier.",
        "They are the same."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for witziger.",
       "explanation": "Ich finde, dass der Film witziger als das Buch war."
      },
@@ -15802,11 +15815,11 @@
       "type": "choice",
       "prompt": "How many stars does the film have?",
       "options": [
-       "Four out of five",
        "Five out of five",
-       "Three out of five"
+       "Three out of five",
+       "Four out of five"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for von fünf.",
       "explanation": "Der Film hat vier von fünf Sternen."
      },
@@ -15830,11 +15843,11 @@
       "type": "choice",
       "prompt": "Which word fits? Der Film handelt ___ einem Hund.",
       "options": [
-       "von",
        "um",
-       "mit"
+       "mit",
+       "von"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "It always goes with handeln.",
       "explanation": "Der Film handelt von einem Hund.",
       "grammar": true
@@ -15911,11 +15924,11 @@
       "type": "choice",
       "prompt": "Which word fits? Ich sehe lieber Krimis ___ Liebesfilme.",
       "options": [
-       "wie",
        "als",
+       "wie",
        "dass"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Lieber is a comparison.",
       "explanation": "Ich sehe lieber Krimis als Liebesfilme.",
       "grammar": true
