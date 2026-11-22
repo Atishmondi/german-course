@@ -225,7 +225,7 @@
       ]
      ],
      "more": "Picture yourself on a walk. You point at a big building and your friend asks: Was ist das? You answer with a small pattern. Step 1: say Das ist. Step 2: say ein, like the English word a. Step 3: say the place. Das ist ein Kino. The verb ist stays in part 2, just like in chapter 1. Extra example: Das ist ein Park. = That is a park.",
-     "lead": "The intro showed a station and a hotel in Hamburg. On this card: how to point at a place and say what it is with the word ein, so you can name things you see in town.",
+     "lead": "The intro showed a hotel and a church in Hamburg. On this card: how to point at a place and say what it is with the word ein, so you can name things you see in town.",
      "deeper": {
       "text": "In German, Das ist ein Bahnhof is a complete sentence, and ist can never be left out. Notice also that das is the same word for every noun. You point first with das, and only the noun that follows shows its gender. That is why you do not need to know the gender before you point at something.",
       "example": {
@@ -804,7 +804,7 @@
      "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel.",
      "lead": "This is the last card of the lesson. On this card: a three-step check you can use for any place, so you can choose ein or eine every time.",
      "deeper": {
-      "text": "What if you meet a noun and do not know its gender? Ask: Ist das der, die oder das? Germans themselves look it up in a dictionary, where m means der, f means die and n means das. And a learner tip: give each gender a colour in your notes, like the chips in this course, so the picture helps you remember.",
+      "text": "What if you meet a noun and do not know its gender? Look it up in a dictionary, as Germans do, where m means der, f means die and n means das. And a learner tip: give each gender a colour in your notes, like the chips in this course, so the picture helps you remember.",
       "example": {
        "de": "Das ist ein Rathaus.",
        "en": "That is a town hall.",
@@ -3375,7 +3375,7 @@
      },
      "lead": "Next: finding places. On this card: the question Wo ist …? and three small words for near and far, hier, da and dort, so you can say where something is.",
      "deeper": {
-      "text": "In everyday speech, da is often used for both there and here, so you will hear it a lot. hier means close to me, and dort means over there. The verb still stays in part 2 when the answer word comes first. Hier ist die Bank has the verb second, just like Die Bank ist hier.",
+      "text": "In everyday speech you will hear da a lot, and it can even stand for here. hier means close to me, and dort means over there. The verb still stays in part 2 when the answer word comes first. Hier ist die Bank has the verb second, just like Die Bank ist hier.",
       "example": {
        "de": "Hier ist die Bank.",
        "en": "The bank is here.",
@@ -3659,7 +3659,8 @@
     "answers": [
      "Ich fahre mit dem Zug nach Hamburg.",
      "Mit dem Zug fahre ich nach Hamburg.",
-     "Ich fahre nach Hamburg mit dem Zug."
+     "Ich fahre nach Hamburg mit dem Zug.",
+     "Nach Hamburg fahre ich mit dem Zug."
     ],
     "hint": "fahren, then the piece mit dem Zug, then nach Hamburg.",
     "explanation": "Ich + fahre + mit dem Zug + nach Hamburg.",
@@ -3921,8 +3922,8 @@
        "en": "I walk."
       },
       {
-       "de": "Wir gehen nach Hamburg.",
-       "en": "We go to Hamburg."
+       "de": "Mira geht zu Fuß.",
+       "en": "Mira walks."
       }
      ]
     },
@@ -4347,7 +4348,7 @@
     },
     {
      "title": "Opposites help you learn",
-     "body": "Learn adjectives in pairs. Two words that mean the opposite are easy to remember together. Say the pair out loud.",
+     "body": "Learn adjectives in pairs. Two words that mean the opposite are easy to remember together. Say the pair out loud. Join two opposites with aber (but).",
      "examples": [
       {
        "de": "Der Hafen ist laut.",
@@ -6105,7 +6106,7 @@
     },
     {
      "title": "A whole route: ask and answer",
-     "body": "Now put everything together. One person asks the way with Entschuldigung. The other uses Sie commands, bitte and dann. Anna and Frau Weber say Sie to each other.",
+     "body": "Now put everything together. One person asks the way with Entschuldigung. The other uses Sie commands, bitte and dann. Anna asks her teacher, Frau Weber, so both use Sie.",
      "examples": [
       {
        "de": "Entschuldigung, wie komme ich zum Rathaus?",
@@ -6199,10 +6200,10 @@
       "Nehmen Sie dann die zweite Straße links.",
       "Das Rathaus ist dort."
      ],
-     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Anna and Frau Weber are not close friends, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
+     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Anna says Sie to her teacher, so the answers use Sie too. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
      "lead": "This is the last card of the lesson. On this card: a full route from question to answer, using commands, bitte and dann, so you can ask for and give directions in one talk.",
      "deeper": {
-      "text": "Real route directions are short and in order. Listen for the order words: erste, dann, dort. Germans often end by saying where the goal is, and the asker usually says thanks. Anna says Sie to Frau Weber, as adults do when they are not close friends. Thanks end the talk politely.",
+      "text": "Real route directions are short and in order. Listen for the order words: erste, dann, dort. Germans often end by saying where the goal is, and the asker usually says thanks. Anna says Sie to her teacher Frau Weber, as adults do with someone they do not know well. Thanks end the talk politely.",
       "example": {
        "de": "Danke, das ist sehr nett!",
        "en": "Thanks, that is very kind!",
@@ -6666,7 +6667,8 @@
      "prompt": "Write in German: Please take the taxi!",
      "answers": [
       "Nehmen Sie bitte das Taxi!",
-      "Bitte nehmen Sie das Taxi!"
+      "Bitte nehmen Sie das Taxi!",
+      "Nehmen Sie das Taxi bitte!"
      ],
      "hint": "Verb and Sie, and bitte for please.",
      "explanation": "Nehmen Sie bitte das Taxi!"
@@ -7750,7 +7752,10 @@
     "prompt": "Write in German: In July I go to Hamburg by train.",
     "answers": [
      "Im Juli fahre ich mit dem Zug nach Hamburg.",
-     "Ich fahre im Juli mit dem Zug nach Hamburg."
+     "Ich fahre im Juli mit dem Zug nach Hamburg.",
+     "Im Juli fahre ich nach Hamburg mit dem Zug.",
+     "Ich fahre im Juli nach Hamburg mit dem Zug.",
+     "Ich fahre mit dem Zug im Juli nach Hamburg."
     ],
     "hint": "If im Juli is first, the verb is part 2.",
     "explanation": "Im Juli + fahre + ich + mit dem Zug + nach Hamburg.",
@@ -8261,7 +8266,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How does Ben travel?",
+      "prompt": "How does Ben travel around Hamburg?",
       "options": [
        "by bike",
        "on foot"
@@ -8349,7 +8354,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How do Ben and Anna go?",
+      "prompt": "How do Ben and Anna go together?",
       "options": [
        "on foot",
        "by bus",
