@@ -214,7 +214,7 @@
        "object"
       ]
      ],
-     "more": "Picture a bus. The subject is the driver: the one who does it. The object is the passenger: the thing that gets carried along. Step 1: find the verb (esse). Step 2: ask who does it (ich). Step 3: ask what? (Brot). Brot is the object. Extra example: Anna trinkt Tee. Anna is the driver, Tee is the passenger.",
+     "more": "Think of a sandwich shop. You order: I eat a roll. The roll is the thing that gets eaten, so it is the object. Every eat-or-drink sentence has this little pattern: someone, the verb, and then a thing. English works in exactly the same order, so you can lean on it. Step 1: find the verb. Step 2: ask who? That is the subject. Step 3: ask what? That is the object. Extra example: Leon isst Käse. Käse is the object.",
      "lead": "This lesson starts with food and drink. On this card: the object, the thing that gets eaten or drunk and answers the question what, so you can say what you have on your plate.",
      "deeper": {
       "text": "Here is a trick to find the object: say the verb, then ask was? The word that answers is the object. Notice that food words often come with no article at all when you mean food in general, like Brot or Wasser. English does the same: I eat bread, not I eat the bread.",
@@ -683,7 +683,7 @@
        ]
       ]
      },
-     "more": "gern is a little smile that sits right behind the verb and the person. It says: I like it. Step 1: write the short sentence: Ich esse Suppe. Step 2: slide gern in after esse and ich. Now you have: Ich esse gern Suppe. The object stays at the end. Extra example: Anna trinkt gern Wasser.",
+     "more": "Think of gern as a small heart you stick on the verb. English needs a whole extra verb: I like to eat. German keeps its normal verb and just adds gern after the verb and the person. So the sentence stays short. Step 1: build the plain sentence: Ben trinkt Milch. Step 2: put gern after trinkt: Ben trinkt gern Milch. Step 3: in a question, the verb comes first and gern still follows the person: Trinkst du gern Milch? Extra example: Wir essen gern Salat.",
      "lead": "This is the last card of the lesson. On this card: gern placed after the verb and the person, so you can say what you like to eat or drink.",
      "deeper": {
       "text": "gern never has an ending and no gender, so it never changes. English says I like eating soup. German does not use a word for like here. It puts gern next to the verb: Ich esse gern Suppe. Think of gern as a small flag that says I enjoy this.",
@@ -1311,7 +1311,7 @@
        ]
       }
      ],
-     "more": "Imagine masculine words wear a little costume when they get eaten: der Apfel puts on den, ein puts on einen, kein puts on keinen. Only a tiny n is added, like a small sock. The die-words and das-words keep their clothes the same. So you only watch out for masculine words. You will learn it one word at a time in the next cards."
+     "more": "Imagine masculine words get a small badge when they are the thing being eaten: der becomes den, ein becomes einen, kein becomes keinen. All three badges end in -n, so it is easy to spot. The die-words and das-words keep their usual article. So you only watch out for masculine words. You will learn it one word at a time in the next cards."
     },
     {
      "title": "Subject or object? Most words do not change",
@@ -1413,7 +1413,7 @@
        "object"
       ]
      ],
-     "more": "Think of a stage. Some actors wear the same costume in every scene. die and das are like that: subject or object, same costume. Step 1: find the subject (who does it). Step 2: find the object (what gets it). Step 3: look at die and das. Nothing to change. Extra example: Das Kind trinkt die Milch.",
+     "more": "Think of a hotel guest list. A woman can be the guest who orders, or the person the waiter brings to the table. Her name does not change. die and das are like that name: they look the same whether they are the subject or the object. So with die and das, the article gives you no clue. You use the meaning and the word order instead. Step 1: find the verb. Step 2: who does it? Step 3: what gets it? Extra example: Die Frau isst das Brötchen.",
      "lead": "Lesson 1 taught you the object. On this card: how to tell the subject from the object, and which words stay the same in both places, so you know where to look for a change.",
      "deeper": {
       "text": "How do you know who is the subject? Look at who does the verb. With die and das the article cannot tell you, so you use meaning: a woman can eat soup, but soup cannot eat a woman. Only masculine words show the difference in the article, as you will see on the next card.",
@@ -1543,7 +1543,7 @@
        ]
       ]
      },
-     "more": "Imagine a masculine word has a secret costume change. Backstage (as the subject) he wears der. On stage as the object he puts on den. Only the little article changes; Apfel stays Apfel. Step 1: is the noun masculine? Step 2: is it the object? Step 3: if both are yes, use den. Extra example: Ich trinke den Kaffee.",
+     "more": "English shows this change only in small words like he and him: He sees the dog, the dog sees him. German does it with masculine articles: der for the one who acts, den for the thing that gets it. So den is a little like him for things. Step 1: is the noun masculine? Check the der. Step 2: is it the object, the thing eaten or drunk? Step 3: if both are yes, say den. Extra example: Leon trinkt den Kaffee. Kaffee is masculine and gets drunk.",
      "lead": "You saw that most words stay the same. On this card: the one masculine change you need for a noun that is the object, so you can spot it in a sentence.",
      "deeper": {
       "text": "Think of den as der with a small push at the end. German marks the object with a little flag, and for masculine words that flag is the -n. It is easy to spot because it is only one small group of words. The noun itself, like Apfel, does not change.",
@@ -1669,10 +1669,10 @@
        ]
       ]
      },
-     "more": "ein works just like der: only the masculine word changes. It is like adding -en to ein, but only for the masculine object. Step 1: say the gender of the noun. Step 2: masculine? Say einen. Step 3: feminine or neuter? Keep eine or ein. Extra example: Ben isst einen Salat, eine Suppe und ein Brötchen.",
+     "more": "Picture three boxes on a shelf: masculine, feminine, neuter. When a word becomes the object, only the masculine box gets a sticker with -en: ein becomes einen. The other two boxes stay exactly as they were. So you do not need a new rule for eine or ein. Step 1: know the gender. Step 2: masculine object? Add -en to ein. Step 3: feminine or neuter? Do nothing. Extra example: Mira kauft einen Apfel, eine Banane und ein Ei.",
      "lead": "Now you can change der to den. On this card: the same kind of change for ein, which becomes einen for a masculine object, so you can say a masculine thing you eat.",
      "deeper": {
-      "text": "The pattern is the same as der to den: you add -en. Notice that the ending -en is exactly the same for the, a and no. Learn it once and you know it for three words at the same time. Only masculine objects take it, as before.",
+      "text": "With einen, the n is not the only ending you will meet. In speech, Germans often shorten einen to so it sounds like nen: Ich nehme nen Kaffee. That is spoken style only. In writing and in this course, always use the full form einen. And ein before a vowel never changes its sound: ein Ei, ein Apfel.",
       "example": {
        "de": "Anna trinkt einen Saft.",
        "en": "Anna drinks a juice.",
@@ -1795,29 +1795,53 @@
        ]
       ]
      },
-     "more": "kein is ein with a no-sign in front. Same pattern as ein: kein, keine, kein, and keinen for the masculine object. Step 1: say the sentence with ein: Ich esse einen Fisch. Step 2: put k in front: Ich esse keinen Fisch. Now it means: I eat no fish. Extra example: Ich esse kein Fleisch.",
+     "more": "kein is the no-version of ein. In English you often need two words: not a, or no. German has one word that does both. It takes the same endings as ein, so you already know them all. Step 1: say the sentence with ein: Ich habe einen Löffel. Step 2: put k in front: Ich habe keinen Löffel. Step 3: check that feminine and neuter stay the same: keine Milch, kein Ei. Extra example: Ben trinkt keinen Saft. Saft is masculine, so keinen.",
      "lead": "You can now say a or an for a masculine object. On this card: the matching change for kein, so you can say you eat no fish or drink no milk.",
      "deeper": {
-      "text": "Now you can see the whole family: der to den, ein to einen, kein to keinen. All three just add -en. kein always follows the same changes as ein, so if you know one, you automatically know the other. The only thing to check each time is the gender of the noun.",
+      "text": "Now you can see the whole family: den, einen, keinen. All three end in -n for a masculine object. Do not mix up kein and nicht: kein goes with a noun (kein Fisch), and nicht goes with a verb or an adjective (Ich esse nicht, Die Suppe ist nicht heiß). If you could say ein before the noun, use kein.",
       "example": {
-       "de": "Anna isst keinen Käse.",
-       "en": "Anna does not eat any cheese.",
+       "de": "Ich esse keinen Fisch, und die Suppe ist nicht heiß.",
+       "en": "I eat no fish, and the soup is not hot.",
        "parts": [
         [
-         "Anna",
+         "Ich",
          "subject"
         ],
         [
-         "isst",
+         "esse",
          "verb"
         ],
         [
          "keinen",
+         "article"
+        ],
+        [
+         "Fisch,",
+         "object"
+        ],
+        [
+         "und",
+         "other"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Suppe",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
          "negation"
         ],
         [
-         "Käse.",
-         "noun"
+         "heiß.",
+         "adjective"
         ]
        ]
       }
@@ -1893,30 +1917,30 @@
      "more": "Imagine two masculine words and no extra clue. In English you use word order: the dog eats the fish. In German the little article tells you, so der means the one who does it and den means the one who gets it. Step 1: look for den. Step 2: den is the object. Step 3: der is the subject. Extra example: Der Junge isst den Salat.",
      "lead": "You know how each masculine article changes. On this card: how to tell who does the action when two masculine words sit in one sentence, so you do not mix them up.",
      "deeper": {
-      "text": "This is why the endings matter. Der Fisch isst den Hund would mean the opposite story. The word with der is the one who does it, and the word with den is the one who gets it. Look at the articles first, and only then at the nouns.",
+      "text": "Because den marks the object, German can move it to the front. Den Fisch isst der Hund still means the dog eats the fish. The verb stays in part 2, and the articles tell you who does what. English cannot do this: the fish eats the dog is a new story. Germans put the object first to stress it.",
       "example": {
-       "de": "Der Mann isst den Salat.",
-       "en": "The man eats the salad.",
+       "de": "Den Fisch isst der Hund.",
+       "en": "The dog eats the fish.",
        "parts": [
         [
-         "Der",
+         "Den",
          "article"
         ],
         [
-         "Mann",
-         "noun"
+         "Fisch",
+         "object"
         ],
         [
          "isst",
          "verb"
         ],
         [
-         "den",
+         "der",
          "article"
         ],
         [
-         "Salat.",
-         "noun"
+         "Hund.",
+         "subject"
         ]
        ]
       }
@@ -1994,6 +2018,40 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Ben isst den Joghurt. Er ist lecker.",
+       "en": "Ben eats the yoghurt. It is tasty.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "isst",
+         "verb"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Joghurt.",
+         "object"
+        ],
+        [
+         "Er",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "lecker.",
+         "adjective"
+        ]
+       ]
       }
      ],
      "table": {
@@ -2013,6 +2071,30 @@
        [
         "das Wasser",
         "das Wasser"
+       ],
+       [
+        "der Reis",
+        "den Reis"
+       ],
+       [
+        "der Joghurt",
+        "den Joghurt"
+       ],
+       [
+        "der Zucker",
+        "den Zucker"
+       ],
+       [
+        "der Schinken",
+        "den Schinken"
+       ],
+       [
+        "die Kartoffel",
+        "die Kartoffel"
+       ],
+       [
+        "das Fleisch",
+        "das Fleisch"
        ]
       ]
      },
@@ -3150,6 +3232,14 @@
        [
         "wir haben",
         "keinen Hunger"
+       ],
+       [
+        "ihr habt",
+        "einen Kühlschrank"
+       ],
+       [
+        "sie / Sie haben",
+        "eine Küche"
        ]
       ]
      },
@@ -3272,6 +3362,22 @@
        [
         "Das ist ein Apfel.",
         "Ich esse einen Apfel."
+       ],
+       [
+        "Das ist ein Teller.",
+        "Ich brauche einen Teller."
+       ],
+       [
+        "Das ist eine Gabel.",
+        "Ich brauche eine Gabel."
+       ],
+       [
+        "Das ist ein Messer.",
+        "Ich habe ein Messer."
+       ],
+       [
+        "Das ist ein Glas.",
+        "Ich habe ein Glas."
        ]
       ]
      },
@@ -4107,7 +4213,7 @@
      "more": "In English, I want a coffee sounds a bit pushy. I would like a coffee is nicer. German has the same two levels. möchten is the nice one. You use it in cafés and shops. Step 1: learn ich möchte. Step 2: add -st for du and -t for ihr. Step 3: wir, sie and Sie say möchten. Extra example: Du möchtest Suppe.",
      "lead": "You can use the object with essen and haben. On this card: möchten, the polite way to say would like, and its six forms, so you can say what you want.",
      "deeper": {
-      "text": "möchte is polite because it is softer than ich will, which means I want and sounds hard and demanding. Germans use möchte in shops, cafés and with strangers. Notice that ich and er/sie share the same form, möchte. Also notice the ö: round your lips as if for oo, and then say e.",
+      "text": "How do you make the ö? Say e as in bed, keep your tongue there, and round your lips as for o. That is ö. Without the dots the word changes: mochte, with a plain o, is the past form, meaning liked. So the dots are not decoration. möchte with ö is the polite would like you need in shops.",
       "example": {
        "de": "Leon möchte Suppe.",
        "en": "Leon would like soup.",
@@ -4223,10 +4329,20 @@
         "den Salat",
         "die Wurst",
         "das Ei"
+       ],
+       [
+        "einen Orangensaft",
+        "eine Cola",
+        "ein Bier"
+       ],
+       [
+        "einen Wein",
+        "eine Limonade",
+        "ein Eis"
        ]
       ]
      },
-     "more": "möchten is another hungry verb: it wants an object. What you would like is the thing at the end. So the gender rule applies again. Step 1: which thing do you want? Step 2: say its gender. Step 3: masculine? einen. Anything else? eine or ein. Plural? Nothing. Extra example: Ich möchte Brötchen.",
+     "more": "Imagine the café menu as a list of objects. Whatever you point at is the thing you would like, so it is the object, and the gender rule from the last lessons works again. Nothing new to learn, only to use. Step 1: pick the thing: Kaffee. Step 2: say its gender: der Kaffee. Step 3: masculine, so einen: Ich möchte einen Kaffee. Feminine or neuter? eine or ein. Plural? No article: Ich möchte Brötchen. Extra example: Leon möchte einen Salat und eine Suppe.",
      "lead": "You know the six forms of möchten. On this card: how the object after möchten follows the article change you already know, so you can order a drink or a snack.",
      "deeper": {
       "text": "möchten does the same job as haben or essen: it has an object, and masculine objects change. So you do not learn a new rule here, you use the one you already know. That is the good thing about the accusative: one rule works with many verbs, and it keeps coming back.",
@@ -4356,7 +4472,7 @@
     },
     {
      "title": "Order politely: bitte",
-     "body": "bitte means please. Put it at the end: Ich möchte einen Kaffee, bitte. In a café you can say it short: just the object and bitte. The masculine still says einen.",
+     "body": "bitte means please. Put it at the end: Ich möchte einen Kaffee, bitte. In a café (das Café) you can say it short: just the object and bitte. The masculine still says einen.",
      "examples": [
       {
        "de": "Ich möchte einen Kaffee, bitte.",
@@ -4429,28 +4545,40 @@
        [
         "Ich möchte ein Wasser, bitte.",
         "Ein Wasser, bitte."
+       ],
+       [
+        "Ich möchte einen Kakao, bitte.",
+        "Einen Kakao, bitte."
        ]
       ]
      },
      "more": "At a café the waiter is busy. People often say only what they want, plus bitte. That is a very short sentence: no I, no verb. The thing you want is still the object, so the masculine article still changes: Einen Tee, not Ein Tee. Step 1: pick the thing. Step 2: say its article. Step 3: add bitte. Extra example: Eine Suppe, bitte.",
      "lead": "You can ask and answer. On this card: adding bitte to make an order polite, and the short version you can use at a café counter.",
      "deeper": {
-      "text": "In a café, Einen Kaffee, bitte. is completely natural and not rude. You need only the object, because everyone knows you want it. Notice the comma before bitte, and that the masculine einen is still there. Germans like it short, as long as you add bitte to be friendly.",
+      "text": "Germans also order with nehmen: Ich nehme einen Kaffee, I will have a coffee. And in some places you hear Ich hätte gern einen Kaffee, another very polite order. You do not need to build hätte yet, just recognise it. All three forms take the object, so the masculine einen stays.",
       "example": {
-       "de": "Eine Suppe, bitte.",
-       "en": "A soup, please.",
+       "de": "Ich hätte gern einen Kaffee.",
+       "en": "I would like a coffee.",
        "parts": [
         [
-         "Eine",
+         "Ich",
+         "subject"
+        ],
+        [
+         "hätte",
+         "verb"
+        ],
+        [
+         "gern",
+         "other"
+        ],
+        [
+         "einen",
          "article"
         ],
         [
-         "Suppe,",
-         "noun"
-        ],
-        [
-         "bitte.",
-         "other"
+         "Kaffee.",
+         "object"
         ]
        ]
       }
@@ -4565,10 +4693,10 @@
      "more": "Imagine a bracket. möchte holds the front door in chair number 2, and the second verb holds the back door at the very end. The object sits in the middle. Step 1: möchte in part 2. Step 2: put the object next. Step 3: put the infinitive (essen, trinken, kaufen) last. Never put it right behind möchte. Extra example: Wir möchten Tee trinken.",
      "lead": "You can order politely now. On this card: how a second verb goes to the very end after möchten, so you can say what you would like to do or eat.",
      "deeper": {
-      "text": "The second verb is called the infinitive. It has the ending -en, as in essen and trinken. In the sentence the two verbs make a frame: möchte stands near the front, the infinitive at the very end, and everything else sits between them. You will see this frame again and again.",
+      "text": "Often the second verb is left out when it is clear: Ich möchte einen Kaffee needs no trinken, because everyone knows what you do with coffee. You add the second verb when the action matters, for example kaufen or essen. And if you use nicht, it sits just before the end verb: Ich möchte heute nicht kochen.",
       "example": {
-       "de": "Ich möchte Wasser trinken.",
-       "en": "I would like to drink water.",
+       "de": "Ich möchte heute nicht kochen.",
+       "en": "I would not like to cook today.",
        "parts": [
         [
          "Ich",
@@ -4579,12 +4707,16 @@
          "verb"
         ],
         [
-         "Wasser",
-         "object"
+         "heute",
+         "time"
         ],
         [
-         "trinken.",
-         "verb2"
+         "nicht",
+         "negation"
+        ],
+        [
+         "kochen.",
+         "verb"
         ]
        ]
       }
@@ -4662,7 +4794,7 @@
       "Möchten Sie auch einen Kuchen?",
       "Nein, danke."
      ],
-     "more": "You know du for friends and Sie for strangers from chapter 1. A waiter is a stranger, so you hear Sie. Sie always takes the same verb as wir: möchten. Think of it as a bow: bigger ending, more polite. Step 1: waiter says Was möchten Sie? Step 2: you say Ich möchte and the thing. Step 3: add bitte. Extra example: Möchten Sie einen Tee?",
+     "more": "Think of du and Sie as two doors into the same room. Friends use the du door: Was möchtest du? A waiter, a seller or a teacher like Frau Weber uses the Sie door: Was möchten Sie? Behind the Sie door the verb always looks like the wir form: möchten. Step 1: who are you talking to? Step 2: a stranger or a teacher? Use Sie and möchten. Step 3: answer for yourself with ich möchte. Extra example: Herr Ali, möchten Sie einen Tee?",
      "lead": "This is the last card of the lesson. On this card: the polite Sie form of möchten, as a waiter would ask it, so you can answer a question in a shop or café.",
      "deeper": {
       "text": "Sie takes the same form as wir: möchten. Notice the capital S for the polite Sie, and the small s for she or they. In speech you cannot hear the capital, so the situation tells you. A waiter talking to you means polite Sie, and the verb is then always möchten.",
@@ -5372,7 +5504,7 @@
        ]
       ]
      },
-     "more": "mögen is a verb with a moody umlaut. In ich, du, er/sie it is gone: mag, magst, mag. In wir, ihr, sie it is back: mögen, mögt, mögen. Step 1: ich and er/sie are the same: mag. Step 2: du adds -st. Step 3: the plural looks like the infinitive, with ihr mögt. Extra example: Du magst Fisch.",
+     "more": "English like never changes much: I like, he likes. German mögen has a moody vowel. In the singular it is a plain a: ich mag, du magst, er mag. In the plural the ö comes back: wir mögen, ihr mögt, sie mögen. Picture the ö going home for the plural party. Step 1: singular? Use mag. Step 2: du adds -st. Step 3: plural and Sie keep ö. Extra example: Ihr mögt Kuchen, aber Leon mag Obst.",
      "lead": "You know möchten for what you want now. On this card: mögen, which means to like something in general, and its forms, so you can say what you like.",
      "deeper": {
       "text": "Look at the vowel jump: mag in the singular, mögen in the plural. The Umlaut disappears for ich, du and er. That is just how this verb works, so learn it as a set. Also, ich mag and er mag have no ending at all. You can use mögen for people too, not only food.",
@@ -5516,7 +5648,7 @@
     },
     {
      "title": "mögen or gern?",
-     "body": "Two ways to say the same thing. Ich mag Käse = Ich esse gern Käse. gern goes with another verb. mögen goes straight to the thing. Never use both.",
+     "body": "Two ways to say the same thing. Ich mag Käse = Ich esse gern Käse. gern goes with another verb. mögen goes straight to the thing. Keep them apart.",
      "examples": [
       {
        "de": "Ich mag Fisch.",
@@ -5603,7 +5735,7 @@
      "more": "Two roads, one town. Road one: mögen plus the thing. Road two: another verb plus gern. Both arrive at: I like it. Do not drive on both roads at the same time: Ich mag gern Käse is a traffic jam. Step 1: choose a road. Step 2: build the sentence. Extra example: Ich trinke gern Tee = Ich mag Tee.",
      "lead": "You can say what you like. On this card: two ways to say the same thing, one with mögen and one with gern, in two different sentence shapes, so you do not mix them up.",
      "deeper": {
-      "text": "Never use both: Ich mag gern Käse is wrong. Here is a quick test. If you have an action verb like essen, use gern. If you go straight to the thing, use mögen. In English both give the same idea, like, but German keeps them in two separate shapes.",
+      "text": "Learners often say Ich mag gern Käse. That is wrong: mögen already means like, so gern is not needed. In real talk you will hear one extra pattern: Ich mag Käse sehr gern, with sehr gern at the end, meaning I like it a lot. For now, keep the two roads apart: mögen plus a thing, or another verb plus gern.",
       "example": {
        "de": "Anna isst gern Käse.",
        "en": "Anna likes eating cheese.",
@@ -5848,7 +5980,7 @@
        ]
       ]
      },
-     "more": "gern, then lieber: it is a ladder. gern is good, lieber is better. lieber takes exactly the same seat as gern, right behind the verb and the person. Step 1: write the sentence with gern. Step 2: swap gern for lieber. Now you say what you like more. Extra example: Ich esse gern Käse, aber ich esse lieber Fisch.",
+     "more": "Picture a ladder with two steps. On step one you say gern: I like it. On step two you say lieber: I like it more. Both sit in exactly the same seat, right behind the verb and the person. To compare two things, say the first with gern and the second with lieber, joined by aber. Step 1: Ich trinke gern Kaffee. Step 2: swap in lieber for the winner: Ich trinke lieber Tee. Extra example: Ben isst gern Fisch, aber er isst lieber Käse.",
      "lead": "You can say what you do not like. On this card: lieber, which says you prefer one thing, placed the same way as gern, so you can compare two drinks or foods.",
      "deeper": {
       "text": "lieber is the comparing form of gern, a bit like English rather. gern says you like it, and lieber says you like it more. It is the first time you meet a word that compares. For now, use it in the same place as gern, and name the thing you prefer.",
@@ -5978,7 +6110,7 @@
        ]
       ]
      },
-     "more": "Think of a menu. mögen is your favourite food, the one you always like. möchten is today's order, the one you want now. Step 1: ask yourself: now or always? Step 2: now: möchten. Always: mögen. Both take an object. Extra example: Ich mag Eis. Heute möchte ich ein Eis.",
+     "more": "Imagine your fridge and today's order. The fridge is full of what you like in general: Ich mag Käse. Today's order is one thing for right now: Heute möchte ich eine Suppe. Both verbs look similar, but they answer different questions. Step 1: is it about always? Use mögen, often with no article. Step 2: is it about now? Use möchten, often with einen, eine or ein. Extra example: Leon mag Kaffee, aber jetzt möchte er einen Tee.",
      "lead": "You know both words now. On this card: when to use möchten for right now and mögen for always, so you pick the right one for each sentence.",
      "deeper": {
       "text": "Think of möchten as a moment and mögen as a character trait. Ich möchte einen Tee means I want one right now. Ich mag Tee means I always like it. A waiter asks with möchten, and a friend asks about your taste with mögen. You use both every day.",
@@ -6096,10 +6228,10 @@
        ]
       ]
      },
-     "more": "An adjective is a word that paints the picture: hot, cold, sweet. After sein it stays plain, with no ending, just like a label. Step 1: say the thing (die Suppe). Step 2: say ist. Step 3: add the label (heiß). To say not, put nicht in front of the label. Extra example: Der Kuchen ist süß.",
+     "more": "An adjective is a label you stick on the thing. Hot, cold, sweet, spicy. After ist the label stays plain, with no ending at all. English does the same: The soup is hot. Step 1: name the thing with its article: der Kaffee. Step 2: add ist. Step 3: add the label: heiß. For a no, put nicht just before the label. For a lot, put sehr before it. Extra example: Der Kuchen ist sehr süß, aber der Kaffee ist nicht heiß.",
      "lead": "This is the last card of the lesson. On this card: sein with describing words about food, like hot and cold, so you can say what a food is like.",
      "deeper": {
-      "text": "This is the same sein pattern from chapter 3: no ending after ist. You can also use the small words you know, like sehr and zu, in front of the adjective. They stand in the same place as nicht does, and they never change. So food and places follow exactly the same pattern.",
+      "text": "zu is a warning word: Die Suppe ist zu heiß means it is too hot to eat, so it is a problem. sehr only makes it stronger: sehr heiß is very hot, which can be fine. Germans also say lecker for tasty food, and it is a very common word at the table. These small words stand before the adjective and never change.",
       "example": {
        "de": "Die Suppe ist zu heiß.",
        "en": "The soup is too hot.",
@@ -7097,29 +7229,45 @@
      "more": "Watch the quantity word, not the food. Milch is feminine, but you say einen Liter Milch. Why? Because the word right after ein is Liter, and Liter is masculine. The food comes later and has no article, so its gender does not matter here. Step 1: look at the unit. Step 2: its gender decides. Extra example: Ich kaufe einen Liter Saft.",
      "lead": "You can say no article after a quantity. On this card: how the quantity word itself takes the right article for the object, so you can get einen Liter or ein Kilo right.",
      "deeper": {
-      "text": "The quantity word is the object, so the masculine rule hits the quantity, not the food. Der Liter is masculine, so you say einen Liter. The food after it does not care. So look at the gender of the quantity word: der Liter, das Kilo, die Flasche.",
+      "text": "Unlike English two kilos, German says zwei Kilo, with no plural ending, and the same for Liter, Gramm and Stück. But real containers can be counted, so they take a normal plural: zwei Flaschen, drei Packungen. Die-words that end in -e or -ung almost always add -n or -en in the plural, so Tasse becomes Tassen.",
       "example": {
-       "de": "Ben kauft einen Liter Saft.",
-       "en": "Ben buys a litre of juice.",
+       "de": "Ich kaufe zwei Kilo Äpfel und drei Flaschen Wasser.",
+       "en": "I buy two kilos of apples and three bottles of water.",
        "parts": [
         [
-         "Ben",
+         "Ich",
          "subject"
         ],
         [
-         "kauft",
+         "kaufe",
          "verb"
         ],
         [
-         "einen",
-         "article"
+         "zwei",
+         "other"
         ],
         [
-         "Liter",
-         "noun"
+         "Kilo",
+         "object"
         ],
         [
-         "Saft.",
+         "Äpfel",
+         "object"
+        ],
+        [
+         "und",
+         "other"
+        ],
+        [
+         "drei",
+         "other"
+        ],
+        [
+         "Flaschen",
+         "object"
+        ],
+        [
+         "Wasser.",
          "noun"
         ]
        ]
@@ -7228,7 +7376,7 @@
        ]
       ]
      },
-     "more": "Think of two groups. Group A: Kilo, Gramm, Liter, Stück. They never change. Group B: Flasche, Packung. These are the feminine words. They take -n or -en when there are more than one. Step 1: count. Step 2: one or many? Step 3: group A: same. Group B: add -n. Extra example: Ich brauche vier Liter Wasser.",
+     "more": "Picture the shopping bag again. Some measuring words are like a scale: Kilo, Gramm, Liter, Stück. A number in front does not change them: zwei Kilo, drei Liter, zwei Stück. English adds -s: two kilos, three litres. German does not. The containers are different: you can count bottles and packets, so they take a plural: zwei Flaschen, drei Packungen. Step 1: say the number. Step 2: unit or container? Step 3: only the container gets -n. Extra example: zwei Packungen Reis.",
      "lead": "You know the accusative for quantities. On this card: how numbers change the quantity words, with an -n for some of them, so you can buy two or three of something.",
      "deeper": {
       "text": "After a number, Kilo and Liter stay singular, a bit like English two kilo. Feminine words add -n or -en: Flasche becomes Flaschen, Packung becomes Packungen. Gender knowledge helps here: die words that end in -e or -ung almost always add -n or -en in the plural.",
@@ -7262,7 +7410,7 @@
     },
     {
      "title": "Ask the price: Was kostet …?",
-     "body": "Was kostet …? and Wie viel kostet …? both ask the price. kostet for one thing, kosten for more than one. The thing is the subject, so der stays der: Was kostet der Käse?",
+     "body": "Was kostet …? and Wie viel kostet …? both ask the price (der Preis). kostet for one thing, kosten for more than one. The thing is the subject, so der stays der: Was kostet der Käse?",
      "examples": [
       {
        "de": "Was kostet der Käse?",
@@ -7345,26 +7493,30 @@
      "more": "A price question is about the thing, not about you. The thing is the star, the subject, so it keeps der. It is not an object like in Ich esse den Käse. Step 1: ask Was kostet or Wie viel kostet. Step 2: say the thing with der, die or das. Step 3: one thing? kostet. Many things? kosten. Extra example: Was kostet das Brötchen?",
      "lead": "You can say how much you buy. On this card: asking the price with Was kostet and Wie viel kostet, and the change for many things, so you can ask what something costs.",
      "deeper": {
-      "text": "kostet ends in -t because the thing is er, sie or es, so it is the subject. For several things you say kosten. Notice that the thing is the subject, not an object, so der stays der. You ask Was kostet der Käse? and never Was kostet den Käse?",
+      "text": "At the till the seller tells you the total with machen: Das macht drei Euro fünfzig. That means: that comes to 3,50 euros. You can also ask Was macht das? for the total. And Wie teuer ist der Käse? asks how expensive the cheese is. Answer every price question with the thing as the subject and kostet or macht.",
       "example": {
-       "de": "Was kostet das Brot?",
-       "en": "How much is the bread?",
+       "de": "Das macht drei Euro fünfzig.",
+       "en": "That comes to three euros fifty.",
        "parts": [
         [
-         "Was",
-         "question"
+         "Das",
+         "subject"
         ],
         [
-         "kostet",
+         "macht",
          "verb"
         ],
         [
-         "das",
-         "article"
+         "drei",
+         "other"
         ],
         [
-         "Brot?",
+         "Euro",
          "noun"
+        ],
+        [
+         "fünfzig.",
+         "other"
         ]
        ]
       }
@@ -7492,7 +7644,7 @@
    "media": {
     "grammarVideos": [
      "yt:IaySny0-VtI",
-     "yt:_rVOg5l7BPY"
+     "yt:o7f26S6Gmo4"
     ],
     "nicosWeg": [
      "nw:a1-49",
@@ -8460,29 +8612,45 @@
        ]
       ]
      },
-     "more": "nehmen has a small twist: for du and er/sie the stem changes to nimm-. The word looks like a different verb, but it is not. Step 1: ich, wir, ihr, sie keep neh-: nehme, nehmen, nehmt. Step 2: du and er/sie use nimm-: nimmst, nimmt. Step 3: the thing you take is the object. Extra example: Was nimmst du?",
+     "more": "Imagine pointing at the cheese counter and deciding. In English you say I will take the cheese. German uses the present: Ich nehme den Käse. No will needed. nehmen is a little odd in the du and er/sie forms: the e turns into i and the h turns into mm: du nimmst, er nimmt. Step 1: ich, wir, ihr, sie keep neh-. Step 2: du and er/sie use nimm-. Step 3: the thing you take is the object. Extra example: Ben nimmt einen Saft.",
      "lead": "You can say where you buy things. On this card: nehmen, which means to take and which you use when you decide to buy, with its irregular forms.",
      "deeper": {
-      "text": "nehmen changes two things in the du and er forms: the e becomes i, and the h becomes mm. So ich nehme, but du nimmst and er nimmt. The wir form is regular again: wir nehmen. Say the forms out loud a few times, and the odd spelling will start to feel normal.",
+      "text": "In a shop or a café, Ich nehme … is the normal way to decide, not rude at all. German uses the present tense for a decision you make right now, where English says I will take or I'll have. So Ich nehme die Suppe is a full order. Friends also ask Was nimmst du? when they look at a menu together.",
       "example": {
-       "de": "Leon nimmt eine Banane.",
-       "en": "Leon takes a banana.",
+       "de": "Was nimmst du? – Ich nehme die Suppe.",
+       "en": "What are you having? – I will have the soup.",
        "parts": [
         [
-         "Leon",
-         "subject"
+         "Was",
+         "question"
         ],
         [
-         "nimmt",
+         "nimmst",
          "verb"
         ],
         [
-         "eine",
+         "du?",
+         "subject"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "nehme",
+         "verb"
+        ],
+        [
+         "die",
          "article"
         ],
         [
-         "Banane.",
-         "noun"
+         "Suppe.",
+         "object"
         ]
        ]
       }
@@ -8690,7 +8858,7 @@
     },
     {
      "title": "The shopping list",
-     "body": "A shopping list has no full sentences. Write the quantity and the food: 1 Kilo Äpfel, 1 Liter Milch. No articles. To say it, begin: Ich brauche …",
+     "body": "A shopping list (die Liste) has no full sentences. Write the quantity and the food: 1 Kilo Äpfel, 1 Liter Milch. No articles. To say it, begin: Ich brauche …",
      "examples": [
       {
        "de": "Ich brauche ein Kilo Äpfel, einen Liter Milch und eine Packung Reis.",
@@ -9515,7 +9683,7 @@
        ]
       ]
      },
-     "more": "A day has three meal-stations. Morning: Frühstück. Middle of the day: Mittag, so Mittagessen. Evening: Abend, so Abendessen. The second half, essen, you know: it means eating. All three words are das. Step 1: say the three words in order. Step 2: link each one to a time of day. Extra example: Das Frühstück ist gut.",
+     "more": "Think of a German day as three plates on a table. The morning plate is das Frühstück: rolls, butter, coffee. The noon plate is das Mittagessen. The evening plate is das Abendessen. For many Germans the evening plate is cold: bread, cheese and sausage, often called Abendbrot. Step 1: learn the three words with das. Step 2: link each to its time of day. Step 3: name one typical food for each. Extra example: Zum Abendessen esse ich Brot und Käse.",
      "lead": "You can talk about shopping now. On this card: the three meals of the day, all of them das-words, so you can name breakfast, lunch and dinner.",
      "deeper": {
       "text": "Mittagessen is a compound: Mittag (noon) plus Essen (food). Abendessen is Abend plus Essen. German builds long words from short ones, and the last part decides the gender. Essen is a das-word, so the whole word is das. Frühstück is its own word, and it is also das.",
@@ -9641,7 +9809,7 @@
        ]
       ]
      },
-     "more": "Think of zum as the word for for when you talk about meals. zum Frühstück means for breakfast. Do not take it apart. Learn the three pieces as three friends: zum Frühstück, zum Mittagessen, zum Abendessen. Step 1: say the verb. Step 2: add the piece. Step 3: add the object. Extra example: Mira isst zum Mittagessen Fisch.",
+     "more": "In English you say for breakfast, for lunch, for dinner. German uses zum in the same place: zum Frühstück, zum Mittagessen, zum Abendessen. Do not swap it for für, because für Frühstück sounds wrong. Picture zum as a small label you glue to the meal. Step 1: say the verb and the person. Step 2: add the zum piece. Step 3: add what you eat. Or start with the zum piece and put the verb second. Extra example: Ben trinkt zum Abendessen Tee.",
      "lead": "You know the three meals. On this card: how to say what you eat for a meal, with zum before the meal, so you can name food for each one.",
      "deeper": {
       "text": "zum is zu and dem squeezed together, just like im. Das Frühstück is a das-word, so zu dem becomes zum. In English you say for breakfast. German chooses zu instead of for. Notice that zum comes before the meal and that the meal never changes.",
@@ -10000,26 +10168,22 @@
      "more": "A good way to learn is to ask and answer. The question word starts: was or wann. The verb is part 2. The person comes next. The time word comes last, after the person. In the answer you can put the time first: Zum Frühstück esse ich Müsli. Step 1: ask. Step 2: answer with ich. Extra example: Wann frühstückst du? – Am Sonntag.",
      "lead": "You can put the time first. On this card: asking what someone eats and when they eat it, so you can ask a friend about their day.",
      "deeper": {
-      "text": "You can ask about one thing in three ways: what, what and when, or when only. Wann frühstückst du? uses the verb frühstücken, which is made from the noun Frühstück and means to have breakfast. The answer begins with the time word, and the verb stays in part 2.",
+      "text": "You can make a verb from the noun Frühstück: frühstücken, to have breakfast. It is a regular verb: ich frühstücke, du frühstückst. It needs no object. For lunch and dinner there is no such verb, so Germans say zu Mittag essen and zu Abend essen. Wann frühstückst du? asks the time, and the answer usually starts with the time word.",
       "example": {
-       "de": "Wann trinkst du Kaffee?",
-       "en": "When do you drink coffee?",
+       "de": "Ich frühstücke morgens.",
+       "en": "I have breakfast in the morning.",
        "parts": [
         [
-         "Wann",
-         "question"
-        ],
-        [
-         "trinkst",
-         "verb"
-        ],
-        [
-         "du",
+         "Ich",
          "subject"
         ],
         [
-         "Kaffee?",
-         "object"
+         "frühstücke",
+         "verb"
+        ],
+        [
+         "morgens.",
+         "time"
         ]
        ]
       }
@@ -10159,7 +10323,7 @@
    "media": {
     "grammarVideos": [
      "yt:0QZDtyKj7a8",
-     "yt:A3kDyxMO2xI"
+     "yt:W7ntnruGJ9k"
     ],
     "nicosWeg": [
      "nw:a1-30"
@@ -10816,6 +10980,24 @@
          "object"
         ]
        ]
+      },
+      {
+       "de": "Möchtest du probieren?",
+       "en": "Would you like to try it?",
+       "parts": [
+        [
+         "Möchtest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "probieren?",
+         "verb2"
+        ]
+       ]
       }
      ],
      "table": {
@@ -10835,6 +11017,10 @@
        [
         "two friends (ihr)",
         "Möchtet ihr einen Tee?"
+       ],
+       [
+        "a guest (der Gast) at a party (die Party)",
+        "Möchtest du probieren?"
        ]
       ]
      },
@@ -10868,7 +11054,7 @@
     },
     {
      "title": "Say yes: Ja, gern. Ja, bitte.",
-     "body": "To accept, say Ja, gern. (yes, with pleasure) or Ja, bitte. (yes, please). Both sound friendly. You can add a full sentence: Ja, ich nehme einen Kuchen.",
+     "body": "To accept, say Ja, gern. (yes, with pleasure) or Ja, bitte. (yes, please). Both sound friendly. You can add a full sentence: Ja, ich nehme einen Kaffee.",
      "examples": [
       {
        "de": "Ja, gern.",
@@ -10901,8 +11087,8 @@
        ]
       },
       {
-       "de": "Ja, ich nehme einen Kuchen.",
-       "en": "Yes, I take a cake.",
+       "de": "Ja, ich nehme einen Kaffee.",
+       "en": "Yes, I will have a coffee.",
        "why": "ja + a full sentence.",
        "parts": [
         [
@@ -10918,7 +11104,7 @@
          "verb"
         ],
         [
-         "einen Kuchen.",
+         "einen Kaffee.",
          "object"
         ]
        ]
@@ -10927,10 +11113,10 @@
      "steps": [
       "Möchtest du einen Tee?",
       "Ja, gern.",
-      "Möchtest du einen Kuchen?",
+      "Möchtest du ein Stück Kuchen?",
       "Ja, bitte."
      ],
-     "more": "Think of two doors that open for yes. Door one: Ja, gern. It means yes, I would love that. Door two: Ja, bitte. It means yes, please. Both are fine. If you want more, add a sentence with nehmen: Ja, ich nehme einen Kuchen. Step 1: choose gern or bitte. Step 2: stop here, or add a sentence. Extra example: Ja, gern. Ich nehme ein Stück.",
+     "more": "Think of two doors that open for yes. Door one: Ja, gern. It means yes, I would love that. Door two: Ja, bitte. It means yes, please. Both are fine. If you want more, add a sentence with nehmen: Ja, ich nehme einen Kaffee. Step 1: choose gern or bitte. Step 2: stop here, or add a sentence. Extra example: Ja, gern. Ich nehme ein Stück.",
      "lead": "You can offer things. On this card: two friendly ways to say yes, so you can accept an offer and sound warm.",
      "deeper": {
       "text": "Ja, gern means yes, with pleasure, so you really want it. Ja, bitte is simply yes, please. Both are warm. Notice that gern now stands alone, with no verb. You used it after a verb before, but it can also answer a question by itself. You can add a full sentence after it.",
@@ -11065,6 +11251,10 @@
        [
         "full",
         "Ich bin satt."
+       ],
+       [
+        "had enough",
+        "Ich habe genug."
        ]
       ]
      },
@@ -11641,10 +11831,10 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Yes, I take a cake.",
+     "prompt": "Build: Yes, I will have a coffee.",
      "tokens": [
       "nehme",
-      "Kuchen.",
+      "Kaffee.",
       "ich",
       "einen",
       "Ja,"
@@ -11654,10 +11844,10 @@
       "ich",
       "nehme",
       "einen",
-      "Kuchen."
+      "Kaffee."
      ],
-     "hint": "Kuchen is masculine: einen.",
-     "explanation": "Ja, + ich + nehme + einen Kuchen.",
+     "hint": "Kaffee is masculine: einen.",
+     "explanation": "Ja, + ich + nehme + einen Kaffee.",
      "grammar": true
     },
     {
@@ -11886,7 +12076,7 @@
    "day": 1,
    "reading": {
     "title": "Wir essen zusammen",
-    "text": "Mira: Hallo, Leon! Am Sonntag essen wir zusammen. Was brauchen wir?\nLeon: Ich habe einen Kühlschrank, aber der Kühlschrank ist leer.\nMira: Wir brauchen Brötchen. Ich kaufe die Brötchen.\nLeon: Gut! Ich esse gern Käse und Schinken. Ich kaufe den Käse und den Schinken.\nMira: Ich esse keinen Schinken, und ich esse keine Wurst. Ich esse Tomaten und Eier.\nLeon: Hast du einen Teller? Ich habe keinen Teller.\nMira: Ja, ich habe zwei Teller und einen Löffel.\nLeon: Super! Was trinkst du?\nMira: Ich trinke Kaffee. Du trinkst Tee, ja? Und Ben trinkt Saft.\nLeon: Ja! Ich kaufe den Saft.",
+    "text": "Mira: Hallo, Ben! Am Sonntag essen wir zusammen. Was brauchen wir?\nBen: Ich habe einen Kühlschrank, aber der Kühlschrank ist leer.\nMira: Wir brauchen Brötchen. Ich kaufe die Brötchen.\nBen: Gut! Ich esse gern Käse und Schinken. Ich kaufe den Käse und den Schinken.\nMira: Ich esse keinen Schinken, und ich esse keine Wurst. Ich esse Tomaten und Eier.\nBen: Hast du einen Teller? Ich habe keinen Teller.\nMira: Ja, ich habe zwei Teller und einen Löffel.\nBen: Super! Was trinkst du?\nMira: Ich trinke Kaffee. Du trinkst Tee, ja? Und Anna trinkt Saft.\nBen: Ja! Ich kaufe den Saft.",
     "glossary": [
      {
       "de": "zusammen",
@@ -11900,7 +12090,7 @@
     "questions": [
      {
       "type": "choice",
-      "prompt": "When do Mira and Leon eat together?",
+      "prompt": "When do Mira and Ben eat together?",
       "options": [
        "on Saturday",
        "on Sunday",
@@ -11912,13 +12102,13 @@
      },
      {
       "type": "choice",
-      "prompt": "What is wrong with Leon's fridge?",
+      "prompt": "What is wrong with Ben's fridge?",
       "options": [
        "It is new.",
        "It is empty."
       ],
       "answer": 1,
-      "hint": "Look at Leon's first line. Check the word list for leer.",
+      "hint": "Look at Ben's first line. Check the word list for leer.",
       "explanation": "Der Kühlschrank ist leer."
      },
      {
@@ -11935,14 +12125,14 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon like to eat?",
+      "prompt": "What does Ben like to eat?",
       "options": [
        "cheese and ham",
        "fish",
        "soup"
       ],
       "answer": 0,
-      "hint": "Look for gern in Leon's lines.",
+      "hint": "Look for gern in Ben's lines.",
       "explanation": "Ich esse gern Käse und Schinken."
      },
      {
@@ -11974,11 +12164,11 @@
       "prompt": "Who has no plate?",
       "options": [
        "Mira",
-       "Leon"
+       "Ben"
       ],
       "answer": 1,
       "hint": "Look for keinen Teller.",
-      "explanation": "Leon: Ich habe keinen Teller."
+      "explanation": "Ben: Ich habe keinen Teller."
      },
      {
       "type": "choice",
@@ -11988,7 +12178,7 @@
        "two plates and a spoon"
       ],
       "answer": 1,
-      "hint": "Read Mira's answer to Leon's question.",
+      "hint": "Read Mira's answer to Ben's question.",
       "explanation": "Ich habe zwei Teller und einen Löffel."
      },
      {
@@ -12005,21 +12195,21 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon buy at the end?",
+      "prompt": "What does Ben buy at the end?",
       "options": [
        "the tea",
        "the coffee",
        "the juice"
       ],
       "answer": 2,
-      "hint": "Look at Leon's last line.",
+      "hint": "Look at Ben's last line.",
       "explanation": "Ich kaufe den Saft."
      }
     ]
    },
    "listening": {
     "title": "Suppe für Ben",
-    "script": "Anna: Hallo, Ben! Ich koche heute Suppe. Was brauche ich?\nBen: Du brauchst Kartoffeln und eine Tomate. Hast du Kartoffeln?\nAnna: Nein, ich habe keine Kartoffeln. Ich kaufe die Kartoffeln.\nBen: Und Fleisch? Isst du gern Fleisch?\nAnna: Nein, ich esse kein Fleisch. Ich esse gern Käse.\nBen: Hast du einen Löffel? Ich habe keinen Löffel.\nAnna: Ja, ich habe einen Löffel und eine Gabel. Hast du Hunger?\nBen: Ja, ich habe Hunger und Durst. Was trinkst du?\nAnna: Ich trinke Wasser. Du trinkst Saft, ja?\nBen: Ja, super! Die Suppe ist lecker!",
+    "script": "Anna: Hallo, Ben! Ich koche heute Suppe. Was brauche ich?\nBen: Du brauchst Kartoffeln und eine Tomate. Hast du Kartoffeln?\nAnna: Nein, ich habe keine Kartoffeln. Ich kaufe die Kartoffeln.\nBen: Und Fleisch? Isst du gern Fleisch?\nAnna: Nein, ich esse kein Fleisch. Ich esse gern Käse.\nBen: Hast du einen Löffel? Ich habe keinen Löffel.\nAnna: Ja, ich habe einen Löffel und eine Gabel. Hast du Hunger?\nBen: Ja, ich habe Hunger und Durst. Was trinkst du?\nAnna: Ich trinke Wasser. Du trinkst Saft, ja?\nBen: Ja, super! Danke, Anna!",
     "questions": [
      {
       "type": "choice",
@@ -12184,21 +12374,21 @@
      },
      {
       "type": "build",
-      "prompt": "Build: Leon buys the cheese.",
+      "prompt": "Build: Ben buys the cheese.",
       "tokens": [
        "kauft",
        "den",
        "Käse.",
-       "Leon"
+       "Ben"
       ],
       "answer": [
-       "Leon",
+       "Ben",
        "kauft",
        "den",
        "Käse."
       ],
       "hint": "Käse is masculine and it is the object.",
-      "explanation": "Leon kauft den Käse.",
+      "explanation": "Ben kauft den Käse.",
       "grammar": true
      },
      {
@@ -12249,9 +12439,9 @@
      }
     ],
     "free": {
-     "prompt": "You are Mira. Write 4 short sentences: say what you buy, what you like to eat, what you do not eat, and ask Leon if he has a plate.",
+     "prompt": "You are Mira. Write 4 short sentences: say what you buy, what you like to eat, what you do not eat, and ask Ben if he has a plate.",
      "minWords": 15,
-     "model": "Ich kaufe die Brötchen und den Saft. Ich esse gern Käse und Tomaten. Ich esse keinen Schinken. Hast du einen Teller, Leon?",
+     "model": "Ich kaufe die Brötchen und den Saft. Ich esse gern Käse und Tomaten. Ich esse keinen Schinken. Hast du einen Teller, Ben?",
      "checks": [
       {
        "label": "says what you buy with kaufen + object",
@@ -12262,7 +12452,7 @@
        "pattern": "\\bkein(en|e)?\\b"
       },
       {
-       "label": "asks Leon a yes/no question about a plate",
+       "label": "asks Ben a yes/no question about a plate",
        "pattern": "\\bhast du (einen )?teller\\b"
       }
      ]
@@ -12276,11 +12466,11 @@
    "day": 2,
    "reading": {
     "title": "Auf dem Markt",
-    "text": "Herr Ali: Guten Tag! Was möchten Sie?\nMira: Guten Tag! Ich möchte ein Kilo Äpfel, bitte. Was kostet das Kilo?\nHerr Ali: Das Kilo kostet zwei Euro fünfzig.\nMira: Gut. Und ich möchte 200 Gramm Käse. Ist der Käse scharf?\nHerr Ali: Nein, der Käse ist nicht scharf. Er ist frisch.\nMira: Super! Und eine Flasche Wasser, bitte. Ich habe Durst.\nHerr Ali: Hier, bitte. Möchten Sie auch ein Stück Kuchen? Der Kuchen ist süß.\nMira: Nein, danke. Ich mag keinen Kuchen. Ich esse lieber Käse.\nHerr Ali: Gut! Das Wasser kostet achtzig Cent.\nMira: Danke! Tschüss!",
+    "text": "Verkäufer: Guten Tag! Was möchten Sie?\nMira: Guten Tag! Ich möchte ein Kilo Äpfel, bitte. Was kostet das Kilo?\nVerkäufer: Das Kilo kostet zwei Euro fünfzig.\nMira: Gut. Und ich möchte 200 Gramm Käse. Ist der Käse scharf?\nVerkäufer: Nein, der Käse ist nicht scharf. Er ist frisch.\nMira: Super! Und eine Flasche Wasser, bitte. Ich habe Durst.\nVerkäufer: Hier, bitte. Möchten Sie auch ein Stück Kuchen? Der Kuchen ist süß.\nMira: Nein, danke. Ich mag keinen Kuchen. Ich esse lieber Käse.\nVerkäufer: Gut! Das Wasser kostet achtzig Cent.\nMira: Danke! Tschüss!",
     "glossary": [
      {
-      "de": "Herr Ali",
-      "en": "a seller at the market"
+      "de": "der Verkäufer",
+      "en": "the seller"
      },
      {
       "de": "Was möchten Sie?",
@@ -12290,15 +12480,15 @@
     "questions": [
      {
       "type": "choice",
-      "prompt": "Who sells the food?",
+      "prompt": "Who buys the food?",
       "options": [
        "Leon",
        "Ben",
-       "Herr Ali"
+       "Mira"
       ],
       "answer": 2,
       "hint": "Look at the first speaker.",
-      "explanation": "Herr Ali asks: Was möchten Sie?"
+      "explanation": "Mira asks for apples: Ich möchte ein Kilo Äpfel."
      },
      {
       "type": "choice",
@@ -12320,7 +12510,7 @@
        "3,50 €"
       ],
       "answer": 0,
-      "hint": "Look at Herr Ali's first answer.",
+      "hint": "Look at the seller's first answer.",
       "explanation": "Zwei Euro fünfzig."
      },
      {
@@ -12337,7 +12527,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali say about the cheese?",
+      "prompt": "What does the seller say about the cheese?",
       "options": [
        "It is sweet.",
        "It is fresh and not spicy."
@@ -12359,7 +12549,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali offer?",
+      "prompt": "What does the seller offer?",
       "options": [
        "a piece of cake",
        "an ice cream"
@@ -12399,14 +12589,14 @@
        "80 cents"
       ],
       "answer": 2,
-      "hint": "Read Herr Ali's last line.",
+      "hint": "Read the seller's last line.",
       "explanation": "Achtzig Cent."
      }
     ]
    },
    "listening": {
     "title": "Im Laden",
-    "script": "Leon: Guten Tag, Frau Weber! Was kostet der Joghurt?\nFrau Weber: Der Joghurt kostet sechzig Cent. Möchten Sie einen Joghurt?\nLeon: Ja, ich möchte zwei Joghurts, bitte. Und ich brauche eine Packung Reis. Was kostet der Reis?\nFrau Weber: Die Packung kostet drei Euro. Der Reis ist gut.\nLeon: Danke! Und ich möchte ein Brötchen, bitte.\nFrau Weber: Hier, bitte. Mögen Sie Eier? Die Eier sind frisch.\nLeon: Ja, ich mag Eier. Ich möchte sechs Eier, bitte.\nFrau Weber: Hier, bitte. Tschüss, Leon!\nLeon: Tschüss, Frau Weber!",
+    "script": "Leon: Guten Tag! Was kostet der Joghurt?\nVerkäuferin: Der Joghurt kostet sechzig Cent. Möchten Sie einen Joghurt?\nLeon: Ja, ich möchte zwei Joghurts, bitte. Und ich brauche eine Packung Reis. Was kostet der Reis?\nVerkäuferin: Die Packung kostet drei Euro. Der Reis ist gut.\nLeon: Danke! Und ich möchte ein Brötchen, bitte.\nVerkäuferin: Hier, bitte. Mögen Sie Eier? Die Eier sind frisch.\nLeon: Ja, ich mag Eier. Ich möchte sechs Eier, bitte.\nVerkäuferin: Hier, bitte. Tschüss!\nLeon: Tschüss!",
     "questions": [
      {
       "type": "choice",
@@ -12428,7 +12618,7 @@
        "3 euros"
       ],
       "answer": 1,
-      "hint": "Listen to Frau Weber's first answer.",
+      "hint": "Listen to the seller's first answer.",
       "explanation": "Sechzig Cent."
      },
      {
@@ -12441,7 +12631,7 @@
       ],
       "answer": 2,
       "hint": "Listen for the number.",
-      "explanation": "Ich möchte zwei Joghurt."
+      "explanation": "Ich möchte zwei Joghurts."
      },
      {
       "type": "choice",
@@ -12479,7 +12669,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Frau Weber ask?",
+      "prompt": "What does the seller ask?",
       "options": [
        "if he has a spoon",
        "if he likes eggs"
@@ -12513,7 +12703,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How does Frau Weber speak to Leon?",
+      "prompt": "How does the seller speak to Leon?",
       "options": [
        "polite (Sie)",
        "friendly (du)"
@@ -12667,11 +12857,11 @@
    "day": 3,
    "reading": {
     "title": "Frühstück im Café",
-    "text": "Herr Ali: Guten Morgen! Was möchten Sie?\nMira: Guten Morgen! Zum Frühstück möchte ich ein Brötchen mit Butter und einen Kaffee, bitte.\nHerr Ali: Gut. Und Sie?\nBen: Ich möchte ein Müsli und einen Orangensaft. Ich esse morgens immer Müsli.\nHerr Ali: Möchten Sie auch ein Ei?\nBen: Nein, danke. Ich mag keine Eier. Aber ich nehme Obst.\nHerr Ali: Hier, bitte. Guten Appetit!\nMira: Danke, gleichfalls! Der Kaffee ist heiß.\nBen: Mira, möchtest du noch ein Brötchen?\nMira: Nein, danke. Ich bin satt.",
+    "text": "Kellner: Guten Morgen! Was möchten Sie?\nMira: Guten Morgen! Zum Frühstück möchte ich ein Brötchen mit Butter und einen Kaffee, bitte.\nKellner: Gut. Und Sie?\nBen: Ich möchte ein Müsli und einen Orangensaft. Ich esse morgens immer Müsli.\nKellner: Möchten Sie auch ein Ei?\nBen: Nein, danke. Ich mag keine Eier. Aber ich nehme Obst.\nKellner: Hier, bitte. Guten Appetit!\nMira: Danke, gleichfalls! Der Kaffee ist heiß.\nBen: Mira, möchtest du noch ein Brötchen?\nMira: Nein, danke. Ich bin satt.",
     "glossary": [
      {
-      "de": "Herr Ali",
-      "en": "here: the waiter in the café"
+      "de": "der Kellner",
+      "en": "the waiter"
      },
      {
       "de": "Und Sie?",
@@ -12737,7 +12927,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali offer Ben?",
+      "prompt": "What does the waiter offer Ben?",
       "options": [
        "a cake",
        "an egg"
@@ -12794,7 +12984,7 @@
    },
    "listening": {
     "title": "Das Abendessen",
-    "script": "Anna: Guten Abend! Ich möchte eine Suppe und ein Wasser, bitte.\nFrau Weber: Gut. Und Sie?\nLeon: Ich nehme einen Salat und ein Stück Kuchen. Und ich möchte eine Cola, bitte.\nFrau Weber: Hier, bitte. Guten Appetit!\nAnna: Danke, gleichfalls! Prost, Leon!\nLeon: Prost! Die Suppe ist heiß, Anna.\nAnna: Ja, aber sie ist lecker. Möchtest du probieren?\nLeon: Nein, danke. Ich mag keine Suppe. Aber der Kuchen ist süß. Möchtest du ein Stück?\nAnna: Ja, bitte! Ich esse gern Kuchen.",
+    "script": "Anna: Guten Abend! Ich möchte eine Suppe und ein Wasser, bitte.\nKellnerin: Gut. Und Sie?\nBen: Ich nehme einen Salat und ein Stück Kuchen. Und ich möchte eine Cola, bitte.\nKellnerin: Hier, bitte. Guten Appetit!\nAnna: Danke, gleichfalls! Prost, Ben!\nBen: Prost! Die Suppe ist heiß, Anna.\nAnna: Ja, aber sie ist lecker. Möchtest du probieren?\nBen: Nein, danke. Ich mag keine Suppe. Aber der Kuchen ist süß. Möchtest du ein Stück?\nAnna: Ja, bitte! Ich esse gern Kuchen.",
     "questions": [
      {
       "type": "choice",
@@ -12821,18 +13011,18 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon take to eat?",
+      "prompt": "What does Ben take to eat?",
       "options": [
        "a soup and a roll",
        "a salad and a piece of cake"
       ],
       "answer": 1,
-      "hint": "Listen to Leon's first order.",
+      "hint": "Listen to Ben's first order.",
       "explanation": "Einen Salat und ein Stück Kuchen."
      },
      {
       "type": "choice",
-      "prompt": "What does Leon order to drink?",
+      "prompt": "What does Ben order to drink?",
       "options": [
        "juice",
        "cola",
@@ -12844,7 +13034,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Frau Weber say?",
+      "prompt": "What does the waitress say?",
       "options": [
        "Enjoy your meal!",
        "Cheers!"
@@ -12855,7 +13045,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What do Anna and Leon say when they drink?",
+      "prompt": "What do Anna and Ben say when they drink?",
       "options": [
        "Prost",
        "Danke"
@@ -12872,12 +13062,12 @@
        "the soup"
       ],
       "answer": 1,
-      "hint": "Listen to Leon's second line.",
+      "hint": "Listen to Ben's second line.",
       "explanation": "Die Suppe ist heiß."
      },
      {
       "type": "choice",
-      "prompt": "Does Leon like soup?",
+      "prompt": "Does Ben like soup?",
       "options": [
        "no",
        "yes"
@@ -12888,13 +13078,13 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon offer Anna?",
+      "prompt": "What does Ben offer Anna?",
       "options": [
        "a salad",
        "a piece of cake"
       ],
       "answer": 1,
-      "hint": "Listen to Leon's last line.",
+      "hint": "Listen to Ben's last line.",
       "explanation": "Möchtest du ein Stück?"
      },
      {
