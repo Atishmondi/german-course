@@ -132,7 +132,7 @@
        "why": "New today: solltest is friendly advice."
       }
      ],
-     "more": "Think of a friend who says: I am so tired. You can say Du musst schlafen (like an order), or Du solltest mehr schlafen (like a kind tip). Sollte is the kind tip. It looks like a modal verb you know: the verb sollte stays in position 2 and the second verb waits at the end."
+     "more": "Picture two friends on a sofa. Ben says: I am so tired, I cannot learn. Friend one says Du musst schlafen! That sounds like a parent giving an order. Friend two says Du solltest mehr schlafen. That sounds like a kind tip with a smile. Today you learn to be friend two. Good news: the sentence is built like Du kannst den Bus nehmen. You only swap kannst for solltest, and the second verb still waits at the end."
     },
     {
      "title": "Ben has a Lernproblem: ten words for learning",
@@ -242,7 +242,7 @@
        ]
       }
      },
-     "more": "Read the table row by row. On the left is the word, on the right a short sentence that uses it. You do not need advice words yet. First just name the problem, like a doctor who looks before giving medicine. Learn each word together with its article, because the article belongs to the word.",
+     "more": "Think of a doctor. Before giving any medicine, the doctor first asks: where does it hurt? Learning problems are the same. Before you can give a tip, you need words for what is wrong: no Konzentration, a bad Gedächtnis, no Motivation, too little Lernzeit. Then come the words for the fix: nachschlagen, a Vokabelheft, a Lerntipp, a Ratschlag. Say every noun with its article, out loud, twice: der Ratschlag, das Gedächtnis. The article is part of the word, like a surname.",
      "table": {
       "headers": [
        "Word",
@@ -357,10 +357,10 @@
       }
      ],
      "deeper": {
-      "text": "Advice with sollte is not an order. It says: this would be good for you. Because it is friendly, you can add vielleicht (maybe) to make it even softer. The new word just goes after the verb, like any other part of the sentence, and the infinitive still waits at the end.",
+      "text": "Careful with English: we say you ought to sleep, with to. German never puts zu after sollte. Du solltest zu schlafen is wrong; the infinitive stands alone at the end, just like after kannst or musst. You can also make the tip softer with vielleicht (maybe) right after the verb. Germans do this a lot when they give advice to someone they do not know well.",
       "example": {
-       "de": "Du solltest vielleicht mehr trinken.",
-       "en": "Maybe you should drink more.",
+       "de": "Du solltest vielleicht mehr Wasser trinken.",
+       "en": "Maybe you should drink more water.",
        "parts": [
         [
          "Du",
@@ -379,13 +379,17 @@
          "other"
         ],
         [
+         "Wasser",
+         "object"
+        ],
+        [
          "trinken.",
          "verb2"
         ]
        ]
       }
      },
-     "more": "Build the sentence in four steps, like Lego. First the person. Then sollte or solltest. Then the rest, such as mehr or früher. At the very end comes the infinitive: schlafen, anfangen, machen. If the infinitive is not last, the sentence sounds wrong. Say it three times, then you will hear it.",
+     "more": "English and German do this almost the same way. English says: you should sleep more. German says: du solltest mehr schlafen. The only big difference is the place of the second verb. In English, sleep stands right after should. In German, schlafen walks to the very end of the sentence, behind mehr, früher or eine Pause. Imagine the infinitive is a shy guest who always sits in the last chair. Everything else sits between sollte and that last chair.",
      "table": {
       "headers": [
        "Who",
@@ -495,10 +499,10 @@
       }
      ],
      "deeper": {
-      "text": "Ich sollte is the sentence of every learner at 11 p.m.: Ich sollte jetzt lernen! It is advice to yourself, and the word jetzt shows it is about now. The forms you have seen today with ich, du and er are enough for now: in the next lesson you will learn wir, ihr and Sie.",
+      "text": "Native speakers often add eigentlich (actually) to ich sollte. Ich sollte eigentlich lernen means: I really ought to study, but I am not doing it. It is the classic sentence of a tired learner at night, and it often goes on with aber. So ich sollte is not only advice for others; it is also a small, honest complaint about yourself.",
       "example": {
-       "de": "Ich sollte mehr Wörter lernen.",
-       "en": "I should learn more words.",
+       "de": "Ich sollte eigentlich lernen, aber ich bin so müde.",
+       "en": "I really ought to study, but I am so tired.",
        "parts": [
         [
          "Ich",
@@ -509,21 +513,37 @@
          "konj2"
         ],
         [
-         "mehr",
+         "eigentlich",
          "other"
         ],
         [
-         "Wörter",
-         "object"
+         "lernen,",
+         "verb2"
         ],
         [
-         "lernen.",
-         "verb2"
+         "aber",
+         "conjunction"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "bin",
+         "verb"
+        ],
+        [
+         "so",
+         "other"
+        ],
+        [
+         "müde.",
+         "adjective"
         ]
        ]
       }
      },
-     "more": "Compare the three rows. For sollte you add -te to the stem soll-. Können has an umlaut in könnte because the verb can be spelled with ö. Sollen has an o, so sollte stays with o. A learner sometimes writes Du söllst or Du söllte: both are wrong. The right form is Du solltest. Only könnte gets the ö.",
+     "more": "Sollte is built like a past tense: stem soll + te, then the normal past endings. Ich sollte, du solltest, er sollte. Ich and er look the same, just like ich konnte and er konnte. Now the spelling trap. Könnte gets dots because its past konnte gets an umlaut in the Konjunktiv II. Sollen never gets dots, in no form at all, the same as wollen (wollte). So söllte does not exist. If you see dots on soll-, it is always a mistake.",
      "table": {
       "headers": [
        "",
@@ -681,7 +701,7 @@
        ]
       }
      },
-     "more": "Think of three little characters. Soll is the boss: he gives orders now. Sollte in the past is a history teacher: he talks about earlier days. Sollte in advice is a kind friend: he gives a tip. They all spell almost the same, so look for the time word. Früher or gestern means history teacher. No time word and a friend: kind tip.",
+     "more": "Picture three people at a table. Soll is the messenger: someone else wants something, and he passes it on now. Sollte in the past is the storyteller: he tells you what you were supposed to do back then, with words like früher or gestern. Sollte for advice is the kind friend: he gives a tip for today or tomorrow. All three look almost the same, so look around the verb. A past time word means the storyteller. No past word and a tip means the friend.",
      "table": {
       "headers": [
        "Form",
@@ -832,7 +852,7 @@
        ]
       }
      },
-     "more": "Look at the steps: first the person and sollte. Then the middle. Then nicht. Last, the infinitive. If nicht comes after the infinitive, the sentence is wrong. The infinitive is always the last stone of the bridge, and nicht stands in front of it. Aufschieben is one word even though it has two parts.",
+     "more": "Think of nicht as a small stop sign that you put right in front of the action you want to stop. The action is the infinitive at the end: aufschieben, lernen, nachschlagen. So the order is: person, solltest, the middle part, nicht, infinitive. English puts not after should: you should not put it off. German puts nicht further back, close to the last verb. A quick test: say the sentence and check that the infinitive is the very last word.",
      "table": {
       "headers": [
        "Wrong",
@@ -1021,28 +1041,35 @@
       }
      ],
      "deeper": {
-      "text": "When you give advice in real life, you often start with a question: Wann lernst du? Then you know the problem. A good talk has three parts: the problem, the advice, the thanks. You can answer with Danke für den Tipp! You will learn more reactions in lesson 3.",
+      "text": "Look at Mira's question: Wann lernst du denn? The little word denn adds no new meaning. It makes a question sound interested and friendly, not like a test. Germans use it all the time when they ask about a problem. Without denn, Wann lernst du? can sound a bit cold. Use denn only in questions, never in advice sentences.",
       "example": {
-       "de": "Das mache ich!",
-       "en": "I will do that!",
+       "de": "Was ist denn los, Ben?",
+       "en": "What's the matter, Ben?",
        "parts": [
         [
-         "Das",
-         "object"
+         "Was",
+         "question"
         ],
         [
-         "mache",
+         "ist",
          "verb"
         ],
         [
-         "ich!",
-         "subject"
+         "denn",
+         "other"
+        ],
+        [
+         "los,",
+         "other"
+        ],
+        [
+         "Ben?",
+         "other"
         ]
-       ],
-       "why": "Ben reacts"
+       ]
       }
      },
-     "more": "Read it like a play with two actors. Ben has a problem, Mira has two tips. Her tips both use solltest and an infinitive at the end: lernen and schlafen. Then Ben says thanks. You can practise by changing the tips: use nachschlagen or aufschieben instead.",
+     "more": "Read the dialogue like a short play with two actors. Ben brings the problem. Mira first asks a question, because a good friend listens before giving advice. Then she gives two tips, both with solltest and the infinitive at the end. Ben closes with Danke für den Tipp! Now play it again and change the tips yourself: Du solltest das Wort nachschlagen, Du solltest nicht alles aufschieben. Same frame, new tips. That is exactly how real conversations work.",
      "steps": [
       "The problem: Ich kann mich nicht konzentrieren.",
       "A question: Wann lernst du denn?",
@@ -1053,10 +1080,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:XxZupuS7aXo"
+     "yt:XxZupuS7aXo",
+     "yt:dP27rNxH0H4"
     ],
     "nicosWeg": [
-     "nw:b1-16"
+     "nw:b1-16",
+     "nw:a2-11"
     ],
     "practice": []
    },
@@ -1065,11 +1094,11 @@
      "type": "choice",
      "prompt": "Friendly advice: Ben ___ früher anfangen.",
      "options": [
+      "sollte",
       "sollen",
-      "söllte",
-      "sollte"
+      "söllte"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Sollte has no umlaut.",
      "explanation": "Ben sollte früher anfangen.",
      "grammar": true
@@ -1101,11 +1130,11 @@
      "type": "choice",
      "prompt": "Der Lehrer sagt, ich ___ mehr lesen. (someone else wants it now)",
      "options": [
-      "soll",
       "sollte",
-      "solltest"
+      "solltest",
+      "soll"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Someone else wants it now: present.",
      "explanation": "Der Lehrer sagt, ich soll mehr lesen.",
      "grammar": true
@@ -1180,10 +1209,10 @@
      "prompt": "Gestern sollte ich früh schlafen. What does sollte mean here?",
      "options": [
       "I should (advice)",
-      "I must",
-      "I was supposed to (past)"
+      "I was supposed to (past)",
+      "I must"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Look at the time word gestern.",
      "explanation": "Gestern points to the past: I was supposed to.",
      "grammar": true
@@ -1193,10 +1222,10 @@
      "prompt": "Which sentence is friendly advice for today?",
      "options": [
       "Früher sollte ich viel üben.",
-      "Du solltest heute eine Pause machen.",
-      "Der Lehrer sagt, ich soll lesen."
+      "Der Lehrer sagt, ich soll lesen.",
+      "Du solltest heute eine Pause machen."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "No past time word, and a tip for you.",
      "explanation": "Du solltest heute eine Pause machen.",
      "grammar": true
@@ -1259,11 +1288,11 @@
      "type": "choice",
      "prompt": "Which spelling is right?",
      "options": [
-      "sollte",
       "söllte",
+      "sollte",
       "sölte"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sollen has no umlaut.",
      "explanation": "Sollte has no umlaut.",
      "grammar": true
@@ -1309,10 +1338,10 @@
      "prompt": "Ben gives you a tip. What do you say?",
      "options": [
       "Keine Angst!",
-      "Gute Besserung!",
-      "Danke für den Tipp!"
+      "Danke für den Tipp!",
+      "Gute Besserung!"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "You thank him for the tip.",
      "explanation": "Danke für den Tipp!",
      "grammar": false
@@ -1647,7 +1676,7 @@
        "why": "New today: ihr solltet."
       }
      ],
-     "more": "Advice is not only for one friend. Sometimes you give a tip to a group (ihr), to a stranger (Sie) or you ask for a tip yourself. The tip itself always looks the same: sollte in position 2 and the infinitive at the end. Only the ending of sollte changes with the person, just like with any other verb."
+     "more": "Imagine the WG kitchen the evening before Ben's exam. Mira talks to Ben alone: du solltest. Then she turns to Ben and Anna together: ihr solltet. Then Frau Weber knocks on the door, and Mira is polite: Sie sollten. Later Ben asks: Was sollte ich tun? Four situations, one idea. The frame never moves: sollte-form in position 2, infinitive at the end. Only the small ending on sollte changes, like a name badge for each person."
     },
     {
      "title": "Die Klausur: words for exam time",
@@ -1730,31 +1759,31 @@
       }
      ],
      "deeper": {
-      "text": "Many German nouns are compounds: Prüfung + Angst = Prüfungsangst, Lampe + Fieber = Lampenfieber. The last part decides the article: die Angst, so die Prüfungsangst. The first part tells you what kind: anxiety about exams. When you see a long word, split it and you will usually know all the parts.",
+      "text": "Look closely at the joints of long nouns. Prüfung + Angst gets a small s in the middle: Prüfungsangst. Lampe + Fieber gets an n: Lampenfieber. Germans call this a joining sound; it only helps you say the word. Words ending in -ung almost always take that s, as in Zeitungsartikel. The last part still decides the article: die Angst, so die Prüfungsangst.",
       "example": {
-       "de": "Die Prüfungsangst ist groß.",
-       "en": "The exam anxiety is big.",
+       "de": "Ben hat oft Prüfungsangst.",
+       "en": "Ben often has exam anxiety.",
        "parts": [
         [
-         "Die",
-         "article"
+         "Ben",
+         "subject"
         ],
         [
-         "Prüfungsangst",
-         "noun"
-        ],
-        [
-         "ist",
+         "hat",
          "verb"
         ],
         [
-         "groß.",
-         "adjective"
+         "oft",
+         "time"
+        ],
+        [
+         "Prüfungsangst.",
+         "object"
         ]
        ]
       }
      },
-     "more": "Read each row of the table: the word on the left, a short sentence on the right. Say the sentence aloud. Then replace one word with another from the list, for example Ich schreibe eine Karteikarte. Always learn the article with the word, because the article is part of the word.",
+     "more": "Think of exam time as a little film in three scenes. Scene one, planning: der Lernplan, der Zeitplan, die Lerngruppe. Scene two, learning: die Karteikarte, die Notiz, die Wiederholung. Scene three, the day itself: die Klausur, die Aufregung, die Prüfungsangst, and Lampenfieber if you must speak in front of people. Sort the words into the three scenes in your head. Words in a little story stick much better than words in a long list.",
      "table": {
       "headers": [
        "Word",
@@ -1917,7 +1946,7 @@
        ]
       }
      },
-     "more": "Say the table aloud, line by line, with a rhythm: ich sollte, du solltest, er sollte, wir sollten, ihr solltet, sie sollten. Four endings only: nothing (ich, er), -st (du), -n (wir, sie), -t (ihr). The ihr form is the one learners forget: it is solltet, not sollten.",
+     "more": "Look at the endings like four little hats. Ich and er wear no hat: sollte. Du wears -st: solltest. Wir and sie wear -n: sollten. Ihr wears -t: solltet. English needs only one form, should, for everybody, so German feels like more work. But you already know these hats from the past of modal verbs: ich konnte, ihr konntet. Say the six forms aloud with a clap on each ending, and ihr solltet will stop sounding strange.",
      "table": {
       "headers": [
        "Person",
@@ -2094,7 +2123,7 @@
        ]
       }
      },
-     "more": "Three different people, three forms. To one friend: du solltest. To several friends: ihr solltet. To one or several people you address politely: Sie sollten. Choose the person first, then the ending. If you are not sure whether to use du or Sie, use Sie. That is never rude.",
+     "more": "Think of three doors. The du door is for one friend, a child or family. The ihr door is for a group of friends. The Sie door is for a stranger, a teacher, a neighbour like Frau Weber, a doctor. Behind the Sie door the verb is always sollten, exactly like sie (they). The only difference is the big S. In speech you cannot hear the capital, so the situation tells you who is meant: one adult you address politely, or a group of other people.",
      "table": {
       "headers": [
        "Who?",
@@ -2247,7 +2276,7 @@
        ]
       }
      },
-     "more": "Questions with sollte are like questions with können: the verb moves to the front, or to position 2 after a question word. The person stays, and the second verb waits at the end. Do not say Was ich sollte tun? The verb must be in position 2 right after the W-word: Was sollte ich tun?",
+     "more": "A question is the same sentence with the furniture moved. Statement: Ich sollte eine Lerngruppe suchen. Yes/no question: Sollte ich eine Lerngruppe suchen? The verb jumps to the front. With a question word, the word takes the first seat and the verb sits in seat two: Was sollte ich tun? Wann sollte ich anfangen? In every version, the infinitive stays on the last chair. English does the same jump: I should go becomes Should I go?",
      "table": {
       "headers": [
        "Question",
@@ -2400,7 +2429,7 @@
        ]
       }
      },
-     "more": "Kein means not a. It replaces ein or the empty space before a noun: Kaffee (nothing before it) becomes keinen Kaffee. Nicht denies the rest: a verb, an adjective, or a noun that has der, die or das. If you can say not a or no before the noun in English, use kein.",
+     "more": "Use a quick test from English. If you would say no coffee or not a coffee, German uses kein: keinen Kaffee, keine Angst. If you would say not plus a verb, or the noun already has the, German uses nicht: nicht warten, die Karteikarten nicht vergessen. So kein sits right in front of a noun like a little lid. Nicht stands before the action at the end. And kein takes the same endings as ein: keinen for der-words in the accusative.",
      "table": {
       "headers": [
        "Use",
@@ -2475,7 +2504,7 @@
       },
       {
        "de": "Du solltest lieber früh schlafen.",
-       "en": "You should rather sleep early.",
+       "en": "You had better go to bed early.",
        "parts": [
         [
          "Du",
@@ -2575,36 +2604,39 @@
       }
      ],
      "deeper": {
-      "text": "Lieber is a small word with a big effect. Without it: Du solltest eine Pause machen. With it: Du solltest lieber eine Pause machen. The second sentence says: instead of what you are doing, take a break. You will meet lieber again with the other verbs. For now remember it as a softener for advice.",
+      "text": "Lieber is not a new word; it is the comparative of gern. You know Ich trinke gern Tee. Ich trinke lieber Tee means: I prefer tea. In advice, lieber carries that same idea of a better choice: Du solltest lieber schlafen says sleep instead of what you are doing now. So lieber always hides a comparison, even when the other option is not said.",
       "example": {
-       "de": "Sie sollten lieber früh schlafen.",
-       "en": "You should rather sleep early.",
+       "de": "Ich trinke lieber Tee als Kaffee.",
+       "en": "I prefer tea to coffee.",
        "parts": [
         [
-         "Sie",
+         "Ich",
          "subject"
         ],
         [
-         "sollten",
-         "konj2"
+         "trinke",
+         "verb"
         ],
         [
          "lieber",
          "other"
         ],
         [
-         "früh",
-         "time"
+         "Tee",
+         "object"
         ],
         [
-         "schlafen.",
-         "verb2"
+         "als",
+         "conjunction"
+        ],
+        [
+         "Kaffee.",
+         "noun"
         ]
-       ],
-       "why": "Polite."
+       ]
       }
      },
-     "more": "Practise this dialogue with a friend or aloud alone. Ben has a problem, Anna gives a short tip. Then Ben asks a yes/no question and Anna answers. Notice how the infinitive always sits at the end: schlafen, tun, suchen. Replace the tip with your own advice to practise.",
+     "more": "Imagine the dialogue as a ping-pong match. Ben serves the problem: Ich habe Prüfungsangst. Anna hits back with a tip. Ben asks a yes/no question, Anna answers short: Ja, das solltest du. Each sentence is a type you learned today: statement, question with sollte, advice, short answer. Read it aloud twice, once as Ben and once as Anna. Then change one tip, for example Du solltest lieber Karteikarten schreiben, and play the match again.",
      "steps": [
       "The problem: Ich habe Prüfungsangst.",
       "Ask: Was sollte ich tun?",
@@ -2616,10 +2648,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:ggZnDWlMBJ8"
+     "yt:ggZnDWlMBJ8",
+     "yt:uMlagwZP9dw"
     ],
     "nicosWeg": [
-     "nw:b1-15"
+     "nw:b1-15",
+     "nw:a2-04"
     ],
     "practice": []
    },
@@ -2628,11 +2662,11 @@
      "type": "choice",
      "prompt": "Ihr ___ früher anfangen.",
      "options": [
-      "solltet",
       "sollten",
-      "solltest"
+      "solltest",
+      "solltet"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Ihr takes -t.",
      "explanation": "Ihr solltet früher anfangen.",
      "grammar": true
@@ -2641,11 +2675,11 @@
      "type": "choice",
      "prompt": "What is die Klausur?",
      "options": [
+      "written exam",
       "study group",
-      "index card",
-      "written exam"
+      "index card"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Think of Ben's exam in two weeks.",
      "explanation": "Die Klausur = written exam.",
      "grammar": false
@@ -2709,10 +2743,10 @@
      "prompt": "Which question is right?",
      "options": [
       "Was ich sollte tun?",
-      "Was sollte tun ich?",
-      "Was sollte ich tun?"
+      "Was sollte ich tun?",
+      "Was sollte tun ich?"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Sollte in position 2, tun at the end.",
      "explanation": "Was sollte ich tun?",
      "grammar": true
@@ -2721,11 +2755,11 @@
      "type": "choice",
      "prompt": "Which word means study group?",
      "options": [
-      "die Lerngruppe",
       "der Zeitplan",
-      "die Notiz"
+      "die Notiz",
+      "die Lerngruppe"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Lernen + Gruppe.",
      "explanation": "Die Lerngruppe = study group.",
      "grammar": false
@@ -2746,11 +2780,11 @@
      "type": "choice",
      "prompt": "Ben und Anna ___ mehr üben.",
      "options": [
-      "sollte",
       "sollten",
+      "sollte",
       "solltet"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Two names: sie-form.",
      "explanation": "Ben und Anna sollten mehr üben.",
      "grammar": true
@@ -2769,11 +2803,11 @@
      "type": "choice",
      "prompt": "Which sentence is polite advice for Herr Ali?",
      "options": [
-      "Sie sollten mehr üben.",
       "Du solltest mehr üben.",
+      "Sie sollten mehr üben.",
       "Ihr solltet mehr üben."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Polite: Sie.",
      "explanation": "Sie sollten mehr üben.",
      "grammar": true
@@ -2826,11 +2860,11 @@
      "type": "choice",
      "prompt": "Ihr solltet ___ Angst haben.",
      "options": [
-      "nicht",
       "keine",
+      "nicht",
       "kein"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Angst is feminine: keine.",
      "explanation": "Ihr solltet keine Angst haben.",
      "grammar": true
@@ -3008,8 +3042,8 @@
      "en": "stage fright",
      "examples": [
       {
-       "de": "Mira hat vor der Prüfung Lampenfieber.",
-       "en": "Mira has stage fright before the exam."
+       "de": "Mira hat vor dem Konzert Lampenfieber.",
+       "en": "Mira has stage fright before the concert."
       },
       {
        "de": "Ich habe heute Lampenfieber.",
@@ -3027,8 +3061,8 @@
        "en": "Before the exam the nerves are big."
       },
       {
-       "de": "Anna hat viel Aufregung.",
-       "en": "Anna has a lot of excitement."
+       "de": "Nach der Klausur ist die Aufregung vorbei.",
+       "en": "After the exam the nerves are gone."
       }
      ],
      "forms": "die Aufregungen"
@@ -3051,7 +3085,8 @@
      "type": "type",
      "prompt": "Write in German: Yesterday I was at home.",
      "answers": [
-      "Gestern war ich zu Hause."
+      "Gestern war ich zu Hause.",
+      "Ich war gestern zu Hause."
      ],
      "hint": "Past of sein: war.",
      "explanation": "Gestern war ich zu Hause.",
@@ -3234,7 +3269,7 @@
        "why": "New today: sollte at the very end."
       }
      ],
-     "more": "In a side sentence the finite verb always goes to the very end. You know this from weil and dass. With sollte there are two verbs: the infinitive (üben) and sollte. They both go to the end, and the finite one, sollte, takes the very last place. You saw exactly the same with könnte in chapter 5."
+     "more": "Picture three tools in a box. Tool one: a longer sentence. Instead of a short Du solltest mehr üben, you say Ich finde, dass du mehr üben solltest. It sounds more personal, like your own opinion. Tool two: a strength dial, from Du musst (a rule) down to Du kannst (just possible). Tool three: answers to a tip, like Gute Idee! The good news: the side-sentence rule is old. Dass sends the verb to the end, as always."
     },
     {
      "title": "Wörter für das Lernen: methods and habits",
@@ -3295,7 +3330,7 @@
       },
       {
        "de": "Eine Eselsbrücke hilft mir.",
-       "en": "A memory trick helps the memory.",
+       "en": "A memory trick helps me.",
        "parts": [
         [
          "Eine",
@@ -3317,13 +3352,13 @@
       }
      ],
      "deeper": {
-      "text": "Auswendig comes from the old idea of knowing something so well that you do not need the book: it is not outside (auswendig) but inside your head. You use it with lernen or können: Ich kann die Wörter auswendig. Eselsbrücke literally means donkey bridge: a bridge helps the donkey cross, the Eselsbrücke helps you remember.",
+      "text": "Auswendig originally meant from the outside: you can say the text without looking into the book. It goes with two verbs. Ich lerne die Wörter auswendig describes the work. Ich kann die Wörter auswendig describes the result: I know them by heart. Eselsbrücke literally means donkey bridge: a little bridge that gets a stubborn donkey across a stream, and gets your memory across a hard word.",
       "example": {
-       "de": "Ich kann die Wörter auswendig.",
-       "en": "I know the words by heart.",
+       "de": "Mira kann den Text auswendig.",
+       "en": "Mira knows the text by heart.",
        "parts": [
         [
-         "Ich",
+         "Mira",
          "subject"
         ],
         [
@@ -3331,11 +3366,11 @@
          "verb"
         ],
         [
-         "die",
+         "den",
          "article"
         ],
         [
-         "Wörter",
+         "Text",
          "object"
         ],
         [
@@ -3345,7 +3380,7 @@
        ]
       }
      },
-     "more": "Learn each word with its small example sentence. Then ask yourself: which Lerntyp am I? Do I learn with pictures, with sound or by writing? Your answer tells you which Methode to try. Then use ausprobieren: do not only talk about methods, try them for a week and look at your Fortschritt.",
+     "more": "Think of learning like cooking. Everybody has a different kitchen: that is your Lerntyp. The recipe you follow is the Methode or Lernstrategie. Doing it every day turns it into a Gewohnheit. Then you taste the result: Fortschritt, and in the end Lernerfolg. Dessert is the Belohnung. An Eselsbrücke is a little kitchen trick that saves time. Ausprobieren means trying a new recipe for a week. Auswendig means you can cook it without the book.",
      "table": {
       "headers": [
        "Word",
@@ -3512,9 +3547,9 @@
       }
      ],
      "deeper": {
-      "text": "Compare the main sentence and the side sentence. In the main sentence sollte is in position 2: Du solltest mehr üben. After dass the whole verb group jumps to the end and turns around: first the infinitive, then sollte. You will hear the same order in Ich glaube, dass ihr früher anfangen solltet.",
+      "text": "In everyday speech, many Germans leave out dass after Ich finde and Ich glaube. Then the second part keeps normal main-sentence order: Ich finde, du solltest mehr üben. Both versions are correct. With dass the verb goes to the end; without dass it stays in position 2. Never mix the two: Ich finde, dass du solltest mehr üben is wrong.",
       "example": {
-       "de": "Ich glaube, dass ihr früher anfangen solltet.",
+       "de": "Ich finde, du solltest früher anfangen.",
        "en": "I think you should start earlier.",
        "parts": [
         [
@@ -3522,33 +3557,29 @@
          "subject"
         ],
         [
-         "glaube,",
+         "finde,",
          "verb"
         ],
         [
-         "dass",
-         "conjunction"
+         "du",
+         "subject"
         ],
         [
-         "ihr",
-         "subject"
+         "solltest",
+         "konj2"
         ],
         [
          "früher",
          "time"
         ],
         [
-         "anfangen",
+         "anfangen.",
          "verb2"
-        ],
-        [
-         "solltet.",
-         "konj2"
         ]
        ]
       }
      },
-     "more": "Think of a train. The engine of the sentence, sollte, is at the very back this time. The infinitive wagon comes before it. So in a side sentence the finite verb is always last. If you build the sentence from the main sentence, just push both verbs to the end and put sollte last.",
+     "more": "Think of a train where the engine is at the back. In a normal sentence the engine, solltest, is the second carriage. After dass, the whole verb group rolls to the end and the engine goes last: dass du mehr üben solltest. English keeps should in the middle: that you should practise more. German waits. A simple method: build the short sentence first, Du solltest mehr üben. Then add Ich finde, dass, and push solltest behind üben.",
      "table": {
       "headers": [
        "Main sentence",
@@ -3705,41 +3736,41 @@
       }
      ],
      "deeper": {
-      "text": "Sollte also appears in weil sentences: Ich sage das, weil du mehr schlafen solltest. The pattern is always the same: any connector (dass, weil, ob) sends the verbs to the end, and sollte is last. After a wenn sentence at the front, remember the verb comes next: Wenn …, solltest du … The wenn sentence counts as position 1.",
+      "text": "English uses if for two different German words. When you mean in case or whenever, use wenn: Wenn du müde bist, … When you mean whether, a hidden yes/no question, use ob: Ich weiß nicht, ob … A quick test: if you can say whether in English, German needs ob. Both send the verbs to the end of their part of the sentence.",
       "example": {
-       "de": "Ich sage das, weil du mehr schlafen solltest.",
-       "en": "I say that because you should sleep more.",
+       "de": "Ich weiß nicht, ob ich heute lernen sollte.",
+       "en": "I don't know whether I should study today.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "sage",
+         "weiß",
          "verb"
         ],
         [
-         "das,",
-         "object"
+         "nicht,",
+         "negation"
         ],
         [
-         "weil",
+         "ob",
          "conjunction"
         ],
         [
-         "du",
+         "ich",
          "subject"
         ],
         [
-         "mehr",
-         "other"
+         "heute",
+         "time"
         ],
         [
-         "schlafen",
+         "lernen",
          "verb2"
         ],
         [
-         "solltest.",
+         "sollte.",
          "konj2"
         ]
        ]
@@ -3903,7 +3934,7 @@
        "why": "Imperative: direct."
       }
      },
-     "more": "Think of a traffic light. Du musst is red: stop, this is a rule. Du solltest is orange: it would be wise. Du könntest is green with a smile: here is an idea. Du kannst is green: you are allowed. In an advice situation, most of the time you want orange or green. Red is only for real rules.",
+     "more": "Think of a traffic light with an extra light. Du musst is red: a rule, no choice, like Du musst pünktlich kommen. Du solltest is orange: wise advice. Du könntest is a soft green: just an idea you can take or leave. Du kannst is plain green: you are allowed, it is possible. In English it is the same ladder: must, should, could, can. Most of the time, a friend giving advice stays on orange or soft green.",
      "table": {
       "headers": [
        "Verb",
@@ -3985,7 +4016,7 @@
       },
       {
        "de": "Das habe ich schon probiert, aber es hat nicht geholfen.",
-       "en": "I have tried that already, but it does not help.",
+       "en": "I have tried that already, but it did not help.",
        "parts": [
         [
          "Das",
@@ -4061,7 +4092,7 @@
        "why": "Asks for more."
       }
      },
-     "more": "Read the table as a menu. Left: the reaction. Right: when to use it. At home practise with a friend: one person gives a tip, the other picks a reaction from the menu. After a few rounds you will find that Gute Idee! and Danke, das mache ich. are the ones you use most.",
+     "more": "Imagine a menu in a café: you choose the reaction that fits your feeling. Like the tip? Gute Idee! Want to test it? Das probiere ich aus. Already tried it? Das habe ich schon probiert, aber es hat nicht geholfen. Will follow it? Danke, das mache ich. Not convinced? Hm, ich weiß nicht. In English you would also never stay silent after a tip. Learn two of these by heart today, and you can survive every advice conversation.",
      "table": {
       "headers": [
        "Reaction",
@@ -4323,21 +4354,21 @@
       }
      ],
      "deeper": {
-      "text": "Each frame has its own word order. Mein Tipp: is followed by an imperative. Es ist wichtig, dass … sends the verb to the end. Am besten starts a main sentence, so the verb comes second: Am besten lernst du morgens. Mix the frames and your advice will not sound like a list of the same sentence.",
+      "text": "Am besten is the top step of gut, besser, am besten. So Am besten lernst du morgens literally says: you learn best in the morning. Germans use it all the time instead of sollte, because it sounds like shared experience, not a lecture. Am besten takes position 1, so the verb comes next and the subject follows it.",
       "example": {
-       "de": "Am besten lernst du morgens.",
-       "en": "It is best if you study in the morning.",
+       "de": "Am besten fragst du Frau Weber.",
+       "en": "It's best to ask Frau Weber.",
        "parts": [
         [
          "Am",
-         "adjective"
+         "other"
         ],
         [
          "besten",
          "adjective"
         ],
         [
-         "lernst",
+         "fragst",
          "verb"
         ],
         [
@@ -4345,13 +4376,17 @@
          "subject"
         ],
         [
-         "morgens.",
-         "time"
+         "Frau",
+         "object"
+        ],
+        [
+         "Weber.",
+         "object"
         ]
        ]
       }
      },
-     "more": "In real life you do not use only sollte. A good tip giver uses two or three frames. Ben finally decides: Dann mache ich heute einen Lernplan. That is the goal: a person who hears advice, thinks about it and does something. Try writing your own three tips with three different frames.",
+     "more": "Good advice is like a good meal: not every dish has the same taste. If you say Du solltest five times, it sounds like a list from a teacher. So mix frames. Mein Tipp: Mach einen Lernplan! is short and direct. Es ist wichtig, dass du jeden Tag lernst sounds serious. Am besten lernst du morgens sounds like experience. Read the dialogue and find each frame. Then write three tips for Ben, each with a different frame.",
      "steps": [
       "Mein Tipp: + imperative",
       "Es ist wichtig, dass … + verb at the end",
@@ -4362,10 +4397,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:86nyv-GqxCQ"
+     "yt:86nyv-GqxCQ",
+     "yt:sZQT-qtiueQ"
     ],
     "nicosWeg": [
-     "nw:b1-35"
+     "nw:b1-35",
+     "nw:a2-03"
     ],
     "practice": []
    },
@@ -4374,11 +4411,11 @@
      "type": "choice",
      "prompt": "Ich finde, dass du mehr üben ___.",
      "options": [
+      "solltest",
       "sollten",
-      "sollte",
-      "solltest"
+      "sollte"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The subject is du.",
      "explanation": "Ich finde, dass du mehr üben solltest.",
      "grammar": true
@@ -4387,11 +4424,11 @@
      "type": "choice",
      "prompt": "Which sentence is right?",
      "options": [
-      "Ich finde, dass du mehr üben solltest.",
       "Ich finde, dass du solltest mehr üben.",
+      "Ich finde, dass du mehr üben solltest.",
       "Ich finde, dass du mehr solltest üben."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sollte goes last.",
      "explanation": "Ich finde, dass du mehr üben solltest.",
      "grammar": true
@@ -4460,11 +4497,11 @@
      "type": "choice",
      "prompt": "Which sentence is a rule?",
      "options": [
+      "Du musst eine Pause machen.",
       "Du solltest eine Pause machen.",
-      "Du könntest eine Pause machen.",
-      "Du musst eine Pause machen."
+      "Du könntest eine Pause machen."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "A rule leaves no choice.",
      "explanation": "Du musst eine Pause machen.",
      "grammar": true
@@ -4474,10 +4511,10 @@
      "prompt": "A friend gives you a tip you like. What do you say?",
      "options": [
       "Hm, ich weiß nicht.",
-      "Das habe ich schon probiert.",
-      "Gute Idee!"
+      "Gute Idee!",
+      "Das habe ich schon probiert."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "You like it.",
      "explanation": "Gute Idee!",
      "grammar": false
@@ -4499,11 +4536,11 @@
      "type": "choice",
      "prompt": "Wenn du müde bist, ___ du eine Pause machen.",
      "options": [
-      "solltest",
       "du solltest",
-      "sollst du"
+      "sollst du",
+      "solltest"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "After the wenn part comes the verb.",
      "explanation": "Wenn du müde bist, solltest du eine Pause machen.",
      "grammar": true
@@ -4575,11 +4612,11 @@
      "type": "choice",
      "prompt": "Which side sentence is right?",
      "options": [
-      "Ich finde, dass ihr früher anfangen solltet.",
       "Ich finde, dass ihr früher solltet anfangen.",
+      "Ich finde, dass ihr früher anfangen solltet.",
       "Ich finde, dass solltet ihr früher anfangen."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sollte goes last.",
      "explanation": "Ich finde, dass ihr früher anfangen solltet.",
      "grammar": true
@@ -4598,11 +4635,11 @@
      "type": "choice",
      "prompt": "What is die Gewohnheit?",
      "options": [
-      "habit",
       "progress",
-      "method"
+      "method",
+      "habit"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "A thing you do every day.",
      "explanation": "Die Gewohnheit = habit.",
      "grammar": false
@@ -4611,11 +4648,11 @@
      "type": "choice",
      "prompt": "Ben says: Das habe ich schon probiert, aber … What does he mean?",
      "options": [
-      "He thanks you.",
       "He tried it already, but it did not help.",
+      "He thanks you.",
       "He will try it tomorrow."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Schon probiert = already tried.",
      "explanation": "He tried it already.",
      "grammar": true
@@ -4625,10 +4662,10 @@
      "prompt": "The course rule: Du ___ pünktlich kommen.",
      "options": [
       "solltest",
-      "kannst",
-      "musst"
+      "musst",
+      "kannst"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "A rule needs musst.",
      "explanation": "Du musst pünktlich kommen.",
      "grammar": true
@@ -5240,34 +5277,34 @@
       }
      ],
      "deeper": {
-      "text": "The three words Was für ein stay together like one block. Nothing goes between them. The block can also open an indirect question from chapter 7: then the verb goes to the end. Notice that the noun stays right behind ein, and only ist moves. The block itself never breaks apart, in any sentence you build.",
+      "text": "In writing, Was für ein stays together. In speech, Germans very often split it: Was ist das für ein Kurs? Was für moves to the front, the verb comes second, and für ein + noun goes behind das. Both versions mean the same and both are correct. You will hear the split one in every course office, so learn to recognise it now.",
       "example": {
-       "de": "Weißt du, was für ein Kurs das ist?",
-       "en": "Do you know what kind of course that is?",
+       "de": "Was ist das für ein Kurs?",
+       "en": "What kind of course is that?",
        "parts": [
         [
-         "Weißt",
-         "verb"
-        ],
-        [
-         "du,",
-         "subject"
-        ],
-        [
-         "was für ein",
+         "Was",
          "question"
         ],
         [
-         "Kurs",
-         "noun"
+         "ist",
+         "verb"
         ],
         [
          "das",
          "subject"
         ],
         [
-         "ist?",
-         "verbend"
+         "für",
+         "question"
+        ],
+        [
+         "ein",
+         "article"
+        ],
+        [
+         "Kurs?",
+         "noun"
         ]
        ]
       }
@@ -5405,7 +5442,7 @@
        ]
       }
      },
-     "more": "Do a quick check. Look at the verb before the noun. Is it ist? Then use ein. Is it machen, suchen, brauchen or haben? Then use einen for a der-word. For die-words and das-words nothing changes, so you cannot make a mistake with eine and ein. A trap to remember: Was für ein Buch machst du? is fine, because ein is also the accusative of the das-word. But Was für ein Kurs machst du? is wrong. Say einen Kurs.",
+     "more": "Do a quick check. Look at the verb before the noun. Is it ist? Then use ein. Is it machen, suchen, brauchen or haben? Then use einen for a der-word. For die-words and das-words nothing changes, so you cannot make a mistake with eine and ein. A trap to remember: Was für ein Lehrbuch brauchst du? is fine, because ein is also the accusative of the das-word. But Was für ein Kurs machst du? is wrong. Say einen Kurs.",
      "table": {
       "headers": [
        "Verb",
@@ -5771,34 +5808,26 @@
       }
      ],
      "deeper": {
-      "text": "Answers can add a small phrase with für or aus. For example: Kurse für Anfänger or Musik aus Italien. These phrases stay without an article too. The question stays Was für and the noun. It is the same pattern as with ein, only the little word ein is missing. In plural questions the noun carries the number, so nothing else changes.",
+      "text": "Was für ein also works as an exclamation, with no question at all: Was für ein Tag! means What a day! Germans say it when something is very good or very bad, and the voice goes down at the end, not up. The adjective endings stay the same as in the answers you practised: ein schöner Tag, eine tolle Idee.",
       "example": {
-       "de": "Ich höre gern Musik aus Italien.",
-       "en": "I like listening to music from Italy.",
+       "de": "Was für ein schöner Tag!",
+       "en": "What a beautiful day!",
        "parts": [
         [
-         "Ich",
-         "subject"
+         "Was für ein",
+         "question"
         ],
         [
-         "höre",
-         "verb"
+         "schön",
+         "adjective"
         ],
         [
-         "gern",
-         "other"
+         "er",
+         "ending"
         ],
         [
-         "Musik",
+         "Tag!",
          "noun"
-        ],
-        [
-         "aus",
-         "preposition"
-        ],
-        [
-         "Italien.",
-         "place"
         ]
        ]
       }
@@ -5840,10 +5869,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:Y_8VbBOjJJw"
+     "yt:Y_8VbBOjJJw",
+     "yt:cCEnhEDLmIk"
     ],
     "nicosWeg": [
-     "nw:a2-62"
+     "nw:a2-62",
+     "nw:a2-57"
     ],
     "practice": []
    },
@@ -5852,11 +5883,11 @@
      "type": "choice",
      "prompt": "___ Kurs ist das? Ein Abendkurs.",
      "options": [
-      "Was für ein",
       "Was für einen",
-      "Was für eine"
+      "Was für eine",
+      "Was für ein"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The verb is ist: is Kurs the subject?",
      "explanation": "After ist the noun is nominative: Was für ein Kurs ist das?",
      "grammar": true
@@ -5865,11 +5896,11 @@
      "type": "choice",
      "prompt": "___ Kurs machst du? Einen Abendkurs.",
      "options": [
+      "Was für einen",
       "Was für ein",
-      "Was für eine",
-      "Was für einen"
+      "Was für eine"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "machen has an object: which case?",
      "explanation": "Kurs is the object of machen: Was für einen Kurs machst du?",
      "grammar": true
@@ -5889,10 +5920,10 @@
      "prompt": "Which question asks about the KIND?",
      "options": [
       "Welcher Kurs ist das?",
-      "Wie heißt der Kurs?",
-      "Was für ein Kurs ist das?"
+      "Was für ein Kurs ist das?",
+      "Wie heißt der Kurs?"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Kind = was für ein.",
      "explanation": "Was für ein Kurs ist das? asks for the kind.",
      "grammar": false
@@ -5963,11 +5994,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Was für ein Kurs ist das?",
       "Was für einen Kurs ist das?",
-      "Was für eine Kurs ist das?"
+      "Was für eine Kurs ist das?",
+      "Was für ein Kurs ist das?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "ist: the noun is the subject.",
      "explanation": "Was für ein Kurs ist das?",
      "grammar": true
@@ -5989,11 +6020,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Was für eine Kursleiterin suchst du?",
       "Was für einen Kursleiterin suchst du?",
+      "Was für eine Kursleiterin suchst du?",
       "Was für ein Kursleiterin suchst du?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Kursleiterin is a die-word.",
      "explanation": "Was für eine Kursleiterin suchst du?",
      "grammar": true
@@ -6002,11 +6033,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Was für ein Lehrbuch brauchst du?",
       "Was für einen Lehrbuch brauchst du?",
-      "Was für eine Lehrbuch brauchst du?"
+      "Was für eine Lehrbuch brauchst du?",
+      "Was für ein Lehrbuch brauchst du?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Lehrbuch is a das-word: ein in both cases.",
      "explanation": "Was für ein Lehrbuch brauchst du?",
      "grammar": true
@@ -6015,11 +6046,11 @@
      "type": "choice",
      "prompt": "On the wall you see a list of three courses. Which question fits?",
      "options": [
-      "Was für ein Kurs ist am Montag?",
       "Welcher Kurs ist am Montag?",
+      "Was für ein Kurs ist am Montag?",
       "Wie ist der Kurs am Montag?"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "You choose from a list.",
      "explanation": "Welcher Kurs ist am Montag?",
      "grammar": true
@@ -6028,11 +6059,11 @@
      "type": "choice",
      "prompt": "Was für einen Lehrer suchst du? – ___",
      "options": [
-      "Einen netten Lehrer.",
       "Ein netter Lehrer.",
+      "Einen netten Lehrer.",
       "Einen netter Lehrer."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Accusative, der-word: einen + -en.",
      "explanation": "Einen netten Lehrer.",
      "grammar": true
@@ -6071,11 +6102,11 @@
      "type": "choice",
      "prompt": "A Teilnehmerin is …",
      "options": [
-      "a participant",
       "a teacher",
-      "a beginner"
+      "a beginner",
+      "a participant"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "She takes part in the course.",
      "explanation": "Die Teilnehmerin = participant.",
      "grammar": false
@@ -6449,7 +6480,7 @@
        "why": "New today: the short answer after the question."
       }
      ],
-     "more": "Remember the sandwich from lesson 4: Was für ein is the top bread. Today a small piece of bread goes on top of the top bread: a preposition. Mira says In was für einer Firma. The little word in belongs to arbeiten, so it stands first, and then everything else follows as usual. Nothing in lesson 4 was wrong. You only add one more word at the start and change ein into einer or einem, the dative. Take it slowly, card by card."
+     "more": "Remember the sandwich from lesson 4: Was für ein is the top bread. Today a small piece of bread goes on top of the top bread: a preposition. Mira says In was für einer Firma. The little word in belongs to the place (in einer Firma), so the whole group stands first, and then everything else follows as usual. Nothing in lesson 4 was wrong. You only add one more word at the start and change ein into einer or einem, the dative. Take it slowly, card by card."
     },
     {
      "title": "Arbeitsalltag: ten words about work",
@@ -6730,7 +6761,7 @@
        ]
       }
      },
-     "more": "Think of three small bags: one for der-words, one for die-words, one for das-words. In the dative, der and das share the bag einem, and die has its own bag einer. When you hear in, bei or mit, open the dative bags: Mit einem Chef. In einer Firma. In einem Team. The question starts with the preposition because the preposition belongs to the verb, like in English: In what kind of company do you work? Same order, same idea.",
+     "more": "Think of three small bags: one for der-words, one for die-words, one for das-words. In the dative, der and das share the bag einem, and die has its own bag einer. When you hear in, bei or mit, open the dative bags: Mit einem Chef. In einer Firma. In einem Team. The question starts with the preposition because the preposition and its noun are one group, and the whole group moves to the front, like in English: In what kind of company do you work? Same order, same idea.",
      "table": {
       "headers": [
        "Noun",
@@ -6985,21 +7016,21 @@
       }
      ],
      "deeper": {
-      "text": "A shortcut for the dative row: em, er, em. Many learners say it like a chant. When you hear a preposition like in, bei or mit with a wo? question, expect einem for der-words and das-words, and einer for die-words. The dative plural is not needed for work questions today, so the table shows a dash there.",
+      "text": "In the plural there is no ein, so the question is just was für + noun: Mit was für Kollegen arbeitest du? The dative plural still leaves a trace: the noun gets an extra -n if it does not already end in -n, as in mit Kindern, mit Freunden. Kollegen already ends in -n, so nothing changes there. Answer the same way: Mit netten Kollegen.",
       "example": {
-       "de": "Mit was für einem Team arbeitest du?",
-       "en": "With what kind of team do you work?",
+       "de": "Mit was für Kollegen arbeitest du?",
+       "en": "What kind of colleagues do you work with?",
        "parts": [
         [
          "Mit",
          "preposition"
         ],
         [
-         "was für einem",
+         "was für",
          "question"
         ],
         [
-         "Team",
+         "Kollegen",
          "noun"
         ],
         [
@@ -7160,7 +7191,7 @@
        ]
       }
      },
-     "more": "A profile is a mini story with three sentences: where you work, what your day is like, and when you work. For Leon the story is: Gastronomie, abwechslungsreich, am Abend. For Mira: Firma, nettes Team, im Büro. Take your own life and fill in the same three boxes. You do not need long sentences. Short and correct beats long and wrong. Read the profiles aloud, then change one word and read them again.",
+     "more": "A profile is a mini story with three sentences: where you work, what your day is like, and when you work. For Leon the story is: Gastronomie, abwechslungsreich, am Abend. For Mira: große Firma, nettes Team, gutes Betriebsklima. Take your own life and fill in the same three boxes. You do not need long sentences. Short and correct beats long and wrong. Read the profiles aloud, then change one word and read them again.",
      "table": {
       "headers": [
        "Who",
@@ -7334,10 +7365,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:kRq3WzSwUw0"
+     "yt:kRq3WzSwUw0",
+     "yt:dFYZJQs68JA"
     ],
     "nicosWeg": [
-     "nw:b1-36"
+     "nw:b1-36",
+     "nw:a2-49"
     ],
     "practice": []
    },
@@ -7346,11 +7379,11 @@
      "type": "choice",
      "prompt": "In was für ___ Firma arbeitest du?",
      "options": [
-      "einem",
       "einer",
+      "einem",
       "einen"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "in + wo? = dative. Firma is a die-word.",
      "explanation": "In was für einer Firma arbeitest du?",
      "grammar": true
@@ -7360,10 +7393,10 @@
      "prompt": "Mit was für ___ Team arbeitest du?",
      "options": [
       "einer",
-      "einen",
-      "einem"
+      "einem",
+      "einen"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "mit + dative. Team is a das-word.",
      "explanation": "Mit was für einem Team arbeitest du?",
      "grammar": true
@@ -7423,11 +7456,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Mit was für einem Team arbeitest du?",
       "Mit was für ein Team arbeitest du?",
-      "Mit was für einen Team arbeitest du?"
+      "Mit was für einen Team arbeitest du?",
+      "Mit was für einem Team arbeitest du?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "mit always takes the dative.",
      "explanation": "Mit was für einem Team arbeitest du?",
      "grammar": true
@@ -7472,11 +7505,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Bei was für einem Betrieb arbeitest du?",
       "Bei was für einen Betrieb arbeitest du?",
+      "Bei was für einem Betrieb arbeitest du?",
       "Bei was für ein Betrieb arbeitest du?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "bei always takes the dative.",
      "explanation": "Bei was für einem Betrieb arbeitest du?",
      "grammar": true
@@ -7485,11 +7518,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Was für einen Job hast du?",
       "Was für einem Job hast du?",
-      "Was für ein Job hast du?"
+      "Was für ein Job hast du?",
+      "Was für einen Job hast du?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "No preposition: haben + object is accusative.",
      "explanation": "Was für einen Job hast du?",
      "grammar": true
@@ -7498,11 +7531,11 @@
      "type": "choice",
      "prompt": "Was für ein Team ist das? – ___",
      "options": [
-      "Mit einem jungen Team.",
       "Ein junges Team.",
+      "Mit einem jungen Team.",
       "Ein junger Team."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "No preposition: nominative, das-word: ein + -es.",
      "explanation": "Ein junges Team.",
      "grammar": true
@@ -7531,11 +7564,11 @@
      "type": "choice",
      "prompt": "Leon wants more responsibility. Which advice fits?",
      "options": [
-      "Du solltest eine Weiterbildung machen.",
       "Du solltest machen eine Weiterbildung.",
+      "Du solltest eine Weiterbildung machen.",
       "Du sollte eine Weiterbildung machen."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "sollte + du = solltest; the infinitive goes to the end.",
      "explanation": "Du solltest eine Weiterbildung machen.",
      "grammar": true
@@ -7856,7 +7889,7 @@
      "examples": [
       {
        "de": "Seit wann sind Sie Koch?",
-       "en": "Since when have you been a cook?",
+       "en": "How long have you been a cook?",
        "parts": [
         [
          "Seit wann",
@@ -8152,7 +8185,7 @@
      "examples": [
       {
        "de": "Vielen Dank, dass Sie Zeit haben.",
-       "en": "Thank you for having time.",
+       "en": "Thank you for taking the time.",
        "parts": [
         [
          "Vielen Dank,",
@@ -8508,7 +8541,7 @@
       },
       {
        "de": "Seit 2010 habe ich ein Restaurant.",
-       "en": "Since 2010 I have a restaurant.",
+       "en": "I have had a restaurant since 2010.",
        "parts": [
         [
          "Seit",
@@ -8539,7 +8572,7 @@
       },
       {
        "de": "Früher musste ich viel arbeiten.",
-       "en": "Earlier I had to work a lot.",
+       "en": "In the past I had to work a lot.",
        "parts": [
         [
          "Früher",
@@ -8566,38 +8599,34 @@
       }
      ],
      "deeper": {
-      "text": "Vor + time means an event that is over: vor 25 Jahren habe ich angefangen. Seit + time means something that started in the past and is still true: seit 2010 habe ich ein Restaurant. The verb is in the present with seit. Both phrases can start the sentence. Then the verb takes second place and the subject follows: Seit 2010 habe ich …, not Seit 2010 ich habe …",
+      "text": "English and German differ here. English says I have had a restaurant since 2010, with a past form. German simply uses the present: Seit 2010 habe ich ein Restaurant. The thing is still true, so German stays in the present. A very common mistake is Seit 2010 habe ich ein Restaurant gehabt; that would sound as if it were over. Same with learning: Ich lerne seit zwei Jahren Deutsch.",
       "example": {
-       "de": "Seit 15 Jahren koche ich im Restaurant.",
-       "en": "I have been cooking in the restaurant for 15 years.",
+       "de": "Ich lerne seit zwei Jahren Deutsch.",
+       "en": "I have been learning German for two years.",
        "parts": [
         [
-         "Seit",
-         "time"
-        ],
-        [
-         "15",
-         "time"
-        ],
-        [
-         "Jahren",
-         "time"
-        ],
-        [
-         "koche",
-         "verb"
-        ],
-        [
-         "ich",
+         "Ich",
          "subject"
         ],
         [
-         "im",
+         "lerne",
+         "verb"
+        ],
+        [
+         "seit",
          "preposition"
         ],
         [
-         "Restaurant.",
-         "place"
+         "zwei",
+         "other"
+        ],
+        [
+         "Jahren",
+         "noun"
+        ],
+        [
+         "Deutsch.",
+         "object"
         ]
        ]
       }
@@ -9045,10 +9074,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:s4R8XtZXYSM"
+     "yt:s4R8XtZXYSM",
+     "yt:iyoptTjDtz0"
     ],
     "nicosWeg": [
-     "nw:b1-02"
+     "nw:b1-02",
+     "nw:a2-52"
     ],
     "practice": []
    },
@@ -9057,11 +9088,11 @@
      "type": "choice",
      "prompt": "___ haben Sie angefangen? – Vor 25 Jahren.",
      "options": [
-      "Wo",
       "Wann",
+      "Wo",
       "Was für"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "The answer is a time: vor 25 Jahren.",
      "explanation": "Wann haben Sie angefangen? Vor 25 Jahren.",
      "grammar": true
@@ -9071,10 +9102,10 @@
      "prompt": "Which question asks about the KIND?",
      "options": [
       "Wann haben Sie angefangen?",
-      "Waren Sie schon immer Koch?",
-      "Was für ein Restaurant ist das?"
+      "Was für ein Restaurant ist das?",
+      "Waren Sie schon immer Koch?"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Kind = Was für.",
      "explanation": "Was für ein Restaurant ist das?",
      "grammar": true
@@ -9143,10 +9174,10 @@
      "prompt": "Vor 25 Jahren habe ich als Koch ___.",
      "options": [
       "angefangt",
-      "angefangen",
-      "anfangen"
+      "anfangen",
+      "angefangen"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Perfekt: haben + participle at the end.",
      "explanation": "Vor 25 Jahren habe ich als Koch angefangen.",
      "grammar": true
@@ -9193,11 +9224,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Können Sie uns sagen, wie lange Sie Koch sind?",
       "Können Sie uns sagen, wie lange sind Sie Koch?",
+      "Können Sie uns sagen, wie lange Sie Koch sind?",
       "Können Sie uns sagen, wie lange Sie sind Koch?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "After the comma the verb goes to the end.",
      "explanation": "Können Sie uns sagen, wie lange Sie Koch sind?",
      "grammar": true
@@ -9206,11 +9237,11 @@
      "type": "choice",
      "prompt": "Which is a yes/no question?",
      "options": [
-      "Waren Sie schon immer Koch?",
       "Wann haben Sie angefangen?",
-      "Was für ein Restaurant ist das?"
+      "Was für ein Restaurant ist das?",
+      "Waren Sie schon immer Koch?"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "It starts with the verb.",
      "explanation": "Waren Sie schon immer Koch?",
      "grammar": true
@@ -9248,13 +9279,13 @@
     },
     {
      "type": "choice",
-     "prompt": "Herr Ali has said that he started 25 years ago.",
+     "prompt": "Which sentence says: Herr Ali said that he started 25 years ago?",
      "options": [
-      "Herr Ali hat gesagt, dass er hat vor 25 Jahren angefangen.",
       "Herr Ali hat gesagt, dass er vor 25 Jahren angefangen hat.",
+      "Herr Ali hat gesagt, dass er hat vor 25 Jahren angefangen.",
       "Herr Ali hat gesagt, er hat dass vor 25 Jahren angefangen."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "After dass the verb goes to the end.",
      "explanation": "Herr Ali hat gesagt, dass er vor 25 Jahren angefangen hat.",
      "grammar": true
@@ -9273,11 +9304,11 @@
      "type": "choice",
      "prompt": "Which tip is polite and correct for a beginner?",
      "options": [
-      "Sie sollten viel fragen.",
       "Sie sollte viel fragen.",
+      "Sie sollten viel fragen.",
       "Sie sollten fragen viel."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sie sollten, and the infinitive at the end.",
      "explanation": "Sie sollten viel fragen.",
      "grammar": true
@@ -9297,7 +9328,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Since 2010 I have a restaurant.",
+     "prompt": "Build: I have had a restaurant since 2010. (start with Seit)",
      "tokens": [
       "ein",
       "ich",
@@ -9799,7 +9830,7 @@
        ]
       }
      },
-     "more": "A help club is like a big family in the street. One person can shop, one can walk a dog, one can help with letters. Nobody gets money. The notice on the wall (der Aushang) says who needs help and where everyone meets: Monday in „Zum Löwen“.",
+     "more": "Picture the board in the entrance of „Zum Löwen“. On it hangs a sheet of paper: that is der Aushang. On the sheet you read the Hilfsangebote: Einkaufshilfe on Tuesday, help with letters on Thursday. Below it says: Treffpunkt Montag, 18 Uhr. Who helps? Neighbours, ehrenamtlich, so for no money and without a Gegenleistung. Who gets help? For example a Rentner or a Rentnerin who cannot carry heavy bags. Now you can read the whole notice word by word.",
      "table": {
       "headers": [
        "Word",
@@ -9966,7 +9997,7 @@
        ]
       }
      },
-     "more": "Imagine the last letter of a word gets tired. b, d and g lose their soft hum and come out hard: p, t, k. You still write the same letter. Say Hund with a t at the end, Tag with a k, ab with a p.",
+     "more": "Put two fingers on your throat and say a long zzz. You feel a hum: that is a voiced sound. Now say sss: no hum. B, d and g normally hum. At the very end of a German word, the hum switches off, and they come out as p, t and k. English keeps the hum: dog ends with a soft g. German Tag ends with a hard k. Spelling does not change at all. Only your mouth does.",
      "table": {
       "headers": [
        "Letter at the end",
@@ -10120,7 +10151,7 @@
        ]
       }
      },
-     "more": "Watch what comes after the letter. A vowel after it (Hunde, Tage, gelbe)? Soft. Nothing after it, or a new syllable starts (Hund, Tag, täglich)? Hard. Careful: Tage with a k is wrong. The g is not at the end any more, so it is soft: Ta-ge.",
+     "more": "Think of the letter as a light switch. If the word stops right after b, d or g, the switch goes off: hard sound. If a vowel follows, the switch stays on: soft sound. Hund off, Hunde on. Tag off, Tage on. Gelb off, gelbe on. Long words have little stops inside them too: clap A-bend-kurs and you feel the d close a beat, so it is hard. When in doubt, clap the word and listen to where each beat ends.",
      "table": {
       "headers": [
        "Hard (end)",
@@ -10223,17 +10254,17 @@
       }
      ],
      "deeper": {
-      "text": "Standard German on the radio says -ig like ich. Many people in the south, in Austria and in Switzerland say [ik], so you will hear both. Choose one and stay with it; this course uses [ich]. Before -lich the g is hard too: täglich sounds like [täk-lich]. Your ear will learn this fast.",
+      "text": "One exception sounds odd but is useful: when -ig is followed by -lich, the g becomes k, because ich-lich would be hard to say. So königlich sounds like könik-lich. Everywhere else the -ig rule stays: billig, ruhig, wichtig all end in the ich-sound, and with a consonant after it too: er ist beruhigt [icht]. With a vowel after it, the g comes back.",
       "example": {
-       "de": "Die Straße ist ruhig.",
-       "en": "The street is quiet. (ruhig: ich)",
+       "de": "Das Zimmer ist ruhig und billig.",
+       "en": "The room is quiet and cheap.",
        "parts": [
         [
-         "Die",
+         "Das",
          "article"
         ],
         [
-         "Straße",
+         "Zimmer",
          "subject"
         ],
         [
@@ -10241,13 +10272,21 @@
          "verb"
         ],
         [
-         "ruhig.",
+         "ruhig",
+         "adjective"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "billig.",
          "adjective"
         ]
        ]
       }
      },
-     "more": "Words that end in -ig hide a little ich at the end: wichtich, richtich, fertich. Add an ending and the g comes back: wichtige, richtige. In the south of Germany, in Austria and in Switzerland you also hear [ik], and that is fine too.",
+     "more": "Imagine every -ig at the end hides a tiny ich. Wichtig sounds like wich-tich, richtig like rich-tich, fertig like fer-tich. It is a soft hiss, like when you say ich. When an ending follows, the g comes back as a real g: eine wichtige Frage, die richtige Antwort. In Bavaria, Austria or Switzerland you will hear wichtik with a k, and that is normal there. For this course, pick the ich-sound and use it every time.",
      "table": {
       "headers": [
        "Word",
@@ -10410,39 +10449,51 @@
       }
      ],
      "deeper": {
-      "text": "Sollte is the polite tip, the imperative is direct. Both are fine in a club: Sie sollten den Aushang lesen sounds friendly; Lesen Sie den Aushang! sounds like an instruction. Read the long sentence slowly: A-bend [t], Hund [t], Weg [k]. Then read it fast.",
+      "text": "For walking a dog, Germans rarely say den Hund ausführen. In everyday speech they say mit dem Hund Gassi gehen or mit dem Hund rausgehen. Gassi gehen is a fixed phrase only for dogs, and Gassi never changes. On the club notice you might read: Gassi gehen für Rentner, and that is a very typical Hilfsangebot. Listen again for the hard d in Hund.",
       "example": {
-       "de": "Du solltest am Abend den Hund ausführen.",
-       "en": "You should walk the dog in the evening. (einen Hund ausführen: to walk a dog)",
+       "de": "Anna geht mit dem Hund von Frau Weber Gassi.",
+       "en": "Anna takes Frau Weber's dog for a walk.",
        "parts": [
         [
-         "Du",
+         "Anna",
          "subject"
         ],
         [
-         "solltest",
-         "konj2"
+         "geht",
+         "verb"
         ],
         [
-         "am Abend",
-         "time"
+         "mit",
+         "preposition"
         ],
         [
-         "den",
+         "dem",
          "article"
         ],
         [
          "Hund",
-         "object"
+         "dative"
         ],
         [
-         "ausführen.",
+         "von",
+         "preposition"
+        ],
+        [
+         "Frau",
+         "other"
+        ],
+        [
+         "Weber",
+         "other"
+        ],
+        [
+         "Gassi.",
          "verb2"
         ]
        ]
       }
      },
-     "more": "Two ways to help a new helper: a soft tip (Sie sollten …) or a clear order (Lesen Sie …!). Pick the soft one when you are not sure. Then say the long sentence like a tongue-twister: Abend, Hund, Weg, all with hard ends.",
+     "more": "Think of two keys for one door. The soft key is the tip: Sie sollten den Aushang lesen. It sounds friendly, like a suggestion from a neighbour. The strong key is the imperative: Lesen Sie den Aushang! It sounds like an instruction on a form. In a club you mostly use the soft key with new people. Then train your mouth with the long practice sentence: Abend, Hund and Weg all end hard, so say t, t and k, and read it three times.",
      "table": {
       "headers": [
        "Person",
@@ -10561,23 +10612,31 @@
       }
      ],
      "deeper": {
-      "text": "Anna uses Was für eine Hilfe …? from lesson 4: it asks for the kind of thing. Frau Weber answers with a tip (Sie sollten …). In a real club talk, people often use Sie at first and change to du later. Notice the hard ends: Tag [k], Abend [t], Montag [k].",
+      "text": "In many German clubs members say du to each other from the first meeting, even across ages. Frau Weber still says Sie to Anna, because they already know each other as neighbours with Sie, and changing needs an offer: Wollen wir uns duzen? Usually the older person offers it. Until then, both stay with Sie, even in a friendly club.",
       "example": {
-       "de": "Guten Tag, Frau Weber!",
-       "en": "Good day, Frau Weber! (Tag: k)",
+       "de": "Wollen wir uns duzen?",
+       "en": "Shall we say du to each other?",
        "parts": [
         [
-         "Guten Tag,",
-         "other"
+         "Wollen",
+         "verb"
         ],
         [
-         "Frau Weber!",
-         "noun"
+         "wir",
+         "subject"
+        ],
+        [
+         "uns",
+         "reflexive"
+        ],
+        [
+         "duzen?",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "This is a short talk between two neighbours. Anna says: I want to help. Frau Weber says: great, a pensioner needs help with shopping. Anna asks: what kind of help exactly? Frau Weber gives a tip: come on Monday.",
+     "more": "Imagine you are Anna and you knock on Frau Weber's door. First you say what you want: Ich möchte helfen. Then Frau Weber asks when you have time, and you answer. Then she tells you what is needed: a Rentner needs an Einkaufshilfe. You ask Was für eine Hilfe? to get the details, and she ends with a tip: Sie sollten am Montag kommen. Read Anna's lines aloud, then read Frau Weber's lines, and listen for every hard end.",
      "table": {
       "headers": [
        "Speaker",
@@ -10614,10 +10673,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:JMowuFW0hYQ"
+     "yt:JMowuFW0hYQ",
+     "yt:uZLL2cNVA2s"
     ],
     "nicosWeg": [
-     "nw:a2-14"
+     "nw:a2-14",
+     "nw:a2-28"
     ],
     "practice": []
    },
@@ -10626,11 +10687,11 @@
      "type": "choice",
      "prompt": "Which sound do you hear at the end of Hund?",
      "options": [
-      "d",
       "t",
+      "d",
       "n"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "b, d, g at the end turn hard.",
      "explanation": "Hund ends with a t-sound, but you write d.",
      "grammar": true
@@ -10652,11 +10713,11 @@
      "type": "choice",
      "prompt": "In which word does the d sound soft, like d?",
      "options": [
-      "Hunde",
       "Hund",
-      "Rad"
+      "Rad",
+      "Hunde"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "A vowel after it makes it soft.",
      "explanation": "Hun-de: the d starts a new syllable, so it is soft.",
      "grammar": true
@@ -10689,11 +10750,11 @@
      "type": "choice",
      "prompt": "Sie ___ den Aushang lesen.",
      "options": [
-      "sollten",
       "solltest",
+      "sollten",
       "solltet"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Sie (polite) goes with -en.",
      "explanation": "Sie sollten den Aushang lesen.",
      "grammar": true
@@ -10763,11 +10824,11 @@
      "type": "choice",
      "prompt": "Abendkurs: how does the d sound?",
      "options": [
-      "like d",
       "like t",
+      "like d",
       "you do not say it"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A-bend-kurs: the d closes a syllable.",
      "explanation": "The d ends the syllable bend, so it is hard: t.",
      "grammar": true
@@ -10777,10 +10838,10 @@
      "prompt": "wichtige: how does the g sound?",
      "options": [
       "like ch",
-      "like k",
-      "like g"
+      "like g",
+      "like k"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "There is an ending after the g.",
      "explanation": "wich-ti-ge: the g starts a new syllable, so it is soft.",
      "grammar": true
@@ -10789,11 +10850,11 @@
      "type": "choice",
      "prompt": "Which spelling is right?",
      "options": [
-      "Hund",
       "Hunt",
-      "Hundt"
+      "Hundt",
+      "Hund"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The plural is Hunde.",
      "explanation": "der Hund – die Hunde: always with d.",
      "grammar": true
@@ -10816,10 +10877,10 @@
      "prompt": "Was ist der Aushang?",
      "options": [
       "a meeting point",
-      "a pensioner",
-      "a notice on a board"
+      "a notice on a board",
+      "a pensioner"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Anna liest den Aushang.",
      "explanation": "der Aushang = a notice on a board.",
      "grammar": false
@@ -10851,11 +10912,11 @@
      "type": "choice",
      "prompt": "Was für eine Hilfe braucht der Rentner?",
      "options": [
-      "Er braucht einen Hund.",
       "Er braucht eine Einkaufshilfe.",
+      "Er braucht einen Hund.",
       "Er braucht einen Treffpunkt."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Frau Weber tells Anna.",
      "explanation": "Ein Rentner braucht eine Einkaufshilfe.",
      "grammar": false
@@ -11100,7 +11161,8 @@
      "type": "type",
      "prompt": "Write in German: Do you know when the train leaves?",
      "answers": [
-      "Weißt du, wann der Zug abfährt?"
+      "Weißt du, wann der Zug abfährt?",
+      "Weißt du, wann der Zug fährt?"
      ],
      "hint": "wann: verb at the end.",
      "explanation": "Weißt du, wann der Zug abfährt?",
@@ -11374,7 +11436,7 @@
        ]
       }
      },
-     "more": "Think of a toolbox for learners. Fremdsprache is the language you learn. Aussprache is how you say it, Wortschatz is your box of words. A Tandem partner swaps languages with you. And Geduld, patience, is the most important tool of all.",
+     "more": "Think of a backpack for a long walk. The Fremdsprache is the path you walk. The Wortschatz is the food in your bag: the more words, the further you get. The Aussprache is how your steps sound. A Dialekt is a side path that only some locals use. A Lernpartner or a Tandem walks next to you. Mutig means you keep walking even when you fall. And Geduld, patience, is the water bottle: without it, nobody gets far.",
      "table": {
       "headers": [
        "Word",
@@ -11541,7 +11603,7 @@
        ]
       }
      },
-     "more": "A story is like a photo album: first the child, then the grown-up, then today. Herr Ali opens the album. As a child he wanted to learn, but he had no time. A year ago he started a course. Careful with the Perfekt: Er hat Italienisch gelernt, not gelernen. Lernen is a regular verb: ge- + lern + -t.",
+     "more": "Think of a photo album with five pages. Page one: als Kind, Herr Ali wanted to learn languages but had to help in the restaurant. Page two: später, lots of work. Page three: vor einem Jahr, a course at the Volkshochschule. Page four: am Anfang, hard pronunciation and many mistakes. Page five: jetzt, he understands a lot. Each page opens with a time word. Watch the Perfekt: Er hat gelernt, with ge- and -t, because lernen is regular.",
      "steps": [
       "Als Kind wollte Herr Ali Sprachen lernen.",
       "Aber er hatte keine Zeit: Er musste im Restaurant helfen.",
@@ -11658,55 +11720,47 @@
       }
      ],
      "deeper": {
-      "text": "In the past, sollte is the Präteritum of sollen: someone gave you a task back then. As a tip, sollte is Konjunktiv II: a soft, polite should. The colours in the examples show the difference. A trick: if you can add früher or gestern, it is the past; if it is advice for today or tomorrow, it is a tip.",
+      "text": "Sollte has a third use you will see in letters and emails. At the very start of a sentence, with no wenn, it means if or in case: Sollten Sie Fragen haben, rufen Sie mich an. It is polite and a bit formal, typical for offices. You do not need to make these sentences yet, but now you will recognise them when you read them.",
       "example": {
-       "de": "Gestern sollte ich Frau Weber anrufen, aber ich hatte keine Zeit.",
-       "en": "Yesterday I was supposed to call Frau Weber, but I had no time.",
+       "de": "Sollten Sie Fragen haben, rufen Sie mich an.",
+       "en": "If you have any questions, call me.",
        "parts": [
         [
-         "Gestern",
-         "time"
+         "Sollten",
+         "konj2"
         ],
         [
-         "sollte",
-         "verb"
-        ],
-        [
-         "ich",
+         "Sie",
          "subject"
         ],
         [
-         "Frau Weber",
+         "Fragen",
          "object"
         ],
         [
-         "anrufen,",
+         "haben,",
          "verb2"
         ],
         [
-         "aber",
-         "conjunction"
-        ],
-        [
-         "ich",
-         "subject"
-        ],
-        [
-         "hatte",
+         "rufen",
          "verb"
         ],
         [
-         "keine",
-         "article"
+         "Sie",
+         "subject"
         ],
         [
-         "Zeit.",
+         "mich",
          "object"
+        ],
+        [
+         "an.",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "Sollte is like a word with two faces. One face looks back: früher sollte er helfen (that was his job then). The other face looks at you now: Sie sollten mehr sprechen (my tip for you). The time word shows you which face you see.",
+     "more": "Think of sollte as a coin with two sides. Side one looks back: Als Kind sollte er im Restaurant helfen. Someone gave him that job long ago. Side two looks at you: Sie sollten mehr sprechen. That is a tip for today. The coin looks the same on both sides, so you turn it over by checking the time words. Früher, als Kind, gestern: back. Heute, jetzt, no time word and a tip: now. English needs two phrases here; German uses one word.",
      "table": {
       "headers": [
        "Time word",
@@ -11826,7 +11880,7 @@
       }
      ],
      "deeper": {
-      "text": "A good tip is small and clear. Ten minutes every day is better than two hours once a week, because your brain needs many short meetings with the words. Many adults also learn with an Eselsbrücke: a funny picture or sentence that helps you remember a word, like der Hund with a big d.",
+      "text": "Why ten minutes a day? Memory works best with many short meetings, spread over days. Two hours on Sunday feel like hard work, but most words are gone by Wednesday. Ten minutes daily keeps the words warm. That is why many adults learn on the bus or with a cup of coffee in the morning. Man sollte jeden Tag ein bisschen üben is the best tip of all.",
       "example": {
        "de": "Mein Tipp: Man sollte Geduld haben.",
        "en": "My tip: one should be patient.",
@@ -11858,7 +11912,7 @@
        ]
       }
      },
-     "more": "Think of a doctor: you tell the problem, the doctor gives a tip. Problem: no time. Tip: ten minutes a day. Problem: hard sounds. Tip: read aloud. Problem: fear of mistakes. Tip: be brave, mistakes help you learn.",
+     "more": "Picture a doctor's office for language learners. Patient one says: I have no time. The doctor: ten minutes a day. Patient two: the sounds are hard. Doctor: read aloud, every day. Patient three: I am afraid of mistakes. Doctor: be brave, mistakes are how you learn. Patient four: I forget words. Doctor: build an Eselsbrücke. Each prescription is one sollten sentence with the infinitive at the end. Now be the doctor for your own problem.",
      "table": {
       "headers": [
        "Problem",
@@ -12051,7 +12105,7 @@
        ]
       }
      },
-     "more": "A tandem is like a bike for two. Both people pedal. Herr Ali helps his neighbour with German, and she helps him with Italian. They swap, so nobody pays and both win.",
+     "more": "A tandem is a bicycle for two. Both people pedal, so both move forward. Herr Ali gives half an hour of German, his neighbour gives half an hour of Italian. He helps her with letters, she helps him with pronunciation. Nobody pays money; the payment is the other language. That is why tandems are so popular in German cities. You can do the same: find someone who wants to learn your language and wants to teach you German.",
      "table": {
       "headers": [
        "Herr Ali gives",
@@ -12184,17 +12238,17 @@
       }
      ],
      "deeper": {
-      "text": "Seit + present tense is how German says have been doing: Ich lerne seit drei Monaten Deutsch, not Ich habe … gelernt. Am Anfang war … looks back with the short past of sein. Man sollte is a tip for everybody, so it sounds a bit more general than Du solltest.",
+      "text": "Do not mix man and der Mann. Man with one n means people in general, like English you or one in Man ist nie zu alt. Der Mann with two n is a man. Man is always small inside a sentence and always takes the er/sie form: man lernt, man sollte, man kann. Germans use man much more often than English uses one.",
       "example": {
-       "de": "Man ist nie zu alt.",
-       "en": "You are never too old.",
+       "de": "Man lernt nie aus.",
+       "en": "You never stop learning.",
        "parts": [
         [
          "Man",
          "subject"
         ],
         [
-         "ist",
+         "lernt",
          "verb"
         ],
         [
@@ -12202,17 +12256,13 @@
          "negation"
         ],
         [
-         "zu",
-         "other"
-        ],
-        [
-         "alt.",
-         "adjective"
+         "aus.",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "Your story has four boxes. Box 1: since when. Box 2: what was hard. Box 3: what you can do now. Box 4: your tip for others. Fill each box with one sentence and you have a story.",
+     "more": "Think of four boxes in a row. Box one: Seit wann? Ich lerne seit drei Monaten Deutsch. Box two: Was war schwer? Am Anfang war die Aussprache schwer. Box three: Was kannst du jetzt? Jetzt kann ich einen Aushang lesen. Box four: your tip for others, with man sollte. Fill each box with one short sentence about your real life. Four true sentences are already a little story you can tell in a course or at a tandem meeting.",
      "steps": [
       "Seit wann? Ich lerne seit … Deutsch.",
       "Was war schwer? Am Anfang war … schwer.",
@@ -12237,10 +12287,10 @@
      "prompt": "Früher ___ er jeden Tag in der Küche helfen. (was supposed to)",
      "options": [
       "solltet",
-      "sollten",
-      "sollte"
+      "sollte",
+      "sollten"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "er + past.",
      "explanation": "Früher sollte er jeden Tag in der Küche helfen.",
      "grammar": true
@@ -12262,11 +12312,11 @@
      "type": "choice",
      "prompt": "What does sollten mean here? Sie sollten jeden Tag laut lesen.",
      "options": [
-      "was supposed to",
       "should (a tip)",
+      "was supposed to",
       "must"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "No past time word: it is advice.",
      "explanation": "Sie sollten … = you should: a tip.",
      "grammar": true
@@ -12314,11 +12364,11 @@
      "type": "choice",
      "prompt": "Ich habe Angst vor Fehlern. Which tip fits?",
      "options": [
-      "Sie sollten mutig sein.",
       "Sie mussten mutig sein.",
+      "Sie sollten mutig sein.",
       "Sie sollten mehr Angst haben."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A tip for now.",
      "explanation": "Sie sollten mutig sein.",
      "grammar": true
@@ -12352,10 +12402,10 @@
      "prompt": "Which sentence is a tip for now?",
      "options": [
       "Gestern sollte ich anrufen.",
-      "Du solltest laut lesen.",
-      "Als Kind sollte ich helfen."
+      "Als Kind sollte ich helfen.",
+      "Du solltest laut lesen."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "No past time word.",
      "explanation": "Du solltest laut lesen. = a tip.",
      "grammar": true
@@ -12377,11 +12427,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Er hat Italienisch gelernt.",
       "Er hat Italienisch gelernen.",
+      "Er hat Italienisch gelernt.",
       "Er hat gelernt Italienisch."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "lernen is regular: ge- … -t, at the end.",
      "explanation": "Er hat Italienisch gelernt.",
      "grammar": true
@@ -12401,10 +12451,10 @@
      "prompt": "Was ist Geduld?",
      "options": [
       "pronunciation",
-      "patience",
-      "dialect"
+      "dialect",
+      "patience"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Man sollte Geduld haben.",
      "explanation": "die Geduld = patience.",
      "grammar": false
@@ -12426,11 +12476,11 @@
      "type": "choice",
      "prompt": "Was für ein Tandem macht Herr Ali?",
      "options": [
-      "Ein Tandem mit einer Nachbarin aus Rom.",
       "Ein Tandem mit Ben.",
+      "Ein Tandem mit einer Nachbarin aus Rom.",
       "Ein Tandem mit der Kursleiterin."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "They meet in „Zum Löwen“.",
      "explanation": "Er macht ein Tandem mit einer Nachbarin aus Rom.",
      "grammar": false
@@ -12954,7 +13004,7 @@
        ]
       }
      },
-     "more": "Picture a stage. You stand there with a Thema (topic). Behind you is a screen with a Folie (slide). In front of you sits the Publikum (audience). In your hand is a Gliederung (plan). That is the whole picture.",
+     "more": "Picture a small stage in your German course. You stand at the front with a Thema, your topic. Behind you, a screen shows a Folie, a slide, with three Stichpunkte, only key words. In your hand is the Gliederung, your plan with start, middle and end. In front of you sits the Publikum, the audience, maybe holding your Handout. Before the day you vorbereiten, prepare; on the day you präsentieren. One stage, ten words, and you can name everything you see.",
      "table": {
       "headers": [
        "Word",
@@ -13141,7 +13191,7 @@
        ]
       }
      },
-     "more": "Think of cooking. Step 1: choose the dish (Thema). Step 2: buy the things (Stichpunkte). Step 3: read the recipe (Gliederung). Step 4: put it on a nice plate (Folien). Step 5: taste it before the guests come (laut üben).",
+     "more": "Think of cooking for friends. Step one, choose the dish: ein Thema wählen. Step two, buy what you need: Stichpunkte sammeln. Step three, read the recipe in order: eine Gliederung machen. Step four, put it on a nice plate: Folien machen, with only key words. Step five, taste it before the guests arrive: laut üben und die Zeit messen. If you skip step five, the dish surprises you on stage. Each step can become a tip with solltest.",
      "steps": [
       "Ein Thema wählen.",
       "Stichpunkte sammeln.",
@@ -13295,7 +13345,7 @@
        ]
       }
      },
-     "more": "The start is like a map at the entrance of a park. Here is the park (Mein Thema ist …), here are the paths (zuerst, dann, zum Schluss). Keep the order simple: Ich möchte euch heute … vorstellen, with vorstellen at the very end. Not: Ich möchte heute euch vorstellen …",
+     "more": "The start of a talk is like the map at the entrance of a park. First the name of the park: Mein Thema ist … Then the paths: zuerst, dann, zum Schluss. Listeners relax when they know the route. Watch two things. In Ich möchte euch heute … vorstellen, vorstellen waits at the very end, as after every modal. And after zuerst, the verb comes second: Zuerst spreche ich, never Zuerst ich spreche. Learn these three openers by heart.",
      "table": {
       "headers": [
        "Chunk",
@@ -13476,7 +13526,7 @@
        ]
       }
      },
-     "more": "The middle is like a guided walk. Stop and point: look here (Auf dieser Folie sehen Sie …). Say why it matters (Das ist ein wichtiger Punkt). Show an example. Then walk on to the next stop (Jetzt komme ich zu …).",
+     "more": "The middle is a guided walk through a museum. At each picture you stop and point: Auf dieser Folie sehen Sie … You tell people why it matters: Das ist ein wichtiger Punkt. You give a small story: Ein Beispiel: … Then you walk to the next room: Jetzt komme ich zu … Without these signs the listeners get lost, just like visitors without a guide. Four small chunks are enough to sound clear and organised, even with simple A2 German.",
      "table": {
       "headers": [
        "What you do",
@@ -13653,7 +13703,7 @@
        ]
       }
      },
-     "more": "The end is the goodbye at the door. Say one last important thing, ask: any questions?, and say thank you. If someone asks something you do not know, that is fine: Gute Frage! Das weiß ich leider nicht genau.",
+     "more": "The end of a talk is like saying goodbye at the door. One last important sentence: Zum Schluss möchte ich sagen, dass … Then you open the door for questions: Habt ihr Fragen? And you say thank you: Vielen Dank für eure Aufmerksamkeit. If a question comes that you cannot answer, do not panic. Gute Frage! buys you a second, and Das weiß ich leider nicht genau is honest and polite. Germans respect a clear I don't know.",
      "table": {
       "headers": [
        "Moment",
@@ -13816,7 +13866,7 @@
        ]
       }
      },
-     "more": "Anna's talk is a house with three rooms. The door: hello and the plan. Three rooms in the middle: what the club is, what it offers, where it meets. The exit: one last sentence, questions, thank you. Read it twice, then try it with your own topic.",
+     "more": "Anna's talk is a house with three rooms. The front door is the Einleitung: hello, topic, plan. The three rooms in the middle are the Hauptteil: what the club is, what it offers, where it meets. The back door is the Schluss: one last sentence, questions, thanks. Read the talk twice and point at each room as you go. Then build your own house with a topic you know well, like your German course or your job.",
      "steps": [
       "Einleitung: Hallo zusammen! Ich möchte euch heute „Viertel hilft“ vorstellen.",
       "Einleitung: Zuerst spreche ich über den Verein, dann über die Hilfsangebote und zum Schluss über den Treffpunkt.",
@@ -13835,7 +13885,8 @@
      "yt:NDaYbhrmLNk"
     ],
     "nicosWeg": [
-     "nw:b1-35"
+     "nw:b1-35",
+     "nw:a2-76"
     ],
     "practice": []
    },
@@ -13882,11 +13933,11 @@
      "type": "choice",
      "prompt": "Which chunk opens a presentation?",
      "options": [
-      "Mein Thema ist …",
       "Vielen Dank für Ihre Aufmerksamkeit.",
+      "Mein Thema ist …",
       "Haben Sie Fragen?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "You say the topic first.",
      "explanation": "Mein Thema ist … opens the talk.",
      "grammar": true
@@ -13896,10 +13947,10 @@
      "prompt": "Which chunk closes a presentation?",
      "options": [
       "Jetzt komme ich zu …",
-      "Vielen Dank für Ihre Aufmerksamkeit.",
-      "Auf dieser Folie sehen Sie …"
+      "Auf dieser Folie sehen Sie …",
+      "Vielen Dank für Ihre Aufmerksamkeit."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "You say thank you at the end.",
      "explanation": "Vielen Dank für Ihre Aufmerksamkeit.",
      "grammar": true
@@ -13942,10 +13993,10 @@
      "prompt": "Was ist eine Folie?",
      "options": [
       "an audience",
-      "a topic",
-      "a slide"
+      "a slide",
+      "a topic"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Auf der Folie stehen Stichpunkte.",
      "explanation": "die Folie = slide.",
      "grammar": false
@@ -13967,11 +14018,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Zuerst spreche ich über den Verein.",
       "Zuerst ich spreche über den Verein.",
-      "Zuerst über den Verein ich spreche."
+      "Zuerst über den Verein ich spreche.",
+      "Zuerst spreche ich über den Verein."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Verb in position 2.",
      "explanation": "Zuerst spreche ich über den Verein.",
      "grammar": true
@@ -13994,10 +14045,10 @@
      "prompt": "Das ist ein ___ Punkt.",
      "options": [
       "wichtigen",
-      "wichtige",
-      "wichtiger"
+      "wichtiger",
+      "wichtige"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "ein + der-word (der Punkt), nominative.",
      "explanation": "Das ist ein wichtiger Punkt.",
      "grammar": true
@@ -14072,10 +14123,10 @@
      "prompt": "Was ist das Publikum?",
      "options": [
       "the slide",
-      "the outline",
-      "the audience"
+      "the audience",
+      "the outline"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Das Publikum hat Fragen.",
      "explanation": "das Publikum = audience.",
      "grammar": false
@@ -14094,11 +14145,11 @@
      "type": "choice",
      "prompt": "Which step comes last?",
      "options": [
-      "Laut üben und die Zeit messen",
       "Stichpunkte sammeln",
-      "Ein Thema wählen"
+      "Ein Thema wählen",
+      "Laut üben und die Zeit messen"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "You practise at the end.",
      "explanation": "Step 5: Laut üben und die Zeit messen.",
      "grammar": true
@@ -14372,11 +14423,11 @@
       "type": "choice",
       "prompt": "Which problem does Ben NOT have?",
       "options": [
-       "He has no book.",
        "He forgets the words.",
+       "He has no book.",
        "He puts everything off."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Read Ben's second sentence.",
       "explanation": "Ich kann mich nicht konzentrieren, ich vergesse die Vokabeln und ich schiebe alles auf.",
       "grammar": false
@@ -14386,10 +14437,10 @@
       "prompt": "What does Mira advise first?",
       "options": [
        "a holiday",
-       "a study plan",
-       "a new book"
+       "a new book",
+       "a study plan"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at Mira's first sentence.",
       "explanation": "Du solltest einen Lernplan machen.",
       "grammar": false
@@ -14398,11 +14449,11 @@
       "type": "choice",
       "prompt": "How long should Ben study every day, says Mira?",
       "options": [
-       "two hours",
        "one hour",
+       "two hours",
        "ten minutes"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for eine Stunde.",
       "explanation": "Du solltest jeden Tag eine Stunde lernen.",
       "grammar": false
@@ -14412,10 +14463,10 @@
       "prompt": "What does Anna think the group should look for?",
       "options": [
        "a teacher",
-       "a flat",
-       "a study group"
+       "a study group",
+       "a flat"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for suchen.",
       "explanation": "Wir sollten eine Lerngruppe suchen.",
       "grammar": false
@@ -14425,10 +14476,10 @@
       "prompt": "What helps against Prüfungsangst, says Anna?",
       "options": [
        "coffee",
-       "a group",
-       "a break"
+       "a break",
+       "a group"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for Wenn du Prüfungsangst hast.",
       "explanation": "Wenn du Prüfungsangst hast, hilft das.",
       "grammar": false
@@ -14437,11 +14488,11 @@
       "type": "choice",
       "prompt": "Which idea does Leon have?",
       "options": [
-       "read less",
        "write flashcards",
+       "read less",
        "drink coffee"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look at Leon's first sentence.",
       "explanation": "Du könntest Karteikarten schreiben.",
       "grammar": false
@@ -14451,10 +14502,10 @@
       "prompt": "What should Ben do earlier, says Leon?",
       "options": [
        "start",
-       "eat",
-       "sleep"
+       "sleep",
+       "eat"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for früher.",
       "explanation": "Du solltest früher schlafen.",
       "grammar": false
@@ -14476,11 +14527,11 @@
       "type": "choice",
       "prompt": "How does Ben react?",
       "options": [
+       "He likes the ideas.",
        "He is angry.",
-       "He is not sure.",
-       "He likes the ideas."
+       "He is not sure."
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look at Ben's last sentence.",
       "explanation": "Gute Idee! Das probiere ich aus.",
       "grammar": false
@@ -14496,10 +14547,10 @@
       "prompt": "What does Ben have?",
       "options": [
        "a cold",
-       "a new job",
-       "exam anxiety"
+       "exam anxiety",
+       "a new job"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen to Ben's first sentence.",
       "explanation": "Ich habe Prüfungsangst.",
       "grammar": false
@@ -14521,11 +14572,11 @@
       "type": "choice",
       "prompt": "What should Ben look for, says Anna?",
       "options": [
-       "a new book",
        "a study group",
+       "a new book",
        "a flat"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for suchen.",
       "explanation": "Du solltest eine Lerngruppe suchen.",
       "grammar": false
@@ -14534,11 +14585,11 @@
       "type": "choice",
       "prompt": "Should Ben write flashcards?",
       "options": [
-       "yes",
        "no",
+       "yes",
        "Anna does not say"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Anna's answer.",
       "explanation": "Ja, das solltest du.",
       "grammar": false
@@ -14586,11 +14637,11 @@
       "type": "choice",
       "prompt": "Why does Ben not like this idea?",
       "options": [
-       "He is tired in the morning.",
        "He has no time.",
-       "He has no alarm clock."
+       "He has no alarm clock.",
+       "He is tired in the morning."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen to Ben's next sentence.",
       "explanation": "Ich bin morgens müde.",
       "grammar": false
@@ -14599,11 +14650,11 @@
       "type": "choice",
       "prompt": "What should Ben do in the evening, says Anna?",
       "options": [
+       "sleep early",
        "study more",
-       "drink coffee",
-       "sleep early"
+       "drink coffee"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for abends.",
       "explanation": "Dann solltest du abends früh schlafen.",
       "grammar": false
@@ -14754,7 +14805,7 @@
    "day": 2,
    "reading": {
     "title": "Neu an der Volkshochschule",
-    "text": "Neu an der Volkshochschule\nItalienisch lernen? Es gibt drei Kurse.\nKurs 1 ist ein Abendkurs für Anfänger. Er ist am Montag. Der Kurs ist nicht groß: Es gibt nur zehn Teilnehmer. Sie arbeiten mit einem Lehrbuch.\nKurs 2 ist ein Kurs für Fortgeschrittene. Er ist am Mittwoch. Die Kursleiterin kommt aus Rom.\nKurs 3 ist ein Online-Kurs. Die Teilnehmer lernen mit der Lernplattform. Jeder braucht nur einen Computer. Zuerst macht jeder einen Einstufungstest.\nNachricht von Anna:\nHallo Herr Ali, ich mache den Kurs für Fortgeschrittene. Was für einen Kurs suchen Sie? Der Abendkurs für Anfänger ist gut für Sie, und am Montag haben Sie Zeit. Kommen Sie mit?\nViele Grüße\nAnna",
+    "text": "Neu an der Volkshochschule\nItalienisch lernen? Es gibt drei Kurse.\nKurs 1 ist ein Abendkurs für Anfänger. Er ist am Montag. Der Kurs ist nicht groß: Es gibt nur zehn Teilnehmer. Sie arbeiten mit einem Lehrbuch.\nKurs 2 ist ein Kurs für Fortgeschrittene. Er ist am Mittwoch. Die Kursleiterin kommt aus Rom.\nKurs 3 ist ein Online-Kurs. Die Teilnehmer lernen mit der Lernplattform. Jeder braucht nur einen Computer. Zuerst macht jeder einen Einstufungstest.\nNachricht von Anna:\nHallo Herr Ali, ich mache jetzt den Abendkurs für Anfänger. Was für einen Kurs suchen Sie? Sie lernen schon seit einem Jahr Italienisch. Der Kurs für Fortgeschrittene ist gut für Sie, und am Mittwoch haben Sie Zeit.\nViele Grüße\nAnna",
     "glossary": [
      {
       "de": "der Online-Kurs",
@@ -14783,10 +14834,10 @@
       "prompt": "How many courses are there?",
       "options": [
        "two",
-       "three",
-       "four"
+       "four",
+       "three"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at the first lines.",
       "explanation": "Es gibt drei Kurse.",
       "grammar": true
@@ -14808,11 +14859,11 @@
       "type": "choice",
       "prompt": "Who is course 1 for?",
       "options": [
-       "beginners",
        "advanced learners",
+       "beginners",
        "children"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for für.",
       "explanation": "Ein Abendkurs für Anfänger.",
       "grammar": true
@@ -14822,10 +14873,10 @@
       "prompt": "Where does the teacher of course 2 come from?",
       "options": [
        "Wien",
-       "Rom",
-       "Berlin"
+       "Berlin",
+       "Rom"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at Kurs 2.",
       "explanation": "Die Kursleiterin kommt aus Rom.",
       "grammar": true
@@ -14834,11 +14885,11 @@
       "type": "choice",
       "prompt": "What do the participants of course 3 use?",
       "options": [
-       "a Lehrbuch",
        "the Lernplattform",
+       "a Lehrbuch",
        "a Heft"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look at Kurs 3.",
       "explanation": "Die Teilnehmer lernen mit der Lernplattform.",
       "grammar": true
@@ -14862,35 +14913,35 @@
        "course 1",
        "course 3"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look at Anna’s message.",
-      "explanation": "Ich mache den Kurs für Fortgeschrittene.",
+      "explanation": "Ich mache jetzt den Abendkurs für Anfänger.",
       "grammar": true
      },
      {
       "type": "choice",
       "prompt": "Which course does Anna think is good for Herr Ali?",
       "options": [
-       "the course for advanced learners",
        "the evening course for beginners",
-       "the online course"
+       "the online course",
+       "the course for advanced learners"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for für dich.",
-      "explanation": "Der Abendkurs für Anfänger ist gut für dich.",
+      "explanation": "Der Kurs für Fortgeschrittene ist gut für Sie.",
       "grammar": true
      },
      {
       "type": "choice",
       "prompt": "Why is it good for Herr Ali?",
       "options": [
+       "On Wednesday he has time.",
        "The teacher comes from Rom.",
-       "On Monday he has time.",
        "It is online."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look at the end of the message.",
-      "explanation": "Am Montag haben Sie Zeit.",
+      "explanation": "Am Mittwoch haben Sie Zeit.",
       "grammar": true
      },
      {
@@ -14926,11 +14977,11 @@
       "type": "choice",
       "prompt": "Where did he work first?",
       "options": [
-       "in a big hotel",
        "in a small café",
-       "in a school"
+       "in a school",
+       "in a big hotel"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for zuerst.",
       "explanation": "Zuerst habe ich in einem großen Hotel gearbeitet.",
       "grammar": true
@@ -14939,11 +14990,11 @@
       "type": "choice",
       "prompt": "Since when does he have a restaurant?",
       "options": [
+       "since 2010",
        "since 2000",
-       "since 2020",
-       "since 2010"
+       "since 2020"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for seit.",
       "explanation": "Seit 2010 habe ich ein Restaurant.",
       "grammar": true
@@ -14952,11 +15003,11 @@
       "type": "choice",
       "prompt": "What kind of restaurant is „Zum Löwen“?",
       "options": [
-       "small, with a young team",
        "big, with an old team",
+       "small, with a young team",
        "only open in the evening"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for the answer to Was für ein Restaurant?",
       "explanation": "Ein kleines Restaurant mit einem jungen Team.",
       "grammar": true
@@ -14966,10 +15017,10 @@
       "prompt": "How is the working atmosphere?",
       "options": [
        "quiet",
-       "very good",
-       "bad"
+       "bad",
+       "very good"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen for Betriebsklima.",
       "explanation": "Das Betriebsklima ist sehr gut.",
       "grammar": true
@@ -14978,11 +15029,11 @@
       "type": "choice",
       "prompt": "What was a challenge for Herr Ali earlier?",
       "options": [
-       "moving to Wien",
        "working every evening",
+       "moving to Wien",
        "the placement test"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for früher.",
       "explanation": "Früher musste ich jeden Abend arbeiten.",
       "grammar": true
@@ -14992,10 +15043,10 @@
       "prompt": "How much time did he have for his family?",
       "options": [
        "a lot",
-       "none",
-       "little"
+       "little",
+       "none"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for wenig.",
       "explanation": "Ich hatte wenig Zeit für meine Familie.",
       "grammar": true
@@ -15240,10 +15291,10 @@
       "prompt": "Do the members get money?",
       "options": [
        "Yes, a little.",
-       "No, they work without pay.",
-       "Yes, after a month."
+       "Yes, after a month.",
+       "No, they work without pay."
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "ehrenamtlich, ohne Gegenleistung",
       "explanation": "Unsere Mitglieder arbeiten ehrenamtlich und ohne Gegenleistung."
      },
@@ -15251,11 +15302,11 @@
       "type": "choice",
       "prompt": "Which offer is on the notice?",
       "options": [
-       "help with the car",
        "help with shopping",
+       "help with the car",
        "help with cooking"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Einkaufshilfe",
       "explanation": "Einkaufshilfe: Wir gehen für Sie einkaufen."
      },
@@ -15275,11 +15326,11 @@
       "type": "choice",
       "prompt": "Where is the meeting point?",
       "options": [
-       "in „Zum Löwen“",
        "at Frau Weber's flat",
-       "at the Volkshochschule"
+       "at the Volkshochschule",
+       "in „Zum Löwen“"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Treffpunkt …",
       "explanation": "Treffpunkt: jeden Montag um 18 Uhr im Restaurant „Zum Löwen“."
      },
@@ -15287,11 +15338,11 @@
       "type": "choice",
       "prompt": "When do they meet?",
       "options": [
-       "every Sunday at 6 pm",
        "every Monday at 6 pm",
+       "every Sunday at 6 pm",
        "every Monday at 8 pm"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "jeden Montag um 18 Uhr",
       "explanation": "Jeden Montag um 18 Uhr."
      },
@@ -15323,11 +15374,11 @@
       "type": "choice",
       "prompt": "How long has he been doing the tandem?",
       "options": [
+       "for a month",
        "for a year",
-       "for a week",
-       "for a month"
+       "for a week"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Seit einem …",
       "explanation": "Seit einem Monat mache ich ein Tandem."
      },
@@ -15335,11 +15386,11 @@
       "type": "choice",
       "prompt": "What is Herr Ali's tip?",
       "options": [
-       "Don't be afraid of mistakes.",
        "Speak only Italian.",
+       "Don't be afraid of mistakes.",
        "Practise only on Monday."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Mein Tipp: …",
       "explanation": "Man sollte keine Angst vor Fehlern haben."
      }
@@ -15353,11 +15404,11 @@
       "type": "choice",
       "prompt": "What does Anna present?",
       "options": [
-       "„Viertel hilft“",
        "her German course",
-       "„Zum Löwen“"
+       "„Zum Löwen“",
+       "„Viertel hilft“"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "First line.",
       "explanation": "Ich möchte euch heute „Viertel hilft“ vorstellen."
      },
@@ -15365,11 +15416,11 @@
       "type": "choice",
       "prompt": "What does she talk about first?",
       "options": [
+       "the club",
        "the meeting point",
-       "the offers of help",
-       "the club"
+       "the offers of help"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Zuerst …",
       "explanation": "Zuerst spreche ich über den Verein."
      },
@@ -15401,11 +15452,11 @@
       "type": "choice",
       "prompt": "What is on her slide?",
       "options": [
+       "the offers of help",
        "a map",
-       "the members' names",
-       "the offers of help"
+       "the members' names"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Auf dieser Folie seht ihr …",
       "explanation": "Auf dieser Folie seht ihr die Hilfsangebote."
      },
@@ -15414,10 +15465,10 @@
       "prompt": "What is the important point?",
       "options": [
        "Everyone must come on Monday.",
-       "Everyone needs a dog.",
-       "Everyone helps without anything in return."
+       "Everyone helps without anything in return.",
+       "Everyone needs a dog."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Das ist ein wichtiger Punkt: …",
       "explanation": "Alle helfen ohne Gegenleistung."
      },
@@ -15426,10 +15477,10 @@
       "prompt": "When do they meet?",
       "options": [
        "every Friday",
-       "every Monday",
-       "every evening"
+       "every evening",
+       "every Monday"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "jeden …",
       "explanation": "Wir treffen uns jeden Montag im Restaurant „Zum Löwen“."
      },
@@ -15450,10 +15501,10 @@
       "prompt": "What does Anna answer?",
       "options": [
        "Yes, of course.",
-       "No, never.",
-       "She doesn't know exactly; ask Frau Weber."
+       "She doesn't know exactly; ask Frau Weber.",
+       "No, never."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Gute Frage! …",
       "explanation": "Das weiß ich leider nicht genau. Du solltest Frau Weber fragen."
      },
@@ -15461,11 +15512,11 @@
       "type": "choice",
       "prompt": "What does the Kursleiterin say?",
       "options": [
-       "It was a good presentation.",
        "It was too long.",
-       "Anna should speak slower."
+       "Anna should speak slower.",
+       "It was a good presentation."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Danke, Anna! …",
       "explanation": "Das war eine gute Präsentation."
      }
