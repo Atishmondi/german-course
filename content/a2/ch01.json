@@ -850,10 +850,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:KoupCFKNXUo"
+     "yt:KoupCFKNXUo",
+     "yt:huwi-cjPPXU"
     ],
     "nicosWeg": [
-     "nw:a2-01"
+     "nw:a2-01",
+     "nw:a2-38"
     ]
    },
    "drills": [
@@ -2277,7 +2279,8 @@
      "yt:9RXYXz4B8pY"
     ],
     "nicosWeg": [
-     "nw:a2-21"
+     "nw:a2-21",
+     "nw:a2-29"
     ]
    },
    "drills": [
@@ -5427,7 +5430,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:G61p5tiLow4"
+     "yt:G61p5tiLow4",
+     "yt:6PlSoDcJWFQ",
+     "yt:wtLgcx2jQb4"
     ],
     "nicosWeg": [
      "nw:a2-25"
@@ -6090,7 +6095,7 @@
      "more": "Think of a traffic light. Question 1, the green light: is there movement from A to B? Sein. Question 2, the orange light: is there a change or a stay? Sein. If both lights are off, you use haben, the default. Step 1: look at the verb. Step 2: ask the two questions. Step 3: pick the helper and put the participle at the end. If you are unsure, haben is usually right.",
      "lead": "In the introduction you saw two helper verbs. This card gives you a fast test to pick the right one before you say a Perfekt sentence about your weekend.",
      "deeper": {
-      "text": "For sein and haben themselves, and for very common statements, people prefer war and hatte instead of the Perfekt. You say Es war schön, not Es ist schön gewesen. You learned war and hatte in chapter 6, so you already have the easy way out for these two verbs.",
+      "text": "For sein and haben themselves, and for very common statements, people prefer war and hatte instead of the Perfekt. You say Es war schön, not Es ist schön gewesen. You already know war and hatte, so you have an easy way out for these two verbs.",
       "example": {
        "de": "Es war schön.",
        "en": "It was nice.",
@@ -6399,7 +6404,7 @@
      "more": "Sein is the helper for things that changed or stayed in place: you woke up, you became tired, you stayed home. Step 1: ask whether something changed or stayed. Step 2: use ist, bin or sind. Step 3: add the participle at the end. Two verbs are easy to remember because they always take sein: bleiben and werden. For passieren, remember the question Was ist passiert? You already know it from chapter 10.",
      "lead": "Movement is only half of the sein box. This card shows the other half: verbs about changing or staying, like bleiben and werden, so you can say what happened or where you stayed.",
      "deeper": {
-      "text": "Bleiben and werden always take sein, even though nothing moves in space. A good trick: if the sentence is about a state or a change in a state, think sein. Ben ist krank geworden means Ben changed from healthy to ill. The time is passing, but he stays in the same place.",
+      "text": "Bleiben and werden always take sein, even though nothing moves in space. A good trick: if the sentence is about a state or a change of state, think sein. Ben ist krank geworden means Ben went from healthy to ill. Ben stays in the same place, but his state changed, and that is enough.",
       "example": {
        "de": "Ben ist krank geworden.",
        "en": "Ben became ill.",
@@ -6838,35 +6843,27 @@
      "deeper": {
       "text": "A quick test: if you can ask Wen oder was? (whom or what?) and there is an answer, the verb has an object, and you use haben. If the only answer is Wohin? (where to?), you use sein. In the sentence below, the answer to Wen oder was? is das Auto.",
       "example": {
-       "de": "Leon ist nicht gefahren, er ist gelaufen.",
-       "en": "Leon did not drive, he walked.",
+       "de": "Mira hat das Auto gefahren.",
+       "en": "Mira drove the car.",
        "parts": [
         [
-         "Leon",
+         "Mira",
          "subject"
         ],
         [
-         "ist",
+         "hat",
          "verb"
         ],
         [
-         "nicht",
-         "negation"
+         "das",
+         "article"
         ],
         [
-         "gefahren,",
-         "verb2"
+         "Auto",
+         "noun"
         ],
         [
-         "er",
-         "subject"
-        ],
-        [
-         "ist",
-         "verb"
-        ],
-        [
-         "gelaufen.",
+         "gefahren.",
          "verb2"
         ]
        ]
@@ -7024,7 +7021,8 @@
      "yt:hTvyNDDhG2M"
     ],
     "nicosWeg": [
-     "nw:a2-02"
+     "nw:a2-02",
+     "nw:a2-17"
     ],
     "practice": []
    },
@@ -8176,8 +8174,8 @@
        "why": "The von way works for every name."
       },
       {
-       "de": "Das ist das Handy von Ben.",
-       "en": "This is Ben's phone.",
+       "de": "Das ist das Fahrrad von Max.",
+       "en": "This is Max's bike.",
        "parts": [
         [
          "Das",
@@ -8192,7 +8190,7 @@
          "article"
         ],
         [
-         "Handy",
+         "Fahrrad",
          "noun"
         ],
         [
@@ -8200,15 +8198,15 @@
          "preposition"
         ],
         [
-         "Ben.",
+         "Max.",
          "dative"
         ]
        ],
-       "why": "Same meaning as Bens Handy."
+       "why": "Max ends in x, so there is no extra -s: use von."
       },
       {
-       "de": "Das ist der Ball von Leon.",
-       "en": "This is Leon's ball.",
+       "de": "Das ist die Brille von Lukas.",
+       "en": "These are Lukas's glasses.",
        "parts": [
         [
          "Das",
@@ -8219,11 +8217,11 @@
          "verb"
         ],
         [
-         "der",
+         "die",
          "article"
         ],
         [
-         "Ball",
+         "Brille",
          "noun"
         ],
         [
@@ -8231,11 +8229,11 @@
          "preposition"
         ],
         [
-         "Leon.",
+         "Lukas.",
          "dative"
         ]
        ],
-       "why": "Same meaning as Leons Ball."
+       "why": "Lukas ends in s: use von."
       }
      ],
      "table": {
@@ -8260,7 +8258,7 @@
      "more": "Some names already end with an s sound. Saying a second s would sound like a hiss, so German skips it and uses von. Step 1: look at the last letter of the name. Step 2: is it s, ß, x or z? Then use von. Step 3: for all other names you can choose: add -s, or use von. If you are not sure, von is always right, for every name. That makes it your safety net.",
      "lead": "The -s way is quick, but it does not work for every name. This card shows which names need a different way, and why the von way you know from card 1 is the safe choice.",
      "deeper": {
-      "text": "In spoken German, von is often more natural than the -s, even for names that could take an -s. Das ist das Zimmer von Leon sounds just as normal as Das ist Leons Zimmer. Use whichever comes to you first. Both are correct, and every German will understand you.",
+      "text": "Written German can show the missing s with an apostrophe: Max' Fahrrad. That is correct, but you will see it rarely and say it even less. In speech von Max sounds natural and avoids the problem. Von is also common for names that could take an -s: das Zimmer von Leon sounds as normal as Leons Zimmer.",
       "example": {
        "de": "Das ist das Zimmer von Leon.",
        "en": "This is Leon's room.",
@@ -8584,7 +8582,8 @@
      "yt:tdIarhdlFsU"
     ],
     "nicosWeg": [
-     "nw:a2-09"
+     "nw:a2-09",
+     "nw:a2-10"
     ],
     "practice": []
    },
@@ -9961,21 +9960,25 @@
      "more": "Feelings never change their shape after sein: Ich bin froh, Anna ist froh, wir sind froh. That makes them easy. Then you simply add the reason, with the verb at the end. Think of a smiley and a speech bubble: the smiley is the feeling, the bubble starts with weil and tells the story behind it. Anna ist traurig, weil Mira nicht da ist. First the feeling, then the reason. Try it with the seven new words.",
      "lead": "Reasons are often feelings. On this card you learn seven words for how people feel, and you use each one with weil, so the new word order gets more practice.",
      "deeper": {
-      "text": "Feeling words can be used on their own: Ich bin nervös. The reason is a bonus. A native speaker often says only Ich bin enttäuscht first, and adds weil when the other person asks why.",
+      "text": "Feelings come in strengths. Add sehr (very) or ein bisschen (a little) right before the feeling: Ich bin sehr froh, Ich bin ein bisschen nervös. Natives use ein bisschen all the time to sound modest, even when they are quite nervous. It also sounds calmer than the plain word.",
       "example": {
-       "de": "Mira ist wütend, weil Ben spät kommt.",
-       "en": "Mira is angry because Ben is coming late.",
+       "de": "Ich bin ein bisschen nervös, weil Anna morgen kommt.",
+       "en": "I am a little nervous because Anna is coming tomorrow.",
        "parts": [
         [
-         "Mira",
+         "Ich",
          "subject"
         ],
         [
-         "ist",
+         "bin",
          "verb"
         ],
         [
-         "wütend,",
+         "ein bisschen",
+         "other"
+        ],
+        [
+         "nervös,",
          "adjective"
         ],
         [
@@ -9983,11 +9986,11 @@
          "conjunction"
         ],
         [
-         "Ben",
+         "Anna",
          "subject"
         ],
         [
-         "spät",
+         "morgen",
          "time"
         ],
         [
@@ -10288,13 +10291,29 @@
      "more": "In everyday talk nobody repeats the whole sentence. If a friend asks Wieso kommst du nicht zur Party?, you do not say Ich komme nicht zur Party, weil ich krank bin. You just say Weil ich krank bin. That is a complete answer. Read the dialogue below out loud with a friend or alone, in two voices. The verb at the end of each answer gets a tiny stress.",
      "lead": "Time to put it together in a real talk. Two friends ask and answer reasons in a short dialogue, and you can hear how natural weil is when it sits at the end of a short answer.",
      "deeper": {
-      "text": "Answers with only weil are the most natural reply to Warum? or Wieso?. If you answer with the full sentence it sounds correct but a little stiff. Weil ich keine Zeit habe is already perfect.",
+      "text": "A reply with weil alone is fine in a chat, but in writing a weil clause must join a main sentence: write Ich komme nicht, weil ich krank bin in a message, and say only Weil ich krank bin in the corridor. A friendly extra is leider (unfortunately) at the start of the main sentence.",
       "example": {
-       "de": "Weil ich keine Zeit habe.",
-       "en": "Because I have no time.",
+       "de": "Leider komme ich nicht, weil ich krank bin.",
+       "en": "Unfortunately I am not coming because I am sick.",
        "parts": [
         [
-         "Weil",
+         "Leider",
+         "other"
+        ],
+        [
+         "komme",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "nicht,",
+         "negation"
+        ],
+        [
+         "weil",
          "conjunction"
         ],
         [
@@ -10302,15 +10321,11 @@
          "subject"
         ],
         [
-         "keine",
-         "article"
+         "krank",
+         "adjective"
         ],
         [
-         "Zeit",
-         "noun"
-        ],
-        [
-         "habe.",
+         "bin.",
          "verbend"
         ]
        ]
@@ -10324,7 +10339,8 @@
      "yt:vQXxjNb7pHA"
     ],
     "nicosWeg": [
-     "nw:a2-03"
+     "nw:a2-03",
+     "nw:a2-23"
     ]
    },
    "drills": [
@@ -11075,7 +11091,7 @@
      "more": "In a weil clause two verbs stand together at the end. The one with the person ending goes last. With a modal that is the modal: muss, kann, will, darf, soll. The infinitive sits right before it. Say weil ich arbeiten muss like one word. It helps to say it fast. If you start the weil clause, think: where is my modal? Put it at the end, and put the infinitive just before it.",
      "lead": "You know modals from chapter 5. On this card you see where the modal goes in a weil clause: it jumps behind the infinitive and takes the very last place.",
      "deeper": {
-      "text": "The modal verbs are the same ones as before: können, müssen, wollen, dürfen, sollen. Only the place changes. The infinitive stays in the same form, it never changes with the person.",
+      "text": "Compare with the main sentence: Ich muss arbeiten becomes weil ich arbeiten muss. The modal and the infinitive swap places. A trick: the verb that changes with the person is always the very last word. Say weil ich ... muss out loud as one rhythm, and the mistake weil ich muss arbeiten disappears.",
       "example": {
        "de": "Ben schläft lang, weil er heute nicht arbeiten darf.",
        "en": "Ben sleeps long because he is not allowed to work today.",
@@ -11278,7 +11294,7 @@
      "more": "Remember the verb bracket: in a main sentence haben or sein is in place 2 and the participle waits at the end. In a weil clause the bracket closes the other way round. The participle comes first, and haben or sein is the very last word, because it is the conjugated verb. Gearbeitet habe, gegangen bin. Say it out loud as a pair. The participle keeps its form: gearbeitet, gegangen, gegessen.",
      "lead": "The Perfekt also has two verb parts. On this card you see how they sit at the end of a weil clause: the participle first, then haben or sein as the last word.",
      "deeper": {
-      "text": "Haben or sein still follows the same rule as in the main sentence: gehen and kommen use sein, most other verbs use haben. Only the place of the last word changes.",
+      "text": "Haben or sein is the very last word, so a listener only hears which helper you chose at the end. In casual speech some people say weil ich habe gearbeitet, but that is colloquial and counts as wrong in writing and in exams. Keep the order participle first, helper last, and you are safe everywhere.",
       "example": {
        "de": "Wir sind müde, weil wir lange gelaufen sind.",
        "en": "We are tired because we walked a long way.",
@@ -11996,7 +12012,7 @@
      "more": "Nicht is a little word that likes to stand before the last verb. In a weil clause the last verb is at the end, so nicht is right in front of it: weil ich heute nicht arbeite. With a modal, nicht goes before the infinitive: weil ich nicht kommen kann. Practise short dialogues: Warum kommst du nicht? Weil ich arbeiten muss. Wieso arbeitest du nicht? Weil ich heute frei habe. Keep your answers short and clear.",
      "lead": "You can ask a reason and give one. Now you add a negative reason. This card shows where nicht goes inside a weil clause, and how to answer Warum? in short.",
      "deeper": {
-      "text": "Do not forget that nicht can also go before an adjective: weil ich nicht müde bin. If you are unsure, put nicht right in front of the last word or last two words of the weil clause.",
+      "text": "Nicht can also go before an adjective: weil ich nicht müde bin. If you are unsure, put nicht right in front of the last word, or the last two words, of the weil clause. A sharper alternative is kein for nouns: weil ich keine Zeit habe, never weil ich nicht Zeit habe.",
       "example": {
        "de": "Weil das Wetter nicht schön ist.",
        "en": "Because the weather is not nice.",
@@ -12194,7 +12210,7 @@
       "text": "Finde works with a thing and an adjective, but you can also say Ich finde es gut, weil ... when the thing is clear. A friend will understand. Both versions are very common in everyday talk, so you can choose the shorter one.",
       "example": {
        "de": "Ich finde es einfach, weil ich viel lerne.",
-       "en": "I find it easy because I know the words.",
+       "en": "I find it easy because I study a lot.",
        "parts": [
         [
          "Ich",
@@ -12235,10 +12251,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:8Vmwekr6WN4"
+     "yt:8Vmwekr6WN4",
+     "yt:qDrgJz9V2Yk"
     ],
     "nicosWeg": [
-     "nw:a2-05"
+     "nw:a2-05",
+     "nw:a2-24"
     ]
    },
    "drills": [
@@ -13006,26 +13024,30 @@
      "more": "A homepage is like a shop window. You do not read every word. You look for six things, one after the other. First the name, so you know you are in the right place. Then the opening hours: is it open on Friday evening? Then the menu and the dish of the day: is there something you like? At the end the address and the phone number, so you can find the place and call. Now you have the whole picture in about thirty seconds.",
      "lead": "Before you go, you check the homepage. On this card you learn which six things to look for and where to find them, so you can read any restaurant page quickly.",
      "deeper": {
-      "text": "Zweiundzwanzig Uhr is the same as ten in the evening. Opening hours are often written with the 24-hour clock: 11 bis 22 Uhr. So 19 Uhr is seven in the evening, and 22 Uhr is ten at night.",
+      "text": "Zweiundzwanzig Uhr is the same as ten in the evening. Opening hours are often written with the 24-hour clock: 11 bis 22 Uhr. So 19 Uhr is seven in the evening. Look for Ruhetag too: it is the day a restaurant is closed, often Monday, so check it before you walk there.",
       "example": {
-       "de": "Die Adresse steht hier.",
-       "en": "The address is here.",
+       "de": "Wir kommen um 19 Uhr.",
+       "en": "We are coming at 7 pm.",
        "parts": [
         [
-         "Die",
-         "article"
+         "Wir",
+         "subject"
         ],
         [
-         "Adresse",
-         "noun"
-        ],
-        [
-         "steht",
+         "kommen",
          "verb"
         ],
         [
-         "hier.",
-         "place"
+         "um",
+         "preposition"
+        ],
+        [
+         "19",
+         "time"
+        ],
+        [
+         "Uhr.",
+         "time"
         ]
        ]
       }
@@ -13151,7 +13173,7 @@
      "more": "Booking a table has two questions: for how many people, and when. Answer them in two short pieces. For the people say für vier Personen, with für and the number. For the time say am Freitag um 19 Uhr. Am goes with the days of the week, and um goes with the clock time. You already know am Montag and um acht Uhr, so you only put them together. Reservieren is a normal verb: ich reserviere, und das Perfekt ist hat reserviert.",
      "lead": "You found the page and you like the place. Now you book. This card gives you the sentences for the phone or the form: how many people, which day, which time.",
      "deeper": {
-      "text": "Germans write 19 Uhr and say neunzehn Uhr or sieben Uhr abends. Both are right. On the phone people say Um sieben, bitte. The waiter often answers: Gern, der Tisch ist reserviert.",
+      "text": "Germans write 19 Uhr and say neunzehn Uhr or sieben Uhr abends. On the phone you will hear Auf welchen Namen? (under which name?). Answer with your name, and spell it if it is unusual. The waiter often ends with Gern, der Tisch ist reserviert. Learn Auf welchen Namen? as one piece.",
       "example": {
        "de": "Der Tisch ist reserviert.",
        "en": "The table is reserved.",
@@ -13611,7 +13633,7 @@
      "more": "The waiter asks Warum nehmen Sie das Tagesgericht? You have just learned how to answer. First your choice: Ich nehme das Tagesgericht. Then a comma and weil. Then the reason, with the verb at the end like a tail: weil das günstig ist. It works the same way with every dish. The waiter will find it very natural. You only need a short reason: Hunger, Durst, günstig, vegetarisch.",
      "lead": "You know weil from the last two lessons. This card puts it to work at the table: you choose a dish and say why, with the verb at the end of the reason.",
      "deeper": {
-      "text": "You can also put the reason first: Weil ich Durst habe, nehme ich ein Wasser. The verb of the main sentence comes next, just like in lesson 8. Both ways are fine at the table.",
+      "text": "You can put the reason first: Weil ich Durst habe, nehme ich ein Wasser. The verb of the main sentence comes next, just like in lesson 8. In real restaurants people rarely explain a choice unless asked, so save this for a friendly chat or for when the waiter asks Warum?",
       "example": {
        "de": "Weil ich Durst habe, nehme ich ein Wasser.",
        "en": "Because I am thirsty, I take a water.",
@@ -13777,10 +13799,10 @@
        ]
       ]
      },
-     "more": "After the dinner you tell a friend what happened. The story needs the Perfekt: haben or sein in place 2, the participle at the end. Gegessen and bezahlt go with haben, gegangen goes with sein. For the opinion use a very short word, war, the past of ist. Das Essen war lecker. Because war has a short form you already know it. And you can always add a reason with weil, with the verb at the end.",
+     "more": "After the dinner you tell a friend what happened. The story needs the Perfekt: haben or sein in place 2, the participle at the end. Gegessen and bezahlt go with haben, gegangen goes with sein. For the opinion use a very short word, war, the past of ist. Das Essen war lecker. And you can always add a reason with weil, with the verb at the end.",
      "lead": "After a meal you tell friends about it. This card shows how to talk about the evening with the Perfekt and war, so you can say what you ate and how it was.",
      "deeper": {
-      "text": "War is the past of ist. It is a very common word. Das war gut, Das war lecker, Das war teuer. For a story use the Perfekt, but for opinions war is shorter and sounds natural.",
+      "text": "War is the past of ist, and Germans really say it in speech: Das war gut, Das war lecker, Das war teuer. It is one of only two verbs with this short past; the other is hatte. For the story use the Perfekt, for a quick opinion about the past use war. The pair works well: Wir haben gegessen, und das Essen war lecker.",
       "example": {
        "de": "Ben hat die Rechnung bezahlt.",
        "en": "Ben paid the bill.",
@@ -13924,7 +13946,7 @@
      "more": "Imagine a normal day. In the morning a Frühstück, at midday the big warm meal, in the evening something light with bread. That is the traditional plan. Restaurants have cheap lunch dishes, so lunch is the best time to eat out. When you pay, you say the total and add a little tip: Stimmt so! means keep the change. If you are invited to a party at a flat, people often bring something: Wir haben was mitgebracht.",
      "lead": "To end this lesson, a short look at habits. This card tells you when Germans eat, how much they tip and what you do when you are invited, so you know what to expect.",
      "deeper": {
-      "text": "At a party in a flat people often bring a dish or a drink. Mira says Wir haben Salat mitgebracht, because bringing something is polite. Mitbringen is a separable verb: Ich bringe einen Salat mit.",
+      "text": "At a party in a flat people often bring a dish or a drink. Mira says Wir haben Salat mitgebracht, because bringing something is polite. Mitbringen is a separable verb: Ich bringe einen Salat mit. Nobody expects something expensive: flowers or a bottle are typical for a first visit, and you take your shoes off at the door.",
       "example": {
        "de": "Ich bringe einen Salat mit.",
        "en": "I bring a salad.",
@@ -13960,7 +13982,8 @@
      "yt:nwssCpXoe-4"
     ],
     "nicosWeg": [
-     "nw:a2-30"
+     "nw:a2-30",
+     "nw:a2-35"
     ]
    },
    "drills": [
