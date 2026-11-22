@@ -254,7 +254,7 @@
      "more": "Think of a home as a big box with smaller boxes inside. Each small box has a name. The names ending in -zimmer all belong to the das family, so you only learn one rule for all of them. Bad is just a short nickname for Badezimmer. People say Bad every day because it is quicker. The other room words, like Balkon, Garten and Keller, are der-words, and Dusche is a die-word. Say each one out loud with its article.",
      "lead": "In the introduction you used one room name. This card gives you all the rooms at once, with their articles and plurals, so you can name every part of a home.",
      "deeper": {
-      "text": "Many room words are two words stuck together: Kinder (children) + Zimmer (room) = Kinderzimmer. The last word decides the article, so every -zimmer word is das. Bad keeps das, but its plural changes to Bäder.",
+      "text": "Many room words are two words glued together: Kinder (children) + Zimmer (room) = Kinderzimmer, Schlaf (sleep) + Zimmer = Schlafzimmer. The last word decides the article, so every -zimmer word is das. In real life people often drop the -zimmer: they say Wohnzimmer, but just Bad for the bathroom and Küche for the kitchen.",
       "example": {
        "de": "Das Kinderzimmer ist klein.",
        "en": "The children's room is small.",
@@ -390,10 +390,10 @@
      "more": "A German adjective after ist is like a label on a box. The label always says the same thing, no matter if the box is a der-box, a die-box or a das-box. Der Garten ist schön. Die Dusche ist schön. Das Zimmer ist schön. The word schön never gets a new ending here. You know many adjectives already: groß, klein, schön, laut, ruhig, teuer, neu, alt. Now you can use them with every room.",
      "lead": "The first card gave you the room names. Here you describe them: one short pattern with ist and an adjective, which works for every room and every adjective you know.",
      "deeper": {
-      "text": "The adjective after ist has no ending, whatever the article is. English does the same: the room is big, the garden is big. Only before a noun does a German adjective change, and you learn that later.",
+      "text": "The adjective after ist has no ending, whatever the article is. English does the same: the room is big, the garden is big. You can also put two adjectives after ist with und: Das Zimmer ist klein und ruhig. Both stay bare. Only an adjective before a noun gets an ending, and you meet that later.",
       "example": {
-       "de": "Das Schlafzimmer ist ruhig.",
-       "en": "The bedroom is quiet.",
+       "de": "Das Schlafzimmer ist klein und ruhig.",
+       "en": "The bedroom is small and quiet.",
        "parts": [
         [
          "Das",
@@ -406,6 +406,14 @@
         [
          "ist",
          "verb"
+        ],
+        [
+         "klein",
+         "adjective"
+        ],
+        [
+         "und",
+         "conjunction"
         ],
         [
          "ruhig.",
@@ -536,33 +544,25 @@
       "sehr groß: very big",
       "zu groß: too big (a problem)"
      ],
-     "more": "Picture a ladder with four steps. At the bottom is nicht: no. Then comes ziemlich: quite, so so. Higher up is sehr: very. All three are about the same direction, up to a lot. But zu is not a step on the ladder. It is a warning sign: too much, so it is a problem. Das Zimmer ist sehr schön is a happy sentence. Das Zimmer ist zu klein means you cannot use it.",
+     "more": "Think of English: my foot hurts, but my feet hurt. English also changes the verb, from hurts to hurt. German does the same with tut and tun. The trick is to look at the noun first. Does it show more than one, with an ending like -e or -en, or an umlaut? Füße, Beine, Augen and Ohren all do. Then the verb takes -n: tun. Step 1: find the noun. Step 2: one or many? Step 3: tut or tun, and weh at the end. Extra example: Meine Ohren tun weh. = My ears hurt.",
      "lead": "You can now say a room is big or small. This card adds four small words that put the adjective on a scale, so you can say how big and whether that is good or bad.",
      "deeper": {
-      "text": "sehr is a compliment or a strong fact; zu is a complaint. Sehr groß is nice, but zu groß means bigger than you want. The word order is always the same: ist + small word + adjective.",
+      "text": "One surprise: alles (everything) counts as one thing, even though it means many body parts. So you say Alles tut weh, with tut, not tun. You hear this after a long day or with the flu. The same goes for das: Das tut weh! (That hurts!) is what people shout when they bump into something. Both words take the singular verb.",
       "example": {
-       "de": "Das Zimmer ist sehr ruhig.",
-       "en": "The room is very quiet.",
+       "de": "Alles tut weh.",
+       "en": "Everything hurts.",
        "parts": [
         [
-         "Das",
-         "article"
+         "Alles",
+         "subject"
         ],
         [
-         "Zimmer",
-         "noun"
-        ],
-        [
-         "ist",
+         "tut",
          "verb"
         ],
         [
-         "sehr",
-         "other"
-        ],
-        [
-         "ruhig.",
-         "adjective"
+         "weh.",
+         "verb2"
         ]
        ]
       }
@@ -678,10 +678,10 @@
        ]
       ]
      },
-     "more": "Ist and sind work like one and many. One room: ist. Two rooms or more: sind. You know this from sein in chapter 2, where ich bin, wir sind. The adjective is the lucky part: it stays exactly the same. Das Bad ist klein and Die Bäder sind klein both end in klein. So you only have to decide two things: ist or sind, and how much with nicht, ziemlich, sehr or zu.",
+     "more": "Imagine a form at the doctor's. There is no space for a long sentence, so one word must do the job: Kopfschmerzen. That is why German loves glued words. English has a few too: headache, toothache, backache. German simply uses Schmerzen for all of them and puts the body part in front. Step 1: name the body part. Step 2: glue Schmerzen onto it. Step 3: put it after ich habe or er hat, with no ein. Extra example: Leon hat Rückenschmerzen. = Leon has back pain.",
      "lead": "Now you can say how a room is. This card adds the plural: with more than one room the verb becomes sind, and the ladder words work exactly as before.",
      "deeper": {
-      "text": "When you describe two things with the same adjective, you can join them with und and use sind: Das Bad und die Küche sind klein. Two things together always need sind.",
+      "text": "When you describe two things with the same adjective, join them with und and use sind: Das Bad und die Küche sind klein. Two things together always count as many, even if each one is singular. English works the same way: the bathroom and the kitchen are small, never is small.",
       "example": {
        "de": "Das Bad und die Küche sind klein.",
        "en": "The bathroom and the kitchen are small.",
@@ -811,9 +811,9 @@
      "more": "You already know im Büro and in der Kantine from chapter 7. Today you only copy the same pattern with new places. Think of im Erdgeschoss and in der ersten Etage as little blocks that you put at the end of the sentence, like stickers. You do not have to take them apart now. In lesson 3 you open the blocks and see why it is im and in der.",
      "lead": "You can describe rooms. This card tells where they are: four ready-made chunks for floors and places that you can put at the end of a sentence, without any new rules.",
      "deeper": {
-      "text": "In German, the ground floor is the Erdgeschoss, and the first floor is the next one up, so it is one floor higher than the street level. The chunk in der ersten Etage is the same as the English first floor.",
+      "text": "Careful with floors. The German Erdgeschoss is the floor at street level, and die erste Etage is the next one up, like British English. In American English that would be the second floor. Many Germans also say der erste Stock for the same floor: im ersten Stock means the same as in der ersten Etage.",
       "example": {
-       "de": "Das Bad ist in der ersten Etage.",
+       "de": "Das Bad ist im ersten Stock.",
        "en": "The bathroom is on the first floor.",
        "parts": [
         [
@@ -829,8 +829,16 @@
          "verb"
         ],
         [
-         "in der ersten Etage.",
-         "place"
+         "im",
+         "dative"
+        ],
+        [
+         "ersten",
+         "adjective"
+        ],
+        [
+         "Stock.",
+         "noun"
         ]
        ]
       }
@@ -937,7 +945,7 @@
      "more": "There are two kinds of questions. With a question word, like wie, the question word comes first and the verb is second: Wie ist das Zimmer? Without a question word, the verb jumps to the very front: Ist das Bad groß? You can answer with Ja or Nein and then a full sentence. Use es for das-words, er for der-words and sie for die-words, so you do not repeat the noun.",
      "lead": "Now you can describe rooms. This last card lets you ask about them, with Wie ist ...? and with yes/no questions, and answer in a short, natural way.",
      "deeper": {
-      "text": "To avoid saying the same noun again, use er for der-words, sie for die-words and es for das-words. Ist der Garten schön? Ja, er ist sehr schön. In a short answer, Ja or Nein stands first, then a comma, then the full sentence. This is how people really answer in a flat.",
+      "text": "To avoid saying the same noun again, use er for der-words, sie for die-words and es for das-words, even for things: Ist der Garten schön? Ja, er ist sehr schön. Here er means it, not he. In a short answer, Ja or Nein stands first, then a comma, then the full sentence.",
       "example": {
        "de": "Ja, er ist sehr schön.",
        "en": "Yes, it is very nice.",
@@ -969,7 +977,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:jlZjNcgItlY"
+     "yt:jlZjNcgItlY",
+     "yt:an232kkTEMk"
     ],
     "nicosWeg": [
      "nw:a1-24"
@@ -1677,7 +1686,7 @@
      "more": "An ad is like a text message in code. Instead of Die Wohnung hat drei Zimmer, it says 3 Zi. Instead of fünfundsiebzig Quadratmeter, it says 75 m². You do not need to write the code, only to read it. Go from left to right and ask a small question for each piece: how many rooms, how big, how much, what extras, from when, where? The ad is then a full little description of the flat.",
      "lead": "Lesson 1 gave you the rooms. This card shows how an ad packs rooms, size, rent and place into a few signs, so you can decode a real ad from left to right.",
      "deeper": {
-      "text": "In an ad, 3 Zi. means three living areas. The kitchen and the bathroom are usually not counted. So a 3-Zimmer flat has, for example, a living room and two bedrooms, plus a kitchen and a bath.",
+      "text": "In an ad, 3 Zi. counts the living rooms only. The kitchen, the bathroom and the hall are usually not counted. So a 3-Zimmer flat has, for example, a living room and two bedrooms, plus a kitchen and a bath. A 1-Zimmer flat is one room with a small kitchen: perfect for a student.",
       "example": {
        "de": "Die Wohnung hat ein Wohnzimmer und zwei Schlafzimmer.",
        "en": "The flat has a living room and two bedrooms.",
@@ -1700,7 +1709,7 @@
         ],
         [
          "Wohnzimmer",
-         "object"
+         "noun"
         ],
         [
          "und",
@@ -1712,7 +1721,7 @@
         ],
         [
          "Schlafzimmer.",
-         "object"
+         "noun"
         ]
        ]
       }
@@ -1851,10 +1860,10 @@
      "more": "Big numbers in German are built like Lego, and they are one long word. Take the hundreds first: drei-hundert. Then the ones, then und, then the tens: fünf-und-siebzig. So 375 is dreihundertfünfundsiebzig. It looks long, but the pieces are small. Read the rent first, then the size. Euro and Quadratmeter do not change after a number, so you say fünfundsiebzig Quadratmeter, never Quadratmeters.",
      "lead": "You can decode the signs of an ad. Now the numbers: this card shows how to read rent and size aloud, with hundreds, tens and ones, the way a landlord would say them.",
      "deeper": {
-      "text": "From 100 to 999, say the hundreds first, then the rest as in chapter 2. 999 is neunhundertneunundneunzig. Quadratmeter has the same plural as the singular: ein Quadratmeter, fünfzig Quadratmeter.",
+      "text": "Sizes and prices are not always round. German writes a comma where English writes a point: 75,5 m² is fünfundsiebzig Komma fünf Quadratmeter. With money you say the euros, then the cents, without Komma: 8,50 € is acht Euro fünfzig. Quadratmeter and Euro keep the same form after any number.",
       "example": {
-       "de": "Das Bad ist fünf Quadratmeter groß.",
-       "en": "The bathroom is five square metres.",
+       "de": "Das Bad ist acht Komma fünf Quadratmeter groß.",
+       "en": "The bathroom is 8.5 square metres.",
        "parts": [
         [
          "Das",
@@ -1869,12 +1878,20 @@
          "verb"
         ],
         [
+         "acht",
+         "other"
+        ],
+        [
+         "Komma",
+         "other"
+        ],
+        [
          "fünf",
          "other"
         ],
         [
          "Quadratmeter",
-         "other"
+         "noun"
         ],
         [
          "groß.",
@@ -2010,17 +2027,17 @@
      "more": "You already know how to describe a room: the room, ist, an adjective. Now you have four more adjectives that fit a flat perfectly. Hell is when a lot of light comes in. Dunkel is the opposite. Modern looks like the English word. Frei means that nobody lives there, so you can move in. The little words from lesson 1, like sehr and zu, still work: sehr hell, zu dunkel.",
      "lead": "In the ad you saw frei and Zentrum. This card gives you the words to describe the flat in your own sentences, with the same ist + adjective pattern as in lesson 1.",
      "deeper": {
-      "text": "hell and dunkel are opposites, like groß and klein. A flat with a lot of windows is hell. A flat in the cellar or with small windows is often dunkel. Both words can use the ladder words: ziemlich hell, sehr dunkel, zu dunkel.",
+      "text": "Careful with frei. In an ad it means available: nobody lives there, so you can move in. It does not mean that the flat costs nothing. For no money, Germans say kostenlos. So Die Wohnung ist ab Mai frei is about the date, not the price. Noch frei means still available.",
       "example": {
-       "de": "Das Wohnzimmer ist sehr hell.",
-       "en": "The living room is very bright.",
+       "de": "Das Zimmer ist noch frei.",
+       "en": "The room is still available.",
        "parts": [
         [
          "Das",
          "article"
         ],
         [
-         "Wohnzimmer",
+         "Zimmer",
          "noun"
         ],
         [
@@ -2028,11 +2045,11 @@
          "verb"
         ],
         [
-         "sehr",
+         "noch",
          "other"
         ],
         [
-         "hell.",
+         "frei.",
          "adjective"
         ]
        ]
@@ -2287,26 +2304,30 @@
      "more": "Ask one question: what do I want to say no to? If it is a noun, like Balkon or Wohnung, use kein: it replaces ein. If it is an adjective, like groß or teuer, or the whole action, like kommen, use nicht. So Die Wohnung hat keinen Balkon says no to the balcony. Die Wohnung ist nicht groß says no to big. The two words never swap places, so the wrong versions sound strange in German.",
      "lead": "You can say what a flat has and how it is. This card helps you choose between the two ways to say no: nicht for adjectives and verbs, kein for nouns.",
      "deeper": {
-      "text": "kein is simply ein with a k, so it follows the same endings as ein. For plural nouns use keine, because ein has no plural. Anna hat keine Katzen. Never put nicht in front of a noun.",
+      "text": "One more rule: with der, die, das or mein, you say no with nicht, not kein. Das ist nicht die Wohnung means it is the wrong flat. Das ist keine Wohnung means it is not a flat at all. So kein replaces ein; nicht stands in front of der, die, das or mein.",
       "example": {
-       "de": "Anna hat keine Katzen.",
-       "en": "Anna has no cats.",
+       "de": "Das ist nicht meine Wohnung.",
+       "en": "That is not my flat.",
        "parts": [
         [
-         "Anna",
+         "Das",
          "subject"
         ],
         [
-         "hat",
+         "ist",
          "verb"
         ],
         [
-         "keine",
+         "nicht",
+         "negation"
+        ],
+        [
+         "meine",
          "article"
         ],
         [
-         "Katzen.",
-         "object"
+         "Wohnung.",
+         "noun"
         ]
        ]
       }
@@ -2367,16 +2388,16 @@
        ]
       },
       {
-       "de": "Frau Weber ist die Vermieterin.",
-       "en": "Frau Weber is the landlady.",
+       "de": "Die Vermieterin ist nett.",
+       "en": "The landlady is nice.",
        "why": "Vermieter + -in = Vermieterin.",
        "parts": [
         [
-         "Frau",
-         "subject"
+         "Die",
+         "article"
         ],
         [
-         "Weber",
+         "Vermieterin",
          "subject"
         ],
         [
@@ -2384,12 +2405,8 @@
          "verb"
         ],
         [
-         "die",
-         "article"
-        ],
-        [
-         "Vermieterin.",
-         "noun"
+         "nett.",
+         "adjective"
         ]
        ]
       }
@@ -2419,24 +2436,28 @@
        [
         "die Vermieterin",
         "landlady",
-        "Frau Weber ist die Vermieterin."
+        "Die Vermieterin ist nett."
        ]
       ]
      },
-     "more": "Two small verbs help you with a flat. Suchen means to look for. Mieten means to rent, so you pay money every month and the flat stays the house of somebody else. The person who owns the flat and rents it to you is the Vermieter. A woman is a Vermieterin. You know the -in trick from Freund and Freundin, and Nachbar and Nachbarin. Möchte plus a verb at the end is the bracket from chapter 5.",
+     "more": "Two small verbs help you with a flat. Suchen means to look for. Mieten means to rent: you pay money every month, and the flat stays the property of somebody else. The person who owns the flat and rents it to you is the Vermieter. A woman is a Vermieterin. You know the -in trick from Freund and Freundin. Möchte plus a verb at the end is like the bracket with können from chapter 5: Ich möchte eine Wohnung mieten. Extra example: Ben sucht ein Zimmer. = Ben is looking for a room.",
      "lead": "You can read an ad and describe a flat. This card lets you say what you do: look for a flat and rent one, and name the person you rent from.",
      "deeper": {
-      "text": "mieten means you pay the owner each month. The opposite idea is kaufen, to buy. In Germany many people rent. The owner of the flat, Frau Weber for example, is the Vermieter or Vermieterin.",
+      "text": "mieten means you pay the owner each month to live in a flat. The owner does the other side: vermieten, to rent out. So der Vermieter vermietet, and der Mieter (the tenant) mietet. Ver- turns the verb around, a bit like English rent and rent out. The opposite of mieten is kaufen, to buy.",
       "example": {
-       "de": "Mira mietet die Wohnung.",
-       "en": "Mira rents the flat.",
+       "de": "Der Vermieter vermietet die Wohnung.",
+       "en": "The landlord rents out the flat.",
        "parts": [
         [
-         "Mira",
+         "Der",
+         "article"
+        ],
+        [
+         "Vermieter",
          "subject"
         ],
         [
-         "mietet",
+         "vermietet",
          "verb"
         ],
         [
@@ -2572,30 +2593,38 @@
      "more": "In Germany it is normal to rent a flat for many years. The price in the ad is usually the Kaltmiete. Kalt means cold, so the price has no heating in it. Heating and water cost extra every month. Together they make the total rent. So when you see 850 € KM, the real price is a bit higher. Pro Monat is a fixed phrase that means each month. You will see it on every contract.",
      "lead": "You can read an ad and look for a flat. This short card shows what the rent in an ad really means in Germany, and gives you the useful chunk pro Monat.",
      "deeper": {
-      "text": "KM in an ad stands for Kaltmiete. The warm rent is the Kaltmiete plus heating and other costs, so it is higher. It is smart to ask the Vermieter about the total before you say yes to a flat.",
+      "text": "KM in an ad stands for Kaltmiete. Often you also see NK for Nebenkosten: heating, water and rubbish. Kaltmiete plus Nebenkosten is the Warmmiete, the real price per month. So 850 € KM + 150 € NK means you pay 1000 euros. Always ask: Wie hoch ist die Warmmiete?",
       "example": {
-       "de": "Die Wohnung ist ziemlich teuer.",
-       "en": "The flat is quite expensive.",
+       "de": "Die Warmmiete ist tausend Euro pro Monat.",
+       "en": "The total rent is 1000 euros a month.",
        "parts": [
         [
          "Die",
          "article"
         ],
         [
-         "Wohnung",
-         "noun"
+         "Warmmiete",
+         "subject"
         ],
         [
          "ist",
          "verb"
         ],
         [
-         "ziemlich",
+         "tausend",
          "other"
         ],
         [
-         "teuer.",
-         "adjective"
+         "Euro",
+         "noun"
+        ],
+        [
+         "pro",
+         "preposition"
+        ],
+        [
+         "Monat.",
+         "noun"
         ]
        ]
       }
@@ -2813,14 +2842,14 @@
     },
     {
      "type": "choice",
-     "prompt": "Frau Weber ist die ___.",
+     "prompt": "Die ___ ist nett. (landlady)",
      "options": [
       "Vermieter",
       "Miete",
       "Vermieterin"
      ],
      "answer": 2,
-     "hint": "She is a woman.",
+     "hint": "She owns the flat and is a woman.",
      "explanation": "Vermieterin = landlady."
     },
     {
@@ -2930,8 +2959,8 @@
        "en": "The landlord is nice."
       },
       {
-       "de": "Frau Weber ist die Vermieterin.",
-       "en": "Frau Weber is the landlady."
+       "de": "Die Vermieterin ist nett.",
+       "en": "The landlady is nice."
       }
      ],
      "article": "der",
@@ -3295,7 +3324,7 @@
      "more": "Möbel is a funny word. In English furniture is one thing: the furniture is old. In German Möbel is plural: die Möbel sind alt. A single piece has its own name, like Sofa, Sessel or Schrank. Learn each name with der, die or das. The same article will matter in a minute, because the dative article is made from it. For one table you say der Tisch, and later auf dem Tisch.",
      "lead": "In the introduction you saw one piece of furniture. This card gives you the whole set of words, with articles and plurals, so you can say where each one is.",
      "deeper": {
-      "text": "Schrank has a plural with an Umlaut: die Schränke. A Sessel is an armchair and a Sofa is a sofa for two or more people. A Regal is a shelf, often for books. Möbel has no singular in everyday German.",
+      "text": "Möbel has no singular in everyday German. For one piece, Germans say das Möbelstück, but mostly they just name it: das Sofa, der Schrank. Schrank has a plural with an Umlaut: die Schränke. A Sessel is for one person, a Sofa for two or more. A Regal is open, a Schrank has doors.",
       "example": {
        "de": "Die Schränke sind groß.",
        "en": "The wardrobes are big.",
@@ -3306,7 +3335,7 @@
         ],
         [
          "Schränke",
-         "noun"
+         "subject"
         ],
         [
          "sind",
@@ -3415,26 +3444,26 @@
      "more": "Wo? means where something is. The answer has three parts: first the thing, then ist, then a small place word with its noun. The noun is in the dative: dem for der-words and das-words, der for die-words. In chapter 7 you used the same words after mit. So you only learn a new place word, and the dative stays the same. Think of the dative as the case of the place where something stays.",
      "lead": "Now you know the furniture words. This card shows the question and the answer pattern for the place of a thing, with a place word and the dative that you already know.",
      "deeper": {
-      "text": "The question word Wo asks only where something is, not where it goes. Where something goes has a different case, and you learn that in lesson 7. For now, all answers use ist and the dative.",
+      "text": "For more than one thing, ask Wo sind ...? and answer with sind: Wo sind die Bücher? Die Bücher sind im Regal. The place part does not change, only ist becomes sind. Wo asks only where something is, not where it goes. Where something goes uses a different case, and you learn that in lesson 7.",
       "example": {
-       "de": "Wo ist das Sofa?",
-       "en": "Where is the sofa?",
+       "de": "Wo sind die Bücher?",
+       "en": "Where are the books?",
        "parts": [
         [
          "Wo",
          "question"
         ],
         [
-         "ist",
+         "sind",
          "verb"
         ],
         [
-         "das",
+         "die",
          "article"
         ],
         [
-         "Sofa?",
-         "noun"
+         "Bücher?",
+         "subject"
         ]
        ]
       }
@@ -3566,18 +3595,18 @@
      "more": "You know in from chapter 7. Now you see all four forms together. For a der-word or das-word, in dem melts into im. For a die-word, you say in der. For plural words, you say in den and add an n to the noun: die Schränke becomes in den Schränken. The extra n is the sign of the dative plural. If the plural already ends in n, you add nothing: in den Küchen.",
      "lead": "You answered Wo? with im in lesson 1. This card opens that chunk and shows the whole rule for in: four forms, one for each gender and one for the plural.",
      "deeper": {
-      "text": "A plural noun gets an extra -n in the dative, but not when it already ends in -n or -s. Die Zimmer becomes in den Zimmern, but die Küchen stays in den Küchen. Learn the short rule once and you can use it with all nouns.",
+      "text": "The dative plural -n has two exceptions. Plurals that already end in -n stay as they are: in den Küchen. Plurals with -s never take -n: in den Sofas, in den Büros. All other plurals add it: die Zimmer becomes in den Zimmern, die Regale becomes in den Regalen.",
       "example": {
-       "de": "Die Blumen sind in den Zimmern.",
-       "en": "The flowers are in the rooms.",
+       "de": "Die Bücher sind in den Regalen.",
+       "en": "The books are on the shelves.",
        "parts": [
         [
          "Die",
          "article"
         ],
         [
-         "Blumen",
-         "noun"
+         "Bücher",
+         "subject"
         ],
         [
          "sind",
@@ -3592,7 +3621,7 @@
          "dative"
         ],
         [
-         "Zimmern.",
+         "Regalen.",
          "noun"
         ]
        ]
@@ -4058,21 +4087,21 @@
      "more": "Now put the three place words in one table. The rule is the same for in, auf and an. For a der-word you need dem. For a das-word you need dem too. For a die-word you need der. For a plural you need den, and an extra n on the noun. If you use ein or mein, the endings follow the same pattern: einem, einer, meinem, meiner. You already know these from chapter 7. So there is only one table to learn, not three.",
      "lead": "You have seen in, auf and an one by one. This card puts the three together in one table, so you can see that the dative forms are the same for all of them.",
      "deeper": {
-      "text": "The dative forms of ein and mein follow the same pattern as dem and der: einem Tisch, einer Wand, einem Fenster. For plurals there is no ein, so you use meinen + n: auf meinen Stühlen.",
+      "text": "The same table works for every ein-word and possessive: dein, sein, ihr, unser and kein. So you can say Das Handy ist in keinem Zimmer, or Die Lampe ist auf deinem Tisch. Learn dem, der, dem, den once, and every word in the family copies the ending: -em, -er, -em, -en.",
       "example": {
-       "de": "Die Bücher sind auf meinen Stühlen.",
-       "en": "The books are on my chairs.",
+       "de": "Das Handy ist auf deinem Tisch.",
+       "en": "The phone is on your table.",
        "parts": [
         [
-         "Die",
+         "Das",
          "article"
         ],
         [
-         "Bücher",
-         "noun"
+         "Handy",
+         "subject"
         ],
         [
-         "sind",
+         "ist",
          "verb"
         ],
         [
@@ -4080,11 +4109,11 @@
          "preposition"
         ],
         [
-         "meinen",
+         "deinem",
          "dative"
         ],
         [
-         "Stühlen.",
+         "Tisch.",
          "noun"
         ]
        ]
@@ -5118,7 +5147,7 @@
      "more": "Picture two chairs in a row. One chair is neben the other: they stand side by side. After neben you answer Wo?, so the dative comes. You know the four forms: dem for der-words and das-words, der for die-words, den for the plural, plus an n on the noun. Betten already ends in n, so it stays Betten. Neben never melts together with dem, so you say neben dem, in two words.",
      "lead": "You can now name the machines. On this card the first new place word: neben. You will see that it takes the same dative forms as in, auf and an, so you only learn one new word.",
      "deeper": {
-      "text": "neben only says the two things are side by side. It does not say which side. For left or right, put links or rechts before it: links neben dem Sofa. Both words together tell the full picture.",
+      "text": "neben only says the two things are side by side. It does not say which side. For that, put links (left) or rechts (right) in front: links neben dem Sofa, rechts neben dem Herd. In a flat viewing you hear this all the time, because it helps you picture the room without seeing it.",
       "example": {
        "de": "Der Fernseher ist links neben dem Sofa.",
        "en": "The TV is on the left, next to the sofa.",
@@ -5129,7 +5158,7 @@
         ],
         [
          "Fernseher",
-         "noun"
+         "subject"
         ],
         [
          "ist",
@@ -5137,7 +5166,7 @@
         ],
         [
          "links",
-         "place"
+         "other"
         ],
         [
          "neben",
@@ -5291,14 +5320,14 @@
      "more": "Hinter and vor are opposites. If you stand in front of a door, you are vor der Tür. If you hide behind the door, you are hinter der Tür. The word vor has two more jobs. In time it means before: vor dem Essen is before the meal. On the clock it means to: zehn vor acht is ten to eight. In all three jobs, the next noun is in the dative, so the pattern stays easy.",
      "lead": "Now that you know neben, this card adds two opposites, hinter and vor. You will also see that vor does three jobs: place, time and clock. That helps you read it in every sentence.",
      "deeper": {
-      "text": "The opposite of vor in time is nach: vor dem Essen, nach dem Essen. Both take the dative. You know nach with the clock too. So you can describe a whole day: vor dem Frühstück, nach dem Frühstück.",
+      "text": "The opposite of vor in time is nach: vor dem Essen, nach dem Essen. Both take the dative, just like vor as a place. You know nach from the clock too: zehn nach acht. So with two small words you can order a whole day: vor dem Frühstück, nach dem Frühstück, nach der Arbeit.",
       "example": {
        "de": "Nach dem Essen trinken wir Kaffee.",
        "en": "After the meal we drink coffee.",
        "parts": [
         [
          "Nach",
-         "preposition"
+         "time"
         ],
         [
          "dem",
@@ -5415,9 +5444,9 @@
        ]
       },
       {
-       "de": "Die Waschmaschine ist zwischen dem Herd und den Betten.",
-       "en": "The washing machine is between the cooker and the beds.",
-       "why": "der Herd → dem, plural → den (Betten already ends in n).",
+       "de": "Die Waschmaschine ist zwischen der Dusche und der Tür.",
+       "en": "The washing machine is between the shower and the door.",
+       "why": "die Dusche → der, die Tür → der.",
        "parts": [
         [
          "Die",
@@ -5425,7 +5454,7 @@
         ],
         [
          "Waschmaschine",
-         "noun"
+         "subject"
         ],
         [
          "ist",
@@ -5436,11 +5465,11 @@
          "preposition"
         ],
         [
-         "dem",
+         "der",
          "dative"
         ],
         [
-         "Herd",
+         "Dusche",
          "noun"
         ],
         [
@@ -5448,11 +5477,11 @@
          "conjunction"
         ],
         [
-         "den",
+         "der",
          "dative"
         ],
         [
-         "Betten.",
+         "Tür.",
          "noun"
         ]
        ]
@@ -5810,7 +5839,7 @@
        ],
        [
         "plural",
-        "keinen",
+        "–",
         "meinen + n",
         "neben meinen Büchern"
        ]
@@ -5965,33 +5994,33 @@
      "more": "A long e sounds like the e in the English word they, but pure and held longer. A short e sounds like the e in bed. How do you know which one? Look at what comes after the e. One consonant: usually long. Two consonants, or a double letter like pp or ss: short. It is only a rule of thumb, and some words are exceptions, like Herd, which has a long e. Say the words aloud and listen.",
      "lead": "You have all seven place words. This last card is about sound: long e and short e. It helps you say words like neben, Regal and Teppich so that people understand you.",
      "deeper": {
-      "text": "The double letter is a signal. In Bett, Teppich and Sessel the doubled consonant tells you the e before it is short. In Tee the double e tells you it is long. So look at the letters after the vowel, and you can guess how to say it.",
+      "text": "An e at the very end of a word, or in an ending like -en, is neither long nor short: it is a soft, quick sound like the a in English sofa. Listen to Kiste, Lampe, Ecke, stehen. Do not say it like a clear e. This soft e is one of the most common sounds in German.",
       "example": {
-       "de": "Der Sessel ist neben dem Bett.",
-       "en": "The armchair is next to the bed.",
+       "de": "Die Lampe steht in der Ecke.",
+       "en": "The lamp stands in the corner.",
        "parts": [
         [
-         "Der",
+         "Die",
          "article"
         ],
         [
-         "Sessel",
-         "noun"
+         "Lampe",
+         "subject"
         ],
         [
-         "ist",
+         "steht",
          "verb"
         ],
         [
-         "neben",
+         "in",
          "preposition"
         ],
         [
-         "dem",
+         "der",
          "dative"
         ],
         [
-         "Bett.",
+         "Ecke.",
          "noun"
         ]
        ]
@@ -6723,34 +6752,26 @@
      "more": "Draw a table on a piece of paper. Put an arrow pointing up above it: that is über. Put an arrow pointing down below it: that is unter. The table in the middle gets the dative, because you answer Wo?. So you say über dem Tisch and unter dem Tisch. If the lamp is on the table, you say auf dem Tisch, because it touches the table. If it is above it, in the air, you say über.",
      "lead": "You know seven place words. On this card two more arrive, über and unter. They are opposites, and they use the same dative as the others.",
      "deeper": {
-      "text": "über and unter do not touch. A picture over a sofa hangs in the air above it, so you say über dem Sofa. If the picture lay on the sofa, you would say auf dem Sofa. Think: touching or not touching? That tells you which word to use.",
+      "text": "When you do not name the thing below, use oben (up, upstairs) and unten (down, downstairs) on their own: Die Lampe ist oben. Das Bad ist unten. They need no article and no case. über and unter always need a noun after them: über dem Tisch. So oben is the short form when the place is clear.",
       "example": {
-       "de": "Das Bild ist über dem Sofa.",
-       "en": "The picture is above the sofa.",
+       "de": "Das Bad ist unten.",
+       "en": "The bathroom is downstairs.",
        "parts": [
         [
          "Das",
          "article"
         ],
         [
-         "Bild",
-         "noun"
+         "Bad",
+         "subject"
         ],
         [
          "ist",
          "verb"
         ],
         [
-         "über",
-         "preposition"
-        ],
-        [
-         "dem",
-         "dative"
-        ],
-        [
-         "Sofa.",
-         "noun"
+         "unten.",
+         "other"
         ]
        ]
       }
@@ -7381,33 +7402,29 @@
      "more": "A good way to choose is a short quiz in your head. Is it a person or an animal who sits? Then sitzen. Is the thing fixed to a wall or ceiling? Then hängen. Is it flat? Then liegen. Does it stand on a base, upright? Then stehen. If you cannot decide, say ist: Das Glas ist auf dem Tisch is correct too. Over time, you will pick the right verb without asking yourself.",
      "lead": "You know all four verbs. This card gives you a small decision tree, so that you can pick the right verb quickly when you describe a room.",
      "deeper": {
-      "text": "Many things can use two verbs depending on the picture. A phone usually lies on a table, but it stands on a stand. If you only want to say where it is, you can say ist. Native speakers often use ist in speech, but the position verbs sound more exact.",
+      "text": "liegen is not only for books. Germans also use it for towns and places on a map: Hamburg liegt im Norden, Die Wohnung liegt im Zentrum. In flat ads you read this all the time. So liegen can mean is located. For people lying in bed it is the normal word too: Leon liegt im Bett.",
       "example": {
-       "de": "Das Handy steht auf dem Tisch.",
-       "en": "The phone stands on the table, on a stand.",
+       "de": "Die Wohnung liegt im Zentrum.",
+       "en": "The flat is in the centre.",
        "parts": [
         [
-         "Das",
+         "Die",
          "article"
         ],
         [
-         "Handy",
-         "noun"
+         "Wohnung",
+         "subject"
         ],
         [
-         "steht",
+         "liegt",
          "verb"
         ],
         [
-         "auf",
-         "preposition"
-        ],
-        [
-         "dem",
+         "im",
          "dative"
         ],
         [
-         "Tisch.",
+         "Zentrum.",
          "noun"
         ]
        ]
@@ -7581,7 +7598,7 @@
      "more": "Nine place words sound like a lot, but you really have one rule: for Wo?, use the dative. The alphabet gives you an easy memory aid. Say them in order: an, auf, hinter, in, neben, über, unter, vor, zwischen. Say it three times a day for a week, and the list will stay in your head. These nine words are special: in lesson 7 you will see that the same words can also answer Wohin?.",
      "lead": "You have collected all the place words, one by one. This card lines up all nine in one table, so you see the whole group and its one rule.",
      "deeper": {
-      "text": "These nine words are sometimes called two-way words, because in lesson 7 you will see that they can also answer a second question, Wohin?, with another case. For today, remember only this: Wo? always means the dative.",
+      "text": "These nine words are called two-way words (Wechselpräpositionen), because in lesson 7 they also answer a second question, Wohin?, with another case. Other place words, like bei and mit from chapter 7, always take the dative and never change. For today, remember only this: Wo? with these nine always means the dative.",
       "example": {
        "de": "Der Stuhl steht vor der Heizung.",
        "en": "The chair stands in front of the radiator.",
@@ -7592,7 +7609,7 @@
         ],
         [
          "Stuhl",
-         "noun"
+         "subject"
         ],
         [
          "steht",
@@ -7934,12 +7951,12 @@
     },
     {
      "type": "type",
-     "prompt": "Ben und Anna ___ auf dem Sofa. (to sit)",
+     "prompt": "Mira und Ben ___ auf dem Sofa. (to sit)",
      "answers": [
       "sitzen"
      ],
      "hint": "Two people: wir/sie form.",
-     "explanation": "Ben und Anna sitzen auf dem Sofa.",
+     "explanation": "Mira und Ben sitzen auf dem Sofa.",
      "grammar": true
     },
     {
@@ -8346,12 +8363,16 @@
      "body": "People live in different kinds of homes. A WG is a flat that several people share. A Hochhaus is a tower block, a Reihenhaus is a house in a row, a Studentenwohnheim is a student hall. Learn each with its article.",
      "examples": [
       {
-       "de": "Leon wohnt in einer WG.",
-       "en": "Leon lives in a shared flat.",
+       "de": "Mein Bruder wohnt in einer WG.",
+       "en": "My brother lives in a shared flat.",
        "why": "die WG → in einer WG.",
        "parts": [
         [
-         "Leon",
+         "Mein",
+         "article"
+        ],
+        [
+         "Bruder",
          "subject"
         ],
         [
@@ -8475,19 +8496,15 @@
      "deeper": {
       "text": "People say WG letter by letter: weh-geh. It is an abbreviation, and nobody says the long word in daily talk. The plural is die WGs, with an s, like many short words and abbreviations. So remember: one WG, two WGs.",
       "example": {
-       "de": "Ben und Leon wohnen in einer WG.",
-       "en": "Ben and Leon live in a shared flat.",
+       "de": "Meine Freunde wohnen in einer WG.",
+       "en": "My friends live in a shared flat.",
        "parts": [
         [
-         "Ben",
-         "subject"
+         "Meine",
+         "article"
         ],
         [
-         "und",
-         "conjunction"
-        ],
-        [
-         "Leon",
+         "Freunde",
          "subject"
         ],
         [
@@ -8698,12 +8715,16 @@
        ]
       },
       {
-       "de": "Leon wohnt bei seinen Eltern.",
-       "en": "Leon lives with his parents.",
+       "de": "Mein Freund wohnt bei seinen Eltern.",
+       "en": "My friend lives with his parents.",
        "why": "plural: seinen Eltern, and Eltern already ends in n.",
        "parts": [
         [
-         "Leon",
+         "Mein",
+         "article"
+        ],
+        [
+         "Freund",
          "subject"
         ],
         [
@@ -8776,30 +8797,34 @@
      "more": "Two small words answer Mit wem?. Mit means with: you share the home, for example mit meiner Schwester. Bei means at the place of someone: bei meinen Eltern means in my parents' home. After both words you need the dative. The possessive word follows the same pattern as ein: meinem, meiner, meinen + n. Allein is an adverb: it never gets an ending.",
      "lead": "You said where you live. Now comes the second question, with whom. This card adds mit, bei and allein, so you can name the people at home.",
      "deeper": {
-      "text": "Eltern is plural and ends in n, so it stays Eltern after the dative article: bei meinen Eltern. For other plurals you add n: mit meinen Brüdern. Only wohnen bei means in the home of someone, a good way to say you live with the family.",
+      "text": "Natives often add zusammen (together): Ich wohne mit meinem Bruder zusammen. And mit and bei are not the same. Ich wohne mit meinen Eltern means we share a home. Ich wohne bei meinen Eltern means I live in their home: it is their flat, not mine. Many young people wohnen bei den Eltern.",
       "example": {
-       "de": "Anna wohnt bei ihrer Schwester.",
-       "en": "Anna lives at her sister's place.",
+       "de": "Ich wohne mit meinem Bruder zusammen.",
+       "en": "I live together with my brother.",
        "parts": [
         [
-         "Anna",
+         "Ich",
          "subject"
         ],
         [
-         "wohnt",
+         "wohne",
          "verb"
         ],
         [
-         "bei",
+         "mit",
          "preposition"
         ],
         [
-         "ihrer",
+         "meinem",
          "dative"
         ],
         [
-         "Schwester.",
+         "Bruder",
          "noun"
+        ],
+        [
+         "zusammen.",
+         "other"
         ]
        ]
       }
@@ -8837,20 +8862,20 @@
        ]
       },
       {
-       "de": "Herr Ali wohnt auf dem Land.",
-       "en": "Herr Ali lives in the countryside.",
+       "de": "Meine Eltern wohnen auf dem Land.",
+       "en": "My parents live in the countryside.",
        "why": "fixed chunk: auf dem Land.",
        "parts": [
         [
-         "Herr",
+         "Meine",
+         "article"
+        ],
+        [
+         "Eltern",
          "subject"
         ],
         [
-         "Ali",
-         "subject"
-        ],
-        [
-         "wohnt",
+         "wohnen",
          "verb"
         ],
         [
@@ -9073,11 +9098,11 @@
      "deeper": {
       "text": "To say a woman, add -in: der Mitbewohner, die Mitbewohnerin. It is the same pattern as Freund and Freundin. The plural of the woman's word is die Mitbewohnerinnen, with a double n. When a group has men and women, the plural die Mitbewohner is used.",
       "example": {
-       "de": "Anna ist meine Mitbewohnerin.",
-       "en": "Anna is my flatmate (a woman).",
+       "de": "Sie ist meine Mitbewohnerin.",
+       "en": "She is my flatmate.",
        "parts": [
         [
-         "Anna",
+         "Sie",
          "subject"
         ],
         [
@@ -9257,7 +9282,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:PKK476h0xEw"
+     "yt:PKK476h0xEw",
+     "yt:fa9K07uIrOo",
+     "yt:GT6ZDpB_7rA"
     ],
     "nicosWeg": [
      "nw:a1-25"
@@ -9290,9 +9317,9 @@
      "type": "choice",
      "prompt": "Which is right?",
      "options": [
-      "Anna wohnt bei ihren Eltern.",
-      "Anna wohnt bei ihre Eltern.",
-      "Anna wohnt bei ihrem Eltern."
+      "Sie wohnt bei ihren Eltern.",
+      "Sie wohnt bei ihre Eltern.",
+      "Sie wohnt bei ihrem Eltern."
      ],
      "answer": 0,
      "hint": "Plural dative: -en.",
@@ -9378,7 +9405,7 @@
    "check": [
     {
      "type": "choice",
-     "prompt": "Mira wohnt in ___ WG.",
+     "prompt": "Meine Schwester wohnt in ___ WG.",
      "options": [
       "einem",
       "eine",
@@ -9417,7 +9444,8 @@
      "prompt": "Write in German: I live with my parents.",
      "answers": [
       "Ich wohne bei meinen Eltern.",
-      "Ich wohne mit meinen Eltern."
+      "Ich wohne mit meinen Eltern.",
+      "Ich wohne mit meinen Eltern zusammen."
      ],
      "hint": "Plural dative: meinen.",
      "explanation": "Ich wohne bei meinen Eltern.",
@@ -9515,8 +9543,8 @@
      "en": "shared flat (Wohngemeinschaft)",
      "examples": [
       {
-       "de": "Leon wohnt in einer WG.",
-       "en": "Leon lives in a shared flat."
+       "de": "Mein Bruder wohnt in einer WG.",
+       "en": "My brother lives in a shared flat."
       },
       {
        "de": "Wir sind drei Mitbewohner in der WG.",
@@ -9547,8 +9575,8 @@
      "en": "student hall",
      "examples": [
       {
-       "de": "Mira wohnt im Studentenwohnheim.",
-       "en": "Mira lives in a student hall."
+       "de": "Mein Freund wohnt im Studentenwohnheim.",
+       "en": "My friend lives in a student hall."
       },
       {
        "de": "Das Studentenwohnheim ist nicht teuer.",
@@ -9583,8 +9611,8 @@
        "en": "I have three flatmates."
       },
       {
-       "de": "Anna ist meine Mitbewohnerin.",
-       "en": "Anna is my flatmate."
+       "de": "Sie ist meine Mitbewohnerin.",
+       "en": "She is my flatmate."
       }
      ],
      "article": "der",
@@ -9609,8 +9637,8 @@
      "en": "countryside, country",
      "examples": [
       {
-       "de": "Herr Ali wohnt auf dem Land.",
-       "en": "Herr Ali lives in the countryside."
+       "de": "Meine Eltern wohnen auf dem Land.",
+       "en": "My parents live in the countryside."
       },
       {
        "de": "Deutschland ist ein Land.",
@@ -9683,22 +9711,23 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: Anna lives in a WG.",
+     "prompt": "Write in German: My sister lives in a WG.",
      "answers": [
-      "Anna wohnt in einer WG."
+      "Meine Schwester wohnt in einer WG."
      ],
      "hint": "die WG → in einer.",
-     "explanation": "Anna wohnt in einer WG."
+     "explanation": "Meine Schwester wohnt in einer WG."
     },
     {
      "type": "type",
-     "prompt": "Write in German: Ben lives with his sister.",
+     "prompt": "Write in German: My friend lives with his sister.",
      "answers": [
-      "Ben wohnt mit seiner Schwester.",
-      "Ben wohnt bei seiner Schwester."
+      "Mein Freund wohnt mit seiner Schwester.",
+      "Mein Freund wohnt bei seiner Schwester.",
+      "Mein Freund wohnt mit seiner Schwester zusammen."
      ],
      "hint": "die Schwester → seiner.",
-     "explanation": "Ben wohnt mit seiner Schwester."
+     "explanation": "Mein Freund wohnt mit seiner Schwester."
     },
     {
      "type": "type",
@@ -9766,7 +9795,7 @@
      "title": "Before we start: moving day",
      "body": "On moving day you carry a lamp into the new flat. Is it already standing there, or are you putting it there? German asks two different questions, Wo? and Wohin?, and the little word before the noun changes. You already know the idea from im Kino and ins Kino.",
      "steps": [
-      "You already know: Wir sind im Kino and Wir gehen ins Kino (chapter 7), and that the Bild hängt an der Wand (lesson 5).",
+      "You already know: Wir sind im Kino and Wir gehen ins Kino (chapter 6), and that the Bild hängt an der Wand (lesson 5).",
       "New today: when you PUT something somewhere (Wohin?), the noun after in, auf, an and the other place words takes the accusative: an die Wand.",
       "By the end you can: tell a helper where to stand, lay and hang every box, lamp and picture."
      ],
@@ -10162,33 +10191,25 @@
      ],
      "more": "Think of four people in a line. Three of them, die, das and the plural, simply stay as they are. Only der changes his hat: dem becomes den. Step 1: find the gender of the noun. Step 2: if it is a der-word, write den. Step 3: all others stay die or das. Step 4: in the plural, drop the -n that you added for the dative (an den Wänden becomes an die Wände).",
      "deeper": {
-      "text": "The nine place words have no wish of their own. They take whichever case the question asks for. The same nine words can be followed by the dative (Wo?) or the accusative (Wohin?). Compare the table rows and you will see that only the first column (the der-words) looks different.",
+      "text": "Careful: mit, bei, zu, aus and von from chapter 7 are not in the group of nine. They always take the dative, even when something moves: Ich gehe zum Schrank, Ich komme aus der Küche. Only the nine two-way words switch to the accusative for Wohin?. So first check the word, then ask the question.",
       "example": {
-       "de": "Der Hund geht unter den Tisch.",
-       "en": "The dog goes under the table.",
+       "de": "Ich gehe zum Schrank.",
+       "en": "I go to the cupboard.",
        "parts": [
         [
-         "Der",
-         "article"
+         "Ich",
+         "subject"
         ],
         [
-         "Hund",
-         "noun"
-        ],
-        [
-         "geht",
+         "gehe",
          "verb"
         ],
         [
-         "unter",
-         "preposition"
+         "zum",
+         "dative"
         ],
         [
-         "den",
-         "article"
-        ],
-        [
-         "Tisch.",
+         "Schrank.",
          "noun"
         ]
        ]
@@ -10560,26 +10581,26 @@
      ],
      "more": "Three pairs, like three light switches. Switch 1: stehen is the state, stellen is the action. Switch 2: liegen is the state, legen is the action. Switch 3: hängen is the state and the action, but the word looks the same for both. Step 1: ask Wo? or Wohin? Step 2: choose the verb and the case. Step 3: say it. Extra example: Ben legt das Handy auf den Tisch.",
      "deeper": {
-      "text": "The three pairs share one habit: the verb that says where something IS goes with the dative, the verb that moves something goes with the accusative. With hängen the verb does not change, so only the article shows you the difference. Always look at the article first.",
+      "text": "There is a fourth pair: sitzen and setzen. sitzen says where a person sits (Wo?, dative); setzen means to sit someone or something down (Wohin?, accusative): Ich setze das Kind auf den Stuhl. Like stellen and legen, setzen has an e where sitzen has an i. The action verbs all need an object.",
       "example": {
-       "de": "Leon legt den Teppich auf den Boden.",
-       "en": "Leon lays the carpet on the floor.",
+       "de": "Ich setze das Kind auf den Stuhl.",
+       "en": "I sit the child down on the chair.",
        "parts": [
         [
-         "Leon",
+         "Ich",
          "subject"
         ],
         [
-         "legt",
+         "setze",
          "verb"
         ],
         [
-         "den",
+         "das",
          "article"
         ],
         [
-         "Teppich",
-         "noun"
+         "Kind",
+         "object"
         ],
         [
          "auf",
@@ -10590,7 +10611,7 @@
          "article"
         ],
         [
-         "Boden.",
+         "Stuhl.",
          "noun"
         ]
        ]
@@ -10740,6 +10761,37 @@
         ],
         [
          "Regal.",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Ich lege das Kissen aufs Sofa.",
+       "en": "I lay the cushion on the sofa.",
+       "why": "das Kissen (cushion); Wohin? auf das = aufs.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "lege",
+         "verb"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Kissen",
+         "object"
+        ],
+        [
+         "aufs",
+         "preposition"
+        ],
+        [
+         "Sofa.",
          "noun"
         ]
        ]
@@ -10895,6 +10947,56 @@
         [
          "Lampe?",
          "noun"
+        ]
+       ]
+      },
+      {
+       "de": "Am Samstag ist der Umzug.",
+       "en": "The move is on Saturday.",
+       "why": "der Umzug = the move to a new home.",
+       "parts": [
+        [
+         "Am",
+         "time"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Umzug.",
+         "subject"
+        ]
+       ]
+      },
+      {
+       "de": "Räum den Flur auf!",
+       "en": "Tidy up the hall!",
+       "why": "aufräumen is separable (chapter 6): räum … auf.",
+       "parts": [
+        [
+         "Räum",
+         "verb"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Flur",
+         "object"
+        ],
+        [
+         "auf!",
+         "verb2"
         ]
        ]
       }
@@ -11062,6 +11164,33 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Im Flur ist kein Platz.",
+       "en": "There is no space in the hall.",
+       "why": "der Platz = space; kein Platz = no space.",
+       "parts": [
+        [
+         "Im",
+         "dative"
+        ],
+        [
+         "Flur",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "kein",
+         "negation"
+        ],
+        [
+         "Platz.",
+         "subject"
+        ]
+       ]
       }
      ],
      "more": "Pretend you are on the phone with Anna. Anna: Wo steht der Sessel? You look at the room and answer with im: it is already there, so Wo and dative. Anna: Wohin stelle ich den Sessel? Now you tell her to move it, so Wohin and accusative: ans Fenster. Step 1: listen for Wo or Wohin. Step 2: look at the verb: steht or stelle. Step 3: answer with the matching case. Extra: Wo liegt das Kissen? Auf dem Sofa.",
@@ -11094,7 +11223,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:cPJ1Es1rF1g"
+     "yt:cPJ1Es1rF1g",
+     "yt:A438Pv_9h9Q",
+     "yt:CcWkEP3Dw8E"
     ],
     "nicosWeg": [
      "nw:a1-28"
@@ -11398,8 +11529,8 @@
      "forms": "legt"
     },
     {
-     "de": "der Umzug",
-     "en": "the move (to a new home)",
+     "de": "Umzug",
+     "en": "move (to a new home)",
      "examples": [
       {
        "de": "Am Samstag ist der Umzug.",
@@ -11414,8 +11545,8 @@
      "article": "der"
     },
     {
-     "de": "die Kiste",
-     "en": "the box (crate)",
+     "de": "Kiste",
+     "en": "box (crate)",
      "examples": [
       {
        "de": "Die Kiste ist schwer.",
@@ -11430,8 +11561,8 @@
      "article": "die"
     },
     {
-     "de": "der Karton",
-     "en": "the cardboard box",
+     "de": "Karton",
+     "en": "cardboard box",
      "examples": [
       {
        "de": "Der Karton steht im Flur.",
@@ -11446,8 +11577,8 @@
      "article": "der"
     },
     {
-     "de": "der Platz",
-     "en": "the place, the space",
+     "de": "Platz",
+     "en": "place, the space",
      "examples": [
       {
        "de": "Im Wohnzimmer ist viel Platz.",
@@ -11462,8 +11593,8 @@
      "article": "der"
     },
     {
-     "de": "die Pflanze",
-     "en": "the plant",
+     "de": "Pflanze",
+     "en": "plant",
      "examples": [
       {
        "de": "Die Pflanze steht am Fenster.",
@@ -11478,8 +11609,8 @@
      "article": "die"
     },
     {
-     "de": "das Kissen",
-     "en": "the cushion",
+     "de": "Kissen",
+     "en": "cushion",
      "examples": [
       {
        "de": "Das Kissen liegt auf dem Sofa.",
@@ -11526,7 +11657,7 @@
    ],
    "speaking": {
     "prompts": [
-     "Tell Leon to put the box in the living room.",
+     "Tell Ben to put the box in the living room.",
      "Say that you put the lamp on the table.",
      "Ask where you should put the sofa."
     ],
@@ -11978,26 +12109,30 @@
      ],
      "more": "A colour is like a sticker. You stick it after ist or sind and it does not change shape. Step 1: say the thing: Das Sofa. Step 2: say ist (or sind for more than one). Step 3: say the colour, without any ending. Step 4: want it lighter or darker? Put hell or dunkel in front, as one word. Wrong: Das Sofa ist grüne. Right: Das Sofa ist grün.",
      "deeper": {
-      "text": "You know hell and dunkel from the flat ad. Together with a colour they make one word, and the colour part keeps its small letter: hellblau, dunkelgrau. It is easy to remember that the two parts are glued together, like in Wohnzimmer.",
+      "text": "To ask about a colour, Germans say Welche Farbe hat das Sofa? (What colour does the sofa have?), with haben, not sein. The answer goes back to sein: Das Sofa ist grün. With hell and dunkel the colour stays glued as one word with a small letter: hellblau, dunkelgrau.",
       "example": {
-       "de": "Der Teppich ist dunkelgrau.",
-       "en": "The carpet is dark grey.",
+       "de": "Welche Farbe hat der Teppich?",
+       "en": "What colour is the carpet?",
        "parts": [
         [
-         "Der",
-         "article"
+         "Welche",
+         "question"
         ],
         [
-         "Teppich",
+         "Farbe",
          "noun"
         ],
         [
-         "ist",
+         "hat",
          "verb"
         ],
         [
-         "dunkelgrau.",
-         "adjective"
+         "der",
+         "article"
+        ],
+        [
+         "Teppich?",
+         "subject"
         ]
        ]
       }
@@ -12365,7 +12500,7 @@
     {
      "title": "Invite someone: Komm doch vorbei!",
      "lead": "You can describe a flat. Now you invite someone to see it. On this card you learn the friendly questions and the chunk Komm doch vorbei!, which you can use right away.",
-     "body": "Ask Kommst du am Samstag? or Hast du am Samstag Zeit? Then invite with the chunk Komm doch vorbei! It means Come over! Learn it as one piece. The little word doch makes the invitation friendly, and why vorbei is at the end comes next lesson.",
+     "body": "Ask Kommst du am Samstag? or Hast du am Samstag Zeit? Then invite with the chunk Komm doch vorbei! It means Come over! Learn it as one piece. doch makes it friendly. vorbeikommen is a separable verb (chapter 6), so vorbei goes to the end.",
      "steps": [
       "1. Ask: Kommst du am Samstag?",
       "2. Invite: Komm doch vorbei!",
@@ -12442,12 +12577,12 @@
        ]
       }
      ],
-     "more": "An invitation has three tiny moves. Step 1: ask when: Kommst du am Samstag? Step 2: invite: Komm doch vorbei! Step 3: wait for the answer. Do not worry about how Komm doch vorbei is built. Learn it like a hello, as one block. It is the German way to say Come by, you are welcome. Extra example: Hast du am Sonntag Zeit?",
+     "more": "An invitation has three tiny moves. Step 1: ask when: Kommst du am Samstag? Step 2: invite: Komm doch vorbei! Step 3: wait for the answer. It is built like the separable verbs from chapter 6: vorbeikommen, so vorbei jumps to the end. It is the German way to say Come by, you are welcome. Extra example: Hast du am Sonntag Zeit?",
      "deeper": {
-      "text": "Doch is a small friendly word. It softens the command, like please or why not in English. You could say Komm vorbei! but Komm doch vorbei! sounds warmer. For now learn it as a chunk; you build the verb vorbeikommen properly in the next lesson.",
+      "text": "Doch is a small friendly word. It softens the command, like please or why not in English. You could say Komm vorbei! but Komm doch vorbei! sounds warmer. It works with every separable verb from chapter 6: Komm doch mit! Ruf mich doch an! doch always stands right after the verb.",
       "example": {
        "de": "Komm doch mit!",
-       "en": "Come with us!",
+       "en": "Do come along!",
        "parts": [
         [
          "Komm",
@@ -12595,32 +12730,28 @@
        ]
       }
      ],
-     "more": "Saying no is easier in German with two small helpers. Step 1: start with leider, which means unfortunately and sounds sad, not rude. Step 2: say kann ich nicht (can: können). Step 3: give a reason with muss: Ich muss arbeiten. Saying yes is shorter: Ja, gern! (gern = with pleasure). Extra example: Leider kann ich am Samstag nicht.",
+     "more": "Saying no is easier in German with two small helpers. Step 1: start with leider, which means unfortunately. It sounds sorry, not rude, like a soft cushion before the bad news. Step 2: say kann ich nicht (from können). Step 3: give a short reason with muss: Ich muss arbeiten. Saying yes is shorter: Ja, gern! (gern = with pleasure). If you only say Nein, it sounds hard in German too. Extra example: Leider kann ich am Samstag nicht.",
      "deeper": {
-      "text": "Können and müssen are the modals you know from earlier chapters. In a polite no they work together: können says what is not possible, müssen gives the reason. The other person can answer Schade! (Too bad!) so the talk ends in a friendly way.",
+      "text": "You know können and müssen from chapter 5. In a polite no they work together: können says what is not possible, müssen gives the reason. leider can also stand after the verb: Ich kann leider nicht. Both orders are correct and very common. The other person answers Schade! (Too bad!).",
       "example": {
-       "de": "Ich muss am Samstag arbeiten.",
-       "en": "I have to work on Saturday.",
+       "de": "Ich kann leider nicht.",
+       "en": "Unfortunately I cannot.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "muss",
+         "kann",
          "verb"
         ],
         [
-         "am",
-         "time"
+         "leider",
+         "other"
         ],
         [
-         "Samstag",
-         "time"
-        ],
-        [
-         "arbeiten.",
-         "verb2"
+         "nicht.",
+         "negation"
         ]
        ]
       }
@@ -12744,34 +12875,34 @@
      ],
      "more": "A talk is a ping-pong game. Step 1: A throws the invitation. Step 2: B throws back yes or no. Step 3: B adds a reason (for no) or a time (for yes). Step 4: A answers with Schade! or Super! Practise it with a friend and swap the roles. Extra example: Ja, gern! Ich komme am Samstag um vier Uhr.",
      "deeper": {
-      "text": "Real dialogues are short and often a little repeated. Do not try to say long sentences. One question, one answer and one reason are enough at A1. If you are sure of the first two moves, the third will come by itself.",
+      "text": "When the answer is yes, the next question is often about the time: Wann denn? or Um wie viel Uhr? (chapter 5). Then you agree: Um drei? Super! If the day does not work, offer another one: Und am Sonntag? One question, one answer and one reason are enough at A1.",
       "example": {
-       "de": "Schade! Komm doch am Sonntag vorbei!",
-       "en": "Too bad! Come over on Sunday!",
+       "de": "Um wie viel Uhr? Um drei?",
+       "en": "At what time? At three?",
        "parts": [
         [
-         "Schade!",
-         "other"
-        ],
-        [
-         "Komm",
-         "verb"
-        ],
-        [
-         "doch",
-         "other"
-        ],
-        [
-         "am",
+         "Um",
          "time"
         ],
         [
-         "Sonntag",
+         "wie",
+         "question"
+        ],
+        [
+         "viel",
+         "question"
+        ],
+        [
+         "Uhr?",
          "time"
         ],
         [
-         "vorbei!",
-         "verb2"
+         "Um",
+         "time"
+        ],
+        [
+         "drei?",
+         "time"
         ]
        ]
       }
@@ -12780,7 +12911,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:-LbNn7l9WoA"
+     "yt:-LbNn7l9WoA",
+     "yt:WxK_boaYVik"
     ],
     "nicosWeg": [
      "nw:a1-24"
@@ -12974,7 +13106,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Anna: Kommst du am Samstag? Mira cannot come. Mira says:",
+     "prompt": "Ben: Kommst du am Samstag? Mira cannot come. Mira says:",
      "options": [
       "Ja, gern!",
       "Leider kann ich nicht.",
@@ -13237,7 +13369,8 @@
      "type": "type",
      "prompt": "Write in German: Unfortunately I have to work.",
      "answers": [
-      "Leider muss ich arbeiten."
+      "Leider muss ich arbeiten.",
+      "Ich muss leider arbeiten."
      ],
      "hint": "Leider first, then the verb in second place.",
      "explanation": "Leider muss ich arbeiten."
@@ -13528,10 +13661,10 @@
      ],
      "more": "The plan is a little tour. Step 1: stand outside and say where the flat is. Step 2: open the door and name the rooms. Step 3: walk through and say what stands where. Step 4: sit down and say what you think, then invite your friend. Every time you are stuck, ask the next block question. You never have to invent a whole text at once.",
      "deeper": {
-      "text": "Four blocks is enough for A1. A real text can be longer, but only by adding more chunks inside the same blocks. You keep the order. If you swap the blocks around the reader gets lost, but a short text in good order is always easy to follow.",
+      "text": "A text sounds better when you do not repeat the same noun. After the first sentence, use a pronoun from lesson 1: sie for die Wohnung, er for der Balkon, es for das Bad. Die Wohnung ist im Zentrum. Sie hat zwei Zimmer. Short, clear, and the reader still knows what you mean.",
       "example": {
-       "de": "Die Wohnung hat ein Bad und eine Küche.",
-       "en": "The flat has a bathroom and a kitchen.",
+       "de": "Die Wohnung ist hell. Sie hat zwei Zimmer.",
+       "en": "The flat is bright. It has two rooms.",
        "parts": [
         [
          "Die",
@@ -13539,31 +13672,31 @@
         ],
         [
          "Wohnung",
-         "noun"
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "hell.",
+         "adjective"
+        ],
+        [
+         "Sie",
+         "subject"
         ],
         [
          "hat",
          "verb"
         ],
         [
-         "ein",
-         "article"
+         "zwei",
+         "other"
         ],
         [
-         "Bad",
-         "noun"
-        ],
-        [
-         "und",
-         "conjunction"
-        ],
-        [
-         "eine",
-         "article"
-        ],
-        [
-         "Küche.",
-         "noun"
+         "Zimmer.",
+         "object"
         ]
        ]
       }
@@ -13709,34 +13842,26 @@
      ],
      "more": "The place of a flat is like an address in words. Step 1: say the part of town: im Zentrum, in der Stadt, auf dem Land. Step 2: say the quality of the place with sein: zentral, ruhig. Step 3: add the view if it is nice: Die Aussicht ist schön. Step 4: say the type of house if you like: in einem Hochhaus. Every part is a short sentence with sein.",
      "deeper": {
-      "text": "Lage and Aussicht are both die-words, and they go with sein and an adjective, like everything else this chapter. The word zentral comes from Zentrum, so it is easy to connect: im Zentrum is the place, zentral is the quality. You can say either.",
+      "text": "Natives often use liegen for the location: Die Wohnung liegt zentral or Die Wohnung liegt im Zentrum. Both mean the same as ist im Zentrum. When you look at a flat, people also ask Wie ist die Lage? and answer with one word: Super! or Sehr ruhig. Lage is one of the first things Germans ask about.",
       "example": {
-       "de": "Das Haus ist auf dem Land.",
-       "en": "The house is in the countryside.",
+       "de": "Die Wohnung liegt zentral.",
+       "en": "The flat is centrally located.",
        "parts": [
         [
-         "Das",
+         "Die",
          "article"
         ],
         [
-         "Haus",
-         "noun"
+         "Wohnung",
+         "subject"
         ],
         [
-         "ist",
+         "liegt",
          "verb"
         ],
         [
-         "auf",
-         "preposition"
-        ],
-        [
-         "dem",
-         "dative"
-        ],
-        [
-         "Land.",
-         "noun"
+         "zentral.",
+         "adjective"
         ]
        ]
       }
@@ -13919,30 +14044,42 @@
      ],
      "more": "The four linking words are glue. Und sticks two ideas side by side. Aber sticks a good thing and a bad thing together. Zuerst and dann put them in order, like walking through the flat. Step 1: write the first idea. Step 2: choose the glue word. Step 3: write the second idea, with the verb in second place. Extra example: Zuerst gehen wir in den Flur.",
      "deeper": {
-      "text": "After zuerst and dann the verb comes before the subject, because the time word takes the first place. That is the same rule as for Im Wohnzimmer steht ein Sofa. Whatever starts the sentence, the verb stays in second place. This single rule helps you in every text you write.",
+      "text": "und and aber do not take a place in the sentence: after them the normal order follows, subject then verb: aber sie ist hell. zuerst and dann are different: they take place 1, so the verb comes next and the subject after it: dann ist sie hell. Compare the two and listen to the order.",
       "example": {
-       "de": "Dann sitzen wir im Wohnzimmer.",
-       "en": "Then we sit in the living room.",
+       "de": "Die Küche ist klein, aber sie ist hell.",
+       "en": "The kitchen is small, but it is bright.",
        "parts": [
         [
-         "Dann",
-         "time"
+         "Die",
+         "article"
         ],
         [
-         "sitzen",
-         "verb"
-        ],
-        [
-         "wir",
+         "Küche",
          "subject"
         ],
         [
-         "im",
-         "dative"
+         "ist",
+         "verb"
         ],
         [
-         "Wohnzimmer.",
-         "noun"
+         "klein,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "sie",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "hell.",
+         "adjective"
         ]
        ]
       }
@@ -14286,27 +14423,27 @@
     {
      "title": "A message to a friend",
      "lead": "You have every piece. On this last card you read a full model message of about 40 words, so you can write your own with the same four blocks.",
-     "body": "Here is a model text from Anna to Mira. Liebe Mira, im Mai ziehe ich ein. Die Wohnung ist im Zentrum. Sie hat einen Balkon, aber sie ist klein. Im Wohnzimmer steht ein Sofa. Ich finde die Wohnung gemütlich. Komm doch am Samstag vorbei! Viele Grüße\nAnna",
+     "body": "Here is a model text from Mira to Ben. Lieber Ben, im Mai ziehe ich ein. Die Wohnung ist im Zentrum. Sie hat einen Balkon, aber sie ist klein. Im Wohnzimmer steht ein Sofa. Ich finde die Wohnung gemütlich. Komm doch am Samstag vorbei! Viele Grüße\nMira",
      "steps": [
       "1. Greeting: Liebe Mira, or Lieber Ben,",
       "2. Place: Die Wohnung ist im Zentrum.",
       "3. Rooms: Die Wohnung hat einen Balkon.",
       "4. Furniture with Wo?: Im Wohnzimmer steht ein Sofa.",
       "5. Opinion: Ich finde die Wohnung gemütlich.",
-      "6. Invitation and goodbye: Komm doch vorbei! Viele Grüße,"
+      "6. Invitation and goodbye: Komm doch vorbei! Viele Grüße"
      ],
      "examples": [
       {
-       "de": "Liebe Mira, im Mai ziehe ich ein.",
-       "en": "Dear Mira, I move in in May.",
+       "de": "Lieber Ben, im Mai ziehe ich ein.",
+       "en": "Dear Ben, I move in in May.",
        "why": "Greeting, then the news.",
        "parts": [
         [
-         "Liebe",
+         "Lieber",
          "other"
         ],
         [
-         "Mira,",
+         "Ben,",
          "other"
         ],
         [
@@ -14398,9 +14535,9 @@
        ]
       },
       {
-       "de": "Komm doch am Samstag vorbei! Viele Grüße\nAnna",
-       "en": "Come by on Saturday! Best wishes, Anna",
-       "why": "Block 4: invitation, then goodbye.",
+       "de": "Komm doch am Samstag vorbei!",
+       "en": "Come by on Saturday!",
+       "why": "Block 4: the invitation. Then the goodbye Viele Grüße, and your name on the next line.",
        "parts": [
         [
          "Komm",
@@ -14421,25 +14558,13 @@
         [
          "vorbei!",
          "verb2"
-        ],
-        [
-         "Viele",
-         "other"
-        ],
-        [
-         "Grüße,",
-         "other"
-        ],
-        [
-         "Anna",
-         "other"
         ]
        ]
       }
      ],
      "more": "Look at the model like a sandwich. The bread is the greeting at the top and the goodbye at the bottom. The filling has the four blocks: place, rooms, furniture and opinion. The sauce is the invitation. Step 1: copy the shape. Step 2: change the details, like the rooms and the furniture. Step 3: read your text aloud once and tick the checklist.",
      "deeper": {
-      "text": "A message gets friendlier with the greeting and the goodbye. You know Liebe for a woman and Lieber for a man (Liebe Mira, Lieber Ben). Viele Grüße is the usual goodbye between friends. Write both on their own line. A checklist helps you: if every block is there, your text is complete.",
+      "text": "Liebe is for a woman and Lieber for a man: Liebe Mira, Lieber Ben. After the greeting comes a comma, and the next line starts with a small letter, because it is still the same sentence. The goodbye Viele Grüße has no comma, and your name goes on its own line under it.",
       "example": {
        "de": "Lieber Ben, ich habe jetzt eine Wohnung.",
        "en": "Dear Ben, I have a flat now.",
@@ -14470,7 +14595,7 @@
         ],
         [
          "Wohnung.",
-         "noun"
+         "object"
         ]
        ]
       }
@@ -14479,7 +14604,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:gu_gcseMVPM"
+     "yt:gu_gcseMVPM",
+     "yt:K1eejivNkRQ"
     ],
     "nicosWeg": [
      "nw:a1-27"
@@ -14750,7 +14876,7 @@
      "answers": [
       "Ordnung"
      ],
-     "hint": "in Ordnung means all right.",
+     "hint": "A die-word for order and tidiness; the whole phrase means all right.",
      "explanation": "in Ordnung = ok."
     }
    ],
@@ -14812,8 +14938,8 @@
      ]
     },
     {
-     "de": "die Aussicht",
-     "en": "the view",
+     "de": "Aussicht",
+     "en": "view",
      "examples": [
       {
        "de": "Die Aussicht ist schön.",
@@ -14828,8 +14954,8 @@
      "article": "die"
     },
     {
-     "de": "die Lage",
-     "en": "the location",
+     "de": "Lage",
+     "en": "location",
      "examples": [
       {
        "de": "Die Lage ist sehr gut.",
@@ -14844,8 +14970,8 @@
      "article": "die"
     },
     {
-     "de": "der Besuch",
-     "en": "the visit, visitors",
+     "de": "Besuch",
+     "en": "visit, visitors",
      "examples": [
       {
        "de": "Ich habe am Sonntag Besuch.",
@@ -14890,7 +15016,7 @@
      "forms": "zieht ein"
     },
     {
-     "de": "die Ordnung",
+     "de": "Ordnung",
      "en": "order, tidiness (in Ordnung = ok)",
      "examples": [
       {
@@ -14967,7 +15093,7 @@
    "day": 1,
    "reading": {
     "title": "Mira sucht eine Wohnung",
-    "text": "Mira sucht eine Wohnung. Sie liest die Anzeige: drei Zimmer, 75 Quadratmeter, 850 Euro Kaltmiete, Balkon, im Zentrum. Mira besucht Frau Weber, die Vermieterin. Die Wohnung ist hell und modern. Das Wohnzimmer ist sehr groß, aber das Schlafzimmer ist ziemlich klein. Die Wohnung hat einen Balkon, aber keinen Garten. Das Sofa ist schon im Wohnzimmer. Die Lampe ist auf dem Tisch, und das Bild ist an der Wand. Der Keller ist dunkel. Die Wohnung ist ziemlich teuer, aber sie ist schön. Mira sagt: Ich möchte die Wohnung mieten.",
+    "text": "Mira sucht eine Wohnung. Sie liest die Anzeige: drei Zimmer, 75 Quadratmeter, 850 Euro Kaltmiete, Balkon, im Zentrum. Mira besucht die Vermieterin. Die Wohnung ist hell und modern. Das Wohnzimmer ist sehr groß, aber das Schlafzimmer ist ziemlich klein. Die Wohnung hat einen Balkon, aber keinen Garten. Das Sofa ist schon im Wohnzimmer. Die Lampe ist auf dem Tisch, und das Bild ist an der Wand. Der Keller ist dunkel. Die Wohnung ist ziemlich teuer, aber sie ist schön. Mira sagt: Ich möchte die Wohnung mieten.",
     "glossary": [
      {
       "de": "Anzeige",
@@ -14980,7 +15106,7 @@
       "prompt": "Who is looking for a flat?",
       "options": [
        "Mira",
-       "Frau Weber",
+       "Ben",
        "Anna"
       ],
       "answer": 0,
@@ -15012,7 +15138,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Who is Frau Weber?",
+      "prompt": "Who does Mira visit?",
       "options": [
        "a neighbour",
        "Mira's friend",
@@ -15097,15 +15223,15 @@
     ]
    },
    "listening": {
-    "title": "Mira phones Frau Weber",
-    "script": "Mira: Guten Tag, Frau Weber. Hier ist Mira. Ich suche eine Wohnung.\nFrau Weber: Guten Tag, Mira. Ich habe eine Wohnung im Zentrum. Sie hat drei Zimmer.\nMira: Wie groß ist die Wohnung?\nFrau Weber: Sie ist fünfundsiebzig Quadratmeter groß. Die Miete ist achthundertfünfzig Euro pro Monat.\nMira: Hat die Wohnung einen Garten?\nFrau Weber: Nein, aber sie hat einen Balkon. Er ist ziemlich groß.\nMira: Ist die Wohnung hell?\nFrau Weber: Ja, sie ist sehr hell und modern.\nMira: Wann kann ich kommen?\nFrau Weber: Am Samstag um zehn Uhr?\nMira: Ja, super. Danke, Frau Weber. Auf Wiedersehen.",
+    "title": "Mira phones the landlady",
+    "script": "Mira: Guten Tag. Hier ist Mira. Ich suche eine Wohnung.\nVermieterin: Guten Tag, Mira. Ich habe eine Wohnung im Zentrum. Sie hat drei Zimmer.\nMira: Wie groß ist die Wohnung?\nVermieterin: Sie ist fünfundsiebzig Quadratmeter groß. Die Miete ist achthundertfünfzig Euro pro Monat.\nMira: Hat die Wohnung einen Garten?\nVermieterin: Nein, aber sie hat einen Balkon. Er ist ziemlich groß.\nMira: Ist die Wohnung hell?\nVermieterin: Ja, sie ist sehr hell und modern.\nMira: Wann kann ich kommen?\nVermieterin: Am Samstag um zehn Uhr?\nMira: Ja, super. Danke. Auf Wiedersehen.",
     "questions": [
      {
       "type": "choice",
       "prompt": "Who phones?",
       "options": [
        "Mira",
-       "Frau Weber",
+       "the landlady",
        "Anna"
       ],
       "answer": 0,
@@ -15121,7 +15247,7 @@
        "on the first floor"
       ],
       "answer": 0,
-      "hint": "Frau Weber's first answer.",
+      "hint": "The landlady's first answer.",
       "explanation": "im Zentrum."
      },
      {
@@ -15133,7 +15259,7 @@
        "four"
       ],
       "answer": 1,
-      "hint": "Frau Weber's first answer.",
+      "hint": "The landlady's first answer.",
       "explanation": "drei Zimmer."
      },
      {
@@ -15143,7 +15269,7 @@
        "75",
        "fünfundsiebzig"
       ],
-      "hint": "Frau Weber's second answer.",
+      "hint": "The landlady's second answer.",
       "explanation": "fünfundsiebzig Quadratmeter."
      },
      {
@@ -15153,7 +15279,7 @@
        "850",
        "achthundertfünfzig"
       ],
-      "hint": "Frau Weber's second answer.",
+      "hint": "The landlady's second answer.",
       "explanation": "achthundertfünfzig Euro pro Monat."
      },
      {
@@ -15189,7 +15315,7 @@
        "very bright and modern"
       ],
       "answer": 2,
-      "hint": "Frau Weber says sehr.",
+      "hint": "The landlady says sehr.",
       "explanation": "sehr hell und modern."
      },
      {
@@ -15214,7 +15340,7 @@
       ],
       "answer": 1,
       "hint": "Listen to the last line.",
-      "explanation": "Danke, Frau Weber. Auf Wiedersehen."
+      "explanation": "Danke. Auf Wiedersehen."
      }
     ]
    },
@@ -15387,25 +15513,25 @@
    "chapter": 9,
    "day": 2,
    "reading": {
-    "title": "Ben, Leon und Anna in der WG",
-    "text": "Ben, Leon und Anna wohnen in einer WG. Die WG ist im Zentrum, in einem Hochhaus. Die Küche ist groß und hell. Der Herd steht neben dem Kühlschrank, und die Mikrowelle steht auf dem Kühlschrank. Zwischen dem Herd und der Tür steht ein Tisch. Die Waschmaschine steht im Keller. Das Wohnzimmer ist ziemlich klein, aber nicht dunkel. Das Sofa steht vor dem Fenster, und das Bild hängt über dem Sofa. Anna hat eine Katze. Die Katze sitzt auf dem Sessel. Ben wohnt nicht bei seinen Eltern. Die Eltern von Ben wohnen auf dem Land.",
+    "title": "Leons Wohnung in Berlin",
+    "text": "Leon wohnt mit seiner Schwester in einer Wohnung in Berlin. Die Wohnung ist im Zentrum, in einem Hochhaus. Die Küche ist groß und hell. Der Herd steht neben dem Kühlschrank, und die Mikrowelle steht auf dem Kühlschrank. Zwischen dem Herd und der Tür steht ein Tisch. Die Waschmaschine steht im Keller. Das Wohnzimmer ist ziemlich klein, aber nicht dunkel. Das Sofa steht vor dem Fenster, und das Bild hängt über dem Sofa. Die Schwester von Leon hat eine Katze. Die Katze sitzt auf dem Sessel. Leon wohnt nicht bei seinen Eltern. Die Eltern von Leon wohnen in Italien, auf dem Land.",
     "glossary": [],
     "questions": [
      {
       "type": "choice",
-      "prompt": "Who lives in the WG?",
+      "prompt": "Who lives in the flat?",
       "options": [
        "Mira and Ben",
-       "Ben, Leon and Anna",
+       "Leon and his sister",
        "Anna and her parents"
       ],
       "answer": 1,
       "hint": "The first sentence.",
-      "explanation": "Ben, Leon und Anna wohnen in einer WG."
+      "explanation": "Leon wohnt mit seiner Schwester in einer Wohnung."
      },
      {
       "type": "choice",
-      "prompt": "Where is the WG?",
+      "prompt": "Where is the flat?",
       "options": [
        "in the centre",
        "in the countryside",
@@ -15413,7 +15539,7 @@
       ],
       "answer": 0,
       "hint": "Second sentence.",
-      "explanation": "Die WG ist im Zentrum."
+      "explanation": "Die Wohnung ist im Zentrum."
      },
      {
       "type": "choice",
@@ -15491,7 +15617,7 @@
       "type": "choice",
       "prompt": "What sits on the armchair?",
       "options": [
-       "Anna",
+       "Leon",
        "the dog",
        "the cat"
       ],
@@ -15501,44 +15627,44 @@
      },
      {
       "type": "choice",
-      "prompt": "Where do Ben's parents live?",
+      "prompt": "Where do Leon's parents live?",
       "options": [
-       "in the WG",
+       "in Berlin",
        "in the centre",
        "in the countryside"
       ],
       "answer": 2,
       "hint": "Last sentence.",
-      "explanation": "Die Eltern von Ben wohnen auf dem Land."
+      "explanation": "Die Eltern von Leon wohnen in Italien, auf dem Land."
      }
     ]
    },
    "listening": {
     "title": "Ben sucht sein Handy",
-    "script": "Ben: Leon, wo ist mein Handy? Ich suche es.\nLeon: Ist es auf dem Sofa?\nBen: Nein, auf dem Sofa ist es nicht.\nLeon: Ist es unter dem Teppich?\nBen: Nein, da ist es auch nicht. Ist es in der Küche?\nLeon: Nein, in der Küche ist es nicht. Aber da, neben dem Sessel, liegt ein Handy!\nBen: Super, das ist mein Handy! Danke, Leon.\nLeon: Gern. Und wo ist meine Tasche?\nBen: Deine Tasche hängt hinter der Tür.",
+    "script": "Ben: Mira, wo ist mein Handy? Ich suche es.\nMira: Ist es auf dem Sofa?\nBen: Nein, auf dem Sofa ist es nicht.\nMira: Ist es unter dem Teppich?\nBen: Nein, da ist es auch nicht. Ist es in der Küche?\nMira: Nein, in der Küche ist es nicht. Aber da, neben dem Sessel, liegt ein Handy!\nBen: Super, das ist mein Handy! Danke, Mira.\nMira: Gern. Und wo ist meine Tasche?\nBen: Deine Tasche hängt hinter der Tür.",
     "questions": [
      {
       "type": "choice",
       "prompt": "Who is looking for a phone?",
       "options": [
-       "Leon",
+       "Mira",
        "Anna",
        "Ben"
       ],
       "answer": 2,
       "hint": "The first line.",
-      "explanation": "Ben: Leon, wo ist mein Handy?"
+      "explanation": "Ben: Mira, wo ist mein Handy?"
      },
      {
       "type": "choice",
-      "prompt": "What does Leon ask first?",
+      "prompt": "What does Mira ask first?",
       "options": [
        "Is it under the carpet?",
        "Is it on the sofa?",
        "Is it in the kitchen?"
       ],
       "answer": 1,
-      "hint": "Leon's first line.",
+      "hint": "Mira's first line.",
       "explanation": "Ist es auf dem Sofa?"
      },
      {
@@ -15555,14 +15681,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Where does Leon look second?",
+      "prompt": "Where does Mira look second?",
       "options": [
        "under the carpet",
        "behind the door",
        "next to the armchair"
       ],
       "answer": 0,
-      "hint": "His second question.",
+      "hint": "Her second question.",
       "explanation": "Ist es unter dem Teppich?"
      },
      {
@@ -15583,10 +15709,10 @@
       "options": [
        "no",
        "yes",
-       "Leon does not say"
+       "Mira does not say"
       ],
       "answer": 0,
-      "hint": "Leon says Nein.",
+      "hint": "Mira says Nein.",
       "explanation": "In der Küche ist es nicht."
      },
      {
@@ -15612,10 +15738,10 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon ask about at the end?",
+      "prompt": "What does Mira ask about at the end?",
       "options": [
-       "his bag",
-       "his phone",
+       "her bag",
+       "her phone",
        "the sofa"
       ],
       "answer": 0,
@@ -15729,7 +15855,7 @@
      },
      {
       "type": "type",
-      "prompt": "Leon wohnt bei ___ Eltern. (his)",
+      "prompt": "Mein Freund wohnt bei ___ Eltern. (his)",
       "answers": [
        "seinen"
       ],
@@ -15802,13 +15928,13 @@
    "chapter": 9,
    "day": 3,
    "reading": {
-    "title": "Annas Umzug",
-    "text": "Anna zieht heute ein. Die Wohnung ist neu und im Zentrum. Leon ist auch da. Er trägt die Kisten in die Wohnung. Anna sagt: Stell den Karton ins Schlafzimmer! Leon stellt den Karton ans Fenster. Anna sagt: Nein, Leon! Ins Schlafzimmer, nicht ans Fenster! Das Sofa steht im Wohnzimmer. Es ist grün. Der Teppich ist grau, und die Kissen sind bunt. Anna hängt das Bild an die Wand. Dann stellt sie die Pflanze auf den Tisch. Leon findet die Wohnung gemütlich. Die Küche ist klein, aber sauber. Am Samstag hat Anna Besuch. Sie sagt: Komm doch vorbei, Mira! Mira kommt gern. Ben kann leider nicht. Er muss arbeiten.",
+    "title": "Miras Umzug",
+    "text": "Mira zieht heute ein. Die Wohnung ist neu und im Zentrum. Ben ist auch da. Er trägt die Kisten in die Wohnung. Mira sagt: Stell den Karton ins Schlafzimmer! Ben stellt den Karton ans Fenster. Mira sagt: Nein, Ben! Ins Schlafzimmer, nicht ans Fenster! Das Sofa steht im Wohnzimmer. Es ist grün. Der Teppich ist grau, und die Kissen sind bunt. Mira hängt das Bild an die Wand. Dann stellt sie die Pflanze auf den Tisch. Ben findet die Wohnung gemütlich. Die Küche ist klein, aber sauber. Am Samstag hat Mira Besuch aus Wien. Sie sagt: Komm doch vorbei, Anna! Anna kommt gern. Leon kann leider nicht. Er muss arbeiten.",
     "glossary": [],
     "questions": [
      {
       "type": "choice",
-      "prompt": "What does Anna do today?",
+      "prompt": "What does Mira do today?",
       "options": [
        "She moves in.",
        "She goes to work.",
@@ -15816,7 +15942,7 @@
       ],
       "answer": 0,
       "hint": "Read the first sentence.",
-      "explanation": "Anna zieht heute ein."
+      "explanation": "Mira zieht heute ein."
      },
      {
       "type": "choice",
@@ -15834,17 +15960,17 @@
       "type": "choice",
       "prompt": "Who carries the boxes?",
       "options": [
-       "Ben",
-       "Mira",
-       "Leon"
+       "Leon",
+       "Anna",
+       "Ben"
       ],
       "answer": 2,
       "hint": "Find trägt.",
-      "explanation": "Er trägt die Kisten: Leon."
+      "explanation": "Er trägt die Kisten: Ben."
      },
      {
       "type": "choice",
-      "prompt": "Where does Leon put the box first?",
+      "prompt": "Where does Ben put the box first?",
       "options": [
        "at the window",
        "in the bedroom",
@@ -15852,7 +15978,7 @@
       ],
       "answer": 0,
       "hint": "Find ans Fenster.",
-      "explanation": "Leon stellt den Karton ans Fenster."
+      "explanation": "Ben stellt den Karton ans Fenster."
      },
      {
       "type": "choice",
@@ -15880,7 +16006,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Anna hang on the wall?",
+      "prompt": "What does Mira hang on the wall?",
       "options": [
        "a picture",
        "a lamp",
@@ -15888,11 +16014,11 @@
       ],
       "answer": 0,
       "hint": "Find hängt.",
-      "explanation": "Anna hängt das Bild an die Wand."
+      "explanation": "Mira hängt das Bild an die Wand."
      },
      {
       "type": "choice",
-      "prompt": "Where does Anna put the plant?",
+      "prompt": "Where does Mira put the plant?",
       "options": [
        "at the window",
        "on the floor",
@@ -15904,7 +16030,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon think of the flat?",
+      "prompt": "What does Ben think of the flat?",
       "options": [
        "too dark",
        "cosy",
@@ -15912,29 +16038,29 @@
       ],
       "answer": 1,
       "hint": "Find findet.",
-      "explanation": "Leon findet die Wohnung gemütlich."
+      "explanation": "Ben findet die Wohnung gemütlich."
      },
      {
       "type": "choice",
       "prompt": "Who cannot come on Saturday, and why?",
       "options": [
-       "Mira, she is ill",
-       "Leon, he is tired",
-       "Ben, he has to work"
+       "Anna, she is ill",
+       "Ben, he is tired",
+       "Leon, he has to work"
       ],
       "answer": 2,
       "hint": "Read the last two sentences.",
-      "explanation": "Ben kann leider nicht. Er muss arbeiten."
+      "explanation": "Leon kann leider nicht. Er muss arbeiten."
      }
     ]
    },
    "listening": {
-    "title": "Anna invites Mira",
-    "script": "Anna: Hallo Mira! Ich habe jetzt eine Wohnung.\nMira: Super! Wie ist die Wohnung?\nAnna: Sie ist klein, aber hell. Ich finde sie gemütlich.\nMira: Und wie sind die Möbel?\nAnna: Das Sofa ist rot, und der Sessel ist grau. Der Sessel steht am Fenster.\nMira: Toll! Ich will die Wohnung sehen.\nAnna: Komm doch am Samstag vorbei!\nMira: Ja, gern! Wann?\nAnna: Um vier Uhr.\nMira: Wo ist das?\nAnna: Im Zentrum, neben dem Park. Die Lage ist zentral.\nMira: Was soll ich mitbringen?\nAnna: Bring bitte Kaffee mit. Die Kaffeemaschine steht im Karton.\nMira: Gut. Bis Samstag!",
+    "title": "Mira invites Anna",
+    "script": "Mira: Hallo Anna! Ich habe jetzt eine Wohnung.\nAnna: Super! Wie ist die Wohnung?\nMira: Sie ist klein, aber hell. Ich finde sie gemütlich.\nAnna: Und wie sind die Möbel?\nMira: Das Sofa ist grün, und der Sessel ist grau. Der Sessel steht am Fenster.\nAnna: Toll! Ich will die Wohnung sehen.\nMira: Komm doch am Samstag vorbei!\nAnna: Ja, gern! Wann?\nMira: Um vier Uhr.\nAnna: Wo ist das?\nMira: Im Zentrum, neben dem Park. Die Lage ist zentral.\nAnna: Was soll ich mitbringen?\nMira: Bring bitte Kaffee mit. Die Kaffeemaschine steht im Karton.\nAnna: Gut. Bis Samstag!",
     "questions": [
      {
       "type": "choice",
-      "prompt": "What does Anna have now?",
+      "prompt": "What does Mira have now?",
       "options": [
        "a dog",
        "a job",
@@ -15958,7 +16084,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Anna think of the flat?",
+      "prompt": "What does Mira think of the flat?",
       "options": [
        "cosy",
        "too loud",
@@ -15976,9 +16102,9 @@
        "red",
        "green"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen to Das Sofa ist ...",
-      "explanation": "Das Sofa ist rot."
+      "explanation": "Das Sofa ist grün."
      },
      {
       "type": "choice",
@@ -16006,7 +16132,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When does Mira come?",
+      "prompt": "When does Anna come?",
       "options": [
        "on Friday",
        "on Saturday",
@@ -16042,7 +16168,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What should Mira bring?",
+      "prompt": "What should Anna bring?",
       "options": [
        "a plant",
        "coffee",
@@ -16182,7 +16308,7 @@
     "free": {
      "prompt": "You moved into a new flat. Write a message to a friend (du) of about 25 to 40 words: a greeting, where the flat is, one piece of furniture and where it is, your opinion, an invitation. Sign it.",
      "minWords": 25,
-     "model": "Liebe Mira, ich habe jetzt eine Wohnung. Sie ist im Zentrum und hat einen Balkon. Im Wohnzimmer steht ein Sofa. Es ist grün. Ich finde die Wohnung gemütlich. Komm doch am Samstag vorbei! Viele Grüße\nAnna",
+     "model": "Lieber Ben, ich habe jetzt eine Wohnung. Sie ist im Zentrum und hat einen Balkon. Im Wohnzimmer steht ein Sofa. Es ist grün. Ich finde die Wohnung gemütlich. Komm doch am Samstag vorbei! Viele Grüße\nMira",
      "checks": [
       {
        "label": "has a greeting",
