@@ -62,7 +62,7 @@ mountLesson(el, lesson, api)      // phases shown as a stepper: Start → Learn 
 mountSkillDay(el, skillDay, api)  // reading (text + glossary + 10 q) → listening (text-to-speech play/slow/replay, script hidden until answered or revealed, 10 q) → writing (10 items + free text with model + checks)
 mountRecall(el, items, api)       // dueRecall or reviewSet items, one at a time
 mountMock(el, mock, api)          // sections in order, score per section at the end, honest wording ("practice mock")
-renderQuestion(q, key, state, opt?) -> html   // shared widget; choice buttons (keys 1-4), build (tap tokens), type (input, Enter); after 2 wrong: hint + "Show answer" button;
+renderQuestion(q, key, state, opt?) -> html   // shared widget; choice buttons (keys 1-4), build (tap tokens), type (input, Enter); after 2 wrong: hint; after 4 wrong: "Show answer" + "Skip" buttons;
                                   // after answer/reveal: explanation + "Try again" (retry) + labelled next button (opt.next, e.g. "Next question", "Next: Quiz")
 videoHtml(key, resources) -> html // 16:9 youtube-nocookie iframe (loading=lazy) + plain YouTube link; '' for an unknown id
 lessonKeys(lesson) -> [qkey]      // every scored question key of a lesson (drills, blind, check)

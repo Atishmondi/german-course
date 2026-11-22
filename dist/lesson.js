@@ -67,7 +67,10 @@
     else if(st==='revealed')fb=`<p class="lp-fb-rev">Answer: <b lang="de">${esc(answerText(q))}</b></p><p class="lp-expl">${esc(q.explanation)}</p>${practising?'':'<p class="lp-later">This one comes back in a later Review.</p>'}`;
     else if(tries>0){
       fb=`<p class="lp-fb-bad">Not quite, try again. <span class="lp-tries">Tries: ${tries}</span></p>`;
-      if(tries>=K.HINT_AFTER)fb+=`<div class="lp-hint"><b>Hint</b><p>${esc(q.hint)}</p></div><div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="reveal">Show answer</button></div>`;
+      if(tries>=K.HINT_AFTER)fb+=`<div class="lp-hint"><b>Hint</b><p>${esc(q.hint)}</p></div>`;
+      // user: Skip / Show answer only after 2 more wrong tries following the hint
+      if(tries>=K.HINT_AFTER+2)fb+=`<div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="reveal">Show answer</button><button type="button" class="lp-btn lp-ghost" data-act="skip">Skip</button></div>
+        <p class="lp-later">Skip counts as not yet known; it comes back in a later Review.</p>`;
     }
     if(done)fb+=`<div class="lp-actions"><button type="button" class="lp-btn lp-ghost" data-act="retry">Try again</button><button type="button" class="lp-btn lp-next" data-act="next">${esc(opt.next||'Next')} →</button></div>`+
       `<button type="button" class="lp-link lp-report" data-report="${esc(key)}"${reported(key)?' disabled':''}>${reported(key)?'⚑ Reported, thanks':'⚑ Looks wrong? Report it'}</button>`;
@@ -170,8 +173,10 @@
         if(act==='unpick'){pending[s.key].splice(Number(b.dataset.p),1);return redrawQ();}
         if(act==='char'){const inp=el.querySelector('.lp-input');const a=inp.selectionStart??inp.value.length,z=inp.selectionEnd??a;inp.value=inp.value.slice(0,a)+b.dataset.c+inp.value.slice(z);inp.focus();inp.setSelectionRange(a+1,a+1);return;}
         if(act==='check'){if(s.q.type==='build')return pending[s.key]?.length&&submit(pending[s.key].slice());const val=el.querySelector('.lp-input').value;return val.trim()&&submit(val);}
-        if(act==='reveal'){const practising=!!state().practice?.[s.key];
-          if(K.reveal(state(),s.key)){const a=K.record(state(),s.key);if(!practising)s.onDone&&s.onDone({correct:false,revealed:true,tries:a.tries,done:true});api.save();draw(false);el.querySelector('.lp-next')?.focus();}return;}
+        if(act==='reveal'||act==='skip'){const practising=!!state().practice?.[s.key];
+          if(K.reveal(state(),s.key)){const a=K.record(state(),s.key);if(!practising)s.onDone&&s.onDone({correct:false,revealed:true,tries:a.tries,done:true});api.save();
+            if(act==='skip')return i<cfg.screens.length-1?go(i+1):(draw(false),cfg.finish&&cfg.finish());
+            draw(false);el.querySelector('.lp-next')?.focus();}return;}
       }
       cfg.act&&cfg.act(act,b,{redraw:()=>draw(false),go,index:()=>i});
     };

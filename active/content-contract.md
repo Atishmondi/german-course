@@ -90,7 +90,7 @@ Reading and listening questions test understanding of *that* text (who / what / 
 {"type": "build",  "prompt": "Build: I eat an apple.", "tokens": ["Apfel.", "Ich", "einen", "esse"], "answer": ["Ich", "esse", "einen", "Apfel."], "hint": "...", "explanation": "..."}
 {"type": "type",   "prompt": "Ich esse ___ Apfel. (ein)", "answers": ["einen"], "hint": "...", "explanation": "..."}
 ```
-- **`hint` is required** on every question: a nudge toward the rule, never the answer itself. The app shows it after 2 wrong tries and then unlocks "Show answer".
+- **`hint` is required** on every question: a nudge toward the rule, never the answer itself. The app shows it after 2 wrong tries; "Show answer" and "Skip" appear after 2 more wrong tries (4 in all). Skip counts as revealed (back in Review) and moves on.
 - **`explanation` is required**: one line on *why* the answer is right. It is shown after a correct answer or a reveal.
 - `choice`: 2–4 options, and `answer` is a valid index. `build`: `tokens` is a permutation of `answer`. `type`: `answers` lists **every** acceptable variant (word order variants, ß/ss, with or without the full stop is handled by the app).
 - `grammar: true` marks questions that test the grammar point (it counts toward `checkGrammar`).
