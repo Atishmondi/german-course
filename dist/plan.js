@@ -12,7 +12,7 @@
     const mockById=new Map(data.mocks.map(x=>[x.id,x]));
     const dayOfLesson=new Map(), days=[];
     const plattAfter=new Set(L.plattformAfterChapters||[]);
-    let chunk=[];
+    let chunk=[], prevReviewOf=[];
     const base=(lv,kind,extra)=>{const n=days.length+1;return {n,week:Math.ceil(n/(block+1)),dayInWeek:(n-1)%(block+1)+1,level:lv,kind,minutes:L.minutesPerDay,plattform:false,...extra};};
     const push=(lv,kind,extra)=>{
       const d=base(lv,kind,extra);days.push(d);chunk.push(d);
@@ -22,6 +22,8 @@
         const r=base(lv,'review',{reviewOf,available:reviewOf.every(id=>lessonById.has(id))});
         r.title=`Week ${r.week} review`;
         r.plattform=chunk.some(c=>c.endsChapter&&plattAfter.has(c.chapter));
+        if(r.week%2===0)r.checkpointOf=[...prevReviewOf,...reviewOf];   // every 2nd week (~10 study days): write + speak unaided
+        prevReviewOf=reviewOf;
         chunk.forEach(c=>delete c.endsChapter);
         days.push(r);chunk=[];
       }
@@ -43,7 +45,7 @@
       // shortcut: a buffer day reviews the whole level (reviewSet caps it at 40), make it targeted if learners ask
       const levelLessons=days.filter(d=>d.level===lv.id&&d.kind==='learn').flatMap(d=>d.lessonIds);
       for(let i=1;i<=(lv.bufferDays||0);i++)push(lv.id,'buffer',{reviewOf:levelLessons,title:`${T} catch-up day ${i}`,available:true});
-      for(let i=1;i<=(lv.mockDays||0);i++){const mockId=`${lv.id}-mock-${i}`;push(lv.id,'mock',{mockId,title:`${T} practice mock ${i}`,available:mockById.has(mockId)});}
+      for(let i=1;i<=(lv.mockDays||0);i++){const mockId=`${lv.id}-mock-${i}`;push(lv.id,'mock',{mockId,title:`${T} practice mock ${i}`,available:mockById.has(mockId),...(i===lv.mockDays?{checkpointOf:levelLessons}:{})});}
     }
     return {days,lessonById,skillDayById,mockById,dayOfLesson,ladder:L.reviewLadder||[1,3,7,21]};
   }
@@ -97,7 +99,19 @@
       const qs=reviewSet(plan,state,n).map(x=>x.question);
       parts.push({kind:'review',id:`review-${n}`,title:d.title,done:C.section(state,`day-${n}`,'review',qs).done});
     }
+    if(d.checkpointOf&&d.checkpointOf.length){const id=`checkpoint-${n}`;parts.push({kind:'checkpoint',id,title:d.kind==='mock'?'Level checkpoint: write and speak on your own':'Checkpoint: write and speak on your own',done:!!state.checkpoints?.[id]?.doneAt});}
     return parts;
+  }
+
+  // Checkpoint = one free-writing task + 3 speaking prompts from the covered lessons, done without help, then model answers + self-score.
+  function checkpointSet(plan,n){
+    const d=day(plan,n);if(!d||!d.checkpointOf)return null;
+    const ids=new Set(d.checkpointOf), lessons=d.checkpointOf.map(id=>plan.lessonById.get(id)).filter(Boolean);
+    const sds=plan.days.filter(x=>x.kind==='learn'&&x.lessonIds.some(id=>ids.has(id))).map(x=>plan.skillDayById.get(x.skillDayId)).filter(x=>x&&x.writing&&x.writing.free);
+    const pickN=(arr,k)=>arr.length<=k?arr:Array.from({length:k},(_,i)=>arr[Math.round(i*(arr.length-1)/(k-1))]);
+    const sd=sds[sds.length-1];
+    const speak=pickN(lessons.filter(l=>l.speaking&&(l.speaking.prompts||[]).length),3).map(l=>({prompt:l.speaking.prompts[l.speaking.prompts.length-1],model:(l.speaking.examples||[])[l.speaking.prompts.length-1]||(l.speaking.examples||[])[0]||'',from:l.title}));
+    return {id:`checkpoint-${n}`,title:d.kind==='mock'?'Level checkpoint':'Checkpoint',n,writing:sd?sd.writing.free:null,writingFrom:sd?sd.id:null,speaking:speak,lessons:lessons.length};
   }
 
   const dayDone=(plan,state,n)=>{const d=day(plan,n);return !!d&&d.available!==false&&dayParts(plan,state,n).every(p=>p.done);};
@@ -136,5 +150,5 @@
       byLevel,week:cur?cur.week:1};
   }
 
-  root.GERMAN_PLAN={build,dueRecall,reviewSet,dayParts,dayDone,completeLesson,finishDay,markRecall,stats};
+  root.GERMAN_PLAN={checkpointSet,build,dueRecall,reviewSet,dayParts,dayDone,completeLesson,finishDay,markRecall,stats};
 })(typeof window==='undefined'?globalThis:window);

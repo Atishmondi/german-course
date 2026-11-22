@@ -123,16 +123,17 @@
 
   function partHref(p,n){
     return {recall:`#/recall/${n}`,review:`#/review/${n}`,lesson:`#/lesson/${encodeURIComponent(p.id)}`,
-      skills:`#/skills/${encodeURIComponent(p.id)}`,mock:`#/mock/${encodeURIComponent(p.id)}`}[p.kind]||'#/home';
+      skills:`#/skills/${encodeURIComponent(p.id)}`,mock:`#/mock/${encodeURIComponent(p.id)}`,checkpoint:`#/checkpoint/${n}`}[p.kind]||'#/home';
   }
   function partMin(d,p){
     if(p.minutes)return p.minutes;
     if(p.kind==='lesson')return (plan.lessonById.get(p.id)||{}).minutes||25;
     if(p.kind==='skills')return (plan.skillDayById.get(p.id)||{}).minutes||40;
     if(p.kind==='recall')return 10;
+    if(p.kind==='checkpoint')return 25;
     return d.minutes||60;
   }
-  const partLabel={recall:'Quick review',lesson:'Lesson',skills:'Practice',review:'Review',mock:'Practice mock'};
+  const partLabel={recall:'Quick review',lesson:'Lesson',skills:'Practice',review:'Review',mock:'Practice mock',checkpoint:'Checkpoint'};
   function partName(d,p){
     if(p.kind==='lesson')return `${lessonPos(d,p.id)}: ${p.title}`;
     if(p.kind==='skills')return 'Practice: reading, listening, writing';
@@ -533,6 +534,7 @@
     if(kind==='lesson'){item=plan.lessonById.get(arg);n=plan.dayOfLesson.get(arg);fn='mountLesson';label='lesson';}
     else if(kind==='skills'){item=plan.skillDayById.get(arg);n=(findDay(d=>d.skillDayId===arg)||{}).n;fn='mountSkillDay';label='Practice';}
     else if(kind==='mock'){item=plan.mockById.get(arg);n=(findDay(d=>d.mockId===arg)||{}).n;fn='mountMock';label='practice mock';}
+    else if(kind==='checkpoint'){n=parseInt(arg,10);item=dayAt(n)?PL.checkpointSet(plan,n):null;fn='mountCheckpoint';label='checkpoint';}
     else{n=parseInt(arg,10);fn='mountRecall';label='Review';
       if(dayAt(n))item=kind==='review'?PL.reviewSet(plan,state,n):PL.dueRecall(plan,state,n);}
     if(!item||n==null)return notice(v,'🔎','Not found',`That ${label} is not in the plan yet.`,homeBtn);
@@ -566,6 +568,7 @@
       const r=state.skillDays[id]||(state.skillDays[id]={step:0,doneAt:null});
       if(!r.doneAt)r.doneAt=new Date().toISOString();save();toast('Practice done. Nice.');
     }else if(kind==='mock')toast('Practice mock finished. It is practice, not a certificate.');
+    else if(kind==='checkpoint'){const n=parseInt(id,10);state.checkpoints=state.checkpoints||{};state.checkpoints[`checkpoint-${n}`]={score:result.score||null,doneAt:new Date().toISOString()};save();toast('Checkpoint saved. Look back at it before the next one.');return go(`#/day/${n}`);}
     go('#/home');
   }
 
@@ -581,6 +584,7 @@
     else if(name==='skills'){d=findDay(x=>x.skillDayId===arg);last={t:'Practice',h:`#/skills/${encodeURIComponent(arg)}`};}
     else if(name==='recall'||name==='review'){d=dayAt(parseInt(arg,10));if(d&&d.kind==='learn')last={t:'Review',h:location.hash};}
     else if(name==='mock')d=findDay(x=>x.mockId===arg);
+    else if(name==='checkpoint'){d=dayAt(parseInt(arg,10));last={t:'Checkpoint',h:location.hash};}
     if(!d)return [{t:'Home',h:'#/home'}];
     return [...dayCrumbs(d),...(last?[last]:[])];
   }
@@ -598,7 +602,7 @@
     let [name,...rest]=(location.hash.replace(/^#\/?/,'')||'home').split('/');
     if(name==='today')name='home';if(name==='plan')name='chapters';   // old links keep working
     const arg=decodeURIComponent(rest.join('/'));
-    const isPlayer=['lesson','skills','recall','review','mock'].includes(name);
+    const isPlayer=['lesson','skills','recall','review','mock','checkpoint'].includes(name);
     document.body.classList.toggle('playing',isPlayer);
     const navKey=isPlayer||name==='day'?'chapters':name;
     document.querySelectorAll('[data-nav]').forEach(a=>a.dataset.nav===navKey?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));

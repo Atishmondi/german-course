@@ -19,6 +19,7 @@
     recall:{},                 // "<lessonId>@<rung>": {passed, revealed, doneAt}
     words:{},                  // "<wordId>": {level, due}
     drafts:{},                 // "<key>": free-writing text
+    checkpoints:{},            // "checkpoint-<n>": {score 1-5, doneAt}  write + speak unaided, self-scored
     streak:{count:0,last:null},
     stats:{correct:0,answered:0},
     settings:{reminders:true,interval:5,celebrate:true,sound:false,reduced:false,speed:0.85}});
@@ -44,6 +45,7 @@
     s.notYet=pick(input.notYet,v=>v===true?true:undefined);
     s.recall=pick(input.recall,v=>isObj(v)?{passed:!!v.passed,revealed:!!v.revealed,doneAt:isDate(v.doneAt)?v.doneAt:null}:undefined);
     s.words=pick(input.words,v=>isObj(v)&&Number.isFinite(v.due)?{level:int(v.level,0,5,0),due:v.due}:undefined);
+    s.checkpoints=pick(input.checkpoints,v=>isObj(v)?{score:v.score==null?null:int(v.score,1,5,null),doneAt:isDate(v.doneAt)?v.doneAt:null}:undefined);
     s.drafts=pick(input.drafts,v=>typeof v==='string'?v.slice(0,5000):undefined);
     s.streak={count:int(input.streak?.count,0,9999,0),last:/^\d{4}-\d{2}-\d{2}$/.test(input.streak?.last||'')?input.streak.last:null};
     s.stats={correct:int(input.stats?.correct,0,1e7,0),answered:int(input.stats?.answered,0,1e7,0)};

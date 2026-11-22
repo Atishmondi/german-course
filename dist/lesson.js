@@ -399,6 +399,38 @@
       act:act=>{if(act==='finish'&&done())api.onDone({kind:'recall',right:tally().right,total:list.length});}});
   }
 
+  // ---------- checkpoint: write + speak without help, then model answers and a self-score ----------
+  function mountCheckpoint(el,cp,api){
+    const F=cp.writing, dkey=`${cp.id}|free`, said=new Set(); let shown=false, score=api.getState().checkpoints?.[cp.id]?.score||null;
+    const chips=()=>{if(!F)return '';const f=K.writingFeedback(F,api.getState().drafts[dkey]||'');
+      return `<p class="lp-count">${f.words} / ${F.minWords||0} words${f.enough?' ✓':''}</p><ul class="lp-chips">${f.checks.map(c=>`<li class="${c.passed?'is-ok':'is-bad'}">${c.passed?'✓':'✗'} ${esc(c.label)}</li>`).join('')}</ul>`;};
+    const screens=[
+      {phase:'Start',title:cp.title,html:()=>`<p class="lp-goal">Show yourself what you can do <b>without help</b>: no cards, no notes, no translator.</p>
+        <div class="lp-oneline"><span class="lp-label">How it works</span><p>1. Write a short text. 2. Answer 3 speaking prompts out loud. 3. Then compare with the model answers and give yourself a score from 1 to 5.</p></div>
+        <p class="lp-muted">It covers the last ${cp.lessons} lessons. It is not a test: the score is only for you.</p>`,nextLabel:'Start writing'},
+      ...(F?[{phase:'Write',title:'Write on your own',html:()=>`<p class="lp-prompt">${esc(F.prompt)}</p>
+        <label class="lp-label" for="lp-free">Your text (at least ${F.minWords||0} words)</label>
+        <textarea id="lp-free" class="lp-textarea" rows="7" lang="de" spellcheck="false">${esc(api.getState().drafts[dkey]||'')}</textarea>
+        <div class="lp-feedback" aria-live="polite">${chips()}</div><p class="lp-muted">Your text is saved as you type. The model comes at the end.</p>`}]:[]),
+      {phase:'Speak',title:'Speak on your own',html:()=>`<p class="lp-muted">Say each answer out loud, at least two sentences. Then tick it.</p>
+        <ol class="lp-prompts">${cp.speaking.map((s,i)=>`<li>${esc(s.prompt)} <button type="button" class="lp-btn lp-ghost" data-act="said" data-i="${i}" aria-pressed="${said.has(i)}">${said.has(i)?'✓ Said it':'I said it'}</button></li>`).join('')}</ol>`},
+      {phase:'Compare',title:'Compare with the models',html:()=>`${F?`<span class="lp-label">Your text</span><p class="lp-card" lang="de">${esc(api.getState().drafts[dkey]||'(nothing written)')}</p>
+        <div class="lp-model"><span class="lp-label">Model text</span><p lang="de">${esc(F.model)}</p></div>`:''}
+        <span class="lp-label">Speaking models</span><ul class="lp-models">${cp.speaking.map(s=>`<li><span class="lp-muted">${esc(s.prompt)}</span><br><span lang="de">${esc(s.model)}</span> ${speakBtn(s.model)}</li>`).join('')}</ul>`},
+      {phase:'Score',title:'How did it go?',final:true,html:()=>`<p>Compared with the models, how well could you do it without help?</p>
+        <div class="lp-opts" role="group" aria-label="Self-score">${[1,2,3,4,5].map(k=>`<button type="button" class="lp-opt${score===k?' is-ok':''}" data-act="score" data-v="${k}"><span class="lp-num" aria-hidden="true">${k}</span><span>${['','Hard: I needed a lot','Some parts worked','Okay, with gaps','Good, small mistakes','Easy, almost like the model'][k]}</span></button>`).join('')}</div>
+        <p class="lp-muted">Low score? Redo the lessons it covers from the Chapters page before you go on.</p>
+        <div class="lp-actions"><button type="button" class="lp-btn lp-next" data-act="finish"${score?'':' disabled'}>Save checkpoint →</button></div>`}
+    ];
+    engine(el,api,{title:cp.title,kind:'checkpoint',screens,start:0,
+      act:(act,b,ctx)=>{
+        if(act==='said'){const i=Number(b.dataset.i);said.has(i)?said.delete(i):said.add(i);ctx.redraw();}
+        if(act==='score'){score=Number(b.dataset.v);ctx.redraw();}
+        if(act==='finish'&&score)api.onDone({kind:'checkpoint',score});
+      },
+      input:e=>{if(e.target.id!=='lp-free')return;api.getState().drafts[dkey]=e.target.value.slice(0,5000);api.save();const fb=el.querySelector('.lp-feedback');if(fb)fb.innerHTML=chips();}});
+  }
+
   // ---------- mock ----------
   const SKILL={reading:'Reading',listening:'Listening',writing:'Writing',grammar:'Grammar'};
   const TIP={reading:'Re-read one skill-day text a day and answer its questions again.',listening:'Replay a listening script at 0.7× and shadow it line by line.',
@@ -430,5 +462,5 @@
       act:(act,b,ctx)=>{if(act!=='finish')return;const o=open();if(o<screens.length)return ctx.go(o);api.onDone({kind:'mock',id,sections:rows().map(({skill,right,total})=>({skill,right,total}))});}});
   }
 
-  window.GERMAN_PLAYER={mountLesson,mountSkillDay,mountRecall,mountMock,renderQuestion,videoHtml,lessonKeys};
+  window.GERMAN_PLAYER={mountLesson,mountSkillDay,mountRecall,mountMock,mountCheckpoint,renderQuestion,videoHtml,lessonKeys};
 })();

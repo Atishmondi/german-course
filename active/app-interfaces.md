@@ -95,3 +95,8 @@ ADHD rules: one activity on screen at a time, big targets (≥44px), phase stepp
 - `KLEIN_CORE.resetKeys(state,keys)`: puts finished (or practising) questions into `state.practice` as fresh entries. Never touches `answers`, `stats`, `notYet`, `completedAt`, `completedOnDay`. Unanswered questions are skipped so their first try still counts.
 - Reset controls: "Reset answers" per section (Drills, New sentence, Quiz; Practice Reading/Listening/Writing) and "Start lesson over" / "Start practice over" in the header; both confirm in-page and say "Your first score stays saved". Screens carry `reset:{name,keys}`; `engine` cfg takes `over:{label,keys()}`.
 - Card field `more` (string, up to 150 words): button "Explain it more simply" (`aria-expanded`) opens it in place.
+
+## Checkpoints (2026-11-23)
+- plan.js `build`: every 2nd weekly review day gets `checkpointOf` (lessons of the last 2 weeks); the last mock day of each level gets `checkpointOf` = all level lessons. `dayParts` adds a part `{kind:'checkpoint', id:'checkpoint-<n>'}`; `GERMAN_PLAN.checkpointSet(plan,n)` → `{id,title,n,writing (a skill day's writing.free), speaking:[{prompt,model,from}×3], lessons}`.
+- Route `#/checkpoint/<n>` → lesson.js `mountCheckpoint`: Start → Write (no help, draft saved under drafts["checkpoint-<n>|free"]) → Speak (3 prompts, tick "I said it") → Compare (own text vs model, speaking models with audio) → Score 1–5 (required) → state.checkpoints["checkpoint-<n>"] = {score, doneAt}.
+- core.js state: `checkpoints:{}` (backward compatible; old states get {}).
