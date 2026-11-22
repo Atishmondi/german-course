@@ -273,3 +273,11 @@
 .lp-lead p,.lp-deeper>p,.lp-moretext{line-height:1.6;max-width:62ch}
 .lp-en{color:var(--sub);font-size:1rem}.lp-why{color:var(--muted);font-size:.95rem}
 .lp-label{letter-spacing:.08em;font-weight:700}
+/* "All of today's grammar" screen */
+.lp-gsum{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:18px}
+.lp-gsum>li{padding:16px 20px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+.lp-gsum-h{margin:0 0 6px;font-size:1.1rem}
+.lp-gsum .lp-tablewrap,.lp-gsum .lp-steps{margin:10px 0}
+.lp-gcore{margin:14px 0 0;padding:12px 18px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;background:var(--surface)}
+.lp-gcore summary{cursor:pointer;font-weight:600}
+.lp-gnotes{margin:10px 0;padding-left:1.2em;color:var(--sub)}

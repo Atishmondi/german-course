@@ -20,7 +20,7 @@
   // opt: {next: label for the next button, redo: true while replaying a finished lesson}
   // Study timer: counts only teaching screens (Start, Learn, Words), not drills/quiz/practice questions.
   // Stored per local date in its own key {"2026-11-20": seconds}; pauses when the tab is hidden or after 3 min with no input.
-  const TIMER='german-study-time', LEARN_PHASES=new Set(['Start','Learn','Words']);
+  const TIMER='german-study-time', LEARN_PHASES=new Set(['Start','Learn','Grammar','Words']);
   const today=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;};
   const studySeconds=(day=today())=>{try{return (JSON.parse(localStorage.getItem(TIMER))||{})[day]||0;}catch{return 0;}};
   if(typeof document!=='undefined'){
@@ -250,6 +250,16 @@
     const mistake=g.mistake?`<div class="lp-mistake"><span class="lp-label">Common mistake</span><p class="lp-wrong" lang="de"><span aria-hidden="true">✗</span> <s>${esc(g.mistake.wrong)}</s></p><p class="lp-right" lang="de"><span aria-hidden="true">✓</span> ${esc(g.mistake.right)}</p><p class="lp-why">${esc(g.mistake.why)}</p></div>`:'';
     const terms=(lesson.terms||[]).length?`<dl class="lp-terms"><span class="lp-label">Words about grammar</span>${lesson.terms.map(t=>`<div><dt>${esc(t.term)}</dt><dd>${esc(t.meaning)}</dd></div>`).join('')}</dl>`:'';
     const gtabs=(api.data?.grammarTables||[]).filter(t=>(t.lessons||[]).includes(id)).map(t=>`<p class="lp-gtab"><a href="#/grammar/${encodeURIComponent(t.id)}">📘 Grammar table: ${esc(t.title)} →</a></p>`).join('');
+    // "Grammar": every grammar point of this lesson on one screen (user asked for all of it in one place)
+    const gcards=cards.filter(c=>!c.intro), coreT=(api.data?.grammarTables||[]).filter(t=>(t.lessons||[]).includes(id));
+    const gsum=()=>`<div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
+      <ol class="lp-gsum">${gcards.map(c=>{const ex=(c.examples||[])[0],st=Array.isArray(c.steps)?c.steps:[];
+        return `<li><h3 class="lp-gsum-h">${esc(c.title)}</h3>${c.lead?`<p class="lp-why">${esc(c.lead)}</p>`:''}${tableHtml(c.table)}
+          ${st.length?`<ol class="lp-steps">${st.map((x,k)=>`<li><span class="lp-stepn" aria-hidden="true">${k+1}</span><span lang="de">${esc(x)}</span></li>`).join('')}</ol>`:''}
+          ${ex?(Array.isArray(ex.parts)&&ex.parts.length?`<div class="lp-de lp-de-chips" lang="de"><span class="lp-parts lp-parts-sm">${chipsHtml(ex.parts)}</span> ${speakBtn(ex.de)}</div>`:`<p class="lp-de" lang="de">${esc(ex.de)} ${speakBtn(ex.de)}</p>`)+`<p class="lp-en">${esc(ex.en)}</p>`:''}</li>`;}).join('')}</ol>
+      ${mistake}${terms}
+      ${coreT.map(t=>`<details class="lp-gcore"><summary>📘 ${esc(t.title)}</summary><p class="lp-why">${esc(t.why||'')}</p>${tableHtml(t)}
+        ${(t.notes||[]).length?`<ul class="lp-gnotes">${t.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>`:''}<p><a href="#/grammar/${encodeURIComponent(t.id)}">Open on the Grammar page →</a></p></details>`).join('')}`;
     const screens=[
       {phase:'Start',title:lesson.title,html:()=>`<p class="lp-goal">${esc(lesson.goal)}</p>
         <div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
@@ -260,6 +270,7 @@
         return {phase:'Learn',card:n,title:c.title||`Idea ${n+1}`,wide:true,sub:()=>c.intro?'Introduction':`Card ${n+1-off} of ${cards.length-off}`,
           canNext:()=>Math.min(steps,stepsShown[sk]||1)>=steps,
           html:()=>cardHtml(c,sk)+(n===off&&gtabs?`<div class="lp-gtabs">${gtabs}</div>`:'')+(n===off?(lesson.media?.grammarVideos||[]).map(k=>videoHtml(k,res)).join(''):'')+(n===0?terms:'')+(n===cards.length-1&&n>0?mistake:'')};}),
+      ...(gcards.length?[{phase:'Grammar',title:"All of today's grammar",wide:true,sub:()=>'Everything from the cards in one place',html:gsum}]:[]),
       ...qScreens(lesson.drills||[],id,'drills','Drills','Drill'),
       ...(lesson.blind?[{phase:'New sentence',title:'New sentence on your own',q:lesson.blind,key:K.qkey(id,'blind',0),reset:{name:'New sentence',keys:[K.qkey(id,'blind',0)]},sub:()=>'You have not seen this one before. Use what you just learned.'}]:[]),
       ...qScreens(lesson.check||[],id,'check','Quiz','Question',{sub:checkSub}),

@@ -346,6 +346,10 @@
           ${embeds(t.videos)}<div class="links"><span class="muted"><span class="badge">${esc(levelTitle(t.level))}</span> Taught in ${esc(t.chapter)}</span></div></div></article>`;
       function lessonLink(id){const L=plan&&plan.lessonById.get(id), d=plan&&dayAt(plan.dayOfLesson.get(id));if(!L||!d)return '';
         return `<li><a href="#/lesson/${encodeURIComponent(id)}"><span class="muted">${esc(levelTitle(d.level))} Ch ${d.chapter} · ${esc(dayLabel(d))} · Lesson ${(d.lessonIds||[]).indexOf(id)+1}</span> ${esc(L.title)} →</a></li>`;}
+      // learning order: a table sits at the first day + lesson that teaches it (user: "the same order as i learn")
+      for(const c of core){c.pos=Infinity;for(const id of c.t.lessons||[]){const dn=plan&&plan.dayOfLesson.get(id),D=dn!=null&&dayAt(dn);if(!D)continue;
+        const k=dn*100+Math.max(0,(D.lessonIds||[]).indexOf(id));if(k<c.pos)c.pos=k;} c.day=isFinite(c.pos)?Math.floor(c.pos/100):null;}
+      const today=state.position.day;
       const lvIds=(LEVELS?LEVELS.levels.map(l=>l.id):['a1','a2','b1']).filter(id=>core.some(c=>c.t.level===id));
       const curLv=(dayAt(state.position.day)||{}).level;
       let lvSel=lvIds.includes(curLv)?curLv:(lvIds[0]||'all'), openIds=null;
@@ -369,12 +373,14 @@
         if(!clist)return;
         // while searching, look in every level so nothing is hidden by the level filter
         const hits=core.filter(c=>term?c.text.includes(term):lvSel==='all'||c.t.level===lvSel)
-          .sort((a,b)=>gi(a.t.group)-gi(b.t.group)||lvIds.indexOf(a.t.level)-lvIds.indexOf(b.t.level));
+          .sort((a,b)=>(a.pos-b.pos)||lvIds.indexOf(a.t.level)-lvIds.indexOf(b.t.level)||gi(a.t.group)-gi(b.t.group));
         if(!hits.length){clist.innerHTML=`<p class="lede">${term?'No core table matches that search.':'No core tables for this level yet.'}</p>`;return;}
-        if(!openIds)openIds=new Set(hits.filter(c=>c.t.group===hits[0].t.group).map(c=>c.t.id));
-        let html='',grp=null;
+        if(!openIds){const past=hits.filter(c=>c.day!=null&&c.day<=today),d=past.length?past[past.length-1].day:hits[0].day;
+          openIds=new Set(hits.filter(c=>c.day===d).map(c=>c.t.id));}
+        let html='',grp;
         for(const c of hits){
-          if(c.t.group!==grp){grp=c.t.group;html+=`<p class="eyebrow section">${esc(grp)}</p>`;}
+          const D=c.day!=null&&dayAt(c.day), head=D?`${esc(levelTitle(D.level))} · Chapter ${D.chapter} · ${esc(dayLabel(D))}${c.day===today?' · <b>Today</b>':''}`:'Extra reference';
+          if(head!==grp){grp=head;html+=`<p class="eyebrow section"${c.day===today?' id="ct-today"':''}>${head}</p>`;}
           html+=coreHtml(c.t,!!term||openIds.has(c.t.id));
         }
         clist.innerHTML=html;
