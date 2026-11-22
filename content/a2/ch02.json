@@ -2771,7 +2771,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:R97kq0uRDIE"
+     "yt:R97kq0uRDIE",
+     "yt:lNDwPaER1Jw"
     ],
     "nicosWeg": [
      "nw:a2-47"
@@ -4488,7 +4489,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:7OhFb-G75HE"
+     "yt:7OhFb-G75HE",
+     "yt:dP27rNxH0H4"
     ],
     "nicosWeg": [
      "nw:a2-48"
@@ -9400,7 +9402,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:gurtFfgWSzw"
+     "yt:gurtFfgWSzw",
+     "yt:YWn2kAjbhrA"
     ],
     "nicosWeg": [
      "nw:a2-28"
@@ -12621,22 +12624,26 @@
      ],
      "lead": "This is the last card. On this card: a short dialogue that uses all your phrases, so you see how opinion, reason, question and answer fit together.",
      "deeper": {
-      "text": "Good speakers use all four steps, but they keep it short. One opinion, one reason, one question. Then they listen and answer. You do not need long sentences. Listen for the small phrases: Da hast du recht, Das sehe ich anders. They are the glue of every talk. Read the dialogue aloud with a friend and swap roles.",
+      "text": "You hear the same phrases on the radio. In a Radiosendung with listeners, the host asks: Was meinen Sie? Then a caller says: Meiner Meinung nach … or Ich bin dagegen, weil … On the radio people use Sie with strangers, so the host says Ihre Meinung, not deine Meinung. When you listen, do not try to catch every word: listen for dafür or dagegen and for weil. Then you know the opinion and the reason.",
       "example": {
-       "de": "Was meinst du?",
-       "en": "What do you think?",
+       "de": "Was ist Ihre Meinung?",
+       "en": "What is your opinion?",
        "parts": [
         [
          "Was",
          "question"
         ],
         [
-         "meinst",
+         "ist",
          "verb"
         ],
         [
-         "du?",
-         "subject"
+         "Ihre",
+         "article"
+        ],
+        [
+         "Meinung?",
+         "noun"
         ]
        ]
       }
@@ -12691,7 +12698,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:KnzFnqf7T6Y"
+     "yt:KnzFnqf7T6Y",
+     "yt:1H_r9nhnY90"
     ],
     "nicosWeg": [
      "nw:a2-71",
@@ -14402,30 +14410,30 @@
      ],
      "lead": "This is the last card. On this card: a short text that uses everything from the lesson, so you practise reading about school and finding the verbs.",
      "deeper": {
-      "text": "To read well, do not translate every word. First find the verbs: they tell you who does what. Then find the nouns: they tell you the topic. If a word is new, guess from the other words around it. The words you already know are many: Grundschule, Gymnasium, Abitur, Ausbildung. The text is only 60 words, so you can read it twice in one minute.",
+      "text": "Many real texts about school come from a Schulhomepage, the website of a school. The menu has the same words again and again: Aktuelles (news), Termine (dates), Unser Team (the teachers), AGs (afternoon clubs) and Projekte. A Schulprojekt is a project where a class works on one topic for some days, for example a school newspaper. Read the menu first: it tells you where the information is, before you read a single sentence.",
       "example": {
-       "de": "Danach gibt es viele Schulen.",
-       "en": "After that there are many schools.",
+       "de": "Unsere Klasse macht ein Schulprojekt.",
+       "en": "Our class is doing a school project.",
        "parts": [
         [
-         "Danach",
-         "time"
+         "Unsere",
+         "article"
         ],
         [
-         "gibt",
+         "Klasse",
+         "subject"
+        ],
+        [
+         "macht",
          "verb"
         ],
         [
-         "es",
-         "other"
+         "ein",
+         "article"
         ],
         [
-         "viele",
-         "other"
-        ],
-        [
-         "Schulen.",
-         "noun"
+         "Schulprojekt.",
+         "object"
         ]
        ]
       }
@@ -14485,7 +14493,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:mxSqTdTYcxM"
+     "yt:mxSqTdTYcxM",
+     "yt:fB12-T5jC30"
     ],
     "nicosWeg": [
      "nw:a2-15"
