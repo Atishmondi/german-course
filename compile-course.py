@@ -15,6 +15,9 @@ CONTENT = ROOT / 'content'
 NAME = re.compile(r'atish|mondi', re.I)
 
 errors, warnings = [], []
+import importlib.util as _ilu
+_sp = _ilu.spec_from_file_location('giveaways', Path(__file__).resolve().parent / 'tools' / 'giveaways.py'); GIVEAWAYS = _ilu.module_from_spec(_sp); _sp.loader.exec_module(GIVEAWAYS)
+STRICT_LEVELS = {'a2', 'b1'}  # depth bar enforced; add 'a1' after its upgrade
 def err(file, id_, field, msg): errors.append(f'{file} | {id_} | {field}: {msg}')
 def warn(file, id_, field, msg): warnings.append(f'{file} | {id_} | {field}: {msg}')
 
@@ -153,6 +156,17 @@ def lesson(f, lv, ch, n, L, R):
         err(f, lid, 'cards', 'colour-code at least half of the examples with "parts"')
     if isinstance(cards, list) and not any(isinstance(c, dict) and c.get('more') for c in cards):
         err(f, lid, 'cards', 'at least one card needs "more": the hard part explained simply')
+    if lv in STRICT_LEVELS:  # depth bar (user 2026-11-22: "no compromises"); add a level once it is upgraded
+        for i, c in enumerate(cards if isinstance(cards, list) else []):
+            if not isinstance(c, dict) or c.get('intro'): continue
+            if len((c.get('more') or '').split()) < 55: err(f, lid, f'cards[{i}].more', 'depth bar: "more" needs 55+ words with a new angle')
+            if len(((c.get('deeper') or {}).get('text') or '').split()) < 40: err(f, lid, f'cards[{i}].deeper', 'depth bar: deeper.text needs 40+ words with a real new point')
+        md = L.get('media') or {}
+        if len(md.get('grammarVideos') or []) < 2: err(f, lid, 'media.grammarVideos', 'depth bar: at least 2 grammar videos')
+        if len(md.get('nicosWeg') or []) < 1: err(f, lid, 'media.nicosWeg', "depth bar: at least 1 Nicos Weg episode")
+        for path, q in GIVEAWAYS.qs(L):
+            if f'{Path(f).parent.name}/{Path(f).name}.lessons[{n-1}]{path}' in GIVEAWAYS.OK: continue
+            for why in GIVEAWAYS.check(q): err(f, lid, path.lstrip('.'), f'giveaway: {why}')
     media(f, lid, L)
     drills = questions(f, lid, 'drills', L.get('drills'), minimum=R['drills'])
     check = questions(f, lid, 'check', L.get('check'), minimum=R['check'])

@@ -26,11 +26,12 @@ def check(q):
     return out
 import os
 OK = set(open(os.path.join(os.path.dirname(__file__), 'giveaways-ok.txt')).read().split('\n')) if os.path.exists(os.path.join(os.path.dirname(__file__), 'giveaways-ok.txt')) else set()
-files = sys.argv[1:] or sorted(glob.glob('content/a1/ch*.json') + glob.glob('content/a2/ch*.json'))
-n = 0
-for f in files:
-    for path, q in qs(json.load(open(f))):
-        if f'{f.split("/")[-2]}/{f.split("/")[-1]}{path}' in OK: continue
-        for why in check(q):
-            n += 1; print(f'{f.split("/")[-2]}/{f.split("/")[-1]}{path}: {why} :: {q["prompt"][:90]}')
-print(f'{n} giveaway flag(s)'); sys.exit(1 if n else 0)
+if __name__ == '__main__':
+    files = sys.argv[1:] or sorted(glob.glob('content/a1/ch*.json') + glob.glob('content/a2/ch*.json'))
+    n = 0
+    for f in files:
+        for path, q in qs(json.load(open(f))):
+            if f'{f.split("/")[-2]}/{f.split("/")[-1]}{path}' in OK: continue
+            for why in check(q):
+                n += 1; print(f'{f.split("/")[-2]}/{f.split("/")[-1]}{path}: {why} :: {q["prompt"][:90]}')
+    print(f'{n} giveaway flag(s)'); sys.exit(1 if n else 0)
