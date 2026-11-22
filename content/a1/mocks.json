@@ -7,7 +7,7 @@
    {
     "skill": "listening",
     "instructions": "Part 1. You will hear three short conversations. Choose the right answer. You can play the audio as often as you like in practice.",
-    "text": "Erster Dialog.\nFrau Weber: Praxis Weber, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe seit gestern Fieber und Husten. Ich möchte einen Termin, bitte.\nFrau Weber: Können Sie heute kommen? Um halb vier?\nMira: Nein, leider nicht. Ich habe bis vier Uhr Kurs. Geht es um Viertel nach vier?\nFrau Weber: Ja, das passt. Bis später!\nZweiter Dialog.\nVerkäuferin: Guten Morgen! Was darf es sein?\nBen: Ich möchte vier Brötchen, bitte.\nVerkäuferin: Gern. Sonst noch etwas?\nBen: Ja, haben Sie Kuchen?\nVerkäuferin: Ja, der Kuchen ist heute frisch. Ein Stück kostet zwei Euro fünfzig.\nBen: Dann nehme ich drei Stück.\nDritter Dialog.\nLeon: Entschuldigung, wie komme ich zum Hafen?\nAnna: Nehmen Sie die U-Bahn. Sie fahren drei Haltestellen.\nLeon: Und wie lange dauert das?\nAnna: Nur zehn Minuten. Aber schnell, die U-Bahn kommt gleich!\nLeon: Vielen Dank!",
+    "text": "Erster Dialog.\nÄrztin: Praxis am Markt, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe seit gestern Fieber und Husten. Ich möchte einen Termin, bitte.\nÄrztin: Können Sie heute kommen? Um halb vier?\nMira: Nein, leider nicht. Ich habe bis vier Uhr Kurs. Geht es um Viertel nach vier?\nÄrztin: Ja, das passt. Bis später!\nZweiter Dialog.\nVerkäuferin: Guten Morgen! Was darf es sein?\nBen: Ich möchte vier Brötchen, bitte.\nVerkäuferin: Gern. Sonst noch etwas?\nBen: Ja, haben Sie Kuchen?\nVerkäuferin: Ja, der Kuchen ist heute frisch. Ein Stück kostet zwei Euro fünfzig.\nBen: Dann nehme ich drei Stück.\nDritter Dialog.\nLeon: Entschuldigung, wie komme ich zum Hafen?\nPassantin: Nehmen Sie die U-Bahn. Sie fahren drei Haltestellen.\nLeon: Und wie lange dauert das?\nPassantin: Nur zehn Minuten. Aber schnell, die U-Bahn kommt gleich!\nLeon: Vielen Dank!",
     "questions": [
      {
       "type": "choice",
@@ -18,7 +18,7 @@
        "She has a toothache."
       ],
       "answer": 1,
-      "hint": "Listen for Fieber und Husten.",
+      "hint": "Listen to what Mira has since yesterday.",
       "explanation": "Mira sagt: Ich habe seit gestern Fieber und Husten."
      },
      {
@@ -66,8 +66,8 @@
        "on foot"
       ],
       "answer": 1,
-      "hint": "Anna says Nehmen Sie ...",
-      "explanation": "Anna sagt: Nehmen Sie die U-Bahn."
+      "hint": "The woman says Nehmen Sie ...",
+      "explanation": "Die Frau sagt: Nehmen Sie die U-Bahn."
      },
      {
       "type": "choice",
@@ -86,7 +86,7 @@
    {
     "skill": "listening",
     "instructions": "Part 2. You will hear four announcements. Say whether each sentence is right (Richtig) or wrong (Falsch).",
-    "text": "Erste Ansage.\nAchtung am Gleis vier! Der Zug nach Berlin kommt heute später, um halb drei. Bitte warten Sie am Gleis vier.\nZweite Ansage.\nGuten Tag im Supermarkt! Heute haben wir Äpfel im Angebot. Ein Kilo kostet nur einen Euro neunzig. Kasse drei ist geschlossen. Bitte gehen Sie zu Kasse eins oder zwei.\nDritte Ansage.\nDas Wetter für Hamburg. Am Samstag scheint die Sonne, und es sind zwanzig Grad. Am Sonntag regnet es, und es ist windig.\nVierte Ansage.\nAchtung, Deutschkurs! Der Unterricht beginnt heute um halb sieben. Frau Weber ist krank. Herr Ali ist heute der Lehrer in Raum zwölf.",
+    "text": "Erste Ansage.\nAchtung am Gleis vier! Der Zug nach Berlin kommt heute später, um halb drei. Bitte warten Sie am Gleis vier.\nZweite Ansage.\nGuten Tag im Supermarkt! Heute haben wir Äpfel im Angebot. Ein Kilo kostet nur einen Euro neunzig. Kasse drei ist geschlossen. Bitte gehen Sie zu Kasse eins oder zwei.\nDritte Ansage.\nDas Wetter für Hamburg. Am Samstag scheint die Sonne, und es sind zwanzig Grad. Am Sonntag regnet es, und es ist windig.\nVierte Ansage.\nAchtung, Deutschkurs! Der Unterricht beginnt heute um halb sieben. Frau Weber ist krank. Ein neuer Lehrer macht heute den Kurs in Raum zwölf.",
     "questions": [
      {
       "type": "choice",
@@ -118,7 +118,7 @@
        "Falsch"
       ],
       "answer": 1,
-      "hint": "Listen for geschlossen.",
+      "hint": "Listen to what the announcement says about Kasse drei.",
       "explanation": "Kasse drei ist geschlossen."
      },
      {
@@ -134,14 +134,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Herr Ali teaches the German class today.",
+      "prompt": "Frau Weber teaches the German class today.",
       "options": [
        "Richtig",
        "Falsch"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Who is ill, and who teaches?",
-      "explanation": "Frau Weber ist krank. Herr Ali ist heute der Lehrer."
+      "explanation": "Frau Weber ist krank. Ein neuer Lehrer macht heute den Kurs."
      }
     ]
    },
@@ -171,7 +171,7 @@
        "half past eight"
       ],
       "answer": 0,
-      "hint": "halb acht means half an hour before eight.",
+      "hint": "Listen for the time after beginnt um.",
       "explanation": "Die Party beginnt um halb acht."
      },
      {
@@ -215,18 +215,18 @@
    {
     "skill": "reading",
     "instructions": "Part 1. Read the two emails. Answer the questions.",
-    "text": "E-Mail 1\nVon: Leon\nAn: Ben\nBetreff: Samstag\n\nLieber Ben,\nam Samstag gehe ich mit Anna auf den Markt. Wir kaufen Obst und Gemüse, und danach frühstücken wir im Café. Hast du Lust? Wir treffen uns um zehn Uhr an der Haltestelle. Am Nachmittag muss ich lernen, denn ich habe am Montag eine Prüfung.\nViele Grüße\nLeon\n\nE-Mail 2\nVon: Ben\nAn: Leon\nBetreff: Re: Samstag\n\nLieber Leon,\nleider kann ich nicht kommen. Ich war gestern beim Arzt. Ich habe Schmerzen im Rücken, und ich soll im Bett bleiben. Aber am Sonntag kann ich kommen. Wollen wir zusammen kochen?\nBis bald\nBen",
+    "text": "E-Mail 1\nVon: Mira\nAn: Ben\nBetreff: Samstag\n\nLieber Ben,\nam Samstag gehe ich mit meinem Bruder auf den Markt. Wir kaufen Obst und Gemüse, und danach frühstücken wir im Café. Hast du Lust? Wir treffen uns um zehn Uhr an der Haltestelle. Am Nachmittag muss ich lernen, denn ich habe am Montag eine Prüfung.\nViele Grüße\nMira\n\nE-Mail 2\nVon: Ben\nAn: Mira\nBetreff: Re: Samstag\n\nLiebe Mira,\nleider kann ich nicht kommen. Ich war gestern beim Arzt. Ich habe Schmerzen im Rücken, und ich soll im Bett bleiben. Aber am Sonntag kann ich kommen. Wollen wir zusammen kochen?\nBis bald\nBen",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Leon and Anna go to the market on Saturday.",
+      "prompt": "Mira and her brother go to the market on Saturday.",
       "options": [
        "Richtig",
        "Falsch"
       ],
       "answer": 0,
       "hint": "Look at the first sentence of E-Mail 1.",
-      "explanation": "Am Samstag gehe ich mit Anna auf den Markt."
+      "explanation": "Am Samstag gehe ich mit meinem Bruder auf den Markt."
      },
      {
       "type": "choice",
@@ -241,7 +241,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Why does Leon study on Saturday afternoon?",
+      "prompt": "Why does Mira study on Saturday afternoon?",
       "options": [
        "He has an exam on Monday.",
        "He has a course on Sunday.",
@@ -358,7 +358,7 @@
    {
     "skill": "writing",
     "instructions": "Read about Mira. Fill in her form, build two sentences and complete the reply. Type your answers.",
-    "text": "Mira Rossi ist 24 Jahre alt. Sie wohnt in Hamburg. Sie ist Studentin.",
+    "text": "Mira Bauer ist 20 Jahre alt. Sie wohnt in Hamburg. Sie ist Studentin.",
     "questions": [
      {
       "type": "type",
@@ -367,26 +367,26 @@
        "Mira"
       ],
       "hint": "Read the first words of the text.",
-      "explanation": "Mira Rossi: Der Vorname ist Mira."
+      "explanation": "Mira Bauer: Der Vorname ist Mira."
      },
      {
       "type": "type",
       "prompt": "Form: Nachname: ___",
       "answers": [
-       "Rossi"
+       "Bauer"
       ],
       "hint": "The second name in the text.",
-      "explanation": "Der Nachname ist Rossi."
+      "explanation": "Der Nachname ist Bauer."
      },
      {
       "type": "type",
       "prompt": "Form: Ich bin ___ Jahre alt. (write the number as a word or digits)",
       "answers": [
-       "vierundzwanzig",
-       "24"
+       "zwanzig",
+       "20"
       ],
-      "hint": "Look for Jahre alt in the text. The one comes first in a German number.",
-      "explanation": "Mira ist 24 Jahre alt: vierundzwanzig."
+      "hint": "Look for Jahre alt in the text.",
+      "explanation": "Mira ist 20 Jahre alt: zwanzig."
      },
      {
       "type": "type",
@@ -669,19 +669,19 @@
    {
     "skill": "listening",
     "instructions": "Listening, Part 1. You will hear three short dialogues. Each one is read once on the real exam, here you can replay. Choose the right answer.",
-    "text": "Erster Dialog.\nAnna: Guten Morgen, Herr Ali. Ich bin Anna. Ich bin neu hier.\nHerr Ali: Guten Morgen, Anna. Ihr Büro ist im Erdgeschoss, neben der Kantine.\nAnna: Super, danke. Wann ist die Besprechung?\nHerr Ali: Um halb zehn.\nZweiter Dialog.\nLeon: Ich suche eine Wohnung. Hast du eine Anzeige, Mira?\nMira: Ja. Hier, zwei Zimmer, Balkon, sechshundert Euro Miete.\nLeon: Das ist zu teuer.\nMira: Dann habe ich noch eine WG im Zentrum. Ein Zimmer kostet vierhundert Euro.\nLeon: Das finde ich gut!\nDritter Dialog.\nVerkäuferin: Guten Tag. Kann ich Ihnen helfen?\nBen: Ja, ich suche eine Jacke. Blau, bitte.\nVerkäuferin: Diese Jacke ist günstig.\nBen: Die gefällt mir. Kann ich sie anprobieren?\nVerkäuferin: Natürlich. Die Umkleidekabine ist dort.",
+    "text": "Erster Dialog.\nFrau: Guten Morgen. Ich bin die neue Kollegin.\nMann: Guten Morgen und willkommen! Ihr Büro ist im Erdgeschoss, neben der Kantine.\nFrau: Super, danke. Wann ist die Besprechung?\nMann: Um halb zehn.\nZweiter Dialog.\nLeon: Ich suche eine Wohnung. Hast du eine Anzeige, Mira?\nMira: Ja. Hier, zwei Zimmer, Balkon, sechshundert Euro Miete.\nLeon: Das ist zu teuer.\nMira: Dann habe ich noch ein Zimmer im Zentrum. Es kostet vierhundert Euro.\nLeon: Das finde ich gut!\nDritter Dialog.\nVerkäuferin: Guten Tag. Kann ich Ihnen helfen?\nBen: Ja, ich suche eine Jacke. Blau, bitte.\nVerkäuferin: Diese Jacke ist günstig.\nBen: Die gefällt mir. Kann ich sie anprobieren?\nVerkäuferin: Natürlich. Die Umkleidekabine ist dort.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Where is Anna's office?",
+      "prompt": "Where is the new colleague's office?",
       "options": [
        "im Keller",
        "im Erdgeschoss",
        "im ersten Stock"
       ],
       "answer": 1,
-      "hint": "Listen to what Herr Ali says about the office.",
-      "explanation": "Herr Ali: Ihr Büro ist im Erdgeschoss, neben der Kantine."
+      "hint": "Listen to what the man says about the office.",
+      "explanation": "Der Mann sagt: Ihr Büro ist im Erdgeschoss, neben der Kantine."
      },
      {
       "type": "choice",
@@ -692,7 +692,7 @@
        "9:30"
       ],
       "answer": 2,
-      "hint": "halb zehn is half an hour before ten.",
+      "hint": "Listen for the time after Um.",
       "explanation": "Um halb zehn = 9:30."
      },
      {
@@ -709,7 +709,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How much does a room in the WG cost?",
+      "prompt": "How much does the room in the centre cost?",
       "options": [
        "300 euros",
        "400 euros",
@@ -717,7 +717,7 @@
       ],
       "answer": 1,
       "hint": "Mira names the price of one room.",
-      "explanation": "Ein Zimmer kostet vierhundert Euro."
+      "explanation": "Es kostet vierhundert Euro."
      },
      {
       "type": "choice",
@@ -810,7 +810,7 @@
    {
     "skill": "listening",
     "instructions": "Listening, Part 3. You will hear one phone message. Choose the right answer.",
-    "text": "Mailbox: Hier ist Ihre Nachricht.\nFrau Weber: Guten Tag, Herr Ali, hier spricht Frau Weber. Ich bin jetzt in Wien. Ich bin gestern mit dem Zug gefahren. Die Reise war schön. Das Hotel ist modern, und mein Zimmer hat einen Balkon. Am Montag komme ich um acht Uhr ins Büro zurück. Schicken Sie mir bitte die Liste. Und rufen Sie mich heute Abend an. Auf Wiederhören!",
+    "text": "Mailbox: Hier ist Ihre Nachricht.\nFrau Weber: Guten Tag, Herr Ali, hier spricht Frau Weber. Ich bin jetzt in Wien. Ich bin gestern mit dem Zug gefahren. Die Reise war schön. Das Hotel ist modern, und mein Zimmer hat einen Balkon. Am Montag komme ich um acht Uhr in die Schule zurück. Schicken Sie mir bitte die Liste. Und rufen Sie mich heute Abend an. Auf Wiederhören!",
     "questions": [
      {
       "type": "choice",
@@ -850,7 +850,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When is she back in the office?",
+      "prompt": "When is she back at the school?",
       "options": [
        "Monday at 9:00",
        "Monday at 8:00",
@@ -877,7 +877,7 @@
    {
     "skill": "reading",
     "instructions": "Reading, Part 1. Read the two emails. Decide: right or wrong, or choose the answer.",
-    "text": "Von: Anna\nAn: Mira\nBetreff: Stelle in Köln\n\nLiebe Mira,\nich habe jetzt eine Stelle in Köln! Mein Chef heißt Herr Ali, er ist sehr nett. Ich beginne um acht Uhr und habe um halb eins Pause. In der Kantine esse ich Suppe oder Salat. Hast du am Freitag Zeit? Ich möchte dich einladen.\nViele Grüße\nAnna\n\nVon: Mira\nAn: Anna\nBetreff: Antwort\n\nLiebe Anna,\nherzlichen Glückwunsch! Das ist toll. Leider kann ich am Freitag nicht kommen, denn ich muss arbeiten. Aber am Samstag habe ich Zeit. Wir können um sieben Uhr ins Café gehen. Hast du Lust?\nViele Grüße\nMira",
+    "text": "Von: Anna\nAn: Mira\nBetreff: Praktikum in Köln\n\nLiebe Mira,\nich mache jetzt ein Praktikum in Köln! Mein Chef ist sehr nett. Ich beginne um acht Uhr und habe um halb eins Pause. In der Kantine esse ich Suppe oder Salat. Am Wochenende bin ich in Hamburg. Hast du am Freitag Zeit? Ich möchte dich einladen.\nViele Grüße\nAnna\n\nVon: Mira\nAn: Anna\nBetreff: Antwort\n\nLiebe Anna,\nherzlichen Glückwunsch! Das ist toll. Leider kann ich am Freitag nicht kommen, denn ich muss lernen. Aber am Samstag habe ich Zeit. Wir können um sieben Uhr ins Café gehen. Hast du Lust?\nViele Grüße\nMira",
     "questions": [
      {
       "type": "choice",
@@ -889,7 +889,7 @@
       ],
       "answer": 1,
       "hint": "Look at the Betreff and the first sentence.",
-      "explanation": "Ich habe jetzt eine Stelle in Köln."
+      "explanation": "Ich mache jetzt ein Praktikum in Köln."
      },
      {
       "type": "choice",
@@ -942,7 +942,7 @@
    {
     "skill": "reading",
     "instructions": "Reading, Part 2. Read the notices. Decide: right or wrong, or choose the answer.",
-    "text": "Wohnung zu vermieten\nZwei Zimmer, Küche, Bad und Balkon. Zentral und hell. Die Miete ist 520 Euro. Rufen Sie bitte Frau Weber an.\n\nKaufhaus Nord\nMäntel, Jacken und Hosen sind jetzt günstig! Sie finden alles im Erdgeschoss. Wir sind von Montag bis Samstag offen, von 9 bis 20 Uhr.\n\nIm Park\nHier darf man nicht rauchen. Vielen Dank!\n\nFerienwohnung an der Ostsee\nDrei Zimmer, 100 Meter bis zum Strand. Eine Nacht kostet 60 Euro.\n\nKochkurs\nAm Donnerstag um 18 Uhr kochen wir Fisch mit Reis. Bitte bringen Sie ein Messer mit.",
+    "text": "Wohnung zu vermieten\nZwei Zimmer, Küche, Bad und Balkon. Zentral und hell. Die Miete ist 520 Euro. Telefon: 040 123 456.\n\nKaufhaus Nord\nMäntel, Jacken und Hosen sind jetzt günstig! Sie finden alles im Erdgeschoss. Wir sind von Montag bis Samstag offen, von 9 bis 20 Uhr.\n\nIm Park\nHier darf man nicht rauchen. Vielen Dank!\n\nFerienwohnung an der Ostsee\nDrei Zimmer, 100 Meter bis zum Strand. Eine Nacht kostet 60 Euro.\n\nKochkurs\nAm Donnerstag um 18 Uhr kochen wir Fisch mit Reis. Bitte bringen Sie ein Messer mit.",
     "questions": [
      {
       "type": "choice",
@@ -1017,7 +1017,7 @@
    },
    {
     "skill": "writing",
-    "instructions": "Writing. Situation: Ben is 24 years old. He lives in Köln and works as a Verkäufer (shop assistant). He speaks German and English. Fill in his form (5 items), build two sentences, and complete the message.",
+    "instructions": "Writing. Situation: Ben is 24 years old. He lives in Hamburg and is a Student. He speaks Spanish and German. Fill in his form (5 items), build two sentences, and complete the message.",
     "questions": [
      {
       "type": "type",
@@ -1032,10 +1032,10 @@
       "type": "type",
       "prompt": "Wohnort: ___",
       "answers": [
-       "Köln"
+       "Hamburg"
       ],
       "hint": "Ben lives in the city in the situation.",
-      "explanation": "Ben wohnt in Köln."
+      "explanation": "Ben wohnt in Hamburg."
      },
      {
       "type": "type",
@@ -1051,23 +1051,23 @@
       "type": "type",
       "prompt": "Beruf: ___",
       "answers": [
-       "Verkäufer",
-       "ein Verkäufer"
+       "Student",
+       "ein Student"
       ],
-      "hint": "Use the word for a man who sells things in a shop.",
-      "explanation": "Ben ist Verkäufer."
+      "hint": "Look at the situation: what does Ben do?",
+      "explanation": "Ben ist Student."
      },
      {
       "type": "type",
       "prompt": "Sprachen: ___",
       "answers": [
-       "Deutsch und Englisch",
-       "Englisch und Deutsch",
-       "Deutsch, Englisch",
-       "Englisch, Deutsch"
+       "Spanisch und Deutsch",
+       "Deutsch und Spanisch",
+       "Spanisch, Deutsch",
+       "Deutsch, Spanisch"
       ],
       "hint": "Two languages, joined with und.",
-      "explanation": "Ben spricht Deutsch und Englisch."
+      "explanation": "Ben spricht Spanisch und Deutsch."
      },
      {
       "type": "build",
@@ -1153,11 +1153,11 @@
      },
      {
       "type": "type",
-      "prompt": "Wir ___ heute keine Zeit. (haben)",
+      "prompt": "Wir ___ heute keine Zeit. (to have)",
       "answers": [
        "haben"
       ],
-      "hint": "wir takes the infinitive form.",
+      "hint": "wir: the same form as the infinitive.",
       "explanation": "wir haben.",
       "grammar": true
      },

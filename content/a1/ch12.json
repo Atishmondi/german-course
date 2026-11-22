@@ -173,8 +173,8 @@
        ]
       },
       {
-       "de": "Ben wohnt auf einer Insel.",
-       "en": "Ben lives on an island.",
+       "de": "Ben macht Urlaub auf einer Insel.",
+       "en": "Ben is on holiday on an island.",
        "why": "auf einer Insel: on an island",
        "parts": [
         [
@@ -182,11 +182,23 @@
          "subject"
         ],
         [
-         "wohnt",
+         "macht",
          "verb"
         ],
         [
-         "auf einer Insel.",
+         "Urlaub",
+         "object"
+        ],
+        [
+         "auf",
+         "preposition"
+        ],
+        [
+         "einer",
+         "article"
+        ],
+        [
+         "Insel.",
          "place"
         ]
        ]
@@ -248,30 +260,38 @@
      "more": "Think of six postcards. On each postcard there is one place. Under the picture you write the little piece you need: am Strand, am Meer, am See, im Wald, in den Bergen, auf einer Insel. You do not build these pieces yet. You just learn the whole piece with the noun, like a name tag. Example: you sit by the water of a lake, so you say am See. You walk between the trees, so you say im Wald.",
      "lead": "After the intro, here are the six places. The little words am, im and in den answer Wo? (where?). You use them here as ready pieces with each noun, so you can say where you are.",
      "deeper": {
-      "text": "A lake is der See, with the article der. Do not mix it up with die See, a different word that you do not need now. In this course, der See is always the lake. The plural die Seen sounds like the English word seen, so say it slowly once.",
+      "text": "Careful with See: der See is a lake, but die See is the sea. You meet die See in two big names in the north of Germany: die Nordsee and die Ostsee. So am See means at a lake, an der Ostsee means at the Baltic Sea. The plural die Seen always means lakes.",
       "example": {
-       "de": "Am See ist es ruhig.",
-       "en": "It is quiet at the lake.",
+       "de": "Im Sommer fahren wir an die Ostsee.",
+       "en": "In summer we go to the Baltic Sea.",
        "parts": [
         [
-         "Am",
-         "preposition"
+         "Im",
+         "time"
         ],
         [
-         "See",
-         "noun"
+         "Sommer",
+         "time"
         ],
         [
-         "ist",
+         "fahren",
          "verb"
         ],
         [
-         "es",
+         "wir",
          "subject"
         ],
         [
-         "ruhig.",
-         "adjective"
+         "an",
+         "preposition"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Ostsee.",
+         "place"
         ]
        ]
       }
@@ -1298,8 +1318,8 @@
      "en": "island",
      "examples": [
       {
-       "de": "Ben wohnt auf einer Insel.",
-       "en": "Ben lives on an island."
+       "de": "Ben macht Urlaub auf einer Insel.",
+       "en": "Ben is on holiday on an island."
       },
       {
        "de": "Die Insel ist klein.",
@@ -1576,7 +1596,7 @@
       }
      ],
      "steps": [
-      "You already know: und, oder and aber join two sentences (chapter 7) and separable verbs like mitnehmen (chapters 6 and 8)",
+      "You already know: und, oder and aber join two sentences (chapter 7) and separable verbs like mitnehmen (chapter 6)",
       "New today: ten travel things, Warum? and denn with a reason",
       "By the end you can: say what you take on a trip and why, and say what people need for a journey"
      ],
@@ -1947,8 +1967,8 @@
        ]
       },
       {
-       "de": "Warum fährt Ben nach Hamburg?",
-       "en": "Why is Ben going to Hamburg?",
+       "de": "Warum fährt Ben nach Wien?",
+       "en": "Why is Ben going to Vienna?",
        "why": "Warum + er-form",
        "parts": [
         [
@@ -1964,7 +1984,7 @@
          "subject"
         ],
         [
-         "nach Hamburg?",
+         "nach Wien?",
          "place"
         ]
        ]
@@ -2633,7 +2653,9 @@
      "yt:8Vmwekr6WN4",
      "yt:Oq3wDWmt-7U"
     ],
-    "nicosWeg": []
+    "nicosWeg": [
+     "nw:a1-53"
+    ]
    },
    "drills": [
     {
@@ -2722,7 +2744,7 @@
       "oder"
      ],
      "answer": 1,
-     "hint": "Think: because.",
+     "hint": "Which word answers the question Warum?",
      "explanation": "denn = because.",
      "grammar": true
     },
@@ -3490,7 +3512,7 @@
        [
         "Wer macht die Führung?",
         "a person (subject)",
-        "Herr Ali macht die Führung."
+        "Anna macht die Führung."
        ],
        [
         "Was ist das?",
@@ -4048,7 +4070,10 @@
      "yt:xbWOui-V-U4",
      "yt:_F_zkRPRX6A"
     ],
-    "nicosWeg": []
+    "nicosWeg": [
+     "nw:a1-17",
+     "nw:a1-22"
+    ]
    },
    "drills": [
     {
@@ -4473,7 +4498,7 @@
      "Mach einen Vorschlag: Wollen wir ...?"
     ],
     "examples": [
-     "Herr Ali macht die Führung.",
+     "Eine Studentin macht die Führung.",
      "Ich besichtige eine Stadt mit Mira.",
      "Wollen wir die Altstadt besichtigen?"
     ]
@@ -5568,7 +5593,7 @@
       "am"
      ],
      "answer": 1,
-     "hint": "in + dem together.",
+     "hint": "der Norden is masculine: use the short form of in + the dative article.",
      "explanation": "im = in + dem.",
      "grammar": true
     },
@@ -5665,7 +5690,7 @@
       "platform"
      ],
      "answer": 1,
-     "hint": "Ankommen means to arrive.",
+     "hint": "Look at the timetable card: which column tells you when the train gets there?",
      "explanation": "die Ankunft = the arrival."
     }
    ],
@@ -5793,7 +5818,7 @@
       "Osten"
      ],
      "answer": 0,
-     "hint": "Munich is in the south of Germany.",
+     "hint": "Look at the compass table: where is Bavaria on the map?",
      "explanation": "München liegt im Süden."
     },
     {
@@ -6168,7 +6193,7 @@
     },
     {
      "title": "Weather: Wie ist das Wetter?",
-     "body": "For the weather German uses es as an empty subject, like English it: Es regnet. With the sun, the real subject is die Sonne: Die Sonne scheint. Use es ist for sonnig, windig and bewölkt. For the temperature learn the chunk Es sind 20 Grad.",
+     "body": "For the weather German uses es as an empty subject, like English it: Es regnet. With the sun, the real subject is die Sonne: Die Sonne scheint (scheinen: to shine). Use es ist for sonnig, windig and bewölkt. For the temperature learn the chunk Es sind 20 Grad.",
      "examples": [
       {
        "de": "Es regnet heute.",
@@ -7088,7 +7113,7 @@
       "bewölkt"
      ],
      "answer": 0,
-     "hint": "Think of die Sonne.",
+     "hint": "Look at the weather card: one adjective is built from a weather noun.",
      "explanation": "sonnig = sunny."
     },
     {
@@ -7682,7 +7707,7 @@
     },
     {
      "title": "A postcard in four parts",
-     "body": "A postcard is easy when you split it into four parts: a greeting (Liebe Anna,), where you are and the weather, what you did and one wish, and an ending (Viele Grüße\ndein Ben). Keep each part to one or two short sentences.",
+     "body": "A postcard is easy when you split it into four parts: a greeting (Liebe Anna,), where you are and the weather, what you did and one wish, and an ending (Viele Grüße\ndein Ben). A Briefmarke (stamp) goes on the Postkarte. Keep each part to one or two short sentences.",
      "examples": [
       {
        "de": "Liebe Anna, wir sind an der Küste.",
@@ -7791,14 +7816,14 @@
        [
         "4",
         "ending",
-        "Viele Grüße, dein Ben"
+        "Viele Grüße\ndein Ben"
        ]
       ]
      },
      "more": "Think of a postcard as a small house with four rooms. Room one is the hello. Room two says where you are and how the weather is. Room three tells one thing you did. Room four says goodbye. Each room needs only one or two short sentences. When you cannot think of what to write, walk through the rooms in order. The frame, Liebe at the top and Viele Grüße at the bottom, is always the same, so you can copy it.",
-     "lead": "You know Liebe ... and Viele Grüße from chapter 6. This card shows how to put them in a frame and fill the middle with the weather and a short report. New words: Postkarte, Küste, erleben.",
+     "lead": "You know Liebe ... and Viele Grüße from chapter 6. This card shows how to put them in a frame and fill the middle with the weather and a short report. New words: die Postkarte, die Briefmarke, die Küste, erleben.",
      "deeper": {
-      "text": "The frame never changes. At the top comes Liebe or Lieber and the name. At the end comes Viele Grüße and Dein or Deine with your name. In the middle you say where you are and what the weather is like in the present, and then what you did in the Perfekt. A postcard has little space, so each sentence is short and clear.",
+      "text": "The frame never changes. At the top comes Liebe or Lieber and the name. At the end comes Viele Grüße with no comma, and on the next line dein or deine with your name. In the middle you say where you are and what the weather is like in the present, and then what you did in the Perfekt. A postcard has little space, so each sentence is short and clear.",
       "example": {
        "de": "Viele Grüße\ndein Ben",
        "en": "Many greetings, your Ben",
@@ -7825,7 +7850,7 @@
     },
     {
      "title": "What happened, what is now: Perfekt and present",
-     "body": "Use the present for what is true now: Das Wetter ist toll. Use the Perfekt for what already happened: haben or sein in part 2, the participle at the end. Movement uses sein: Wir sind gefahren. Some participles have no ge-: übernachtet, erlebt, besichtigt.",
+     "body": "Use the present for what is true now: Das Wetter ist toll. Use the Perfekt for what already happened: haben or sein in part 2, the participle at the end. Movement uses sein: Wir sind gefahren. Where did you sleep? In einer Jugendherberge (youth hostel) or einer Ferienwohnung (holiday flat). Some participles have no ge-: übernachtet, erlebt, besichtigt.",
      "examples": [
       {
        "de": "Wir haben in einer Jugendherberge übernachtet.",
@@ -7938,7 +7963,7 @@
        [
         "no ge-",
         "haben + participle",
-        "Wir haben übernachtet."
+        "Wir haben in einer Ferienwohnung übernachtet."
        ]
       ]
      },
@@ -7972,7 +7997,7 @@
     },
     {
      "title": "A travel report: retell from key facts",
-     "body": "To retell a text, first find five key facts: Wer? Wohin? Wann? Was? Wie war es? Write each fact in two or three words. Then say each fact in one sentence and link the sentences with zuerst, dann and danach.",
+     "body": "To retell a text, for example a Reisebericht (travel report), first find five key facts: Wer? Wohin? Wann? Was? Wie war es? Write each fact in two or three words. Then say each fact in one sentence and link the sentences with zuerst, dann and danach.",
      "examples": [
       {
        "de": "Zuerst ist Ben nach Husum gefahren.",
@@ -8097,38 +8122,34 @@
      "more": "Imagine you have a hand with five fingers. Each finger is one key fact: who, where to, when, what, how was it. You can hold the whole story in one hand. To tell it, point to each finger in order and say one short sentence. Use zuerst for the first finger, dann for the next and danach for the one after. Do not copy whole sentences. Use your own words and the words from the text that you already know.",
      "lead": "A long text is easy to retell when you only keep five facts. You know every question word from lesson 4, and zuerst, dann and danach from chapter 7. This card shows the method with a four-sentence report.",
      "deeper": {
-      "text": "Do not try to remember every word. Read the text once and answer the five questions with one or two words each. Those are your key facts. Then turn each fact into one sentence in your own words and link them with zuerst, dann, danach. Reuse words from the text so that you are safe with the spelling. The Perfekt tells what happened, and war tells how it was.",
+      "text": "A good report ends with how it was, and often with a little thing you bring home: das Souvenir (souvenir). It keeps die Erinnerung (memory) alive. So the last finger of your hand can be: Ich habe ein Souvenir gekauft. Das ist eine schöne Erinnerung. Both sentences use words you know, and they close the story in a warm way.",
       "example": {
-       "de": "Danach ist er an die Küste gefahren.",
-       "en": "After that he went to the coast.",
+       "de": "Das Souvenir ist eine schöne Erinnerung.",
+       "en": "The souvenir is a nice memory.",
        "parts": [
         [
-         "Danach",
-         "time"
+         "Das",
+         "article"
+        ],
+        [
+         "Souvenir",
+         "subject"
         ],
         [
          "ist",
          "verb"
         ],
         [
-         "er",
-         "subject"
-        ],
-        [
-         "an",
-         "preposition"
-        ],
-        [
-         "die",
+         "eine",
          "article"
         ],
         [
-         "Küste",
-         "place"
+         "schöne",
+         "adjective"
         ],
         [
-         "gefahren.",
-         "verb2"
+         "Erinnerung.",
+         "noun"
         ]
        ]
       }
@@ -8264,7 +8285,7 @@
       "text": "Place names like Nordsee and Ostsee are proper nouns, and with die they are feminine. The Alpen always appear in the plural. You describe where a place is with im Norden or im Süden, and what you do there with man and a modal. All the pieces come from earlier lessons, so you can build your own sentences without learning new rules.",
       "example": {
        "de": "An der Nordsee kann man baden.",
-       "en": "On the North Sea you can swim.",
+       "en": "At the North Sea you can swim.",
        "parts": [
         [
          "An",
@@ -8635,7 +8656,7 @@
      "type": "choice",
      "prompt": "Which line ends a postcard?",
      "options": [
-      "Viele Grüße, dein Ben",
+      "Viele Grüße\ndein Ben",
       "Liebe Anna,",
       "Wir sind in Husum."
      ],
@@ -8707,7 +8728,7 @@
       "Fisch"
      ],
      "answer": 0,
-     "hint": "German w = English v.",
+     "hint": "Look at the sound table in this lesson.",
      "explanation": "Wasser starts with the v sound."
     },
     {
@@ -9123,7 +9144,7 @@
    "day": 1,
    "reading": {
     "title": "Ein Wochenende an der Ostsee",
-    "text": "Mira, Ben und Leon fahren am Wochenende an die Ostsee. Mira hat einen Plan. Sie sagt: Am Strand kann man faulenzen, und im Wald kann man wandern. Ben nimmt einen Rucksack mit, denn er möchte wandern. Mira nimmt eine Sonnenbrille mit, denn es ist heiß. Leon nimmt ein Zelt mit, denn er möchte campen. Aber im Wald darf man nicht campen. Leon fragt Frau Weber. Sie sagt: Am See darf man campen. Das ist ein guter Vorschlag! Am Abend besichtigen die Freunde eine Burg. Wer macht die Führung? Herr Ali macht die Führung. Mit wem wandert Ben am Sonntag? Er wandert mit Leon. Mira faulenzt am Strand.",
+    "text": "Mira, Ben und Leon fahren am Wochenende an die Ostsee. Mira hat einen Plan. Sie sagt: Am Strand kann man faulenzen, und im Wald kann man wandern. Ben nimmt einen Rucksack mit, denn er möchte wandern. Mira nimmt eine Sonnenbrille mit, denn es ist heiß. Leon nimmt ein Zelt mit, denn er möchte campen. Aber im Wald darf man nicht campen. Leon fragt Frau Weber. Sie sagt: Am See darf man campen. Das ist ein guter Vorschlag! Am Abend besichtigen die Freunde eine Burg. Wer macht die Führung? Ein Student macht die Führung. Mit wem wandert Ben am Sonntag? Er wandert mit Leon. Mira faulenzt am Strand.",
     "glossary": [
      {
       "de": "Ostsee",
@@ -9233,10 +9254,12 @@
       "type": "type",
       "prompt": "Who does the guided tour? (two words)",
       "answers": [
-       "Herr Ali"
+       "ein Student",
+       "Ein Student",
+       "Student"
       ],
       "hint": "Look for Wer macht die Führung?",
-      "explanation": "Herr Ali macht die Führung."
+      "explanation": "Ein Student macht die Führung."
      },
      {
       "type": "choice",
@@ -9254,23 +9277,23 @@
    },
    "listening": {
     "title": "Leon at the tourist information office",
-    "script": "Leon: Guten Tag, Herr Ali. Was kann man hier machen?\nHerr Ali: Guten Tag, Leon. Man kann eine Stadtrundfahrt machen, oder man kann eine Führung machen.\nLeon: Was kostet die Stadtrundfahrt?\nHerr Ali: Sie kostet zehn Euro und dauert eine Stunde.\nLeon: Und wann beginnt die Führung?\nHerr Ali: Um elf Uhr.\nLeon: Wer macht die Führung?\nHerr Ali: Frau Weber macht die Führung. Sie kennt die Altstadt gut. Ich habe einen Vorschlag: Wollen Sie die Altstadt besichtigen? Dort kann man den Dom und ein Denkmal sehen.\nLeon: Gute Idee! Braucht man einen Stadtplan?\nHerr Ali: Ja, man braucht einen Stadtplan, denn die Altstadt ist groß. Hier, bitte.\nLeon: Danke! Ich nehme die Führung und den Stadtplan.\nHerr Ali: Gern geschehen. Schönes Wochenende!",
+    "script": "Leon: Guten Tag. Was kann man hier machen?\nMitarbeiterin: Guten Tag. Man kann eine Stadtrundfahrt machen, oder man kann eine Führung machen.\nLeon: Was kostet die Stadtrundfahrt?\nMitarbeiterin: Sie kostet zehn Euro und dauert eine Stunde.\nLeon: Und wann beginnt die Führung?\nMitarbeiterin: Um elf Uhr.\nLeon: Wer macht die Führung?\nMitarbeiterin: Ein Student macht die Führung. Er kennt die Altstadt gut. Ich habe einen Vorschlag: Wollen Sie die Altstadt besichtigen? Dort kann man den Dom und ein Denkmal sehen.\nLeon: Gute Idee! Braucht man einen Stadtplan?\nMitarbeiterin: Ja, man braucht einen Stadtplan, denn die Altstadt ist groß. Hier, bitte.\nLeon: Danke! Ich nehme die Führung und den Stadtplan.\nMitarbeiterin: Gern geschehen. Schönes Wochenende!",
     "questions": [
      {
       "type": "choice",
       "prompt": "Whom does Leon talk to?",
       "options": [
-       "Herr Ali",
+       "a woman at the tourist office",
        "Frau Weber",
        "Ben"
       ],
       "answer": 0,
       "hint": "Look at the first line.",
-      "explanation": "Leon spricht mit Herrn Ali."
+      "explanation": "Leon spricht mit einer Mitarbeiterin."
      },
      {
       "type": "choice",
-      "prompt": "What can you do, says Herr Ali?",
+      "prompt": "What can you do, says the woman?",
       "options": [
        "do a city tour or a guided tour",
        "go hiking in the mountains",
@@ -9314,17 +9337,17 @@
       "type": "choice",
       "prompt": "Who does the guided tour?",
       "options": [
-       "Herr Ali",
+       "a student",
        "Frau Weber",
        "Leon"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen to the answer to Wer?",
-      "explanation": "Frau Weber macht die Führung."
+      "explanation": "Ein Student macht die Führung."
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali suggest?",
+      "prompt": "What does the woman suggest?",
       "options": [
        "the beach",
        "a hike",
@@ -9688,7 +9711,7 @@
    },
    "listening": {
     "title": "Mira plans the trip to Munich",
-    "script": "Leon: Hallo Mira! Was machst du am Wochenende?\nMira: Hallo Leon! Ich fahre nach München. Ich besuche Anna.\nLeon: Toll! Wann fährt der Zug?\nMira: Um 9 Uhr, auf Gleis 5.\nLeon: Wie lange dauert die Fahrt?\nMira: Sechs Stunden. Ich muss in Hannover umsteigen. Zuerst fahre ich von Hamburg nach Hannover. Dann steige ich um. Danach fahre ich nach München.\nLeon: Wann kommst du an?\nMira: Um 15 Uhr. Wie ist das Wetter in München?\nLeon: München liegt im Süden. Es sind 25 Grad, und die Sonne scheint. Aber ab Donnerstag regnet es.\nMira: Ach so! Dann muss ich einen Regenschirm mitnehmen.\nLeon: Ja, genau. Viel Spaß!",
+    "script": "Leon: Hallo Mira! Was machst du am Wochenende?\nMira: Hallo Leon! Ich fahre nach München. Ich treffe Anna dort.\nLeon: Toll! Wann fährt der Zug?\nMira: Um 9 Uhr, auf Gleis 5.\nLeon: Wie lange dauert die Fahrt?\nMira: Sechs Stunden. Ich muss in Hannover umsteigen. Zuerst fahre ich von Hamburg nach Hannover. Dann steige ich um. Danach fahre ich nach München.\nLeon: Wann kommst du an?\nMira: Um 15 Uhr. Wie ist das Wetter in München?\nLeon: München liegt im Süden. Es sind 25 Grad, und die Sonne scheint. Aber ab Donnerstag regnet es.\nMira: Ach so! Dann muss ich einen Regenschirm mitnehmen.\nLeon: Ja, genau. Viel Spaß!",
     "questions": [
      {
       "type": "choice",
@@ -9704,14 +9727,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Whom does Mira visit?",
+      "prompt": "Whom does Mira meet there?",
       "options": [
        "Leon",
        "Frau Weber",
        "Anna"
       ],
       "answer": 2,
-      "hint": "After Ich besuche ...",
+      "hint": "After Ich treffe ...",
       "explanation": "Anna."
      },
      {

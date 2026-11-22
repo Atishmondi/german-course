@@ -17,7 +17,7 @@ NAME = re.compile(r'atish|mondi', re.I)
 errors, warnings = [], []
 import importlib.util as _ilu
 _sp = _ilu.spec_from_file_location('giveaways', Path(__file__).resolve().parent / 'tools' / 'giveaways.py'); GIVEAWAYS = _ilu.module_from_spec(_sp); _sp.loader.exec_module(GIVEAWAYS)
-STRICT_LEVELS = {'a2', 'b1'}  # depth bar enforced; add 'a1' after its upgrade
+STRICT_LEVELS = {'a1', 'a2', 'b1'}  # depth bar enforced on every level
 def err(file, id_, field, msg): errors.append(f'{file} | {id_} | {field}: {msg}')
 def warn(file, id_, field, msg): warnings.append(f'{file} | {id_} | {field}: {msg}')
 
