@@ -49,7 +49,7 @@
    "cards": [
     {
      "title": "Before we start: what are you wearing today?",
-     "body": "Chapter 11 is about clothes and shopping in Berlin: Mira and Ben look for something to wear to Anna's party. Today you say what you wear and what you need. You know Ich esse einen Apfel: only der-words change. Clothes work the same way.",
+     "body": "Chapter 11 is about clothes and shopping: on a trip to Berlin, Mira and Ben look for something to wear to Anna's party. Today you say what you wear and what you need. You know Ich esse einen Apfel: only der-words change. Clothes work the same way.",
      "examples": [
       {
        "de": "Ich esse einen Apfel.",
@@ -517,11 +517,11 @@
      "deeper": {
       "text": "Why only du and er/sie? In German, some very common verbs change the vowel in exactly those two forms, and you already know fahren, schlafen and essen. Trägst with the umlaut is also an easy sound to hear. When you listen to Germans, the ä in trägst and trägt tells you the verb is tragen.",
       "example": {
-       "de": "Ben trägt einen Rock.",
-       "en": "Ben wears a skirt.",
+       "de": "Anna trägt einen Rock.",
+       "en": "Anna wears a skirt.",
        "parts": [
         [
-         "Ben",
+         "Anna",
          "subject"
         ],
         [
@@ -534,7 +534,7 @@
         ],
         [
          "Rock.",
-         "noun"
+         "object"
         ]
        ]
       }
@@ -825,25 +825,25 @@
      "more": "You already used colours in chapter 9, when you said Das Sofa ist grün. Clothes work the same way. Think of two small steps: first you say what you wear, then you say what colour it is, in a second short sentence. That way the colour word never has to change. After sein a colour stays exactly as it is in the list: rot, blau, grün, gelb, schwarz, weiß, braun, grau. In the plural you only change the verb, from ist to sind.",
      "lead": "You can say what you wear. On this card: eight colours after sein, so you can tell what colour your jacket or shoes are.",
      "deeper": {
-      "text": "A colour is an adjective, a describing word. After sein it never takes an ending, just like groß or neu in chapter 3. The easiest way to remember it: sein is like an equals sign. Die Hose = blau. Whatever stands after the equals sign stays unchanged and simple.",
+      "text": "Germans make shades of a colour with hell (light) and dunkel (dark): hellblau, dunkelblau, hellgrün. You glue the word to the front, and after sein it still takes no ending. Before a noun a colour does take an ending (eine rote Jacke), but that comes later. For now, keep the colour after sein.",
       "example": {
-       "de": "Der Rock ist rot.",
-       "en": "The skirt is red.",
+       "de": "Die Jacke ist dunkelblau.",
+       "en": "The jacket is dark blue.",
        "parts": [
         [
-         "Der",
+         "Die",
          "article"
         ],
         [
-         "Rock",
-         "noun"
+         "Jacke",
+         "subject"
         ],
         [
          "ist",
          "verb"
         ],
         [
-         "rot.",
+         "dunkelblau.",
          "adjective"
         ]
        ]
@@ -988,34 +988,46 @@
      "more": "A German sentence is like a train with a fixed second carriage: the verb always sits there. You can put anything in the first carriage: ich, or a time like im Winter. If the time takes the first carriage, then ich has to move behind the verb: Im Winter trage ich. That is not a new rule, you know it from chapter 3 and chapter 4. The clothes only give you a lovely new thing to talk about: what you wear in which season.",
      "lead": "Now you can say what you wear. On this card: starting with im Winter or im Sommer, so you can tell when you wear each piece of clothing.",
      "deeper": {
-      "text": "Starting with the time sounds natural in German and it is very common. You still say the same things, only in another order. Ich trage im Winter einen Mantel means the same as Im Winter trage ich einen Mantel. In both sentences, trage stays in the second place.",
+      "text": "Watch the difference between sehr and zu. Sehr warm only means very warm, and that can be good in winter. Zu warm means too warm: it is a problem, you do not want it. So a shop assistant hears zu and knows at once that something is wrong. Use zu for complaints and sehr for praise.",
       "example": {
-       "de": "Im Winter brauche ich eine Jacke.",
-       "en": "In winter I need a jacket.",
+       "de": "Der Mantel ist sehr warm, aber nicht zu warm.",
+       "en": "The coat is very warm, but not too warm.",
        "parts": [
         [
-         "Im",
-         "time"
-        ],
-        [
-         "Winter",
-         "time"
-        ],
-        [
-         "brauche",
-         "verb"
-        ],
-        [
-         "ich",
-         "subject"
-        ],
-        [
-         "eine",
+         "Der",
          "article"
         ],
         [
-         "Jacke.",
-         "noun"
+         "Mantel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "warm,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "zu",
+         "other"
+        ],
+        [
+         "warm.",
+         "adjective"
         ]
        ]
       }
@@ -1124,7 +1136,7 @@
      "more": "This last card is a mini-game with three steps. Step one: is the thing a der-word, a die-word or a das-word? Step two: because it is the object, turn der into einen, and keep eine and ein. Step three: put the verb in the right place. You know all three steps already, from chapter 3 and chapter 4. This card just brings the new clothes words and the verbs tragen and brauchen together, so you can say what you need for a party.",
      "lead": "You have all the pieces now. On this last card: brauchen with the same accusative rule, so you can say what you need and ask a friend what they need.",
      "deeper": {
-      "text": "When you do not need something, kein is a better answer than nicht. Kein works like ein: keinen for a der-word, keine for a die-word and a plural, kein for a das-word. Wir brauchen keine Schuhe says you do not need any shoes. You know this from chapter 4.",
+      "text": "When you do not need something, kein is a better answer than nicht. Kein works like ein: keinen for a der-word, keine for a die-word and a plural, kein for a das-word. Wir brauchen keine Schuhe says you do not need any shoes. You know kein from chapter 3 and keinen from chapter 4.",
       "example": {
        "de": "Mira braucht ein Kleid.",
        "en": "Mira needs a dress.",
@@ -1152,7 +1164,9 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:rtZp3bUQrKA"
+     "yt:rtZp3bUQrKA",
+     "yt:XiBt9Nm0PHU",
+     "yt:-LbNn7l9WoA"
     ],
     "nicosWeg": [
      "nw:a1-57"
@@ -1939,16 +1953,16 @@
      "deeper": {
       "text": "Notice what stays the same: the root welch-. Only the end changes, and it follows the gender of the noun. Das Kleid is a das-word, so you say welches Kleid. If you are not sure about the ending, first say the noun with der, die or das, and then borrow its sound.",
       "example": {
-       "de": "Welche Bluse ist neu?",
-       "en": "Which blouse is new?",
+       "de": "Welche Hose ist neu?",
+       "en": "Which trousers are new?",
        "parts": [
         [
          "Welche",
          "question"
         ],
         [
-         "Bluse",
-         "noun"
+         "Hose",
+         "subject"
         ],
         [
          "ist",
@@ -2450,7 +2464,7 @@
      "examples": [
       {
        "de": "Welche Größe haben Sie?",
-       "en": "Which size do you have?",
+       "en": "What size do you take?",
        "parts": [
         [
          "Welche",
@@ -2544,7 +2558,7 @@
       ]
      },
      "more": "A seller wants to know two things: how big you are, and what colour you like. Both words are die-words, so the question starts with welche. Größe you know from chapter 8, where it meant how tall someone is. In a shop it also means the size of clothes, with a number: Größe 38, Größe 40, Größe 42. The question uses haben, and the answer repeats it: Ich habe Größe 40. For the colour you answer with sein: Sie ist grün.",
-     "lead": "You know the small clothes words. On this card: asking and saying size and colour, so you can talk to a seller like Herr Ali in a Berlin shop.",
+     "lead": "You know the small clothes words. On this card: asking and saying size and colour, so you can talk to a seller in a clothes shop.",
      "deeper": {
       "text": "Sie with a capital S is the polite you, so the verb is haben, like in Wie heißen Sie? from chapter 1. With a friend you say Welche Größe hast du? In the answer, size is just a number after Größe, no article. Sie ist grün answers about a die-word, so you use sie.",
       "example": {
@@ -2731,7 +2745,7 @@
      "more": "This is what really happens in a shop: you hold two coats, one in each hand, and you cannot decide. The question has two halves, linked by oder. In the first half you ask welchen Mantel. In the second half you offer the choice with den hier and den da, like two pointing fingers. The answer is short: Ich nehme den hier. Only the masculine form changes to den, all other words stay as they are. This card puts together welch-, short answers and nehmen.",
      "lead": "This is the last card of the lesson, and it brings everything together. You use welchen, a short answer with oder, and nehmen, so you can choose between two things in a shop.",
      "deeper": {
-      "text": "The comma after du is normal in German: it separates the two parts of the question. After oder, the second part is short: den da. You do not need a verb there because it is clear from the first part. You know oder from chapter 7, and nehmen from chapter 6.",
+      "text": "The comma after du is normal in German: it separates the two parts of the question. After oder, the second part is short: den da. You do not need a verb there because it is clear from the first part. You know oder from chapter 7, and nehmen from chapter 4.",
       "example": {
        "de": "Welches Hemd nimmst du, das hier oder das da?",
        "en": "Which shirt do you take, this one or that one?",
@@ -2779,7 +2793,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:cQo-mL7vPR4"
+     "yt:cQo-mL7vPR4",
+     "yt:5LsSHezUUKQ"
     ],
     "nicosWeg": [
      "nw:a1-58"
@@ -2863,7 +2878,7 @@
     },
     {
      "type": "type",
-     "prompt": "Welche ___ haben Sie? Ich brauche 40. (size)",
+     "prompt": "Welche ___ haben Sie? Ich habe 40. (size)",
      "answers": [
       "Größe"
      ],
@@ -3036,7 +3051,7 @@
       "einen"
      ],
      "answer": 1,
-     "hint": "After Das ist, Schal stays ein.",
+     "hint": "After Das ist comes the nominative: no ending for a der-word.",
      "explanation": "Das ist ein Schal."
     }
    ],
@@ -3924,7 +3939,7 @@
     },
     {
      "title": "Describe clothes: sein + adjective",
-     "body": "Say what clothes are like with sein and an adjective, with no ending: Dieser Pullover ist sehr bequem. Diese Hose ist zu eng. Dieses Hemd ist nicht teuer. Sehr means very, zu means too, nicht means not. They stand right before the adjective.",
+     "body": "Say what clothes are like with sein and an adjective, with no ending: Dieser Pullover ist sehr bequem. Diese Hose ist zu eng. Dieses Hemd ist nicht teuer. Sehr means very, zu means too, nicht means not. They stand right before the adjective. Good quality is die Qualität.",
      "examples": [
       {
        "de": "Dieser Pullover ist sehr bequem.",
@@ -4198,7 +4213,7 @@
        ]
       ]
      },
-     "more": "This is the step of shopping where you decide and say which one you take. The verb is nehmen, and you know it from chapter 6: it has the e to i change, like essen. Ich nehme, du nimmst, er nimmt. The thing you take is the object, so diesen is the form for a der-word. If you do not want it, you say nicht, and nicht goes to the end of the sentence, after the object.",
+     "more": "This is the step of shopping where you decide and say which one you take. The verb is nehmen, and you know it from chapter 4: it has the e to i change, like essen. Ich nehme, du nimmst, er nimmt. The thing you take is the object, so diesen is the form for a der-word. If you do not want it, you say nicht, and nicht goes to the end of the sentence, after the object.",
      "lead": "You can describe clothes now. On this card: nehmen with dies- and nicht, so you can say which clothes you take and which you leave in the shop.",
      "deeper": {
       "text": "Nicht goes at the end when it says no to the whole sentence: Ich nehme dieses Hemd nicht. If you say no to one thing, you can use kein: Ich nehme keinen Gürtel. You know both from chapter 3. A yes/no question puts the verb first: Nimmst du diesen Mantel? You can answer ja or nein.",
@@ -4398,7 +4413,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:IaySny0-VtI"
+     "yt:IaySny0-VtI",
+     "yt:MppF9phHkzI"
     ],
     "nicosWeg": [
      "nw:a1-60"
@@ -5079,7 +5095,7 @@
       "text": "The preposition stays exactly where it is. Only the noun phrase after it is swapped for a pronoun. So the sentence keeps its shape: subject, verb, preposition, dative. If you can say the sentence with a noun, you can say it with a pronoun.",
       "example": {
        "de": "Leon kommt von ihr.",
-       "en": "Leon comes from her place.",
+       "en": "Leon comes from her.",
        "parts": [
         [
          "Leon",
@@ -5396,26 +5412,30 @@
      "more": "Five little words open the door to the dative: mit, bei, von, zu, aus. Whatever follows them has to be in the dative, whether it is a noun or a pronoun. The table is your key: pick the person, find the dative, say it. With zu there is one trick. A noun uses zum or zur, because zu and dem melt together. A pronoun has no article, so nothing melts: zu mir, zu dir, zu ihm.",
      "lead": "Now that you have the table, it is time to use it. This card shows the five prepositions with different pronouns, plus one small rule about zu.",
      "deeper": {
-      "text": "The preposition is a signal: when you see mit, bei, von, zu or aus, you know a dative comes next. You do not have to think about the verb at all. Say the preposition, then pick the pronoun from the dative column.",
+      "text": "The preposition is a signal: after mit, bei, von, zu or aus a dative comes next, so you never have to think about the verb. Watch bei: bei mir, bei dir means at my place, at your place. Germans use it all the time to plan a visit: Kommst du zu mir? Nein, wir sind heute bei dir.",
       "example": {
-       "de": "Ich komme aus Berlin.",
-       "en": "I come from Berlin.",
+       "de": "Wir sind heute bei dir.",
+       "en": "We are at your place today.",
        "parts": [
         [
-         "Ich",
+         "Wir",
          "subject"
         ],
         [
-         "komme",
+         "sind",
          "verb"
         ],
         [
-         "aus",
+         "heute",
+         "time"
+        ],
+        [
+         "bei",
          "preposition"
         ],
         [
-         "Berlin.",
-         "place"
+         "dir.",
+         "dative"
         ]
        ]
       }
@@ -5553,7 +5573,7 @@
     },
     {
      "title": "Give and show: the person comes first",
-     "body": "With schenken (to give as a present), zeigen (to show) and geben (to give) there are two objects: the person and the thing. The person is in the dative and comes first, the thing is in the accusative and comes second: Ich schenke dir einen Pullover.",
+     "body": "With schenken (to give as a present), zeigen (to show) and geben (to give) there are two objects: the person and the thing. The person is in the dative and comes first, the thing is in the accusative and comes second: Ich schenke dir einen Pullover. erklären, leihen and empfehlen work the same way.",
      "examples": [
       {
        "de": "Ich schenke dir einen Pullover.",
@@ -5656,31 +5676,49 @@
         "zeige",
         "Ben",
         "das Hemd."
+       ],
+       [
+        "Ich",
+        "erkläre",
+        "dir",
+        "die Regel."
+       ],
+       [
+        "Ich",
+        "leihe",
+        "dir",
+        "mein Handy."
+       ],
+       [
+        "Ich",
+        "empfehle",
+        "dir",
+        "den Kuchen."
        ]
       ]
      },
      "more": "Imagine handing over a gift: first you look at the person, then you put the gift in their hand. German does exactly the same: the person first, then the thing. So the order is subject, verb, person, thing. The person is in the dative (dir, ihm, ihr), the thing is in the accusative. If the person is a name, the name stays the same: Ich zeige Ben das Hemd. Only pronouns change in the dative, so be careful with them.",
      "lead": "Pronouns now sit after prepositions. A second big place for the dative is a verb with two objects. This card shows how the person and the thing line up.",
      "deeper": {
-      "text": "When the person is a name, nothing changes, and it still comes first: Ich zeige Ben das Hemd. Ben is the dative, das Hemd is the object. A pronoun is shorter than a noun, so it also goes first, right after the verb. That keeps the whole sentence easy to read.",
+      "text": "English often needs the word to: I give the book to you. German needs no extra word, because the dative pronoun already says to you. geben and empfehlen change their vowel for du and er, like essen: du gibst, er gibt, er empfiehlt. leihen and erklären stay regular: er leiht, er erklärt.",
       "example": {
-       "de": "Ich zeige Ben das Hemd.",
-       "en": "I show Ben the shirt.",
+       "de": "Du gibst ihm den Schal.",
+       "en": "You give him the scarf.",
        "parts": [
         [
-         "Ich",
+         "Du",
          "subject"
         ],
         [
-         "zeige",
+         "gibst",
          "verb"
         ],
         [
-         "Ben",
+         "ihm",
          "dative"
         ],
         [
-         "das Hemd.",
+         "den Schal.",
          "object"
         ]
        ]
@@ -5935,7 +5973,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:uoEwlH9XgZ0"
+     "yt:uoEwlH9XgZ0",
+     "yt:z6dD7D6EMZ8"
     ],
     "nicosWeg": [
      "nw:a1-74"
@@ -6262,8 +6301,8 @@
        "en": "I recommend the cake to you."
       },
       {
-       "de": "Herr Ali empfiehlt Ihnen den Mantel.",
-       "en": "Herr Ali recommends the coat to you."
+       "de": "Frau Weber empfiehlt Ihnen das Buch.",
+       "en": "Frau Weber recommends the book to you."
       }
      ],
      "forms": "empfiehlt, hat empfohlen"
@@ -6972,13 +7011,17 @@
      "more": "Think of a ladder with four steps. At the top: sehr gut, I love it. Then gut, then nicht so gut, and at the bottom: gar nicht, not at all. Each answer is a small word or two at the end of the sentence, after mir. You know sehr and nicht from chapter 3. The only new piece is gar nicht, which means not at all. You do not need to take it apart: use it as a ready piece when you really dislike something.",
      "lead": "Now you can ask and answer. Opinions come in strengths, from very much to not at all. This card gives you a few ready words to put at the end of the sentence.",
      "deeper": {
-      "text": "You can also say that you like something a little with gut: Das Hemd gefällt mir gut. It is a friendly, calm opinion, not as strong as sehr gut. The word is always at the end of the sentence, after the dative pronoun.",
+      "text": "In real talk Germans often answer with the strength word alone: Gefällt dir die Jacke? Sehr gut! For a polite doubt they say Na ja, which sounds like well, hmm. Na ja, nicht so gut is softer than a plain nicht. Gar nicht is strong, so use it with friends, not with a shop assistant.",
       "example": {
-       "de": "Das Hemd gefällt mir gut.",
-       "en": "I like the shirt.",
+       "de": "Na ja, die Jacke gefällt mir nicht so gut.",
+       "en": "Well, I do not really like the jacket.",
        "parts": [
         [
-         "Das Hemd",
+         "Na ja,",
+         "other"
+        ],
+        [
+         "die Jacke",
          "subject"
         ],
         [
@@ -6990,7 +7033,11 @@
          "dative"
         ],
         [
-         "gut.",
+         "nicht",
+         "negation"
+        ],
+        [
+         "so gut.",
          "other"
         ]
        ]
@@ -7092,8 +7139,8 @@
      "deeper": {
       "text": "Finden is the only one of the three with an adjective: Ich finde die Hose schön. The adjective comes at the end and does not take an ending. With gefallen you can add a small word instead: Die Hose gefällt mir sehr gut. Both sentences say the same thing in different words.",
       "example": {
-       "de": "Ich finde den Mantel schick.",
-       "en": "I think the coat is smart.",
+       "de": "Ich finde den Mantel schön.",
+       "en": "I think the coat is nice.",
        "parts": [
         [
          "Ich",
@@ -7108,7 +7155,7 @@
          "object"
         ],
         [
-         "schick.",
+         "schön.",
          "adjective"
         ]
        ]
@@ -7379,7 +7426,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:YWn2kAjbhrA"
+     "yt:YWn2kAjbhrA",
+     "yt:opdykf17pCg"
     ],
     "nicosWeg": [
      "nw:a1-59"
@@ -8870,7 +8918,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:2SJh9NzCN8o"
+     "yt:2SJh9NzCN8o",
+     "yt:cWTQOkIz4Ts"
     ],
     "nicosWeg": [
      "nw:a1-59"
@@ -9004,7 +9053,7 @@
     },
     {
      "type": "type",
-     "prompt": "Die Schuhe ___ mir. (to suit)",
+     "prompt": "Die Schuhe ___ mir. (to fit)",
      "answers": [
       "passen"
      ],
@@ -9308,7 +9357,8 @@
      "type": "type",
      "prompt": "Write in German: Red suits you. (du)",
      "answers": [
-      "Rot steht dir."
+      "Rot steht dir.",
+      "Rot steht dir gut."
      ],
      "hint": "A colour at the start: a capital letter.",
      "explanation": "Rot steht dir.",
@@ -9925,30 +9975,42 @@
      "more": "Make a short list in your head, a tiny toolbox of five. gefallen, stehen, passen, helfen, gehören. When you use one of them, reach for mir, dir, ihm, ihr or Ihnen. Do not use mich or dich. Add danken and gratulieren from lesson 4. For verbs like essen, trinken or kaufen, the thing is the accusative. If you are unsure, remember these and treat everything else as normal.",
      "lead": "You have met these verbs one by one. On this card you see all five together in one list, so you can learn each one with its small dative word and not mix them up with essen or trinken.",
      "deeper": {
-      "text": "A good habit is to learn each verb together with mir. Do not learn only helfen. Learn helfen mir, or Ich helfe dir. Then the dative comes to your mouth automatically. Verbs that are not on the list, such as kaufen and finden, take the accusative.",
+      "text": "Careful: not every verb with a person takes the dative. fragen, besuchen and anrufen take the accusative: Ich frage dich, Ich besuche dich, Ich rufe dich an. Only the verbs on your list, plus danken and gratulieren, take mir and dir. One sentence can even have both: Ich frage dich, und dann helfe ich dir.",
       "example": {
-       "de": "Das Hemd passt ihm nicht.",
-       "en": "The shirt does not fit him.",
+       "de": "Ich frage dich, und dann helfe ich dir.",
+       "en": "I ask you, and then I help you.",
        "parts": [
         [
-         "Das",
-         "article"
-        ],
-        [
-         "Hemd",
+         "Ich",
          "subject"
         ],
         [
-         "passt",
+         "frage",
          "verb"
         ],
         [
-         "ihm",
-         "dative"
+         "dich,",
+         "object"
         ],
         [
-         "nicht.",
-         "negation"
+         "und",
+         "conjunction"
+        ],
+        [
+         "dann",
+         "time"
+        ],
+        [
+         "helfe",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "dir.",
+         "dative"
         ]
        ]
       }
@@ -10067,17 +10129,17 @@
      "more": "Think of a shop dialogue as a small play with fixed lines. The salesperson says: Welche Größe haben Sie? You answer with a number: Ich habe Größe 40. You ask for a colour: Haben Sie das in Blau? If something does not fit you say: zu klein or zu groß. With möchten, anprobieren stays in one piece at the end. Without möchten, the prefix goes to the end: Ich probiere die Hose an.",
      "lead": "You know how to ask for help. On this card you learn the pieces you need inside the shop: sizes, colours, too big or too small, and the changing room.",
      "deeper": {
-      "text": "anprobieren is a separable verb. With a modal like möchten, the verb stays whole at the end: Ich möchte die Hose anprobieren. In a normal sentence the prefix an- jumps to the end: Ich probiere die Hose an. Both patterns you already know from chapter 6.",
+      "text": "German sizes are not English sizes. Women often wear 36, 38 or 40, men 48, 50 or 52, and shoes go from about 36 to 46. In the shop people also say Nummer instead of Größe: Ich habe Nummer 40. And many people just say die Kabine for the long word Umkleidekabine.",
       "example": {
-       "de": "Ich probiere die Hose an.",
-       "en": "I try on the trousers.",
+       "de": "Wo ist die Kabine?",
+       "en": "Where is the changing room?",
        "parts": [
         [
-         "Ich",
-         "subject"
+         "Wo",
+         "question"
         ],
         [
-         "probiere",
+         "ist",
          "verb"
         ],
         [
@@ -10085,12 +10147,8 @@
          "article"
         ],
         [
-         "Hose",
-         "object"
-        ],
-        [
-         "an.",
-         "verb2"
+         "Kabine?",
+         "subject"
         ]
        ]
       }
@@ -10240,7 +10298,7 @@
     },
     {
      "title": "At the till",
-     "body": "At the till you can say Ich zahle bar (in cash) or Ich zahle mit der Karte (with the card). After mit comes the dative: mit der Karte. You can ask for a receipt: Ich brauche eine Quittung. Finish with Danke, schönen Tag! Read the whole shop dialogue below, line by line.",
+     "body": "At the till (die Kasse) you can say Ich zahle bar (in cash) or Ich zahle mit der Karte (with the card). After mit comes the dative: mit der Karte. You can ask for a receipt: Ich brauche eine Quittung. Finish with Danke, schönen Tag! Read the whole shop dialogue below, line by line.",
      "examples": [
       {
        "de": "Ich zahle bar.",
@@ -10313,15 +10371,15 @@
       }
      ],
      "steps": [
-      "Herr Ali: Guten Tag, Frau Weber. Kann ich Ihnen helfen?",
+      "Verkäuferin: Guten Tag! Kann ich Ihnen helfen?",
       "Frau Weber: Ja, ich suche einen Mantel. Ich habe Größe 40.",
-      "Herr Ali: Möchten Sie den Mantel anprobieren? Die Umkleidekabine ist dort.",
+      "Verkäuferin: Möchten Sie den Mantel anprobieren? Die Umkleidekabine ist dort.",
       "Frau Weber: Er passt mir gut. Was kostet er?",
-      "Herr Ali: Er kostet 80 Euro, aber er ist im Angebot.",
+      "Verkäuferin: Er kostet 80 Euro, aber er ist im Angebot.",
       "Frau Weber: Ich zahle mit der Karte. Ich brauche eine Quittung.",
-      "Herr Ali: Bitte schön. Danke, schönen Tag!"
+      "Verkäuferin: Bitte schön. Danke, schönen Tag!"
      ],
-     "more": "The till is the last step of the shop dialogue. You say how you pay, you ask for a receipt if you need one, and you say thank you. Look at the dialogue as a chain: help, size, try on, price, pay. Each link is a sentence you already know. When you can say all of them in order, you can handle a real shop in Berlin.",
+     "more": "The till is the last step of the shop dialogue. You say how you pay, you ask for a receipt if you need one, and you say thank you. Look at the dialogue as a chain: help, size, try on, price, pay. Each link is a sentence you already know. When you can say all of them in order, you can handle a real shop.",
      "lead": "You now have every piece of a shop visit. This last card puts them in order: you pay, you ask for a receipt, and you read the whole dialogue between a customer and a salesperson.",
      "deeper": {
       "text": "A very common ending is Danke, schönen Tag! It means thank you, have a nice day. The salesperson often answers with Danke, gleichfalls! (the same to you). You can learn it as one piece, without any grammar. It is polite and short, and every shop assistant likes it.",
@@ -10348,7 +10406,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:f5L3l1jPl08"
+     "yt:f5L3l1jPl08",
+     "yt:mB397pClcq8"
     ],
     "nicosWeg": [
      "nw:a1-50"
@@ -11367,17 +11426,21 @@
      "more": "Stock is a der-word. Where is it? In dem Stock, which melts to im Stock. After dem the number word takes -en, just like in am dritten Mai (on the third of May) in chapter 6. So the pattern is always im + ordinal + -en + Stock. For the ground floor there is no number: im Erdgeschoss. You will not need any other floors in a normal shop.",
      "lead": "You can read the directory. Now you say where something is. This card shows how in + dative and the ordinal come together: im ersten Stock, im zweiten Stock and so on.",
      "deeper": {
-      "text": "This is the same idea as in chapter 6: am dritten Mai. After a dative word like dem or im, the ordinal gets -en. You do not need to learn a big table. Only remember: im ersten, im zweiten, im dritten, im vierten. Stock is mostly used in these ready pieces.",
+      "text": "Careful with floor numbers. In Germany the floor at street level is the Erdgeschoss, floor zero. The erste Stock is one floor up, which Americans call the second floor. So a sign with 3. Stock means three floors above the street. In the lift the Erdgeschoss button is often E or 0.",
       "example": {
-       "de": "Mein Geburtstag ist am dritten Mai.",
-       "en": "My birthday is on the third of May.",
+       "de": "Der erste Stock ist über dem Erdgeschoss.",
+       "en": "The first floor is above the ground floor.",
        "parts": [
         [
-         "Mein",
+         "Der",
          "article"
         ],
         [
-         "Geburtstag",
+         "erste",
+         "other"
+        ],
+        [
+         "Stock",
          "subject"
         ],
         [
@@ -11385,16 +11448,16 @@
          "verb"
         ],
         [
-         "am",
+         "über",
          "preposition"
         ],
         [
-         "dritten",
-         "time"
+         "dem",
+         "dative"
         ],
         [
-         "Mai.",
-         "time"
+         "Erdgeschoss.",
+         "place"
         ]
        ]
       }
@@ -11506,7 +11569,7 @@
        ]
       ]
      },
-     "more": "When you do not know the way, start with Entschuldigung. Then use wo and put the verb straight after it: wo finde ich, wo ist, wo sind. The thing you look for comes at the end. The answer is short: just say the floor, Im zweiten Stock. Then say Danke. Three short lines, and you have found your department.",
+     "more": "Imagine you are lost between racks of clothes. You do not need a long speech. Start with Entschuldigung, then wo, then the verb right after it: wo finde ich, wo ist, wo sind. The thing you look for comes last. The answer you get is short too, often only the floor: Im zweiten Stock. Say Danke, and off you go. Three small lines, and you have found your department.",
      "lead": "You can now say where something is. This card turns that into a question: you ask a person in the shop where to find a department, the entrance or the exit.",
      "deeper": {
       "text": "Ask with ist for one thing and sind for several. Ausgang and Eingang have an umlaut in the plural: die Ausgänge, die Eingänge. A big Kaufhaus often has more than one entrance, so you may need the plural when you ask.",
@@ -11751,8 +11814,8 @@
        ]
       },
       {
-       "de": "In diesem Geschäft arbeitet Herr Ali.",
-       "en": "Herr Ali works in this shop.",
+       "de": "In diesem Geschäft arbeitet mein Bruder.",
+       "en": "My brother works in this shop.",
        "why": "Geschäft is neuter: diesem.",
        "parts": [
         [
@@ -11772,7 +11835,7 @@
          "verb"
         ],
         [
-         "Herr Ali.",
+         "mein Bruder.",
          "subject"
         ]
        ]
@@ -11811,9 +11874,9 @@
       ]
      },
      "more": "welch- and dies- are like a der-word in disguise. They follow the same endings. In the dative the pattern is dem, der, dem, den, and the endings follow: -em, -er, -em, -en. So dem Stock becomes welchem Stock, der Abteilung becomes welcher Abteilung, dem Geschäft becomes diesem Geschäft. In the plural, den Schuhen becomes diesen Schuhen, and the noun gets an extra n.",
-     "lead": "You know welch- and dies- from lesson 2 in the nominative and the accusative. This card adds the dative, so you can ask in welchem Stock and in welcher Abteilung.",
+     "lead": "You know welch- and dies- from lessons 2 and 3 in the nominative and the accusative. This card adds the dative, so you can ask in welchem Stock and in welcher Abteilung.",
      "deeper": {
-      "text": "Look at the article first. dem, der, dem, den. Then change only the ending of welch- or dies-. If the article is dem, you say welchem. If it is den, you say welchen. A plural dative noun also gets -n: den Schuhen. Names and nouns that already end in -n do not get a second one.",
+      "text": "Look at the article first. dem, der, dem, den. Then change only the ending of welch- or dies-. If the article is dem, you say welchem. If it is den, you say welchen. A plural dative noun also gets -n: den Schuhen. Nouns that already end in -n do not get a second one.",
       "example": {
        "de": "Mit diesen Schuhen gehe ich nach Hause.",
        "en": "I walk home in these shoes.",
@@ -11967,30 +12030,34 @@
      "more": "Polite shop language is a small set of building blocks. Start with Entschuldigung. Then choose a frame: Können Sie mir bitte helfen, Haben Sie ..., or Wo ist ... Then add the thing you want. You already know every part from the earlier cards: Sie, mir, bitte, Größe, Kasse. Put them together, and you can ask anything in a Kaufhaus.",
      "lead": "This is the last card before the practice. You put everything together: help, size and place, in the polite frames you can use every day in a department store.",
      "deeper": {
-      "text": "In German, polite does not mean long. Short questions with Entschuldigung and bitte are perfect. If you want to ask for something specific, say Haben Sie ...? and name it. If you are lost, say Wo ist ...? Staff in shops are used to such questions and will answer you clearly.",
+      "text": "Entschuldigung is the short, everyday form. Entschuldigen Sie is a little more formal and very common with strangers. Natives also like to start with Ich suche: Ich suche die Kasse. It sounds softer than a direct question, and staff understand at once that you need help.",
       "example": {
-       "de": "Entschuldigung, wo ist der Ausgang?",
-       "en": "Excuse me, where is the exit?",
+       "de": "Entschuldigen Sie, ich suche die Kasse.",
+       "en": "Excuse me, I am looking for the till.",
        "parts": [
         [
-         "Entschuldigung,",
-         "other"
-        ],
-        [
-         "wo",
-         "question"
-        ],
-        [
-         "ist",
+         "Entschuldigen",
          "verb"
         ],
         [
-         "der",
+         "Sie,",
+         "subject"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "suche",
+         "verb"
+        ],
+        [
+         "die",
          "article"
         ],
         [
-         "Ausgang?",
-         "subject"
+         "Kasse.",
+         "object"
         ]
        ]
       }
@@ -11999,7 +12066,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:92Mcmx5gVus"
+     "yt:92Mcmx5gVus",
+     "yt:jN4Ike7iBVk"
     ],
     "nicosWeg": [
      "nw:a1-39"
@@ -12086,7 +12154,7 @@
     },
     {
      "type": "type",
-     "prompt": "In ___ Geschäft arbeitet Herr Ali. (dies-)",
+     "prompt": "In ___ Geschäft arbeitet mein Bruder. (dies-)",
      "answers": [
       "diesem"
      ],
@@ -12709,7 +12777,7 @@
      "more": "Think of a train with two special seats. The first seat, in part 2, belongs to haben. The last seat belongs to the participle. Everything else sits in between. When you start with zuerst, dann or danach, the time word takes the first seat of the sentence, and the subject steps behind haben. The train still has the same two special seats.",
      "lead": "Before the new verbs, a short review. You already know the bracket from chapter 10. This card also shows how to put a shopping story in order with zuerst, dann and danach.",
      "deeper": {
-      "text": "The participles on this card are all known from chapter 10. gekauft and bezahlt have the usual -t. eingekauft has ge in the middle, because ein- is a separable prefix. mitgebracht and gegeben are irregular and have ge at the front. Today you add more verbs to this list.",
+      "text": "The participles on this card are all known from chapter 10. gekauft and bezahlt have the usual -t. eingekauft has ge in the middle, because ein- is a separable prefix. mitgebracht is separable too, with ge in the middle: mit + ge + bracht. gegeben is irregular and has ge at the front. Today you add more verbs to this list.",
       "example": {
        "de": "Ich habe ein Geschenk mitgebracht.",
        "en": "I brought a present.",
@@ -12932,16 +13000,16 @@
        ]
       },
       {
-       "de": "Herr Ali hat die Jacke verkauft.",
-       "en": "Herr Ali sold the jacket.",
+       "de": "Der Verkäufer hat die Jacke verkauft.",
+       "en": "The salesman sold the jacket.",
        "why": "ver- : no ge-, stem + t.",
        "parts": [
         [
-         "Herr",
-         "subject"
+         "Der",
+         "article"
         ],
         [
-         "Ali",
+         "Verkäufer",
          "subject"
         ],
         [
@@ -13441,13 +13509,13 @@
      "more": "You already know this bracket from chapter 10: the helper verb in one place, the participle at the very end. For questions you only move the helper. Yes-no question: haben goes to the front. W-question: haben goes right after the question word. The participle does not move. If there is a dative word, such as dir, it sits between the helper and the participle.",
      "lead": "You can tell your shopping day. Now you ask about someone else's. This card shows the Perfekt questions you need, with the helper first and the participle last.",
      "deeper": {
-      "text": "The answers repeat the same pieces. Hast du die Jacke anprobiert? Ja, ich habe die Jacke anprobiert. Hat dir die Hose gefallen? Nein, sie hat mir nicht gefallen. Notice that nicht goes before the participle, just as in chapter 10: Ich habe nicht gearbeitet.",
+      "text": "Verbs of movement use sein in the Perfekt, also in questions: Bist du ins Kaufhaus gegangen? Bist du mit dem Bus gefahren? The question works the same way: the helper goes first, the participle stays last. Only the helper is bist instead of hast. Listen for it, it tells you the verb moves.",
       "example": {
-       "de": "Hast du Geld ausgegeben?",
-       "en": "Did you spend money?",
+       "de": "Bist du mit dem Bus gefahren?",
+       "en": "Did you go by bus?",
        "parts": [
         [
-         "Hast",
+         "Bist",
          "verb"
         ],
         [
@@ -13455,11 +13523,19 @@
          "subject"
         ],
         [
-         "Geld",
-         "object"
+         "mit",
+         "preposition"
         ],
         [
-         "ausgegeben?",
+         "dem",
+         "dative"
+        ],
+        [
+         "Bus",
+         "noun"
+        ],
+        [
+         "gefahren?",
          "verb2"
         ]
        ]
@@ -13768,7 +13844,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Herr Ali hat die Jacke ___. (verkaufen)",
+     "prompt": "Der Verkäufer hat die Jacke ___. (verkaufen)",
      "options": [
       "geverkauft",
       "verkauft",
@@ -13960,12 +14036,12 @@
      "en": "to sell",
      "examples": [
       {
-       "de": "Herr Ali verkauft Jacken.",
-       "en": "Herr Ali sells jackets."
+       "de": "Der Verkäufer verkauft Jacken.",
+       "en": "The salesman sells jackets."
       },
       {
-       "de": "Herr Ali hat die Jacke verkauft.",
-       "en": "Herr Ali sold the jacket."
+       "de": "Der Verkäufer hat die Jacke verkauft.",
+       "en": "The salesman sold the jacket."
       }
      ],
      "forms": "verkauft, hat verkauft"
@@ -14098,7 +14174,7 @@
    "day": 1,
    "reading": {
     "title": "Eine Jacke für die Party",
-    "text": "Mira und Ben sind in Berlin. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet Herr Ali. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Herr Ali sagt: „Das ist Größe 38.“ Mira nimmt diese Jacke hier. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
+    "text": "Mira und Ben sind in Berlin. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet ein Verkäufer. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Der Verkäufer sagt: „Das ist Größe 38.“ Mira nimmt diese Jacke hier. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
     "glossary": [
      {
       "de": "Kaufhaus",
@@ -14163,12 +14239,12 @@
       "prompt": "Who works in the shop?",
       "options": [
        "Ben",
-       "Herr Ali",
+       "a salesman",
        "Anna"
       ],
       "answer": 1,
       "hint": "Look for arbeitet.",
-      "explanation": "Dort arbeitet Herr Ali."
+      "explanation": "Dort arbeitet ein Verkäufer."
      },
      {
       "type": "choice",
@@ -14189,7 +14265,7 @@
        "38",
        "Größe 38"
       ],
-      "hint": "Look at what Herr Ali says.",
+      "hint": "Look at what the salesman says.",
       "explanation": "Das ist Größe 38."
      },
      {
@@ -14530,7 +14606,7 @@
    "day": 2,
    "reading": {
     "title": "Annas Geburtstag",
-    "text": "Anna hat heute Geburtstag. Am Abend ist eine Party. Mira und Ben schenken ihr einen Schal. Anna sagt: „Vielen Dank!“ Der Schal gefällt mir sehr gut. Ben gratuliert ihr zum Geburtstag. Dann kommt Leon. Er sagt zu Anna: Das Kleid steht dir gut! Rot steht dir wirklich sehr gut. Anna sagt: Danke! Die Schuhe passen zum Kleid, sie sind auch rot. Leon sieht Mira und Ben und fragt: Wie geht es euch? Mira sagt: Uns geht es gut, danke. Ben findet die Musik cool. Er sagt zu Leon: Dein Pullover gefällt mir. Leon antwortet: Danke, aber er passt mir nicht, er ist zu klein.",
+    "text": "Anna hat heute Geburtstag. Am Abend ist eine Party. Mira und Ben schenken ihr einen Schal. Anna sagt: „Vielen Dank! Der Schal gefällt mir sehr gut.“ Ben gratuliert ihr zum Geburtstag. Dann kommt Leon. Er sagt zu Anna: „Das Kleid steht dir gut! Rot steht dir wirklich sehr gut.“ Anna sagt: „Danke! Die Schuhe passen zum Kleid, sie sind auch rot.“ Leon sieht Mira und Ben und fragt: „Wie geht es euch?“ Mira sagt: „Uns geht es gut, danke.“ Ben findet die Musik cool. Er sagt zu Leon: „Dein Pullover gefällt mir.“ Leon antwortet: „Danke, aber er passt mir nicht, er ist zu klein.“",
     "glossary": [],
     "questions": [
      {
@@ -14945,7 +15021,7 @@
    "day": 3,
    "reading": {
     "title": "Frau Weber im Kaufhaus",
-    "text": "Frau Weber ist heute im Kaufhaus. Sie braucht einen Mantel und möchte einen Rock umtauschen. Herr Ali arbeitet in der Damenabteilung. Er fragt: Kann ich Ihnen helfen? Frau Weber sucht einen Mantel in Größe 40. Herr Ali zeigt ihr einen Mantel in Blau. Sie probiert ihn in der Umkleidekabine an. Er passt ihr gut und ist im Angebot. Dann fragt sie: Wo finde ich die Schuhabteilung? Herr Ali sagt: „Im zweiten Stock.“\n\nAm Abend schreibt sie an Leon: Ich habe einen Mantel gekauft und den Rock umgetauscht. Herr Ali hat mir geholfen. Der Mantel hat mir gut gefallen. Die Schuhe habe ich nicht gekauft.",
+    "text": "Frau Weber ist heute im Kaufhaus. Sie braucht einen Mantel und möchte einen Rock umtauschen. Eine Verkäuferin arbeitet in der Damenabteilung. Sie fragt: „Kann ich Ihnen helfen?“ Frau Weber sucht einen Mantel in Größe 40. Die Verkäuferin zeigt ihr einen Mantel in Blau. Sie probiert ihn in der Umkleidekabine an. Er passt ihr gut und ist im Angebot. Dann fragt sie: „Wo finde ich die Schuhabteilung?“ Die Verkäuferin sagt: „Im zweiten Stock.“\n\nAm Abend schreibt sie an Leon: „Ich habe einen Mantel gekauft und den Rock umgetauscht. Die Verkäuferin hat mir geholfen. Der Mantel hat mir gut gefallen. Die Schuhe habe ich nicht gekauft.“",
     "glossary": [
      {
       "de": "zeigt ihr",
@@ -15011,7 +15087,7 @@
      },
      {
       "type": "choice",
-      "prompt": "In which department does Herr Ali work?",
+      "prompt": "In which department does the saleswoman work?",
       "options": [
        "the men's department",
        "the women's department",
@@ -15097,7 +15173,7 @@
    },
    "listening": {
     "title": "In the shop, and a shopping story",
-    "script": "Herr Ali: Guten Tag, Frau Weber. Kann ich Ihnen helfen?\nFrau Weber: Guten Tag, Herr Ali. Ja, ich suche eine Jacke.\nHerr Ali: Welche Größe haben Sie?\nFrau Weber: Größe 38. Haben Sie diese Jacke in Blau?\nHerr Ali: Ja, hier. Möchten Sie die Jacke anprobieren?\nFrau Weber: Ja, gern. Wo ist die Umkleidekabine?\nHerr Ali: Dort.\nFrau Weber: Die Jacke passt mir gut. Was kostet sie?\nHerr Ali: Sie kostet 90 Euro. Sie ist im Angebot, nur 60 Euro.\nFrau Weber: Super! Wo finde ich die Schuhabteilung?\nHerr Ali: Im zweiten Stock. Fahren Sie mit der Rolltreppe.\nFrau Weber: Danke! Ich zahle mit der Karte.\nMira: Ben, was hast du gestern gekauft?\nBen: Ich habe einen Pullover ausgesucht und anprobiert. Er hat mir gut gefallen.\nMira: Wie viel hast du ausgegeben?\nBen: 40 Euro. Und du?\nMira: Ich habe auf dem Flohmarkt eine Tasche gekauft. Das war ein Schnäppchen!",
+    "script": "Verkäuferin: Guten Tag! Kann ich Ihnen helfen?\nFrau Weber: Guten Tag. Ja, ich suche eine Jacke.\nVerkäuferin: Welche Größe haben Sie?\nFrau Weber: Größe 38. Haben Sie diese Jacke in Blau?\nVerkäuferin: Ja, hier. Möchten Sie die Jacke anprobieren?\nFrau Weber: Ja, gern. Wo ist die Umkleidekabine?\nVerkäuferin: Dort.\nFrau Weber: Die Jacke passt mir gut. Was kostet sie?\nVerkäuferin: Sie kostet 90 Euro. Sie ist im Angebot, nur 60 Euro.\nFrau Weber: Super! Wo finde ich die Schuhabteilung?\nVerkäuferin: Im zweiten Stock. Fahren Sie mit der Rolltreppe.\nFrau Weber: Danke! Ich zahle mit der Karte.\nMira: Ben, was hast du gestern gekauft?\nBen: Ich habe einen Pullover ausgesucht und anprobiert. Er hat mir gut gefallen.\nMira: Wie viel hast du ausgegeben?\nBen: 40 Euro. Und du?\nMira: Ich habe auf dem Flohmarkt eine Tasche gekauft. Das war ein Schnäppchen!",
     "questions": [
      {
       "type": "choice",
@@ -15137,7 +15213,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali ask her to do?",
+      "prompt": "What does the saleswoman ask her to do?",
       "options": [
        "pay for the jacket",
        "return the jacket",
@@ -15245,7 +15321,7 @@
      },
      {
       "type": "type",
-      "prompt": "Herr Ali hat mir ___. (helfen)",
+      "prompt": "Die Verkäuferin hat mir ___. (helfen)",
       "answers": [
        "geholfen"
       ],
@@ -15354,7 +15430,7 @@
     "free": {
      "prompt": "Tell your shopping day in the Perfekt in 5 sentences: where, what you bought, what you tried on or exchanged, who helped, what you liked (Die Jacke hat mir gefallen).",
      "minWords": 25,
-     "model": "Gestern war ich im Kaufhaus in Berlin. Zuerst habe ich eine Jacke ausgesucht und anprobiert. Herr Ali hat mir geholfen. Die Jacke hat mir gut gefallen und ich habe sie gekauft. Ich habe 60 Euro ausgegeben. Danach habe ich eine Hose umgetauscht.",
+     "model": "Gestern war ich im Kaufhaus in Berlin. Zuerst habe ich eine Jacke ausgesucht und anprobiert. Die Verkäuferin hat mir geholfen. Die Jacke hat mir gut gefallen und ich habe sie gekauft. Ich habe 60 Euro ausgegeben. Danach habe ich eine Hose umgetauscht.",
      "checks": [
       {
        "label": "says where you shopped (Kaufhaus, Flohmarkt, ...)",
