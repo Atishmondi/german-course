@@ -1053,33 +1053,33 @@
        ]
       },
       {
-       "de": "Arbeitest du heute oder hast du frei?",
-       "en": "Are you working today or are you off?",
-       "why": "du only once.",
+       "de": "Ben bleibt im Büro oder geht nach Hause.",
+       "en": "Ben stays in the office or goes home.",
+       "why": "Ben only once.",
        "parts": [
         [
-         "Arbeitest",
-         "verb"
-        ],
-        [
-         "du",
+         "Ben",
          "subject"
         ],
         [
-         "heute",
-         "time"
+         "bleibt",
+         "verb"
+        ],
+        [
+         "im Büro",
+         "place"
         ],
         [
          "oder",
          "conjunction"
         ],
         [
-         "hast",
+         "geht",
          "verb"
         ],
         [
-         "du frei?",
-         "other"
+         "nach Hause.",
+         "place"
         ]
        ]
       },
@@ -6938,7 +6938,7 @@
       {
        "de": "Mein Bruder wohnt bei meinen Eltern.",
        "en": "My brother lives with my parents.",
-       "why": "At his parents' home: seinen.",
+       "why": "At my parents' home: plural, so meinen.",
        "parts": [
         [
          "Mein Bruder",
@@ -7544,11 +7544,11 @@
      "options": [
       "zu",
       "bei",
-      "mit"
+      "nach"
      ],
      "answer": 1,
      "hint": "He lives at their home.",
-     "explanation": "bei seinen Eltern.",
+     "explanation": "bei meinen Eltern.",
      "grammar": true
     },
     {
@@ -8680,7 +8680,7 @@
       "3. am Freitag haben wir eine Besprechung. Hast du um zehn Uhr Zeit?",
       "4. Viele Grüße / Ben"
      ],
-     "more": "An email is like a sandwich. The bread on top is the greeting, the bread at the bottom is the closing, and the filling is your message. Step 1: write the Betreff, three or four words. Step 2: greet: Liebe for a woman, Lieber for a man (chapter 6). Step 3: say why you write and ask one thing. After the comma, the next line starts with a small letter. Step 4: close with Viele Grüße and your name. Extra example: Lieber Leon, kommst du morgen ins Büro? Viele Grüße, Mira",
+     "more": "An email is like a sandwich. The bread on top is the greeting, the bread at the bottom is the closing, and the filling is your message. Step 1: write the Betreff, three or four words. Step 2: greet: Liebe for a woman, Lieber for a man (chapter 6). Step 3: say why you write and ask one thing. After the comma, the next line starts with a small letter. Step 4: close with Viele Grüße and your name. Extra example: Lieber Leon, kommst du morgen ins Büro? (new line) Viele Grüße (new line) Mira",
      "lead": "Next: planning a short email in four steps, so you can write a clear message to a colleague without getting lost.",
      "deeper": {
       "text": "After the greeting comma, German starts the first word of the text with a small letter: Liebe Anna, am Freitag haben wir … The greeting works like a comma in the middle of a sentence. Only nouns and names keep capitals. This is one of the little things that makes an email look correct.",
@@ -8844,7 +8844,7 @@
        ]
       ]
      },
-     "more": "Think of clothes again: a T-shirt for friends, a suit for the boss. Liebe and Viele Grüße are the T-shirt. Sehr geehrte and Mit freundlichen Grüßen are the suit. Step 1: du or Sie? Step 2: a woman or a man? geehrte for Frau, geehrter for Herr. Learn these two as pieces; the ending rule comes much later. Step 3: close with Mit freundlichen Grüßen. Spot the dative: mit + plural, so der Gruß, die Grüße, mit Grüßen. Extra example: Sehr geehrte Frau Weber, ich komme am Montag zurück. Mit freundlichen Grüßen, Leon",
+     "more": "Think of clothes again: a T-shirt for friends, a suit for the boss. Liebe and Viele Grüße are the T-shirt. Sehr geehrte and Mit freundlichen Grüßen are the suit. Step 1: du or Sie? Step 2: a woman or a man? geehrte for Frau, geehrter for Herr. Learn these two as pieces; the ending rule comes much later. Step 3: close with Mit freundlichen Grüßen. Spot the dative: mit + plural, so der Gruß, die Grüße, mit Grüßen. Extra example: Sehr geehrte Frau Weber, ich komme am Montag zurück. Mit freundlichen Grüßen (new line) Leon",
      "lead": "Last card of this lesson: a formal email to a Sie-person, so you can open and close a polite message at work with the right words.",
      "deeper": {
       "text": "If you do not know the name of the person, use Sehr geehrte Damen und Herren, which means dear ladies and gentlemen. It is the standard opening for a formal email to a company or office. Remember the comma at the end, and again a small letter at the start of your text.",
@@ -9333,7 +9333,8 @@
      "type": "type",
      "prompt": "Write the formal email greeting for Frau Weber.",
      "answers": [
-      "Sehr geehrte Frau Weber"
+      "Sehr geehrte Frau Weber",
+      "Sehr geehrte Frau Weber,"
      ],
      "hint": "A woman: geehrte.",
      "explanation": "Sehr geehrte Frau Weber,"
@@ -11987,7 +11988,7 @@
      "prompt": "Which is right?",
      "options": [
       "Können Sie bitte schließen die Tür?",
-      "Sie können bitte die Tür schließen?",
+      "Sie bitte können die Tür schließen?",
       "Können Sie bitte die Tür schließen?"
      ],
      "answer": 2,
@@ -12034,7 +12035,7 @@
      "prompt": "Someone says: Danke! You answer …",
      "options": [
       "Gern geschehen.",
-      "Kein Problem?",
+      "Ja, natürlich.",
       "Leider nicht."
      ],
      "answer": 0,
@@ -12047,7 +12048,7 @@
      "answers": [
       "wiederholen"
      ],
-     "hint": "You learned it in chapter 5.",
+     "hint": "You met it on the card about where bitte goes.",
      "explanation": "Können Sie das bitte wiederholen?",
      "grammar": true
     },
@@ -12906,7 +12907,7 @@
        ]
       ]
      },
-     "more": "English gets messy here: Don't you have time? – Yes. Yes I have, or yes I don't? German fixes this with one extra word. doch means: oh yes, I DO. It flips the no in the question. Step 1: spot nicht or kein in the question. Step 2: you want to say the opposite, the positive? Say doch. Step 3: you agree with the negative? Say nein. ja never answers a negative question. Extra example: Trinkst du keinen Kaffee? – Doch, gern! = Don't you drink coffee? – Oh yes, I do!",
+     "more": "English gets messy here: Don't you have time? – Yes. Yes I have, or yes I don't? German fixes this with one extra word. doch means: oh yes, I DO. It flips the no in the question. Step 1: spot nicht or kein in the question. Step 2: you want to say the opposite, the positive? Say doch. Step 3: you agree with the negative? Say nein. ja is the wrong word for a negative question. Extra example: Trinkst du keinen Kaffee? – Doch, gern! = Don't you drink coffee? – Oh yes, I do!",
      "lead": "You know ja and nein. Next: doch, for when a question has nicht or kein in it, so you can say yes to a negative question.",
      "deeper": {
       "text": "English can confuse here: Don't you have time? Yes means I have time, but No could also mean I have time. German avoids the problem. nein always agrees with the negative, and doch always says the opposite. So the answer is never ambiguous, even when the question is tricky.",
@@ -13914,11 +13915,11 @@
      "type": "choice",
      "prompt": "What do colleagues say to each other around lunchtime?",
      "options": [
-      "Mahlzeit!",
       "Prost!",
+      "Mahlzeit!",
       "Gute Nacht!"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "It means meal.",
      "explanation": "Mahlzeit!"
     },
@@ -13938,10 +13939,10 @@
      "type": "choice",
      "prompt": "How does st sound in Post?",
      "options": [
-      "s + t",
-      "scht"
+      "scht",
+      "s + t"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "st at the end of a word.",
      "explanation": "Post: plain s + t."
     },
@@ -14926,7 +14927,7 @@
        "Bank."
       ],
       "hint": "bei + dative: eine → einer.",
-      "explanation": "Meine Schwester arbeitet bei einer Bank."
+      "explanation": "Anna arbeitet bei einer Bank."
      },
      {
       "type": "build",
@@ -15012,6 +15013,10 @@
      {
       "de": "nehmen … aus",
       "en": "take … out of"
+     },
+     {
+      "de": "die Tasse",
+      "en": "cup"
      }
     ],
     "questions": [
@@ -15220,7 +15225,7 @@
        "to Leon in Berlin"
       ],
       "answer": 2,
-      "hint": "Listen for zu meinen Eltern.",
+      "hint": "Listen for zu Leon.",
       "explanation": "Ich fahre zu Leon nach Berlin."
      },
      {
@@ -15385,7 +15390,7 @@
     "free": {
      "prompt": "Small talk in the office kitchen. Write 4–5 lines: greet a colleague, ask about the weekend, answer a question with nicht or kein using doch, and make one polite request with Kannst du bitte … or Können Sie bitte …",
      "minWords": 25,
-     "model": "Guten Morgen, Leon! Wie war dein Wochenende? Ich war mit Mira im Kino. Trinkst du keinen Kaffee? Doch, gern! Kannst du bitte das Fenster öffnen? Danke! Die Woche ist stressig, aber das Team ist super.",
+     "model": "Guten Morgen, Leon! Wie war dein Wochenende? Ich war mit meiner Schwester im Kino. Trinkst du keinen Kaffee? Doch, gern! Kannst du bitte das Fenster öffnen? Danke! Die Woche ist stressig, aber das Team ist super.",
      "checks": [
       {
        "label": "asks about the weekend",
