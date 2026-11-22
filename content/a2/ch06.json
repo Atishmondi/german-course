@@ -388,7 +388,7 @@
        ]
       }
      },
-     "more": "Say it as a small test. First ask: is the adjective after sein? Then there is no ending. Is it in front of a noun? Then it needs an ending. After der the ending is -e. After ein it depends on the noun. Today you only learn the nominative, the subject form. For a masculine noun the ending is -er, for a neuter noun it is -es, for a feminine noun it is -e.",
+     "more": "Think of a road with two signs. Sign one says: after sein, the adjective stands alone at the end of the sentence, bare, with no ending. Sign two says: before a noun, the adjective puts on a coat, an ending. After der the coat is small: -e. After ein the coat depends on the noun, and for a masculine noun it is -er. Mira's boss: Der Chef ist jung (bare). Das ist ein junger Chef (coat -er).",
      "table": {
       "headers": [
        "Where is the adjective?",
@@ -555,7 +555,7 @@
        ]
       }
      },
-     "more": "Say the gender first and the ending follows. Job, Chef and Flur are masculine, so ein neuer Job, ein junger Chef, ein langer Flur. Stelle, Firma and Kollegin are feminine, so eine neue Stelle, eine große Firma, eine nette Kollegin. Büro, Team and Gehalt are neuter, so ein neues Büro, ein nettes Team, ein hohes Gehalt. A common slip is ein neue Büro; the right form is ein neues Büro.",
+     "more": "Picture three guests at a party, each with a name tag on the adjective. The man (der Job) wears ER. The woman (die Kollegin) wears E. The neuter thing (das Büro) wears ES. The article ein looks the same for the man and the neuter thing, so the adjective tag is the only way to tell them apart. Chant it: ein neu-ER Job, eine neu-E Stelle, ein neu-ES Büro. Slip to avoid: ein neue Büro.",
      "table": {
       "headers": [
        "",
@@ -690,7 +690,7 @@
       }
      ],
      "deeper": {
-      "text": "In the plural there is no ein at all, so the plural nominative looks the same in every gender: meine neuen Kolleginnen, keine freien Stellen, seine alten Autos. The ending is always -en. Remember that the plural of ein is no article or keine, meine, deine and so on. You can say Das sind meine neuen Kolleginnen, but not Das sind ein neue Kolleginnen.",
+      "text": "In the plural there is no ein, because ein has no plural. Instead you use keine, meine, deine, seine or ihre, and after them the adjective always ends in -en: keine freien Stellen, seine alten Autos. So Das sind ein neue Kolleginnen is wrong. Say Das sind meine neuen Kolleginnen or Das sind keine neuen Kolleginnen. One ending only: -en.",
       "example": {
        "de": "Das sind meine neuen Kolleginnen.",
        "en": "Those are my new colleagues (female).",
@@ -893,7 +893,7 @@
        ]
       }
      },
-     "more": "Look at the three adjectives with the ending and ask: what did I lose? Teuer lost the e before the r (teur-). Dunkel lost the e before the l (dunkl-). Hoch lost the c (hoh-). After a noun, with sein, the adjective is back to normal: Das Auto ist teuer, der Flur ist dunkel, das Gehalt ist hoch. Two adjectives before one noun both take the same ending.",
+     "more": "Think of the adjective as a word that has to fit through a narrow door in front of the noun. Teuer and dunkel are a little too wide, so the e squeezes out: teur-, dunkl-. Hoch loses its c: hoh-. Test it aloud: ein teures Auto flows, ein teueres Auto is clumsy. After sein there is no narrow door, so the full word is back: Das Auto ist teuer. Two adjectives share one ending: ein netter, junger Chef.",
      "table": {
       "headers": [
        "Adjective after sein",
@@ -1023,7 +1023,7 @@
        ]
       }
      },
-     "more": "When someone asks Was für ein Job, they want an adjective back. Imagine they hold a small box labelled with the noun, and you answer with a sticker that says which type it is: ein neuer Job, ein interessanter Job, ein schwerer Job. Keep the ein-word with the same gender as the noun and add the ending: -er for masculine, -e for feminine, -es for neuter.",
+     "more": "Imagine a friend holds up a closed box with a noun label and asks Was für ein Job ist das? They do not want the name of the job, they want its kind. You answer with a sticker for the box: interessant. In front of the noun the sticker gets its ending, and ein matches the label: ein interessanter Job, eine interessante Firma, ein interessantes Büro. After sein the sticker stays bare: Der Job ist interessant.",
      "table": {
       "headers": [
        "After sein",
@@ -1048,7 +1048,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:t2jLvRrDThM"
+     "yt:t2jLvRrDThM",
+     "yt:XTrsVMe6_mI"
     ],
     "nicosWeg": [
      "nw:a2-36"
@@ -1644,8 +1645,8 @@
     },
     {
      "title": "A job ad: the words you need",
-     "body": "A job ad (die Stellenanzeige) says who the firm wants. Die Qualifikation is the training you have. Die Berufserfahrung is the time you already worked in a job. Die Fähigkeit is something you can do well. Die Anforderung is what the firm needs from you. These four words are in every ad.",
-     "lead": "Before the grammar of the lesson you need the words of a job ad. This card shows four of them in short ad sentences, and in the rest of the lesson the same words come back.",
+     "body": "A job ad (die Stellenanzeige) says who the firm wants. Die Qualifikation is your training, die Berufserfahrung the time you already worked, die Fähigkeit something you do well, die Anforderung what the firm needs. Later come der Vertrag (contract), die Probezeit (trial period) and die Verantwortung (responsibility).",
+     "lead": "Before the grammar of the lesson you need the words of a job ad. This card shows seven of them in short ad sentences, and in the rest of the lesson the same words come back.",
      "examples": [
       {
        "de": "Wir suchen einen Elektriker.",
@@ -1738,7 +1739,7 @@
        ]
       }
      },
-     "more": "Imagine a job ad as a small shop window. The firm puts what it wants in the window: Wir suchen einen Elektriker. Then it lists what you must bring: Qualifikation, Berufserfahrung, Fähigkeiten. At the bottom it says what it expects from you: the Anforderungen. Learn the four words as a little set, and you can read every ad.",
+     "more": "Imagine a job ad as a shop window. The firm puts what it wants in the window: Wir suchen einen Elektriker. Then it lists what you must bring: die Qualifikation (your training), die Berufserfahrung (the time you already worked) and die Fähigkeiten (what you can do well). At the bottom stands the shopping list of the firm, die Anforderungen. Learn the four words as one set and every job ad becomes readable.",
      "table": {
       "headers": [
        "Word",
@@ -1765,6 +1766,21 @@
         "die Anforderung",
         "requirement",
         "Die Anforderungen sind klar."
+       ],
+       [
+        "die Verantwortung",
+        "responsibility",
+        "Sie haben viel Verantwortung."
+       ],
+       [
+        "der Vertrag",
+        "contract",
+        "Sie bekommen einen Vertrag."
+       ],
+       [
+        "die Probezeit",
+        "trial period",
+        "Die Probezeit ist kurz."
        ]
       ]
      }
@@ -2049,7 +2065,7 @@
       }
      ],
      "deeper": {
-      "text": "The table below has one special line: the masculine. In the other three lines the nominative and the accusative look the same. So you only have to remember a single change. A common slip is eine nettes Kollegin: it mixes the neuter ending with the feminine article. Kollegin is feminine, so the correct form is eine nette Kollegin.",
+      "text": "Check the one line that changes: the masculine. In the other three lines the nominative and the accusative look the same, so you only have to remember a single change. A typical slip mixes the endings: eine nettes Kollegin. The article eine and the ending -es fight each other. Kollegin is feminine, so the correct form is eine nette Kollegin, in the nominative and in the accusative.",
       "example": {
        "de": "Anna findet eine nette Kollegin.",
        "en": "Anna finds a nice colleague.",
@@ -2081,7 +2097,7 @@
        ]
       }
      },
-     "more": "Say it as a rhyme to yourself: Only the man changes, the rest stay the same. After der, the form changes more: den neuen Job, die neue Stelle, das neue Büro. After ein, only the masculine changes: einen neuen Job. The ending after ein is -en in the masculine, -e in the feminine, -es in the neuter and -en in the plural.",
+     "more": "Picture four doors in a row: masculine, feminine, neuter and plural. Behind three of them nothing happens when you move from subject to object: eine neue, ein neues, keine neuen stay as they are. Behind the masculine door someone changes clothes: ein neuer Job becomes einen neuen Job. Only the masculine moves. The article leads (einen), and the adjective follows with -en. After der it is the same story: der becomes den, the others stay.",
      "table": {
       "headers": [
        "",
@@ -2451,7 +2467,7 @@
        ]
       }
      },
-     "more": "Learn three little pairs: für einen guten Lohn, ohne eine gute Qualifikation, durch einen langen Flur. Each pair has its preposition and then the group with the ending. Only the masculine and the neuter change between the cases, and after ein the nominative and accusative differ only in the masculine. The rest of the group is the same as in the previous cards.",
+     "more": "Learn three tiny pairs and say them aloud like a rhythm: für einen guten Lohn, ohne eine gute Qualifikation, durch einen langen Flur. Each pair has its preposition first and the group with the ending after it. The preposition decides the case, here always the accusative. Then only the masculine shows it with einen and -en, while eine gute stays the same as in the nominative. For a neuter noun you hear ein gutes, also unchanged.",
      "table": {
       "headers": [
        "Preposition",
@@ -2553,31 +2569,39 @@
       }
      ],
      "deeper": {
-      "text": "In a short answer you only need the ein-group. For a feminine noun you say Was für eine Stelle suchst du? and answer Eine interessante Stelle. For a neuter noun: Was für ein Büro suchst du? Ein kleines Büro. Only for the masculine the question changes from ein to einen, as in Was für einen Job suchst du?",
+      "text": "In Was für einen Job the little word für does not make the accusative. Was für ein is a fixed chunk, and only the ein follows the verb: Was für einen Job suchst du? with suchen, but Was für ein Job ist das? with sein. So do not confuse it with für + accusative from card 5. Feminine and neuter simply stay the same: Was für eine Stelle, Was für ein Büro.",
       "example": {
-       "de": "Eine interessante Stelle.",
-       "en": "An interesting job.",
+       "de": "Was für ein Büro suchst du?",
+       "en": "What kind of office are you looking for?",
        "parts": [
         [
-         "Eine",
+         "Was",
+         "question"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "ein",
          "article"
         ],
         [
-         "interessant",
-         "adjective"
-        ],
-        [
-         "e",
-         "ending"
-        ],
-        [
-         "Stelle.",
+         "Büro",
          "noun"
+        ],
+        [
+         "suchst",
+         "verb"
+        ],
+        [
+         "du?",
+         "subject"
         ]
        ]
       }
      },
-     "more": "Imagine a friend who asks: Was für einen Job suchst du? Your answer is a small label for the job: einen interessanten Job, eine interessante Stelle, ein kleines Büro. The ein in the question decides which label you use. Use einen when the noun is masculine and the verb is suchen, brauchen or haben. Use eine and ein as before.",
+     "more": "Imagine a friend who asks Was für einen Job suchst du? and holds out an empty label. You fill it with the kind of job: einen interessanten Job, eine interessante Stelle, ein kleines Büro. The ein-word in the question tells you which label to write. If the noun is masculine and the verb is suchen, brauchen or haben, you need einen and -en. Feminine and neuter keep eine and ein, so only one label ever changes.",
      "table": {
       "headers": [
        "Question",
@@ -2602,7 +2626,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:plJWxJxbvmM"
+     "yt:plJWxJxbvmM",
+     "yt:IChcogLkMrs"
     ],
     "nicosWeg": [
      "nw:b1-17"
@@ -3657,37 +3682,29 @@
       }
      ],
      "deeper": {
-      "text": "In the dative plural the noun adds -n: mit den kleinen Firmen, but the noun Firmen already ends in -n, so nothing changes.  You can use the group after the dative preposition bei, with the article den: Wir suchen eine Stelle bei den kleinen Firmen.",
+      "text": "In the dative plural the noun adds -n: mit den kleinen Firmen is fine because Firmen already ends in -n. But plural nouns ending in -s keep it: mit meinen neuen Jobs, in den alten Autos. So after the article and the adjective ending, look at the noun last. The adjective still ends in -en in every case, so the adjective is never the problem.",
       "example": {
-       "de": "Wir suchen eine Stelle bei den kleinen Firmen.",
-       "en": "We are looking for a job at the small firms.",
+       "de": "Ich bin mit meinen neuen Jobs zufrieden.",
+       "en": "I am happy with my new jobs.",
        "parts": [
         [
-         "Wir",
+         "Ich",
          "subject"
         ],
         [
-         "suchen",
+         "bin",
          "verb"
         ],
         [
-         "eine",
-         "article"
-        ],
-        [
-         "Stelle",
-         "noun"
-        ],
-        [
-         "bei",
+         "mit",
          "preposition"
         ],
         [
-         "den",
+         "meinen",
          "article"
         ],
         [
-         "klein",
+         "neu",
          "adjective"
         ],
         [
@@ -3695,13 +3712,17 @@
          "ending"
         ],
         [
-         "Firmen.",
+         "Jobs",
          "noun"
+        ],
+        [
+         "zufrieden.",
+         "adjective"
         ]
        ]
       }
      },
-     "more": "Remember the plural as a very simple rule. The plural has no ein, so there is nothing to confuse: always -en on the adjective. It is the same after der (die neuen Kolleginnen), after ein-words (meine neuen Kolleginnen) and in the nominative, accusative and dative. Only the genitive is different, and you do not need it for the job ad yet.",
+     "more": "The plural is the easy corner of the table. There is no ein, so there is nothing to confuse: the adjective always wears -en, whether the group is the subject (meine neuen Kolleginnen), the object (keine freien Stellen) or after a dative preposition (mit meinen netten Kolleginnen). It is the same after der: die neuen Kolleginnen. Say it like a chant: plural, plural, always -en. One rule, three cases, no thinking needed.",
      "table": {
       "headers": [
        "Case",
@@ -3863,7 +3884,7 @@
        ]
       }
      },
-     "more": "Say the rule in one breath: like after der, but with three small exceptions. Then check the three exceptions: ein neuer Job (nominative masculine), ein neues Büro (nominative neuter), ein neues Büro (accusative neuter). If the group is not one of these, use -e in the five easy spots and -en everywhere else. This is a rule you can apply without a table.",
+     "more": "Imagine the whole table as a wall of twelve windows: three cases times masculine, feminine, neuter and plural. Three windows are painted red: nominative masculine, nominative neuter and accusative neuter. In the red windows ein has no ending, so the adjective shows the gender: -er, -es, -es. All nine other windows copy the der-table from chapter 5: -e or -en. Learn the three red windows and you know all twelve.",
      "table": {
       "headers": [
        "",
@@ -3986,35 +4007,39 @@
       }
      ],
      "deeper": {
-      "text": "Say these pairs aloud slowly, with a short pause: einem, einen. dem, den. meinem, meinen. Mann, man. Name, nein. Then say them in a sentence: Ich arbeite mit einem Techniker, but Ich suche einen Techniker. In the first sentence mit asks for the dative, in the second suchen asks for an object, so you hear the case and not only the word.",
+      "text": "In fast everyday speech people shorten the articles: einen becomes 'nen and einem becomes 'nem, so the difference between n and m can almost disappear. You will hear Hast du 'nen Job? and Ich arbeite mit 'nem Kollegen. In writing and in exams always use the full einen and einem. When you listen, the vowel before the n or m and the rest of the sentence still tell you the case.",
       "example": {
-       "de": "Ich arbeite mit einem Techniker.",
-       "en": "I work with a technician.",
+       "de": "Hast du einen neuen Job?",
+       "en": "Do you have a new job?",
        "parts": [
         [
-         "Ich",
-         "subject"
-        ],
-        [
-         "arbeite",
+         "Hast",
          "verb"
         ],
         [
-         "mit",
-         "preposition"
+         "du",
+         "subject"
         ],
         [
-         "einem",
+         "einen",
          "article"
         ],
         [
-         "Techniker.",
+         "neu",
+         "adjective"
+        ],
+        [
+         "en",
+         "ending"
+        ],
+        [
+         "Job?",
          "noun"
         ]
        ]
       }
      },
-     "more": "Put your fingers on your lips. For m your lips touch each other and the sound hums through your nose. For n your lips stay open, and the tip of your tongue taps behind your upper teeth. Try Mann and man, then einem and einen. If you feel your lips close at the end of the word, that is m.",
+     "more": "Put two fingers on your lips. For m your lips close and the sound hums through your nose. For n your lips stay open and the tip of your tongue taps behind your upper teeth. Say einem, einen slowly, then dem, den, then Mann, man. If your lips shut at the end of the word, it is m, and m means dative: mit einem Chef. If your tongue taps, it is n, and in this lesson that is the accusative: einen Chef.",
      "table": {
       "headers": [
        "m (lips closed)",
@@ -4226,7 +4251,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:dFYZJQs68JA"
+     "yt:dFYZJQs68JA",
+     "yt:kYEBu6dG2MM"
     ],
     "nicosWeg": [
      "nw:b1-29"
@@ -4800,7 +4826,7 @@
        "why": "New today: the Perfekt of werden."
       }
      ],
-     "more": "Think of sein as a photo and werden as a short film. The photo shows how things are now: Ich bin müde. The film shows how they change: Ich werde müde, I am getting tired. Every time something changes, German can use werden. That is why werden is such a common verb."
+     "more": "Think of sein as a photo and werden as a short film. The photo shows how things are now: Anna ist Studentin. The film shows the change: Anna wird Tierärztin, she is on the way. Next year's photo: Anna ist Tierärztin. German needs two verbs for the two pictures, and werden is the verb of the film. Every time you hear that something changes, think: a film, so werden. That is why werden is so common."
     },
     {
      "title": "Ich werde, du wirst: the forms of werden",
@@ -4887,7 +4913,7 @@
        ]
       }
      },
-     "more": "Werden works like sein, but it shows a change. Ich bin müde = I am tired now. Ich werde müde = I am getting tired, slowly. Only two forms look strange: du wirst and er wird. All the others look like the infinitive werden with the usual endings -e, -en, -et.",
+     "more": "Split the six forms into two groups. The normal group looks like the infinitive with a small ending: ich werde, wir werden, sie werden, and ihr werdet (the e before the t is just help for your tongue). The change group has an i: du wirst, er wird. Say them with the meaning: I become, you turn into, he turns into. Compare sein: Ich bin müde is a state, Ich werde müde is slowly getting tired.",
      "table": {
       "headers": [
        "person",
@@ -5041,7 +5067,7 @@
        ]
       }
      },
-     "more": "A job after werden is like a name tag: you just put it on, with no article. Ich werde Bäcker. Only when you add a describing word like gut or nett do you need ein: ein guter Bäcker. And because werden is an equals sign, it is the nominative: -er for der words, -e for die words.",
+     "more": "When you say what you become, you put the job on like a name tag: Ich werde Bäcker. No article, exactly like Ich bin Bäcker. Add a describing word like gut and the tag turns into a sentence about quality, so ein comes back: ein guter Bäcker. Werden works like an equals sign, so both sides are in the same case, the nominative: Leon wird ein guter Koch, Mira wird eine nette Lehrerin. Never einen: a person is not an object here.",
      "table": {
       "headers": [
        "sein",
@@ -5176,7 +5202,7 @@
        ]
       }
      },
-     "more": "Use sein for how things are and werden for how things change. Es ist dunkel: the light is already gone. Es wird dunkel: the light is going right now. The adjective after werden never gets an ending, the same rule as after sein: Ben wird müde, not müder or müde with an ending.",
+     "more": "Picture a window at dusk. Es ist dunkel is the photo: the light is already gone. Es wird dunkel is the film: the light is fading right now. Es wird dunkler is the dimmer switch turned further and further. After werden the adjective stays bare, as after sein, or it takes the comparative: Ben wird müde, Ben wird müder (more and more tired). Never an ending like müden. Bare adjective or comparative: those are your two choices.",
      "steps": [
       "Es ist kalt. (how it is now: sein)",
       "Es wird kalt. (it is changing: werden)",
@@ -5284,7 +5310,7 @@
        ]
       }
      },
-     "more": "Werden is a change, like a journey from one place to another. Journeys take sein in the Perfekt: Ich bin nach Köln gefahren. So werden also takes sein: Ich bin müde geworden. A common mistake: Anna hat Tierärztin geworden. That is wrong. Right: Anna ist Tierärztin geworden.",
+     "more": "Werden is a change, and a change is a journey from one state to another. Journeys take sein in the Perfekt: Ich bin nach Köln gefahren. So werden takes sein too: Ich bin müde geworden, I got tired. Say it as a short film: it was light, it is now dark, Es ist dunkel geworden. A common slip is Anna hat Tierärztin geworden. That is wrong. Right: Anna ist Tierärztin geworden. The participle geworden waits at the end.",
      "table": {
       "headers": [
        "present",
@@ -5419,7 +5445,7 @@
        ]
       }
      },
-     "more": "Many of these jobs are easy to guess. Bus + Fahrer = Busfahrer, the bus driver. Bau means building, so a Bauarbeiter works on a building site. Dach means roof, so a Dachdecker works on the roof. Tier means animal, so a Tierarzt is a doctor for animals.",
+     "more": "Many job words are little puzzles. Bus plus Fahrer is the bus driver. Bau means building, Arbeiter means worker. Dach means roof, Decker means covering person. Tier means animal, Arzt means doctor. The first half tells you where or what, the second half tells you who. Guess before you check. Then the female form adds -in, and Arzt gets an Umlaut: die Tierärztin. A Meister has passed the master exam, an Azubi is still learning.",
      "table": {
       "headers": [
        "job",
@@ -5542,7 +5568,7 @@
        ]
       }
      },
-     "more": "Mira: Was möchtest du werden, Leon? Leon: Ich möchte Koch werden. Mira: Und was ist dein Bruder geworden? Leon: Er ist Busfahrer geworden. Look how each answer copies the question: möchtest … werden becomes möchte … werden, ist … geworden stays ist … geworden. Copy the frame and change only the job.",
+     "more": "Treat each answer as an echo of the question. Mira asks: Was möchtest du werden, Leon? Leon echoes the frame: Ich möchte Koch werden. Mira asks: Was ist dein Bruder geworden? Leon echoes again: Er ist Busfahrer geworden. The small verb keeps its place, werden or geworden waits at the end, and only the job is new. Copy the frame, change the job, and you can answer any career question without thinking about the grammar.",
      "steps": [
       "W-question: Was wirst du? / Was ist Anna geworden?",
       "Yes/no question: Wirst du Bäcker?",
@@ -5638,10 +5664,10 @@
      "prompt": "What is a Metzger?",
      "options": [
       "a baker",
-      "a roofer",
-      "a butcher"
+      "a butcher",
+      "a roofer"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "He sells meat and sausage.",
      "explanation": "Der Metzger is the butcher.",
      "grammar": false
@@ -5650,11 +5676,11 @@
      "type": "choice",
      "prompt": "Who works with small children?",
      "options": [
-      "die Erzieherin",
       "der Dachdecker",
-      "der Busfahrer"
+      "der Busfahrer",
+      "die Erzieherin"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "In a Kindergarten.",
      "explanation": "Die Erzieherin works with small children.",
      "grammar": false
@@ -5802,11 +5828,11 @@
      "type": "choice",
      "prompt": "Which job helps sick animals?",
      "options": [
-      "der Tierarzt",
       "der Krankenpfleger",
+      "der Tierarzt",
       "der Bauarbeiter"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Tier = animal.",
      "explanation": "Der Tierarzt helps sick animals.",
      "grammar": false
@@ -6169,7 +6195,7 @@
        "why": "New today: werden + infinitive."
       }
      ],
-     "more": "The new sentence looks like a sentence with a modal. Ich möchte eine Radtour machen. Ich werde eine Radtour machen. Swap möchte for werde and you speak about the future. The bracket is the same one you know: the small verb in position 2, the infinitive at the very end."
+     "more": "The new sentence looks exactly like a sentence with a modal. Ich möchte eine Radtour machen. Ich werde eine Radtour machen. Swap möchte for werde and you speak about the future. The bracket is the one you already know from modals and the Perfekt: the small verb in position 2, the second verb at the very end, and everything else in the middle. Werden only gets one new job today, the future. Nothing else changes."
     },
     {
      "title": "Verein, Chor, Brettspiel: words for free time",
@@ -6280,7 +6306,7 @@
        ]
       }
      },
-     "more": "Picture your week. On Tuesday you go to the Verein and play in a Mannschaft. On Thursday you sing in the Chor. On Saturday you go on a Radtour or a Wanderung. On Sunday evening you play a Brettspiel or a Kartenspiel at home, or you do a Puzzle. These are the words for all of that.",
+     "more": "Picture your week as a calendar. On Tuesday you go to the Verein and play in a Mannschaft. On Thursday you sing in the Chor, perhaps in a Band. On Saturday you go on a Radtour or a Wanderung. On Sunday evening you play a Brettspiel or a Kartenspiel with friends, or you do a Puzzle. Each word is one box in the calendar. Fill your own week with these words, then say it aloud.",
      "table": {
       "headers": [
        "word",
@@ -6407,7 +6433,7 @@
        ]
       }
      },
-     "more": "Look at the last word. A job or an adjective at the end: werden means become. An infinitive with -en at the end: werden means will. A common mistake is to change the infinitive: Ich werde morgen schlafe. That is wrong. Right: Ich werde morgen schlafen. Only werden changes, the infinitive stays as it is in the dictionary.",
+     "more": "Werden is like a chameleon: its colour depends on what stands at the end of the sentence. A job or an adjective at the end, and werden means become: Mira wird müde. An infinitive with -en at the end, and werden means will: Mira wird schlafen. Only werden changes with the person, the infinitive never does. A common slip is Ich werde morgen schlafe. Right: Ich werde morgen schlafen, the infinitive stays as in the dictionary.",
      "table": {
       "headers": [
        "werden + …",
@@ -6534,10 +6560,10 @@
       }
      ],
      "deeper": {
-      "text": "In the present a separable verb splits: Ich rufe dich an. With werden it comes back together at the end: Ich werde dich anrufen. It is the same as with modals and the Perfekt: Ich will dich anrufen. Ich habe dich angerufen. Everything else, the object and the time, goes in the middle of the bracket.",
+      "text": "In the present a separable verb splits: Ich rufe dich an. With werden it comes back together at the end: Ich werde dich anrufen. It works the same way with modals and the Perfekt: Ich will dich anrufen. Ich habe dich angerufen. Everything else, the object and the time, goes into the middle of the bracket. A friend can be named instead of dich: Ben wird Anna vom Bahnhof abholen.",
       "example": {
-       "de": "Ben wird seine Freundin vom Bahnhof abholen.",
-       "en": "Ben will pick up his girlfriend from the station.",
+       "de": "Ben wird Anna vom Bahnhof abholen.",
+       "en": "Ben will pick up Anna from the station.",
        "parts": [
         [
          "Ben",
@@ -6548,12 +6574,8 @@
          "verb"
         ],
         [
-         "seine",
-         "article"
-        ],
-        [
-         "Freundin",
-         "noun"
+         "Anna",
+         "object"
         ],
         [
          "vom",
@@ -6561,7 +6583,7 @@
         ],
         [
          "Bahnhof",
-         "noun"
+         "place"
         ],
         [
          "abholen.",
@@ -6570,7 +6592,7 @@
        ]
       }
      },
-     "more": "Think of the bracket as two hands. The left hand holds werden in position 2. The right hand holds the infinitive at the end. Everything else sits between the hands: dich, morgen, eine Wanderung. A separable verb is never split here: anrufen stays anrufen. So not Ich werde morgen anrufen dich, but Ich werde dich morgen anrufen.",
+     "more": "Think of the bracket as two hands. The left hand holds werden in position 2. The right hand holds the infinitive at the end. Everything else sits between the hands: dich, morgen, eine Wanderung. A separable verb is never split here: anrufen stays anrufen, because the verb is complete at the end. So not Ich werde morgen anrufen dich, but Ich werde dich morgen anrufen. In a question the left hand goes first: Wirst du kommen?",
      "steps": [
       "Subject: Ich",
       "werden in position 2: werde",
@@ -6676,7 +6698,7 @@
        ]
       }
      },
-     "more": "Ask yourself: am I just saying a plan for tomorrow? Then the present + a time word is enough: Am Samstag spiele ich Fußball. Am I promising something or guessing about the future? Then use werden: Ich werde dir helfen. Es wird bestimmt kalt. If you are not sure, both are correct; the present just sounds more relaxed.",
+     "more": "Ask yourself two questions. First: am I just saying a plan for tomorrow? Then the present plus a time word is enough, and it sounds relaxed: Am Samstag spiele ich Fußball. Second: am I promising something or guessing about the future? Then werden fits better: Ich werde dir helfen. Es wird bestimmt kalt. If you are not sure, both are correct. Think of the present as everyday talk and werden as a promise or a weather forecast.",
      "table": {
       "headers": [
        "situation",
@@ -6887,7 +6909,7 @@
        ]
       }
      },
-     "more": "Picture two boxes. The first box is the wenn clause, with its verb at the end: Wenn es regnet. Then the comma. The second box starts with werden: werden wir ein Brettspiel spielen. Two verbs touch at the comma: regnet, werden. That verb, comma, verb pattern is the sign you got the order right.",
+     "more": "Picture two boxes next to each other. The first box is the wenn clause with its verb at the end: Wenn es regnet. Then comes the comma. The second box starts with werden: werden wir ein Brettspiel spielen. Two verbs touch at the comma: regnet, werden. That verb, comma, verb pattern is the sign that you got the order right. If you see a subject right after the comma, the order is wrong.",
      "steps": [
       "Wenn es regnet, (wenn clause: verb at the end)",
       "werden wir (werden right after the comma, then the subject)",
@@ -7039,7 +7061,7 @@
        ]
       }
      },
-     "more": "Anna: Wirst du am Sonntag zum Training kommen? Ben: Ja, ich werde bestimmt kommen. Und danach? Anna: Danach werden wir eine Radtour machen. Ben: Super, das wird bestimmt lustig! See how every future sentence uses the bracket: werden in position 2 (or first in a question), the infinitive at the end.",
+     "more": "Read the little dialogue aloud and notice the bracket in every sentence. Anna: Wirst du am Sonntag zum Training kommen? Ben: Ja, ich werde bestimmt kommen. Und danach? Anna: Danach werden wir eine Radtour machen. Ben: Super, das wird bestimmt lustig! Werden always stands in position 2 (or first in a question), and the infinitive waits at the end. Add your own plan for Sunday in the same frame.",
      "table": {
       "headers": [
        "club",
@@ -7170,11 +7192,11 @@
      "type": "choice",
      "prompt": "Which word means member?",
      "options": [
+      "das Mitglied",
       "die Mannschaft",
-      "der Verein",
-      "das Mitglied"
+      "der Verein"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Mitglied in einem Verein sein.",
      "explanation": "Das Mitglied is a member.",
      "grammar": false
@@ -7311,10 +7333,10 @@
      "prompt": "Where do you do a Wanderung?",
      "options": [
       "at the table",
-      "in a choir",
-      "in nature, on foot"
+      "in nature, on foot",
+      "in a choir"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "You walk for hours.",
      "explanation": "Eine Wanderung: a hike.",
      "grammar": false
@@ -7324,10 +7346,10 @@
      "prompt": "What do you play at the table on a board?",
      "options": [
       "eine Radtour",
-      "eine Band",
-      "ein Brettspiel"
+      "ein Brettspiel",
+      "eine Band"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Brett = board.",
      "explanation": "Ein Brettspiel is a board game.",
      "grammar": false
@@ -7336,11 +7358,11 @@
      "type": "choice",
      "prompt": "Die Mannschaft is …",
      "options": [
+      "a sports team",
       "a club fee",
-      "a card game",
-      "a sports team"
+      "a card game"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You play a sport together.",
      "explanation": "Die Mannschaft is a team.",
      "grammar": false
@@ -7694,7 +7716,7 @@
        "why": "New today: describing your dream job."
       }
      ],
-     "more": "A dream job is a good topic for an exam and for small talk. People ask: Was ist dein Traumjob? You answer with a job, then you describe it with an adjective, and then you say what you will do. Today you learn each of these three steps, one card at a time."
+     "more": "A dream job is a perfect topic for an exam and for small talk. People ask: Was ist dein Traumjob? You answer in three small steps. Step one, name it: Mein Traumjob ist Koch. Step two, describe it with an adjective: Das ist ein kreativer Beruf. Step three, say what you will do: Später werde ich ein eigenes Restaurant haben. Each card today gives you one of the steps, so by the end you can tell your own story."
     },
     {
      "title": "Traumjob, Traum, Zukunft: words for dreams",
@@ -7813,7 +7835,7 @@
        ]
       }
      },
-     "more": "Mein Traumjob ist … works like Ich bin …: the job comes straight after it, with no article. Mein Traumjob ist Koch. Mein Traumjob ist Tierärztin. Karriere machen means to have a career, to go up step by step in your job. It is a fixed phrase, so learn it as one block.",
+     "more": "Mein Traumjob ist … works exactly like Ich bin …: the job comes straight after it, with no article. Mein Traumjob ist Koch. Mein Berufswunsch ist Tierärztin. Karriere machen means to climb step by step in a job, and it is one fixed block, so learn the two words together. Think of Traum as a cloud over the job: Traum plus Job gives Traumjob, and the last word always tells you the gender: der Job, so der Traumjob.",
      "table": {
       "headers": [
        "word",
@@ -7970,7 +7992,7 @@
        ]
       }
      },
-     "more": "Think of two places for an adjective. After sein it stands alone and never changes: Der Beruf ist sinnvoll. Before a noun it needs an ending: ein sinnvoller Beruf. Opposites help you remember: abwechslungsreich is the opposite of langweilig, anspruchsvoll is the opposite of einfach.",
+     "more": "An adjective has two places to live. After sein it stands alone and never changes: Der Beruf ist sinnvoll. In front of a noun it needs an ending: ein sinnvoller Beruf. Pairs of opposites help you remember them: abwechslungsreich against langweilig, anspruchsvoll against einfach, flexibel against fest, sinnvoll against sinnlos. Flexibel is the only one that loses an e before the ending: ein flexibler Job, an easy slip to remember because you also say teuer and teurer.",
      "table": {
       "headers": [
        "adjective",
@@ -8131,7 +8153,7 @@
        ]
       }
      },
-     "more": "A common mistake: Ich möchte ein kreativen Beruf. The ending -en is right, but the article must change too: einen. Both the article and the adjective show the accusative masculine: einen kreativen. If you see -en on the adjective of a der word, check that the article is einen.",
+     "more": "Picture a shopping list for a dream job. After möchte, will or suchen each wish is the thing you want, so it is the object: the accusative. Only the masculine changes: einen kreativen Beruf. Feminine and neuter look like the nominative: eine flexible Arbeitszeit, ein großes Büro. A common mistake is Ich möchte ein kreativen Beruf. The ending -en is right, but the article must change too: einen. The article and the ending travel as a pair.",
      "table": {
       "headers": [
        "",
@@ -8286,7 +8308,7 @@
        ]
       }
      },
-     "more": "Von is a dative preposition, like mit and bei. So after von you meet einem (der and das words) and einer (die words), and the adjective always takes -en. Easy: von einem eigenen Restaurant, von einer eigenen Praxis. The question asks with wovon: Wovon träumst du?",
+     "more": "Von is a dative preposition, just like mit and bei. So after von you always meet einem (for der and das words) or einer (for die words), and the adjective after them always ends in -en. You do not have to think about gender at all: von einem eigenen Restaurant, von einer eigenen Praxis, von einem großen Garten. Ask the question with wovon: Wovon träumst du? Imagine a cloud over your head with the dream inside, and von opens the cloud.",
      "table": {
       "headers": [
        "träumen von + dative",
@@ -8473,7 +8495,7 @@
        ]
       }
      },
-     "more": "The time word takes position 1, so werden comes next and then the subject. That is inversion, like Heute gehe ich ins Kino. A common mistake: Später ich werde Koch sein. That is wrong, because werden must be in position 2. Right: Später werde ich Koch sein.",
+     "more": "Think of the sentence as a train with fixed seats. Seat one is for anything you like, here the time word: Später. Seat two always belongs to werden: werde. Seat three is the subject: ich. The infinitive travels in the last carriage: haben or sein. A common mistake is Später ich werde Koch sein: the subject has taken seat two. Right: Später werde ich Koch sein. The same train works with In zehn Jahren.",
      "steps": [
       "Position 1: the time word (Später / In zehn Jahren)",
       "Position 2: werden (werde / wird)",
@@ -8586,11 +8608,19 @@
       }
      ],
      "deeper": {
-      "text": "The four sentences use three cases. Hat einen anstrengenden Tag is accusative, in einer großen Küche is dative, ist ein abwechslungsreicher Beruf is nominative. In the last sentence ihn stands for der Beruf: Ich finde ihn spannend. For a die word use sie: Die Arbeit? Ich finde sie sinnvoll.",
+      "text": "The four sentences use three cases. Hat einen anstrengenden Tag is accusative, in einer großen Küche is dative, ist ein abwechslungsreicher Beruf is nominative. In the last sentence ihn stands for der Beruf. For a die word you say sie, for a das word es: Die Arbeit? Ich finde sie sinnvoll. Das Team? Ich finde es nett. So the opinion sentence always needs the right small word.",
       "example": {
-       "de": "Ich finde ihn spannend.",
-       "en": "I find it exciting.",
+       "de": "Die Arbeit? Ich finde sie sinnvoll.",
+       "en": "The work? I find it meaningful.",
        "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Arbeit?",
+         "noun"
+        ],
         [
          "Ich",
          "subject"
@@ -8600,17 +8630,17 @@
          "verb"
         ],
         [
-         "ihn",
+         "sie",
          "object"
         ],
         [
-         "spannend.",
+         "sinnvoll.",
          "adjective"
         ]
        ]
       }
      },
-     "more": "Use the pattern like a recipe. Step 1: what the day is like. Step 2: where the person works. Step 3: what kind of job it is. Step 4: what you think. Change the job and the adjectives, keep the steps: Eine Erzieherin hat einen langen Tag. Sie arbeitet in einem kleinen Kindergarten. Das ist ein sinnvoller Beruf. Ich finde ihn schön.",
+     "more": "Use the four sentences like a recipe card for any job. Step one, the day: what is it like? Step two, the place: where does the person work? Step three, the kind of job: Das ist ein … Beruf. Step four, your opinion: Ich finde ihn …. Change the job and the adjectives, keep the steps: Eine Erzieherin hat einen langen Tag. Sie arbeitet in einem kleinen Kindergarten. Das ist ein sinnvoller Beruf. Ich finde ihn schön.",
      "steps": [
       "1. The day: Ein Koch hat einen anstrengenden Tag.",
       "2. The place: Er arbeitet in einer großen Küche.",
@@ -8714,11 +8744,11 @@
      "type": "choice",
      "prompt": "What does abwechslungsreich mean?",
      "options": [
+      "varied",
       "demanding",
-      "boring",
-      "varied"
+      "boring"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The opposite of langweilig.",
      "explanation": "Abwechslungsreich means varied.",
      "grammar": false
@@ -9235,7 +9265,7 @@
        "why": "New today: questions at the van."
       }
      ],
-     "more": "Nothing here is new grammar. You use the same ein-endings as for jobs and the same werden as for plans. Only the words are new: now the noun is a van, an engine or a brake. So: ein neuer Job, ein alter Lieferwagen. Same ending, new thing."
+     "more": "Nothing here is new grammar, and that is good news. You use the same ein-endings as for jobs and the same werden as for plans. Only the nouns are new: the noun is now a van, an engine or a brake. Say it aloud and hear how little changes: ein neuer Job, ein alter Lieferwagen. Same ending, new thing. Treat the lesson like a photo of Herr Ali's van: each part gets one adjective, and the ending follows its gender."
     },
     {
      "title": "Fahrzeug, Motor, Bremse: the parts of a vehicle",
@@ -9358,7 +9388,7 @@
        ]
       }
      },
-     "more": "Think of what each part does. Der Motor: the van goes. Die Bremse: the van stops. Das Lenkrad: the van turns left or right. Der Kofferraum: your bags go in there. Das Fahrzeug is the word for the whole thing. Learn each noun with der, die or das, because you need the gender for the endings in the next card.",
+     "more": "Link every part to what it does and picture it. Der Motor hums: the van goes. Die Bremse squeaks: the van stops. Das Lenkrad turns: the van goes left or right. Der Kofferraum is a big mouth: your bags go in. Das Fahrzeug is the word for the whole thing. Learn each noun with der, die or das, because you need the gender for the endings on the next card. Say the three words fast: der Motor, die Bremse, das Lenkrad.",
      "table": {
       "headers": [
        "Part",
@@ -9531,7 +9561,7 @@
        ]
       }
      },
-     "more": "Ask two questions. Who or what is it: der, die or das? And what is its job in the sentence: subject, object, or after a dative word like in or mit? Ein Motor is loud (subject: -er). The van has einen Motor (object: -en). We drive in einem Lieferwagen (dative: -en). The ending follows the job.",
+     "more": "Ask two small questions about every group. First: is the noun der, die or das? Second: what job does it do in the sentence, subject, object or after a dative word like in or mit? Ein Motor is loud (subject, masculine: -er). The van has einen Motor (object: -en). We drive in einem Lieferwagen (dative: -en). The ending follows the job. It is the same machine as for jobs, only the nouns are parts of a van.",
      "table": {
       "headers": [
        "",
@@ -9666,7 +9696,7 @@
        ]
       }
      },
-     "more": "A question with a question word is like a normal sentence: the verb is in position 2. Only the question word takes position 1. So it is Wann fahren wir?, never Wann wir fahren? Wir fahren is the word order of a statement. If you start with Wann, the verb comes right after it.",
+     "more": "A question with a question word is built like a normal sentence: the verb stays in position 2. Only the question word moves into position 1. So it is Wann fahren wir? and Wohin fahren wir? Wir fahren is the order of a statement, and the question word just joins the front. Think of it as a train again: the question word is the engine, the verb is the first carriage, then the subject. Never Wann wir fahren, which is the order of a clause with weil.",
      "table": {
       "headers": [
        "Question",
@@ -9789,7 +9819,7 @@
        ]
       }
      },
-     "more": "There are three ways to say the same thing. Halt hier! is for a friend. Halten Sie hier! is for an adult you say Sie to, and it is still quite strong. Könnten Sie bitte hier halten? is the softest. A driving instructor uses the Sie-command. A passenger asking a taxi driver uses the könnte form.",
+     "more": "There are three ways to say the same thing, from hard to soft. Halt hier! is for a friend. Halten Sie hier! is for an adult you call Sie, and it is quite strong. Könnten Sie bitte hier halten? is the softest. Think of it as three volume levels. A driving instructor uses the middle one, a passenger asking a taxi driver uses the quiet one. With a separable verb the prefix still goes to the end: Steigen Sie ein.",
      "table": {
       "headers": [
        "du (friend)",
@@ -9916,7 +9946,7 @@
        ]
       }
      },
-     "more": "Tanken is like kaufen: no change in the stem, ge- and -t in the Perfekt. Getankt, gekauft. With a modal verb like müssen or können, tanken stands at the very end: Wir müssen tanken. Wir können später tanken. The check list is in the steps: go from the engine to the steering wheel, one part at a time.",
+     "more": "Tanken is like kaufen: no change in the stem, and ge- and -t in the Perfekt: getankt, gekauft. With a modal like müssen or können, tanken stands at the very end: Wir müssen tanken. Wir können später tanken. The check list is a small walk around the van, in four steps: engine, brake, boot, steering wheel. Say each one as a question and answer with gut or kaputt. Last stop, the petrol station: Wir müssen noch tanken.",
      "steps": [
       "Motor: Ist der Motor zu laut?",
       "Bremse: Ist die Bremse gut?",
@@ -10010,7 +10040,7 @@
       }
      ],
      "deeper": {
-      "text": "In Germany the Führerschein is expensive and you need many Fahrstunden, so a Schnupperkurs helps you decide. Schnuppern means to sniff: you try something a little. A driving instructor always says Sie to an adult, and you say Sie back. For a woman it is die Fahrlehrerin.",
+      "text": "In Germany the Führerschein is expensive and you need many Fahrstunden, so a Schnupperkurs helps you decide. Schnuppern means to sniff: you try something a little before you commit. A driving instructor always says Sie to an adult, and you say Sie back. For a woman it is die Fahrlehrerin. The first lesson usually starts with a simple check: Sitz, Lenkrad, Bremse, then the engine.",
       "example": {
        "de": "Ben wird nächste Woche eine Fahrstunde machen.",
        "en": "Ben will have a driving lesson next week.",
@@ -10025,7 +10055,7 @@
         ],
         [
          "nächste",
-         "other"
+         "time"
         ],
         [
          "Woche",
@@ -10046,7 +10076,7 @@
        ]
       }
      },
-     "more": "Here is the whole scene. Fahrlehrer: Guten Tag. Steigen Sie bitte ein. Ben: Danke. Wann fahren wir? Fahrlehrer: In zehn Minuten. Zuerst zeige ich Ihnen das Lenkrad und die Bremse. Ben: Okay. Fahrlehrer: So, fahren Sie langsam. Halten Sie hier bitte. Sehr gut! Ben: Das war ein toller Schnupperkurs!",
+     "more": "Here is the whole scene, as a short play. Fahrlehrer: Guten Tag. Steigen Sie bitte ein. Ben: Danke. Wann fahren wir? Fahrlehrer: In zehn Minuten. Zuerst erkläre ich das Lenkrad und die Bremse. Ben: Okay. Fahrlehrer: So, fahren Sie jetzt langsam. Halten Sie hier bitte. Sehr gut! Ben: Das war ein toller Schnupperkurs! Read the parts aloud, once as Ben and once as the instructor, and notice every command with Sie.",
      "table": {
       "headers": [
        "Who",
@@ -10693,7 +10723,7 @@
        "why": "New today: ein + adjective inside a text."
       }
      ],
-     "more": "Werden + adjective says that something changes: Es wird kalt. Put the comparative instead and you say it changes more and more: Es wird kälter. That is all the new grammar. The rest of the lesson is reading: you find facts in a text about work, step by step."
+     "more": "Werden plus an adjective says that something changes: Es wird kalt. Put the comparative in its place and you say that it changes more and more: Es wird kälter. That is all the new grammar today, and you already know both pieces. Everything else is reading. Think of a thermometer: Es ist kalt is one reading, Es wird kälter is the line going down. In this lesson you read a short text about work and watch for lines going up or down."
     },
     {
      "title": "Homeoffice, Gleitzeit, Videokonferenz: words of modern work",
@@ -10804,7 +10834,7 @@
        ]
       }
      },
-     "more": "Learn the words in pairs. Im Homeoffice arbeiten and ins Büro fahren: two places to work. Gleitzeit and a fixed start at eight: free or fixed times. Videokonferenz and Besprechung: on the screen or in a room. Arbeitnehmer and Arbeitgeber: the worker and the company. Digitalisierung is the reason for many of these changes.",
+     "more": "Learn the words in pairs, like two sides of a coin. Im Homeoffice arbeiten and ins Büro fahren: two places to work. Gleitzeit and a fixed start at eight: free or fixed times. Videokonferenz and Besprechung: on the screen or in a room. Arbeitnehmer and Arbeitgeber: the worker and the company. Die Digitalisierung is the engine behind many of these changes, and die Arbeitswelt is the whole picture. Say each pair aloud, and you will hear the topic.",
      "table": {
       "headers": [
        "Word",
@@ -10951,7 +10981,7 @@
        ]
       }
      },
-     "more": "Think of a line that goes up. Es ist kalt is one point. Es wird kalt: the line starts to go down. Es wird kälter: it goes down more and more. The comparative shows the more and more. And remember: no ending after werden. It is Das Büro wird kleiner, never kleinen or kleine.",
+     "more": "Draw a line that goes up. Es ist kalt is one point on the line. Es wird kalt means the line starts to move. Es wird kälter means it keeps moving, more and more. The comparative gives you the more and more. And remember: no ending after werden. It is Das Büro wird kleiner, never kleinen or kleine. Use it with the words früher, heute and in Zukunft, and you can describe a whole change in one breath.",
      "table": {
       "headers": [
        "Now (sein)",
@@ -11070,7 +11100,7 @@
       }
      ],
      "deeper": {
-      "text": "Numbers are the easiest facts. In the text below look for 40 %, 70 % and 20 %, and ask what each number belongs to. In a dass-clause werden goes to the end: Die Büros werden kleiner becomes …, dass die Büros kleiner werden. Immer mehr means more and more: immer mehr Arbeitnehmer.",
+      "text": "Numbers are the easiest facts, so start with them. In the table look for 40 %, 70 % and 20 %, and ask what each number belongs to. In a dass-clause werden goes to the end: Die Büros werden kleiner becomes …, dass die Büros kleiner werden. Immer mehr means more and more: immer mehr Arbeitnehmer. A word like nur (only) often shows the small number.",
       "example": {
        "de": "Der Text sagt, dass die Arbeit flexibler wird.",
        "en": "The text says that work is getting more flexible.",
@@ -11110,13 +11140,45 @@
        ]
       }
      },
-     "more": "Here is the text: Arbeiten heute. Immer mehr Arbeitnehmer arbeiten im Homeoffice. Eine Studie zeigt, dass 40 % von zu Hause arbeiten, zwei oder drei Tage pro Woche. Viele haben Gleitzeit: Sie beginnen um sieben oder um zehn Uhr. Die Büros werden kleiner, aber die Videokonferenzen werden länger. 70 % finden, dass ein flexibler Arbeitstag wichtig ist. Nur 20 % möchten jeden Tag ins Büro fahren. Step 1: the title is Arbeiten heute, the numbers are 40, 70 and 20. Step 2: who? Arbeitnehmer. Where? Im Homeoffice. Step 3: key words Homeoffice, Gleitzeit, Videokonferenz. Step 4: Der Text sagt, dass immer mehr Menschen von zu Hause arbeiten. In the Das Büro wird kleinen mistake the ending is wrong: say Das Büro wird kleiner.",
+     "more": "Imagine you are a detective with a magnifying glass. First you look at the clues that jump out: the title and the numbers. Then you find the people and the places: Arbeitnehmer, Homeoffice, Gleitzeit. Then you underline the key words. At the end you tell the case in your own words: Der Text sagt, dass … You never have to understand every word, just enough to answer who, what, how many.",
      "steps": [
       "Read the title and the numbers: Arbeiten heute, 40 %, 70 %, 20 %.",
       "Find who, what and where: Arbeitnehmer, Homeoffice, Gleitzeit.",
       "Mark the key words.",
       "Say it in your own words: Der Text sagt, dass …"
-     ]
+     ],
+     "table": {
+      "headers": [
+       "Line in the text",
+       "What you find"
+      ],
+      "rows": [
+       [
+        "Arbeiten heute",
+        "the title: the topic"
+       ],
+       [
+        "Eine Studie zeigt, dass 40 % von zu Hause arbeiten.",
+        "a number and who it belongs to"
+       ],
+       [
+        "Viele haben Gleitzeit.",
+        "a key word: Gleitzeit"
+       ],
+       [
+        "Die Büros werden kleiner.",
+        "a change: werden + comparative"
+       ],
+       [
+        "70 % finden, dass ein flexibler Arbeitstag wichtig ist.",
+        "a number with an opinion"
+       ],
+       [
+        "Nur 20 % möchten jeden Tag ins Büro fahren.",
+        "the small number: the contrast"
+       ]
+      ]
+     }
     },
     {
      "title": "Eine Studie zeigt, dass …: surveys and results",
@@ -11259,7 +11321,7 @@
        ]
       }
      },
-     "more": "An Umfrage asks: Wo arbeiten Sie am liebsten? The answers come as numbers: im Büro 20 %, im Homeoffice 40 %, im Büro und zu Hause 40 %. That is the Ergebnis. When you report it, use zeigt or sagt and then dass. The verb of the dass-clause goes to the very end, as you know from chapter 3.",
+     "more": "An Umfrage asks many people the same question: Wo arbeiten Sie am liebsten? The answers come back as numbers: im Büro 20 %, im Homeoffice 40 %, in the office and at home 40 %. That pile of numbers is the Ergebnis. When you report it, use zeigt or sagt and then dass, and the verb of the dass-clause goes to the very end: Eine Studie zeigt, dass viele von zu Hause arbeiten. Eine Studie is a bigger piece of research than eine Umfrage.",
      "table": {
       "headers": [
        "Question in the survey",
@@ -11430,7 +11492,7 @@
        ]
       }
      },
-     "more": "A quick test: could you find this sentence in the text? Then it is a fact, and you start with Der Text sagt or Die Studie zeigt. Is it what you think? Then it is an opinion, and you start with Ich finde or Meiner Meinung nach. Good readers keep the two apart.",
+     "more": "Use a quick test for any sentence: could you find it in the text? Then it is a fact, and you start with Der Text sagt or Die Studie zeigt. Is it what you think? Then it is an opinion, and you start with Ich finde or Meiner Meinung nach. Imagine a judge and a witness. The text is the witness, you are the judge. Good readers keep the two apart and say clearly who is speaking, the text or me.",
      "table": {
       "headers": [
        "Fact (from the text)",
@@ -11573,26 +11635,22 @@
       }
      ],
      "deeper": {
-      "text": "In keine lange Fahrt the article keine is feminine accusative, so the adjective takes -e, like eine lange Fahrt. Man is useful in these texts: it means people in general. It takes the er-form of the verb: man hat, man arbeitet. Für viele Arbeitnehmer ist das Homeoffice ein großer Vorteil.",
+      "text": "In keine lange Fahrt the article keine is feminine accusative, so the adjective takes -e, like eine lange Fahrt. Man is useful in these texts: it means people in general, and it takes the er-form of the verb: man hat, man arbeitet. Good opinion sentences use the same bracket: Ich finde, dass das Homeoffice mehr Vorteile hat. Add one reason and one example, and you have a full answer.",
       "example": {
-       "de": "Für viele Arbeitnehmer ist das Homeoffice ein großer Vorteil.",
-       "en": "For many employees working from home is a big advantage.",
+       "de": "Ich finde, dass das Homeoffice mehr Vorteile hat.",
+       "en": "I think that working from home has more advantages.",
        "parts": [
         [
-         "Für",
-         "preposition"
+         "Ich",
+         "subject"
         ],
         [
-         "viele",
-         "other"
-        ],
-        [
-         "Arbeitnehmer",
-         "noun"
-        ],
-        [
-         "ist",
+         "finde,",
          "verb"
+        ],
+        [
+         "dass",
+         "conjunction"
         ],
         [
          "das",
@@ -11600,28 +11658,24 @@
         ],
         [
          "Homeoffice",
-         "subject"
-        ],
-        [
-         "ein",
-         "article"
-        ],
-        [
-         "groß",
-         "adjective"
-        ],
-        [
-         "er",
-         "ending"
-        ],
-        [
-         "Vorteil.",
          "noun"
+        ],
+        [
+         "mehr",
+         "other"
+        ],
+        [
+         "Vorteile",
+         "noun"
+        ],
+        [
+         "hat.",
+         "verbend"
         ]
        ]
       }
      },
-     "more": "Make two lists. Vorteile: no long journey, more time for the family, a flexible day. Nachteile: you work alone, you see your team only on the screen, you often work in the evening too. Then choose: Ich finde, dass das Homeoffice mehr Vorteile hat. That is a full opinion in one sentence.",
+     "more": "Make two lists, like the two pans of a scale. Vorteile: no long journey, more time for the family, a flexible day. Nachteile: you work alone, you see your team only on the screen, you often work in the evening too. Then look at the scale and decide: Ich finde, dass das Homeoffice mehr Vorteile hat. That is a full opinion in one sentence, with a reason behind it. Use the same two lists for any change in the working world.",
      "table": {
       "headers": [
        "Vorteile",
@@ -11646,7 +11700,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:kBYvf6cIyX4"
+     "yt:kBYvf6cIyX4",
+     "yt:4vriPwOPpSg"
     ],
     "nicosWeg": [
      "nw:b1-03"
@@ -11740,11 +11795,11 @@
      "type": "choice",
      "prompt": "Which one is an opinion?",
      "options": [
-      "Ich finde, dass Gleitzeit gut ist.",
       "Der Text sagt, dass 40 % zu Hause arbeiten.",
-      "Die Studie zeigt, dass die Büros kleiner werden."
+      "Die Studie zeigt, dass die Büros kleiner werden.",
+      "Ich finde, dass Gleitzeit gut ist."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Whose idea is it?",
      "explanation": "Ich finde … is an opinion.",
      "grammar": false
@@ -11861,11 +11916,11 @@
      "type": "choice",
      "prompt": "In the text: 40 % arbeiten von zu Hause. How do you say 40 %?",
      "options": [
-      "vierzig Prozent",
       "vierzehn Prozent",
-      "vier Prozent"
+      "vier Prozent",
+      "vierzig Prozent"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Vierzig = 40.",
      "explanation": "Vierzig Prozent.",
      "grammar": false
@@ -12276,7 +12331,7 @@
        "why": "New today: asking for the person."
       }
      ],
-     "more": "A phone call is harder than a talk face to face: you cannot see the other person and you cannot point. That is why a fixed plan helps. Every work call has the same five steps, and each step has two or three phrases. Learn the phrases as blocks, and the call almost runs by itself."
+     "more": "A phone call is harder than a talk face to face: you cannot see the other person and you cannot point at anything. That is why a fixed plan helps. Every work call has the same five steps, and each step has two or three phrases: open, ask for the person, leave a message, spell and repeat, close. Learn the phrases as blocks, like bricks, and the call almost builds itself. Mira at the reception has used these bricks a hundred times."
     },
     {
      "title": "Verbinden, ausrichten, besetzt: words for the phone",
@@ -12375,7 +12430,7 @@
        ]
       }
      },
-     "more": "Sort the words by what they do. Words for the person: verbinden (put through), erreichen (reach), zurückrufen (call back), ausrichten (pass on). Words for the line: besetzt, die Leitung, der Hörer. Words for numbers: die Vorwahl and die Durchwahl. And das Alphabet helps you spell a name.",
+     "more": "Sort the words by what they do. Words for the person: verbinden (put through), erreichen (reach), zurückrufen (call back), ausrichten (pass on). Words for the line: besetzt, die Leitung, der Hörer. Words for numbers: die Vorwahl, the code in front, and die Durchwahl, the short number at the end that reaches one desk. Imagine a telephone exchange from an old film: the line is busy, the caller waits, and the secretary puts the call through.",
      "table": {
       "headers": [
        "Word",
@@ -12514,7 +12569,7 @@
        ]
       }
      },
-     "more": "Telefonieren am Arbeitsplatz: be short and clear. Say who you are in the first sentence. A friend says Hallo! Wer ist da? At work you say: Firma, Name, Gruß. The caller answers the same way: Gruß, then Name. Write down the name at once, because you will need it later in the call.",
+     "more": "At work be short and clear. Say who you are in the first sentence, because the caller cannot see you. A friend says Hallo! Wer ist da? At work you say three things in this order: firm, name, greeting. Zum Löwen, Mira am Apparat, guten Tag. The caller answers in the same style: greeting, then name. Write the name down at once, because you need it later in the call. Think of it as a business card that you read aloud.",
      "table": {
       "headers": [
        "Who",
@@ -12640,7 +12695,7 @@
        ]
       }
      },
-     "more": "Three requests, from simple to polite: Kann ich mit … sprechen? Könnten Sie mich mit … verbinden? Ich hätte gern … Choose one and learn it well. And listen for the three answers: Einen Moment means wait. Er ist nicht da means leave a message (step 3). Besetzt means call again later.",
+     "more": "Here are three requests, from simple to polite: Kann ich mit … sprechen? Ich hätte gern … Könnten Sie mich mit … verbinden? Choose one and learn it well, like your favourite phrase. Then listen for the three typical answers. Einen Moment means wait. Er ist nicht da means leave a message, which is step 3. Besetzt means try again later. If you know your three requests and your three answers, you are never lost on the phone.",
      "table": {
       "headers": [
        "Request",
@@ -12753,37 +12808,29 @@
      "deeper": {
       "text": "For a woman use ihr: Könnten Sie ihr bitte etwas ausrichten? Werden + infinitive is a promise for later: Ich werde Sie zurückrufen. The present with a time word says the same: Er ruft Sie morgen zurück. A good message has three parts: who called, what it is about, and the number.",
       "example": {
-       "de": "Frau Weber braucht den alten Lieferwagen.",
-       "en": "Frau Weber needs the old van.",
+       "de": "Frau Weber hat gestern angerufen.",
+       "en": "Frau Weber called yesterday.",
        "parts": [
         [
          "Frau Weber",
          "subject"
         ],
         [
-         "braucht",
+         "hat",
          "verb"
         ],
         [
-         "den",
-         "article"
+         "gestern",
+         "time"
         ],
         [
-         "alt",
-         "adjective"
-        ],
-        [
-         "en",
-         "ending"
-        ],
-        [
-         "Lieferwagen.",
-         "noun"
+         "angerufen.",
+         "verb2"
         ]
        ]
       }
      },
-     "more": "Ihm and ihr are the dative pronouns you know from A1: Ich gebe ihm das Buch. Here you give him a message. The two ways out: either the caller calls again (Ich werde später noch einmal anrufen) or the other person calls back (Er ruft Sie zurück). Then you need the number, and that is step 4.",
+     "more": "Ihm and ihr are the dative pronouns you know from A1: Ich gebe ihm das Buch. Here you give a message to him, or to her. You have two ways out when the person is not there. Either you call again (Ich werde später noch einmal anrufen) or the other person calls back (Er ruft Sie zurück). In both cases the verb has a prefix that jumps to the end. Then you need the number, and that is step 4: spell and repeat.",
      "table": {
       "headers": [
        "Situation",
@@ -12910,14 +12957,53 @@
        ]
       }
      },
-     "more": "Many offices use spelling words to avoid mistakes: A wie Anton, B wie Berta, C wie Cäsar, D wie Dora, E wie Emil, F wie Friedrich. So Weber is W wie Wilhelm, E wie Emil, B wie Berta, E wie Emil, R wie Richard. Repeat the number at the end with Ich wiederhole: … The caller says Ja, richtig or corrects you.",
+     "more": "Many offices use spelling words so that nothing is misheard: A wie Anton, B wie Berta, C wie Cäsar, D wie Dora, E wie Emil, F wie Friedrich. Weber is W wie Wilhelm, E wie Emil, B wie Berta, E wie Emil, R wie Richard. Then repeat the number back with Ich wiederhole: … and the caller says Richtig, or corrects you. Think of the alphabet as a set of little pictures: a letter plus a name, like a postcard.",
      "steps": [
       "Open: Firma, Name, guten Tag.",
       "Ask for the person: Könnten Sie mich bitte mit … verbinden?",
       "Leave a message: Könnten Sie ihm bitte etwas ausrichten?",
       "Spell and repeat: Das schreibt man … Ich wiederhole: …",
       "Close: Vielen Dank. Auf Wiederhören!"
-     ]
+     ],
+     "table": {
+      "headers": [
+       "Letter",
+       "Say it like",
+       "Spelling word"
+      ],
+      "rows": [
+       [
+        "J",
+        "jot",
+        "J wie Julius"
+       ],
+       [
+        "V",
+        "fau",
+        "V wie Viktor"
+       ],
+       [
+        "W",
+        "we",
+        "W wie Wilhelm"
+       ],
+       [
+        "Y",
+        "üpsilon",
+        "Y wie Ypsilon"
+       ],
+       [
+        "Z",
+        "zett",
+        "Z wie Zacharias"
+       ],
+       [
+        "ß",
+        "Eszett",
+        "scharfes S"
+       ]
+      ]
+     }
     },
     {
      "title": "Step 5: close the call, and a whole call",
@@ -12992,7 +13078,7 @@
       }
      ],
      "deeper": {
-      "text": "Mira writes the message as short sentences: Anruf von Frau Weber. Sie braucht morgen den alten Lieferwagen. Bitte zurückrufen: 030 4521. The infinitive bitte zurückrufen is a short command, typical for notes. Herr Ali reads it and calls back.",
+      "text": "Mira writes the message as short sentences, as people do on a note: Anruf von Frau Weber. Sie braucht morgen den alten Lieferwagen. Bitte zurückrufen: 030 4521. The infinitive bitte zurückrufen is a short command that is typical for notes. Herr Ali reads it and calls back. Notes are short because the reader knows the situation, so you only write the facts.",
       "example": {
        "de": "Herr Ali, bitte rufen Sie Frau Weber zurück.",
        "en": "Herr Ali, please call Frau Weber back.",
@@ -13063,7 +13149,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:96wZCup1-Ws"
+     "yt:96wZCup1-Ws",
+     "yt:onGGS27eUGA"
     ],
     "nicosWeg": [
      "nw:a2-51"
@@ -13995,7 +14082,7 @@
    "day": 2,
    "reading": {
     "title": "Leons Plan",
-    "text": "Hallo, ich bin Leon. Ich arbeite als Kellner im Restaurant „Zum Löwen“. Die Arbeit ist anstrengend, aber ich habe ein nettes Team. Mein Traumjob ist aber Koch.\nGestern habe ich mit Herrn Ali gesprochen. Er hat gesagt: „Du wirst bestimmt ein guter Koch!“ Nächsten Monat werde ich einen Kochkurs machen. Der Kurs dauert ein halbes Jahr. Danach werde ich am Wochenende in der Küche helfen. Mein Bruder ist auch Koch geworden, und er findet seinen Beruf sehr sinnvoll.\nIn zehn Jahren werde ich ein eigenes Restaurant haben. Es wird ein kleines Restaurant mit einer großen Küche sein. Ich träume von einer kreativen Speisekarte mit Gerichten aus vielen Ländern. Mira sagt: „Das wird bestimmt lecker!“ Ich bin schon jetzt sehr gespannt auf die Zukunft.",
+    "text": "Hallo, ich bin Leon. Ich arbeite als Kellner im Restaurant „Zum Löwen“. Die Arbeit ist anstrengend, aber ich habe ein nettes Team. Mein Traumjob ist aber Koch.\nGestern habe ich mit Herrn Ali gesprochen. Er hat gesagt: „Du wirst bestimmt ein guter Koch!“ Nächsten Monat werde ich einen Kochkurs machen. Der Kurs dauert ein halbes Jahr. Danach werde ich am Wochenende in der Küche helfen. Mein Bruder ist Busfahrer geworden, und er findet seinen Beruf sehr interessant.\nIn zehn Jahren werde ich ein eigenes Restaurant haben. Es wird ein kleines Restaurant mit einer großen Küche sein. Ich träume von einer kreativen Speisekarte mit Gerichten aus vielen Ländern. Mira sagt: „Das wird bestimmt lecker!“ Ich bin schon jetzt sehr gespannt auf die Zukunft.",
     "glossary": [
      {
       "de": "der Kochkurs",
@@ -14096,12 +14183,12 @@
       "prompt": "What has Leon's brother become?",
       "options": [
        "a waiter",
-       "a baker",
+       "a bus driver",
        "a cook"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for geworden.",
-      "explanation": "Mein Bruder ist auch Koch geworden."
+      "explanation": "Mein Bruder ist Busfahrer geworden."
      },
      {
       "type": "choice",
@@ -14816,7 +14903,7 @@
     "free": {
      "prompt": "Eine Nachricht für Herrn Ali: you took a phone call for Herr Ali. Write 6 to 8 sentences: who called, what the person needs (the van), a plan with werden, two ein + adjective groups, and one polite request with könnte.",
      "minWords": 40,
-     "model": "Eine Nachricht für Herrn Ali\n\nHerr Ali, heute um zehn hat Frau Weber angerufen. Sie braucht am Samstag den Lieferwagen. Sie hat einen großen Schrank und nur ein kleines Auto. Sie wird morgen noch einmal anrufen. Ihre Nummer ist 030 4521. Könnten Sie sie bitte heute Abend zurückrufen? Das ist ein wichtiger Anruf. Viele Grüße\nMira",
+     "model": "Eine Nachricht für Herrn Ali\n\nLieber Herr Ali,\nheute um zehn hat Frau Weber angerufen. Sie braucht am Samstag den Lieferwagen. Sie hat einen großen Schrank und nur ein kleines Auto. Sie wird morgen noch einmal anrufen. Ihre Nummer ist 030 4521. Könnten Sie sie bitte heute Abend zurückrufen? Das ist ein wichtiger Anruf. Viele Grüße\nMira",
      "checks": [
       {
        "label": "has an ein + adjective group",
