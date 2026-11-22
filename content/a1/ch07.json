@@ -223,6 +223,12 @@
         "die",
         "die Firmen",
         "company"
+       ],
+       [
+        "Kopie",
+        "die",
+        "die Kopien",
+        "copy"
        ]
       ]
      },
@@ -935,7 +941,7 @@
      "more": "aber is the word for a surprise turn. You expect one thing, then something else comes. I am tired... so I sleep? No: aber I have to work. Step 1: say sentence one. Step 2: comma and aber. Step 3: say sentence two exactly as it would be alone. The most common mistake is to put the verb right after aber. Do not: aber is only the doorway. Extra example: Die Firma ist klein, aber sie ist gut. = The company is small, but it is good.",
      "lead": "Oder gives a choice. On this card: aber, the word for but, so you can say something is different from what you expect, like being tired but still working.",
      "deeper": {
-      "text": "German writes a comma between almost every pair of sentences, where English often skips it. The comma is a written signal: a new sentence begins. When you speak, you hear it as a tiny pause before aber. So for aber the comma is never optional.",
+      "text": "Before und and oder the comma is your choice, but before aber it is required. aber starts a contrast, and the comma marks the turn: a new sentence begins. When you speak, you hear it as a tiny pause before aber. English often skips this comma, German never does.",
       "example": {
        "de": "Anna ist müde, aber sie arbeitet.",
        "en": "Anna is tired, but she is working.",
@@ -1076,6 +1082,41 @@
          "other"
         ]
        ]
+      },
+      {
+       "de": "Ich kopiere die Liste und drucke sie.",
+       "en": "I copy the list and print it.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "kopiere",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Liste",
+         "object"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "drucke",
+         "verb"
+        ],
+        [
+         "sie.",
+         "object"
+        ]
+       ],
+       "why": "kopieren: ich kopiere. Same subject, so no second ich."
       }
      ],
      "table": {
@@ -3593,6 +3634,41 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Wir machen das Projekt mit dem Team.",
+       "en": "We are doing the project with the team.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "machen",
+         "verb"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Projekt",
+         "object"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "dem",
+         "dative"
+        ],
+        [
+         "Team.",
+         "noun"
+        ]
+       ],
+       "why": "das Projekt, das Team → mit dem Team."
       }
      ],
      "table": {
@@ -4123,6 +4199,45 @@
          "place"
         ]
        ]
+      },
+      {
+       "de": "Mit wem arbeitest du zusammen? – Mit der Mitarbeiterin.",
+       "en": "Who do you work together with? – With the (female) employee.",
+       "parts": [
+        [
+         "Mit wem",
+         "question"
+        ],
+        [
+         "arbeitest",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "zusammen?",
+         "verb2"
+        ],
+        [
+         "–",
+         "other"
+        ],
+        [
+         "Mit",
+         "preposition"
+        ],
+        [
+         "der",
+         "dative"
+        ],
+        [
+         "Mitarbeiterin.",
+         "noun"
+        ]
+       ],
+       "why": "zusammenarbeiten splits: zusammen goes to the end. die Mitarbeiterin → mit der."
       }
      ],
      "steps": [
@@ -4195,7 +4310,7 @@
       "der"
      ],
      "answer": 2,
-     "hint": "After mit, die becomes the trap word.",
+     "hint": "After mit, a die-word changes its article. Think of the feminine card.",
      "explanation": "mit der U-Bahn.",
      "grammar": true
     },
@@ -4407,7 +4522,7 @@
      "answers": [
       "den"
      ],
-     "hint": "Plural: d + en.",
+     "hint": "Plural: the same little word as the masculine accusative.",
      "explanation": "dem, der, dem, den.",
      "grammar": true
     },
@@ -5154,7 +5269,7 @@
       "the noun adds -n: Freunde → Freunden",
       "= mit meinen Freunden"
      ],
-     "more": "The plural dative always has two signals: -en on the little word and -n on the noun. Step 1: make the plural: meine Kinder. Step 2: meine becomes meinen. Step 3: check the noun. Does it end in -n or -s already? Then stop. If not, add -n: Kindern. Extra example: Anna spricht mit ihren Eltern. = Anna talks to her parents. (Eltern already ends in -n.)",
+     "more": "The plural dative usually has two signals: -en on the little word and -n on the noun. Step 1: make the plural: meine Kinder. Step 2: meine becomes meinen. Step 3: check the noun. Does it end in -n or -s already? Then stop. If not, add -n: Kindern. Extra example: Anna spricht mit ihren Eltern. = Anna talks to her parents. (Eltern already ends in -n.)",
      "lead": "You know the singular endings for these words. Next: the plural form, so you can say you eat with your colleagues or play with your children.",
      "deeper": {
       "text": "Remember the n rule for plural nouns in the dative. Kollegen already ends in -n, so nothing is added: mit meinen Kollegen. Kinder has no -n yet, so it gets one: mit meinen Kindern. Check the last letter of the plural before you speak.",
@@ -6564,6 +6679,33 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Am Freitag fahre ich zum Treffen.",
+       "en": "On Friday I am going to the meeting.",
+       "parts": [
+        [
+         "Am Freitag",
+         "time"
+        ],
+        [
+         "fahre",
+         "verb"
+        ],
+        [
+         "ich",
+         "subject"
+        ],
+        [
+         "zum",
+         "dative"
+        ],
+        [
+         "Treffen.",
+         "noun"
+        ]
+       ],
+       "why": "das Treffen: zu + dem = zum."
       }
      ],
      "table": {
@@ -6794,12 +6936,12 @@
        ]
       },
       {
-       "de": "Leon wohnt bei seinen Eltern.",
-       "en": "Leon lives with his parents.",
+       "de": "Mein Bruder wohnt bei meinen Eltern.",
+       "en": "My brother lives with my parents.",
        "why": "At his parents' home: seinen.",
        "parts": [
         [
-         "Leon",
+         "Mein Bruder",
          "subject"
         ],
         [
@@ -6811,7 +6953,7 @@
          "preposition"
         ],
         [
-         "seinen",
+         "meinen",
          "dative"
         ],
         [
@@ -6821,12 +6963,12 @@
        ]
       },
       {
-       "de": "Anna arbeitet bei einer Bank.",
-       "en": "Anna works at a bank.",
+       "de": "Meine Schwester arbeitet bei einer Bank.",
+       "en": "My sister works at a bank.",
        "why": "die Bank → einer.",
        "parts": [
         [
-         "Anna",
+         "Meine Schwester",
          "subject"
         ],
         [
@@ -7205,7 +7347,7 @@
      "more": "Make a to-do list for a busy day. Every line is zu + a place. Step 1: write the place with its article: die Post. Step 2: turn it into zu: die → zur. Step 3: add the verb: Ich gehe zur Post. Inside a building like a library you will use in, not bei: that comes in lesson 7. If you use a modal like muss, the verb gehen goes to the end. Extra example: Zuerst gehe ich zur Post, und dann gehe ich zum Friseur. = First I go to the post office, and then I go to the hairdresser.",
      "lead": "Last card of this lesson: errands in town, so you can say where you go for post, books or the bus stop, and how to name each place.",
      "deeper": {
-      "text": "Look at the place words. Many that end in -e or -ek are feminine: die Haltestelle, die Bibliothek. Words for people who work somewhere often end in -er or -eur and are masculine: der Friseur. This is not a perfect rule, but it gives you a good first guess.",
+      "text": "Look at the place words. Many nouns that end in -e are feminine: die Haltestelle, die Post has no -e but is feminine too. Words for people who work somewhere often end in -er or -eur and are masculine: der Friseur. This is not a perfect rule, but it gives you a good first guess.",
       "example": {
        "de": "Leon geht zur Praxis.",
        "en": "Leon is going to the doctor's office.",
@@ -7282,7 +7424,7 @@
     },
     {
      "type": "type",
-     "prompt": "Anna arbeitet bei ___ Bank. (a)",
+     "prompt": "Meine Schwester arbeitet bei ___ Bank. (a)",
      "answers": [
       "einer"
      ],
@@ -7398,7 +7540,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Leon wohnt ___ seinen Eltern.",
+     "prompt": "Mein Bruder wohnt ___ meinen Eltern.",
      "options": [
       "zu",
       "bei",
@@ -7490,7 +7632,7 @@
     {
      "type": "type",
      "prompt": "Ich gehe zur Post. Jetzt bin ich ___ Post. (at the)",
-     "hint": "die Post: bei + der does not melt.",
+     "hint": "Now you are there, and Post is a die-word: no melting.",
      "explanation": "bei der Post.",
      "grammar": true,
      "answers": [
@@ -7522,8 +7664,8 @@
        "en": "I'm at the doctor's."
       },
       {
-       "de": "Anna arbeitet bei einer Bank.",
-       "en": "Anna works at a bank."
+       "de": "Meine Schwester arbeitet bei einer Bank.",
+       "en": "My sister works at a bank."
       }
      ]
     },
@@ -7699,12 +7841,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Anna works at a bank.",
+     "prompt": "Write in German: My sister works at a bank.",
      "answers": [
-      "Anna arbeitet bei einer Bank."
+      "Meine Schwester arbeitet bei einer Bank."
      ],
      "hint": "bei + dative: eine → einer.",
-     "explanation": "Anna arbeitet bei einer Bank."
+     "explanation": "Meine Schwester arbeitet bei einer Bank."
     }
    ]
   },
@@ -8125,8 +8267,8 @@
      "body": "aus = out of a building, a city or a country. von = from a person, or back from a place you went to (the doctor, work, the post office). For people, always von.",
      "examples": [
       {
-       "de": "Anna kommt aus Berlin.",
-       "en": "Anna comes from Berlin.",
+       "de": "Anna kommt aus München.",
+       "en": "Anna comes from Munich.",
        "why": "A city: aus.",
        "parts": [
         [
@@ -8142,7 +8284,7 @@
          "preposition"
         ],
         [
-         "Berlin.",
+         "München.",
          "noun"
         ]
        ]
@@ -8464,6 +8606,72 @@
          "object"
         ]
        ]
+      },
+      {
+       "de": "Ich habe eine Frage: Kommst du am Montag zurück?",
+       "en": "I have a question: are you coming back on Monday?",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Frage:",
+         "object"
+        ],
+        [
+         "Kommst",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "am Montag",
+         "time"
+        ],
+        [
+         "zurück?",
+         "verb2"
+        ]
+       ],
+       "why": "zurückkommen splits: zurück goes to the end."
+      },
+      {
+       "de": "Die E-Mail hat einen Anhang.",
+       "en": "The email has an attachment.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "E-Mail",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "einen",
+         "article"
+        ],
+        [
+         "Anhang.",
+         "object"
+        ]
+       ],
+       "why": "der Anhang → einen Anhang after haben."
       }
      ],
      "steps": [
@@ -8564,6 +8772,52 @@
          "noun"
         ]
        ]
+      },
+      {
+       "de": "Herr Ali macht eine Dienstreise.",
+       "en": "Herr Ali is going on a business trip.",
+       "parts": [
+        [
+         "Herr Ali",
+         "subject"
+        ],
+        [
+         "macht",
+         "verb"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Dienstreise.",
+         "object"
+        ]
+       ],
+       "why": "die Dienstreise: Dienst (work) + Reise (trip)."
+      },
+      {
+       "de": "Vielen Dank für die Antwort!",
+       "en": "Many thanks for the answer!",
+       "parts": [
+        [
+         "Vielen Dank",
+         "other"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Antwort!",
+         "object"
+        ]
+       ],
+       "why": "die Antwort after für: accusative, die stays die."
       }
      ],
      "table": {
@@ -8767,13 +9021,13 @@
      "answers": [
       "von der"
      ],
-     "hint": "von + der does not melt.",
+     "hint": "die Arbeit is a die-word. Does von melt with its dative article?",
      "explanation": "von der Arbeit.",
      "grammar": true
     },
     {
      "type": "choice",
-     "prompt": "Anna kommt ___ Berlin.",
+     "prompt": "Anna kommt ___ München.",
      "options": [
       "von",
       "zu",
@@ -8781,7 +9035,7 @@
      ],
      "answer": 2,
      "hint": "A city: out of.",
-     "explanation": "aus Berlin.",
+     "explanation": "aus München.",
      "grammar": true
     },
     {
@@ -9327,7 +9581,7 @@
      "more": "You have seen this melting trick three times now: zum, beim, vom. im is the fourth one. in dem is a mouthful, so it melts into im. Step 1: ask wo? Step 2: der or das word? Step 3: say im. Remember am Montag? That is the same trick: an + dem = am. Extra example: Leon ist im Büro. = Leon is in the office.",
      "lead": "You can now use zu, bei, aus and von. Next: in, which means in or at a place, so you can say where something is in the building.",
      "deeper": {
-      "text": "In everyday speech you say im, never in dem. English uses different little words here: in, at or on, as in at the office or on the internet. German often uses just one: in. So whenever you are inside a place, im or in der is a safe first guess.",
+      "text": "In everyday speech you almost always say im, not in dem. English uses different little words here: in, at or on, as in at the office or on the internet. German often uses just one: in. So whenever you are inside a place, im or in der is a safe first guess.",
       "example": {
        "de": "Mira ist im Flur.",
        "en": "Mira is in the corridor.",
@@ -9974,6 +10228,12 @@
         "die",
         "die Abteilungen",
         "in der Abteilung"
+       ],
+       [
+        "Lager",
+        "das",
+        "die Lager",
+        "im Lager"
        ]
       ]
      },
@@ -10076,8 +10336,8 @@
        ]
       },
       {
-       "de": "Um fünf komme ich vom Büro zurück.",
-       "en": "At five I come back from the office.",
+       "de": "Um fünf komme ich vom Arzt zurück.",
+       "en": "At five I come back from the doctor's.",
        "why": "vom = von + dem.",
        "parts": [
         [
@@ -10097,7 +10357,7 @@
          "dative"
         ],
         [
-         "Büro",
+         "Arzt",
          "noun"
         ],
         [
@@ -10592,8 +10852,8 @@
      "en": "department",
      "examples": [
       {
-       "de": "Anna arbeitet in der Abteilung.",
-       "en": "Anna works in the department."
+       "de": "Mein Kollege arbeitet in der Abteilung.",
+       "en": "My colleague works in the department."
       },
       {
        "de": "Die Abteilung ist klein.",
@@ -12180,8 +12440,7 @@
      "answers": [
       "Gern geschehen",
       "Gern geschehen.",
-      "Bitte",
-      "Gerne geschehen"
+      "Bitte"
      ],
      "hint": "Two words: gern + …",
      "explanation": "Gern geschehen."
@@ -12834,7 +13093,7 @@
      "more": "doch is a little flip switch. Someone says no, and doch flips it to yes. Step 1: listen for nicht or kein. Step 2: if you think the opposite is true, say doch. Step 3: add the real sentence without nicht or kein. Careful: doch can sound like a correction, so use a friendly voice. Extra example: Ben kommt heute nicht. – Doch, er kommt um zehn. = Ben isn't coming today. – Yes, he is, he's coming at ten.",
      "lead": "You now have doch for negative questions. Next: doch when you disagree with a negative sentence, so you can answer strongly, the way friends talk.",
      "deeper": {
-      "text": "In speech, doch is stressed: you say DOCH with a little more energy. That is how people hear the disagreement. In writing, the exclamation mark does the same job. It is a strong word, so use a friendly tone, and a small smile helps.",
+      "text": "In speech, doch is stressed: you say doch louder and with a little more energy. That is how people hear the disagreement. In writing, the exclamation mark does the same job. It is a strong word, so use a friendly tone, and a small smile helps.",
       "example": {
        "de": "Doch, das ist teuer!",
        "en": "Yes, that is expensive!",
@@ -12931,6 +13190,103 @@
          "other"
         ]
        ]
+      },
+      {
+       "de": "Die Kaffeemaschine ist neu, aber die Spülmaschine ist alt.",
+       "en": "The coffee machine is new, but the dishwasher is old.",
+       "parts": [
+        [
+         "Die",
+         "article"
+        ],
+        [
+         "Kaffeemaschine",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Spülmaschine",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "alt.",
+         "adjective"
+        ]
+       ],
+       "why": "Kaffee + Maschine, spülen (wash up) + Maschine: both die."
+      },
+      {
+       "de": "Beim Smalltalk ist das Gespräch kurz.",
+       "en": "In small talk the conversation is short.",
+       "parts": [
+        [
+         "Beim",
+         "dative"
+        ],
+        [
+         "Smalltalk",
+         "noun"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Gespräch",
+         "subject"
+        ],
+        [
+         "kurz.",
+         "adjective"
+        ]
+       ],
+       "why": "der Smalltalk: bei + dem = beim. das Gespräch = the conversation."
+      },
+      {
+       "de": "Tschüss, Ben! Bis morgen!",
+       "en": "Bye, Ben! See you tomorrow!",
+       "parts": [
+        [
+         "Tschüss,",
+         "other"
+        ],
+        [
+         "Ben!",
+         "other"
+        ],
+        [
+         "Bis",
+         "preposition"
+        ],
+        [
+         "morgen!",
+         "time"
+        ]
+       ],
+       "why": "Bis morgen! = see you tomorrow."
       }
      ],
      "table": {
@@ -13294,26 +13650,34 @@
      "more": "Say the sounds out loud, like a little warm-up. Step 1: buzz like a bee for s before a vowel: Sie, sehen. Step 2: hush a baby for sch: Schreibtisch. Step 3: start of a word with st or sp? Hush, then t or p: scht-raße, schp-rechen. Step 4: st in the middle or at the end is plain s + t: Post, ist. A fun test: Besprechung. Be is a front part, so sprechung starts a word part: Be-schprechung. Extra example: spät, Stift, Schule: schp, scht, sch.",
      "lead": "Last card of this lesson and of the chapter: the sounds s, sch, st and sp, so you can say words like Straße and Besprechung clearly.",
      "deeper": {
-      "text": "The sound rule works on word parts too. In Bahnhofstraße the part Straße starts with st, so it sounds scht. In Besprechung the part Sprechung starts with sp, so it sounds schp. Look for where a part begins, not just the whole word, and you will pronounce more words well.",
+      "text": "The sound rule works on word parts too. In Bahnhofstraße the part Straße starts with st, so it sounds scht. In Besprechung the part sprech starts with sp, so it sounds schp. Look for where a part begins, not just the whole word, and you will pronounce more words well.",
       "example": {
-       "de": "Sprechen Sie bitte langsam!",
-       "en": "Please speak slowly!",
+       "de": "Die Besprechung ist in der Bahnhofstraße.",
+       "en": "The meeting is in Bahnhofstraße.",
        "parts": [
         [
-         "Sprechen",
+         "Die",
+         "article"
+        ],
+        [
+         "Besprechung",
+         "noun"
+        ],
+        [
+         "ist",
          "verb"
         ],
         [
-         "Sie",
-         "subject"
+         "in",
+         "preposition"
         ],
         [
-         "bitte",
-         "other"
+         "der",
+         "dative"
         ],
         [
-         "langsam!",
-         "adjective"
+         "Bahnhofstraße.",
+         "noun"
         ]
        ]
       }
@@ -13803,7 +14167,7 @@
    "day": 1,
    "reading": {
     "title": "Annas Arbeitstag",
-    "text": "Ich heiße Anna, und ich arbeite in Hamburg. Mein Büro ist klein, aber es ist schön. Morgens fahre ich mit der Straßenbahn, oder ich fahre mit dem Fahrrad. Um acht Uhr fange ich an. Zuerst lese ich E-Mails, und dann trinke ich einen Kaffee. Danach habe ich eine Besprechung mit dem Team. Mittags esse ich mit den Kollegen in der Kantine. Die Suppe ist lecker, aber sie ist oft kalt. Am Nachmittag telefoniere ich mit der Chefin, und ich beantworte E-Mails. Der Drucker ist alt und sehr laut, aber er druckt gut. Um siebzehn Uhr habe ich Feierabend. Dann fahre ich nach Hause und koche. Die Arbeit ist interessant, aber abends bin ich oft müde.",
+    "text": "Ich heiße Anna, ich bin Studentin, und ich arbeite in Wien. Mein Büro ist klein, aber es ist schön. Morgens fahre ich mit der Straßenbahn, oder ich fahre mit dem Fahrrad. Um acht Uhr fange ich an. Zuerst lese ich E-Mails, und dann trinke ich einen Kaffee. Danach habe ich eine Besprechung mit dem Team. Mittags esse ich mit den Kollegen in der Kantine. Die Suppe ist lecker, aber sie ist oft kalt. Am Nachmittag telefoniere ich mit der Chefin, und ich beantworte E-Mails. Der Drucker ist alt und sehr laut, aber er druckt gut. Um siebzehn Uhr habe ich Feierabend. Dann fahre ich nach Hause und koche. Die Arbeit ist interessant, aber abends bin ich oft müde.",
     "glossary": [
      {
       "de": "der Arbeitstag",
@@ -13824,12 +14188,12 @@
       "prompt": "Where does Anna work?",
       "options": [
        "in Berlin",
-       "in Wien",
-       "in Hamburg"
+       "in Hamburg",
+       "in Wien"
       ],
       "answer": 2,
       "hint": "Look at the first sentence.",
-      "explanation": "Ich arbeite in Hamburg."
+      "explanation": "Ich arbeite in Wien."
      },
      {
       "type": "choice",
@@ -13943,18 +14307,18 @@
    },
    "listening": {
     "title": "Guten Morgen im Büro",
-    "script": "Ben: Guten Morgen, Anna! Fährst du heute mit dem Bus?\nAnna: Nein, ich fahre mit dem Fahrrad. Und du?\nBen: Ich fahre mit dem Auto, aber das Auto ist alt.\nAnna: Was machst du zuerst?\nBen: Zuerst muss ich den Plan drucken, aber der Drucker druckt nicht!\nAnna: Leon hat einen Drucker. Er druckt gut.\nBen: Danke! Und was machst du?\nAnna: Zuerst lese ich E-Mails, und dann habe ich eine Besprechung mit Frau Weber.\nBen: Isst du mittags in der Kantine?\nAnna: Ja, mit den Kollegen. Kommst du mit?\nBen: Ja, gern. Wann hast du Feierabend?\nAnna: Um sechzehn Uhr. Danach gehe ich mit Mira ins Kino.\nBen: Super! Bis später!",
+    "script": "Ben: Guten Morgen, Mira! Fährst du heute mit dem Bus?\nMira: Nein, ich fahre mit dem Fahrrad. Und du?\nBen: Ich fahre mit dem Auto, aber das Auto ist alt.\nMira: Was machst du zuerst?\nBen: Zuerst muss ich den Plan drucken, aber der Drucker druckt nicht!\nMira: Frau Weber hat einen Drucker. Er druckt gut.\nBen: Danke! Und was machst du?\nMira: Zuerst lese ich E-Mails, und dann habe ich eine Besprechung mit Frau Weber.\nBen: Isst du mittags in der Kantine?\nMira: Ja, mit den Kollegen. Kommst du mit?\nBen: Ja, gern. Wann hast du Feierabend?\nMira: Um sechzehn Uhr. Danach gehe ich mit meinem Bruder ins Kino.\nBen: Super! Bis später!",
     "questions": [
      {
       "type": "choice",
-      "prompt": "How does Anna come to work today?",
+      "prompt": "How does Mira come to work today?",
       "options": [
        "by bus",
        "by bike",
        "by car"
       ],
       "answer": 1,
-      "hint": "Listen to Anna's first answer.",
+      "hint": "Listen to Mira's first answer.",
       "explanation": "Ich fahre mit dem Fahrrad."
      },
      {
@@ -14009,17 +14373,17 @@
       "type": "choice",
       "prompt": "Who has a printer that works?",
       "options": [
-       "Frau Weber",
-       "Mira",
-       "Leon"
+       "Herr Ali",
+       "Leon",
+       "Frau Weber"
       ],
       "answer": 2,
-      "hint": "Listen to Anna's tip.",
-      "explanation": "Leon hat einen Drucker."
+      "hint": "Listen to Mira's tip.",
+      "explanation": "Frau Weber hat einen Drucker."
      },
      {
       "type": "choice",
-      "prompt": "Who is Anna's meeting with?",
+      "prompt": "Who is Mira's meeting with?",
       "options": [
        "Frau Weber",
        "Ben",
@@ -14042,7 +14406,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When does Anna finish work?",
+      "prompt": "When does Mira finish work?",
       "options": [
        "at 4 pm",
        "at 5 pm",
@@ -14054,15 +14418,15 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Anna do after work?",
+      "prompt": "What does Mira do after work?",
       "options": [
        "She cooks.",
        "She plays tennis.",
-       "She goes to the cinema with Mira."
+       "She goes to the cinema with her brother."
       ],
       "answer": 2,
       "hint": "Listen for danach.",
-      "explanation": "Danach gehe ich mit Mira ins Kino."
+      "explanation": "Danach gehe ich mit meinem Bruder ins Kino."
      }
     ]
    },
@@ -14562,7 +14926,7 @@
        "Bank."
       ],
       "hint": "bei + dative: eine → einer.",
-      "explanation": "Anna arbeitet bei einer Bank."
+      "explanation": "Meine Schwester arbeitet bei einer Bank."
      },
      {
       "type": "build",
@@ -14639,7 +15003,7 @@
    "day": 3,
    "reading": {
     "title": "In der Büroküche",
-    "text": "Es ist Montag, zehn Uhr. Mira und Leon sind in der Küche im Erdgeschoss. Die Kaffeemaschine ist alt, aber der Kaffee ist gut.\nLeon: Guten Morgen, Mira! Wie war dein Wochenende?\nMira: Toll! Ich war mit meiner Schwester in Berlin. Und du?\nLeon: Ich war zu Hause. Das Wetter war nicht schön.\nMira: Trinkst du keinen Kaffee?\nLeon: Doch, gern! Kannst du bitte zwei Tassen aus der Spülmaschine nehmen?\nMira: Kein Problem.\nFrau Weber kommt in die Küche.\nFrau Weber: Guten Morgen! Ist Ben nicht im Büro?\nLeon: Doch, er ist in der Besprechung in der ersten Etage.\nFrau Weber: Danke. Leon, können Sie bitte um elf in mein Büro kommen?\nLeon: Ja, natürlich.\nFrau Weber: Gut. Bis später!",
+    "text": "Es ist Montag, zehn Uhr. Mira und Ben sind in der Küche im Erdgeschoss. Die Kaffeemaschine ist alt, aber der Kaffee ist gut.\nBen: Guten Morgen, Mira! Wie war dein Wochenende?\nMira: Toll! Ich war mit meinem Bruder in Berlin. Und du?\nBen: Ich war zu Hause. Das Wetter war nicht schön.\nMira: Trinkst du keinen Kaffee?\nBen: Doch, gern! Kannst du bitte zwei Tassen aus der Spülmaschine nehmen?\nMira: Kein Problem.\nFrau Weber kommt in die Küche.\nFrau Weber: Guten Morgen! Ist der Chef nicht im Büro?\nBen: Doch, er ist in der Besprechung in der ersten Etage.\nFrau Weber: Danke. Ben, können Sie bitte um elf in mein Büro kommen?\nBen: Ja, natürlich.\nFrau Weber: Gut. Bis später!",
     "glossary": [
      {
       "de": "die Büroküche",
@@ -14653,7 +15017,7 @@
     "questions": [
      {
       "type": "choice",
-      "prompt": "Where are Mira and Leon?",
+      "prompt": "Where are Mira and Ben?",
       "options": [
        "in the canteen",
        "in the office on the first floor",
@@ -14685,23 +15049,23 @@
       ],
       "answer": 2,
       "hint": "Find Mira's first answer.",
-      "explanation": "Ich war mit meiner Schwester in Berlin."
+      "explanation": "Ich war mit meinem Bruder in Berlin."
      },
      {
       "type": "choice",
       "prompt": "Who was she with?",
       "options": [
-       "with her sister",
-       "with Leon",
+       "with her brother",
+       "with Anna",
        "with her mother"
       ],
       "answer": 0,
       "hint": "Look for mit meiner …",
-      "explanation": "mit meiner Schwester."
+      "explanation": "mit meinem Bruder."
      },
      {
       "type": "choice",
-      "prompt": "What was the weather like for Leon?",
+      "prompt": "What was the weather like for Ben?",
       "options": [
        "very nice",
        "not nice",
@@ -14713,7 +15077,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Does Leon want a coffee?",
+      "prompt": "Does Ben want a coffee?",
       "options": [
        "yes",
        "no"
@@ -14724,7 +15088,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Leon ask Mira to do?",
+      "prompt": "What does Ben ask Mira to do?",
       "options": [
        "make coffee",
        "open the window",
@@ -14736,14 +15100,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Is Ben in the office today?",
+      "prompt": "Is the boss in the office today?",
       "options": [
        "no, he is at the doctor's",
        "no, he is at home",
        "yes, in a meeting"
       ],
       "answer": 2,
-      "hint": "Look at Leon's answer with Doch.",
+      "hint": "Look at Ben's answer with Doch.",
       "explanation": "Doch, er ist in der Besprechung."
      },
      {
@@ -14760,7 +15124,7 @@
      },
      {
       "type": "choice",
-      "prompt": "When should Leon come to Frau Weber's office?",
+      "prompt": "When should Ben come to Frau Weber's office?",
       "options": [
        "at ten",
        "at twelve",
@@ -14774,7 +15138,7 @@
    },
    "listening": {
     "title": "Freitag in der Küche",
-    "script": "Anna: Mahlzeit, Ben!\nBen: Mahlzeit! Gehst du auch in die Kantine?\nAnna: Nein, ich esse heute im Büro. Ich habe viel Arbeit. Die Woche ist stressig.\nBen: Hast du am Wochenende keine Zeit?\nAnna: Doch! Am Samstag gehe ich mit Leon ins Kino. Und du?\nBen: Ich fahre zu meinen Eltern nach Bremen.\nAnna: Fährst du mit dem Auto?\nBen: Nein, mit dem Zug. Mein Auto ist alt.\nAnna: Ist der Zug nicht teuer?\nBen: Nein, er ist nicht teuer.\nAnna: Kannst du bitte das Fenster schließen? Es ist kalt.\nBen: Kein Problem. So! Schönes Wochenende, Anna!\nAnna: Danke, gleichfalls! Bis Montag!",
+    "script": "Mira: Mahlzeit, Ben!\nBen: Mahlzeit! Gehst du auch in die Kantine?\nMira: Nein, ich esse heute im Büro. Ich habe viel Arbeit. Die Woche ist stressig.\nBen: Hast du am Wochenende keine Zeit?\nMira: Doch! Am Samstag gehe ich mit meinen Freunden ins Kino. Und du?\nBen: Ich fahre zu Leon nach Berlin.\nMira: Fährst du mit dem Auto?\nBen: Nein, mit dem Zug. Mein Auto ist alt.\nMira: Ist der Zug nicht teuer?\nBen: Nein, er ist nicht teuer.\nMira: Kannst du bitte das Fenster schließen? Es ist kalt.\nBen: Kein Problem. So! Schönes Wochenende, Mira!\nMira: Danke, gleichfalls! Bis Montag!",
     "questions": [
      {
       "type": "choice",
@@ -14790,14 +15154,14 @@
      },
      {
       "type": "choice",
-      "prompt": "Where does Anna eat today?",
+      "prompt": "Where does Mira eat today?",
       "options": [
        "in the canteen",
        "in a café",
        "in the office"
       ],
       "answer": 2,
-      "hint": "Listen to Anna's first answer.",
+      "hint": "Listen to Mira's first answer.",
       "explanation": "ich esse heute im Büro."
      },
      {
@@ -14814,7 +15178,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How is Anna's week?",
+      "prompt": "How is Mira's week?",
       "options": [
        "quiet",
        "stressful",
@@ -14826,7 +15190,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Does Anna have time at the weekend?",
+      "prompt": "Does Mira have time at the weekend?",
       "options": [
        "yes",
        "no"
@@ -14837,27 +15201,27 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Anna do on Saturday?",
+      "prompt": "What does Mira do on Saturday?",
       "options": [
-       "She goes to the cinema with Leon.",
+       "She goes to the cinema with friends.",
        "She visits her parents.",
        "She works."
       ],
       "answer": 0,
       "hint": "Listen for am Samstag.",
-      "explanation": "Am Samstag gehe ich mit Leon ins Kino."
+      "explanation": "Am Samstag gehe ich mit meinen Freunden ins Kino."
      },
      {
       "type": "choice",
       "prompt": "Where does Ben go?",
       "options": [
        "to Hamburg",
-       "to Berlin",
-       "to his parents in Bremen"
+       "to Madrid",
+       "to Leon in Berlin"
       ],
       "answer": 2,
       "hint": "Listen for zu meinen Eltern.",
-      "explanation": "Ich fahre zu meinen Eltern nach Bremen."
+      "explanation": "Ich fahre zu Leon nach Berlin."
      },
      {
       "type": "choice",
@@ -14884,7 +15248,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Anna ask Ben to do?",
+      "prompt": "What does Mira ask Ben to do?",
       "options": [
        "close the window",
        "open the door",
