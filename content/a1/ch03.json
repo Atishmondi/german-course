@@ -670,7 +670,7 @@
        ]
       }
      ],
-     "more": "ein is like the number one. You cannot say one cinemas. So for many cinemas you drop it. Step 1: one thing? Das ist ein Kino. Step 2: many things? Das sind Kinos. The verb changes too: ist for one, sind for many. Extra example: Das ist ein Park. Das sind Parks.",
+     "more": "Picture a market stall with one apple and then a whole box of apples. For one, you hold up a finger and say ein. For the box, the finger is wrong, so the word ein goes away. English does it too: a cinema, but cinemas, with no a. Step 1: one thing? Das ist ein Kino. Step 2: many things? Drop ein, change ist to sind, and use the plural: Das sind Kinos. Extra example: Das ist ein Park. Das sind Parks.",
      "table": {
       "headers": [
        "one",
@@ -692,6 +692,10 @@
        [
         "Das ist ein Park.",
         "Das sind Parks."
+       ],
+       [
+        "Das ist ein Restaurant.",
+        "Das sind Restaurants."
        ]
       ]
      },
@@ -800,10 +804,10 @@
      "more": "Think of a recipe with three steps. Step 1: find the gender of the noun. Learn it with the noun: der Markt, die Kirche, das Rathaus. Step 2: der or das gives ein. die gives eine. Step 3: put it together: Das ist ein Markt. If you learn the article with every noun, this is easy. Extra example: Das ist ein Hotel. = That is a hotel.",
      "lead": "This is the last card of the lesson. On this card: a three-step check you can use for any place, so you can choose ein or eine every time.",
      "deeper": {
-      "text": "The middle step does all the work: find the word for the. A der-word like Hafen and a das-word like Museum both give ein, and only a die-word gives something different, eine. So never learn a noun alone. Learn it with its der, die or das, and the right a-word follows by itself.",
+      "text": "What if you meet a noun and do not know its gender? Ask: Ist das der, die oder das? Germans themselves look it up in a dictionary, where m means der, f means die and n means das. And a learner tip: give each gender a colour in your notes, like the chips in this course, so the picture helps you remember.",
       "example": {
-       "de": "Das ist ein Hotel.",
-       "en": "That is a hotel.",
+       "de": "Das ist ein Rathaus.",
+       "en": "That is a town hall.",
        "parts": [
         [
          "Das",
@@ -818,7 +822,7 @@
          "article"
         ],
         [
-         "Hotel.",
+         "Rathaus.",
          "noun"
         ]
        ]
@@ -1621,6 +1625,26 @@
         "ein Markt",
         "kein Markt",
         "Das ist kein Markt."
+       ],
+       [
+        "ein Supermarkt",
+        "kein Supermarkt",
+        "Das ist kein Supermarkt."
+       ],
+       [
+        "ein Turm",
+        "kein Turm",
+        "Das ist kein Turm."
+       ],
+       [
+        "ein Café",
+        "kein Café",
+        "Das ist kein Café."
+       ],
+       [
+        "ein Krankenhaus",
+        "kein Krankenhaus",
+        "Das ist kein Krankenhaus."
        ]
       ]
      },
@@ -1747,6 +1771,16 @@
         "eine Schule",
         "keine Schule",
         "Das ist keine Schule."
+       ],
+       [
+        "eine Apotheke",
+        "keine Apotheke",
+        "Das ist keine Apotheke."
+       ],
+       [
+        "eine Straße",
+        "keine Straße",
+        "Das ist keine Straße."
        ]
       ]
      },
@@ -2836,7 +2870,7 @@
     },
     {
      "title": "Ways to travel: learn each as one piece",
-     "body": "Six ways to travel. Learn each piece whole, with its little words. You will see dem and der. Do not worry why. That comes in chapter 7. For now, copy the piece.",
+     "body": "Seven ways to travel. Learn each piece whole, with its little words. You will see dem and der. Do not worry why. That comes in chapter 7. For now, copy the piece.",
      "examples": [
       {
        "de": "Ich fahre mit der U-Bahn.",
@@ -2938,10 +2972,14 @@
        [
         "on foot",
         "zu Fuß"
+       ],
+       [
+        "by ship, by boat",
+        "mit dem Schiff"
        ]
       ]
      },
-     "lead": "You just learned fahren for travelling. On this card: six ways to get around, each learned as one whole piece with its little words, so you can say how you go.",
+     "lead": "You just learned fahren for travelling. On this card: seven ways to get around, each learned as one whole piece with its little words, so you can say how you go.",
      "deeper": {
       "text": "mit means with, so mit dem Bus is literally with the bus. English splits it the same way: by bus, but on foot. German says mit for vehicles and zu Fuß for walking. Fuß means foot, so zu Fuß is literally to foot. Treat each piece as one block and you will say it without thinking.",
       "example": {
@@ -3653,7 +3691,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir ___ mit dem Zug. (to drive)",
+     "prompt": "Wir ___ mit dem Zug. (to travel)",
      "answers": [
       "fahren"
      ],
@@ -4525,6 +4563,29 @@
          "adjective"
         ]
        ]
+      },
+      {
+       "de": "Die Sehenswürdigkeit ist sehr interessant.",
+       "en": "The sight is very interesting.",
+       "why": "die Sehenswürdigkeit = a sight, a place tourists visit.",
+       "parts": [
+        [
+         "Die Sehenswürdigkeit",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "sehr",
+         "other"
+        ],
+        [
+         "interessant.",
+         "adjective"
+        ]
+       ]
       }
      ],
      "more": "sehr is like a volume knob. Without it the word is normal. With it the word is turned up. Step 1: say the sentence with the adjective: Der Hafen ist groß. Step 2: put sehr right before the adjective. Step 3: say it. Do not put sehr anywhere else. Extra example: Die U-Bahn ist sehr laut. = The underground is very loud.",
@@ -4545,6 +4606,10 @@
        [
         "teuer",
         "sehr teuer"
+       ],
+       [
+        "interessant",
+        "sehr interessant"
        ]
       ]
      },
@@ -5790,6 +5855,41 @@
          "place"
         ]
        ]
+      },
+      {
+       "de": "Die Ampel ist dort. Der Bahnhof ist nicht weit.",
+       "en": "The traffic lights are over there. The station is not far.",
+       "why": "die Ampel and die Kreuzung help you find the way. weit = far.",
+       "parts": [
+        [
+         "Die Ampel",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "dort.",
+         "place"
+        ],
+        [
+         "Der Bahnhof",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "weit.",
+         "adjective"
+        ]
+       ]
       }
      ],
      "more": "Stand at a crossing and point. Left hand: links. Right hand: rechts. Straight ahead: geradeaus. Step 1: pick the verb: gehen, fahren or nehmen. Step 2: add Sie. Step 3: add the direction. To count streets, use die erste Straße, die zweite Straße. Copy them as they are. Extra example: Nehmen Sie die erste Straße links! = Take the first street on the left.",
@@ -5818,12 +5918,24 @@
        [
         "die zweite Straße",
         "the second street"
+       ],
+       [
+        "die Ampel",
+        "the traffic lights"
+       ],
+       [
+        "die Kreuzung",
+        "the crossing"
+       ],
+       [
+        "weit",
+        "far"
        ]
       ]
      },
      "lead": "Next: the words for turning. On this card: left, right and straight on, plus the first and second street, so you can say which way and which street to take.",
      "deeper": {
-      "text": "links, rechts and geradeaus never change, whatever the sentence. The direction usually goes at the end: Nehmen Sie die zweite Straße links means Take the second street on the left. The e in erste and zweite comes from the die-word Straße, and you will see why later. Copy it as a piece now.",
+      "text": "links, rechts and geradeaus never change, whatever the sentence. The direction usually goes at the end: Nehmen Sie die zweite Straße links means Take the second street on the left. erste and zweite are order words: first, second. Their -e is an ending, and it is there with der Bus too: der erste Bus. You will learn these endings later. Copy the pieces now.",
       "example": {
        "de": "Nehmen Sie die erste Straße links!",
        "en": "Take the first street on the left!",
@@ -5993,12 +6105,12 @@
     },
     {
      "title": "A whole route: ask and answer",
-     "body": "Now put everything together. One person asks the way with Entschuldigung. The other uses Sie commands, bitte and dann. Herr Ali says Sie, because he does not know Mira.",
+     "body": "Now put everything together. One person asks the way with Entschuldigung. The other uses Sie commands, bitte and dann. Anna and Frau Weber say Sie to each other.",
      "examples": [
       {
        "de": "Entschuldigung, wie komme ich zum Rathaus?",
        "en": "Excuse me, how do I get to the town hall?",
-       "why": "Mira asks.",
+       "why": "Anna asks.",
        "parts": [
         [
          "Entschuldigung,",
@@ -6025,7 +6137,7 @@
       {
        "de": "Gehen Sie geradeaus. Nehmen Sie dann die zweite Straße links.",
        "en": "Go straight on. Then take the second street on the left.",
-       "why": "Herr Ali gives the route.",
+       "why": "Frau Weber gives the route.",
        "parts": [
         [
          "Gehen",
@@ -6064,7 +6176,7 @@
       {
        "de": "Das Rathaus ist dort.",
        "en": "The town hall is over there.",
-       "why": "Herr Ali ends with dort.",
+       "why": "Frau Weber ends with dort.",
        "parts": [
         [
          "Das Rathaus",
@@ -6087,10 +6199,10 @@
       "Nehmen Sie dann die zweite Straße links.",
       "Das Rathaus ist dort."
      ],
-     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Herr Ali and Mira do not know each other, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
+     "more": "A route is a short story with steps. Step 1: say where to start. Step 2: use a command with Sie for each step. Step 3: link the steps with dann. Step 4: end with where the place is. Anna and Frau Weber are not close friends, so they use Sie. Extra example: Gehen Sie links. Nehmen Sie dann das Taxi. = Go left. Then take the taxi.",
      "lead": "This is the last card of the lesson. On this card: a full route from question to answer, using commands, bitte and dann, so you can ask for and give directions in one talk.",
      "deeper": {
-      "text": "Real route directions are short and in order. Listen for the order words: erste, dann, dort. Germans often end by saying where the goal is, and the asker usually says thanks. Herr Ali says Sie because adults who do not know each other say Sie. Say thanks politely at the end.",
+      "text": "Real route directions are short and in order. Listen for the order words: erste, dann, dort. Germans often end by saying where the goal is, and the asker usually says thanks. Anna says Sie to Frau Weber, as adults do when they are not close friends. Thanks end the talk politely.",
       "example": {
        "de": "Danke, das ist sehr nett!",
        "en": "Thanks, that is very kind!",
@@ -6370,7 +6482,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Herr Ali says: Nehmen Sie die U-Bahn! What does he say?",
+     "prompt": "Frau Weber says: Nehmen Sie die U-Bahn! What does she say?",
      "options": [
       "Take the underground!",
       "I take the underground."
@@ -6778,24 +6890,44 @@
      "deeper": {
       "text": "Many month names look like English, which helps. März is the odd one: it has an Umlaut ä, and Mar-z ends with a ts sound. Juni and Juli sound almost the same, so stress the first syllable and say each one clearly. Some Germans even say Juno and Julei so nobody mixes them up on the phone.",
       "example": {
-       "de": "Der Oktober ist schön.",
-       "en": "October is beautiful.",
+       "de": "Im Juni und im Juli bin ich in Hamburg.",
+       "en": "In June and in July I am in Hamburg.",
        "parts": [
         [
-         "Der",
-         "article"
+         "Im",
+         "preposition"
         ],
         [
-         "Oktober",
-         "noun"
+         "Juni",
+         "time"
         ],
         [
-         "ist",
+         "und",
+         "other"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Juli",
+         "time"
+        ],
+        [
+         "bin",
          "verb"
         ],
         [
-         "schön.",
-         "adjective"
+         "ich",
+         "subject"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "Hamburg.",
+         "place"
         ]
        ]
       }
@@ -6995,6 +7127,25 @@
          "place"
         ]
        ]
+      },
+      {
+       "de": "Das Jahr hat vier Jahreszeiten.",
+       "en": "The year has four seasons.",
+       "why": "die Jahreszeit = season, plural die Jahreszeiten.",
+       "parts": [
+        [
+         "Das Jahr",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "vier Jahreszeiten.",
+         "object"
+        ]
+       ]
       }
      ],
      "more": "A year is a circle of four parts. Spring is the start, when things grow. Summer is warm. Autumn is when leaves fall. Winter is cold. Step 1: learn the four words with der. Step 2: add im to say in the season. Step 3: say the whole sentence. Extra example: Im Winter koche ich gern. = In winter I like to cook.",
@@ -7029,26 +7180,38 @@
      },
      "lead": "You can say a month with im. On this card: the four seasons, which are also der-words and also take im, so you can say when something happens in the year.",
      "deeper": {
-      "text": "Spelling and sound: Frühling has the letter ü. Make your lips round as if for oo, and then say ee. It is one letter and one sound, so never write ue in its place. Also notice Herbst, with the sounds rb-s-t together. Say it slowly at first, then faster.",
+      "text": "Spelling and sound: Frühling has the letter ü. Make your lips round as if for oo, and then say ee. It is one letter and one sound. Only when a keyboard has no ü do Germans write ue instead: Fruehling. Also notice Herbst, with the sounds rb-s-t together. Say it slowly at first, then faster.",
       "example": {
-       "de": "Der Sommer ist sehr schön.",
-       "en": "The summer is very beautiful.",
+       "de": "Im Frühling und im Herbst ist Hamburg schön.",
+       "en": "Hamburg is beautiful in spring and in autumn.",
        "parts": [
         [
-         "Der",
-         "article"
+         "Im",
+         "preposition"
         ],
         [
-         "Sommer",
-         "noun"
+         "Frühling",
+         "time"
+        ],
+        [
+         "und",
+         "other"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Herbst",
+         "time"
         ],
         [
          "ist",
          "verb"
         ],
         [
-         "sehr",
-         "other"
+         "Hamburg",
+         "subject"
         ],
         [
          "schön.",
@@ -7951,7 +8114,7 @@
    "day": 1,
    "reading": {
     "title": "Willkommen in Hamburg",
-    "text": "Anna: Hallo, Mira! Willkommen in Hamburg!\nMira: Danke, Anna! Ich komme mit dem Zug aus Wien. Ich bin müde.\nAnna: Das ist der Bahnhof. Er ist alt. Hier ist die U-Bahn.\nMira: Was ist das? Ist das ein Kino?\nAnna: Nein, das ist kein Kino. Das ist das Rathaus.\nMira: Und das? Ist das eine Bank?\nAnna: Nein, das ist keine Bank. Das ist eine Kirche, der Michel.\nMira: Wo ist der Hafen?\nAnna: Dort! Ben ist auch dort. Er geht zu Fuß. Wir fahren mit dem Bus.\nMira: Super! Ich habe Zeit und Hunger.",
+    "text": "Mira: Hallo, Anna! Willkommen in Hamburg!\nAnna: Danke, Mira! Ich komme mit dem Zug aus Wien. Ich bin müde.\nMira: Das ist der Bahnhof. Er ist alt. Hier ist die U-Bahn.\nAnna: Was ist das? Ist das ein Kino?\nMira: Nein, das ist kein Kino. Das ist das Rathaus.\nAnna: Und das? Ist das eine Bank?\nMira: Nein, das ist keine Bank. Das ist eine Kirche, der Michel.\nAnna: Wo ist der Hafen?\nMira: Dort! Ben ist auch dort. Er geht zu Fuß. Wir fahren mit dem Bus.\nAnna: Super! Ich habe Zeit und Hunger.",
     "glossary": [
      {
       "de": "Willkommen",
@@ -7965,19 +8128,19 @@
     "questions": [
      {
       "type": "choice",
-      "prompt": "Where does Mira come from?",
+      "prompt": "Where does Anna travel from?",
       "options": [
        "Hamburg",
        "Berlin",
        "Vienna"
       ],
       "answer": 2,
-      "hint": "Look at Mira's first line.",
+      "hint": "Look at Anna's first line.",
       "explanation": "Ich komme mit dem Zug aus Wien."
      },
      {
       "type": "choice",
-      "prompt": "How does Mira travel to Hamburg?",
+      "prompt": "How does Anna travel to Hamburg?",
       "options": [
        "by bus",
        "by train",
@@ -7989,7 +8152,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How does Mira feel?",
+      "prompt": "How does Anna feel?",
       "options": [
        "sick",
        "tired"
@@ -8007,19 +8170,19 @@
        "the church"
       ],
       "answer": 0,
-      "hint": "Look at Anna's second line.",
+      "hint": "Look at Mira's second line.",
       "explanation": "Der Bahnhof: Er ist alt."
      },
      {
       "type": "choice",
-      "prompt": "What is the first building Mira asks about?",
+      "prompt": "What is the first building Anna asks about?",
       "options": [
        "the town hall",
        "a cinema",
        "a bank"
       ],
       "answer": 0,
-      "hint": "Anna says what it really is.",
+      "hint": "Mira says what it really is.",
       "explanation": "Das ist das Rathaus."
      },
      {
@@ -8042,7 +8205,7 @@
        "a church"
       ],
       "answer": 2,
-      "hint": "Look at Anna's line about the church.",
+      "hint": "Look at Mira's line about the church.",
       "explanation": "Das ist eine Kirche, der Michel."
      },
      {
@@ -8054,7 +8217,7 @@
        "at the cinema"
       ],
       "answer": 1,
-      "hint": "Anna answers Wo ist der Hafen?",
+      "hint": "Mira answers Wo ist der Hafen?",
       "explanation": "Ben ist auch dort (am Hafen)."
      },
      {
@@ -8070,7 +8233,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How do Anna and Mira travel?",
+      "prompt": "How do Mira and Anna travel?",
       "options": [
        "by bus",
        "by underground"
@@ -8083,17 +8246,17 @@
    },
    "listening": {
     "title": "Wie fährst du?",
-    "script": "Ben: Hallo, Mira! Wie fährst du nach Hamburg?\nMira: Ich fahre mit dem Zug. Und du, Ben?\nBen: Ich wohne in Hamburg. Ich fahre mit dem Fahrrad.\nMira: Super! Wo ist das Hotel?\nBen: Das Hotel ist dort. Da ist auch ein Café.\nMira: Ist das ein Kino?\nBen: Nein, das ist kein Kino. Das ist ein Museum.\nMira: Und das? Ist das eine Bank?\nBen: Ja, das ist eine Bank. Wir gehen zu Fuß, Mira.",
+    "script": "Ben: Hallo, Anna! Wie fährst du nach Hamburg?\nAnna: Ich fahre mit dem Zug. Und du, Ben?\nBen: Ich wohne in Hamburg. Ich fahre mit dem Fahrrad.\nAnna: Super! Wo ist das Hotel?\nBen: Das Hotel ist dort. Da ist auch ein Café.\nAnna: Ist das ein Kino?\nBen: Nein, das ist kein Kino. Das ist ein Museum.\nAnna: Und das? Ist das eine Bank?\nBen: Ja, das ist eine Bank. Wir gehen zu Fuß, Anna.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "How does Mira travel to Hamburg?",
+      "prompt": "How does Anna travel to Hamburg?",
       "options": [
        "by train",
        "by bus"
       ],
       "answer": 0,
-      "hint": "Listen to Mira's first answer.",
+      "hint": "Listen to Anna's first answer.",
       "explanation": "Ich fahre mit dem Zug."
      },
      {
@@ -8120,7 +8283,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Mira look for?",
+      "prompt": "What does Anna look for?",
       "options": [
        "the hotel",
        "the station"
@@ -8186,7 +8349,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How do Ben and Mira go?",
+      "prompt": "How do Ben and Anna go?",
       "options": [
        "on foot",
        "by bus",
@@ -8316,7 +8479,7 @@
      }
     ],
     "free": {
-     "prompt": "You are Mira. Write 3 or 4 short sentences. Say how you travel to Hamburg. Say that something is a church and that it is not a cinema. Ask where the station is.",
+     "prompt": "You are Anna. Write 3 or 4 short sentences. Say how you travel to Hamburg. Say that something is a church and that it is not a cinema. Ask where the station is.",
      "minWords": 15,
      "model": "Ich fahre mit dem Zug nach Hamburg. Das ist eine Kirche. Das ist kein Kino. Wo ist der Bahnhof?",
      "checks": [
@@ -8347,7 +8510,7 @@
    "day": 2,
    "reading": {
     "title": "Hamburg im Jahr",
-    "text": "Mira: Hamburg ist sehr schön! Der Hafen ist groß, aber er ist laut.\nAnna: Ja! Das ist die Elbphilharmonie. Sie ist neu und sehr interessant.\nMira: Und der Michel? Ist er neu?\nAnna: Nein, er ist sehr alt. Er ist eine Kirche.\nMira: Ist der Michel weit?\nAnna: Nein, er ist nicht weit. Wir gehen zu Fuß.\nMira: Wann ist der Hafengeburtstag?\nAnna: Im Mai. Im Sommer fahre ich oft mit dem Fahrrad zum Hafen.\nMira: Und im Winter?\nAnna: Im Winter ist der Weihnachtsmarkt. Er ist sehr schön, aber ein bisschen teuer.",
+    "text": "Anna: Hamburg ist sehr schön! Der Hafen ist groß, aber er ist laut.\nMira: Ja! Das ist die Elbphilharmonie. Sie ist neu und sehr interessant.\nAnna: Und der Michel? Ist er neu?\nMira: Nein, er ist sehr alt. Er ist eine Kirche.\nAnna: Ist der Michel weit?\nMira: Nein, er ist nicht weit. Wir gehen zu Fuß.\nAnna: Wann ist der Hafengeburtstag?\nMira: Im Mai. Im Sommer fahre ich oft mit dem Fahrrad zum Hafen.\nAnna: Und im Winter?\nMira: Im Winter ist der Weihnachtsmarkt. Er ist sehr schön, aber ein bisschen teuer.",
     "glossary": [
      {
       "de": "die Elbphilharmonie",
@@ -8376,7 +8539,7 @@
        "big and loud"
       ],
       "answer": 2,
-      "hint": "Look at Mira's first line.",
+      "hint": "Look at Anna's first line.",
       "explanation": "Der Hafen ist groß, aber er ist laut."
      },
      {
@@ -8387,7 +8550,7 @@
        "new and interesting"
       ],
       "answer": 1,
-      "hint": "Look at Anna's first line.",
+      "hint": "Look at Mira's first line.",
       "explanation": "Sie ist neu und sehr interessant."
      },
      {
@@ -8414,7 +8577,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How do Anna and Mira go to the Michel?",
+      "prompt": "How do Mira and Anna go to the Michel?",
       "options": [
        "by bus",
        "on foot"
@@ -8437,7 +8600,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How does Anna go to the harbour in summer?",
+      "prompt": "How does Mira go to the harbour in summer?",
       "options": [
        "by train",
        "by bike"
@@ -8448,7 +8611,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Mira ask about at the end?",
+      "prompt": "What does Anna ask about at the end?",
       "options": [
        "winter",
        "autumn"
@@ -8465,7 +8628,7 @@
        "in summer"
       ],
       "answer": 0,
-      "hint": "Look at Anna's last line.",
+      "hint": "Look at Mira's last line.",
       "explanation": "Im Winter ist der Weihnachtsmarkt."
      },
      {
@@ -8484,22 +8647,22 @@
    },
    "listening": {
     "title": "Wie komme ich zum Rathaus?",
-    "script": "Mira: Entschuldigung, Herr Ali. Wie komme ich zum Rathaus?\nHerr Ali: Gehen Sie geradeaus. Nehmen Sie dann die erste Straße links.\nMira: Die erste Straße links. Ist das weit?\nHerr Ali: Nein, das ist nicht weit. Dort ist eine Kirche, der Michel.\nMira: Danke! Wann ist der Hafengeburtstag?\nHerr Ali: Im Mai. Er ist sehr schön, aber laut.\nMira: Super! Auf Wiedersehen, Herr Ali!\nHerr Ali: Auf Wiedersehen!",
+    "script": "Anna: Entschuldigung, Frau Weber. Wie komme ich zum Rathaus?\nFrau Weber: Gehen Sie geradeaus. Nehmen Sie dann die erste Straße links.\nAnna: Die erste Straße links. Ist das weit?\nFrau Weber: Nein, das ist nicht weit. Dort ist eine Kirche, der Michel.\nAnna: Danke! Wann ist der Hafengeburtstag?\nFrau Weber: Im Mai. Er ist sehr schön, aber laut.\nAnna: Super! Auf Wiedersehen, Frau Weber!\nFrau Weber: Auf Wiedersehen!",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Whom does Mira ask the way?",
+      "prompt": "Whom does Anna ask the way?",
       "options": [
-       "Anna",
-       "Herr Ali"
+       "Ben",
+       "Frau Weber"
       ],
       "answer": 1,
       "hint": "Listen to the first line.",
-      "explanation": "Mira says: Herr Ali."
+      "explanation": "Anna says: Frau Weber."
      },
      {
       "type": "choice",
-      "prompt": "How does Herr Ali speak to Mira?",
+      "prompt": "How does Frau Weber speak to Anna?",
       "options": [
        "politely, with Sie",
        "with du"
@@ -8510,7 +8673,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Where does Mira want to go?",
+      "prompt": "Where does Anna want to go?",
       "options": [
        "to the station",
        "to the town hall"
@@ -8527,7 +8690,7 @@
        "turn right"
       ],
       "answer": 0,
-      "hint": "Listen to Herr Ali's first command.",
+      "hint": "Listen to Frau Weber's first command.",
       "explanation": "Gehen Sie geradeaus."
      },
      {
@@ -8565,7 +8728,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Mira ask about next?",
+      "prompt": "What does Anna ask about next?",
       "options": [
        "the harbour birthday",
        "the market"
@@ -8732,7 +8895,7 @@
      }
     ],
     "free": {
-     "prompt": "You are Herr Ali. Mira asks: Entschuldigung, wie komme ich zum Bahnhof? Answer in 3 or 4 short sentences. Say go straight on, then take the first street on the right, and say the station is not far.",
+     "prompt": "You are Frau Weber. Anna asks: Entschuldigung, wie komme ich zum Bahnhof? Answer in 3 or 4 short sentences. Say go straight on, then take the first street on the right, and say the station is not far.",
      "minWords": 15,
      "model": "Gehen Sie geradeaus. Nehmen Sie dann die erste Straße rechts. Der Bahnhof ist nicht weit. Er ist dort.",
      "checks": [

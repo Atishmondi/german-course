@@ -58,3 +58,11 @@ Grammar drills with generic owners ("Ich habe einen Bruder. Er heißt Ben.", "De
 - Anna Köchin: a1/ch02 a1-c02-06 (fixed in ch02 upgrade). Anna nurse (Krankenpflegerin): a1/ch10 a1-c10-03. Anna Lehrerin: a2/ch01 a2-c01-01. Anna from Berlin: a1/ch07 a1-c07-06. Anna = "Die Schwester heißt Anna" of a generic ich: a1/ch05 a1-c05-04 (ok as generic, better another name).
 - Frau Weber dog (Hund): a2/ch08 a2-c08-07, a2-c08-d3 (canonical: Katze).
 - Herr Ali dog: a2/ch08 a2-c08-07.
+
+## Timeline (decided 2026-11-22: fewest edits, follows what A2 ch01–03 already say)
+- **A1 (ch01–12):** home cities as above (Mira, Ben, Frau Weber: Hamburg; Leon, Herr Ali: Berlin; Anna: Wien). Frau Weber and Herr Ali are the course teachers. Do NOT put the WG or „Zum Löwen“ into A1.
+- **Between A1 and A2:** Mira, Ben and Anna move to Berlin (A2 ch01: "Mira ist nach Berlin umgezogen", "Jetzt wohne ich in Berlin", "Ben wohnt auch in Berlin"). Leon already lives there.
+- **From A2 ch01:** the WG (Wohngemeinschaft) is in **Berlin**: Mira, Ben, Leon, Anna live there together ("Meine WG ist toll: Ben, Leon, Anna und ich wohnen zusammen").
+- **Herr Ali, from A2 ch01:** owns the restaurant „Zum Löwen“ in Berlin and cooks there (A2 ch08: started as a Koch 25 years ago). His A1 teaching was a part-time German course; in A2 he is mainly the restaurant owner.
+- **Frau Weber, from A2:** has moved to Berlin, lives in the WG's neighbourhood (house neighbour; A2 ch08 neighbour club „Viertel hilft“) and is still a Lehrerin (A2 ch02 "Frau Weber ist unsere Lehrerin"). Still has the cat.
+- Ben + Anna become a couple in A2 (ch04). Any other move/job change must be said in a lesson.
