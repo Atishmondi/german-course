@@ -113,7 +113,7 @@
        "why": "New today: würde + infinitive = a dream, maybe never."
       }
      ],
-     "more": "Think of two drawers. In one drawer are plans: things that will really happen. For them you use werde: Ich werde im Sommer nach Wien fahren. In the other drawer are dreams: nice ideas, but maybe never. For them you use würde: Ich würde gern eine Weltreise machen. Today you open the dream drawer."
+     "more": "Think of two drawers in a desk. In the first drawer are plans with a date: things that really will happen. For them you use werde, as you learned: Ich werde im Sommer nach Wien fahren. In the second drawer are dreams: lovely ideas that may never happen. For those you use würde: Ich würde gern eine Weltreise machen. English has the same split: I will go, I would like to go. Today you open the dream drawer."
     },
     {
      "title": "Real or a dream?",
@@ -268,7 +268,7 @@
        ]
       }
      },
-     "more": "Ask yourself: is it true now? Yes: say it normally. Ich habe Zeit. No, I only wish it: say würde and put the verb at the end. Ich würde kommen. That is the whole rule. Real (it is true): Ich habe Zeit. Ich komme. Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen.",
+     "more": "Imagine a light switch with two positions. Position one: it is true now, so the verb stays normal, as you have always said it: Ich habe Zeit. Ich komme. Position two: it exists only in your head, a wish, so you add würde and push the verb to the end: Ich würde kommen. English does the same with would: I come, I would come. Before every sentence flip the switch: true, or only a dream?",
      "steps": [
       "Is it true now?",
       "Yes → normal verb: Ich habe Zeit. Ich komme.",
@@ -388,7 +388,7 @@
        ]
       }
      },
-     "more": "Take werde and put dots on the u: würde. Then add the endings. ich würde, du würdest, er würde, wir würden, ihr würdet, sie würden. The other verb at the end stays as it is in the dictionary: segeln, wohnen, schlafen.",
+     "more": "Take the future verb werde and change the e into ü: würde. Then add the endings: ich würde, du würdest, er würde, wir würden, ihr würdet, sie würden. Notice that ich and er/sie/es look the same, and so do wir and sie. That is only four different forms to learn, but you can use them for six persons. The second verb never changes: it stays as in the dictionary, segeln, wohnen, schlafen.",
      "table": {
       "headers": [
        "Person",
@@ -554,7 +554,7 @@
        ]
       }
      },
-     "more": "Picture two hands holding a sandwich. The left hand is würde in position 2, the right hand is the infinitive at the end. Everything else is the filling in the middle. Not this: Ich würde machen gern eine Weltreise. The infinitive must wait until the end: Ich würde gern eine Weltreise machen.",
+     "more": "In English would stands right in front of the verb: I would sail. German sends the verb far away. Picture two hands holding a sandwich: the left hand is würde in position 2, the right hand is the infinitive at the end, and everything else is the filling in the middle. Not this: Ich würde machen gern eine Weltreise. The infinitive waits until the end: Ich würde gern eine Weltreise machen. In a question, würde moves to the very front: Würdest du gern segeln?",
      "table": {
       "headers": [
        "Position 1",
@@ -576,8 +576,8 @@
         "üben."
        ],
        [
-        "Würdet ihr",
-        "(würdet = 1)",
+        "Würdet",
+        "ihr",
         "gern im Weltall",
         "leben?"
        ]
@@ -685,7 +685,7 @@
        ]
       }
      },
-     "more": "Three steps up a ladder: gern = I like the idea. lieber = I like it more than the other idea. am liebsten = I like it best of all. With am liebsten at the start, swap: Am liebsten würde ich …, not Am liebsten ich würde ….",
+     "more": "Think of three steps on a ladder. Step one, gern: I like the idea. Step two, lieber: I like it more than the other idea, so two ideas are in your head. Step three, am liebsten: I like it best of all, the top of the ladder. English says I'd like to, I'd rather, I'd most like to. With am liebsten at the start, the verb jumps in at once, so the subject moves behind it: Am liebsten würde ich …, not Am liebsten ich würde ….",
      "steps": [
       "gern = I would like to: Ich würde gern reisen.",
       "lieber = I would rather: Ich würde lieber segeln.",
@@ -818,7 +818,7 @@
        ]
       }
      },
-     "more": "werde = I will (a plan, it happens). würde = I would (a dream, maybe not). If you can put a date in your calendar, it is werde. If you only smile and dream, it is würde.",
+     "more": "Look at your calendar. If you can write the sentence in it with a day and a time, you mean werde: Ich werde am Samstag ausschlafen. If you only smile and sigh while you say it, you mean würde: Ich würde gern ausschlafen. One small letter, the ü, divides what will happen from what you only dream about. English has the same pair: I will sleep in on Saturday, I would like to sleep in. Listen for the ü, and look for a date.",
      "table": {
       "headers": [
        "Sentence",
@@ -843,6 +843,121 @@
        ]
       ]
      }
+    },
+    {
+     "title": "Words for dreams",
+     "body": "Nouns with article: der Wunsch (die Wünsche) is a wish, die Fantasie is imagination, das Ferienhaus is a holiday home, das Weltall is space. Adjective: reich means rich. Verbs: genießen means to enjoy, zaubern means to do magic, ausschlafen means to sleep in, segeln means to sail.",
+     "lead": "Dreams need words. This card collects the new nouns, adjective and verbs of the lesson with their articles, so the questions only test what you have met.",
+     "examples": [
+      {
+       "de": "Mira hat viel Fantasie.",
+       "en": "Mira has a lot of imagination.",
+       "parts": [
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "viel Fantasie.",
+         "object"
+        ]
+       ],
+       "why": "die Fantasie: learn it with its article"
+      },
+      {
+       "de": "Wir würden den Sommer am Meer genießen.",
+       "en": "We would enjoy the summer by the sea.",
+       "parts": [
+        [
+         "Wir",
+         "subject"
+        ],
+        [
+         "würden",
+         "konj2"
+        ],
+        [
+         "den Sommer",
+         "object"
+        ],
+        [
+         "am Meer",
+         "place"
+        ],
+        [
+         "genießen.",
+         "verb2"
+        ]
+       ],
+       "why": "genießen: würde + infinitive at the end"
+      },
+      {
+       "de": "Herr Ali ist nicht reich, aber zufrieden.",
+       "en": "Herr Ali is not rich, but content.",
+       "parts": [
+        [
+         "Herr Ali",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "reich,",
+         "adjective"
+        ],
+        [
+         "aber",
+         "conjunction"
+        ],
+        [
+         "zufrieden.",
+         "adjective"
+        ]
+       ],
+       "why": "reich is an adjective: no ending after ist"
+      }
+     ],
+     "deeper": {
+      "text": "Many dream words are compounds. Das Ferienhaus is Ferien (holidays) plus das Haus; the last part decides the article. Das Weltall is Welt plus All and has no plural. From the verb wünschen comes der Wunsch, which you know from good wishes: Ich wünsche dir viel Glück. Learn every noun with its article right away.",
+      "example": {
+       "de": "Ich wünsche dir viel Glück.",
+       "en": "I wish you a lot of luck.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "wünsche",
+         "verb"
+        ],
+        [
+         "dir",
+         "dative"
+        ],
+        [
+         "viel Glück.",
+         "object"
+        ]
+       ]
+      }
+     },
+     "more": "Make a silly little story with the new words: Leon has a wish (der Wunsch). He has so much imagination (die Fantasie) that he sees himself in a holiday home by the sea, enjoying (genießen) the sun. Then he does a little magic (zaubern) and flies into space (das Weltall). A silly story sticks better than a list. Say it aloud once, with every article.",
+     "steps": [
+      "der Wunsch, die Fantasie, das Ferienhaus, das Weltall",
+      "reich (adjective)",
+      "genießen, zaubern, ausschlafen, segeln (verbs)"
+     ]
     },
     {
      "title": "Sunday breakfast: dreams in the WG",
@@ -945,7 +1060,7 @@
       }
      ],
      "deeper": {
-      "text": "The full dialogue: Leon: Ich würde so gern eine Weltreise machen! Mira: Und wohin würdest du zuerst fahren? Leon: Zuerst nach Wien, dann ans Meer. Ben: Ich würde lieber einfach ausschlafen. Mira: Am liebsten würde ich zaubern! Ben: Das würde ich auch gern! In the last line das is the object in position 1, so würde comes next.",
+      "text": "Spoken German drops what it does not need. Leon answers Zuerst nach Wien, dann ans Meer without a verb, because the question already had one. Ben's Das würde ich auch gern! starts with das, the object, so würde comes second and ich third. The little word auch means too and sits before gern. Short, quick answers like these make you sound natural.",
       "example": {
        "de": "Das würde ich auch gern!",
        "en": "I would like that too!",
@@ -973,7 +1088,7 @@
        ]
       }
      },
-     "more": "Listen to the music of the sentences: würde always comes second, the dream verb comes last. Zuerst nach Wien, dann ans Meer is a short answer without a verb, which is normal in speaking. And with an adjective in the middle, the ending rules stay the same: ein kleines Ferienhaus.",
+     "more": "Listen to the music of the dialogue. würde always sits in position 2, and the dream verb comes last. Zuerst nach Wien, dann ans Meer is a short answer without any verb, which is perfectly normal when you speak. The little word so before gern makes the wish stronger, like I would so love to in English. With an adjective in the middle the ending rules stay the same: ein kleines Ferienhaus.",
      "table": {
       "headers": [
        "Speaker",
@@ -1023,12 +1138,12 @@
      "type": "choice",
      "prompt": "Ich ___ gern eine Weltreise machen.",
      "options": [
+      "würde",
       "würdest",
-      "würden",
-      "würde"
+      "würden"
      ],
-     "answer": 2,
-     "hint": "ich → würde.",
+     "answer": 0,
+     "hint": "The dream verb is werden with ü; ich takes no ending.",
      "explanation": "Ich würde gern eine Weltreise machen.",
      "grammar": true
     },
@@ -1089,10 +1204,10 @@
      "prompt": "Mira würde gern jeden Tag Gitarre ___.",
      "options": [
       "übt",
-      "üben",
-      "geübt"
+      "geübt",
+      "üben"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "After würde: the infinitive.",
      "explanation": "Mira würde gern jeden Tag Gitarre üben.",
      "grammar": true
@@ -1103,7 +1218,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "Am liebsten is position 1, würde comes next.",
+     "hint": "Am liebsten is position 1, so the dream verb comes next: ich takes no ending.",
      "explanation": "Am liebsten würde ich zaubern.",
      "grammar": true
     },
@@ -1111,12 +1226,12 @@
      "type": "choice",
      "prompt": "A plan for tomorrow: Ich ___ morgen ausschlafen.",
      "options": [
-      "würde",
       "werde",
+      "würde",
       "würdest"
      ],
-     "answer": 1,
-     "hint": "A plan that will happen: werde.",
+     "answer": 0,
+     "hint": "A plan will really happen: use the future verb, the one without ü.",
      "explanation": "Ich werde morgen ausschlafen.",
      "grammar": true
     }
@@ -1137,11 +1252,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich würde gern eine Weltreise machen.",
       "Ich würde machen gern eine Weltreise.",
+      "Ich würde gern eine Weltreise machen.",
       "Ich würde gern eine Weltreise machen würde."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "würde once, in position 2; the infinitive at the end.",
      "explanation": "Ich würde gern eine Weltreise machen.",
      "grammar": true
@@ -1155,7 +1270,7 @@
       "würde"
      ],
      "answer": 2,
-     "hint": "Not true now, only a dream: würde.",
+     "hint": "Not true now, only a dream: the verb with ü, and er takes no ending.",
      "explanation": "Er würde gern segeln.",
      "grammar": true
     },
@@ -1178,7 +1293,7 @@
      "answers": [
       "würdest"
      ],
-     "hint": "du → würdest.",
+     "hint": "The dream verb with ü; du adds -st.",
      "explanation": "Wohin würdest du gern fahren?",
      "grammar": true
     },
@@ -1205,12 +1320,12 @@
      "type": "choice",
      "prompt": "Ich würde gern reisen, aber ich würde ___ segeln.",
      "options": [
-      "lieber",
       "am liebsten",
+      "lieber",
       "gern"
      ],
-     "answer": 0,
-     "hint": "I would rather: lieber.",
+     "answer": 1,
+     "hint": "I would rather: the comparative of gern.",
      "explanation": "Ich würde lieber segeln.",
      "grammar": true
     },
@@ -1241,11 +1356,11 @@
      "type": "choice",
      "prompt": "Ben ___ am Sonntag gern ___.",
      "options": [
+      "würde … ausschlafen",
       "würde … ausgeschlafen",
-      "wird … schläft aus",
-      "würde … ausschlafen"
+      "wird … schläft aus"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "würde + infinitive.",
      "explanation": "Ben würde am Sonntag gern ausschlafen.",
      "grammar": true
@@ -1264,11 +1379,11 @@
      "type": "choice",
      "prompt": "Ich würde gern ein ___ Ferienhaus mieten.",
      "options": [
-      "kleines",
       "kleine",
+      "kleines",
       "kleinen"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "ein + das-noun: -es.",
      "explanation": "ein kleines Ferienhaus",
      "grammar": true
@@ -1440,12 +1555,12 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Man öffnet ___ Flaschen. (with it: da-word)",
+     "prompt": "Ich bleibe zu Hause, ___ ich krank bin. (because)",
      "answers": [
-      "damit"
+      "weil"
      ],
-     "hint": "For things: da + preposition.",
-     "explanation": "Man öffnet damit Flaschen.",
+     "hint": "This word sends the verb to the end of its part.",
+     "explanation": "Ich bleibe zu Hause, weil ich krank bin.",
      "grammar": true
     },
     {
@@ -1454,7 +1569,7 @@
      "answers": [
       "Könntest"
      ],
-     "hint": "du → könntest.",
+     "hint": "The polite request form of können; du adds -st.",
      "explanation": "Könntest du mir bitte helfen?",
      "grammar": true
     },
@@ -1464,7 +1579,7 @@
      "answers": [
       "solltest"
      ],
-     "hint": "du → solltest.",
+     "hint": "The advice verb; du adds -st.",
      "explanation": "Du solltest mehr schlafen.",
      "grammar": true
     },
@@ -1577,7 +1692,7 @@
        "why": "New today: the same hätte for any wish."
       }
      ],
-     "more": "You have used hätte for months without knowing it: Ich hätte gern einen Kaffee. Now imagine the café is your life. Instead of a coffee you order more time: Ich hätte gern mehr Zeit. Instead of a seat by the window you order the sea: Ich wäre gern am Meer. The same little form, bigger wishes."
+     "more": "You have ordered coffee with hätte for months: Ich hätte gern einen Kaffee. Now imagine the café is your whole life. Instead of a coffee you order more time: Ich hätte gern mehr Zeit. Instead of a seat by the window you order the sea: Ich wäre gern am Meer. It is the same little form, only with bigger wishes. The waiter cannot bring you these things, but the sentence is just as correct."
     },
     {
      "title": "Two special verbs: haben → hätte, sein → wäre",
@@ -1740,7 +1855,7 @@
        ]
       }
      },
-     "more": "Two verbs get their own dream form, all others use würde. haben → hätte. sein → wäre. Real (it is true): Ich habe Zeit. Ich komme. Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen.",
+     "more": "English hides the difference: I would have, I would be. German gives haben and sein their own dream forms, so you never say würde haben or würde sein. The memory trick: hatte becomes hätte, war becomes wäre. Take the past form you know and add the two dots. Then ask only one question: have or be? That is all you need to choose between them.",
      "table": {
       "headers": [
        "Real (true now)",
@@ -1871,7 +1986,7 @@
        ]
       }
      },
-     "more": "Same endings as würde: -e, -est, -e, -en, -et, -en. hätte, hättest, hätte, hätten, hättet, hätten. And what you wish for is the accusative object: einen Garten, eine Zeitmaschine, ein Ferienhaus.",
+     "more": "Say it like a little song, with the same endings as würde: -e, -est, -e, -en, -et, -en. hätte, hättest, hätte, hätten, hättet, hätten. The verb alone carries the dream, so there is no second verb at the end. What you would like to have follows as the accusative object: einen Garten, eine Zeitmaschine, ein Ferienhaus. In the café you say it the same way: Ich hätte gern einen Tee.",
      "table": {
       "headers": [
        "Person",
@@ -2009,7 +2124,7 @@
        ]
       }
      },
-     "more": "wäre is the dream of sein. Learn the short forms: du wärst (not du wärest), ihr wärt. Everything else is like würde: ich wäre, er wäre, wir wären, sie wären.",
+     "more": "wäre is the dream of sein, and it has two short forms that people really use: du wärst and ihr wärt. Old books also show wärest and wäret, but they sound stiff, so skip them. After wäre you say what you are, where you are or how you are: ein König, am Meer, reich. Nothing gets an accusative ending here, because wäre only connects, just like ist does.",
      "table": {
       "headers": [
        "Person",
@@ -2125,15 +2240,15 @@
      "deeper": {
       "text": "You may hear Ich würde gern mehr Zeit haben in spoken German. People understand it, but it sounds heavy, and good German uses the short form: Ich hätte gern mehr Zeit. The same with sein: Ich wäre gern reich, not Ich würde gern reich sein. The short forms are also faster to say, so native speakers love them.",
       "example": {
-       "de": "Wir hätten gern Ruhe. Wir würden gern ausschlafen.",
-       "en": "We would like some peace. We would like to sleep in.",
+       "de": "Ich hätte gern mehr Zeit.",
+       "en": "I would like to have more time.",
        "parts": [
         [
-         "Wir",
+         "Ich",
          "subject"
         ],
         [
-         "hätten",
+         "hätte",
          "konj2"
         ],
         [
@@ -2141,29 +2256,13 @@
          "other"
         ],
         [
-         "Ruhe.",
+         "mehr Zeit.",
          "object"
-        ],
-        [
-         "Wir",
-         "subject"
-        ],
-        [
-         "würden",
-         "konj2"
-        ],
-        [
-         "gern",
-         "other"
-        ],
-        [
-         "ausschlafen.",
-         "verb2"
         ]
        ]
       }
      },
-     "more": "One question: haben or sein? Yes: hätte or wäre, alone, no extra verb. No: würde + the verb at the end. Ich hätte gern Zeit. Ich wäre gern frei. Ich würde gern segeln.",
+     "more": "Think of a tool box with three tools. A hammer for haben, a screwdriver for sein, and a universal tool for all the rest. For every wish you pick one. Is the verb haben? Take hätte. Is it sein? Take wäre. Is it anything else, like sparen, reisen or schlafen? Take würde and put the verb at the end. Most dreams are about having, being or doing: three questions, three tools.",
      "steps": [
       "Is the verb haben or sein?",
       "haben → hätte: Ich hätte gern mehr Zeit.",
@@ -2268,7 +2367,7 @@
        ]
       }
      },
-     "more": "Das wäre … is the dream of Das ist …. Das ist schön (it is true). Das wäre schön (it is only an idea, but a nice one). Use it every time someone says a dream.",
+     "more": "Das wäre … is the dream version of Das ist …. Das ist schön: it is true, I can see it. Das wäre schön: it is only an idea, but a nice one. English does the same: That is nice, that would be nice. Use it whenever someone tells you a dream; it shows you are listening. Then keep the talk going with a question: Und du? Was würdest du machen?",
      "table": {
       "headers": [
        "Reaction",
@@ -2293,6 +2392,117 @@
        ]
       ]
      }
+    },
+    {
+     "title": "Words about money and luxury",
+     "body": "Learn with article: der Lottogewinn, die Million, der Millionär (die Millionärin), der Luxus, die Königin. The verb sparen means to save money. The adverb unbedingt means absolutely, by all means: it makes a wish stronger. Ein Ferienhaus am Meer wäre Luxus.",
+     "lead": "Wishes are often about money. This card gives you the rest of the lesson's words with their articles, so the questions only test what you have met.",
+     "examples": [
+      {
+       "de": "Ich würde unbedingt ans Meer fahren.",
+       "en": "I would absolutely go to the sea.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "würde",
+         "konj2"
+        ],
+        [
+         "unbedingt",
+         "other"
+        ],
+        [
+         "ans Meer",
+         "place"
+        ],
+        [
+         "fahren.",
+         "verb2"
+        ]
+       ],
+       "why": "unbedingt makes the wish stronger"
+      },
+      {
+       "de": "Ein Ferienhaus am Meer wäre Luxus.",
+       "en": "A holiday home by the sea would be luxury.",
+       "parts": [
+        [
+         "Ein Ferienhaus",
+         "subject"
+        ],
+        [
+         "am Meer",
+         "place"
+        ],
+        [
+         "wäre",
+         "konj2"
+        ],
+        [
+         "Luxus.",
+         "other"
+        ]
+       ],
+       "why": "der Luxus: no plural"
+      },
+      {
+       "de": "Ben spart für ein Fahrrad.",
+       "en": "Ben is saving for a bike.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "spart",
+         "verb"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "ein Fahrrad.",
+         "object"
+        ]
+       ],
+       "why": "sparen für + accusative"
+      }
+     ],
+     "deeper": {
+      "text": "unbedingt sits in the middle and adds force. It is stronger than gern: Ich würde unbedingt ans Meer fahren means you really want it. Women get the ending -in: der Millionär becomes die Millionärin, der König becomes die Königin, and the plural is -innen: die Königinnen. The noun der Luxus has no plural in this meaning.",
+      "example": {
+       "de": "Anna wäre gern eine Königin.",
+       "en": "Anna would like to be a queen.",
+       "parts": [
+        [
+         "Anna",
+         "subject"
+        ],
+        [
+         "wäre",
+         "konj2"
+        ],
+        [
+         "gern",
+         "other"
+        ],
+        [
+         "eine Königin.",
+         "object"
+        ]
+       ]
+      }
+     },
+     "more": "A quick money story: a lottery win (der Lottogewinn) of a million euros (die Million) makes you a millionaire. Now you choose: spend it on luxury (der Luxus), or save it (sparen). A fairy-tale life makes you a king or a queen. When you really want something, add unbedingt. Tell yourself this story once, with every article, and the words stay in your head.",
+     "steps": [
+      "der Lottogewinn, die Million, der Millionär, der Luxus",
+      "die Königin; sparen",
+      "unbedingt: absolutely"
+     ]
     },
     {
      "title": "Our wishes: the WG whiteboard",
@@ -2423,7 +2633,7 @@
        ]
       }
      },
-     "more": "Read each line and ask: have or be? Anna wants to have a day: hätte. Leon wants to be on a ship: wäre. Ben wants to be a king and then to have time: wäre and hätte together.",
+     "more": "Read each line and ask the have-or-be question. Anna wants to have a day: hätte. Leon wants to be on a ship: wäre. Ben wants to be a king and then to have time, so wäre and hätte stand in one sentence, joined by dann. Frau Weber wants to be twenty again: wäre. Try writing your own line for the whiteboard, starting with Ich hätte gern … or Ich wäre gern ….",
      "table": {
       "headers": [
        "Who",
@@ -2471,7 +2681,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben → hätte.",
+     "hint": "The dream form of haben looks like hatte, with an umlaut; ich takes -e.",
      "explanation": "Ich hätte gern mehr Zeit.",
      "grammar": true
     },
@@ -2481,7 +2691,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "The dream form of sein looks like war, with an umlaut; ich takes -e.",
      "explanation": "Ich wäre gern reich.",
      "grammar": true
     },
@@ -2489,11 +2699,11 @@
      "type": "choice",
      "prompt": "___ du gern eine Zeitmaschine?",
      "options": [
-      "Hätte",
       "Hättest",
+      "Hätte",
       "Hätten"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "du → -est.",
      "explanation": "Hättest du gern eine Zeitmaschine?",
      "grammar": true
@@ -2504,10 +2714,10 @@
      "options": [
       "Wäre",
       "Wärst",
-      "Wärest du"
+      "Wäret"
      ],
      "answer": 1,
-     "hint": "du → wärst (short form).",
+     "hint": "du takes the short form with -st, without an extra e.",
      "explanation": "Wärst du gern Millionärin?",
      "grammar": true
     },
@@ -2530,7 +2740,7 @@
       "wären"
      ],
      "answer": 2,
-     "hint": "Ben und Leon = sie → wären.",
+     "hint": "Ben und Leon = sie (plural): the form ends in -en.",
      "explanation": "Ben und Leon wären gern auf dem Mond.",
      "grammar": true
     },
@@ -2540,7 +2750,7 @@
      "answers": [
       "wärt"
      ],
-     "hint": "ihr → wärt.",
+     "hint": "ihr takes the short form with -t, without an extra e.",
      "explanation": "Ihr wärt gern am Meer.",
      "grammar": true
     },
@@ -2548,12 +2758,12 @@
      "type": "choice",
      "prompt": "Eine Million Euro! Das ___ toll!",
      "options": [
-      "würde",
       "wäre",
+      "würde",
       "hätte"
      ],
-     "answer": 1,
-     "hint": "Das ist toll → Das wäre toll.",
+     "answer": 0,
+     "hint": "A dream, not a fact: the dream form of sein.",
      "explanation": "Das wäre toll!",
      "grammar": true
     }
@@ -2576,10 +2786,10 @@
      "prompt": "Which sentence is best?",
      "options": [
       "Ich würde gern mehr Zeit haben.",
-      "Ich hätte gern mehr Zeit haben.",
-      "Ich hätte gern mehr Zeit."
+      "Ich hätte gern mehr Zeit.",
+      "Ich hätte gern mehr Zeit haben."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "With haben use hätte, alone.",
      "explanation": "Ich hätte gern mehr Zeit.",
      "grammar": true
@@ -2588,12 +2798,12 @@
      "type": "choice",
      "prompt": "Mira ___ gern Gitarre spielen.",
      "options": [
-      "würde",
       "hätte",
-      "wäre"
+      "wäre",
+      "würde"
      ],
-     "answer": 0,
-     "hint": "spielen is not haben or sein: würde + infinitive.",
+     "answer": 2,
+     "hint": "spielen is not haben or sein, so use the dream verb with the infinitive at the end.",
      "explanation": "Mira würde gern Gitarre spielen.",
      "grammar": true
     },
@@ -2601,12 +2811,12 @@
      "type": "choice",
      "prompt": "Mira ___ gern Musikerin.",
      "options": [
-      "würde",
       "wäre",
+      "würde",
       "hätte"
      ],
-     "answer": 1,
-     "hint": "to be → wäre.",
+     "answer": 0,
+     "hint": "Mira would like to be something: the dream form of sein.",
      "explanation": "Mira wäre gern Musikerin.",
      "grammar": true
     },
@@ -2616,7 +2826,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "Ich bin … in the real sentence: use the dream form of sein.",
      "explanation": "Ich wäre gern am Meer.",
      "grammar": true
     },
@@ -2626,7 +2836,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben → hätte.",
+     "hint": "Anna hat … in the real sentence: use the dream form of haben.",
      "explanation": "Anna hätte gern mehr Freizeit.",
      "grammar": true
     },
@@ -2661,11 +2871,11 @@
      "type": "choice",
      "prompt": "Which is correct?",
      "options": [
-      "Du wärest gern reich.",
-      "Du wärt gern reich.",
-      "Du wärst gern reich."
+      "Du wäre gern reich.",
+      "Du wärst gern reich.",
+      "Du wärt gern reich."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "du → wärst.",
      "explanation": "Du wärst gern reich.",
      "grammar": true
@@ -2675,11 +2885,11 @@
      "prompt": "A friend: 'Ein Ferienhaus am Meer!' You react:",
      "options": [
       "Das würde ein Traum!",
-      "Das wäre ein Traum!",
-      "Das hätte ein Traum!"
+      "Das hätte ein Traum!",
+      "Das wäre ein Traum!"
      ],
-     "answer": 1,
-     "hint": "Das ist ein Traum → Das wäre ein Traum.",
+     "answer": 2,
+     "hint": "Das ist … becomes its dream form.",
      "explanation": "Das wäre ein Traum!",
      "grammar": true
     },
@@ -2687,11 +2897,11 @@
      "type": "choice",
      "prompt": "'sparen' means …",
      "options": [
+      "to save (money)",
       "to spend",
-      "to sail",
-      "to save (money)"
+      "to sail"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Ich würde sparen.",
      "explanation": "sparen = to save money.",
      "grammar": false
@@ -2886,12 +3096,12 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Ich ___ gern eine Weltreise machen. (werden, Konjunktiv II)",
+     "prompt": "Ben ___ gern länger schlafen. (werden, Konjunktiv II)",
      "answers": [
       "würde"
      ],
-     "hint": "ich → würde.",
-     "explanation": "Ich würde gern eine Weltreise machen.",
+     "hint": "The dream verb is werden with ü; er takes no ending.",
+     "explanation": "Ben würde gern länger schlafen.",
      "grammar": true
     },
     {
@@ -2910,7 +3120,7 @@
      "answers": [
       "werde"
      ],
-     "hint": "A plan: werde.",
+     "hint": "A plan with a date: the future verb, without ü.",
      "explanation": "Ich werde morgen ausschlafen.",
      "grammar": true
     },
@@ -3056,7 +3266,7 @@
        "why": "New today: I do not have the time, so it is not real."
       }
      ],
-     "more": "Imagine two doors. Behind the first door is a real possibility: Wenn ich Zeit habe, komme ich. Maybe tomorrow I have time, then I come. The second door is painted on the wall: it does not open. Wenn ich Zeit hätte, würde ich kommen. You know you have no time. Today you learn to talk about the painted doors."
+     "more": "Imagine two doors. Behind the first door is a real possibility: Wenn ich Zeit habe, komme ich. Maybe tomorrow I am free, and then I come. The second door is only painted on the wall: it does not open. Wenn ich Zeit hätte, würde ich kommen. You know you have no time, so you can only talk about what would be behind it. English says it with were and would: If I had time, I would come."
     },
     {
      "title": "Real wenn or unreal wenn?",
@@ -3199,7 +3409,7 @@
        ]
       }
      },
-     "more": "Real: maybe yes, maybe no. Normal verbs. Unreal: we know it is not so. hätte or wäre in the wenn-part, würde at the start of the main part. Real (it is true): Ich habe Zeit. Ich komme. Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen.",
+     "more": "A real wenn-sentence is a question that is still open: maybe yes, maybe no, so the verbs stay normal. An unreal wenn-sentence is a closed question: we both know it is not so. Then hätte or wäre goes into the wenn-part and würde starts the main part. English shows the same change: if it is nice, but if it were nice. In German the change is one vowel: ist or wäre.",
      "table": {
       "headers": [
        "Real (possible)",
@@ -3350,7 +3560,7 @@
        ]
       }
      },
-     "more": "The wenn-part is like a box: wenn opens it, the verb closes it at the end. Not this: Wenn ich hätte mehr Zeit. The verb must wait: Wenn ich mehr Zeit hätte.",
+     "more": "The wenn-part is like a box: wenn opens it, and the verb closes it at the very end. Not this: Wenn ich hätte mehr Zeit. The verb must wait for the last seat: Wenn ich mehr Zeit hätte. You already built boxes like this with weil and dass, so the habit is the same. Only the closing verb is new: hätte, wäre or könnte. A second verb always comes first, then the dream verb: segeln könnte.",
      "steps": [
       "wenn",
       "the subject: ich, wir, Ben …",
@@ -3531,7 +3741,7 @@
        ]
       }
      },
-     "more": "Count: the wenn-part is part 1. The verb must be part 2. So right after the comma: würde. Not this: Wenn ich mehr Zeit hätte, ich würde …. Say it: hätte, würde ich.",
+     "more": "Count the parts. The wenn-part is part 1, so the verb must be part 2: würde, right after the comma. That is why two verbs meet at the comma: hätte, würde. Not this: Wenn ich mehr Zeit hätte, ich würde …. Say it aloud as a rhythm: hätte, würde ich. You know this rhythm from real wenn-sentences: Wenn es regnet, bleibe ich. Only the verbs are dream verbs now.",
      "table": {
       "headers": [
        "Part 1: wenn-part",
@@ -3738,7 +3948,7 @@
        ]
       }
      },
-     "more": "Two halves, two orders, one meaning. Main part first: Ich würde Gitarre lernen, wenn ich Zeit hätte. Wenn-part first: Wenn ich Zeit hätte, würde ich Gitarre lernen. The wenn-part always ends with hätte, wäre or könnte.",
+     "more": "Two halves, two orders, one meaning. Main part first: Ich würde Gitarre lernen, wenn ich Zeit hätte. Wenn-part first: Wenn ich Zeit hätte, würde ich Gitarre lernen. With the main part first the dream comes first, which feels more personal. With the wenn-part first the condition comes first, which feels more careful. In both orders the wenn-part ends with hätte, wäre or könnte. Try both with the same idea.",
      "table": {
       "headers": [
        "Main part",
@@ -3913,7 +4123,7 @@
        ]
       }
      },
-     "more": "Use the haben-or-sein test again, also in the main part. haben → hätte, sein → wäre, other verbs → würde + infinitive. Wenn ich Zeit hätte, wäre ich glücklich.",
+     "more": "Use the haben-or-sein test again, now inside the main part. haben gives hätte, sein gives wäre, every other verb gives würde + infinitive. Wenn ich Zeit hätte, wäre ich glücklich. Hear how the two dream forms rhyme at the comma. English hides this: if I had time, I would be happy has would in both places, but German uses the short forms wherever it can.",
      "table": {
       "headers": [
        "Wenn-part",
@@ -3938,6 +4148,125 @@
        ]
       ]
      }
+    },
+    {
+     "title": "Hobby and free-time words",
+     "body": "Hobbies: das Instrument, stricken (to knit), töpfern (to make pottery), die Fotografie, der Tanzkurs. Free time: Zeit verbringen (to spend time), sich ausruhen (to rest), öfter (more often). Das Programm is the programme or schedule, die Ausstellung is an exhibition.",
+     "lead": "Dreams about free time need hobby words. This card gives you the last words of the lesson with their articles, so nothing in the questions is new.",
+     "examples": [
+      {
+       "de": "Frau Weber strickt einen Pullover.",
+       "en": "Frau Weber is knitting a jumper.",
+       "parts": [
+        [
+         "Frau Weber",
+         "subject"
+        ],
+        [
+         "strickt",
+         "verb"
+        ],
+        [
+         "einen Pullover.",
+         "object"
+        ]
+       ],
+       "why": "stricken: a normal verb"
+      },
+      {
+       "de": "Ich würde gern mehr Zeit mit der Fotografie verbringen.",
+       "en": "I would like to spend more time on photography.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "würde",
+         "konj2"
+        ],
+        [
+         "gern",
+         "other"
+        ],
+        [
+         "mehr Zeit",
+         "object"
+        ],
+        [
+         "mit",
+         "preposition"
+        ],
+        [
+         "der Fotografie",
+         "dative"
+        ],
+        [
+         "verbringen.",
+         "verb2"
+        ]
+       ],
+       "why": "verbringen at the end after würde"
+      },
+      {
+       "de": "Das Programm vom Tanzkurs ist neu.",
+       "en": "The programme of the dance class is new.",
+       "parts": [
+        [
+         "Das Programm",
+         "subject"
+        ],
+        [
+         "vom Tanzkurs",
+         "other"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "neu.",
+         "adjective"
+        ]
+       ],
+       "why": "das Programm, die Programme"
+      }
+     ],
+     "deeper": {
+      "text": "verbringen starts with ver-, an inseparable prefix, so its participle has no ge-: hat verbracht. You spend time with verbringen, but you spend money with ausgeben. Zeit verbringen is a very common phrase for holidays and free time. The adverb öfter is the comparative of oft: oft, öfter, am häufigsten.",
+      "example": {
+       "de": "Ich habe den Sonntag im Garten verbracht.",
+       "en": "I spent Sunday in the garden.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "den Sonntag",
+         "object"
+        ],
+        [
+         "im Garten",
+         "place"
+        ],
+        [
+         "verbracht.",
+         "verb2"
+        ]
+       ]
+      }
+     },
+     "more": "Sort the words into two boxes. The hobby box: stricken, töpfern, die Fotografie, das Instrument, der Tanzkurs. The time box: Zeit verbringen, sich ausruhen, öfter. One word ties both boxes together: das Programm, the plan of an evening. Now say one dream from each box aloud, for example: Wenn ich Zeit hätte, würde ich öfter töpfern. Every word you can say in a what-if sentence is a word you really own.",
+     "steps": [
+      "Hobbies: das Instrument, stricken, töpfern, die Fotografie, der Tanzkurs",
+      "Time: Zeit verbringen, sich ausruhen, öfter",
+      "Plans: das Programm, die Ausstellung"
+     ]
     },
     {
      "title": "Questions: Was würdest du machen, wenn …?",
@@ -4084,7 +4413,7 @@
        ]
       }
      },
-     "more": "Questions are easy: question word, würdest du, the verb at the end, then wenn … hättest. Was würdest du machen, wenn …? It is the perfect question for a party.",
+     "more": "Questions are easy: question word, würdest du, the verb at the end, then wenn … hättest. Was würdest du machen, wenn …? It is a perfect question for a party, because every answer starts with Ich würde …. Mira's second question is shorter: Und wenn du mehr Geld hättest? You may leave out the first half when everybody knows what you mean. Anna's last line is real again: she really has no time.",
      "table": {
       "headers": [
        "Speaker",
@@ -4136,7 +4465,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "Not true: hätte at the end of the wenn-part.",
+     "hint": "Not true: the dream form of haben, at the end of the wenn-part.",
      "explanation": "Wenn ich mehr Zeit hätte, …",
      "grammar": true
     },
@@ -4146,7 +4475,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "Not true: the dream form of sein, at the end of the wenn-part.",
      "explanation": "Wenn ich reich wäre, …",
      "grammar": true
     },
@@ -4154,12 +4483,12 @@
      "type": "choice",
      "prompt": "Wenn wir einen Garten hätten, ___ wir jeden Sonntag grillen.",
      "options": [
+      "würden",
       "werden",
-      "würdet",
-      "würden"
+      "würdet"
      ],
-     "answer": 2,
-     "hint": "wir → würden.",
+     "answer": 0,
+     "hint": "wir: the plural dream verb ends in -en.",
      "explanation": "…, würden wir jeden Sonntag grillen.",
      "grammar": true
     },
@@ -4172,7 +4501,7 @@
       "könnten"
      ],
      "answer": 1,
-     "hint": "Unreal: könnte at the end.",
+     "hint": "Unreal: the dream form of können, at the end.",
      "explanation": "Wenn Ben Gitarre spielen könnte, …",
      "grammar": true
     },
@@ -4217,12 +4546,12 @@
      "type": "choice",
      "prompt": "Wenn ich Zeit hätte, ___ ich glücklich.",
      "options": [
-      "wäre",
       "würde",
-      "hätte"
+      "hätte",
+      "wäre"
      ],
-     "answer": 0,
-     "hint": "sein → wäre, also in the main part.",
+     "answer": 2,
+     "hint": "sein keeps its own short dream form in the main part too.",
      "explanation": "Wenn ich Zeit hätte, wäre ich glücklich.",
      "grammar": true
     },
@@ -4232,7 +4561,7 @@
      "answers": [
       "würdest"
      ],
-     "hint": "du → würdest.",
+     "hint": "The dream verb with ü; du adds -st.",
      "explanation": "Was würdest du machen, …?",
      "grammar": true
     }
@@ -4279,11 +4608,11 @@
      "type": "choice",
      "prompt": "'Wenn ich Zeit habe, komme ich.' means …",
      "options": [
-      "Maybe I have time, then I come.",
       "I have no time.",
-      "I would come, but I can't."
+      "I would come, but I can't.",
+      "Maybe I have time, then I come."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Normal verb = real, possible.",
      "explanation": "A real condition: it is possible.",
      "grammar": true
@@ -4294,7 +4623,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "Not true: the dream form of sein at the end of the wenn-part.",
      "explanation": "Wenn das Wetter schön wäre, würden wir grillen.",
      "grammar": true
     },
@@ -4304,7 +4633,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben in the main part → hätte, alone.",
+     "hint": "haben keeps its own short dream form in the main part too.",
      "explanation": "…, hätte ich ein Ferienhaus.",
      "grammar": true
     },
@@ -4339,12 +4668,12 @@
      "type": "choice",
      "prompt": "Wenn Mira nicht so müde ___, würde sie in die Ausstellung gehen.",
      "options": [
-      "ist",
       "wäre",
+      "ist",
       "würde"
      ],
-     "answer": 1,
-     "hint": "Not true: wäre at the end.",
+     "answer": 0,
+     "hint": "Not true: the dream form of sein at the end of the wenn-part.",
      "explanation": "Wenn Mira nicht so müde wäre, …",
      "grammar": true
     },
@@ -4357,7 +4686,7 @@
       "wärst"
      ],
      "answer": 1,
-     "hint": "du → würdest + reisen.",
+     "hint": "The dream verb with ü; du adds -st; the infinitive goes to the end.",
      "explanation": "…, wohin würdest du reisen?",
      "grammar": true
     },
@@ -4365,11 +4694,11 @@
      "type": "choice",
      "prompt": "'töpfern' means …",
      "options": [
-      "to make pottery",
       "to knit",
-      "to dance"
+      "to dance",
+      "to make pottery"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Anna würde gern töpfern.",
      "explanation": "töpfern = to make pottery.",
      "grammar": false
@@ -4568,7 +4897,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben → hätte.",
+     "hint": "haben has its own short dream form, with an umlaut.",
      "explanation": "Ich hätte gern mehr Zeit.",
      "grammar": true
     },
@@ -4578,7 +4907,7 @@
      "answers": [
       "Wärst"
      ],
-     "hint": "du → wärst.",
+     "hint": "du takes the short form of the dream form of sein, with -st.",
      "explanation": "Wärst du gern Millionärin?",
      "grammar": true
     },
@@ -4588,7 +4917,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "Das ist → Das wäre.",
+     "hint": "Das ist … becomes its dream form.",
      "explanation": "Das wäre toll!",
      "grammar": true
     },
@@ -4709,11 +5038,11 @@
        "why": "New today: you put yourself in your friend's place."
       }
      ],
-     "more": "Think of it as swapping shoes. Du solltest … points at your friend: you should. Ich an deiner Stelle würde … puts on your friend's shoes: if I stood where you stand, I would do this. It sounds warmer and less bossy. Real (it is true): Ich habe Zeit. Ich komme. Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen."
+     "more": "Think of swapping shoes. Du solltest … points at your friend: you should. That can sound like a teacher. Ich an deiner Stelle würde … puts on your friend's shoes: if I stood where you stand, I would do this. It sounds warmer and less bossy, because you share the problem instead of giving an order. English has the same idea: If I were you, I would … Use it with friends first."
     },
     {
      "title": "Annas Tag: words for a stressful day",
-     "body": "Anna is always in a hurry. Her day: 6:30 the Wecker rings, but she has verschlafen. At work she has no Mittagspause. In the evening she has her Sprachkurs, and at 22 Uhr she still reads E-Mails. Her Terminkalender is full, she feels Zeitdruck and Hektik.",
+     "body": "Anna is always in a hurry. Her day: 6:30 the Wecker rings, but she has verschlafen. At work she has no Mittagspause. In the evening she has her Sprachkurs, and at 22 Uhr she still reads E-Mails. Her Terminkalender is full, and the whole day is hektisch: she feels Zeitdruck and Hektik.",
      "lead": "Before we give advice, we need a problem. Here is Anna's busy day, told in the present and the Perfekt you know, with the new words for time trouble.",
      "examples": [
       {
@@ -4808,7 +5137,7 @@
        ]
       }
      },
-     "more": "Anna has too much to do and too little time. Hektik = rush. Zeitdruck = pressure from the clock. Es eilig haben = to be in a hurry: Ich habe es eilig. Remember es, it is part of the chunk.",
+     "more": "Anna has too much to do and too little time. Hektik is rush: everything happens at once. Zeitdruck is the pressure of the clock, like a clock breathing down your neck. Es eilig haben means to be in a hurry, and es is part of the chunk: Ich habe es eilig. If someone is überfordert, there is simply too much on their plate. Tell Anna's day in five short sentences, using the new words.",
      "steps": [
       "6:30: Der Wecker klingelt. Anna hat verschlafen.",
       "9:00: Sie hat es eilig. Viele Termine, viel Zeitdruck.",
@@ -4938,7 +5267,7 @@
        ]
       }
      },
-     "more": "Two ways, same meaning. Ich an deiner Stelle | würde | … infinitive. An deiner Stelle | würde | ich … infinitive. Always: würde second, infinitive last. Wrong: Ich an deiner Stelle würde machen eine Pause. Right: Ich an deiner Stelle würde eine Pause machen.",
+     "more": "Two ways, same meaning, and würde stays second both times. Ich an deiner Stelle | würde | … infinitive. An deiner Stelle | würde | … infinitive. In the first way Ich an deiner Stelle is one long position 1. In the second way An deiner Stelle is position 1, so ich has to move behind würde. Wrong: Ich an deiner Stelle würde machen eine Pause. Right: Ich an deiner Stelle würde eine Pause machen.",
      "table": {
       "headers": [
        "Position 1",
@@ -5073,7 +5402,7 @@
        ]
       }
      },
-     "more": "Problem: zu viel Stress. Very strong: Du musst … . Strong: Du solltest … . Friendly: Ich an deiner Stelle würde … . Soft: Du könntest … . All four: verb second, infinitive at the end.",
+     "more": "Imagine a volume knob for advice. All the way up: Du musst …. A bit lower: Du solltest …. Medium and friendly: Ich an deiner Stelle würde …. Almost at zero: Du könntest …. The problem is the same, zu viel Stress, only your voice changes. With a friend who is already sad, pick a low number. With a friend who asks for clear help, pick a higher number.",
      "table": {
       "headers": [
        "Strength",
@@ -5252,7 +5581,7 @@
        ]
       }
      },
-     "more": "Two parts. Part 1: Es wäre gut / Es wäre besser. Comma. Part 2: wenn + du + … + verb at the end (present). Example: Es wäre besser, wenn du eine Pause machst.",
+     "more": "Two parts, joined by a comma. Part 1: Es wäre gut or Es wäre besser. Part 2: wenn, then du, then the rest, with the verb at the very end in the normal present. Es wäre besser, wenn du eine Pause machst. It sounds softer than Du musst eine Pause machen, because you describe a nice situation instead of giving an order. English says: It would be better if you took a break.",
      "steps": [
       "Es wäre gut / Es wäre besser",
       "comma: ,",
@@ -5357,7 +5686,7 @@
       }
      ],
      "deeper": {
-      "text": "Notice the change of person: you ask with an meiner Stelle (in my place), your friend answers with an deiner Stelle (in your place). mein becomes dein, just as ich becomes du. A polite thank-you after advice: Danke für den Tipp! Tipp and Ratschlag are both words you already know.",
+      "text": "Notice the change of person: you ask with an meiner Stelle (in my place), your friend answers with an deiner Stelle (in your place). mein becomes dein, just as ich becomes du. A polite thank-you after advice is Danke für den Tipp! Ein Tipp is a small, friendly piece of advice, less serious than an order.",
       "example": {
        "de": "Danke für den Tipp! Das mache ich.",
        "en": "Thanks for the tip! I'll do that.",
@@ -5385,7 +5714,7 @@
        ]
       }
      },
-     "more": "Ask: Was würdest du an meiner Stelle machen? Say yes: Gute Idee! Das probiere ich. Say no: Das geht leider nicht, weil … (verb at the end).",
+     "more": "Advice talks go in a circle. Anna asks: Was würdest du an meiner Stelle machen? Her friend suggests something. Then Anna answers, and she has three choices: say yes (Gute Idee!), say no politely (Das geht leider nicht, weil …), or ask more (Was soll ich machen?). Learn the polite no, because real life is full of good advice that does not fit your day.",
      "table": {
       "headers": [
        "You want to …",
@@ -5528,7 +5857,7 @@
        ]
       }
      },
-     "more": "Note shape: Liebe Anna, (comma) / ich an deiner Stelle würde … (small letter) / Du solltest … / Viele Grüße (no comma) / Frau Weber.",
+     "more": "Look at the shape of the note. First a greeting with a comma: Liebe Anna, then the text starts with a small letter: ich an deiner Stelle … Then one or two pieces of advice. The closing has no comma: Viele Grüße, and the name sits on a new line. Frau Weber uses three strengths in one short note: an deiner Stelle, du solltest and a friendly tip. Copy this shape when you write to a friend.",
      "steps": [
       "Liebe Anna,",
       "ich an deiner Stelle würde nicht so viel arbeiten.",
@@ -5541,7 +5870,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:rY14J4hyc8E"
+     "yt:rY14J4hyc8E",
+     "yt:XxZupuS7aXo"
     ],
     "nicosWeg": [
      "nw:a2-22"
@@ -5553,12 +5883,12 @@
      "type": "choice",
      "prompt": "An deiner Stelle ___ ich eine Pause machen.",
      "options": [
+      "würde",
       "würdest",
-      "werde",
-      "würde"
+      "werde"
      ],
-     "answer": 2,
-     "hint": "ich → würde.",
+     "answer": 0,
+     "hint": "The dream verb with ü; ich takes no ending.",
      "explanation": "An deiner Stelle würde ich eine Pause machen.",
      "grammar": true
     },
@@ -5612,7 +5942,7 @@
      "answers": [
       "solltest"
      ],
-     "hint": "du → solltest.",
+     "hint": "du: the advice verb with the ending -st.",
      "explanation": "Du solltest mehr schlafen.",
      "grammar": true
     },
@@ -5635,7 +5965,7 @@
      "answers": [
       "meiner"
      ],
-     "hint": "ich → an meiner Stelle.",
+     "hint": "an + dative, feminine noun: mein- gets the ending -er.",
      "explanation": "Was würdest du an meiner Stelle machen?",
      "grammar": true
     },
@@ -5643,12 +5973,12 @@
      "type": "choice",
      "prompt": "Anna ist zu spät aufgewacht. Sie hat ___.",
      "options": [
+      "verschlafen",
       "ausgeschlafen",
-      "geschlafen",
-      "verschlafen"
+      "geschlafen"
      ],
-     "answer": 2,
-     "hint": "Too late = verschlafen.",
+     "answer": 0,
+     "hint": "The prefix ver- often means that something went wrong.",
      "explanation": "Sie hat verschlafen.",
      "grammar": true
     }
@@ -5669,11 +5999,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "An deiner Stelle würde ich eine Pause machen.",
       "An deiner Stelle ich würde eine Pause machen.",
+      "An deiner Stelle würde ich eine Pause machen.",
       "An deiner Stelle würde ich machen eine Pause."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "An deiner Stelle is position 1: the verb comes next.",
      "explanation": "An deiner Stelle würde ich eine Pause machen.",
      "grammar": true
@@ -5682,11 +6012,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich an deiner Stelle würde eine Pause machen.",
       "Ich würde an deiner Stelle machen eine Pause.",
-      "Ich an deiner Stelle mache würde eine Pause."
+      "Ich an deiner Stelle mache würde eine Pause.",
+      "Ich an deiner Stelle würde eine Pause machen."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Ich an deiner Stelle | würde | … infinitive.",
      "explanation": "Ich an deiner Stelle würde eine Pause machen.",
      "grammar": true
@@ -5697,7 +6027,7 @@
      "answers": [
       "setzt"
      ],
-     "hint": "du → setzt, at the end.",
+     "hint": "du: present-tense ending -st; the verb goes to the end.",
      "explanation": "Es wäre gut, wenn du Prioritäten setzt.",
      "grammar": true
     },
@@ -5745,11 +6075,11 @@
      "type": "choice",
      "prompt": "Your friend gives you a good tip. You say:",
      "options": [
-      "Gute Idee! Das probiere ich.",
       "Das geht leider nicht.",
+      "Gute Idee! Das probiere ich.",
       "Was soll ich machen?"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Yes to advice.",
      "explanation": "Gute Idee! Das probiere ich.",
      "grammar": true
@@ -5759,10 +6089,10 @@
      "prompt": "Das geht leider nicht, weil ich abends einen Sprachkurs ___.",
      "options": [
       "hätte",
-      "habe",
-      "haben"
+      "haben",
+      "habe"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Real reason: normal verb at the end.",
      "explanation": "…, weil ich abends einen Sprachkurs habe.",
      "grammar": true
@@ -5773,7 +6103,7 @@
      "answers": [
       "er"
      ],
-     "hint": "der Spaziergang, after ein: -er.",
+     "hint": "der Spaziergang is masculine: the ending after ein shows the gender.",
      "explanation": "Ein kurzer Spaziergang hilft immer.",
      "grammar": true
     },
@@ -5781,11 +6111,11 @@
      "type": "choice",
      "prompt": "'Ich habe es eilig.' means …",
      "options": [
-      "I am bored.",
       "I am in a hurry.",
+      "I am bored.",
       "I am early."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "es eilig haben.",
      "explanation": "I am in a hurry.",
      "grammar": false
@@ -5805,10 +6135,10 @@
      "prompt": "'überfordert' means …",
      "options": [
       "on time",
-      "relaxed",
-      "overwhelmed"
+      "overwhelmed",
+      "relaxed"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Too much to do.",
      "explanation": "überfordert = overwhelmed.",
      "grammar": false
@@ -5982,7 +6312,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "ich → würde.",
+     "hint": "The dream verb with ü; ich takes no ending.",
      "explanation": "Ich würde gern ausschlafen.",
      "grammar": true
     },
@@ -5992,7 +6322,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "Not true: hätte.",
+     "hint": "Not true: the dream form of haben, at the end of the wenn-part.",
      "explanation": "Wenn ich mehr Zeit hätte, würde ich Gitarre lernen.",
      "grammar": true
     },
@@ -6002,7 +6332,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "A dream: wäre.",
+     "hint": "A dream, not a fact: the dream form of sein.",
      "explanation": "Das wäre toll!",
      "grammar": true
     },
@@ -6012,7 +6342,7 @@
      "answers": [
       "Könntest"
      ],
-     "hint": "du → könntest.",
+     "hint": "The polite form of können; du adds -st.",
      "explanation": "Könntest du mir bitte helfen?",
      "grammar": true
     }
@@ -6119,7 +6449,7 @@
        "why": "New today: warten auf, same pattern."
       }
      ],
-     "more": "Think of these pairs as a married couple: the verb never goes out without its preposition. warten goes with auf, denken goes with an. The English partner is often a different one (wait FOR, think OF), so learn the German couple together and do not translate word by word. Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative."
+     "more": "Think of these pairs as couples: the verb never goes out without its preposition. warten goes with auf, denken goes with an. In English the partner is often a different one (wait FOR, think OF, interested IN), so learning word by word fails. Learn the whole couple as one unit and say it as a little chunk: warten auf, denken an, sich interessieren für. The couple also decides the case: all of today's couples take the accusative."
     },
     {
      "title": "One unit: the preposition belongs to the verb",
@@ -6222,7 +6552,7 @@
        ]
       }
      },
-     "more": "Place: Ich warte auf dem Bahnsteig (Wo? dative). Partner: Ich warte auf den Zug (warten auf + accusative). Same word auf, two jobs.",
+     "more": "Same word, two jobs. As a place word, auf answers Where? and takes the dative: auf dem Bahnsteig. As a partner of the verb, it answers What for? and the verb fixes the case, here the accusative: auf den Zug. A quick test: if you can ask Where?, it is a place. If you cannot, it is a partner. Ich warte auf den Zug does not say where I stand, it says what I wait for. Keep the pair together: warten auf.",
      "table": {
       "headers": [
        "auf as …",
@@ -6347,7 +6677,7 @@
        ]
       }
      },
-     "more": "One case for all ten: accusative. warten auf, denken an, sprechen über, achten auf. With sich: freuen auf/über, ärgern über, interessieren für, kümmern um, gewöhnen an. Careful: Ich denke an dich (think of you), not Ich denke über dich.",
+     "more": "Ten pairs sound like a lot, so sort them by preposition. auf: warten, achten, sich freuen (future). an: denken, sich gewöhnen. über: sprechen, sich ärgern, sich freuen (now). Two single ones remain: für with sich interessieren, and um with sich kümmern. All take the accusative. Picture a key ring with ten keys: you do not learn them in one day, but each time you use one, say its pair aloud.",
      "table": {
       "headers": [
        "Verb",
@@ -6524,7 +6854,7 @@
        ]
       }
      },
-     "more": "Verb + mich/dich/sich + preposition + accusative. Perfekt: habe + mich + … + participle at the end. Ich habe mich an den Wecker gewöhnt.",
+     "more": "Build the sentence in four steps: the verb comes second, the reflexive pronoun follows right away, then the preposition, then the noun in the accusative. Ich interessiere mich für Fotografie. The pronoun changes with the person (mich, dich, sich), the preposition never does. In the Perfekt it works the same: Ich habe mich an den Wecker gewöhnt. English has no reflexive pronoun here: I am interested in photography.",
      "steps": [
       "Ich interessiere",
       "mich (pronoun after the verb)",
@@ -6638,7 +6968,7 @@
        ]
       }
      },
-     "more": "Person after the preposition = accusative pronoun: an mich, auf dich, für ihn, um sie, an uns, auf euch. Ich denke an dich.",
+     "more": "When the partner is a person, you use a pronoun: an dich, auf ihn, um sie, an uns, auf euch. These are the accusative pronouns you already know from sentences like Ich sehe dich. Only er may surprise you, because it becomes ihn. Everything else looks like what you say after für: für mich, für dich. So you need no new forms, only the habit: Ich denke an dich, Wir warten auf ihn.",
      "table": {
       "headers": [
        "Person",
@@ -6800,7 +7130,7 @@
        ]
       }
      },
-     "more": "Bracket: verb 2 … preposition + noun … end. Ich muss | auf den Bus | warten. Ich habe | an den Termin | gedacht.",
+     "more": "Imagine the sentence as a train with the first and the last verb as two stations. The first verb, muss, würde or habe, stands in position 2. The last verb waits at the end: warten, kümmern, gedacht. In between, the couple travels together: (mich) auf den Bus, um einen Hund, an den Termin. The bracket never separates the couple, it holds it in the middle: Ich muss | auf den Bus | warten.",
      "steps": [
       "Position 2: muss / würde / habe",
       "Middle: (mich) + auf den Bus",
@@ -6924,7 +7254,7 @@
        ]
       }
      },
-     "more": "warten auf, achten auf, sich freuen auf: all with auf + accusative. Ben is ungeduldig (impatient) and gespannt (eager). Mira's tip uses the imperative: Achte auf …!",
+     "more": "Read Ben's chat like a scene from the WG kitchen. warten auf, achten auf and sich freuen auf all use auf with the accusative: der Anruf, die Arbeit, das Wochenende. Ben is ungeduldig (impatient) and gespannt (eager to know). Mira's tip is an imperative: Achte lieber auf deine Arbeit. The little word lieber makes it friendlier, like better in English. Try reading one line in each voice.",
      "steps": [
       "Ben: Ich warte schon eine Stunde auf den Anruf!",
       "Mira: Du bist so ungeduldig. Achte lieber auf deine Arbeit.",
@@ -6935,7 +7265,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:dV54jc8K6MU"
+     "yt:dV54jc8K6MU",
+     "yt:KQymZnmyFSg"
     ],
     "nicosWeg": [
      "nw:a2-27"
@@ -6947,12 +7278,12 @@
      "type": "choice",
      "prompt": "Ich warte ___ den Bus.",
      "options": [
+      "auf",
       "für",
-      "an",
-      "auf"
+      "an"
      ],
-     "answer": 2,
-     "hint": "warten auf.",
+     "answer": 0,
+     "hint": "English says wait for, but German does not use für here: check the table.",
      "explanation": "Ich warte auf den Bus.",
      "grammar": true
     },
@@ -6965,7 +7296,7 @@
       "auf"
      ],
      "answer": 1,
-     "hint": "denken an.",
+     "hint": "Think of someone: the partner often means at or to elsewhere.",
      "explanation": "Ich denke oft an meine Familie.",
      "grammar": true
     },
@@ -6975,7 +7306,7 @@
      "answers": [
       "um"
      ],
-     "hint": "sich kümmern um.",
+     "hint": "Taking care of something: the partner often means around elsewhere.",
      "explanation": "Mira kümmert sich um die Pflanzen.",
      "grammar": true
     },
@@ -6988,7 +7319,7 @@
       "der"
      ],
      "answer": 1,
-     "hint": "für + accusative: den.",
+     "hint": "für + accusative: der Film is masculine, so the article changes.",
      "explanation": "Ich interessiere mich für den Film.",
      "grammar": true
     },
@@ -6998,7 +7329,7 @@
      "answers": [
       "ihn"
      ],
-     "hint": "er → ihn (accusative).",
+     "hint": "er in the accusative: it is the only form of er/sie/es that changes.",
      "explanation": "Wir warten auf ihn.",
      "grammar": true
     },
@@ -7029,7 +7360,7 @@
      "answers": [
       "auf"
      ],
-     "hint": "achten auf.",
+     "hint": "Pay attention to: the same partner as with warten.",
      "explanation": "Achte bitte auf den Verkehr!",
      "grammar": true
     },
@@ -7038,11 +7369,11 @@
      "prompt": "Hast du an den Termin ___?",
      "options": [
       "gedenkt",
-      "gedacht",
-      "denken"
+      "denken",
+      "gedacht"
      ],
-     "answer": 1,
-     "hint": "denken → gedacht.",
+     "answer": 2,
+     "hint": "denken has an irregular participle, like bringen → gebracht.",
      "explanation": "Hast du an den Termin gedacht?",
      "grammar": true
     }
@@ -7075,11 +7406,11 @@
      "type": "choice",
      "prompt": "'Ich warte auf dem Bahnsteig.' Here auf shows …",
      "options": [
-      "a place",
       "a fixed partner",
+      "a place",
       "a time"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Wo? → place, dative.",
      "explanation": "auf dem Bahnsteig = a place.",
      "grammar": true
@@ -7088,12 +7419,12 @@
      "type": "choice",
      "prompt": "Ich freue mich ___ die Ferien nächste Woche.",
      "options": [
-      "auf",
       "über",
-      "an"
+      "an",
+      "auf"
      ],
-     "answer": 0,
-     "hint": "Future → auf.",
+     "answer": 2,
+     "hint": "Looking forward to something in the future: look at the table for the partner.",
      "explanation": "Ich freue mich auf die Ferien.",
      "grammar": true
     },
@@ -7103,7 +7434,7 @@
      "answers": [
       "dich"
      ],
-     "hint": "du → dich.",
+     "hint": "The reflexive pronoun for du, in the accusative.",
      "explanation": "Interessierst du dich für Musik?",
      "grammar": true
     },
@@ -7132,11 +7463,11 @@
      "type": "choice",
      "prompt": "Ich würde mich gern um einen Hund ___.",
      "options": [
+      "kümmern",
       "kümmere",
-      "gekümmert",
-      "kümmern"
+      "gekümmert"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "würde + infinitive at the end.",
      "explanation": "Ich würde mich gern um einen Hund kümmern.",
      "grammar": true
@@ -7155,12 +7486,12 @@
      "type": "choice",
      "prompt": "Ich denke oft an ___. (du)",
      "options": [
-      "dich",
       "dir",
+      "dich",
       "du"
      ],
-     "answer": 0,
-     "hint": "an + accusative: dich.",
+     "answer": 1,
+     "hint": "After an: the accusative pronoun for du.",
      "explanation": "Ich denke oft an dich.",
      "grammar": true
     },
@@ -7168,11 +7499,11 @@
      "type": "choice",
      "prompt": "'ungeduldig' means …",
      "options": [
-      "impatient",
       "curious",
-      "tired"
+      "tired",
+      "impatient"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Ben cannot wait.",
      "explanation": "ungeduldig = impatient.",
      "grammar": false
@@ -7369,7 +7700,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "An deiner Stelle + würde + ich.",
+     "hint": "An deiner Stelle is position 1; the dream verb with ü comes next.",
      "explanation": "An deiner Stelle würde ich eine Pause machen.",
      "grammar": true
     },
@@ -7389,7 +7720,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "Not true: the dream form of sein, at the end of the wenn-part.",
      "explanation": "Wenn ich reich wäre, würde ich segeln.",
      "grammar": true
     },
@@ -7507,7 +7838,7 @@
        "why": "New today: träumen von + dative as a pair."
       }
      ],
-     "more": "Picture two boxes. Box one (lesson 5) is the accusative box: auf, an, für, um, über. Box two (today) is the dative box: von, mit, nach, and vor and an in a few pairs. Each verb lives in one box. Learn the verb together with its box. Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative."
+     "more": "Picture two boxes. Box one (lesson 5) is the accusative box: auf, an, für, um, über. Box two (today) is the dative box: von, mit, nach, and vor and an in a few pairs. Each verb lives in one box, so learn the verb together with its box. Careful with an: denken an goes in the accusative box, but teilnehmen an lives in the dative box. The box decides the endings."
     },
     {
      "title": "The dative group",
@@ -7622,7 +7953,7 @@
        ]
       }
      },
-     "more": "Dative box: träumen von, erzählen von, abhängen von, sich treffen / verabreden / unterhalten mit, fragen nach, Angst haben vor, teilnehmen an. Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative.",
+     "more": "Read the table like a map. Where you see von or mit, you may relax: these two always want the dative, and so does nach. Only vor and an need a second look, and in this lesson they are dative as well: Angst haben vor, teilnehmen an. The English partner is often different again: ask about, afraid of, depend on. So learn the German pair, not a translation. One pair a day, said in a sentence about your own life, is enough.",
      "table": {
       "headers": [
        "Verb",
@@ -7795,7 +8126,7 @@
        ]
       }
      },
-     "more": "Dative: dem (der, das), der (die), den + -n (plural). einem / einer. Adjective after them: -en. von einem kleinen Ferienhaus. Wrong: von ein Ferienhaus.",
+     "more": "The dative endings are small, and you know them from mit and von. Memory picture: a dative shoe has an m or an r on it. Masculine and neuter: dem and einem, with m. Feminine: der and einer, with r. Plural: den, and a little n on the noun. The adjective in between wears -en like a coat. Ich träume von einem kleinen Ferienhaus: m, en. Say it once aloud.",
      "table": {
       "headers": [
        "",
@@ -7946,7 +8277,7 @@
        ]
       }
      },
-     "more": "Angst haben vor + dative. vor Spinnen (plural + n), vor der Dunkelheit, vor dem Meer. Not: vor die Spinnen. Right: vor den Spinnen or vor Spinnen. Negation: keine Angst.",
+     "more": "Fear has a pattern, and you can build it from blocks. Block one: Ich habe Angst. Block two: vor. Block three: the thing you fear, in the dative: vor Spinnen, vor der Dunkelheit, vor dem Meer. If there is no fear, use keine Angst. English says I am afraid of, with an adjective and a different word. German says I have fear before something. Say it that way and it feels natural.",
      "steps": [
       "Ich habe Angst",
       "vor (the partner)",
@@ -8055,7 +8386,7 @@
        ]
       }
      },
-     "more": "Plan: sich verabreden mit + dative → die Verabredung. Yes: zusagen → die Zusage. No: absagen → die Absage. Separable: Ich sage zu. Ich sage ab.",
+     "more": "Planning a meeting is a little story. First you arrange it: sich verabreden. Then you wait for the answer. A friend says yes: zusagen. Or no: absagen. Each verb has a noun: die Verabredung, die Zusage, die Absage. Both zusagen and absagen are separable: Ben sagt zu, Leon sagt ab. In everyday life you hear the verbs much more than the nouns. Practise a polite absagen with a short reason.",
      "table": {
       "headers": [
        "Verb",
@@ -8186,7 +8517,7 @@
        ]
       }
      },
-     "more": "Das hängt | von + dative | ab. ab always at the end. vom = von dem. Person: von dir, von ihm, von ihr.",
+     "more": "Das hängt von … ab is your maybe. It is a friendly way to say not sure yet. Think of a coat hanging from a hook: it hangs on the weather, on you, on the work. The two halves are Das hängt and ab, with von and the dative in between. That is why ab stands at the very end, like a button that closes the sentence. Use it whenever somebody asks a yes-or-no question and you do not know.",
      "steps": [
       "Das hängt",
       "von + dative: vom Wetter / von dir",
@@ -8310,7 +8641,7 @@
        ]
       }
      },
-     "more": "Dative box: von der Arbeit, von eurem Plan, mit Herrn Ali. Accusative box: über den Samstag. Polite question: Hätten Sie Zeit?",
+     "more": "Anna uses Sie and Herr Ali uses du: that is the real balance in the WG. Hätten Sie Zeit? is the polite question, and Erzähl mir von eurem Plan! is the friendly answer. Look at the dative box in action: von der Arbeit, von eurem Plan, mit Herrn Ali. And the accusative box in the last line: über den Samstag. In one short call you meet two boxes and a polite question.",
      "steps": [
       "Anna: Herr Ali, ich habe eine Frage: Hätten Sie am Samstag Zeit?",
       "Herr Ali: Das hängt von der Arbeit ab. Erzähl mir von eurem Plan!",
@@ -8334,12 +8665,12 @@
      "type": "choice",
      "prompt": "Leon träumt ___ einer Weltreise.",
      "options": [
+      "von",
       "auf",
-      "an",
-      "von"
+      "an"
      ],
-     "answer": 2,
-     "hint": "träumen von.",
+     "answer": 0,
+     "hint": "Dreaming of something: find the partner in the dative table.",
      "explanation": "Leon träumt von einer Weltreise.",
      "grammar": true
     },
@@ -8352,7 +8683,7 @@
       "einen"
      ],
      "answer": 1,
-     "hint": "von + dative: einem.",
+     "hint": "von always takes the dative; das Ferienhaus is neuter.",
      "explanation": "Ich träume von einem Ferienhaus.",
      "grammar": true
     },
@@ -8362,7 +8693,7 @@
      "answers": [
       "nach"
      ],
-     "hint": "fragen nach.",
+     "hint": "Asking about the way: the partner is in the dative table.",
      "explanation": "Ben fragt nach dem Weg.",
      "grammar": true
     },
@@ -8372,7 +8703,7 @@
      "answers": [
       "der"
      ],
-     "hint": "vor + dative: die → der.",
+     "hint": "vor takes the dative here; Prüfung is feminine.",
      "explanation": "Anna hat Angst vor der Prüfung.",
      "grammar": true
     },
@@ -8380,12 +8711,12 @@
      "type": "choice",
      "prompt": "Mira verabredet sich ___ Anna.",
      "options": [
-      "mit",
       "von",
-      "für"
+      "für",
+      "mit"
      ],
-     "answer": 0,
-     "hint": "sich verabreden mit.",
+     "answer": 2,
+     "hint": "Arranging to meet someone: the partner means with.",
      "explanation": "Mira verabredet sich mit Anna.",
      "grammar": true
     },
@@ -8414,7 +8745,7 @@
      "answers": [
       "ab"
      ],
-     "hint": "absagen: ab at the end.",
+     "hint": "absagen is separable: the prefix splits off and goes to the end.",
      "explanation": "Er sagt ab.",
      "grammar": true
     },
@@ -8427,7 +8758,7 @@
       "den"
      ],
      "answer": 1,
-     "hint": "das → dem.",
+     "hint": "vor takes the dative; das-nouns take the same article as der-nouns.",
      "explanation": "Ich habe keine Angst vor dem Meer.",
      "grammar": true
     }
@@ -8517,11 +8848,11 @@
      "prompt": "Das hängt von ___ ab. (you, du)",
      "options": [
       "dich",
-      "du",
-      "dir"
+      "dir",
+      "du"
      ],
-     "answer": 2,
-     "hint": "von + dative: dir.",
+     "answer": 1,
+     "hint": "von takes the dative: use the dative form of du.",
      "explanation": "Das hängt von dir ab.",
      "grammar": true
     },
@@ -8544,7 +8875,7 @@
       "en"
      ],
      "answer": 2,
-     "hint": "After einem: -en.",
+     "hint": "After einem: the adjective ending of the dative singular.",
      "explanation": "von einem kleinen Ferienhaus",
      "grammar": true
     },
@@ -8552,11 +8883,11 @@
      "type": "choice",
      "prompt": "'die Absage' means …",
      "options": [
+      "a cancellation",
       "an invitation",
-      "an acceptance",
-      "a cancellation"
+      "an acceptance"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "absagen = cancel.",
      "explanation": "die Absage = cancellation.",
      "grammar": false
@@ -8575,11 +8906,11 @@
      "type": "choice",
      "prompt": "'sich verabreden' means …",
      "options": [
-      "to arrange to meet",
       "to say goodbye",
+      "to arrange to meet",
       "to be late"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Mira verabredet sich mit Anna.",
      "explanation": "sich verabreden = to arrange to meet.",
      "grammar": false
@@ -8756,7 +9087,7 @@
      "answers": [
       "ihn"
      ],
-     "hint": "er → ihn.",
+     "hint": "er in the accusative: the only form of er/sie/es that changes.",
      "explanation": "Ich warte auf ihn.",
      "grammar": true
     },
@@ -8766,7 +9097,7 @@
      "answers": [
       "um"
      ],
-     "hint": "sich kümmern um.",
+     "hint": "Taking care of something: find the partner in the accusative box.",
      "explanation": "Mira kümmert sich um die Pflanzen.",
      "grammar": true
     },
@@ -8776,7 +9107,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "ich → würde.",
+     "hint": "The dream verb with ü; ich takes no ending.",
      "explanation": "Ich an deiner Stelle würde eine To-do-Liste schreiben.",
      "grammar": true
     },
@@ -8786,7 +9117,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "Not true: hätte.",
+     "hint": "Not true: the dream form of haben, at the end of the wenn-part.",
      "explanation": "Wenn ich Zeit hätte, würde ich kommen.",
      "grammar": true
     }
@@ -8890,7 +9221,7 @@
        "why": "New today: the question for a person."
       }
      ],
-     "more": "Think of a detective. To find out what someone waits for, the detective asks a question that already holds the little word: wo + auf = worauf. For a person the detective says the little word first and then asks who: auf wen. The pair stays together, only the question word is new. Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative."
+     "more": "Think of a detective. To find out what someone waits for, the detective asks a question that already holds the little word: wo + auf = worauf. For a person the detective says the little word first and then asks who: auf wen. The pair stays together, only the question word is new. English splits the sentence: What are you waiting for? German keeps the for-word, auf, glued to the front of the question."
     },
     {
      "title": "Thing or person? Two kinds of question",
@@ -9017,7 +9348,7 @@
        ]
       }
      },
-     "more": "Ask yourself one thing: is the answer a thing or a person? If it is a thing, glue wo in front of the little word (wo + auf = worauf). If it is a person, say the little word first and then wen: auf wen. The verb and its little word stay together like a pair.",
+     "more": "Ask yourself one thing: is the answer a thing or a person? If it is a thing, glue wo in front of the little word: wo + auf = worauf. If it is a person, say the little word first and then wen: auf wen. English splits the sentence: Who are you waiting for? German keeps the pair together: Auf wen wartest du? In both kinds of question the verb stays in position 2, right after the question phrase.",
      "table": {
       "headers": [
        "",
@@ -9128,7 +9459,7 @@
        ]
       }
      },
-     "more": "Imagine wo as a small train and the preposition as a wagon. If the wagon begins with a vowel, a tiny coupling r holds them together: wo-r-auf. If the wagon begins with a consonant, they fit together without the coupling: wo-mit. Never write woauf or woan.",
+     "more": "Imagine wo as a small train and the preposition as a wagon. If the wagon begins with a vowel, a tiny coupling r holds them together: wo-r-auf. If it begins with a consonant, they fit together without the coupling: wo-mit. Never write woauf or woan. Say them aloud once: worauf, woran, worüber, worum, then wofür, womit, wovon, wovor, wonach. The first four have the coupling.",
      "table": {
       "headers": [
        "Preposition",
@@ -9299,7 +9630,7 @@
        ]
       }
      },
-     "more": "First look up the pair: does it belong to the accusative box or the dative box? Accusative box: wen. Dative box: wem. Then put the little word in front. Auf wen? Um wen? Mit wem? Von wem? Vor wem? You only need to remember the box, the rest is automatic.",
+     "more": "First look up the pair: does it belong to the accusative box or the dative box? Accusative box: wen. Dative box: wem. Then put the little word in front. Auf wen? Um wen? Mit wem? Von wem? Vor wem? You only need to remember the box; the rest is automatic. In English whom is rare and formal, so this feels new, but you already know the forms from ihn and ihm.",
      "table": {
       "headers": [
        "Group",
@@ -9337,7 +9668,7 @@
     },
     {
      "title": "Reflexive verbs in questions",
-     "body": "With a reflexive verb the pronoun stays right after the subject: Wofür interessierst du dich? Womit beschäftigt sich Ben? The order is always: question word, verb, subject, reflexive pronoun. With a noun as subject, the pronoun sich comes right after the verb: Woran gewöhnt sich Leon nicht?",
+     "body": "With a reflexive verb the question word goes first, then the verb. After a pronoun subject comes the reflexive pronoun: Wofür interessierst du dich? With a noun subject, sich comes right after the verb: Womit beschäftigt sich Ben gerade? Woran gewöhnt sich Leon nicht?",
      "lead": "Many verbs from lessons 5 and 6 are reflexive. Good news: the question word simply moves to the front, and everything else keeps its normal place.",
      "examples": [
       {
@@ -9444,13 +9775,13 @@
        ]
       }
      },
-     "more": "Make the statement first, then ask. Du interessierst dich für Musik. Now replace für Musik with wofür and put it at the very front: Wofür interessierst du dich? The little pronoun dich travels with du. For he or she it is sich: Wofür interessiert sich Mira?",
+     "more": "Make the statement first, then ask. Du interessierst dich für Musik. Now replace für Musik with wofür and put it at the very front: Wofür interessierst du dich? The little pronoun dich travels with du. For he or she it is sich: Wofür interessiert sich Mira? Nothing else moves. If you can say the statement, you can ask the question: that is the whole trick.",
      "table": {
       "headers": [
        "Question word",
        "Verb",
-       "Subject",
-       "Pronoun"
+       "Next",
+       "Then"
       ],
       "rows": [
        [
@@ -9462,8 +9793,8 @@
        [
         "Womit",
         "beschäftigt",
-        "Ben",
-        "sich gerade?"
+        "sich",
+        "Ben gerade?"
        ],
        [
         "Woran",
@@ -9621,7 +9952,7 @@
        ]
       }
      },
-     "more": "Take the direct question and put it behind a small starter like Ich weiß nicht, or Weißt du, . Then send the verb to the end, like in a wenn-sentence. Worauf wartet Ben? becomes Ich weiß nicht, worauf Ben wartet. The question word and the preposition do not change.",
+     "more": "Take the direct question and put it behind a small starter like Ich weiß nicht, or Weißt du,. Then send the verb to the end, like in a wenn-sentence. Worauf wartet Ben? becomes Ich weiß nicht, worauf Ben wartet. The question word and the preposition do not change. This is how you ask politely about plans: Sag mir, mit wem du dich verabredest. It sounds softer than the direct question.",
      "table": {
       "headers": [
        "Direct question",
@@ -9644,8 +9975,131 @@
      }
     },
     {
+     "title": "Words for news and plans",
+     "body": "Nouns with article: die Neuigkeit (news), das Gerücht (rumour), der Zweifel (doubt), das Vorhaben (plan, intention). Verb: eintragen means to enter into a calendar; it is separable: Ich trage den Termin ein. Das ist mir egal means I do not mind.",
+     "lead": "Plans and news bring their own words. This card gives you the rest of the lesson's vocabulary with articles, so the questions only test what you have already met.",
+     "examples": [
+      {
+       "de": "Ich habe eine Neuigkeit für euch!",
+       "en": "I have some news for you!",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "eine Neuigkeit",
+         "object"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "euch!",
+         "object"
+        ]
+       ],
+       "why": "die Neuigkeit, die Neuigkeiten"
+      },
+      {
+       "de": "Ich trage das Grillfest in den Kalender ein.",
+       "en": "I am putting the barbecue party in the calendar.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "trage",
+         "verb"
+        ],
+        [
+         "das Grillfest",
+         "object"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "den Kalender",
+         "object"
+        ],
+        [
+         "ein.",
+         "verb2"
+        ]
+       ],
+       "why": "eintragen is separable: ein goes to the end"
+      },
+      {
+       "de": "Was ist dein Vorhaben für das Wochenende?",
+       "en": "What is your plan for the weekend?",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "dein Vorhaben",
+         "subject"
+        ],
+        [
+         "für",
+         "preposition"
+        ],
+        [
+         "das Wochenende?",
+         "object"
+        ]
+       ],
+       "why": "das Vorhaben, die Vorhaben"
+      }
+     ],
+     "deeper": {
+      "text": "Two small words for what you feel about plans. der Zweifel is doubt, and it has the same form in the plural: die Zweifel. A Gerücht is something people say but nobody can prove: das Gerücht, die Gerüchte. And Das ist mir egal uses a dative person, mir. It means it makes no difference to me. Learn it as one chunk.",
+      "example": {
+       "de": "Das ist mir egal.",
+       "en": "I do not mind.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "mir",
+         "dative"
+        ],
+        [
+         "egal.",
+         "adjective"
+        ]
+       ]
+      }
+     },
+     "more": "Tell a mini news story with the new words. Anna has a Neuigkeit: Leon has a Vorhaben, a trip. A Gerücht says he will leave tomorrow, but Anna has a Zweifel. She enters the date in her calendar (eintragen) anyway. Ben says: Das ist mir egal. A tiny story with every word in it is easier to remember than a list. Say it aloud once.",
+     "steps": [
+      "die Neuigkeit, das Gerücht, der Zweifel, das Vorhaben",
+      "eintragen (separable)",
+      "Das ist mir egal."
+     ]
+    },
+    {
      "title": "Exchanging news: a short dialogue",
-     "body": "Mira and Leon plan the Grillfest. Watch how the question words work in a real conversation: Worüber? Um wen? Worum? Every question starts with the little word, and the answer repeats it: Über das Grillfest. Um Frau Weber. Um eine Kleinigkeit.",
+     "body": "Mira and Leon plan the Grillfest. Watch how the question phrases work in a real conversation: Worüber? Um wen? Every question starts with the little word, and the short answer repeats it: Über das Grillfest. Um Frau Weber. Leon also asks Mira for a favour with bitten um.",
      "lead": "Now you see all the question types in one conversation. Read it slowly, and notice where the little word stands in each question and in each answer.",
      "examples": [
       {
@@ -9752,7 +10206,7 @@
        ]
       }
      },
-     "more": "A short answer to a question with a preposition starts with the same little word. Question: Um wen? Answer: Um Frau Weber. Question: Worüber? Answer: Über das Grillfest. The answer is not a full sentence, but it is still correct German. In a real chat everybody answers like this.",
+     "more": "A short answer to a question with a preposition starts with the same little word. Question: Um wen? Answer: Um Frau Weber. Question: Worüber? Answer: Über das Grillfest. The answer is not a full sentence, but it is still correct German. In a real chat everybody answers like this. The question tells you which preposition to repeat, so listening to the first word of the question is half of the answer.",
      "steps": [
       "Mira: Leon, worüber habt ihr gestern gesprochen?",
       "Leon: Über das Grillfest am Samstag. Ben kümmert sich um die Getränke.",
@@ -9765,7 +10219,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:XhE3bMIiq6g"
+     "yt:XhE3bMIiq6g",
+     "yt:cCEnhEDLmIk"
     ],
     "nicosWeg": [
      "nw:a2-38"
@@ -9777,12 +10232,12 @@
      "type": "choice",
      "prompt": "___ wartest du? – Auf den Bus.",
      "options": [
+      "Worauf",
       "Wofür",
-      "Woran",
-      "Worauf"
+      "Woran"
      ],
-     "answer": 2,
-     "hint": "warten goes with auf, so wo + auf.",
+     "answer": 0,
+     "hint": "Which little word belongs to warten? Does it start with a vowel?",
      "explanation": "Worauf wartest du? – Auf den Bus.",
      "grammar": true
     },
@@ -9790,12 +10245,12 @@
      "type": "choice",
      "prompt": "___ denkst du? – An das Grillfest.",
      "options": [
-      "Woran",
       "Worauf",
+      "Woran",
       "Wovon"
      ],
-     "answer": 0,
-     "hint": "denken goes with an: wo + an.",
+     "answer": 1,
+     "hint": "Which little word belongs to denken? Does it start with a vowel?",
      "explanation": "Woran denkst du?",
      "grammar": true
     },
@@ -9815,7 +10270,7 @@
      "answers": [
       "wen"
      ],
-     "hint": "Person, accusative group: wen.",
+     "hint": "A person in the accusative group: which question word fits?",
      "explanation": "Auf wen wartest du?",
      "grammar": true
     },
@@ -9824,11 +10279,11 @@
      "prompt": "Mit ___ verabredest du dich? – Mit Anna.",
      "options": [
       "wen",
-      "wem",
-      "wer"
+      "wer",
+      "wem"
      ],
-     "answer": 1,
-     "hint": "sich verabreden mit takes the dative.",
+     "answer": 2,
+     "hint": "sich verabreden mit takes the dative: a person in the dative.",
      "explanation": "Mit wem verabredest du dich?",
      "grammar": true
     },
@@ -9859,7 +10314,7 @@
      "answers": [
       "Worum"
      ],
-     "hint": "um starts with a vowel: add r.",
+     "hint": "The preposition starts with a vowel, so a letter joins the two parts.",
      "explanation": "Worum geht es?",
      "grammar": true
     },
@@ -9867,11 +10322,11 @@
      "type": "choice",
      "prompt": "Which question asks about a PERSON?",
      "options": [
-      "Wovon träumst du?",
       "Von wem träumst du?",
+      "Wovon träumst du?",
       "Woran denkst du?"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A person: preposition + wen/wem.",
      "explanation": "Von wem träumst du?",
      "grammar": true
@@ -9893,10 +10348,10 @@
      "prompt": "Which question is correct?",
      "options": [
       "Woauf wartest du?",
-      "Wofauf wartest du?",
-      "Worauf wartest du?"
+      "Worauf wartest du?",
+      "Wofauf wartest du?"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "auf starts with a vowel: add an r.",
      "explanation": "Worauf wartest du?",
      "grammar": true
@@ -9906,10 +10361,10 @@
      "prompt": "___ interessierst du dich? – Für Musik.",
      "options": [
       "Wovon",
-      "Wofür",
-      "Worauf"
+      "Worauf",
+      "Wofür"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "sich interessieren für: wo + für.",
      "explanation": "Wofür interessierst du dich?",
      "grammar": true
@@ -9928,12 +10383,12 @@
      "type": "choice",
      "prompt": "Um ___ kümmerst du dich? – Um meine Schwester.",
      "options": [
+      "wen",
       "wem",
-      "wo",
-      "wen"
+      "wo"
      ],
-     "answer": 2,
-     "hint": "sich kümmern um takes the accusative: wen.",
+     "answer": 0,
+     "hint": "sich kümmern um takes the accusative; ask about a person.",
      "explanation": "Um wen kümmerst du dich?",
      "grammar": true
     },
@@ -9987,7 +10442,7 @@
      "answers": [
       "interessierst"
      ],
-     "hint": "du → interessierst, pronoun dich after du.",
+     "hint": "du: present-tense ending -st; the pronoun comes after du.",
      "explanation": "Wofür interessierst du dich?",
      "grammar": true
     },
@@ -9996,11 +10451,11 @@
      "prompt": "Leon bittet Mira ___ eine Kleinigkeit.",
      "options": [
       "für",
-      "um",
-      "auf"
+      "auf",
+      "um"
      ],
-     "answer": 1,
-     "hint": "bitten goes with um.",
+     "answer": 2,
+     "hint": "Asking someone for something: the preposition is in the accusative box.",
      "explanation": "Leon bittet Mira um eine Kleinigkeit.",
      "grammar": true
     },
@@ -10008,11 +10463,11 @@
      "type": "choice",
      "prompt": "'egal' in 'Das ist mir egal.' means …",
      "options": [
+      "It does not matter to me.",
       "It is too late for me.",
-      "It is very good for me.",
-      "It does not matter to me."
+      "It is very good for me."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You do not care.",
      "explanation": "Das ist mir egal.",
      "grammar": false
@@ -10198,7 +10653,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben → hätte in an unreal wenn-part.",
+     "hint": "Not true: the dream form of haben, at the end of the wenn-part.",
      "explanation": "Wenn ich mehr Zeit hätte, würde ich Gitarre spielen.",
      "grammar": true
     },
@@ -10208,7 +10663,7 @@
      "answers": [
       "vor"
      ],
-     "hint": "Angst haben vor.",
+     "hint": "Angst haben: the partner is in the dative box.",
      "explanation": "Anna hat Angst vor der Prüfung.",
      "grammar": true
     },
@@ -10218,7 +10673,7 @@
      "answers": [
       "um"
      ],
-     "hint": "sich kümmern um.",
+     "hint": "Taking care of something: the partner is in the accusative box.",
      "explanation": "Mira kümmert sich um die Pflanzen.",
      "grammar": true
     },
@@ -10327,7 +10782,7 @@
        "why": "New today: darauf = auf das Paket."
       }
      ],
-     "more": "Imagine you talk about the parcel for the third time. You do not say auf das Paket every time. You say darauf, like English 'for it'. The little word da means 'it' and the preposition stays glued to it: da + auf = darauf. For people it is different: you say auf ihn, never daran. Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative."
+     "more": "Imagine you talk about the parcel for the third time. You do not say auf das Paket every time. You say darauf, like English for it, but with the little word first. The word da means it, and the preposition stays glued to it: da + auf = darauf. For people it is different: you say auf ihn, never daran. This is how people sound natural in German: short, with no repeated nouns."
     },
     {
      "title": "Question to answer: the answer rule",
@@ -10430,7 +10885,7 @@
        ]
       }
      },
-     "more": "Think of a mirror. The question word wo-auf looks into a mirror and becomes da-rauf. The little word in the middle does not change. Question: Woran? Answer: daran. Question: Wofür? Answer: dafür. For a person you cannot use the mirror: you say the little word and the pronoun, auf ihn, an sie.",
+     "more": "Think of a mirror. The question word wo-auf looks into the mirror and becomes da-rauf. The little word in the middle does not change. Question: Woran? Answer: daran. Question: Wofür? Answer: dafür. For a person you cannot use the mirror: you say the little word and the pronoun, auf ihn, an sie. So every conversation has the same rhythm: a question with wo, an answer with da.",
      "table": {
       "headers": [
        "",
@@ -10545,7 +11000,7 @@
        ]
       }
      },
-     "more": "Careful with three words you already know. Dafür in Ich bin dafür means 'I am in favour'. Damit in Wohin damit? means 'where to with it'. Darum can also mean 'that is why'. In this chapter damit always means 'with it' (Ich beschäftige mich damit) and darum always means 'about it' (Ich kümmere mich darum). The word is the same, the job is different.",
+     "more": "Careful with three words you already know. Dafür in Ich bin dafür means 'I am in favour'. Damit in Wohin damit? means 'where to with it'. Darum can also mean 'that is why'. In this chapter damit always means 'with it' (Ich beschäftige mich damit) and darum always means 'about it' (Ich kümmere mich darum). The word is the same, the job is different. A small habit helps: whenever you hear damit, ask yourself whether it means with it. In this chapter it always does.",
      "table": {
       "headers": [
        "Preposition",
@@ -10700,7 +11155,7 @@
        ]
       }
      },
-     "more": "In the story, the first time the phone is named (mit dem Handy). Afterwards everything is just it: damit, daran, davon. Read the story and find every da-word. Then ask: which thing does it replace? Handy. If you can answer that question, you understand the da-word.",
+     "more": "In the story the phone is named once: mit dem Handy. After that everything is just it: damit, daran, davon. Read the five steps and find every da-word. For each one ask: which thing does it replace? The answer is always the Handy. If you can answer that question, you understand the da-word. A story with one repeating object is the best place to practise.",
      "steps": [
       "Ben ist ständig am Handy. Seine Bildschirmzeit ist zu lang.",
       "Er will damit aufhören.",
@@ -10814,7 +11269,7 @@
        ]
       }
      },
-     "more": "Imagine the sentence is a train. The verb is always in the second wagon. The first wagon can hold the subject or the da-word. If the da-word is in front, the subject goes behind the verb: Darauf freue ich mich. Not: Darauf ich freue mich.",
+     "more": "Imagine the sentence is a train. The verb is always in the second wagon. The first wagon can hold the subject or the da-word. If the da-word is in front, the subject goes behind the verb: Darauf freue ich mich. Not: Darauf ich freue mich. Putting the da-word first is like pointing a finger at it. English uses your voice instead: I am really looking forward to THAT.",
      "table": {
       "headers": [
        "Normal",
@@ -10941,7 +11396,7 @@
        ]
       }
      },
-     "more": "Think of the da-words as a box for things. A person does not fit into the box. So a person gets the little word and the person word: auf ihn, an sie, von ihr. Same pair, different answer. Thing: Ich warte darauf. Person: Ich warte auf ihn.",
+     "more": "Think of the da-words as a box for things. A person does not fit into the box. So a person gets the little word and the person word: auf ihn, an sie, von ihr. Same pair, different answer. Thing: Ich warte darauf. Person: Ich warte auf ihn. If you are unsure, ask the question first: Worauf? gives a da-word, Auf wen? gives a pronoun. You learned both questions in lesson 7.",
      "table": {
       "headers": [
        "Thing",
@@ -10974,6 +11429,113 @@
        ]
       ]
      }
+    },
+    {
+     "title": "Words for good resolutions",
+     "body": "Nouns with article: die Absicht (intention), der Vorsatz (resolution), der Versuch (attempt). Verbs: ausschalten means to switch off, durchhalten means to hold out; both are separable. The adverb rechtzeitig means in time, early enough.",
+     "lead": "Ben wants to change his habits. This card gives you the remaining words of the lesson, with articles, so the questions only test what you have already met.",
+     "examples": [
+      {
+       "de": "Ben schaltet das Handy um zehn aus.",
+       "en": "Ben switches off the phone at ten.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "schaltet",
+         "verb"
+        ],
+        [
+         "das Handy",
+         "object"
+        ],
+        [
+         "um zehn",
+         "time"
+        ],
+        [
+         "aus.",
+         "verb2"
+        ]
+       ],
+       "why": "ausschalten: aus goes to the end"
+      },
+      {
+       "de": "Ben muss durchhalten.",
+       "en": "Ben has to keep going.",
+       "parts": [
+        [
+         "Ben",
+         "subject"
+        ],
+        [
+         "muss",
+         "verb"
+        ],
+        [
+         "durchhalten.",
+         "verb2"
+        ]
+       ],
+       "why": "with a modal the verb stays together"
+      },
+      {
+       "de": "Ich stehe rechtzeitig auf.",
+       "en": "I get up in time.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "stehe",
+         "verb"
+        ],
+        [
+         "rechtzeitig",
+         "other"
+        ],
+        [
+         "auf.",
+         "verb2"
+        ]
+       ],
+       "why": "rechtzeitig: early enough"
+      }
+     ],
+     "deeper": {
+      "text": "Three nouns for planning: die Absicht is what you want to do, der Vorsatz is a promise to yourself, often for the new year, and der Versuch is a try. Der Vorsatz is stronger than die Absicht. The verb versuchen belongs to der Versuch, and you can use it right away to make a second try.",
+      "example": {
+       "de": "Ich versuche es noch einmal.",
+       "en": "I will try it once more.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "versuche",
+         "verb"
+        ],
+        [
+         "es",
+         "object"
+        ],
+        [
+         "noch einmal.",
+         "other"
+        ]
+       ]
+      }
+     },
+     "more": "Tell Ben's resolution story in five steps. He has an Absicht: less phone. He writes a Vorsatz on a note. He makes a first Versuch: he switches the phone off (ausschalten) rechtzeitig, at ten, before he is too tired. It is hard, but he must durchhalten. Say the little tale aloud once, with every new word in it. A story you tell yourself is a memory you keep.",
+     "steps": [
+      "die Absicht, der Vorsatz, der Versuch",
+      "ausschalten, durchhalten (separable)",
+      "rechtzeitig: in time"
+     ]
     },
     {
      "title": "Es kommt darauf an: a fixed phrase",
@@ -11104,7 +11666,7 @@
        ]
       }
      },
-     "more": "Es kommt darauf an is like 'maybe'. It is a polite way to say that you cannot say yes or no yet. The phrase never changes. Learn it like a song line: es kommt darauf an. Then add your reason: Wenn ich nicht arbeiten muss, komme ich.",
+     "more": "Es kommt darauf an is like maybe. It is a polite way to say that you cannot say yes or no yet. The phrase never changes: learn it like a song line. Then add your reason, with wenn or ob: Es kommt darauf an, ob ich arbeiten muss. Hauptsache is the opposite attitude: it says that only one thing matters. Together the two phrases cover most answers to an invitation.",
      "steps": [
       "Leon: Kommst du am Samstag zum Grillfest?",
       "Anna: Es kommt darauf an. Wenn ich nicht arbeiten muss, komme ich.",
@@ -11128,12 +11690,12 @@
      "type": "choice",
      "prompt": "Worauf wartest du? – Ich warte ___.",
      "options": [
-      "wofür",
       "darauf",
+      "wofür",
       "auf es"
      ],
-     "answer": 1,
-     "hint": "A thing: da + auf.",
+     "answer": 0,
+     "hint": "A thing: use the da-word of the preposition that belongs to warten.",
      "explanation": "Ich warte darauf.",
      "grammar": true
     },
@@ -11143,7 +11705,7 @@
      "answers": [
       "daran"
      ],
-     "hint": "da + an, no r.",
+     "hint": "The da-word of the preposition that belongs to denken.",
      "explanation": "Ich denke oft daran.",
      "grammar": true
     },
@@ -11162,11 +11724,11 @@
      "prompt": "Wir sprechen ___. (über das Thema)",
      "options": [
       "davor",
-      "damit",
-      "darüber"
+      "darüber",
+      "damit"
      ],
-     "answer": 2,
-     "hint": "sprechen über: da + r + über.",
+     "answer": 1,
+     "hint": "The da-word of the preposition that belongs to sprechen: über starts with a vowel.",
      "explanation": "Wir sprechen darüber.",
      "grammar": true
     },
@@ -11204,11 +11766,11 @@
      "prompt": "Leon träumt ___. (von einem Ferienhaus)",
      "options": [
       "daran",
-      "davon",
-      "darauf"
+      "darauf",
+      "davon"
      ],
-     "answer": 1,
-     "hint": "träumen von: da + von.",
+     "answer": 2,
+     "hint": "The da-word of the preposition that belongs to träumen.",
      "explanation": "Leon träumt davon.",
      "grammar": true
     },
@@ -11239,11 +11801,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct for a thing?",
      "options": [
+      "Ich freue mich darauf.",
       "Ich freue mich auf es.",
-      "Ich freue mich daraus.",
-      "Ich freue mich darauf."
+      "Ich freue mich daraus."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "For things use the da-word.",
      "explanation": "Ich freue mich darauf.",
      "grammar": true
@@ -11275,11 +11837,11 @@
      "type": "choice",
      "prompt": "___ denke ich nicht! (an die Prüfung)",
      "options": [
-      "Daran",
       "Dafür",
-      "Darum"
+      "Darum",
+      "Daran"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "denken an: da + an.",
      "explanation": "Daran denke ich nicht!",
      "grammar": true
@@ -11317,11 +11879,11 @@
      "type": "choice",
      "prompt": "Anna kümmert sich um Frau Weber. → Anna kümmert sich ___.",
      "options": [
-      "darum",
       "um sie",
+      "darum",
       "um es"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A person: preposition + pronoun.",
      "explanation": "Anna kümmert sich um sie.",
      "grammar": true
@@ -11363,11 +11925,11 @@
      "type": "choice",
      "prompt": "'rechtzeitig' means …",
      "options": [
-      "in time",
       "too late",
-      "never"
+      "never",
+      "in time"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Not late.",
      "explanation": "rechtzeitig = in time.",
      "grammar": false
@@ -11542,7 +12104,7 @@
      "answers": [
       "wartest"
      ],
-     "hint": "du → wartest.",
+     "hint": "du: the ending -st, plus an e before it because the stem ends in -t.",
      "explanation": "Worauf wartest du?",
      "grammar": true
     },
@@ -11562,7 +12124,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "An deiner Stelle + würde + ich.",
+     "hint": "An deiner Stelle is position 1; the dream verb with ü comes next.",
      "explanation": "An deiner Stelle würde ich früher ins Bett gehen.",
      "grammar": true
     },
@@ -11572,7 +12134,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "Not true: the dream form of sein, at the end of the wenn-part.",
      "explanation": "Wenn Leon reich wäre, würde er segeln.",
      "grammar": true
     }
@@ -11683,7 +12245,7 @@
        "why": "New today: the softer question with hättest."
       }
      ],
-     "more": "A soft question is like a gentle knock on the door. Hast du Zeit? is a direct question. Hättest du Zeit? leaves the other person room to say no without feeling bad. You already know the form hätte from lesson 2, so you only use it in a new place: in suggestions. Real (it is true): Ich habe Zeit. Ich komme. / Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen."
+     "more": "A soft question is like a gentle knock on the door. Hast du Zeit? is a direct question, like walking straight in. Hättest du Zeit? leaves the other person room to say no without feeling bad. English does this too: Do you have time? against Would you have time? You already know the form hätte from lesson 2, so you only use it in a new place: in suggestions."
     },
     {
      "title": "Suggestions: softer with Konjunktiv II",
@@ -11802,7 +12364,7 @@
        ]
       }
      },
-     "more": "Two rules, two lines. Real (it is true): Ich habe Zeit. Ich komme. / Not real (a wish or a dream): Ich hätte gern Zeit. Ich würde kommen. So when you only suggest something, use the not-real line: hättest, wäre. And for Lust, remember the little word: Lust auf. Not: Hättest du Lust ein Picknick? Right: Hättest du Lust auf ein Picknick?",
+     "more": "Soft suggestions work like a ladder of politeness. Bottom step: Hast du Zeit? Next step: Hättest du Zeit? Highest step: Hätten Sie Zeit? For an idea, Wie wäre es mit …? is the friendliest of all, because it does not ask a person, it only puts a picture on the table. And for Lust remember the little word: Lust auf. Not: Hättest du Lust ein Picknick? Right: Hättest du Lust auf ein Picknick?",
      "table": {
       "headers": [
        "Direct",
@@ -11958,7 +12520,7 @@
        ]
       }
      },
-     "more": "Think of three traffic lights. Green: Ja, gern! / Das passt mir gut. Red: Leider nicht. / Ich sage leider ab. Yellow: Es kommt darauf an. / Ich melde mich. Choose the light, then add a short reason or another idea.",
+     "more": "Think of three traffic lights. Green: Ja, gern! / Das passt mir gut. Red: Leider nicht. / Ich sage leider ab. Yellow: Es kommt darauf an. / Ich melde mich. Choose the light first, then add a short reason or another idea: Leider nicht, aber am Sonntag hätte ich Zeit. A red light with a counter-offer is friendlier than a plain no.",
      "table": {
       "headers": [
        "Yes",
@@ -12089,7 +12651,7 @@
        ]
       }
      },
-     "more": "A plan change is like a small relay race. One person runs with the new idea (Wie wäre es am Sonntag?), the others pass it on with short answers (passt, gern, leider nicht). The last runner, Herr Ali, brings a new place. Nobody writes long texts.",
+     "more": "A plan change is like a small relay race. One person runs with the new idea (Wie wäre es am Sonntag?), the others pass it on with short answers (passt, gern, leider nicht). The last runner, Herr Ali, brings a new place. Nobody writes long texts, and nobody needs to: Sonntag passt is a full answer in a chat. Short is normal here, and short is polite as long as it is friendly.",
      "steps": [
       "Mira: Hi zusammen, es regnet am Samstag! Wie wäre es am Sonntag?",
       "Ben: Sonntag passt.",
@@ -12207,7 +12769,7 @@
        ]
       }
      },
-     "more": "Build a message like a sandwich. Top slice: greeting with a comma. Filling: short text, small letter after the comma. Bottom slice: closing without a comma and your name. The three lines in the steps show it. In a quick chat you can leave out the sandwich, but in a longer message it makes you sound polite.",
+     "more": "Build a message like a sandwich. Top slice: greeting with a comma. Filling: short text, small letter after the comma. Bottom slice: closing without a comma and your name. The three lines in the steps show it. In a quick chat you can leave out the sandwich, but in a longer message it makes you sound polite. Messages to Herr Ali or Frau Weber are a bit longer and more careful.",
      "table": {
       "headers": [
        "Short form",
@@ -12251,7 +12813,7 @@
     },
     {
      "title": "Contrast stress: not this, but THAT",
-     "body": "When one word changes, you stress it: louder, longer, higher. Everything else stays flat. In writing, capital letters mark the stress: Nicht am SAMstag, am SONNtag! ICH bringe den Salat, nicht du. Ich hätte gern TEE, nicht Kaffee. You know sentence stress from chapter 10. This is the version for 'not this, but that'.",
+     "body": "When one word changes, you stress it: louder, longer, higher. Everything else stays flat. Next to each example you see which word to stress. Think of: not Samstag, but Sonntag. You know sentence stress from chapter 10. This is the version for 'not this, but that'.",
      "lead": "In spoken German the music of the sentence is as important as the words. Contrast stress shows the other person exactly which part of your plan changed.",
      "examples": [
       {
@@ -12263,29 +12825,22 @@
          "negation"
         ],
         [
-         "am",
+         "am Samstag,",
          "time"
         ],
         [
-         "Samstag,",
-         "time"
-        ],
-        [
-         "am",
-         "time"
-        ],
-        [
-         "Sonntag!",
+         "am Sonntag!",
          "time"
         ]
-       ]
+       ],
+       "why": "Stress the day: Sonntag."
       },
       {
-       "de": "ICH bringe den Salat, nicht du.",
+       "de": "Ich bringe den Salat, nicht du.",
        "en": "I will bring the salad, not you.",
        "parts": [
         [
-         "ICH",
+         "Ich",
          "subject"
         ],
         [
@@ -12293,11 +12848,7 @@
          "verb"
         ],
         [
-         "den",
-         "article"
-        ],
-        [
-         "Salat,",
+         "den Salat,",
          "object"
         ],
         [
@@ -12308,10 +12859,11 @@
          "du.",
          "subject"
         ]
-       ]
+       ],
+       "why": "Stress the person: Ich."
       },
       {
-       "de": "Ich hätte gern TEE, nicht Kaffee.",
+       "de": "Ich hätte gern Tee, nicht Kaffee.",
        "en": "I would like tea, not coffee.",
        "parts": [
         [
@@ -12327,7 +12879,7 @@
          "other"
         ],
         [
-         "TEE,",
+         "Tee,",
          "object"
         ],
         [
@@ -12338,17 +12890,18 @@
          "Kaffee.",
          "object"
         ]
-       ]
+       ],
+       "why": "Stress the drink: Tee."
       }
      ],
      "deeper": {
-      "text": "To find the stressed word, ask: what is different from before? If the day changes, stress the day. If the person changes, stress the person. In longer words the stress stays on the same syllable as always: Samstag, Sonntag, not samSTAG. You only need to recognise it and to read it aloud with the capital letters.",
+      "text": "To find the stressed word, ask: what is different from before? If the day changes, stress the day. If the person changes, stress the person. In longer words the stress stays on the same syllable as always: Samstag and Sonntag both begin with a strong first syllable. You only need to recognise it and to say it aloud.",
       "example": {
-       "de": "ICH melde mich:reflexive, nicht du.",
+       "de": "Ich melde mich, nicht du.",
        "en": "I will get in touch, not you.",
        "parts": [
         [
-         "ICH",
+         "Ich",
          "subject"
         ],
         [
@@ -12356,8 +12909,8 @@
          "verb"
         ],
         [
-         "mich:reflexive,",
-         "other"
+         "mich,",
+         "reflexive"
         ],
         [
          "nicht",
@@ -12367,10 +12920,11 @@
          "du.",
          "subject"
         ]
-       ]
+       ],
+       "why": "Stress the person: Ich."
       }
      },
-     "more": "Like a highlighter pen: you do not highlight the whole page, only the one word that is new. Say it louder, a bit longer and with a higher voice. All other words are quiet and flat. Try with: Ich komme am Sonntag.",
+     "more": "Think of a highlighter pen: you do not mark the whole page, only the one word that is new. Say it louder, a bit longer and with a higher voice. All other words stay quiet and flat. Try with: Ich komme am Sonntag. First stress Ich (not Mira), then Sonntag (not Samstag). The same sentence means something different each time. English does this too: I did not say HE did it.",
      "steps": [
       "1 Find the word that changes",
       "2 Say it louder, longer and higher",
@@ -12378,8 +12932,124 @@
      ]
     },
     {
+     "title": "Words for chats and plans",
+     "body": "Nouns: der Gruppenchat (die Gruppenchats), das Emoji, die SMS. Verbs: vorhaben (separable) means to have planned something: Was hast du vor? zurückschreiben (separable) means to write back. The adjective kurzfristig means at short notice, at the last minute.",
+     "lead": "Group chats have their own words. This card gives you the rest of the lesson's vocabulary with articles, so the questions only test what you have met.",
+     "examples": [
+      {
+       "de": "Was hast du am Samstag vor?",
+       "en": "What are you planning on Saturday?",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "hast",
+         "verb"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "am Samstag",
+         "time"
+        ],
+        [
+         "vor?",
+         "verb2"
+        ]
+       ],
+       "why": "vorhaben: vor goes to the end"
+      },
+      {
+       "de": "Ich schreibe dir gleich zurück.",
+       "en": "I will write back to you in a moment.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "schreibe",
+         "verb"
+        ],
+        [
+         "dir",
+         "dative"
+        ],
+        [
+         "gleich",
+         "time"
+        ],
+        [
+         "zurück.",
+         "verb2"
+        ]
+       ],
+       "why": "zurückschreiben: zurück goes to the end"
+      },
+      {
+       "de": "Im Gruppenchat steht der Plan.",
+       "en": "The plan is in the group chat.",
+       "parts": [
+        [
+         "Im Gruppenchat",
+         "place"
+        ],
+        [
+         "steht",
+         "verb"
+        ],
+        [
+         "der Plan.",
+         "subject"
+        ]
+       ],
+       "why": "der Gruppenchat: Wo? dative"
+      }
+     ],
+     "deeper": {
+      "text": "vorhaben is almost always used with a question or with nichts: Was hast du vor? and Ich habe nichts vor. Its Perfekt is hat vorgehabt. The word kurzfristig describes decisions made at the last minute, and its opposite is langfristig, long-term. Both are useful for talking about plans and changes of plan.",
+      "example": {
+       "de": "Ich habe heute nichts vor.",
+       "en": "I have no plans today.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "heute",
+         "time"
+        ],
+        [
+         "nichts",
+         "object"
+        ],
+        [
+         "vor.",
+         "verb2"
+        ]
+       ],
+       "why": "Ich habe nichts vor = I have no plans"
+      }
+     },
+     "more": "Walk through your own group chat in your head. Someone asks: Was hast du am Samstag vor? You are not sure, because plans in your life change kurzfristig. So you write a short message in the Gruppenchat, and later you schreibst zurück. Name each step in German as you imagine it, then say it aloud once. Real chats are full of these little words.",
+     "steps": [
+      "der Gruppenchat, das Emoji, die SMS",
+      "vorhaben, zurückschreiben (separable)",
+      "kurzfristig: at short notice"
+     ]
+    },
+    {
      "title": "Contrast with sondern and aber",
-     "body": "Stress and the little words work together. After nicht comes sondern: Ich komme nicht am Samstag, sondern am SONNtag. After a wish with a problem comes aber: Ben würde gern kommen, aber er kann HEUte nicht. The stressed word is the one that corrects or contrasts.",
+     "body": "Stress and the little words work together. After nicht comes sondern: Ich komme nicht am Samstag, sondern am Sonntag (stress Sonntag). After a wish with a problem comes aber: Ben würde gern kommen, aber er kann heute nicht (stress heute). The stressed word is the one that corrects or contrasts.",
      "lead": "You know sondern and aber from earlier chapters. Now you use them with the stress, exactly like people in a real conversation.",
      "examples": [
       {
@@ -12421,7 +13091,7 @@
        ]
       },
       {
-       "de": "Ich trinke nicht Kaffee, sondern TEE.",
+       "de": "Ich trinke nicht Kaffee, sondern Tee.",
        "en": "I do not drink coffee, but TEA.",
        "parts": [
         [
@@ -12445,10 +13115,11 @@
          "conjunction"
         ],
         [
-         "TEE.",
+         "Tee.",
          "object"
         ]
-       ]
+       ],
+       "why": "Stress the new word: Tee."
       },
       {
        "de": "Ben würde gern kommen, aber er kann heute nicht.",
@@ -12496,7 +13167,7 @@
      "deeper": {
       "text": "Sondern corrects something that was said before (not A, but B), and it needs a negative first part. Aber adds a problem, and the first part does not need nicht. Both words are on position zero: the word order after them is normal. Stress the word that holds the new information: not Samstag but Sonntag, not heute but another day.",
       "example": {
-       "de": "Nicht ICH, sondern Leon bringt den Salat.",
+       "de": "Nicht ich, sondern Leon bringt den Salat.",
        "en": "Not ME, but Leon brings the salad.",
        "parts": [
         [
@@ -12504,7 +13175,7 @@
          "negation"
         ],
         [
-         "ICH,",
+         "ich,",
          "subject"
         ],
         [
@@ -12520,17 +13191,14 @@
          "verb"
         ],
         [
-         "den",
-         "article"
-        ],
-        [
-         "Salat.",
+         "den Salat.",
          "object"
         ]
-       ]
+       ],
+       "why": "Stress the contrast: ich and Leon."
       }
      },
-     "more": "Sondern means 'no, but instead' and always follows nicht or kein. Aber means 'but' and shows a small problem. If you correct someone, use sondern. If you explain a problem, use aber. Both stress the new word.",
+     "more": "Sondern means no, but instead and always follows nicht or kein. Aber means but and shows a small problem. If you correct someone, use sondern. If you explain a problem, use aber. In both sentences you stress the new word. A quick test: can you swap the two parts and say instead? Then it is sondern: not on Saturday, instead on Sunday.",
      "steps": [
       "Mira: Wir machen das Grillfest am Samstag.",
       "Leon: Nein, nicht am Samstag, sondern am Sonntag! Am Samstag regnet es.",
@@ -12570,7 +13238,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "The dream form of sein; Wie … es is a fixed frame.",
      "explanation": "Wie wäre es mit einem Picknick?",
      "grammar": true
     },
@@ -12578,12 +13246,12 @@
      "type": "choice",
      "prompt": "Wie wäre es mit ___ Picknick?",
      "options": [
-      "einem",
       "ein",
+      "einem",
       "einen"
      ],
-     "answer": 0,
-     "hint": "mit takes the dative: einem.",
+     "answer": 1,
+     "hint": "mit always takes the dative; Picknick is a das-noun.",
      "explanation": "Wie wäre es mit einem Picknick?",
      "grammar": true
     },
@@ -12593,7 +13261,7 @@
      "answers": [
       "auf"
      ],
-     "hint": "Lust auf.",
+     "hint": "Lust on an event: the same preposition as in sich freuen + future.",
      "explanation": "Hättest du Lust auf ein Picknick?",
      "grammar": true
     },
@@ -12623,10 +13291,10 @@
      "prompt": "Which answer says no?",
      "options": [
       "Ja, gern!",
-      "Leider nicht.",
-      "Das passt mir gut."
+      "Das passt mir gut.",
+      "Leider nicht."
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "leider = unfortunately.",
      "explanation": "Leider nicht.",
      "grammar": true
@@ -12637,21 +13305,21 @@
      "answers": [
       "hätte"
      ],
-     "hint": "haben → hätte, a wish for another day.",
+     "hint": "A wish for another day: the dream form of haben.",
      "explanation": "…, aber am Sonntag hätte ich Zeit.",
      "grammar": true
     },
     {
      "type": "choice",
-     "prompt": "You want TEA, not coffee. Which sentence stresses the right word?",
+     "prompt": "Ich hätte gern Tee, nicht Kaffee. Which word do you stress?",
      "options": [
-      "Ich hätte gern TEE.",
-      "ICH hätte gern Tee.",
-      "Ich hätte GERN Tee."
+      "Tee",
+      "gern",
+      "hätte"
      ],
      "answer": 0,
-     "hint": "Stress the word that changes.",
-     "explanation": "Ich hätte gern TEE, nicht Kaffee.",
+     "hint": "Which word is different from before?",
+     "explanation": "The word that changes gets the stress: Tee (not Kaffee).",
      "grammar": true
     }
    ],
@@ -12671,11 +13339,11 @@
      "type": "choice",
      "prompt": "Which suggestion is softer?",
      "options": [
-      "Hättest du Zeit?",
       "Hast du Zeit?",
+      "Hättest du Zeit?",
       "Du hast Zeit."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The hätte form.",
      "explanation": "Hättest du Zeit?",
      "grammar": true
@@ -12686,7 +13354,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "The dream form of sein.",
      "explanation": "Wie wäre es am Sonntag?",
      "grammar": true
     },
@@ -12694,11 +13362,11 @@
      "type": "choice",
      "prompt": "Wie wäre es mit ___ Spaziergang?",
      "options": [
-      "einem",
       "ein",
-      "einen"
+      "einen",
+      "einem"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "mit + dative.",
      "explanation": "Wie wäre es mit einem Spaziergang?",
      "grammar": true
@@ -12709,7 +13377,7 @@
      "answers": [
       "mir"
      ],
-     "hint": "passen + dative: mir.",
+     "hint": "passen takes the dative: use the dative form of ich.",
      "explanation": "Das passt mir gut.",
      "grammar": true
     },
@@ -12738,11 +13406,11 @@
      "type": "choice",
      "prompt": "How do you end a message before your name?",
      "options": [
+      "Viele Grüße",
       "Viele Grüße,",
-      "viele Grüße,",
-      "Viele Grüße"
+      "viele Grüße,"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "A closing has no comma.",
      "explanation": "Viele Grüße",
      "grammar": true
@@ -12752,10 +13420,10 @@
      "prompt": "After a greeting like 'Hallo Ben' you write …",
      "options": [
       "a full stop and a capital letter",
-      "a colon and a capital letter",
-      "a comma and a small letter"
+      "a comma and a small letter",
+      "a colon and a capital letter"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Greeting + comma, then a small letter.",
      "explanation": "Hallo Ben, ich sage leider ab.",
      "grammar": true
@@ -12774,11 +13442,11 @@
      "type": "choice",
      "prompt": "'spontan' means …",
      "options": [
-      "without a plan, at once",
       "very slowly",
-      "on time"
+      "on time",
+      "without a plan, at once"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Leon comes without planning.",
      "explanation": "spontan = without a plan.",
      "grammar": false
@@ -12797,11 +13465,11 @@
      "type": "choice",
      "prompt": "'kurzfristig' means …",
      "options": [
+      "at short notice",
       "for a long time",
-      "never",
-      "at short notice"
+      "never"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Not planned long before.",
      "explanation": "kurzfristig = at short notice.",
      "grammar": false
@@ -12966,7 +13634,7 @@
     "examples": [
      "Hättest du am Samstag Zeit? Wie wäre es mit einem Picknick?",
      "Leider nicht, am Samstag habe ich keine Zeit. Aber am Sonntag hätte ich Zeit.",
-     "Ich hätte gern TEE, nicht Kaffee. Ich komme nicht am Samstag, sondern am Sonntag."
+     "Ich hätte gern Tee, nicht Kaffee (say Tee louder). Ich komme nicht am Samstag, sondern am Sonntag (say Sonntag louder)."
     ]
    },
    "retrieval": [
@@ -12996,7 +13664,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "A wish: wäre.",
+     "hint": "A wish: the dream form of sein.",
      "explanation": "Das wäre schön!",
      "grammar": true
     },
@@ -13671,7 +14339,7 @@
        ]
       }
      },
-     "more": "Close your eyes and touch the thing: Is it hard like wood? Smooth like glass? Light like plastic? Say it: Es ist aus Holz. Es ist aus Glas. Es ist leicht. 1. A shelf: aus Holz, schwer. 2. A glass: aus Glas, klein. 3. A pen: aus Plastik, leicht. Remember: aus Holz, with no der, die or das.",
+     "more": "Close your eyes and touch the thing: is it hard like wood? Smooth like glass? Light like plastic? Say it: Es ist aus Holz. Es ist aus Glas. Es ist leicht. 1. A shelf: aus Holz, schwer. 2. A glass: aus Glas, klein. 3. A pen: aus Plastik, leicht. Remember: aus Holz, with no der, die or das. English says made of wood; German says only aus Holz.",
      "table": {
       "headers": [
        "Material (aus + dative)",
@@ -13833,6 +14501,109 @@
      }
     },
     {
+     "title": "Words for explaining words",
+     "body": "die Bedeutung (die Bedeutungen) is the meaning. bedeuten is the verb: Was bedeutet das Wort? benutzen means to use. Materials: das Holz (die Hölzer), das Plastik. Together with das Ding, das Gerät and das Gegenteil you now have a small toolbox of words for explaining words.",
+     "lead": "Describing needs a few helper words. This card gives you the remaining words of the lesson with articles, so the questions only test what you have met.",
+     "examples": [
+      {
+       "de": "Was bedeutet das Wort?",
+       "en": "What does the word mean?",
+       "parts": [
+        [
+         "Was",
+         "question"
+        ],
+        [
+         "bedeutet",
+         "verb"
+        ],
+        [
+         "das Wort?",
+         "subject"
+        ]
+       ],
+       "why": "bedeuten: er/sie/es form"
+      },
+      {
+       "de": "Ich benutze das Handy jeden Tag.",
+       "en": "I use the phone every day.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "benutze",
+         "verb"
+        ],
+        [
+         "das Handy",
+         "object"
+        ],
+        [
+         "jeden Tag.",
+         "time"
+        ]
+       ],
+       "why": "benutzen + accusative"
+      },
+      {
+       "de": "Das Wort hat zwei Bedeutungen.",
+       "en": "The word has two meanings.",
+       "parts": [
+        [
+         "Das Wort",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "zwei Bedeutungen.",
+         "object"
+        ]
+       ],
+       "why": "die Bedeutung, die Bedeutungen"
+      }
+     ],
+     "deeper": {
+      "text": "bedeuten is regular: er/sie/es bedeutet. Its Perfekt is hat bedeutet, without ge-, because be- is an inseparable prefix, as in besuchen and bezahlen. The same is true for benutzen: hat benutzt. Both verbs are useful in the Perfekt when you ask about a word you heard earlier today.",
+      "example": {
+       "de": "Ich habe das Wort nicht benutzt.",
+       "en": "I did not use the word.",
+       "parts": [
+        [
+         "Ich",
+         "subject"
+        ],
+        [
+         "habe",
+         "verb"
+        ],
+        [
+         "das Wort",
+         "object"
+        ],
+        [
+         "nicht",
+         "negation"
+        ],
+        [
+         "benutzt.",
+         "verb2"
+        ]
+       ]
+      }
+     },
+     "more": "Make a tiny glossary for yourself: three words that explain other words, das Ding, das Gegenteil and die Bedeutung. Then two verbs: bedeuten and benutzen. Next time a word is missing, you can say: Ich kenne die Bedeutung nicht. Or: Das bedeutet … The talk goes on, even without the word. Describing words with words is a game you can play every day, with a spoon, a lamp or a clock.",
+     "steps": [
+      "das Ding, das Gerät, der Gegenstand, das Gegenteil",
+      "die Bedeutung, bedeuten, benutzen",
+      "das Holz, das Plastik"
+     ]
+    },
+    {
      "title": "Das Ratespiel in der WG",
      "body": "On Friday evening the WG plays a guessing game. Mira describes, Ben guesses. Listen to how the tools work together. And two helpful phrases: Meinst du …? (Do you mean …?) and Ich weiß, was du meinst. (I know what you mean.)",
      "lead": "You now have all five tools. This card puts them together in a real game: Mira describes a thing in the WG kitchen, and Ben guesses with Meinst du …?",
@@ -13988,7 +14759,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:qDUSrKq6_vg"
+     "yt:qDUSrKq6_vg",
+     "yt:_zxq6dkt_xE"
     ],
     "nicosWeg": [
      "nw:a2-73"
@@ -14000,11 +14772,11 @@
      "type": "choice",
      "prompt": "Man schneidet ___ Brot. (with it)",
      "options": [
+      "damit",
       "mit es",
-      "dafür",
-      "damit"
+      "dafür"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "For things German uses a da-word, not mit es.",
      "explanation": "Man schneidet damit Brot. → das Messer.",
      "grammar": true
@@ -14037,10 +14809,10 @@
      "prompt": "Man schreibt damit. Was ist das?",
      "options": [
       "die Kaffeemaschine",
-      "der Kugelschreiber",
-      "der Wecker"
+      "der Wecker",
+      "der Kugelschreiber"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "What do you write with?",
      "explanation": "Man schreibt damit → der Kugelschreiber.",
      "grammar": false
@@ -14059,11 +14831,11 @@
      "type": "choice",
      "prompt": "Das ___ von „spät“ ist „früh“.",
      "options": [
+      "Gegenteil",
       "Gerät",
-      "Ding",
-      "Gegenteil"
+      "Ding"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The word for opposite.",
      "explanation": "Das Gegenteil von „spät“ ist „früh“.",
      "grammar": false
@@ -14124,11 +14896,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Man schneidet damit Brot.",
       "Man schneidet Brot mit es.",
+      "Man schneidet damit Brot.",
       "Man schneidet mit es Brot."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "For things: da + preposition.",
      "explanation": "Man schneidet damit Brot.",
      "grammar": true
@@ -14137,11 +14909,11 @@
      "type": "choice",
      "prompt": "Man braucht es, wenn es regnet. Was ist das?",
      "options": [
-      "der Regenschirm",
       "der Koffer",
-      "das Regal"
+      "das Regal",
+      "der Regenschirm"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "What do you need in the rain?",
      "explanation": "der Regenschirm.",
      "grammar": false
@@ -14160,11 +14932,11 @@
      "type": "choice",
      "prompt": "Which tool is „Es ist aus Glas.“?",
      "options": [
+      "what it is made of",
       "what you do with it",
-      "when you need it",
-      "what it is made of"
+      "when you need it"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "aus + material.",
      "explanation": "Tool 4: material and shape.",
      "grammar": false
@@ -14185,10 +14957,10 @@
      "prompt": "Das Gegenteil von „laut“ ist ___.",
      "options": [
       "„schnell“",
-      "„schwer“",
-      "„leise“"
+      "„leise“",
+      "„schwer“"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "What is not loud?",
      "explanation": "„leise“.",
      "grammar": false
@@ -14198,10 +14970,10 @@
      "prompt": "Es ist ein ___ Regal aus Holz. (schwer)",
      "options": [
       "schwere",
-      "schweres",
-      "schwer"
+      "schwer",
+      "schweres"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "ein + das Regal: the adjective shows das.",
      "explanation": "ein schweres Regal.",
      "grammar": true
@@ -14241,11 +15013,11 @@
      "type": "choice",
      "prompt": "Das ist ein ___ für die Küche. Man macht damit Kaffee.",
      "options": [
-      "Gegenteil",
       "Gerät",
+      "Gegenteil",
       "Holz"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A thing that works with power.",
      "explanation": "ein Gerät = a device.",
      "grammar": false
@@ -14441,7 +15213,7 @@
      "answers": [
       "hätte"
      ],
-     "hint": "Not real: hätte.",
+     "hint": "Not true: the dream form of haben, at the end of the wenn-part.",
      "explanation": "Wenn ich mehr Zeit hätte, …",
      "grammar": true
     },
@@ -14451,7 +15223,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "A wish or a dream: würde + infinitive.",
+     "hint": "A dream: the dream verb with ü; ich takes no ending.",
      "explanation": "Ich würde gern nach Italien fahren.",
      "grammar": true
     },
@@ -15348,6 +16120,97 @@
      ]
     },
     {
+     "title": "Time words: vergehen, der Sinn, die Weile",
+     "body": "vergehen means to pass, about time: Die Zeit vergeht schnell. Its Perfekt is ist vergangen. der Sinn is sense or point: Das hat keinen Sinn means there is no point. die Weile is a short time: Warte eine Weile! die Zeitverschwendung is time you lose for nothing.",
+     "lead": "Proverbs need a few small everyday words. This card gives you the rest of the lesson's vocabulary, so the questions only test what you have already met.",
+     "examples": [
+      {
+       "de": "Die Zeit vergeht schnell.",
+       "en": "Time passes quickly.",
+       "parts": [
+        [
+         "Die Zeit",
+         "subject"
+        ],
+        [
+         "vergeht",
+         "verb"
+        ],
+        [
+         "schnell.",
+         "other"
+        ]
+       ],
+       "why": "vergehen: time passes"
+      },
+      {
+       "de": "Das hat keinen Sinn.",
+       "en": "That makes no sense.",
+       "parts": [
+        [
+         "Das",
+         "subject"
+        ],
+        [
+         "hat",
+         "verb"
+        ],
+        [
+         "keinen Sinn.",
+         "object"
+        ]
+       ],
+       "why": "keinen: negation of der Sinn"
+      },
+      {
+       "de": "Warte eine Weile!",
+       "en": "Wait a while!",
+       "parts": [
+        [
+         "Warte",
+         "verb"
+        ],
+        [
+         "eine Weile!",
+         "time"
+        ]
+       ],
+       "why": "die Weile: no plural"
+      }
+     ],
+     "deeper": {
+      "text": "vergehen is irregular: er/sie/es vergeht, but the Perfekt is ist vergangen, with sein, because time moves on and nothing happens to it. This is the same pattern as vergehen's cousin gehen. Das hat keinen Sinn is a fixed chunk with keinen, the negative form of einen. You can also ask: Was ist der Sinn davon? using a da-word.",
+      "example": {
+       "de": "Die Woche ist schnell vergangen.",
+       "en": "The week passed quickly.",
+       "parts": [
+        [
+         "Die Woche",
+         "subject"
+        ],
+        [
+         "ist",
+         "verb"
+        ],
+        [
+         "schnell",
+         "other"
+        ],
+        [
+         "vergangen.",
+         "verb2"
+        ]
+       ]
+      }
+     },
+     "more": "Remember the title of this chapter: Wie die Zeit vergeht! Time flies. Say it whenever you look at the clock. When something is pointless, shrug and say: Das hat keinen Sinn. When you have to wait a little, say: Eine Weile. Three small phrases from daily life, all taken from this lesson. Use one of them today. Real conversations are full of such small phrases.",
+     "steps": [
+      "vergehen: Die Zeit vergeht schnell. (ist vergangen)",
+      "der Sinn: Das hat keinen Sinn.",
+      "die Weile, die Zeitverschwendung"
+     ]
+    },
+    {
      "title": "Frau Webers Lieblingssprichwörter",
      "body": "Frau Weber writes a short note for the WG and puts it on the fridge. She explains her three favourite proverbs. Read the greeting with a comma, the text in lowercase and the closing without a comma. Das ist ein altes Sprichwort, she says. She uses du and ihr for the four.",
      "lead": "You can talk about a proverb now. This card shows a real text: Frau Weber's note to the WG with her three favourite proverbs and what they mean for her.",
@@ -15393,8 +16256,8 @@
        ]
       },
       {
-       "de": "Wenn ihr Stress habt, denkt an dieses Sprichwort!",
-       "en": "When you are stressed, think of this proverb!",
+       "de": "Wenn ihr Stress habt, denkt an diese Sprichwörter!",
+       "en": "When you are stressed, think of these proverbs!",
        "parts": [
         [
          "Wenn",
@@ -15421,7 +16284,7 @@
          "preposition"
         ],
         [
-         "dieses Sprichwort!",
+         "diese Sprichwörter!",
          "object"
         ]
        ]
@@ -15466,7 +16329,7 @@
        ]
       }
      },
-     "more": "A note on the fridge is a small letter: greeting with a comma, a lowercase start, a closing without a comma. Frau Weber's note: Liebe Mira, lieber Ben, lieber Leon, liebe Anna, / meine drei Lieblingssprichwörter sind „Kommt Zeit, kommt Rat“, „Eile mit Weile“ und „Ende gut, alles gut“. Wenn ihr Stress habt, denkt an diese Sprichwörter! / Viele Grüße / Frau Weber.",
+     "more": "A note on the fridge is a tiny letter with three parts, like a sandwich: a greeting with a comma, a text that starts with a small letter, and a closing without a comma. Frau Weber says du and ihr, because she knows the four well. Notice that her proverbs sit in quotes inside her sentences, and the quotes never change the word order. Write your own note with one proverb for a friend.",
      "steps": [
       "Liebe Mira, lieber Ben, lieber Leon, liebe Anna,",
       "meine drei Lieblingssprichwörter sind „Kommt Zeit, kommt Rat“, „Eile mit Weile“ und „Ende gut, alles gut“.",
@@ -15479,7 +16342,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:nuGpXkhxx6o"
+     "yt:nuGpXkhxx6o",
+     "yt:KnzFnqf7T6Y"
     ],
     "nicosWeg": [
      "nw:a2-11"
@@ -15491,11 +16355,11 @@
      "type": "choice",
      "prompt": "„Kommt Zeit, kommt Rat.“ Das bedeutet, dass man ___.",
      "options": [
-      "schnell arbeiten soll",
       "Geduld haben soll",
+      "schnell arbeiten soll",
       "früh aufstehen soll"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Wait, the solution comes.",
      "explanation": "…, dass man Geduld haben soll.",
      "grammar": false
@@ -15538,10 +16402,10 @@
      "prompt": "„Übung macht den ___.“",
      "options": [
       "Anfang",
-      "Meister",
-      "Rat"
+      "Rat",
+      "Meister"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Practice makes perfect.",
      "explanation": "„Übung macht den Meister.“",
      "grammar": false
@@ -15621,11 +16485,11 @@
      "type": "choice",
      "prompt": "Drei Stunden Fernsehen am Tag? Das ist ___!",
      "options": [
-      "Zeitverschwendung",
       "Übung",
+      "Zeitverschwendung",
       "eine Morgenstunde"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Time that is lost.",
      "explanation": "Das ist Zeitverschwendung!",
      "grammar": false
@@ -15750,7 +16614,7 @@
      "answers": [
       "Rat"
      ],
-     "hint": "der Rat = advice.",
+     "hint": "A piece of advice: the word from the proverb about waiting.",
      "explanation": "Frau Weber gibt Anna einen Rat.",
      "grammar": false
     }
@@ -15956,7 +16820,7 @@
      "answers": [
       "wäre"
      ],
-     "hint": "sein → wäre.",
+     "hint": "A dream, not a fact: the dream form of sein.",
      "explanation": "Das wäre toll!",
      "grammar": true
     }
@@ -16420,7 +17284,7 @@
         "Ich hätte gern Zeit. Ich würde kommen."
        ],
        [
-        "Wenn ich heute lebe, habe ich ein Handy.",
+        "Ich lebe heute. Ich habe ein Handy.",
         "Wenn ich 1900 leben würde, hätte ich kein Handy."
        ]
       ]
@@ -16537,7 +17401,7 @@
       }
      ],
      "deeper": {
-      "text": "Erfinden is a separable-looking verb, but it is not separable: ich erfinde, er erfindet, hat erfunden. With ohne you often use hätte for an unreal picture: Ohne das Handy hätte ich keine Fotos. This is short and strong. And das Licht is the light; die Lichter are lights you can count, for example in a city at night.",
+      "text": "Erfinden starts with the inseparable prefix er-, so the Perfekt has no ge-: ich habe erfunden, er hat erfunden. Compare erleben and erklären. With ohne you often use hätte for an unreal picture: Ohne das Handy hätte ich keine Fotos. This is short and strong. And das Licht is the light; die Lichter are lights you can count, for example in a city at night.",
       "example": {
        "de": "Ohne das Handy hätte ich keine Fotos.",
        "en": "Without my phone I would have no photos.",
@@ -16875,7 +17739,7 @@
       }
      ],
      "deeper": {
-      "text": "Anna's whole text: Wenn ich im Jahr 1900 leben würde, hätte ich kein Handy. Ich würde viele Briefe schreiben. In der Nacht hätte ich nur Kerzen, weil viele Leute keinen Strom hatten. Das wäre schwer für mich! Worauf würde ich mich freuen? Auf die Ruhe. Aber ich lebe lieber heute, weil ich meine Familie jeden Tag anrufen kann.",
+      "text": "Anna mixes dream and fact on purpose. Inside the dream she gives a fact from the past with the Präteritum: weil viele Leute keinen Strom hatten. The little word aber turns the text back to today, and her last sentence is real: lebe, kann. A good text switches between the two on purpose, and you can hear the switch in the verbs: hätte and würde for the dream, normal verbs for the facts.",
       "example": {
        "de": "Ich lebe lieber heute, weil ich meine Familie jeden Tag anrufen kann.",
        "en": "I prefer living today, because I can call my family every day.",
@@ -17092,7 +17956,7 @@
      "answers": [
       "würde"
      ],
-     "hint": "Not real: leben + würde at the end of the wenn-part.",
+     "hint": "Not real: leben plus the dream verb with ü, at the end of the wenn-part.",
      "explanation": "Wenn ich im Jahr 1900 leben würde, …",
      "grammar": true
     },
@@ -17100,11 +17964,11 @@
      "type": "choice",
      "prompt": "Wenn ich ein Ritter ___, würde ich auf einer Burg wohnen.",
      "options": [
+      "wäre",
       "sein würde",
-      "bin",
-      "wäre"
+      "bin"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "sein has its own short form.",
      "explanation": "Wenn ich ein Ritter wäre, …",
      "grammar": true
@@ -17125,7 +17989,7 @@
      "answers": [
       "erfunden"
      ],
-     "hint": "erfinden → hat erfunden.",
+     "hint": "The participle of erfinden has no ge-, because er- is an inseparable prefix.",
      "explanation": "Wer hat das Auto erfunden?",
      "grammar": true
     },
@@ -17133,11 +17997,11 @@
      "type": "choice",
      "prompt": "Ohne Strom ___ wir kein Licht.",
      "options": [
-      "hätten",
       "haben würden",
+      "hätten",
       "hatten"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "A picture that is not real: the short form.",
      "explanation": "Ohne Strom hätten wir kein Licht.",
      "grammar": true
@@ -17208,26 +18072,26 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Wenn ich im Jahr 1900 leben würde, hätte ich kein Handy.",
       "Wenn ich im Jahr 1900 leben würde, ich hätte kein Handy.",
-      "Wenn ich im Jahr 1900 würde leben, hätte ich kein Handy."
+      "Wenn ich im Jahr 1900 würde leben, hätte ich kein Handy.",
+      "Wenn ich im Jahr 1900 leben würde, hätte ich kein Handy."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Verb, verb at the comma.",
      "explanation": "Wenn ich im Jahr 1900 leben würde, hätte ich kein Handy.",
      "grammar": true
     },
     {
      "type": "choice",
-     "prompt": "Is it true now? Ich lebe heute. → ___",
+     "prompt": "Which sentence says something that is true now?",
      "options": [
-      "Wenn ich heute lebe, habe ich ein Handy.",
-      "Wenn ich heute leben würde, hätte ich ein Handy.",
-      "Wenn ich heute wäre, hätte ich ein Handy."
+      "Heute habe ich ein Handy.",
+      "Wenn ich 1900 leben würde, hätte ich kein Handy.",
+      "Wenn ich ein Ritter wäre, hätte ich ein Pferd."
      ],
      "answer": 0,
-     "hint": "It is true: normal verbs.",
-     "explanation": "Real: Wenn ich heute lebe, habe ich ein Handy.",
+     "hint": "A real fact uses a normal verb, without a wenn-dream.",
+     "explanation": "Heute habe ich ein Handy. is true; the other sentences are dreams.",
      "grammar": true
     },
     {
@@ -17236,7 +18100,7 @@
      "answers": [
       "würden"
      ],
-     "hint": "wir → würden.",
+     "hint": "wir: the plural dream verb ends in -en.",
      "explanation": "Wenn wir in der Zukunft leben würden, …",
      "grammar": true
     },
@@ -17267,11 +18131,11 @@
      "type": "choice",
      "prompt": "Worauf würdest du dich freuen? — Ich würde mich ___ freuen. (on it)",
      "options": [
-      "darauf",
       "dafür",
-      "auf es"
+      "auf es",
+      "darauf"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Thing → da(r) + the same preposition.",
      "explanation": "Ich würde mich darauf freuen.",
      "grammar": true
@@ -17294,10 +18158,10 @@
      "prompt": "Die Waschmaschine ist eine tolle ___.",
      "options": [
       "Gegenwart",
-      "Vergangenheit",
-      "Erfindung"
+      "Erfindung",
+      "Vergangenheit"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Something new that someone made.",
      "explanation": "eine tolle Erfindung.",
      "grammar": false
@@ -17607,11 +18471,11 @@
       "type": "choice",
       "prompt": "Who writes the question on the whiteboard?",
       "options": [
+       "Mira",
        "Leon",
-       "Frau Weber",
-       "Mira"
+       "Frau Weber"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "First sentence.",
       "explanation": "Mira schreibt die Frage.",
       "grammar": false
@@ -17620,11 +18484,11 @@
       "type": "choice",
       "prompt": "Where would Leon go?",
       "options": [
-       "to Kiel",
        "to Hamburg",
+       "to Kiel",
        "to Vienna"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Leon's line.",
       "explanation": "Er würde nach Kiel fahren.",
       "grammar": false
@@ -17634,10 +18498,10 @@
       "prompt": "What would Leon do if the weather were nice?",
       "options": [
        "go home early",
-       "stay on the water all day",
-       "go to the museum"
+       "go to the museum",
+       "stay on the water all day"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Wenn das Wetter schön wäre …",
       "explanation": "Er würde den ganzen Tag auf dem Wasser bleiben.",
       "grammar": false
@@ -17646,11 +18510,11 @@
       "type": "choice",
       "prompt": "What would Mira do in the morning?",
       "options": [
-       "sleep in",
        "play the guitar",
+       "sleep in",
        "go sailing"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "morgens …",
       "explanation": "Sie würde morgens Gitarre spielen.",
       "grammar": false
@@ -17660,10 +18524,10 @@
       "prompt": "Where would Mira go in the afternoon?",
       "options": [
        "to a dance class",
-       "to the beach",
-       "to an exhibition"
+       "to an exhibition",
+       "to the beach"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Am Nachmittag …",
       "explanation": "in die Ausstellung im Museum",
       "grammar": false
@@ -17673,10 +18537,10 @@
       "prompt": "Until when would Ben sleep?",
       "options": [
        "until nine",
-       "until eleven",
-       "until twelve"
+       "until twelve",
+       "until eleven"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "bis … Uhr",
       "explanation": "bis elf Uhr",
       "grammar": false
@@ -17698,11 +18562,11 @@
       "type": "choice",
       "prompt": "Anna: 'Ich würde mich ausruhen.' What would she do?",
       "options": [
-       "rest",
        "work",
+       "rest",
        "clean"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "sich ausruhen",
       "explanation": "sich ausruhen = to rest.",
       "grammar": true
@@ -17724,11 +18588,11 @@
       "type": "choice",
       "prompt": "What does Frau Weber wish?",
       "options": [
+       "to be young again",
        "to have a day off",
-       "to go to Kiel",
-       "to be young again"
+       "to go to Kiel"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Last sentence.",
       "explanation": "Ich wäre gern noch einmal jung!",
       "grammar": false
@@ -17743,11 +18607,11 @@
       "type": "choice",
       "prompt": "Who asks the first question?",
       "options": [
-       "Mira",
        "Leon",
+       "Mira",
        "Ben"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "First line.",
       "explanation": "Leon fragt.",
       "grammar": false
@@ -17756,11 +18620,11 @@
       "type": "choice",
       "prompt": "How much money do they talk about?",
       "options": [
-       "a million euros",
        "a thousand euros",
+       "a million euros",
        "ten million euros"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Eine Million Euro!",
       "explanation": "eine Million Euro",
       "grammar": false
@@ -17782,11 +18646,11 @@
       "type": "choice",
       "prompt": "Where would Mira do a music course?",
       "options": [
+       "in Vienna",
        "in Berlin",
-       "in Kiel",
-       "in Vienna"
+       "in Kiel"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Musikkurs in …",
       "explanation": "in Wien",
       "grammar": false
@@ -17809,10 +18673,10 @@
       "prompt": "What would Leon do at once?",
       "options": [
        "save all the money",
-       "travel around the world",
-       "buy a ship"
+       "buy a ship",
+       "travel around the world"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "sofort …",
       "explanation": "Er würde sofort eine Weltreise machen.",
       "grammar": true
@@ -17860,11 +18724,11 @@
       "type": "choice",
       "prompt": "What will Mira do tomorrow?",
       "options": [
+       "work",
        "go to Vienna",
-       "buy a lottery ticket",
-       "work"
+       "buy a lottery ticket"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Last line.",
       "explanation": "Dann muss ich morgen leider wieder arbeiten.",
       "grammar": false
@@ -17879,7 +18743,7 @@
       "answers": [
        "würde"
       ],
-      "hint": "ich → würde.",
+      "hint": "The dream verb with ü; ich takes no ending.",
       "explanation": "Ich würde gern ausschlafen.",
       "grammar": true
      },
@@ -17889,7 +18753,7 @@
       "answers": [
        "Würdest"
       ],
-      "hint": "du → würdest.",
+      "hint": "The dream verb with ü; du adds -st.",
       "explanation": "Würdest du gern segeln?",
       "grammar": true
      },
@@ -17899,7 +18763,7 @@
       "answers": [
        "hätten"
       ],
-      "hint": "haben → hätten.",
+      "hint": "The dream form of haben; wir adds -n.",
       "explanation": "Wir hätten gern einen Garten.",
       "grammar": true
      },
@@ -17909,7 +18773,7 @@
       "answers": [
        "wäre"
       ],
-      "hint": "sein → wäre.",
+      "hint": "The dream form of sein; er takes no ending.",
       "explanation": "Leon wäre gern am Meer.",
       "grammar": true
      },
@@ -17919,7 +18783,7 @@
       "answers": [
        "wäre"
       ],
-      "hint": "Das wäre …!",
+      "hint": "A reaction to a dream: das plus the dream form of sein.",
       "explanation": "Das wäre toll!",
       "grammar": true
      },
@@ -17929,7 +18793,7 @@
       "answers": [
        "wird"
       ],
-      "hint": "A plan: wird.",
+      "hint": "A plan with a date: the future verb for er.",
       "explanation": "Ben wird im Juli nach Kiel fahren.",
       "grammar": true
      },
@@ -18100,11 +18964,11 @@
       "type": "choice",
       "prompt": "What is Anna waiting for?",
       "options": [
-       "a reply from her boss",
        "a delivery",
-       "a phone call from Mira"
+       "a phone call from Mira",
+       "a reply from her boss"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Seit Montag warte ich …",
       "explanation": "Sie wartet auf eine Rückmeldung von ihrer Chefin.",
       "grammar": false
@@ -18113,11 +18977,11 @@
       "type": "choice",
       "prompt": "What is Anna a bit afraid of?",
       "options": [
+       "the exam",
        "the dark",
-       "her boss",
-       "the exam"
+       "her boss"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Nächste Woche …",
       "explanation": "Sie hat Angst vor der Prüfung.",
       "grammar": false
@@ -18127,10 +18991,10 @@
       "prompt": "What did Anna do with the meeting with Mira?",
       "options": [
        "She accepted it.",
-       "She moved it.",
-       "She cancelled it."
+       "She cancelled it.",
+       "She moved it."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "abgesagt.",
       "explanation": "Sie hat die Verabredung abgesagt.",
       "grammar": false
@@ -18152,11 +19016,11 @@
       "type": "choice",
       "prompt": "What does Mira advise?",
       "options": [
-       "to study on Saturday",
        "to go to the park",
+       "to study on Saturday",
        "to write a list"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Komm mit mir …",
       "explanation": "Mira: Komm mit mir in den Park!",
       "grammar": false
@@ -18178,11 +19042,11 @@
       "type": "choice",
       "prompt": "'Was würdet ihr an meiner Stelle machen?' Anna …",
       "options": [
-       "asks for advice",
        "gives advice",
-       "says thank you"
+       "says thank you",
+       "asks for advice"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "a question to her readers.",
       "explanation": "Anna asks for advice.",
       "grammar": true
@@ -18196,7 +19060,7 @@
        "nominative"
       ],
       "answer": 0,
-      "hint": "Angst haben vor + dative.",
+      "hint": "vor der Prüfung: look at the article of the feminine noun.",
       "explanation": "vor der Prüfung = dative.",
       "grammar": true
      }
@@ -18204,7 +19068,7 @@
    },
    "listening": {
     "title": "Ben braucht einen Rat",
-    "script": "Ben: Frau Weber, haben Sie kurz Zeit? Ich brauche einen Rat.\nFrau Weber: Natürlich, Ben. Was ist los?\nBen: Ich habe seit einem Monat einen neuen Job. Aber ich kann mich nicht an die Arbeit gewöhnen.\nFrau Weber: Was ist das Problem?\nBen: Ich warte immer auf Nachrichten. Ich sehe ständig auf mein Handy. Am Abend kann ich nicht abschalten.\nFrau Weber: Hm. Ich an deiner Stelle würde das Handy am Abend in die Küche legen.\nBen: In die Küche? Und wenn mein Chef anruft?\nFrau Weber: Nach Feierabend ruft er sicher nicht an. Es wäre besser, wenn du am Abend etwas Schönes machst. Du interessierst dich doch für Musik.\nBen: Ja, ich spiele gern Gitarre.\nFrau Weber: Siehst du! Und du solltest mit deinem Chef sprechen. Sprich mit ihm über die Nachrichten.\nBen: Gute Idee! Das probiere ich. Vielen Dank, Frau Weber!",
+    "script": "Ben: Frau Weber, haben Sie kurz Zeit? Ich brauche einen Rat.\nFrau Weber: Natürlich, Ben. Was ist los?\nBen: Ich habe seit einem Monat einen neuen Job. Aber ich kann mich nicht an die Arbeit gewöhnen.\nFrau Weber: Was ist das Problem?\nBen: Ich warte immer auf Nachrichten. Ich sehe ständig auf mein Handy. Am Abend kann ich nicht abschalten.\nFrau Weber: Hm. Ich an deiner Stelle würde das Handy am Abend in die Küche legen.\nBen: In die Küche? Und wenn mein Chef anruft?\nFrau Weber: Nach Feierabend ruft er sicher nicht an. Es wäre besser, wenn du am Abend etwas Schönes machst. Du interessierst dich doch für Musik.\nBen: Ja, ich höre gern Musik.\nFrau Weber: Siehst du! Und du solltest mit deinem Chef sprechen. Sprich mit ihm über die Nachrichten.\nBen: Gute Idee! Das probiere ich. Vielen Dank, Frau Weber!",
     "questions": [
      {
       "type": "choice",
@@ -18224,10 +19088,10 @@
       "prompt": "How long has Ben had his new job?",
       "options": [
        "a week",
-       "a year",
-       "a month"
+       "a month",
+       "a year"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "seit einem …",
       "explanation": "seit einem Monat",
       "grammar": false
@@ -18237,10 +19101,10 @@
       "prompt": "What can Ben not get used to?",
       "options": [
        "the city",
-       "the work",
-       "his flat"
+       "his flat",
+       "the work"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "gewöhnen an …",
       "explanation": "Ich kann mich nicht an die Arbeit gewöhnen.",
       "grammar": false
@@ -18262,11 +19126,11 @@
       "type": "choice",
       "prompt": "Where should Ben put his phone in the evening?",
       "options": [
-       "in the kitchen",
        "in the bedroom",
+       "in the kitchen",
        "in his bag"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "in die …",
       "explanation": "in die Küche",
       "grammar": false
@@ -18275,26 +19139,26 @@
       "type": "choice",
       "prompt": "What is Ben interested in?",
       "options": [
-       "music",
        "sport",
-       "photography"
+       "photography",
+       "music"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Du interessierst dich doch für …",
       "explanation": "für Musik",
       "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "What does Ben like to play?",
+      "prompt": "What does Ben like to do?",
       "options": [
-       "piano",
-       "guitar",
-       "football"
+       "listen to music",
+       "play football",
+       "cook"
       ],
-      "answer": 1,
-      "hint": "Ich spiele gern …",
-      "explanation": "Gitarre",
+      "answer": 0,
+      "hint": "Ich … gern Musik.",
+      "explanation": "Er hört gern Musik.",
       "grammar": false
      },
      {
@@ -18315,11 +19179,11 @@
       "prompt": "Frau Weber says du to Ben. What does Ben say to her?",
       "options": [
        "du",
-       "Sie",
-       "ihr"
+       "ihr",
+       "Sie"
       ],
-      "answer": 1,
-      "hint": "haben Sie kurz Zeit?",
+      "answer": 2,
+      "hint": "Look at the first line: how does Ben ask for time?",
       "explanation": "Ben sagt Sie zu Frau Weber.",
       "grammar": false
      },
@@ -18332,7 +19196,7 @@
        "missing"
       ],
       "answer": 0,
-      "hint": "wenn → verb at the end.",
+      "hint": "Look at the position of machst in the sentence.",
       "explanation": "… wenn du am Abend etwas Schönes machst.",
       "grammar": true
      }
@@ -18346,7 +19210,7 @@
       "answers": [
        "würde"
       ],
-      "hint": "ich → würde.",
+      "hint": "An deiner Stelle is position 1; the dream verb with ü comes next, for ich.",
       "explanation": "An deiner Stelle würde ich mehr schlafen.",
       "grammar": true
      },
@@ -18366,7 +19230,7 @@
       "answers": [
        "solltest"
       ],
-      "hint": "du → solltest.",
+      "hint": "The advice verb; du adds -st.",
       "explanation": "Du solltest Prioritäten setzen.",
       "grammar": true
      },
@@ -18376,7 +19240,7 @@
       "answers": [
        "auf"
       ],
-      "hint": "warten auf.",
+      "hint": "The fixed partner of warten.",
       "explanation": "Anna wartet auf eine Rückmeldung.",
       "grammar": true
      },
@@ -18386,7 +19250,7 @@
       "answers": [
        "mich"
       ],
-      "hint": "ich → mich.",
+      "hint": "The reflexive pronoun for ich.",
       "explanation": "Ich interessiere mich für Fotografie.",
       "grammar": true
      },
@@ -18396,7 +19260,7 @@
       "answers": [
        "um"
       ],
-      "hint": "sich kümmern um.",
+      "hint": "Taking care of something: the fixed partner of sich kümmern.",
       "explanation": "Mira kümmert sich um die Pflanzen.",
       "grammar": true
      },
@@ -18426,7 +19290,7 @@
       "answers": [
        "ab"
       ],
-      "hint": "abhängen: ab at the end.",
+      "hint": "abhängen is separable: the prefix goes to the end.",
       "explanation": "Das hängt vom Wetter ab.",
       "grammar": true
      },
@@ -18509,11 +19373,11 @@
       "type": "choice",
       "prompt": "What does Mira suggest first?",
       "options": [
-       "a picnic on Sunday",
        "a barbecue party on Saturday",
+       "a picnic on Sunday",
        "a trip to the restaurant"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Wie wäre es mit …?",
       "explanation": "Mira: Wie wäre es mit einem Grillfest am Samstag?"
      },
@@ -18521,11 +19385,11 @@
       "type": "choice",
       "prompt": "What does Ben ask?",
       "options": [
-       "What he should pay attention to.",
        "Who comes?",
+       "What he should pay attention to.",
        "Where the party is."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Worauf soll ich achten?",
       "explanation": "Ben asks: Worauf soll ich achten?"
      },
@@ -18534,10 +19398,10 @@
       "prompt": "What does Ben take care of?",
       "options": [
        "the salad",
-       "the drinks",
-       "the music"
+       "the music",
+       "the drinks"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Ich kümmere mich um …",
       "explanation": "Er kümmert sich um die Getränke."
      },
@@ -18545,11 +19409,11 @@
       "type": "choice",
       "prompt": "Who has an excuse?",
       "options": [
+       "Leon",
        "Anna",
-       "Herr Ali",
-       "Leon"
+       "Herr Ali"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Ben says: Das ist doch nur eine Ausrede.",
       "explanation": "Leon says: Vielleicht habe ich keine Zeit."
      },
@@ -18569,11 +19433,11 @@
       "type": "choice",
       "prompt": "Which day is the new plan?",
       "options": [
-       "Sunday",
        "Friday",
-       "Saturday"
+       "Saturday",
+       "Sunday"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Wie wäre es am …?",
       "explanation": "Am Sonntag."
      },
@@ -18581,11 +19445,11 @@
       "type": "choice",
       "prompt": "Who invites the others to the restaurant?",
       "options": [
-       "Frau Weber",
        "Herr Ali",
+       "Frau Weber",
        "Mira"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Kommt doch …",
       "explanation": "Herr Ali: Kommt doch am Sonntag ins Restaurant „Zum Löwen“!"
      },
@@ -18593,11 +19457,11 @@
       "type": "choice",
       "prompt": "What does Herr Ali say he does?",
       "options": [
-       "He cooks for them.",
        "He pays for the drinks.",
+       "He cooks for them.",
        "He brings the salad."
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Ich koche …",
       "explanation": "Ich koche für euch."
      },
@@ -18617,11 +19481,11 @@
       "type": "choice",
       "prompt": "What is the most important thing for Ben?",
       "options": [
+       "that they have fun",
        "good food",
-       "the weather",
-       "that they have fun"
+       "the weather"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Hauptsache, …",
       "explanation": "Hauptsache, wir haben Spaß."
      }
@@ -18629,7 +19493,7 @@
    },
    "listening": {
     "title": "Eine Sprachnachricht von Herrn Ali",
-    "script": "Herr Ali: Hallo zusammen, hier ist Herr Ali. Ich habe eine Neuigkeit: Das Grillfest ist am Sonntag bei mir im Restaurant „Zum Löwen“. Wer kommt? Bitte schreibt mir bis morgen. Und was möchtet ihr essen? Ich habe Fleisch, Salat und Pizza. Wie viele Leute kommen, weiß ich noch nicht. Es kommt darauf an, wer zusagt. Ich bitte euch um eine Kleinigkeit: Wer bringt Getränke mit? Hauptsache, ihr habt Spaß!\nMira: Hallo Herr Ali, hier ist Mira. Vielen Dank für die Einladung! Wir kommen alle am Sonntag. Ben bringt die Getränke mit. Anna arbeitet bis fünf Uhr und kommt später. Darauf freuen wir uns sehr!",
+    "script": "Herr Ali: Hallo zusammen, hier ist Herr Ali. Ich habe eine Neuigkeit: Das Grillfest ist am Sonntag bei mir im Restaurant „Zum Löwen“. Wer kommt? Bitte schreibt mir bis morgen. Und was möchtet ihr essen? Ich habe Fleisch, Salat und Pizza. Wie viele Leute kommen, weiß ich noch nicht. Es kommt darauf an, wer zusagt. Ich bitte euch um eine Kleinigkeit: Wer bringt Getränke mit? Hauptsache, ihr habt Spaß!\nMira: Hallo Herr Ali, hier ist Mira. Vielen Dank für die Einladung! Wir kommen alle am Sonntag. Ben bringt die Getränke mit. Anna lernt bis fünf Uhr für die Prüfung und kommt später. Darauf freuen wir uns sehr!",
     "questions": [
      {
       "type": "choice",
@@ -18648,10 +19512,10 @@
       "prompt": "Where is the Grillfest?",
       "options": [
        "in the WG",
-       "in the park",
-       "in Herr Ali's restaurant"
+       "in Herr Ali's restaurant",
+       "in the park"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "… bei mir im Restaurant.",
       "explanation": "Im Restaurant „Zum Löwen“."
      },
@@ -18671,11 +19535,11 @@
       "type": "choice",
       "prompt": "What should the group do by tomorrow?",
       "options": [
+       "write to him",
        "call him",
-       "come early",
-       "write to him"
+       "come early"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Bitte schreibt mir …",
       "explanation": "Bitte schreibt mir bis morgen."
      },
@@ -18695,11 +19559,11 @@
       "type": "choice",
       "prompt": "Does Herr Ali know how many people come?",
       "options": [
-       "No, not yet.",
        "Yes, ten.",
-       "Yes, four."
+       "Yes, four.",
+       "No, not yet."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "… weiß ich noch nicht.",
       "explanation": "Wie viele Leute kommen, weiß ich noch nicht."
      },
@@ -18707,11 +19571,11 @@
       "type": "choice",
       "prompt": "What does he say it depends on?",
       "options": [
-       "on the weather",
        "on who says yes",
+       "on the weather",
        "on the food"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Es kommt darauf an, …",
       "explanation": "Es kommt darauf an, wer zusagt."
      },
@@ -18720,10 +19584,10 @@
       "prompt": "What small thing does he ask for?",
       "options": [
        "Someone brings cake.",
-       "Someone brings music.",
-       "Someone brings drinks."
+       "Someone brings drinks.",
+       "Someone brings music."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Ich bitte euch um eine Kleinigkeit.",
       "explanation": "Wer bringt Getränke mit?"
      },
@@ -18732,10 +19596,10 @@
       "prompt": "Who brings the drinks?",
       "options": [
        "Leon",
-       "Ben",
-       "Anna"
+       "Anna",
+       "Ben"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Mira answers.",
       "explanation": "Ben bringt die Getränke mit."
      },
@@ -18743,13 +19607,13 @@
       "type": "choice",
       "prompt": "Why does Anna come later?",
       "options": [
-       "She works until five.",
+       "She studies until five.",
        "She has no time.",
        "She cancels."
       ],
       "answer": 0,
-      "hint": "Anna arbeitet …",
-      "explanation": "Anna arbeitet bis fünf Uhr."
+      "hint": "Anna lernt … bis fünf Uhr.",
+      "explanation": "Anna lernt bis fünf Uhr für die Prüfung."
      }
     ]
    },
@@ -18761,7 +19625,7 @@
       "answers": [
        "mit"
       ],
-      "hint": "mit + dative.",
+      "hint": "The preposition that means with and always takes the dative.",
       "explanation": "Wie wäre es mit einem Picknick?",
       "grammar": true
      },
@@ -18771,7 +19635,7 @@
       "answers": [
        "auf"
       ],
-      "hint": "Lust auf.",
+      "hint": "Lust on an event: the same preposition as in sich freuen + future.",
       "explanation": "Hättest du Lust auf ein Grillfest?",
       "grammar": true
      },
@@ -18885,7 +19749,7 @@
     "examples": [
      "Am Samstag habe ich nichts vor. Hättest du Lust auf einen Ausflug?",
      "Ich freue mich auf das Wochenende. Ich freue mich sehr darauf!",
-     "Ich würde gern mit MIRA grillen, nicht mit Leon. Und du? Mit wem würdest du grillen?"
+     "Ich würde gern mit Mira grillen, nicht mit Leon (say Mira louder). Und du? Mit wem würdest du grillen?"
     ]
    }
   },
@@ -18924,11 +19788,11 @@
       "type": "choice",
       "prompt": "When is the Zeitreise-Abend?",
       "options": [
-       "on Saturday",
        "on Friday",
+       "on Saturday",
        "on Sunday"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "First sentence.",
       "explanation": "Am Freitag."
      },
@@ -18948,11 +19812,11 @@
       "type": "choice",
       "prompt": "What is Leon's thing made of?",
       "options": [
-       "wood",
        "glass",
-       "plastic"
+       "plastic",
+       "wood"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Es ist aus …",
       "explanation": "Es ist aus Holz."
      },
@@ -18972,11 +19836,11 @@
       "type": "choice",
       "prompt": "Where would Leon travel?",
       "options": [
-       "to the Middle Ages",
        "into the future",
+       "to the Middle Ages",
        "to the year 1900"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Leon würde ins …",
       "explanation": "Leon würde ins Mittelalter reisen."
      },
@@ -19009,10 +19873,10 @@
       "prompt": "What does Ben think about the future?",
       "options": [
        "Maybe there would be no phones.",
-       "Maybe there would be no towns.",
-       "Maybe there would be no cars."
+       "Maybe there would be no cars.",
+       "Maybe there would be no towns."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Vielleicht hätten wir dort …",
       "explanation": "Vielleicht hätten wir dort keine Autos mehr!"
      },
@@ -19021,10 +19885,10 @@
       "prompt": "What would Mira do?",
       "options": [
        "travel to 1900",
-       "stay in the present",
-       "travel to the future"
+       "travel to the future",
+       "stay in the present"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Mira würde lieber …",
       "explanation": "Mira würde lieber in der Gegenwart bleiben."
      },
@@ -19050,11 +19914,11 @@
       "type": "choice",
       "prompt": "Who asks the questions?",
       "options": [
+       "Anna",
        "Frau Weber",
-       "Mira",
-       "Anna"
+       "Mira"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "First line.",
       "explanation": "Anna asks Frau Weber."
      },
@@ -19063,10 +19927,10 @@
       "prompt": "What did Frau Weber not have when she was young?",
       "options": [
        "a radio",
-       "friends",
-       "a phone and a computer"
+       "a phone and a computer",
+       "friends"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Wir hatten kein …",
       "explanation": "Wir hatten kein Handy und keinen Computer."
      },
@@ -19075,10 +19939,10 @@
       "prompt": "How did she talk with her friends?",
       "options": [
        "by phone",
-       "with letters or in the park",
-       "on the computer"
+       "on the computer",
+       "with letters or in the park"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Wir haben Briefe geschrieben …",
       "explanation": "Briefe or im Park getroffen."
      },
@@ -19086,11 +19950,11 @@
       "type": "choice",
       "prompt": "Did she have a TV at first?",
       "options": [
-       "Yes, a big one.",
        "No, not at first.",
+       "Yes, a big one.",
        "Yes, in every room."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Nein, am Anfang …",
       "explanation": "Nein, am Anfang nicht."
      },
@@ -19111,10 +19975,10 @@
       "prompt": "Where did she have to help every day?",
       "options": [
        "in the garden",
-       "in the kitchen",
-       "in a shop"
+       "in a shop",
+       "in the kitchen"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "ich musste jeden Tag …",
       "explanation": "in der Küche."
      },
@@ -19122,11 +19986,11 @@
       "type": "choice",
       "prompt": "What is Anna's dream?",
       "options": [
-       "to become a knight",
        "to live in Italy for a year",
+       "to become a knight",
        "to live in 1900"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Ich würde gern …",
       "explanation": "Ich würde gern ein Jahr in Italien leben."
      },
@@ -19147,10 +20011,10 @@
       "prompt": "What does Frau Weber advise?",
       "options": [
        "take a long course",
-       "practise ten minutes every day",
-       "travel now"
+       "travel now",
+       "practise ten minutes every day"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Dann übst du …",
       "explanation": "jeden Tag zehn Minuten."
      },
@@ -19158,11 +20022,11 @@
       "type": "choice",
       "prompt": "Which proverb does Frau Weber use?",
       "options": [
-       "„Aller Anfang ist schwer.“",
        "„Übung macht den Meister.“",
+       "„Aller Anfang ist schwer.“",
        "„Zeit ist Geld.“"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Practice …",
       "explanation": "Übung macht den Meister!"
      }
@@ -19236,7 +20100,7 @@
       "answers": [
        "würde"
       ],
-      "hint": "leben + würde at the end.",
+      "hint": "Not real: leben plus the dream verb with ü, at the end of the wenn-part.",
       "explanation": "Wenn ich im Mittelalter leben würde, …",
       "grammar": true
      },
@@ -19246,7 +20110,7 @@
       "answers": [
        "wäre"
       ],
-      "hint": "sein → wäre, never sein würde.",
+      "hint": "sein has its own short dream form: never sein würde.",
       "explanation": "Wenn Ben ein Ritter wäre, …",
       "grammar": true
      },
