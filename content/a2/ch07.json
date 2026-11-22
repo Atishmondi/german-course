@@ -135,7 +135,7 @@
        "why": "New today: the question word opens a side sentence and the verb goes to the end."
       }
      ],
-     "more": "Picture two boxes. The first box is a normal sentence: Weißt du, … or Ich weiß nicht, …. The second box is the question, but it has been packed into a side sentence. When you pack a question into a box, the verb has to go to the very end, like the last piece of a puzzle. You already do this after weil, so the idea is not new, only the question word is. At a station this helps a lot: Weißt du, wann der Zug fährt? sounds softer and more polite than Wann fährt der Zug? You will learn it in six small steps."
+     "more": "Picture two boxes. The first box is a normal sentence: Weißt du, … or Ich weiß nicht, …. The second box holds the question, packed into a side sentence. When you pack a question into a box, the verb goes to the very end, like the last piece of a puzzle. You already do this after weil, so only the question word is new. At a station this helps a lot: Weißt du, wann der Zug fährt? sounds softer and more polite than Wann fährt der Zug?"
     },
     {
      "title": "Station words: what do you need to ask about?",
@@ -218,7 +218,7 @@
       }
      ],
      "deeper": {
-      "text": "Some of these words look alike. Fahrkarte and Fahrschein both mean ticket. A Fahrkarte is the usual word on a train, a Fahrschein is more common for a bus or a tram. Both belong to Fahrt, a journey. Many words start with Fahr-, so when you see Fahr- you can guess that it is about travelling.",
+      "text": "Some of these words look alike. Fahrkarte and Fahrschein both mean ticket and in daily life people often swap them. Fahrschein is the word you see most on buses and trams, Fahrkarte on trains and at the Schalter. Both belong to die Fahrt, the journey. Many words start with Fahr-, so when you see Fahr- you can guess that it is about travelling.",
       "example": {
        "de": "Der Fahrgast wartet auf dem Bahnsteig.",
        "en": "The passenger waits on the platform.",
@@ -436,7 +436,7 @@
        ]
       }
      },
-     "more": "Think of a lift. In a direct question the verb sits in the second place: Wann FÄHRT der Zug? In the side sentence the verb goes down to the last floor: wann der Zug FÄHRT. Everything else stays in order: question word, then the subject, then the rest. Do not forget the comma before the question word. A very common mistake is to keep the verb in second place: Weißt du, wo ist der Bahnhof? That is wrong. Say: Weißt du, wo der Bahnhof ist?",
+     "more": "Think of a lift. In a direct question the verb rides in second place: wann fährt der Zug? In the side sentence the lift drops it to the last floor: wann der Zug fährt. Everything else keeps its order: question word, then the subject, then the rest. Do not forget the comma before the question word. A very common mistake keeps the verb in second place: Weißt du, wo ist der Bahnhof? Say: Weißt du, wo der Bahnhof ist?",
      "table": {
       "headers": [
        "Direct question",
@@ -905,7 +905,7 @@
        ]
       },
       {
-       "de": "Ich weiß nicht, wem das Ticket gehört.",
+       "de": "Ich weiß nicht, wem die Fahrkarte gehört.",
        "en": "I do not know who the ticket belongs to.",
        "parts": [
         [
@@ -925,7 +925,7 @@
          "question"
         ],
         [
-         "das Ticket",
+         "die Fahrkarte",
          "subject"
         ],
         [
@@ -1165,7 +1165,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:vY7WCRyG-n8"
+     "yt:vY7WCRyG-n8",
+     "yt:cCEnhEDLmIk"
     ],
     "nicosWeg": [
      "nw:a2-52"
@@ -1177,11 +1178,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich weiß nicht, wann der Zug fährt.",
+      "Ich weiß nicht, der Zug wann fährt.",
       "Ich weiß nicht, wann fährt der Zug.",
-      "Ich weiß nicht, der Zug wann fährt."
+      "Ich weiß nicht, wann der Zug fährt."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The verb goes to the end of the side sentence.",
      "explanation": "Ich weiß nicht, wann der Zug fährt.",
      "grammar": true
@@ -1221,11 +1222,11 @@
      "type": "choice",
      "prompt": "What does die Verspätung mean?",
      "options": [
-      "delay",
       "platform",
+      "delay",
       "timetable"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The train does not come on time.",
      "explanation": "Die Verspätung is the delay.",
      "grammar": false
@@ -1235,10 +1236,10 @@
      "prompt": "Weißt du, ___ der Zug kommt? (from where)",
      "options": [
       "wohin",
-      "wo",
-      "woher"
+      "woher",
+      "wo"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Woher asks where something comes from.",
      "explanation": "Weißt du, woher der Zug kommt?",
      "grammar": true
@@ -1402,11 +1403,11 @@
      "type": "choice",
      "prompt": "What is der Anschluss?",
      "options": [
-      "the last stop",
       "the next train you change to",
+      "the last stop",
       "the platform"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "You must reach it after you change trains.",
      "explanation": "Der Anschluss is the connection.",
      "grammar": false
@@ -1780,7 +1781,7 @@
        "why": "New today: with no question word, ob opens the side sentence."
       }
      ],
-     "more": "Think of ob as a little door for yes-or-no questions. Questions with wann, wo or wie already have their own door, the question word. A question that starts with the verb, like Fährt der Zug?, has no door. So you build one: ob. After the door the rest is the same as yesterday: subject, other words, verb at the end. At the station you will hear this all the time: Wissen Sie, ob der Zug Verspätung hat? You will learn it step by step: first the new words for tickets, then ob, then how ob differs from wenn and dass."
+     "more": "Think of ob as a little door for yes-or-no questions. Questions with wann, wo or wie already have their own door, the question word. A question that starts with the verb, like Fährt der Zug?, has no door, so you build one: ob. After the door the rest is the same as yesterday: subject, other words, verb at the end. At the station you will hear this all the time: Wissen Sie, ob der Zug Verspätung hat?"
     },
     {
      "title": "Tickets and tariffs: ten words for buying and checking",
@@ -1941,7 +1942,7 @@
        [
         "der Tarif",
         "fare, price list",
-        "Wie viel kostet der Tarif?"
+        "Wo steht der Tarif?"
        ],
        [
         "das Gepäck",
@@ -2394,7 +2395,7 @@
       }
      ],
      "deeper": {
-      "text": "Dass and ob can follow the same verbs. After fragen you use ob, because asking leads to a question. After sagen you use dass, because saying leads to a statement. After wissen both are possible: Ich weiß, dass der Zug fährt means I know that it goes, a fact. Ich weiß nicht, ob der Zug fährt means I do not know the answer to the question. Dass never asks, ob always asks.",
+      "text": "Dass and ob can follow some of the same verbs, but the verb helps you choose. After fragen only a question fits, so you use ob or a question word: Ben fragt, ob … After sagen both are possible: Mira sagt, dass der Bahnsteig frei ist is a statement, while Sag mir, ob der Bahnsteig frei ist asks. After wissen you meet both: Ich weiß, dass … states a fact, Ich weiß nicht, ob … admits a gap.",
       "example": {
        "de": "Ben fragt, ob die Wartehalle warm ist.",
        "en": "Ben asks whether the waiting hall is warm.",
@@ -2766,7 +2767,7 @@
       }
      ],
      "deeper": {
-      "text": "Oder joins two things inside the ob sentence, but it does not change the order. The verb is still last when the oder part belongs to the subject or the place: ob der Zug oder der Bus schneller ist. With oder nicht, the two short words are added after the verb as an afterthought: ob er kommt oder nicht. Notice the full stop after nicht: the whole sentence ends there. You will see this very often in speech.",
+      "text": "Oder joins two things inside the ob sentence and does not change the order: the verb stays last, as in ob der Zug oder der Bus schneller ist. Only oder nicht behaves differently. It is added after the verb as a small afterthought: ob er kommt oder nicht. It is not a full second question, just the other half of the choice. Germans use this ending all the time in speech, often with a rising voice.",
       "example": {
        "de": "Ich frage, ob die Fahrkarte oder die Monatskarte billiger ist.",
        "en": "I ask whether the ticket or the monthly pass is cheaper.",
@@ -2977,7 +2978,7 @@
        ]
       }
      },
-     "more": "In real life you rarely build one sentence alone. You talk, and the other person answers. Practise reading this talk with a friend, one speaker each. Then change the places and the times: Salzburg to Wien, 9.15 Uhr to 10.30 Uhr, Anna to Leon. The pattern stays the same. After a few rounds your mouth will put the verb at the end without thinking.",
+     "more": "In real life you rarely build one sentence alone. You talk, and the other person answers. Read this talk with a friend, one speaker each, then change the places and the times: Salzburg to Wien, 9.15 Uhr to 10.30 Uhr, Anna to Leon. The pattern stays the same. After a few rounds your mouth will put the verb at the end without thinking, as a native speaker does at the Schalter.",
      "table": {
       "headers": [
        "Who",
@@ -3020,7 +3021,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:sZQT-qtiueQ"
+     "yt:sZQT-qtiueQ",
+     "yt:vY7WCRyG-n8"
     ],
     "nicosWeg": [
      "nw:a2-20"
@@ -3076,11 +3078,11 @@
      "type": "choice",
      "prompt": "What does die Rückfahrt mean?",
      "options": [
-      "the journey there",
+      "the journey back",
       "the ticket check",
-      "the journey back"
+      "the journey there"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Rück- means back.",
      "explanation": "Die Rückfahrt is the journey back.",
      "grammar": false
@@ -3090,10 +3092,10 @@
      "prompt": "Ich weiß nicht, ___ es morgen regnet. (whether it rains)",
      "options": [
       "wenn",
-      "ob",
-      "dass"
+      "dass",
+      "ob"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "It is a question: the answer could be ja or nein.",
      "explanation": "Ich weiß nicht, ob es morgen regnet.",
      "grammar": true
@@ -3113,10 +3115,10 @@
      "prompt": "Ich glaube, ___ der Zug pünktlich ist. (a statement)",
      "options": [
       "ob",
-      "dass",
-      "wenn"
+      "wenn",
+      "dass"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "You say something; you do not ask.",
      "explanation": "Ich glaube, dass der Zug pünktlich ist.",
      "grammar": true
@@ -3151,11 +3153,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich weiß nicht, ob der Zug Verspätung hat.",
+      "Ich weiß nicht, wenn der Zug Verspätung hat.",
       "Ich weiß nicht, ob hat der Zug Verspätung.",
-      "Ich weiß nicht, wenn der Zug Verspätung hat."
+      "Ich weiß nicht, ob der Zug Verspätung hat."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Ob and the verb at the end.",
      "explanation": "Ich weiß nicht, ob der Zug Verspätung hat.",
      "grammar": true
@@ -3210,10 +3212,10 @@
      "prompt": "Wir warten, ___ der Zug Verspätung hat. (whenever the train is late)",
      "options": [
       "ob",
-      "dass",
-      "wenn"
+      "wenn",
+      "dass"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "It is a condition, not a question.",
      "explanation": "Wir warten, wenn der Zug Verspätung hat.",
      "grammar": true
@@ -3223,10 +3225,10 @@
      "prompt": "Mira sagt, ___ der Bahnsteig frei ist. (she tells a fact)",
      "options": [
       "ob",
-      "wenn",
-      "dass"
+      "dass",
+      "wenn"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Sagen leads to a statement.",
      "explanation": "Mira sagt, dass der Bahnsteig frei ist.",
      "grammar": true
@@ -3255,11 +3257,11 @@
      "type": "choice",
      "prompt": "What does das Gepäck mean?",
      "options": [
-      "fare",
+      "luggage",
       "waiting hall",
-      "luggage"
+      "fare"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You carry it on a trip.",
      "explanation": "Das Gepäck is luggage.",
      "grammar": false
@@ -3773,7 +3775,7 @@
       }
      ],
      "deeper": {
-      "text": "Welchen Bus is the masculine accusative of welcher Bus, like den Bus. The Bus is the object of nehmen, and ich is the subject, so the order is: question word with its noun, then the subject ich, then the infinitive, then the modal. Look for the modal at the end: it is conjugated for ich (muss, kann, soll), so it shows who does it. The infinitive stays in its basic form.",
+      "text": "Welchen Bus is the masculine accusative of welcher Bus, like den Bus. The bus is the object of nehmen, and ich is the subject, so the order is: question word with its noun, then the subject ich, then the infinitive, then the modal. Look for the modal at the end: it is conjugated for ich (muss, kann, soll), so it shows who does it. The infinitive stays in its basic form.",
       "example": {
        "de": "Ich weiß nicht, wohin sie fahren will.",
        "en": "I do not know where she wants to go.",
@@ -3959,7 +3961,7 @@
       }
      ],
      "deeper": {
-      "text": "Verpassen is a regular verb without an extra ge-: the participle is verpasst, not geverpasst, because the verb starts with ver-. Verbs of movement like fahren and ankommen use sein: abgefahren ist, angekommen ist. Verbs like kaufen and verpassen use haben. In the side sentence the participle (verb2) stands next to the helper, and the helper is last. So the pattern is the same as after weil with the Perfekt.",
+      "text": "Verpassen is a regular verb without an extra ge-: the participle is verpasst, not geverpasst, because the verb starts with ver-. Verbs of movement like fahren and ankommen use sein: abgefahren ist, angekommen ist. Verbs like kaufen and verpassen use haben. In the side sentence the participle stands next to the helper, and the helper is last. So the pattern is the same as after weil with the Perfekt.",
       "example": {
        "de": "Weißt du, ob Ben schon angekommen ist?",
        "en": "Do you know whether Ben has arrived yet?",
@@ -4308,7 +4310,7 @@
       }
      ],
      "deeper": {
-      "text": "Könnten is the dotted chip from chapter 5: it is the polite form of können, and it makes the request softer. After the polite starter the infinitive sagen stands at the end of the first part, and then the side sentence follows with its own verb at the end. You can add bitte, which stands after the pronoun: Könnten Sie mir bitte sagen, … Könnten sounds a little more careful.",
+      "text": "Könnten is the dotted chip from chapter 5: the polite form of können. With friends you drop to du and use the plain forms: Kannst du mir sagen, …? or Weißt du, …? Natives start with Entschuldigung before any of these and add bitte after mir to sound even friendlier. In both polite levels, the infinitive sagen closes the first part, a comma follows, and then the side sentence ends with its own verb.",
       "example": {
        "de": "Könnten Sie mir bitte sagen, wo der Bahnsteig ist?",
        "en": "Could you please tell me where the platform is?",
@@ -4376,7 +4378,7 @@
     },
     {
      "title": "The side sentence first",
-     "body": "You can put the side sentence first: Wann der Zug abfährt, weiß ich nicht. Then the main verb comes straight after the comma, in position 1 of the main clause, and the subject follows it. Use this when you want to stress the question: Ob der Zug Verspätung hat, kann ich nicht sagen.",
+     "body": "You can put the side sentence first: Wann der Zug abfährt, weiß ich nicht. The whole side sentence fills position 1, so the main verb comes straight after the comma and the subject follows it. Use this when you want to stress the question: Ob der Zug Verspätung hat, kann ich nicht sagen.",
      "lead": "You know how to put a weil sentence first. On this card the same idea works for a question: the side sentence can stand before the main sentence.",
      "examples": [
       {
@@ -4726,7 +4728,7 @@
     },
     {
      "title": "Station announcements: Durchsage and Störung",
-     "body": "A Durchsage is an announcement at the station. Typical: Der Zug fällt aus. Der Zug verspätet sich um 15 Minuten. Es gibt eine Störung. Es gibt eine Umleitung. The Wartezeit is how long you wait. If you do not know, say Ich habe keine Ahnung, wann …. Ask someone to give you Bescheid.",
+     "body": "A Durchsage is an announcement at the station. Typical: Der Zug fällt aus. Der Zug verspätet sich um 15 Minuten. Es gibt eine Störung. Es gibt eine Umleitung. The Wartezeit is how long you wait. If you do not know, say Ich habe keine Ahnung, wann …. Ask someone to let you know with Sag mir Bescheid.",
      "lead": "This last card brings it all together: the words you hear in an announcement, and the sentences you use to ask about them.",
      "examples": [
       {
@@ -4825,7 +4827,7 @@
       }
      ],
      "deeper": {
-      "text": "Der Zug verspätet sich is a reflexive verb, which you know: sich verspäten, with sich as the accusative reflexive pronoun. Ausfallen is separable, like abfahren: fällt aus in a main sentence, ausfällt in a side sentence. Keine Ahnung is a very common spoken phrase that means no idea. Bescheid sagen means to give someone a short message: Sag mir Bescheid! You will hear Bitte Bescheid sagen at many stations.",
+      "text": "Der Zug verspätet sich is a reflexive verb, which you know: sich verspäten, with sich as the reflexive pronoun. Ausfallen is separable, like abfahren: fällt aus in a main sentence, ausfällt in a side sentence. Keine Ahnung is a very common spoken phrase that means no idea. Bescheid sagen means to let someone know, a short message: Sag mir Bescheid! Friends use it all the time when they wait for each other.",
       "example": {
        "de": "Die Durchsage sagt, dass der Zug ausfällt.",
        "en": "The announcement says that the train is cancelled.",
@@ -4898,7 +4900,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:StmjIvwtKlg"
+     "yt:StmjIvwtKlg",
+     "yt:ELLKtyQVnaQ"
     ],
     "nicosWeg": [
      "nw:a2-19"
@@ -4958,11 +4961,11 @@
      "type": "choice",
      "prompt": "Ich weiß nicht, wann der Zug … (Perfekt of abfahren)",
      "options": [
-      "ist abgefahren.",
       "abgefahren ist.",
+      "ist abgefahren.",
       "abgefahren hat."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Participle first, then the helper sein.",
      "explanation": "Ich weiß nicht, wann der Zug abgefahren ist.",
      "grammar": true
@@ -4972,10 +4975,10 @@
      "prompt": "Which request is the softest?",
      "options": [
       "Wann fährt der Zug?",
-      "Wissen Sie, wann der Zug fährt?",
-      "Könnten Sie mir sagen, wann der Zug fährt?"
+      "Könnten Sie mir sagen, wann der Zug fährt?",
+      "Wissen Sie, wann der Zug fährt?"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Könnten is the polite form.",
      "explanation": "Könnten Sie mir sagen, wann der Zug fährt?",
      "grammar": true
@@ -4995,10 +4998,10 @@
      "prompt": "What does ausfallen mean?",
      "options": [
       "to arrive",
-      "to be cancelled",
-      "to miss"
+      "to miss",
+      "to be cancelled"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The train does not go.",
      "explanation": "Der Zug fällt aus: the train is cancelled.",
      "grammar": false
@@ -5032,11 +5035,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Mira hat gefragt, ob der Zug Verspätung hat.",
+      "Mira hat gefragt, wenn der Zug Verspätung hat.",
       "Mira hat gefragt, ob der Zug hat Verspätung.",
-      "Mira hat gefragt, wenn der Zug Verspätung hat."
+      "Mira hat gefragt, ob der Zug Verspätung hat."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Ob and the verb at the end.",
      "explanation": "Mira hat gefragt, ob der Zug Verspätung hat.",
      "grammar": true
@@ -5092,11 +5095,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Wann der Zug abfährt, weiß ich nicht.",
       "Wann der Zug abfährt, ich weiß nicht.",
+      "Wann der Zug abfährt, weiß ich nicht.",
       "Wann der Zug fährt ab, weiß ich nicht."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The main verb follows the comma.",
      "explanation": "Wann der Zug abfährt, weiß ich nicht.",
      "grammar": true
@@ -5106,11 +5109,11 @@
      "prompt": "___ Sie mir sagen, ob der Zug Verspätung hat? (the softest form)",
      "options": [
       "Können",
-      "Kann",
-      "Könnten"
+      "Könnten",
+      "Kann"
      ],
-     "answer": 2,
-     "hint": "Könnten is the dotted chip.",
+     "answer": 1,
+     "hint": "The softest form ends in -ten.",
      "explanation": "Könnten Sie mir sagen, ob der Zug Verspätung hat?",
      "grammar": true
     },
@@ -5138,11 +5141,11 @@
      "type": "choice",
      "prompt": "What does die Umleitung mean?",
      "options": [
-      "a waiting time",
+      "a diversion",
       "an announcement",
-      "a diversion"
+      "a waiting time"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "The bus takes another road.",
      "explanation": "Die Umleitung is a diversion.",
      "grammar": false
@@ -5176,11 +5179,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich weiß nicht, ob der Zug ausfällt.",
+      "Ich weiß nicht, ob ausfällt der Zug.",
       "Ich weiß nicht, ob der Zug fällt aus.",
-      "Ich weiß nicht, ob ausfällt der Zug."
+      "Ich weiß nicht, ob der Zug ausfällt."
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "The separable verb is in one piece at the end.",
      "explanation": "Ich weiß nicht, ob der Zug ausfällt.",
      "grammar": true
@@ -5316,8 +5319,8 @@
        "en": "There is a diversion."
       },
       {
-       "de": "Der Bus fährt eine Umleitung.",
-       "en": "The bus goes over the diversion."
+       "de": "Der Bus nimmt eine Umleitung.",
+       "en": "The bus takes a diversion."
       }
      ],
      "forms": "die Umleitungen"
@@ -5520,7 +5523,7 @@
        "why": "New today: woher? takes aus + dative."
       }
      ],
-     "more": "Picture yourself with a suitcase at the station. You stand inside: Ich bin im Bahnhof (wo?). You walk in through the door: Ich gehe in den Bahnhof (wohin?). You walk out again: Ich komme aus dem Bahnhof (woher?). One place, three questions, three small prepositions. That is the whole lesson."
+     "more": "Picture yourself with a suitcase at the station. You stand inside: Ich bin im Bahnhof (wo?). You walk in through the door: Ich gehe in den Bahnhof (wohin?). You walk out again: Ich komme aus dem Bahnhof (woher?). One place, three questions, three small prepositions. English uses one word for each too, in, into and out of, so the idea is familiar. German only adds a case change to the picture. That is the whole lesson."
     },
     {
      "title": "Das Ziel, die Fahrt: words for a trip",
@@ -5651,7 +5654,7 @@
        ]
       }
      },
-     "more": "Think of a trip as a line. At the start is your home, at the end is das Ziel. The line itself is die Fahrt. How long is the line? That is die Entfernung, in Kilometer. Going back home at night is der Heimweg. The land around the line is die Gegend.",
+     "more": "Draw a trip on paper. A flag at the end of the road is das Ziel. The road itself is die Fahrt, and how long it is, is die Entfernung in Kilometer. Walking back at night is der Heimweg. German often glues two nouns into one word: Reise plus Ziel gives das Reiseziel, Heim plus Weg gives der Heimweg. English says travel destination and way home with a space. When you meet a long German word, cut it in two and read each half.",
      "table": {
       "headers": [
        "German",
@@ -5818,7 +5821,7 @@
        ]
       }
      },
-     "more": "Imagine three arrows. Wo? is a dot: you stand still. Wohin? is an arrow that points away from you to the place. Woher? is an arrow that comes from the place to you. Each arrow has its own little word: am for the dot, zum for the arrow out, vom for the arrow back.",
+     "more": "English uses three small words for a station: at the station, to the station, from the station. German has the same three ideas, but each needs its own form. Think of a postcard. On the front you write where you are: Ich bin in Wien. Then you announce the plan: Ich fahre nach Wien. Later you tell where you came from: Ich komme aus Wien. Always ask first which of the three questions you are answering, then pick the matching column of the table.",
      "table": {
       "headers": [
        "Wo? (dot)",
@@ -5970,7 +5973,7 @@
        ]
       }
      },
-     "more": "Ask yourself one thing: is somebody moving to a new place? If not, it is wo? and the dative. Sitting, standing, waiting, living, working: all of these stay in one place. So after them you say im, am, auf dem, an der, bei.",
+     "more": "Picture a phone call. Someone asks: Wo bist du? You answer with a photo, not a film: Ich bin am Bahnhof. Ich bin im Zug. Ich bin bei Anna. Ich warte auf dem Bahnsteig. Nobody walks anywhere in these sentences, so the noun takes the dative: dem, der, im, am. A film, with movement towards a place, needs the accusative, and that is the next card. If you can picture a still photo, use the dative.",
      "table": {
       "headers": [
        "preposition",
@@ -6087,39 +6090,35 @@
       }
      ],
      "deeper": {
-      "text": "Zu and in can both go with a building, but they say different things. Ich gehe zum Bahnhof: I go to the station, maybe I wait outside. Ich gehe in den Bahnhof: I go inside it. Two fixed chunks you know from A1 stand apart: nach Hause (wohin?) and zu Hause (wo?). Nach Hause is the only nach with a normal noun.",
+      "text": "Zu and in can both go with a building, but they say different things. Ich gehe zum Bahnhof: I go to the station and maybe wait outside. Ich gehe in den Bahnhof: I go inside it. Countries with an article, like die Schweiz or die Türkei, do not take nach but in plus accusative: in die Schweiz. Nach Hause is a fixed chunk, the opposite of zu Hause.",
       "example": {
-       "de": "Nach der Arbeit gehe ich nach Hause.",
-       "en": "After work I go home.",
+       "de": "Im Sommer fahren wir in die Schweiz.",
+       "en": "In summer we go to Switzerland.",
        "parts": [
         [
-         "Nach",
-         "preposition"
+         "Im Sommer",
+         "time"
         ],
         [
-         "der",
-         "article"
-        ],
-        [
-         "Arbeit",
-         "noun"
-        ],
-        [
-         "gehe",
+         "fahren",
          "verb"
         ],
         [
-         "ich",
+         "wir",
          "subject"
         ],
         [
-         "nach Hause.",
+         "in",
+         "preposition"
+        ],
+        [
+         "die Schweiz.",
          "place"
         ]
        ]
       }
      },
-     "more": "Ask: Is it a city or a country name? Then nach. Is it a person or a place with der, die, das? Then zu: zum, zur. Do you go inside? Then in + accusative. Three questions, and you find the right word. Ich fahre in Salzburg is wrong: Salzburg is a city, so Ich fahre nach Salzburg.",
+     "more": "Imagine you sit in a taxi and the driver asks: Wohin? Three answers cover almost every trip. If you name a city, you say: Nach Salzburg. If you name a person or a place with der, die or das, you say: Zum Bahnhof, bitte. Zu Anna, bitte. If you drive into an area or a building, you say: In die Stadt. Check the type of place first, and the little word follows.",
      "table": {
       "headers": [
        "rule",
@@ -6276,7 +6275,7 @@
        ]
       }
      },
-     "more": "Look back at the table: where were you before? If you were in something (im Zug, in Wien), you come out with aus. If you were at something or with someone (am Bahnhof, bei Anna, beim Arzt), you come away with von. Two words, and the wo answer tells you which one.",
+     "more": "Use a walking test. Did you step out through a door or a gate? Then say aus: Ich steige aus dem Zug. Did you simply walk away from a spot, a platform or a person? Then say von: Ich komme vom Bahnhof. Ich komme von Anna. Picture Ben: he gets out of the train (aus dem Zug), walks away from the platform (vom Bahnsteig) and waves goodbye to Anna (von Anna). Two small words, one clear picture.",
      "table": {
       "headers": [
        "wohin?",
@@ -6471,7 +6470,7 @@
        ]
       }
      },
-     "more": "Take a normal question: Wohin fährt der Bus? Put Weißt du, in front. Now push fährt to the very end: Weißt du, wohin der Bus fährt? The question word and the place words stay the same. Only the verb takes a walk to the end of the sentence.",
+     "more": "Compare English. We say: Where does the bus go? and Do you know where the bus goes? English moves the verb back behind the bus in the second sentence, and German does the same, only more strictly: the verb goes to the very end of the side sentence. Test yourself by reading the sentence aloud. Does the verb come last, just before the full stop or the question mark? Then your sentence is probably right. The place words in the middle do not change at all.",
      "steps": [
       "Start with the direct question: Woher kommt der Zug?",
       "Put a frame in front: Ich weiß nicht, …",
@@ -6482,7 +6481,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:HFfDfQxgJKU"
+     "yt:HFfDfQxgJKU",
+     "yt:gxJ2ghkTBCs"
     ],
     "nicosWeg": [
      "nw:a1-41"
@@ -6494,11 +6494,11 @@
      "type": "choice",
      "prompt": "___ fährst du am Samstag? Nach Salzburg.",
      "options": [
-      "Wo",
       "Wohin",
+      "Wo",
       "Woher"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "The answer is a direction: nach …",
      "explanation": "Wohin fährst du am Samstag? Nach Salzburg.",
      "grammar": true
@@ -6521,10 +6521,10 @@
      "prompt": "Mira geht ___ Haltestelle.",
      "options": [
       "zum",
-      "nach",
-      "zur"
+      "zur",
+      "nach"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "die Haltestelle: zu + der = zur.",
      "explanation": "Mira geht zur Haltestelle.",
      "grammar": true
@@ -6543,11 +6543,11 @@
      "type": "choice",
      "prompt": "Leon wartet ___ Bahnhof.",
      "options": [
-      "am",
+      "vom",
       "zum",
-      "vom"
+      "am"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "wo? Leon stays there.",
      "explanation": "Leon wartet am Bahnhof.",
      "grammar": true
@@ -6567,10 +6567,10 @@
      "prompt": "What is der Heimweg?",
      "options": [
       "the car park",
-      "the way home",
-      "the distance"
+      "the distance",
+      "the way home"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Heim = home.",
      "explanation": "Der Heimweg is the way home.",
      "grammar": false
@@ -6579,11 +6579,11 @@
      "type": "choice",
      "prompt": "Wo parkt Herr Ali?",
      "options": [
-      "auf der Entfernung",
       "auf dem Parkplatz",
+      "auf der Entfernung",
       "auf dem Ziel"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "A place for cars.",
      "explanation": "Herr Ali parkt auf dem Parkplatz.",
      "grammar": false
@@ -6605,11 +6605,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich komme aus dem Zug.",
       "Ich komme von dem Zug.",
+      "Ich komme aus dem Zug.",
       "Ich komme aus den Zug."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Out of something you were inside, + dative.",
      "explanation": "Ich komme aus dem Zug.",
      "grammar": true
@@ -6631,11 +6631,11 @@
      "type": "choice",
      "prompt": "Wir stehen auf ___ Bahnsteig.",
      "options": [
-      "den",
       "dem",
+      "den",
       "der"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "wo? → dative, der Bahnsteig.",
      "explanation": "Wir stehen auf dem Bahnsteig.",
      "grammar": true
@@ -6665,11 +6665,11 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Leon kommt ___ Arbeit. (von + der)",
+     "prompt": "Complete: Leon kommt ___ Arbeit. (woher?, from work)",
      "answers": [
       "von der"
      ],
-     "hint": "Arbeit has no short form with von.",
+     "hint": "You come away from work; die Arbeit is feminine, so von + der.",
      "explanation": "Leon kommt von der Arbeit.",
      "grammar": true
     },
@@ -6677,11 +6677,11 @@
      "type": "choice",
      "prompt": "Ich weiß nicht, woher ___.",
      "options": [
-      "kommt der Zug",
+      "der Zug kommt",
       "der Zug kommt?",
-      "der Zug kommt"
+      "kommt der Zug"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Verb at the end, no question mark.",
      "explanation": "Ich weiß nicht, woher der Zug kommt.",
      "grammar": true
@@ -6713,11 +6713,11 @@
      "type": "choice",
      "prompt": "Mira ist heute ___ Hause. (wo?)",
      "options": [
-      "zu",
+      "von",
       "nach",
-      "von"
+      "zu"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "wo? → the chunk zu Hause.",
      "explanation": "Mira ist heute zu Hause.",
      "grammar": true
@@ -6727,10 +6727,10 @@
      "prompt": "Die ___ nach Salzburg ist 90 Kilometer.",
      "options": [
       "Umgebung",
-      "Entfernung",
-      "Fahrt"
+      "Fahrt",
+      "Entfernung"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "How far is it?",
      "explanation": "Die Entfernung nach Salzburg ist 90 Kilometer.",
      "grammar": false
@@ -6849,8 +6849,8 @@
        "en": "The distance is about 90 kilometres."
       },
       {
-       "de": "Wie groß ist die Entfernung?",
-       "en": "How big is the distance?"
+       "de": "Wie groß ist die Entfernung nach Salzburg?",
+       "en": "How big is the distance to Salzburg?"
       }
      ],
      "forms": "die Entfernungen"
@@ -7099,7 +7099,7 @@
        "why": "New today: links von + dative."
       }
      ],
-     "more": "Think of a map app. The red pin says am Bahnhof. That is a start, but where is the pin? Links vom Eingang, gegenüber vom Café, in der Nähe vom Parkplatz. Each phrase makes the pin a bit more exact. With three of them, your friend finds you in a minute."
+     "more": "Think of a map app. The red pin says am Bahnhof. That is a start, but where exactly is the pin? Links vom Eingang, gegenüber vom Café, in der Nähe vom Parkplatz. Each phrase makes the pin a bit more exact, and with three of them your friend finds you in a minute. English works the same way: next to, opposite, near. German adds von and the dative after most of them, and you will practise that today."
     },
     {
      "title": "Die Mitte, der Rand: words for places",
@@ -7194,7 +7194,7 @@
       }
      ],
      "deeper": {
-      "text": "Die Nähe is almost always used in one chunk: in der Nähe, nearby. Ist hier in der Nähe eine Apotheke? Is there a chemist nearby? With von you say what it is near: in der Nähe vom Bahnhof. Der Rand has an umlaut in the plural: die Ränder. And you know der Stadtrand from chapter 5: the edge of the town.",
+      "text": "Die Nähe is almost always used in one chunk: in der Nähe, nearby. Ist hier in der Nähe eine Apotheke? Is there a chemist nearby? With von you say what it is near: in der Nähe vom Bahnhof. Der Rand has an umlaut in the plural: die Ränder. Add Stadt and you get der Stadtrand, the edge of the town.",
       "example": {
        "de": "Ist hier in der Nähe eine Apotheke?",
        "en": "Is there a chemist nearby?",
@@ -7222,7 +7222,7 @@
        ]
       }
      },
-     "more": "Picture a square from above. The fountain in the centre is in der Mitte. The bikes along the outside are am Rand. The left part and the right part are the two Seiten. A café very close to you is in der Nähe. Four nouns, and you can place almost anything.",
+     "more": "Stand in the middle of a big square. The ground under your feet is die Mitte. Walk to the far end and you reach der Rand. Look to your left or right and you see die Seite. A shop two steps from you is in der Nähe. Now look at a tall building: oben is the roof, unten is the street. Der Hof is the quiet space behind it, and der Tunnel runs under the road. Say each word as you picture it.",
      "table": {
       "headers": [
        "German",
@@ -7390,7 +7390,7 @@
        ]
       }
      },
-     "more": "Hinter is a preposition and needs a noun: hinter dem Bahnhof. Hinten is an adverb and stands alone: Er sitzt hinten. The same pair works for vor and vorn. If no noun follows, take the word with -en or -n at the end. Er sitzt hinter is wrong; you say Er sitzt hinten.",
+     "more": "Hinter is a preposition and needs a noun: hinter dem Bahnhof means behind the station. Hinten is an adverb and stands alone: Er sitzt hinten means he sits at the back. The same pair works for vor and vorn. English also has two ways to say it, behind the bus and at the back, so think of hinten as the at-the-back word. If no noun follows, take the word with -en or -n at the end. Er sitzt hinter is wrong; you say Er sitzt hinten.",
      "table": {
       "headers": [
        "word",
@@ -7535,7 +7535,7 @@
       }
      ],
      "deeper": {
-      "text": "In speech many people drop von after gegenüber and use the dative directly: gegenüber dem Hotel. Both are correct. Gegenüber vom Hotel is the easy one to learn, because it works like links vom and rechts vom. Never use the nominative after it: gegenüber das Café is wrong. It is always gegenüber vom Café.",
+      "text": "In speech many people drop von after gegenüber and use the dative directly: gegenüber dem Hotel. Both are correct. Gegenüber vom Hotel is the easy one to learn, because it works like links vom and rechts vom. Never use der, das or den straight after it without von: gegenüber das Café is wrong. Say gegenüber vom Café.",
       "example": {
        "de": "Wir wohnen gegenüber dem Park.",
        "en": "We live opposite the park.",
@@ -7563,7 +7563,7 @@
        ]
       }
      },
-     "more": "Read the table like a small map. The middle column is the station. Everything else is described from there: the bank on its left, the café on its right, the hotel opposite. Each place gets von + dative, so the whole street fits into three short sentences.",
+     "more": "Compare English. We say to the left of the station, and German says links vom Bahnhof. English uses of, German uses von, and von + dem melts into vom. Read the table like a small map: the middle column is the station, and everything else is described from there. Now say three sentences about the buildings near you: links von, rechts von, gegenüber von. For a die-noun say von der, for a der-noun or a das-noun say vom.",
      "table": {
       "headers": [
        "left",
@@ -7718,7 +7718,7 @@
        ]
       }
      },
-     "more": "Each chunk is like a frame with an empty slot: in der Mitte von ___, am Rand von ___, in der Nähe von ___. The frame never changes. You only put a place into the slot, with dem or der: vom Platz, von der Stadt. Three frames, many sentences.",
+     "more": "Each chunk is a frame with an empty slot: in der Mitte von ___, am Rand von ___, in der Nähe von ___. The frame never changes, so learn it as one block. Picture a map legend. A dot in the centre of the square is in der Mitte vom Platz. A line around the town is am Rand von der Stadt. A circle drawn around the pin is in der Nähe vom Bahnhof. Only the place in the slot changes, with dem or der: vom Platz, von der Stadt.",
      "steps": [
       "Choose the frame: in der Mitte / am Rand / in der Nähe",
       "Add von",
@@ -7863,7 +7863,7 @@
        ]
       }
      },
-     "more": "Read the text and draw a small map. Start with the station in the middle of the page. Then put each place where the text says. Mitten in der Stadt and in der Mitte vom Platz mean almost the same: mitten is just a short, fixed form.",
+     "more": "Read the text like a tour guide who walks through the square and points: first the big picture, then the details. Draw a small map as you read, with the station in the middle of the page. Mitten in der Stadt and in der Mitte vom Platz mean almost the same thing. Mitten in is the short fixed form for right in the middle of, and English has the same pair: in the middle of and right in the middle of.",
      "steps": [
       "Der Bahnhof liegt mitten in der Stadt. Vor dem Bahnhof ist ein großer Platz.",
       "In der Mitte vom Platz steht ein alter Brunnen.",
@@ -8005,7 +8005,7 @@
        ]
       }
      },
-     "more": "Directions are a chain with two parts. Part one moves you: geradeaus, bis zur Ampel, über die Brücke. Part two stops you at the spot: links von, gegenüber von, in der Nähe von. If the other person still looks lost, they ask Wo genau? and you add one more position word.",
+     "more": "Directions are a chain with two parts, like a satnav. Part one moves you: geradeaus, bis zur Ampel, über die Brücke. Part two stops you at the spot: links von, gegenüber von, in der Nähe von. If the other person still looks lost, they ask Wo genau? and you add one more position word to the end of your chain. On the phone this question is very common, so learn it as a block and keep your position words ready.",
      "steps": [
       "Move: Gehen Sie geradeaus bis zur Ampel.",
       "Turn: Dann gehen Sie links.",
@@ -8017,7 +8017,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:2ooxcrMJXjI"
+     "yt:2ooxcrMJXjI",
+     "yt:V9WNhHEkrkU"
     ],
     "nicosWeg": [
      "nw:a1-42"
@@ -8030,10 +8031,10 @@
      "prompt": "Er sitzt ___.",
      "options": [
       "hinter",
-      "hinten",
-      "hintern"
+      "hintern",
+      "hinten"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "No noun follows: the adverb.",
      "explanation": "Er sitzt hinten.",
      "grammar": true
@@ -8043,21 +8044,21 @@
      "prompt": "Die Bank ist links ___ Bahnhof.",
      "options": [
       "von",
-      "zum",
-      "vom"
+      "vom",
+      "zum"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "von + dem = vom.",
      "explanation": "Die Bank ist links vom Bahnhof.",
      "grammar": true
     },
     {
      "type": "type",
-     "prompt": "Complete: Das Café ist gegenüber ___ Post. (von + der)",
+     "prompt": "Complete: Das Café ist gegenüber ___ Post. (opposite the post office)",
      "answers": [
       "von der"
      ],
-     "hint": "gegenüber von + dative, die Post → der.",
+     "hint": "Gegenüber is followed by a small word and the dative: die Post becomes der Post.",
      "explanation": "Das Café ist gegenüber von der Post.",
      "grammar": true
     },
@@ -8065,22 +8066,23 @@
      "type": "choice",
      "prompt": "Es regnet. Die Kinder spielen ___.",
      "options": [
-      "drinnen",
       "draußen",
+      "drinnen",
       "oben"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Rain: you stay inside.",
      "explanation": "Es regnet. Die Kinder spielen drinnen.",
      "grammar": true
     },
     {
      "type": "type",
-     "prompt": "Complete: Wir wohnen in der Nähe ___ Bahnhof. (von + dem)",
+     "prompt": "Complete: Wir wohnen in der Nähe ___ Bahnhof. (near the station)",
      "answers": [
-      "vom"
+      "vom",
+      "von dem"
      ],
-     "hint": "Short form of von dem.",
+     "hint": "In der Nähe is followed by von and the dative: der Bahnhof becomes dem Bahnhof.",
      "explanation": "Wir wohnen in der Nähe vom Bahnhof.",
      "grammar": true
     },
@@ -8114,11 +8116,11 @@
      "type": "choice",
      "prompt": "What is der Rand?",
      "options": [
-      "the side",
+      "the edge",
       "the middle",
-      "the edge"
+      "the side"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "am Stadtrand",
      "explanation": "Der Rand is the edge.",
      "grammar": false
@@ -8141,11 +8143,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Die Bank ist gegenüber vom Café.",
       "Die Bank ist gegenüber das Café.",
+      "Die Bank ist gegenüber vom Café.",
       "Die Bank ist gegenüber von das Café."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "gegenüber von + dative.",
      "explanation": "Die Bank ist gegenüber vom Café.",
      "grammar": true
@@ -8168,21 +8170,21 @@
      "prompt": "Ben wartet ___ dem Eingang.",
      "options": [
       "vorn",
-      "vorne von",
-      "vor"
+      "vor",
+      "vorne von"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "A noun follows: the preposition.",
      "explanation": "Ben wartet vor dem Eingang.",
      "grammar": true
     },
     {
      "type": "type",
-     "prompt": "Complete: Die Post ist rechts ___ Bank. (von + der)",
+     "prompt": "Complete: Die Post ist rechts ___ Bank. (to the right of the bank)",
      "answers": [
       "von der"
      ],
-     "hint": "rechts von + dative.",
+     "hint": "Rechts is followed by von and the dative.",
      "explanation": "Die Post ist rechts von der Bank.",
      "grammar": true
     },
@@ -8190,11 +8192,11 @@
      "type": "choice",
      "prompt": "Die Haltestelle liegt am ___ vom Platz.",
      "options": [
-      "Rand",
+      "Mitte",
       "Nähe",
-      "Mitte"
+      "Rand"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "at the edge: am Rand.",
      "explanation": "Die Haltestelle liegt am Rand vom Platz.",
      "grammar": true
@@ -8673,7 +8675,7 @@
        "why": "New today: einerseits … andererseits."
       }
      ],
-     "more": "Every way to travel is good for something and bad for something else. The bike is cheap but wet in the rain. The bus is dry but sometimes late. In a discussion you show both sides, then you choose. Einerseits … andererseits is the German frame for exactly this: two sides, one sentence."
+     "more": "Every way to travel is good for something and bad for something else. The bike is cheap but wet in the rain. The bus is dry but sometimes late. In a discussion you show both sides first, then you choose. Einerseits … andererseits is the German frame for exactly this: two sides, one sentence. English uses on the one hand and on the other hand, so the idea is the same and only the verb position needs care."
     },
     {
      "title": "Das Verkehrsmittel, die Umwelt: words for getting around",
@@ -8776,7 +8778,7 @@
       }
      ],
      "deeper": {
-      "text": "Pendeln forms the Perfekt with sein, like fahren: Ich bin zehn Jahre gependelt. A woman is eine Pendlerin. Die Sicherheit comes from sicher, safe; die Umwelt has no plural. Umweltfreundlich, which you know, is built from it: freundlich zur Umwelt, kind to the environment. Many long German words are built like this, from two parts you already know.",
+      "text": "Pendeln usually forms the Perfekt with sein, like fahren: Ich bin zehn Jahre gependelt. A woman is eine Pendlerin. Die Sicherheit comes from sicher, safe; die Umwelt has no plural. Umweltfreundlich, which you know, is built from it: freundlich zur Umwelt, kind to the environment. Many long German words are built like this, from two parts you already know.",
       "example": {
        "de": "Anna ist früher nach Wien gependelt.",
        "en": "Anna used to commute to Vienna.",
@@ -8808,7 +8810,7 @@
        ]
       }
      },
-     "more": "Group the words into three boxes. Box one is travelling: Verkehrsmittel, Nahverkehr, Pendler, pendeln, Fahrgemeinschaft. Box two is the road: Radweg and Gehweg. Box three is why it matters: Umwelt, Abgas, Sicherheit. When you talk about transport, you will need one word from each box.",
+     "more": "Group the words into three boxes. Box one is travelling: Verkehrsmittel, Nahverkehr, Pendler, pendeln, Fahrgemeinschaft. Box two is the road: Radweg for bikes and Gehweg for people on foot. Box three is why it matters: Umwelt, Abgas, Sicherheit. Notice how the parts show the meaning: Fahr plus Gemeinschaft is a ride community, Rad plus Weg is a bike way. When you talk about transport you will need one word from each box.",
      "table": {
       "headers": [
        "German",
@@ -9003,7 +9005,7 @@
        ]
       }
      },
-     "more": "Read the table across one row at a time. Each row is one quality. The plus shows which Verkehrsmittel wins. Then make a sentence: Das Rad ist billiger als das Auto. Four columns, six rows: that is more than twenty sentences you can say now.",
+     "more": "Read the table across one row at a time. Each row is one quality, and the plus shows which Verkehrsmittel wins. Then make a sentence from a row: for sicher you say Der Bus ist sicherer als das Rad. English puts more in front of long adjectives, more comfortable, but German only adds -er: bequemer. Four columns and six rows give you more than twenty sentences. Say five of them aloud and put als after the comparative every time.",
      "table": {
       "headers": [
        "",
@@ -9231,7 +9233,7 @@
        ]
       }
      },
-     "more": "Think of weil as a door to a little room. Inside the room the verb walks to the back wall. Ich habe kein Auto becomes weil ich kein Auto habe. With dass it is the same room. So you only need one rule for both: after weil or dass, the verb goes to the end.",
+     "more": "Think of weil as a door to a little room. Inside the room the verb walks to the back wall: Ich habe kein Auto becomes weil ich kein Auto habe. Dass opens the same room, so you need only one rule for both. English keeps its order, because I have no car, but German moves the verb every time. A helpful trick is to end the sentence on the verb and stop there. Practise with three reasons for your own way to travel.",
      "table": {
       "headers": [
        "reason",
@@ -9410,7 +9412,7 @@
       }
      ],
      "deeper": {
-      "text": "Einerseits and andererseits take position 1, just like a time word. That is why the verb follows straight away and the subject comes after it. The second half often ends with aber or a short opinion: Andererseits ist es aber teuer. After the pair, say what you choose: Ich nehme den Bus.",
+      "text": "Einerseits and andererseits take position 1, just like a time word. That is why the verb follows straight away and the subject comes after it. The second half often gets an aber to sharpen the contrast: Andererseits ist es aber teuer. After the pair, say what you choose: Ich nehme den Bus.",
       "example": {
        "de": "Andererseits ist es aber teuer.",
        "en": "On the other hand, though, it is expensive.",
@@ -9438,7 +9440,7 @@
        ]
       }
      },
-     "more": "Treat einerseits like heute. Heute ist das Wetter schön: verb second. Einerseits ist das Rad billig: verb second, the same. A common mistake is Einerseits das Rad ist billig. Swap the two words after einerseits and it is right: Einerseits ist das Rad billig.",
+     "more": "Treat einerseits like heute. Heute ist das Wetter schön: the verb stands second. Einerseits ist das Rad billig: the verb stands second, in the same way. A common mistake is Einerseits das Rad ist billig. Swap the two words after einerseits and it is right. English says on the one hand and then keeps its normal order, so the idea is familiar and only the verb position needs care. Learn the pair as one block: einerseits, then andererseits.",
      "steps": [
       "Side one: Einerseits + verb + subject + rest: Einerseits ist das Rad billig,",
       "Side two: andererseits + verb + subject + rest: andererseits ist es bei Regen nicht bequem.",
@@ -9447,7 +9449,7 @@
     },
     {
      "title": "Bus, Bahn und Rad: Verkehr in D-A-CH",
-     "body": "In German-speaking cities many people do not need a car. They take the bus, the tram or the S-Bahn, ride a bike or walk. A Monatskarte makes the Nahverkehr cheap for people who travel every day. In Germany there is also a monthly ticket for the whole country, the Deutschlandticket. Austria and Switzerland have their own regional and national passes.",
+     "body": "In German-speaking cities many people do not need a car. They take the bus, the tram or the S-Bahn, ride a bike or walk. A Monatskarte makes the Nahverkehr cheap for people who travel every day. Germany has the Deutschlandticket for the whole country, Austria the KlimaTicket, Switzerland the Halbtax and the GA.",
      "lead": "You can now talk about your own way to travel. This card shows how people in Germany, Austria and Switzerland usually get around.",
      "examples": [
       {
@@ -9542,59 +9544,27 @@
       }
      ],
      "deeper": {
-      "text": "Many towns build more Radwege every year, and in some city centres cars are not allowed. Many Pendler take the train to work and the bike from the station. Some people do not have a car at all. For long trips they take the train or join a Fahrgemeinschaft. This is good for the Umwelt and cheaper for the people.",
+      "text": "Many stations in Germany, Austria and Switzerland have no gates. You walk straight onto the platform and buy or check your ticket before you travel. On the train a Kontrolle can ask for your Fahrschein at any time. Someone who travels without a valid ticket is a Schwarzfahrer and pays a fine. Many Pendler also take the bike on the train, but check first: not every train allows it.",
       "example": {
-       "de": "Viele Pendler fahren mit dem Zug und dann mit dem Rad.",
-       "en": "Many commuters take the train and then the bike.",
+       "de": "Ein Schwarzfahrer hat keinen Fahrschein.",
+       "en": "A fare dodger has no ticket.",
        "parts": [
         [
-         "Viele",
-         "article"
+         "Ein Schwarzfahrer",
+         "subject"
         ],
         [
-         "Pendler",
-         "noun"
-        ],
-        [
-         "fahren",
+         "hat",
          "verb"
         ],
         [
-         "mit",
-         "preposition"
-        ],
-        [
-         "dem",
-         "article"
-        ],
-        [
-         "Zug",
-         "noun"
-        ],
-        [
-         "und",
-         "conjunction"
-        ],
-        [
-         "dann",
-         "time"
-        ],
-        [
-         "mit",
-         "preposition"
-        ],
-        [
-         "dem",
-         "article"
-        ],
-        [
-         "Rad.",
-         "noun"
+         "keinen Fahrschein.",
+         "object"
         ]
        ]
       }
      },
-     "more": "Imagine a normal working day in Vienna or Munich. You walk to the stop, take the tram, change to the U-Bahn and walk the last minutes. One pass covers all of it. That is why many people in a city do not buy a car: the Nahverkehr takes them almost everywhere.",
+     "more": "Imagine a normal working day in Vienna or Munich. You walk to the stop, take the tram, change to the U-Bahn and walk the last minutes. One pass covers all of it, so many city people do not buy a car. In the country it can be different: with fewer buses a car is often needed. That is why Stadt oder Land is a favourite topic in German talks about transport. Ask a German friend which one fits them.",
      "table": {
       "headers": [
        "country",
@@ -9610,12 +9580,12 @@
        [
         "Österreich",
         "Straßenbahn, U-Bahn in Wien",
-        "regional and national passes"
+        "KlimaTicket Österreich"
        ],
        [
         "Schweiz",
         "Zug, Tram, many Radwege",
-        "regional and national passes"
+        "Halbtax, Generalabonnement (GA)"
        ]
       ]
      }
@@ -9725,7 +9695,7 @@
        ]
       }
      },
-     "more": "Think of a volume knob. Quiet: Du könntest den Bus nehmen. Medium: Du kannst den Bus nehmen. Loud: Nimm den Bus! For a friend who did not ask, start quiet. For a friend who is late and in a hurry, the loud one is fine. All three are polite with a smile.",
+     "more": "Think of a volume knob. Quiet: Du könntest den Bus nehmen. Medium: Du kannst den Bus nehmen. Loud: Nimm den Bus! For a friend who did not ask, start quiet. For a friend who is late and in a hurry, the loud one is fine, and doch makes it friendly. English does the same with could, can and a plain command, so choose the volume that fits the moment. All three sound polite with a smile.",
      "table": {
       "headers": [
        "strength",
@@ -9917,7 +9887,7 @@
        ]
       }
      },
-     "more": "Use the steps as a recipe. First name your Verkehrsmittel. Then give a reason with weil. Then show the other side. Last, ask the other person. Four short sentences, and you have taken part in a real discussion in German.",
+     "more": "Use the steps as a recipe, like a short talk with a colleague. First name your Verkehrsmittel. Then give a reason with weil. Then show the other side with einerseits and andererseits. Last, ask the other person: Und du? Four short sentences and you have taken part in a real discussion in German. On a bad day you can drop step three and still sound fine. Try it with your own way to work.",
      "steps": [
       "What: Ich fahre mit der Straßenbahn.",
       "Why: …, weil sie schneller als der Bus ist.",
@@ -9928,9 +9898,11 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:SxDm2IxtUlY"
+     "yt:SxDm2IxtUlY",
+     "yt:dIbr0bSKvYM"
     ],
     "nicosWeg": [
+     "nw:a2-17",
      "nw:b1-45"
     ],
     "practice": []
@@ -9940,11 +9912,11 @@
      "type": "choice",
      "prompt": "Das Rad ist ___ als das Auto.",
      "options": [
-      "billiger",
+      "mehr billig",
       "billig",
-      "mehr billig"
+      "billiger"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Comparative: -er.",
      "explanation": "Das Rad ist billiger als das Auto.",
      "grammar": true
@@ -9976,11 +9948,11 @@
      "type": "choice",
      "prompt": "Ich fahre Rad, weil es billig ___.",
      "options": [
-      "sein",
+      "ist",
       "bin",
-      "ist"
+      "sein"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "weil: verb at the end, es ist.",
      "explanation": "Ich fahre Rad, weil es billig ist.",
      "grammar": true
@@ -10018,11 +9990,11 @@
      "type": "choice",
      "prompt": "Where do bikes ride?",
      "options": [
-      "auf dem Gehweg",
       "auf dem Radweg",
+      "auf dem Gehweg",
       "im Abgas"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Rad = bike.",
      "explanation": "Bikes ride auf dem Radweg.",
      "grammar": false
@@ -10071,11 +10043,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Einerseits ist das Rad billig.",
       "Einerseits das Rad ist billig.",
+      "Einerseits ist das Rad billig.",
       "Einerseits ist billig das Rad."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Verb in position 2, then the subject.",
      "explanation": "Einerseits ist das Rad billig.",
      "grammar": true
@@ -10084,11 +10056,11 @@
      "type": "choice",
      "prompt": "Der Bus ist ___ als das Rad.",
      "options": [
-      "bequemer",
+      "bequemmer",
       "mehr bequem",
-      "bequemmer"
+      "bequemer"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Long adjective: just -er.",
      "explanation": "Der Bus ist bequemer als das Rad.",
      "grammar": true
@@ -10108,10 +10080,10 @@
      "prompt": "Ich fahre mit dem Bus, weil ich kein Auto ___.",
      "options": [
       "hat",
-      "haben",
-      "habe"
+      "habe",
+      "haben"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "ich habe, at the end.",
      "explanation": "Ich fahre mit dem Bus, weil ich kein Auto habe.",
      "grammar": true
@@ -10131,10 +10103,10 @@
      "prompt": "Andererseits ___ oft Stau.",
      "options": [
       "es gibt",
-      "gibt es",
-      "gibt"
+      "gibt",
+      "gibt es"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Verb in position 2.",
      "explanation": "Andererseits gibt es oft Stau.",
      "grammar": true
@@ -10366,11 +10338,11 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Complete: Die Haltestelle ist gegenüber ___ Bahnhof. (von + dem)",
+     "prompt": "Complete: Die Haltestelle ist gegenüber ___ Bahnhof. (opposite the station)",
      "answers": [
       "vom"
      ],
-     "hint": "gegenüber von + dative.",
+     "hint": "gegenüber needs a small word and the dative.",
      "explanation": "Die Haltestelle ist gegenüber vom Bahnhof.",
      "grammar": true
     },
@@ -10541,8 +10513,8 @@
        "why": "New today: dafür + dass."
       },
       {
-       "de": "Ich finde es gut, dass Leon mit dem Rad fährt.",
-       "en": "I think it is good that Leon rides his bike.",
+       "de": "Ich finde es gut, dass Leon zu Fuß geht.",
+       "en": "I think it is good that Leon walks.",
        "parts": [
         [
          "Ich",
@@ -10554,7 +10526,7 @@
         ],
         [
          "es",
-         "object"
+         "other"
         ],
         [
          "gut,",
@@ -10569,23 +10541,14 @@
          "subject"
         ],
         [
-         "mit",
-         "preposition"
+         "zu Fuß",
+         "other"
         ],
         [
-         "dem",
-         "article"
-        ],
-        [
-         "Rad",
-         "noun"
-        ],
-        [
-         "fährt.",
+         "geht.",
          "verbend"
         ]
-       ],
-       "why": "New today: Ich finde es gut, dass …"
+       ]
       }
      ],
      "more": "Think of a dass-clause as a little box. First you say what you think (Ich bin dafür), then you open the box with dass and put the whole idea inside. In the box the verb always sits at the very end, like the last book on a shelf. So the box looks like this: dass es ein Tempolimit gibt. Say the frame first, fill the box second."
@@ -10949,7 +10912,7 @@
        ]
       }
      },
-     "more": "Many learners say Ich finde gut, dass … and drop the little word es. But German wants it: Ich finde es gut, dass … Think of es as a pointer that says: a judgement is coming. Use es with gut, wichtig and schlecht every time. And remember the box: after dass the verb goes to the end, so dass es ein Tempolimit gibt, never dass es gibt ein Tempolimit.",
+     "more": "Many learners say Ich finde gut, dass … and drop the little word es. You hear that in fast speech, and people understand it. But the careful standard is Ich finde es gut, dass …, so use it in class and in writing. Think of es as a pointer that says: a judgement is coming. Use es with gut, wichtig and schlecht. And remember the box: after dass the verb goes to the end, so dass es ein Tempolimit gibt, never dass es gibt ein Tempolimit.",
      "table": {
       "headers": [
        "Frame",
@@ -11352,7 +11315,7 @@
     },
     {
      "title": "Pronunciation: difficult words",
-     "body": "Long German words are short pieces glued together. Clap once for each syllable: Fahr-schein-au-to-mat. Then say it faster. In a compound the stress is on the first part: TEM-po-li-mit. After the prefixes Ge-, Ver- and Ent- the stress moves to the next syllable: ge-SCHWIN-dig-keit.",
+     "body": "Long German words are short pieces glued together. Clap once for each syllable: Fahr-schein-au-to-mat. Then say it faster. In most compounds the stress is on the first part: ˈTem-po-li-mit. After the prefixes Ge-, Ver- and Ent- the stress moves to the next syllable: Ge-ˈschwin-dig-keit. The mark ˈ stands before the loud syllable.",
      "lead": "You can now argue, but long words can stop you in the middle of a sentence. This card gives you one method to say them and eight words to practise it on.",
      "examples": [
       {
@@ -11448,17 +11411,13 @@
       }
      ],
      "deeper": {
-      "text": "Consonant clusters are the other trap. At the start of a syllable German st sounds like scht and sp like schp: Straße is SCHTRAS-se, Verspätung is fer-SCHPÄ-tung. Say the first sound very short and the vowel after it clearly. Practise Straße, Strecke, Zug and Kreisverkehr this way.",
+      "text": "Consonant clusters are the other trap. At the start of a syllable German st sounds like scht and sp like schp: Straße sounds like shtrah-se, and Verspätung like fer-shpay-tung. Say the first sound very short and the vowel after it clearly. Practise Straße, Strecke, Station and Verspätung this way. Note that Verkehr is a prefix word too, so in Verkehrsmittel the loud syllable is kehr, not the first one.",
       "example": {
        "de": "Die Straße ist hier eng.",
        "en": "The street is narrow here.",
        "parts": [
         [
-         "Die",
-         "article"
-        ],
-        [
-         "Straße",
+         "Die Straße",
          "subject"
         ],
         [
@@ -11476,53 +11435,53 @@
        ]
       }
      },
-     "more": "Eating a huge sandwich works the same way: you do not put it all in your mouth at once, you take small bites. Syllables are the bites. Clap them: Ge-schwin-dig-keit, four claps. Then chew faster, and in the end the whole word runs smoothly. Where the loud bite is, in capital letters in the table, is the stress.",
+     "more": "Eating a huge sandwich works the same way: you do not put it all in your mouth at once, you take small bites. Syllables are the bites. Clap them: Ge-schwin-dig-keit, four claps. Then chew faster, and in the end the whole word runs smoothly. The loud bite is marked with ˈ in the table. Everybody stumbles over Straßenbahnhaltestelle at first, so take it slowly and clap it out.",
      "table": {
       "headers": [
        "Word",
        "Clap it",
-       "Stress (capitals)"
+       "Loud syllable (marked ˈ)"
       ],
       "rows": [
        [
         "Verkehrsmittel",
         "Ver-kehrs-mit-tel",
-        "VER-kehrs-mit-tel"
+        "Ver-ˈkehrs-mit-tel"
        ],
        [
         "Tempolimit",
         "Tem-po-li-mit",
-        "TEM-po-li-mit"
+        "ˈTem-po-li-mit"
        ],
        [
         "Fahrscheinautomat",
         "Fahr-schein-au-to-mat",
-        "FAHR-schein-au-to-mat"
+        "ˈFahr-schein-au-to-mat"
        ],
        [
         "Straßenbahnhaltestelle",
         "Stra-ßen-bahn-hal-te-stel-le",
-        "STRA-ßen-bahn-hal-te-stel-le"
+        "ˈStra-ßen-bahn-hal-te-stel-le"
        ],
        [
         "Geschwindigkeit",
         "Ge-schwin-dig-keit",
-        "ge-SCHWIN-dig-keit"
+        "Ge-ˈschwin-dig-keit"
        ],
        [
         "Kreisverkehr",
         "Kreis-ver-kehr",
-        "KREIS-ver-kehr"
+        "ˈKreis-ver-kehr"
        ],
        [
         "Verspätung",
         "Ver-spä-tung",
-        "ver-SPÄ-tung"
+        "Ver-ˈspä-tung"
        ],
        [
         "Entfernung",
         "Ent-fer-nung",
-        "ent-FER-nung"
+        "Ent-ˈfer-nung"
        ]
       ]
      },
@@ -11534,7 +11493,7 @@
     },
     {
      "title": "Putting it together: a debate at „Zum Löwen“",
-     "body": "Leon is for a speed limit, Herr Ali is against it. Each uses a frame, a reason and a reaction. Read the dialogue, then say the same sentences about your own street. Before Leon drives off, Herr Ali says: Gute Fahrt! That is a block: learn it as one piece, a wish for anyone who sets off.",
+     "body": "Leon is for a speed limit, Herr Ali is against it. Each uses a frame, a reason and a reaction. Read the dialogue, then say the same sentences about your own street. Before Leon drives off in the van, Herr Ali says: Gute Fahrt! That is a block: learn it as one piece, a wish for anyone who sets off.",
      "lead": "You have frames, reactions, reasons and a method for long words. This last card puts them together in a real conversation between two people who disagree and stay friendly.",
      "examples": [
       {
@@ -11721,7 +11680,7 @@
        ]
       }
      },
-     "more": "A debate is like a tennis match with words. One person serves an opinion (Ich bin dafür, dass …), the other returns it with a reason (Ich bin dagegen, weil …). Nobody has to win. You only have to keep the ball in play: frame, reason, reaction. Gute Fahrt! is a nice way to end the match when someone has to leave.",
+     "more": "A debate is like a tennis match with words. One person serves an opinion (Ich bin dafür, dass …), the other returns it with a reason (Ich bin dagegen, weil …). Nobody has to win. You only have to keep the ball in play: frame, reason, reaction. Germans like to argue calmly and say what they mean, so a clear Das sehe ich anders is not rude. Gute Fahrt! is a nice way to end the match when someone has to leave.",
      "table": {
       "headers": [
        "Who",
@@ -11763,10 +11722,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:I9kmYRRG6sM"
+     "yt:I9kmYRRG6sM",
+     "yt:_tHi2rjFKd0",
+     "yt:4OAuZBHxZag"
     ],
     "nicosWeg": [
-     "nw:b1-13"
+     "nw:a2-71"
     ],
     "practice": []
    },
@@ -11776,10 +11737,10 @@
      "prompt": "Ich bin dafür, dass es ein Tempolimit ___.",
      "options": [
       "gibt es",
-      "es gibt",
-      "gibt"
+      "gibt",
+      "es gibt"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "After dass the verb goes to the end.",
      "explanation": "Ich bin dafür, dass es ein Tempolimit gibt.",
      "grammar": true
@@ -11863,13 +11824,13 @@
      "type": "choice",
      "prompt": "Which stress is right for Geschwindigkeit?",
      "options": [
-      "ge-SCHWIN-dig-keit",
-      "GE-schwin-dig-keit",
-      "ge-schwin-DIG-keit"
+      "Ge-schwin-ˈdig-keit",
+      "ˈGe-schwin-dig-keit",
+      "Ge-ˈschwin-dig-keit"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "After Ge- the stress moves on.",
-     "explanation": "ge-SCHWIN-dig-keit: the stress is on the second syllable.",
+     "explanation": "Ge-ˈschwin-dig-keit: the stress is on the second syllable.",
      "grammar": false
     },
     {
@@ -11902,11 +11863,11 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Ich bin dafür, dass es ein Tempolimit gibt.",
       "Ich bin dafür, dass es gibt ein Tempolimit.",
+      "Ich bin dafür, dass es ein Tempolimit gibt.",
       "Ich bin dafür, dass gibt es ein Tempolimit."
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Verb at the end.",
      "explanation": "Ich bin dafür, dass es ein Tempolimit gibt.",
      "grammar": true
@@ -11964,10 +11925,10 @@
      "prompt": "Which is correct?",
      "options": [
       "Ich bin dagegen, weil das Auto macht viel Lärm.",
-      "Ich bin dagegen, weil macht das Auto viel Lärm.",
-      "Ich bin dagegen, weil das Auto viel Lärm macht."
+      "Ich bin dagegen, weil das Auto viel Lärm macht.",
+      "Ich bin dagegen, weil macht das Auto viel Lärm."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Weil sends the verb to the end.",
      "explanation": "Ich bin dagegen, weil das Auto viel Lärm macht.",
      "grammar": true
@@ -11986,11 +11947,11 @@
      "type": "choice",
      "prompt": "Anna says: Ich finde, dass es zu viele Autos gibt. You agree. You say:",
      "options": [
-      "Das sehe ich anders.",
+      "Da hast du recht.",
       "Das stimmt nicht.",
-      "Da hast du recht."
+      "Das sehe ich anders."
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "You agree.",
      "explanation": "Da hast du recht.",
      "grammar": false
@@ -11999,11 +11960,11 @@
      "type": "choice",
      "prompt": "What is der Führerschein?",
      "options": [
-      "traffic sign",
       "driving licence",
+      "traffic sign",
       "petrol station"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "You need it to drive a car.",
      "explanation": "Der Führerschein is the driving licence.",
      "grammar": false
@@ -12022,13 +11983,13 @@
      "type": "choice",
      "prompt": "Which pronunciation is right for Verspätung?",
      "options": [
-      "VER-spä-tung",
-      "ver-spä-TUNG",
-      "ver-SPÄ-tung"
+      "ˈVer-spä-tung",
+      "Ver-spä-ˈtung",
+      "Ver-ˈspä-tung"
      ],
      "answer": 2,
      "hint": "After Ver- the stress moves on.",
-     "explanation": "ver-SPÄ-tung.",
+     "explanation": "Ver-ˈspä-tung: the stress is on the second syllable.",
      "grammar": false
     },
     {
@@ -12790,7 +12751,7 @@
     },
     {
      "title": "Describe a graph in three steps",
-     "body": "The numbers here are invented, a Beispiel: Umfrage in unserer WG-Uni-Gruppe. Step 1: say the topic with Das Diagramm zeigt, … Step 2: say the main finding with Die meisten … Step 3: compare with mehr als or weniger als. Three steps are enough for a short description.",
+     "body": "The numbers here are invented. Step 1: say the topic with Das Diagramm zeigt, … Step 2: say the main finding with Die meisten … Step 3: compare with mehr als or weniger als, or just say the next numbers. Three steps are enough for a short description.",
      "lead": "You can read single numbers now. This card shows how to put them in order, so that a listener understands the whole chart in four or five sentences.",
      "examples": [
       {
@@ -12862,7 +12823,7 @@
        ]
       },
       {
-       "de": "Das sind mehr als ein Drittel.",
+       "de": "Das ist mehr als ein Drittel.",
        "en": "That is more than a third.",
        "parts": [
         [
@@ -12870,24 +12831,16 @@
          "subject"
         ],
         [
-         "sind",
+         "ist",
          "verb"
         ],
         [
-         "mehr",
-         "adjective"
+         "mehr als",
+         "other"
         ],
         [
-         "als",
-         "conjunction"
-        ],
-        [
-         "ein",
-         "article"
-        ],
-        [
-         "Drittel.",
-         "noun"
+         "ein Drittel.",
+         "object"
         ]
        ]
       }
@@ -12941,7 +12894,7 @@
        ]
       }
      },
-     "more": "Think of the three steps as telling a short story about the chart. The first sentence is the title: what is the picture about? The second is the star: what is the biggest bar? The third is the comparison: how does the star look next to the others? Then stop. A good description is short, and every sentence has one number in it.",
+     "more": "Think of the three steps as telling a short story about the chart. The first sentence is the title: what is the picture about? The second is the star: what is the biggest bar? The third is the comparison: how does the star look next to the others? Then stop. A good description is short, and every sentence has one number in it. English reports have the same shape, so only the German words are new to you.",
      "table": {
       "headers": [
        "Step",
@@ -12962,19 +12915,19 @@
        ],
        [
         "3 Comparison",
-        "Zu Fuß gehen 17 %. Nur 8 % kommen mit dem Auto."
+        "Zu Fuß gehen 15 %. Nur 10 % kommen mit dem Auto."
        ]
       ]
      },
      "steps": [
       "Topic: Das Diagramm zeigt, wie die Leute zur Uni kommen.",
       "Main finding: Die meisten fahren mit dem Bus: 40 %.",
-      "Comparison: Mit dem Rad fahren 35 %. Zu Fuß gehen 17 %. Das sind mehr als mit dem Auto, nur 8 %."
+      "Comparison: Mit dem Rad fahren 35 %. Zu Fuß gehen 15 %. Nur 10 % kommen mit dem Auto."
      ]
     },
     {
      "title": "After zeigt: wie viele, welches, ob",
-     "body": "Das Diagramm zeigt, … opens a side sentence, as in lesson 1. The W-word comes first, the verb goes to the end, and a comma stands before it. A chart can show how many (wie viele), what share (wie viel Prozent) or which one (welches). Ob is only used in the negative: Das Diagramm zeigt nicht, ob …",
+     "body": "Das Diagramm zeigt, … opens a side sentence, as in lesson 1. The W-word comes first and the verb goes to the end. A chart can show how many (wie viele), what share (wie viel Prozent) or which one (welches). Ob is rare here and mostly appears in the negative: Das Diagramm zeigt nicht, ob …",
      "lead": "You describe charts with short main sentences. Now you learn the longer starter that sounds more like a real report, and you review the side sentence from lesson 1.",
      "examples": [
       {
@@ -13141,7 +13094,7 @@
        ]
       }
      },
-     "more": "The side sentence is a little box. Das Diagramm zeigt opens the box, and what is inside follows the rule of boxes: verb last. Inside the box you can have wie viele Leute mit dem Rad fahren. Do not say wie viele Leute fahren mit dem Rad, because fahren must jump to the end. Use ob only when you say what the chart does not tell you.",
+     "more": "The side sentence is a little box. Das Diagramm zeigt opens the box, and what is inside follows the rule of boxes: verb last. Inside the box you can have wie viele Leute mit dem Rad fahren. Do not say wie viele Leute fahren mit dem Rad, because fahren must jump to the end. Use ob mostly when you say what the chart does not tell you.",
      "table": {
       "headers": [
        "Starter",
@@ -13308,7 +13261,7 @@
        ]
       }
      },
-     "more": "Steigen and sinken are movement verbs for numbers, like gehen and fahren are movement verbs for people. That is why the Perfekt uses sein, just like ich bin gefahren: the number has moved. Remember the pairs: steigen, ist gestiegen, and sinken, ist gesunken. The two participles are new, so say each one aloud three times.",
+     "more": "Steigen and sinken are movement verbs for numbers, like gehen and fahren are movement verbs for people. A number changes its place on the scale, so the Perfekt uses sein, just like ich bin gefahren. English does not show this difference: it says has risen with have. Remember the pairs: steigen, ist gestiegen, and sinken, ist gesunken. The two participles are new, so say each one aloud three times.",
      "table": {
       "headers": [
        "Verb",
@@ -13382,15 +13335,15 @@
        ]
       },
       {
-       "de": "Nur 8 % kommen mit dem Auto.",
-       "en": "Only 8 % come by car.",
+       "de": "Nur 10 % kommen mit dem Auto.",
+       "en": "Only 10 % come by car.",
        "parts": [
         [
          "Nur",
          "other"
         ],
         [
-         "8 %",
+         "10 %",
          "subject"
         ],
         [
@@ -13412,8 +13365,8 @@
        ]
       },
       {
-       "de": "Vor einem Jahr waren es nur 25 %.",
-       "en": "A year ago it was only 25 %.",
+       "de": "Vor einem Jahr waren es nur 20 %.",
+       "en": "A year ago it was only 20 %.",
        "parts": [
         [
          "Vor",
@@ -13440,7 +13393,7 @@
          "other"
         ],
         [
-         "25 %.",
+         "20 %.",
          "other"
         ]
        ]
@@ -13479,7 +13432,7 @@
        ]
       }
      },
-     "more": "Reading a report about numbers is like reading a map: look for the big thing first. The first sentence says what the map shows. The sentence with die meisten gives the biggest number. The words mehr als and weniger als tell you which number beats which. If a word is hard, skip it and look at the numbers: they carry the story.",
+     "more": "Reading a report about numbers is like reading a map: look for the big thing first. The first sentence says what the map shows. The sentence with die meisten gives the biggest number. The words mehr als and weniger als tell you which number beats which. If a word is hard, skip it and look at the numbers: they carry the story. Then say the report back in your own words, in three short sentences.",
      "table": {
       "headers": [
        "Ben’s report",
@@ -13503,11 +13456,11 @@
         "comparison"
        ],
        [
-        "Zu Fuß gehen 17 %. Nur 8 % kommen mit dem Auto.",
+        "Zu Fuß gehen 15 %. Nur 10 % kommen mit dem Auto.",
         "comparison"
        ],
        [
-        "Die Zahl der Radfahrer ist gestiegen. Vor einem Jahr waren es nur 25 %.",
+        "Die Zahl der Radfahrer ist gestiegen. Vor einem Jahr waren es nur 20 %.",
         "change"
        ],
        [
@@ -13520,7 +13473,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:S3SRcxJB31Q"
+     "yt:S3SRcxJB31Q",
+     "yt:kuuVkOuJWkQ"
     ],
     "nicosWeg": [
      "nw:b1-38"
@@ -13532,11 +13486,11 @@
      "type": "choice",
      "prompt": "Das Diagramm zeigt, wie viele Leute mit dem Rad ___.",
      "options": [
-      "sie fahren",
+      "fahren",
       "fahren sie",
-      "fahren"
+      "sie fahren"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "Side sentence: verb at the end.",
      "explanation": "Das Diagramm zeigt, wie viele Leute mit dem Rad fahren.",
      "grammar": true
@@ -13546,10 +13500,10 @@
      "prompt": "Which word means share, a part of the whole?",
      "options": [
       "der Balken",
-      "die Kurve",
-      "der Anteil"
+      "der Anteil",
+      "die Kurve"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Not the bar, not the line.",
      "explanation": "Der Anteil is the share.",
      "grammar": false
@@ -13568,11 +13522,11 @@
      "type": "choice",
      "prompt": "Die meisten ___ mit dem Bus.",
      "options": [
-      "fahren",
+      "fahre",
       "fährt",
-      "fahre"
+      "fahren"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "Most people: plural.",
      "explanation": "Die meisten fahren mit dem Bus.",
      "grammar": true
@@ -13672,10 +13626,10 @@
      "prompt": "Die meisten ___ zu Fuß.",
      "options": [
       "geht",
-      "gehen",
-      "gehst"
+      "gehst",
+      "gehen"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "Plural.",
      "explanation": "Die meisten gehen zu Fuß.",
      "grammar": true
@@ -13717,11 +13671,11 @@
      "type": "choice",
      "prompt": "How do you say 40 % aloud?",
      "options": [
-      "vierzig Prozent",
       "vierzehn Prozent",
+      "vierzig Prozent",
       "vierundzwanzig Prozent"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "Vier + zig.",
      "explanation": "Vierzig Prozent.",
      "grammar": false
@@ -13753,11 +13707,11 @@
      "type": "choice",
      "prompt": "Die Mehrheit ___ mit dem Bus.",
      "options": [
-      "fahren",
+      "fährt",
       "fahre",
-      "fährt"
+      "fahren"
      ],
-     "answer": 2,
+     "answer": 0,
      "hint": "One word for the group: singular.",
      "explanation": "Die Mehrheit fährt mit dem Bus.",
      "grammar": true
@@ -13776,11 +13730,11 @@
      "type": "choice",
      "prompt": "The line goes up. What does that mean?",
      "options": [
-      "The number falls.",
       "The number rises.",
+      "The number falls.",
       "The number stays the same."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Steigen.",
      "explanation": "A line that goes up shows a number that rises.",
      "grammar": false
@@ -13862,8 +13816,8 @@
        "en": "Forty per cent go by bus."
       },
       {
-       "de": "Nur 8 % kommen mit dem Auto.",
-       "en": "Only 8 % come by car."
+       "de": "Nur 10 % kommen mit dem Auto.",
+       "en": "Only 10 % come by car."
       }
      ],
      "forms": "die Prozente"
@@ -13961,7 +13915,7 @@
    ],
    "speaking": {
     "prompts": [
-     "Describe this chart in three sentences: Bus 40 %, Rad 35 %, zu Fuß 17 %, Auto 8 %.",
+     "Describe this chart in three sentences: Bus 40 %, Rad 35 %, zu Fuß 15 %, Auto 10 %.",
      "Say what a line chart shows if the number of cyclists goes up and the number of cars goes down.",
      "Ask a friend about a survey: Weißt du, wie viele Leute mit dem Rad fahren?"
     ],
@@ -14239,18 +14193,18 @@
       }
      ],
      "deeper": {
-      "text": "A Panne is a breakdown of a vehicle or a machine: Der Lieferwagen hat eine Panne. It is not an accident. For an accident you know der Unfall. With a Panne nobody is hurt; the car or the train just stops. A Zufall is something that happens by chance, with nobody planning it.",
+      "text": "A Panne is a breakdown of a vehicle or a machine: Das Auto hat eine Panne. It is not an accident. For an accident you know der Unfall. With a Panne nobody is hurt; the car or the train just stops. A Zufall is something that happens by chance, with nobody planning it.",
       "example": {
-       "de": "Der Lieferwagen hat eine Panne.",
-       "en": "The van has broken down.",
+       "de": "Das Auto hat eine Panne.",
+       "en": "The car has broken down.",
        "parts": [
         [
-         "Der",
+         "Das",
          "article"
         ],
         [
-         "Lieferwagen",
-         "subject"
+         "Auto",
+         "noun"
         ],
         [
          "hat",
@@ -14278,7 +14232,7 @@
        [
         "die Panne",
         "breakdown",
-        "Der Lieferwagen hat eine Panne."
+        "Das Auto hat eine Panne."
        ],
        [
         "das Abenteuer",
@@ -14856,12 +14810,12 @@
       ]
      },
      "steps": [
-      "Am Sonntag sind Leon und Herr Ali zum Markt gefahren.",
-      "Zuerst haben sie Brot gekauft.",
-      "Als sie am Lieferwagen waren, hatte das Auto eine Panne.",
-      "Herr Ali hat Anna angerufen.",
-      "Anna ist mit dem Bus gekommen.",
-      "Am Ende sind alle zusammen nach Hause gefahren."
+      "Am Samstag sind Mira, Ben und Anna zum Bahnhof gegangen.",
+      "Zuerst haben sie die Fahrkarten gekauft.",
+      "Als sie am Bahnhof waren, hatte der Zug Verspätung.",
+      "Ben hat Leon angerufen.",
+      "Leon ist mit dem Lieferwagen gekommen.",
+      "Am Ende sind alle zusammen zu Frau Weber gefahren."
      ]
     },
     {
@@ -15188,7 +15142,7 @@
        ]
       }
      },
-     "more": "To write your own story, take a journey you really made. Make the four parts one after the other. Then use the checklist: do you have an Anfang, a Problem, an Höhepunkt and a Ende? Do you have three time words? Did you report one question? Is everything in the Perfekt, except war and hatte? If all four boxes are ticked, your story is ready.",
+     "more": "To write your own story, take a journey you really made. Write the four parts one after the other, one or two sentences each. Then use the checklist: do you have the four parts Anfang, Problem, Höhepunkt and Ende? Do you have three time words? Did you report one question? Is everything in the Perfekt, except war and hatte? If all four boxes are ticked, your story is ready to read aloud.",
      "table": {
       "headers": [
        "Part",
@@ -15239,7 +15193,7 @@
      },
      "steps": [
       "Four parts: Anfang, Problem, Höhepunkt, Ende.",
-      "Three time words: zuerst, danach, plötzlich, schließlich, am Ende, zum Glück.",
+      "Three or more time words: zuerst, danach, plötzlich, schließlich, am Ende, zum Glück.",
       "One reported question: … hat gefragt, ob … / wann …",
       "The Perfekt for events; Präteritum only for war, hatte and modals."
      ]
@@ -15247,10 +15201,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:qTIc0KR4VP0"
+     "yt:qTIc0KR4VP0",
+     "yt:kFu5ZTL_jzA"
     ],
     "nicosWeg": [
-     "nw:b1-59"
+     "nw:b1-59",
+     "nw:a2-55"
     ],
     "practice": []
    },
@@ -15272,11 +15228,11 @@
      "type": "choice",
      "prompt": "What is der Anfang?",
      "options": [
-      "the beginning",
       "the high point",
+      "the beginning",
       "the end"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The first part of a story.",
      "explanation": "Der Anfang is the beginning.",
      "grammar": false
@@ -15383,11 +15339,11 @@
      "type": "choice",
      "prompt": "Danach ___ eine Durchsage gesagt, dass der Zug ausfällt.",
      "options": [
-      "ist",
       "hat",
+      "ist",
       "wird"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Sagen: Perfekt with haben.",
      "explanation": "Danach hat eine Durchsage gesagt, dass der Zug ausfällt.",
      "grammar": true
@@ -15449,10 +15405,10 @@
      "prompt": "Which is correct?",
      "options": [
       "Ben hat gefragt, wann kommt der Bus.",
-      "Ben hat gefragt, kommt wann der Bus.",
-      "Ben hat gefragt, wann der Bus kommt."
+      "Ben hat gefragt, wann der Bus kommt.",
+      "Ben hat gefragt, kommt wann der Bus."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Side sentence: verb last.",
      "explanation": "Ben hat gefragt, wann der Bus kommt.",
      "grammar": true
@@ -15472,10 +15428,10 @@
      "prompt": "Which part of a story is der Höhepunkt?",
      "options": [
       "the first sentence",
-      "the most exciting moment",
-      "the last sentence"
+      "the last sentence",
+      "the most exciting moment"
      ],
-     "answer": 1,
+     "answer": 2,
      "hint": "The top of the mountain.",
      "explanation": "Der Höhepunkt is the most exciting moment.",
      "grammar": false
@@ -15484,11 +15440,11 @@
      "type": "choice",
      "prompt": "Which sentence fits the end of a story?",
      "options": [
-      "Am Ende sind alle zusammen gefahren.",
       "Zuerst haben wir die Fahrkarten gekauft.",
+      "Am Ende sind alle zusammen gefahren.",
       "Als wir am Bahnhof waren …"
      ],
-     "answer": 0,
+     "answer": 1,
      "hint": "The last part.",
      "explanation": "Am Ende sind alle zusammen gefahren.",
      "grammar": false
@@ -15507,11 +15463,11 @@
      "type": "choice",
      "prompt": "Zum Glück means …",
      "options": [
-      "luckily",
+      "suddenly",
       "unfortunately",
-      "suddenly"
+      "luckily"
      ],
-     "answer": 0,
+     "answer": 2,
      "hint": "A happy word.",
      "explanation": "Zum Glück means luckily.",
      "grammar": false
@@ -15542,8 +15498,8 @@
      "en": "breakdown",
      "examples": [
       {
-       "de": "Der Lieferwagen hat eine Panne.",
-       "en": "The van has broken down."
+       "de": "Das Auto hat eine Panne.",
+       "en": "The car has broken down."
       },
       {
        "de": "Wir haben eine Panne gehabt.",
@@ -15749,7 +15705,7 @@
    "chapter": 7,
    "day": 1,
    "reading": {
-    "title": "Eine Nachricht aus der Netzwerk-WG",
+    "title": "Eine Nachricht aus der WG",
     "text": "Anna: Hallo Mira! Am Samstag ist der Geburtstag von Frau Weber. Weißt du, wann der Zug nach Salzburg fährt? Ich weiß auch nicht, welches Gleis es ist. Und weißt du, ob wir in Salzburg umsteigen müssen? Ich habe keine Ahnung, ob der Fahrscheinautomat Bargeld nimmt.\nMira: Hallo Anna! Ich habe auf dem Fahrplan gesehen, dass der Zug um 9.15 Uhr fährt. Er fährt von Gleis 4. Du fragst, ob wir in Salzburg umsteigen müssen? Ja, wir haben dort einen Anschluss, wenn der Zug pünktlich ist. Ich weiß nicht, ob er Verspätung hat. Ich frage am Schalter. Die Fahrkarte kostet 25 Euro. Der Fahrscheinautomat nimmt auch Bargeld. Ben und ich fahren zusammen. Kommst du auch?",
     "glossary": [
      {
@@ -15783,10 +15739,10 @@
       "prompt": "Whose birthday is on Saturday?",
       "options": [
        "Anna's",
-       "Mira's",
-       "Frau Weber's"
+       "Frau Weber's",
+       "Mira's"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look at Anna's first sentence.",
       "explanation": "Am Samstag ist der Geburtstag von Frau Weber.",
       "grammar": false
@@ -15795,11 +15751,11 @@
       "type": "choice",
       "prompt": "What does Anna want to know first?",
       "options": [
-       "how much the ticket costs",
        "when the train to Salzburg leaves",
+       "how much the ticket costs",
        "who comes to the party"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Weißt du, wann …",
       "explanation": "Weißt du, wann der Zug nach Salzburg fährt?",
       "grammar": false
@@ -15808,11 +15764,11 @@
       "type": "choice",
       "prompt": "Which platform does the train leave from?",
       "options": [
-       "Gleis 3",
        "Gleis 4",
+       "Gleis 3",
        "Gleis 5"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look at Mira's answer.",
       "explanation": "Er fährt von Gleis 4.",
       "grammar": false
@@ -15821,11 +15777,11 @@
       "type": "choice",
       "prompt": "At what time does the train leave?",
       "options": [
-       "at 9.45",
+       "at 9.15",
        "at 11.30",
-       "at 9.15"
+       "at 9.45"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Look for Uhr.",
       "explanation": "Der Zug fährt um 9.15 Uhr.",
       "grammar": false
@@ -15835,10 +15791,10 @@
       "prompt": "Do they have to change trains in Salzburg?",
       "options": [
        "no, the train goes straight",
-       "nobody knows",
-       "yes"
+       "yes",
+       "nobody knows"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Mira says Ja.",
       "explanation": "Ja, wir haben dort einen Anschluss.",
       "grammar": false
@@ -15848,10 +15804,10 @@
       "prompt": "When do they get the connection?",
       "options": [
        "always",
-       "if the train is on time",
-       "never"
+       "never",
+       "if the train is on time"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look for wenn.",
       "explanation": "Wir haben einen Anschluss, wenn der Zug pünktlich ist.",
       "grammar": false
@@ -15873,11 +15829,11 @@
       "type": "choice",
       "prompt": "Where does Mira ask about the delay?",
       "options": [
-       "at the desk",
        "at the ticket machine",
+       "at the desk",
        "on the phone"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for Ich frage am …",
       "explanation": "Ich frage am Schalter.",
       "grammar": false
@@ -15918,11 +15874,11 @@
       "type": "choice",
       "prompt": "What does Mira ask first?",
       "options": [
-       "which platform the train has",
+       "when the train arrives",
        "how much the ticket costs",
-       "when the train arrives"
+       "which platform the train has"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen to Mira's first sentence.",
       "explanation": "Können Sie mir sagen, welches Gleis der Zug nach Salzburg hat?",
       "grammar": false
@@ -15944,11 +15900,11 @@
       "type": "choice",
       "prompt": "Is the train late?",
       "options": [
-       "no, it is on time",
+       "yes, 15 minutes",
        "yes, an hour",
-       "yes, 15 minutes"
+       "no, it is on time"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for verspätet sich.",
       "explanation": "Er verspätet sich um 15 Minuten.",
       "grammar": false
@@ -15958,10 +15914,10 @@
       "prompt": "What does Mira not know?",
       "options": [
        "where the station is",
-       "which platform it is",
-       "whether they get the connection"
+       "whether they get the connection",
+       "which platform it is"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for Ich weiß nicht, ob …",
       "explanation": "Dann weiß ich nicht, ob wir den Anschluss in Salzburg haben.",
       "grammar": false
@@ -15970,11 +15926,11 @@
       "type": "choice",
       "prompt": "When does the connection leave?",
       "options": [
-       "at 11.30",
+       "at 12.00",
        "at 9.15",
-       "at 12.00"
+       "at 11.30"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for Uhr.",
       "explanation": "Der Anschluss fährt um 11.30 Uhr.",
       "grammar": false
@@ -15983,11 +15939,11 @@
       "type": "choice",
       "prompt": "What does the woman say about the time?",
       "options": [
-       "there is very little time",
        "there is a lot of time",
+       "there is very little time",
        "the train is gone"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for viel Zeit.",
       "explanation": "Sie haben viel Zeit.",
       "grammar": false
@@ -16009,11 +15965,11 @@
       "type": "choice",
       "prompt": "What does Mira need for the train?",
       "options": [
-       "a Fahrkarte",
        "another Monatskarte",
+       "a Fahrkarte",
        "a Zuschlag"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen for Sie brauchen …",
       "explanation": "Sie brauchen eine Fahrkarte.",
       "grammar": false
@@ -16022,11 +15978,11 @@
       "type": "choice",
       "prompt": "How much is the Fahrkarte to Salzburg?",
       "options": [
-       "15 euros",
+       "25 euros",
        "52 euros",
-       "25 euros"
+       "15 euros"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for Euro.",
       "explanation": "Sie kostet 25 Euro.",
       "grammar": false
@@ -16270,10 +16226,10 @@
       "prompt": "Where does Ben's cycle path begin?",
       "options": [
        "at the station",
-       "in front of the bakery",
-       "in the yard behind the house"
+       "in the yard behind the house",
+       "in front of the bakery"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for Hof.",
       "explanation": "Mein Radweg beginnt im Hof hinter unserem Haus."
      },
@@ -16281,11 +16237,11 @@
       "type": "choice",
       "prompt": "What is the problem with the bike?",
       "options": [
-       "It is expensive.",
        "It is not comfortable in the rain.",
+       "It is expensive.",
        "It is slow."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for andererseits.",
       "explanation": "Andererseits ist es bei Regen nicht bequem."
      },
@@ -16293,11 +16249,11 @@
       "type": "choice",
       "prompt": "What does Ben never have?",
       "options": [
-       "rain",
        "traffic jams",
+       "rain",
        "a ticket"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for nie.",
       "explanation": "Ich stehe nie im Stau."
      },
@@ -16306,10 +16262,10 @@
       "prompt": "What does Mira have?",
       "options": [
        "a bike",
-       "a car",
-       "a monthly pass"
+       "a monthly pass",
+       "a car"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for Monatskarte.",
       "explanation": "Mira hat eine Monatskarte."
      },
@@ -16317,11 +16273,11 @@
       "type": "choice",
       "prompt": "Where is Mira's stop?",
       "options": [
-       "to the left of the station",
        "opposite the bakery",
+       "to the left of the station",
        "in the middle of the square"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for links vom.",
       "explanation": "Die Haltestelle links vom Bahnhof."
      },
@@ -16408,10 +16364,10 @@
       "prompt": "Who are they meeting?",
       "options": [
        "Mira",
-       "Anna",
-       "Frau Weber"
+       "Frau Weber",
+       "Anna"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Listen for treffen.",
       "explanation": "Wir treffen Anna im Café."
      },
@@ -16431,11 +16387,11 @@
       "type": "choice",
       "prompt": "Where is the stop?",
       "options": [
-       "in the middle of the square",
        "at the edge of the square",
+       "in the middle of the square",
        "behind the café"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for Rand.",
       "explanation": "Die Haltestelle liegt am Rand vom Platz."
      },
@@ -16443,11 +16399,11 @@
       "type": "choice",
       "prompt": "Where is the café?",
       "options": [
-       "to the left of the station",
        "opposite the stop, to the right of the chemist",
+       "to the left of the station",
        "next to the university"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for gegenüber.",
       "explanation": "Gegenüber von der Haltestelle, rechts von der Apotheke."
      },
@@ -16455,11 +16411,11 @@
       "type": "choice",
       "prompt": "Where do they sit today?",
       "options": [
-       "inside",
+       "upstairs",
        "outside",
-       "upstairs"
+       "inside"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for drinnen.",
       "explanation": "Heute ist es kalt, also sitzen wir drinnen."
      },
@@ -16467,11 +16423,11 @@
       "type": "choice",
       "prompt": "Where is Anna waiting?",
       "options": [
-       "at the back, by the window",
+       "outside",
        "at the front, by the door",
-       "outside"
+       "at the back, by the window"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for hinten.",
       "explanation": "Anna wartet hinten, am Fenster."
      },
@@ -16480,10 +16436,10 @@
       "prompt": "How long is the ride?",
       "options": [
        "thirty minutes",
-       "one hour",
-       "ten minutes"
+       "ten minutes",
+       "one hour"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for Minuten.",
       "explanation": "Nur zehn Minuten."
      },
@@ -16492,10 +16448,10 @@
       "prompt": "Why do they not take the bike?",
       "options": [
        "Leon has no bike.",
-       "It is too far.",
-       "It is raining."
+       "It is raining.",
+       "It is too far."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for regnet.",
       "explanation": "Aber heute regnet es."
      }
@@ -16535,31 +16491,32 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: Leon geht ___ Haltestelle. (zu + der)",
+      "prompt": "Complete: Leon geht ___ Haltestelle. (to the stop)",
       "answers": [
        "zur"
       ],
-      "hint": "zu + der = zur.",
+      "hint": "You walk to a place with an article: zu and the dative.",
       "explanation": "Leon geht zur Haltestelle.",
       "grammar": true
      },
      {
       "type": "type",
-      "prompt": "Complete: Die Bank ist links ___ Bahnhof. (von + dem)",
+      "prompt": "Complete: Die Bank ist links ___ Bahnhof. (to the left of the station)",
       "answers": [
-       "vom"
+       "vom",
+       "von dem"
       ],
-      "hint": "links von + dative.",
+      "hint": "Links is followed by von and the dative.",
       "explanation": "Die Bank ist links vom Bahnhof.",
       "grammar": true
      },
      {
       "type": "type",
-      "prompt": "Complete: Das Café ist gegenüber ___ Apotheke. (von + der)",
+      "prompt": "Complete: Das Café ist gegenüber ___ Apotheke. (opposite the chemist)",
       "answers": [
        "von der"
       ],
-      "hint": "gegenüber von + dative.",
+      "hint": "Gegenüber is followed by von and the dative.",
       "explanation": "Das Café ist gegenüber von der Apotheke.",
       "grammar": true
      },
@@ -16655,7 +16612,7 @@
    "day": 3,
    "reading": {
     "title": "Wie kommt die WG zur Arbeit?",
-    "text": "Wie kommt die WG zur Arbeit?\n\nBen hat eine kleine Umfrage gemacht. Er hat 20 Leute gefragt, wie sie zur Arbeit oder zur Uni kommen. Die Zahlen sind ein Beispiel: Sie sind erfunden, nicht echt. Das Diagramm zeigt, wie die Leute fahren. Die meisten nehmen den Bus: 40 %. Mit dem Rad fahren 35 %. Zu Fuß gehen 15 %. Nur 10 % kommen mit dem Auto, das ist weniger als ein Viertel. Vor einem Jahr waren es nur 20 % mit dem Rad. Die Zahl der Radfahrer ist gestiegen.\n\nIn der WG fährt Mira mit dem Bus, Ben fährt mit dem Rad und Anna nimmt die Straßenbahn. Leon fährt mit dem Lieferwagen, denn er arbeitet im Restaurant „Zum Löwen“. Herr Ali sagt: „Ich bin dafür, dass es ein Parkhaus am Bahnhof gibt, denn mein Lieferwagen braucht einen Platz.“ Ben findet das nicht so wichtig. Er ist der Meinung, dass das Rad besser ist, weil es weniger Lärm macht.",
+    "text": "Wie kommt die WG zur Arbeit?\n\nBen hat eine kleine Umfrage gemacht. Er hat 20 Leute gefragt, wie sie zur Arbeit oder zur Uni kommen. Die Zahlen sind ein Beispiel: Sie sind erfunden, nicht echt. Das Diagramm zeigt, wie die Leute fahren. Die meisten nehmen den Bus: 40 %. Mit dem Rad fahren 35 %. Zu Fuß gehen 15 %. Nur 10 % kommen mit dem Auto, das ist weniger als ein Viertel. Vor einem Jahr waren es nur 20 % mit dem Rad. Die Zahl der Radfahrer ist gestiegen.\n\nIn der WG fährt Mira mit dem Bus, Ben fährt mit dem Rad und Anna nimmt die Straßenbahn. Leon geht meistens zu Fuß. Manchmal fährt er mit dem Lieferwagen, denn er muss für das Restaurant „Zum Löwen“ einkaufen. Herr Ali sagt: „Ich bin dafür, dass es ein Parkhaus am Bahnhof gibt, denn mein Lieferwagen braucht einen Platz.“ Ben findet das nicht so wichtig. Er ist der Meinung, dass das Rad besser ist, weil es weniger Lärm macht.",
     "glossary": [
      {
       "de": "erfunden",
@@ -16683,11 +16640,11 @@
       "type": "choice",
       "prompt": "Who made the survey?",
       "options": [
-       "Mira",
+       "Ben",
        "Herr Ali",
-       "Ben"
+       "Mira"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "First sentence.",
       "explanation": "Ben hat eine kleine Umfrage gemacht."
      },
@@ -16695,11 +16652,11 @@
       "type": "choice",
       "prompt": "How many people did he ask?",
       "options": [
-       "10",
        "20",
+       "10",
        "40"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for gefragt.",
       "explanation": "Er hat 20 Leute gefragt."
      },
@@ -16707,11 +16664,11 @@
       "type": "choice",
       "prompt": "What does the text say about the numbers?",
       "options": [
-       "They are real.",
        "They are invented.",
+       "They are real.",
        "They are from a study."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Beispiel.",
       "explanation": "Sie sind erfunden, nicht echt."
      },
@@ -16720,10 +16677,10 @@
       "prompt": "How do most people travel?",
       "options": [
        "by bike",
-       "by bus",
-       "on foot"
+       "on foot",
+       "by bus"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Die meisten …",
       "explanation": "Die meisten nehmen den Bus: 40 %."
      },
@@ -16755,11 +16712,11 @@
       "type": "choice",
       "prompt": "What changed with cycling?",
       "options": [
-       "The number has risen.",
+       "Nothing changed.",
        "The number has fallen.",
-       "Nothing changed."
+       "The number has risen."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Gestiegen or gesunken?",
       "explanation": "Die Zahl der Radfahrer ist gestiegen."
      },
@@ -16768,162 +16725,172 @@
       "prompt": "Who takes the tram?",
       "options": [
        "Mira",
-       "Leon",
-       "Anna"
+       "Anna",
+       "Leon"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look at the WG.",
       "explanation": "Anna nimmt die Straßenbahn."
      },
      {
       "type": "choice",
-      "prompt": "Why does Leon drive a van?",
+      "prompt": "Why does Leon sometimes drive a van?",
       "options": [
        "He has no bike.",
-       "He works at the restaurant.",
+       "He has to shop for the restaurant.",
        "He lives far away."
       ],
       "answer": 1,
-      "hint": "Denn er arbeitet …",
-      "explanation": "Er arbeitet im Restaurant „Zum Löwen“."
+      "hint": "Denn er muss …",
+      "explanation": "Er muss für das Restaurant „Zum Löwen“ einkaufen."
      },
      {
       "type": "choice",
       "prompt": "What does Herr Ali want?",
       "options": [
        "a speed limit",
-       "more buses",
-       "a car park at the station"
+       "a car park at the station",
+       "more buses"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Ich bin dafür, dass …",
       "explanation": "Er ist dafür, dass es ein Parkhaus am Bahnhof gibt."
      }
     ]
    },
    "listening": {
-    "title": "Eine Fahrt mit Panne",
-    "script": "Leon: Hallo Anna! Wie war deine Fahrt zu Frau Weber am Sonntag?\nAnna: Das war ein Abenteuer! Zuerst bin ich zum Bahnhof gegangen. Ich habe eine Fahrkarte gekauft und auf dem Gleis gewartet.\nLeon: Und dann? Hatte der Zug Verspätung?\nAnna: Ja, 30 Minuten. Als ich am Bahnhof war, hatte der Zug schon Verspätung. Danach hat eine Durchsage gesagt, dass der Zug eine Störung hat.\nLeon: Oh nein! Und der Anschluss in Salzburg?\nAnna: Den habe ich nicht mehr bekommen. Ich habe die Frau am Schalter gefragt, ob ein Bus nach Salzburg fährt.\nLeon: Und was hat sie gesagt?\nAnna: Sie hat gesagt, dass in einer Stunde ein Bus fährt. Also bin ich zunächst in ein Café gegangen. Plötzlich hat Mira angerufen.\nLeon: Und was wollte Mira?\nAnna: Sie hat gefragt, wo ich bin. Frau Weber ist mit dem Auto zum Bahnhof gekommen. Das war eine Überraschung!\nLeon: Zum Glück! Und am Ende?\nAnna: Am Ende sind wir zusammen zu Frau Weber nach Hause gefahren.",
+    "title": "Die Fahrt zu Frau Weber",
+    "script": "Herr Ali: Hallo Anna! Wie war eure Fahrt zu Frau Weber am Samstag?\nAnna: Das war ein Abenteuer! Zuerst sind Mira, Ben und ich zum Bahnhof gegangen. Wir haben die Fahrkarten gekauft und auf dem Gleis gewartet.\nHerr Ali: Und dann? Hatte der Zug Verspätung?\nAnna: Ja, 40 Minuten. Als wir am Bahnhof waren, hatte der Zug schon Verspätung. Danach hat eine Durchsage gesagt, dass der Zug ausfällt.\nHerr Ali: Oh nein! Und was habt ihr gemacht?\nAnna: Ich habe die Frau am Schalter gefragt, ob heute noch ein Zug fährt. Sie hat gesagt, dass erst in zwei Stunden wieder ein Zug fährt.\nHerr Ali: Und wie seid ihr dann zu Frau Weber gekommen?\nAnna: Plötzlich hat Ben Leon angerufen. Leon ist mit Ihrem Lieferwagen zum Bahnhof gekommen. Und Frau Weber war auch am Bahnhof! Das war ein Zufall.\nHerr Ali: Zum Glück! Und am Ende?\nAnna: Am Ende sind wir zusammen zu Frau Weber gefahren. Zum Glück hatte der Lieferwagen keine Panne.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Where did Anna go first?",
+      "prompt": "Where did the three friends go first?",
       "options": [
-       "to a café",
+       "to the station",
        "to Frau Weber",
-       "to the station"
+       "to a café"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Zuerst …",
-      "explanation": "Zuerst bin ich zum Bahnhof gegangen."
+      "explanation": "Zuerst sind Mira, Ben und ich zum Bahnhof gegangen.",
+      "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "What did she do before she waited?",
+      "prompt": "What did they do before they waited?",
       "options": [
-       "She phoned Mira.",
-       "She bought a ticket.",
-       "She asked a woman."
+       "They asked a woman.",
+       "They phoned Leon.",
+       "They bought the tickets."
       ],
-      "answer": 1,
-      "hint": "Ich habe eine … gekauft.",
-      "explanation": "Ich habe eine Fahrkarte gekauft."
+      "answer": 2,
+      "hint": "Wir haben die … gekauft.",
+      "explanation": "Wir haben die Fahrkarten gekauft.",
+      "grammar": false
      },
      {
       "type": "choice",
       "prompt": "How late was the train?",
       "options": [
-       "30 minutes",
        "10 minutes",
-       "one hour"
+       "one hour",
+       "40 minutes"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Ja, … Minuten.",
-      "explanation": "Ja, 30 Minuten."
+      "explanation": "Ja, 40 Minuten.",
+      "grammar": false
      },
      {
       "type": "choice",
       "prompt": "What did the announcement say?",
       "options": [
-       "The train is early.",
-       "The train has a fault.",
-       "The platform has changed."
+       "The train is cancelled.",
+       "The platform has changed.",
+       "The train is early."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Eine Durchsage hat gesagt …",
-      "explanation": "Dass der Zug eine Störung hat."
+      "explanation": "Dass der Zug ausfällt.",
+      "grammar": false
      },
      {
       "type": "choice",
       "prompt": "What did Anna ask the woman at the counter?",
       "options": [
        "where the café is",
-       "when the next train arrives",
-       "whether a bus goes to Salzburg"
+       "whether a train still goes today",
+       "when the next bus arrives"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Ich habe gefragt, ob …",
-      "explanation": "Ob ein Bus nach Salzburg fährt."
+      "explanation": "Ob heute noch ein Zug fährt.",
+      "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "When does the bus go?",
+      "prompt": "When does the next train go?",
       "options": [
        "in ten minutes",
-       "in an hour",
+       "in two hours",
        "tomorrow"
       ],
       "answer": 1,
-      "hint": "In einer …",
-      "explanation": "In einer Stunde fährt ein Bus."
+      "hint": "In zwei …",
+      "explanation": "Erst in zwei Stunden fährt wieder ein Zug.",
+      "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "Where did Anna go while she waited?",
-      "options": [
-       "to the Gleis",
-       "home",
-       "to a café"
-      ],
-      "answer": 2,
-      "hint": "Zunächst …",
-      "explanation": "Sie ist in ein Café gegangen."
-     },
-     {
-      "type": "choice",
-      "prompt": "Who phoned Anna?",
+      "prompt": "Who did Ben phone?",
       "options": [
        "Mira",
-       "Ben",
-       "Leon"
+       "Leon",
+       "Frau Weber"
       ],
-      "answer": 0,
-      "hint": "Plötzlich hat … angerufen.",
-      "explanation": "Plötzlich hat Mira angerufen."
+      "answer": 1,
+      "hint": "Plötzlich hat Ben … angerufen.",
+      "explanation": "Plötzlich hat Ben Leon angerufen.",
+      "grammar": false
      },
      {
       "type": "choice",
-      "prompt": "What was the surprise?",
+      "prompt": "How did Leon come to the station?",
       "options": [
-       "Frau Weber came to the station by car.",
-       "The train came.",
-       "Leon came with the van."
+       "in Herr Ali's van",
+       "on foot",
+       "by bus"
       ],
       "answer": 0,
-      "hint": "Das war eine Überraschung!",
-      "explanation": "Frau Weber ist mit dem Auto zum Bahnhof gekommen."
+      "hint": "Leon ist mit … gekommen.",
+      "explanation": "Leon ist mit Ihrem Lieferwagen zum Bahnhof gekommen.",
+      "grammar": false
+     },
+     {
+      "type": "choice",
+      "prompt": "What was the coincidence?",
+      "options": [
+       "Frau Weber was at the station too.",
+       "The train came.",
+       "Leon had time."
+      ],
+      "answer": 0,
+      "hint": "Das war ein Zufall.",
+      "explanation": "Frau Weber war auch am Bahnhof.",
+      "grammar": false
      },
      {
       "type": "choice",
       "prompt": "How does the story end?",
       "options": [
-       "They drove to Frau Weber together.",
        "Anna went home alone.",
-       "Anna took the bus."
+       "They took the train.",
+       "They drove to Frau Weber together."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Am Ende …",
-      "explanation": "Am Ende sind wir zusammen zu Frau Weber nach Hause gefahren."
+      "explanation": "Am Ende sind wir zusammen zu Frau Weber gefahren.",
+      "grammar": false
      }
     ]
    },
