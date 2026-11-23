@@ -6,7 +6,7 @@
   const K=window.KLEIN_CORE;
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const pending={};          // build questions: token indices tapped but not yet checked
-  const moreShown={};        // teaching cards: 'Explain it more simply' text open (not saved)
+  const moreShown={};        // teaching cards: 'Explain it more simply' open unless set false (open by default, not saved)
   const stepsShown={};       // teaching cards: how many lines of `steps` are revealed (not saved; starts at 1)
   let textCollapsed=false;   // reading text / listening panel folded away
   let keyHandler=null;       // one document keydown handler, replaced on every mount
@@ -230,8 +230,8 @@
     const shown=Math.min(steps.length,stepsShown[stepKey]||1);
     const visual=(parts.length?partsHtml(parts):'')+(steps.length?stepsHtml(steps,shown):'')+tableHtml(c.table);
     const exParts=(c.examples||[]).flatMap(x=>Array.isArray(x.parts)?x.parts:[]);
-    const more=c.more?`<div class="lp-more"><button type="button" class="lp-btn lp-ghost lp-morebtn" data-act="more" aria-expanded="${!!moreShown[stepKey]}" aria-controls="lp-more-t">Explain it more simply</button>
-      <p id="lp-more-t" class="lp-moretext"${moreShown[stepKey]?'':' hidden'}>${esc(c.more)}</p></div>`:'';
+    const more=c.more?`<div class="lp-more"><button type="button" class="lp-btn lp-ghost lp-morebtn" data-act="more" aria-expanded="${moreShown[stepKey]!==false}" aria-controls="lp-more-t">Explain it more simply</button>
+      <p id="lp-more-t" class="lp-moretext"${moreShown[stepKey]!==false?'':' hidden'}>${esc(c.more)}</p></div>`:'';
     const lead=c.lead&&!c.intro?`<div class="lp-lead"><span class="lp-label">What this card teaches</span><p>${esc(c.lead)}</p></div>`:'';
     return `${lead}${c.body?`<p class="lp-body">${esc(c.body)}</p>`:''}${more}
       ${visual?`<div class="lp-visual">${visual}</div>`:''}
@@ -308,7 +308,7 @@
       onPause:()=>{if(!ready())return false;const s=api.getState(),r=K.section(s,id,'check',lesson.check);api.onDone({kind:'lesson',id,right:r.right,total:r.total,redo:redo()});return true;},
       act:(act,b,ctx)=>{
         if(act==='step'){const sk=`${id}#${screens[ctx.index()].card}`;stepsShown[sk]=(stepsShown[sk]||1)+1;ctx.redraw();el.querySelector('.lp-steps li:last-child')?.scrollIntoView?.({block:'nearest'});(el.querySelector('[data-act="step"]')||el.querySelector('.lp-next:not([disabled])'))?.focus();}
-        if(act==='more'){const sk=`${id}#${screens[ctx.index()].card}`,o=!moreShown[sk];moreShown[sk]=o;b.setAttribute('aria-expanded',String(o));el.querySelector('#lp-more-t').hidden=!o;}
+        if(act==='more'){const sk=`${id}#${screens[ctx.index()].card}`,o=moreShown[sk]===false;moreShown[sk]=o;b.setAttribute('aria-expanded',String(o));el.querySelector('#lp-more-t').hidden=!o;}
         if(act==='said'){b.setAttribute('aria-pressed','true');b.textContent='✓ Well done';}
         if(act==='first-open')ctx.go(firstOpen(screens,api.getState()));
         if(act==='redo'){if(K.startRedo(api.getState(),id,lessonKeys(lesson))){Object.keys(pending).forEach(k=>delete pending[k]);api.save();ctx.go(0);}}
