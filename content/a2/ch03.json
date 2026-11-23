@@ -15629,11 +15629,11 @@
       "type": "choice",
       "prompt": "What kind of film is it?",
       "options": [
-       "A crime film",
        "A comedy",
-       "A cartoon"
+       "A cartoon",
+       "A crime film"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look at the second part of the text.",
       "explanation": "Der Film ist ein Krimi."
      },
@@ -15653,11 +15653,11 @@
       "type": "choice",
       "prompt": "What happens at the beginning?",
       "options": [
-       "A thief steals the dog.",
        "The actress finds the dog.",
-       "The actress buys a dog."
+       "The actress buys a dog.",
+       "A thief steals the dog."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for Am Anfang.",
       "explanation": "Am Anfang stiehlt ein Dieb den Hund."
      },
@@ -15677,11 +15677,11 @@
       "type": "choice",
       "prompt": "What does Mira know about the end?",
       "options": [
-       "It is funny.",
        "It is lovely.",
+       "It is funny.",
        "It is long."
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Ende.",
       "explanation": "Ich weiß, dass das Ende schön ist."
      },
@@ -15689,11 +15689,11 @@
       "type": "choice",
       "prompt": "What does Ben like more?",
       "options": [
-       "Action films",
        "Crime films",
+       "Action films",
        "Comedies"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Look for lieber.",
       "explanation": "Ich sehe lieber Actionfilme als Krimis."
      },
@@ -15701,11 +15701,11 @@
       "type": "choice",
       "prompt": "What does Ben bring?",
       "options": [
-       "The popcorn",
        "The tickets",
-       "The picnic"
+       "The picnic",
+       "The popcorn"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Look for mit.",
       "explanation": "Ich bringe das Popcorn mit."
      },
@@ -15714,10 +15714,10 @@
       "prompt": "What does Herr Ali think?",
       "options": [
        "The film is better than the book.",
-       "The book and the film are the same.",
-       "The book is better than the film."
+       "The book is better than the film.",
+       "The book and the film are the same."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for besser als.",
       "explanation": "Ich finde, dass das Buch besser als der Film ist."
      }
@@ -15731,11 +15731,11 @@
       "type": "choice",
       "prompt": "What did Anna see?",
       "options": [
-       "A comedy",
        "A crime film",
+       "A comedy",
        "A cartoon"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen to Anna's first answer.",
       "explanation": "Ich habe gestern Abend einen Krimi gesehen."
      },
@@ -15743,11 +15743,11 @@
       "type": "choice",
       "prompt": "When did she see it?",
       "options": [
-       "Yesterday evening",
        "Saturday",
-       "This morning"
+       "This morning",
+       "Yesterday evening"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for gestern.",
       "explanation": "Gestern Abend."
      },
@@ -15755,11 +15755,11 @@
       "type": "choice",
       "prompt": "What does Anna think about the film?",
       "options": [
+       "It was very exciting.",
        "It was boring.",
-       "It was too long.",
-       "It was very exciting."
+       "It was too long."
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for spannend.",
       "explanation": "Ich finde, dass er sehr spannend war."
      },
@@ -15768,10 +15768,10 @@
       "prompt": "Who is the film about?",
       "options": [
        "A director and a cat",
-       "Two friends",
-       "An actress and a dog"
+       "An actress and a dog",
+       "Two friends"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for handelt von.",
       "explanation": "Der Film handelt von einer Schauspielerin und einem Hund."
      },
@@ -15779,11 +15779,11 @@
       "type": "choice",
       "prompt": "Where does the actress find the dog at the end?",
       "options": [
-       "In the park",
        "At home",
-       "In the cinema"
+       "In the cinema",
+       "In the park"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for am Ende.",
       "explanation": "Am Ende findet sie ihn im Park."
      },
@@ -15791,11 +15791,11 @@
       "type": "choice",
       "prompt": "What does the actress play?",
       "options": [
-       "A small role",
        "The leading role",
+       "A small role",
        "The director"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for Hauptrolle.",
       "explanation": "Sie spielt die Hauptrolle."
      },
@@ -15804,10 +15804,10 @@
       "prompt": "What does Herr Ali think?",
       "options": [
        "The film is better than the book.",
-       "Both are boring.",
-       "The book is better than the film."
+       "The book is better than the film.",
+       "Both are boring."
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for besser als.",
       "explanation": "Ich glaube, dass das Buch besser als der Film ist."
      },
@@ -15815,11 +15815,11 @@
       "type": "choice",
       "prompt": "What does Anna think about the film and the book?",
       "options": [
-       "The film was funnier.",
        "The book was funnier.",
-       "They are the same."
+       "They are the same.",
+       "The film was funnier."
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen for witziger.",
       "explanation": "Ich finde, dass der Film witziger als das Buch war."
      },
@@ -15827,11 +15827,11 @@
       "type": "choice",
       "prompt": "How many stars does the film have?",
       "options": [
+       "Four out of five",
        "Five out of five",
-       "Three out of five",
-       "Four out of five"
+       "Three out of five"
       ],
-      "answer": 2,
+      "answer": 0,
       "hint": "Listen for von fünf.",
       "explanation": "Der Film hat vier von fünf Sternen."
      },
@@ -15839,11 +15839,11 @@
       "type": "choice",
       "prompt": "What does Anna bring on Saturday?",
       "options": [
-       "The drinks",
        "The tickets",
-       "The book"
+       "The book",
+       "The drinks"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Listen to Anna's last line.",
       "explanation": "Ich bringe die Getränke mit."
      }
@@ -15856,10 +15856,10 @@
       "prompt": "Which word fits? Der Film handelt ___ einem Hund.",
       "options": [
        "um",
-       "mit",
-       "von"
+       "von",
+       "mit"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "It always goes with handeln.",
       "explanation": "Der Film handelt von einem Hund.",
       "grammar": true
@@ -15936,11 +15936,11 @@
       "type": "choice",
       "prompt": "Which word fits? Ich sehe lieber Krimis ___ Liebesfilme.",
       "options": [
-       "als",
        "wie",
-       "dass"
+       "dass",
+       "als"
       ],
-      "answer": 0,
+      "answer": 2,
       "hint": "Lieber is a comparison.",
       "explanation": "Ich sehe lieber Krimis als Liebesfilme.",
       "grammar": true

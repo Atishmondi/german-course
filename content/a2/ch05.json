@@ -853,7 +853,7 @@
       }
      ],
      "deeper": {
-      "text": "Why do they change? Teure and dunkle are easier to say than teuere and dunkele: two weak e sounds in a row are shortened. Hoch drops the c because hohe is how it sounds. After the ending is added you hear the same word, just smoother. Two adjectives each need the ending: der alte historische Brunnen.",
+      "text": "Why do they change? Teure and dunkle are easier to say than teuere and dunkele: two weak e sounds in a row are shortened. Hoch changes ch to h because hohe is easier to say. After the ending is added you hear the same word, just smoother. Two adjectives each need the ending: der alte historische Brunnen.",
       "example": {
        "de": "Der alte historische Brunnen ist berühmt.",
        "en": "The old historic fountain is famous.",
@@ -1265,7 +1265,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: The lively town centre pleases me.",
+     "prompt": "Build: I like the lively town centre.",
      "tokens": [
       "Die",
       "mir.",
@@ -2222,7 +2222,7 @@
       }
      ],
      "deeper": {
-      "text": "In everyday German many short phrases with these prepositions have no article at all: für Kinder, ohne Karte, ohne Geld. Then no der-word carries the signal, and the adjective works differently; that table comes in chapter 6. For now use the prepositions with der, die, das, and the rule from this lesson works every time: für den teuren Kaffee, ohne die neue Geheimzahl.",
+      "text": "In everyday German many short phrases with für and ohne have no article at all: für Kinder, ohne Karte, ohne Geld. Then no der-word carries the signal, and the adjective works differently; you meet that table later (Grammar page: Adjective endings with no article). For now use the prepositions with der, die, das, and the rule from this lesson works every time: für den teuren Kaffee, ohne die neue Geheimzahl.",
       "example": {
        "de": "Ohne Karte hebt Ben kein Geld ab.",
        "en": "Without a card Ben does not withdraw any money.",
@@ -3123,7 +3123,7 @@
     {
      "intro": true,
      "title": "Before we start: the easy rule for the rest",
-     "body": "Ben needs a new ID card, so he goes to the Bürgeramt, the town office for documents. Counters, forms and queue numbers wait for him. Today you finish the adjective table. The good news: after der, die, das the rest of the table is almost all one ending, -en, and you only have to remember five spots with -e.",
+     "body": "Anna needs a new ID card, so she goes to the Bürgeramt, the town office, with Ben. Counters, forms and queue numbers wait for them. Today you finish the adjective table. The good news: after der, die, das the rest of the table is almost all one ending, -en, and you only have to remember five spots with -e.",
      "steps": [
       "You already know: der alte Brunnen (-e), den alten Schein (masculine accusative -en) and mit dem Formular (dative, A1).",
       "New today: in the dative and in the plural the adjective ends in -en, and the whole table fits in one rule.",
@@ -3277,8 +3277,8 @@
        ]
       },
       {
-       "de": "Die Gebühr ist zehn Euro.",
-       "en": "The fee is ten euros.",
+       "de": "Die Gebühr ist 37 Euro.",
+       "en": "The fee is 37 euros.",
        "parts": [
         [
          "Die",
@@ -3293,7 +3293,7 @@
          "verb"
         ],
         [
-         "zehn",
+         "37",
          "other"
         ],
         [
@@ -3957,11 +3957,11 @@
        ]
       },
       {
-       "de": "Ben hat den neuen Personalausweis beantragt.",
-       "en": "Ben has applied for the new ID card.",
+       "de": "Anna hat den neuen Personalausweis beantragt.",
+       "en": "Anna has applied for the new ID card.",
        "parts": [
         [
-         "Ben",
+         "Anna",
          "subject"
         ],
         [
@@ -4058,7 +4058,7 @@
        ]
       }
      },
-     "more": "Think of the two verbs as two kinds of zip. Ausfüllen has an open zip: aus comes off and goes to the end of the sentence, Ben füllt das Formular aus. Beantragen has a closed zip: be- is sewn on and never moves, Ben beantragt den Ausweis. English fill in works a bit like the open zip: fill the form in. In the Perfekt only the open zip lets ge- slip inside: ausgefüllt, but beantragt.",
+     "more": "Think of the two verbs as two kinds of zip. Ausfüllen has an open zip: aus comes off and goes to the end of the sentence, Ben füllt das Formular aus. Beantragen has a closed zip: be- is sewn on and never moves, Anna beantragt den Ausweis. English fill in works a bit like the open zip: fill the form in. In the Perfekt only the open zip lets ge- slip inside: ausgefüllt, but beantragt.",
      "table": {
       "headers": [
        "Infinitive",
@@ -4228,7 +4228,7 @@
       ],
       "rows": [
        [
-        "Ben",
+        "Anna",
         "Guten Tag. Ich möchte den neuen Personalausweis beantragen."
        ],
        [
@@ -4236,7 +4236,7 @@
         "Sie sind am falschen Schalter."
        ],
        [
-        "Ben",
+        "Anna",
         "Wo ist der richtige Schalter?"
        ],
        [
@@ -4244,7 +4244,7 @@
         "Gehen Sie bitte zum nächsten Schalter."
        ],
        [
-        "Ben",
+        "Anna",
         "Danke schön!"
        ]
       ]
@@ -4253,7 +4253,7 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:r8HiWsBe5ko",
+     "yt:PdtS-1Lcd-c",
      "yt:XmFh5v6s2y4"
     ],
     "nicosWeg": [
@@ -4423,12 +4423,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ben beantragt den neu___ Personalausweis.",
+     "prompt": "Complete: Anna beantragt den neu___ Personalausweis.",
      "answers": [
       "en"
      ],
      "hint": "Masculine accusative: -en.",
-     "explanation": "Ben beantragt den neuen Personalausweis.",
+     "explanation": "Anna beantragt den neuen Personalausweis.",
      "grammar": true
     },
     {
@@ -4469,9 +4469,9 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Ben has applied for the new ID card.",
+     "prompt": "Build: Anna has applied for the new ID card.",
      "tokens": [
-      "Ben",
+      "Anna",
       "den",
       "hat",
       "neuen",
@@ -4479,7 +4479,7 @@
       "Personalausweis"
      ],
      "answer": [
-      "Ben",
+      "Anna",
       "hat",
       "den",
       "neuen",
@@ -4487,7 +4487,7 @@
       "beantragt."
      ],
      "hint": "Hat, the group, the participle at the end.",
-     "explanation": "Ben + hat + den + neuen + Personalausweis + beantragt.",
+     "explanation": "Anna + hat + den + neuen + Personalausweis + beantragt.",
      "grammar": true
     },
     {
@@ -4648,8 +4648,8 @@
      "en": "fee",
      "examples": [
       {
-       "de": "Die Gebühr ist zehn Euro.",
-       "en": "The fee is ten euros."
+       "de": "Die Gebühr ist 37 Euro.",
+       "en": "The fee is 37 euros."
       },
       {
        "de": "Ich bezahle die Gebühr bar.",
@@ -4678,8 +4678,8 @@
      "en": "to apply for",
      "examples": [
       {
-       "de": "Ben beantragt einen Personalausweis.",
-       "en": "Ben applies for an ID card."
+       "de": "Anna beantragt einen Personalausweis.",
+       "en": "Anna applies for an ID card."
       },
       {
        "de": "Wir haben den Personalausweis beantragt.",
@@ -4698,7 +4698,7 @@
     "examples": [
      "Ich ziehe eine Wartenummer und warte am richtigen Schalter.",
      "Ich fülle das lange Formular aus und unterschreibe.",
-     "Ich beantrage den neuen Personalausweis, und die Gebühr ist zehn Euro."
+     "Ich beantrage den neuen Personalausweis, und die Gebühr ist 37 Euro."
     ]
    },
    "retrieval": [
@@ -5361,7 +5361,7 @@
       }
      ],
      "deeper": {
-      "text": "A separable verb like anrufen stays in one piece at the end of the question, because it is an infinitive: Könntest du Leon anrufen? And with two objects, the person comes first, the thing second: mir die Bankkarte, not die Bankkarte mir. The person (dative) usually comes before the thing (accusative), as you know from A2 chapter 1.",
+      "text": "A separable verb like anrufen stays in one piece at the end of the question, because it is an infinitive: Könntest du Leon anrufen? And with two objects, the person comes first, the thing second: mir die Bankkarte, not die Bankkarte mir. The person (dative) usually comes before the thing (accusative); chapter 9 shows this order in detail.",
       "example": {
        "de": "Könntest du mir das Formular geben?",
        "en": "Could you give me the form?",
@@ -5511,7 +5511,7 @@
       "text": "Ich möchte is a polite wish, and it uses the same pattern as a modal verb: infinitive at the end. A good office conversation has two steps: first you say what you want (Ich möchte meinen Wohnsitz anmelden), then you ask for help with a detail (Könnten Sie mir bitte die Unterlagen zeigen?). Keep every sentence short and polite.",
       "example": {
        "de": "Sind Sie für die Beratung zuständig?",
-       "en": "Are you responsible for the advice?",
+       "en": "Are you in charge of advice here?",
        "parts": [
         [
          "Sind",
@@ -6111,7 +6111,7 @@
      "examples": [
       {
        "de": "Die Beratung ist am Schalter vier.",
-       "en": "The advice is at counter four."
+       "en": "You get advice at counter four."
       },
       {
        "de": "Mira braucht eine Beratung.",
@@ -6153,7 +6153,8 @@
      "type": "type",
      "prompt": "Write in German: Because I am tired, I stay at home. (weil)",
      "answers": [
-      "Ich bleibe zu Hause, weil ich müde bin."
+      "Ich bleibe zu Hause, weil ich müde bin.",
+      "Weil ich müde bin, bleibe ich zu Hause."
      ],
      "hint": "Verb last after weil.",
      "explanation": "Ich bleibe zu Hause, weil ich müde bin.",
@@ -6171,12 +6172,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Gehen Sie ___ Kreuzung geradeaus. (up to the)",
+     "prompt": "Complete: Ben wartet am richtig___ Schalter.",
      "answers": [
-      "bis zur"
+      "en"
      ],
-     "hint": "Zu + der = zur.",
-     "explanation": "Gehen Sie bis zur Kreuzung geradeaus.",
+     "hint": "Am = an dem: dative, -en.",
+     "explanation": "Ben wartet am richtigen Schalter.",
      "grammar": true
     },
     {
@@ -6317,7 +6318,7 @@
        "why": "New: two small words make the request even softer."
       }
      ],
-     "more": "A request has a skeleton and a skin. The skeleton is the word order you know: polite verb, subject, the rest, infinitive. The skin is everything you add: bitte, vielleicht, mal, kurz and your voice. A learner who only knows the skeleton is understood. A learner who also has the skin sounds friendly, and at a counter that can make the whole visit easier. Listen for all three in the next lesson video."
+     "more": "A request has a skeleton and a skin. The skeleton is the word order you know: polite verb, subject, the rest, infinitive. The skin is everything you add: bitte, vielleicht, mal, kurz and your voice. A learner who only knows the skeleton is understood. A learner who also has the skin sounds friendly, and at a counter that can make the whole visit easier. Listen for all three in the videos of this lesson."
     },
     {
      "title": "Softening words: bitte, vielleicht, mal, kurz",
@@ -6677,7 +6678,7 @@
       }
      ],
      "deeper": {
-      "text": "To change a rude order into a polite request, follow the same three moves each time. First, turn the order into a question with the polite verb in front. Second, add the person who asks (Sie or du) and bitte. Third, move the old command verb to the end as the infinitive. Gib mir das Formular! becomes Könnten Sie mir bitte das Formular geben? Nothing is lost, and the tone is completely different.",
+      "text": "To change a rude order into a polite request, follow the same three moves each time. First, turn the order into a question with the polite verb in front. Second, add the person you ask (Sie or du) and bitte. Third, move the old command verb to the end as the infinitive. Gib mir das Formular! becomes Könnten Sie mir bitte das Formular geben? Nothing is lost, and the tone is completely different.",
       "example": {
        "de": "Danke für Ihr Verständnis.",
        "en": "Thank you for your understanding.",
@@ -7197,7 +7198,7 @@
      "yt:vY7WCRyG-n8"
     ],
     "nicosWeg": [
-     "nw:a2-13"
+     "nw:a2-32"
     ],
     "practice": []
    },
@@ -7726,7 +7727,7 @@
      "title": "Before we start: beyond \"geradeaus und dann links\"",
      "body": "In A1 you learned to say Gehen Sie geradeaus und dann links. A real town also has parks, bridges and churches. Today you learn the little words that describe a route: through the park, over the bridge, past the church. You also meet the words of the city app.",
      "steps": [
-      "You already know: Gehen Sie geradeaus, links, rechts, bis zur Kreuzung.",
+      "You already know: Gehen Sie geradeaus, links, rechts, and die Ampel, die Kreuzung.",
       "New today: durch, über, entlang, um … herum, an … vorbei, gegenüber, and the words of a city app.",
       "By the end you can: ask for a route, give a route with the right case, and talk about your location."
      ],
@@ -7898,7 +7899,7 @@
       }
      ],
      "deeper": {
-      "text": "Wie komme ich zur Post? is a block: you can change only the last words. The little word zur is zu + der, as in A1: bis zur Ampel. With a masculine place you say zum: Wie komme ich zum Bahnhof? Be careful with the order: the verb komme is in position 2 after the question word, and ich follows it. The answer is a command with Sie, as you learned in A1.",
+      "text": "Wie komme ich zur Post? is a block: you can change only the last words. The little word zur is zu + der: zur Post, zur Ampel. With a masculine place you say zum: Wie komme ich zum Bahnhof? Be careful with the order: the verb komme is in position 2 after the question word, and ich follows it. The answer is a command with Sie, as you learned in A1.",
       "example": {
        "de": "Wie komme ich zum Bahnhof?",
        "en": "How do I get to the station?",
@@ -8205,7 +8206,7 @@
       }
      ],
      "deeper": {
-      "text": "An … vorbei frames the noun just like um … herum: the preposition an comes before, vorbei comes after. Gegenüber normally stands before the noun, but it can also come after: der Post gegenüber. Bis zu is a block you know from A1: bis zur Kreuzung. Zu always takes the dative, so you say zur (zu + der) and zum (zu + dem).",
+      "text": "An … vorbei frames the noun just like um … herum: the preposition an comes before, vorbei comes after. Gegenüber normally stands before the noun, but it can also come after: der Post gegenüber. Bis zu is a block: bis zur Kreuzung. Zu always takes the dative, so you say zur (zu + der) and zum (zu + dem).",
       "example": {
        "de": "Gehen Sie bis zur Ampel.",
        "en": "Go as far as the traffic light.",
@@ -9269,7 +9270,7 @@
     {
      "intro": true,
      "title": "Before we start: the two-way prepositions leave the flat",
-     "body": "In A1 you moved things around the flat: Ich stelle die Lampe in die Ecke. In A2 chapter 1 you asked wo and wohin at school. Today the same prepositions go out into town: in die Altstadt, auf den Platz, am Fluss. You also learn short phrases with no article at all, like zu Fuß and nach Hause.",
+     "body": "In A1 you moved things around the flat: Ich stelle die Lampe in die Ecke. In A2 chapter 2 you asked wo and wohin about school. Today the same prepositions go out into town: in die Altstadt, auf den Platz, am Fluss. You also learn short phrases with no article at all, like zu Fuß and nach Hause.",
      "steps": [
       "You already know: the nine two-way prepositions, wo (dative) and wohin (accusative), and the adjective endings after der, die, das.",
       "New today: movement verbs and place verbs in town, endings inside a preposition phrase, city words, and chunks like zu Fuß, nach Hause and bei Rot.",
@@ -10339,7 +10340,7 @@
      "yt:A438Pv_9h9Q"
     ],
     "nicosWeg": [
-     "nw:a1-41"
+     "nw:a2-41"
     ],
     "practice": []
    },
@@ -11885,7 +11886,7 @@
       }
      ],
      "deeper": {
-      "text": "In Vienna people greet with Grüß Gott, and in a traditional café the waiter is called Herr Ober. Guides and waiters in Austria are addressed with Sie, so the polite könnte fits perfectly. Austrians often sound even softer than Germans and add bitte and gern to almost every sentence. If a guide speaks too fast, use a comparative from chapter 3: Könnten Sie bitte langsamer sprechen?",
+      "text": "In Vienna people greet with Grüß Gott, and in a traditional café the waiter is called Herr Ober. Guides and waiters in Austria are addressed with Sie, so the polite könnte fits perfectly. Many visitors find that Austrian German sounds a little softer, with bitte and gern in many sentences. If a guide speaks too fast, use a comparative from chapter 3: Könnten Sie bitte langsamer sprechen?",
       "example": {
        "de": "Könnten Sie bitte langsamer sprechen?",
        "en": "Could you speak more slowly, please?",
@@ -11938,8 +11939,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:0DLBdbv1f6A",
-     "yt:nMtzEgBuDHk"
+     "yt:YsfPMPzxCVI",
+     "yt:dp2HrUCylDo"
     ],
     "nicosWeg": [
      "nw:a2-54"
@@ -13384,7 +13385,7 @@
       }
      ],
      "deeper": {
-      "text": "Herrn Alis is the genitive of a name from chapter 3: with Herr the title also changes to Herrn. Feedback often uses a weil or dass clause: Herr Ali sagt, dass Leon zuverlässig ist. Herr Ali ist froh, weil Leon so ruhig war. The verb goes to the end of the clause.",
+      "text": "Herrn Alis is the genitive of a name from chapter 1: with Herr the title also changes to Herrn. Feedback often uses a weil or dass clause: Herr Ali sagt, dass Leon zuverlässig ist. Herr Ali ist froh, weil Leon so ruhig war. The verb goes to the end of the clause.",
       "example": {
        "de": "Herr Ali sagt, dass Leon zuverlässig ist.",
        "en": "Mr Ali says that Leon is reliable.",
@@ -13431,7 +13432,7 @@
      "yt:ELLKtyQVnaQ"
     ],
     "nicosWeg": [
-     "nw:b1-18"
+     "nw:a2-34"
     ],
     "practice": []
    },
@@ -13919,7 +13920,7 @@
    "day": 1,
    "reading": {
     "title": "Unser Stadtteil",
-    "text": "Unser Stadtteil ist klein, aber sehr lebendig. Meine Freunde Anna und Ben wohnen auch hier. Auf dem Platz steht der alte Brunnen, und viele Leute sitzen dort in der Sonne. Die engen Gassen sind am Tag ruhig, aber am Abend sind sie dunkel. Die Fußgängerzone im Zentrum ist laut und voll. Ich mag den breiten Fluss, und am Ufer gehe ich oft spazieren. Gestern war ich im alten Bürgeramt. Ben hat dort den neuen Personalausweis beantragt, und ich habe das lange Formular ausgefüllt. Die Gebühr war in Ordnung: dreißig Euro. Danach sind wir mit der neuen Straßenbahn nach Hause gefahren. Ich finde den Stadtteil sehr schön!",
+    "text": "Unser Stadtteil ist klein, aber sehr lebendig. Meine Freunde Anna und Ben wohnen auch hier. Auf dem Platz steht der alte Brunnen, und viele Leute sitzen dort in der Sonne. Die engen Gassen sind am Tag ruhig, aber am Abend sind sie dunkel. Die Fußgängerzone im Zentrum ist laut und voll. Ich mag den breiten Fluss, und am Ufer gehe ich oft spazieren. Gestern war ich im alten Bürgeramt. Anna hat dort den neuen Personalausweis beantragt, und ich habe mit ihr das lange Formular ausgefüllt. Die Gebühr war in Ordnung: 37 Euro. Danach sind wir mit der neuen Straßenbahn nach Hause gefahren. Ich finde den Stadtteil sehr schön!",
     "glossary": [
      {
       "de": "sitzen",
@@ -14037,7 +14038,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Ben apply for?",
+      "prompt": "What did Anna apply for?",
       "options": [
        "a bank card",
        "a new ID card",
@@ -14045,19 +14046,19 @@
       ],
       "answer": 1,
       "hint": "Look for beantragt.",
-      "explanation": "Ben hat den neuen Personalausweis beantragt."
+      "explanation": "Anna hat den neuen Personalausweis beantragt."
      },
      {
       "type": "choice",
       "prompt": "How high was the fee?",
       "options": [
        "very high",
-       "thirty euros",
+       "37 euros",
        "free"
       ],
       "answer": 1,
       "hint": "Look for Gebühr.",
-      "explanation": "Die Gebühr war in Ordnung: dreißig Euro."
+      "explanation": "Die Gebühr war in Ordnung: 37 Euro."
      },
      {
       "type": "choice",
@@ -14075,23 +14076,23 @@
    },
    "listening": {
     "title": "Am Schalter",
-    "script": "Ben: Guten Tag. Ich möchte den neuen Personalausweis beantragen.\nFrau am Schalter: Guten Tag. Dann sind Sie am falschen Schalter. Gehen Sie bitte zum nächsten Schalter. Dort rechts ist der richtige Schalter.\nBen: Danke. Guten Tag! Hier ist meine Wartenummer. Ich brauche den neuen Personalausweis.\nFrau am Schalter: Gut. Hier ist das Formular. Es ist lang, aber nicht schwer. Bitte füllen Sie alles aus und unterschreiben Sie hier.\nBen: Wie hoch ist die Gebühr?\nFrau am Schalter: Die Gebühr ist dreißig Euro. Zahlen Sie bar oder mit Karte?\nBen: Mit Karte, bitte.\nFrau am Schalter: Der neue Personalausweis ist in drei Wochen fertig.\nBen: Vielen Dank! Auf Wiedersehen.",
+    "script": "Anna: Guten Tag. Ich möchte den neuen Personalausweis beantragen.\nFrau am Schalter: Guten Tag. Dann sind Sie am falschen Schalter. Gehen Sie bitte zum nächsten Schalter. Dort rechts ist der richtige Schalter.\nAnna: Danke. Guten Tag! Hier ist meine Wartenummer. Ich brauche den neuen Personalausweis.\nFrau am Schalter: Gut. Hier ist das Formular. Es ist lang, aber nicht schwer. Bitte füllen Sie alles aus und unterschreiben Sie hier.\nAnna: Wie hoch ist die Gebühr?\nFrau am Schalter: Die Gebühr ist 37 Euro. Zahlen Sie bar oder mit Karte?\nAnna: Mit Karte, bitte.\nFrau am Schalter: Der neue Personalausweis ist in drei Wochen fertig.\nAnna: Vielen Dank! Auf Wiedersehen.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "What does Ben want?",
+      "prompt": "What does Anna want?",
       "options": [
        "a bank card",
        "a new ID card",
        "a bank statement"
       ],
       "answer": 1,
-      "hint": "Listen to his first sentence.",
+      "hint": "Listen to her first sentence.",
       "explanation": "Ich möchte den neuen Personalausweis beantragen."
      },
      {
       "type": "choice",
-      "prompt": "Where is Ben at first?",
+      "prompt": "Where is Anna at first?",
       "options": [
        "at the right counter",
        "at the wrong counter",
@@ -14103,7 +14104,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Where does the woman send him?",
+      "prompt": "Where does the woman send her?",
       "options": [
        "home",
        "to the bank",
@@ -14127,11 +14128,11 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Ben show at the right counter?",
+      "prompt": "What does Anna show at the right counter?",
       "options": [
-       "his queue number",
-       "his bank card",
-       "his passport"
+       "her queue number",
+       "her bank card",
+       "her passport"
       ],
       "answer": 0,
       "hint": "Listen for Hier ist ...",
@@ -14151,7 +14152,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What must Ben do with the form?",
+      "prompt": "What must Anna do with the form?",
       "options": [
        "take it home",
        "fill it in and sign",
@@ -14165,24 +14166,24 @@
       "type": "choice",
       "prompt": "How high is the fee?",
       "options": [
-       "thirty euros",
+       "37 euros",
        "ten euros",
        "fifty euros"
       ],
       "answer": 0,
       "hint": "Listen for the number.",
-      "explanation": "Die Gebühr ist dreißig Euro."
+      "explanation": "Die Gebühr ist 37 Euro."
      },
      {
       "type": "choice",
-      "prompt": "How does Ben pay?",
+      "prompt": "How does Anna pay?",
       "options": [
        "by card",
        "in cash",
        "he does not pay"
       ],
       "answer": 0,
-      "hint": "Listen to his answer.",
+      "hint": "Listen to her answer.",
       "explanation": "Mit Karte, bitte."
      },
      {
@@ -14504,7 +14505,7 @@
       "prompt": "How does Mira end her request?",
       "options": [
        "She says goodbye angrily.",
-       "She says thank you for the understanding.",
+       "She thanks them for their understanding.",
        "She asks for a refund."
       ],
       "answer": 1,
@@ -14667,7 +14668,7 @@
       "answers": [
        "könnten"
       ],
-      "hint": "After wenn the verb is last.",
+      "hint": "After dass the verb is last.",
       "explanation": "Ich glaube, dass Sie mir helfen könnten.",
       "grammar": true
      },
@@ -14787,7 +14788,7 @@
     "free": {
      "prompt": "Eine höfliche Nachricht an die Bank: write 5 or 6 sentences. Say you want to open a Girokonto, ask two polite questions with könnte (for example for an appointment or for the documents), and add a note for a friend who visits your WG: describe the way from the station with durch, über, vorbei, entlang or gegenüber.",
      "minWords": 40,
-     "model": "Guten Tag, ich möchte ein Girokonto eröffnen. Könnten Sie mir bitte einen Termin am Mittwoch geben? Könnten Sie mir auch die Unterlagen schicken? Danke für Ihr Verständnis. Noch ein Hinweis für Anna: Vom Bahnhof gehst du durch den Park, über die Brücke und an der Kirche vorbei. Unsere WG ist gegenüber der Post. Viele Grüße\nMira",
+     "model": "Guten Tag, ich möchte ein Girokonto eröffnen. Könnten Sie mir bitte einen Termin am Mittwoch geben? Könnten Sie mir auch die Unterlagen schicken? Danke für Ihr Verständnis. Noch ein Hinweis für Anna: Vom Bahnhof gehst du durch den Park, über die Brücke und an der Kirche vorbei. Unsere WG ist gegenüber dem Supermarkt. Viele Grüße\nMira",
      "checks": [
       {
        "label": "has two polite requests with könnte (Könnten Sie …? / Könntest du …?)",
@@ -14987,7 +14988,7 @@
        "by the door"
       ],
       "answer": 2,
-      "hint": "Hier ist die …",
+      "hint": "Listen for Tür.",
       "explanation": "Der Tisch an der Tür."
      },
      {
