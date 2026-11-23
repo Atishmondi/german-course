@@ -1785,8 +1785,8 @@
        ],
        [
         "feminine object",
-        "eine Milch",
-        "keine Milch"
+        "eine Suppe",
+        "keine Suppe"
        ],
        [
         "neuter object",
@@ -7364,7 +7364,7 @@
      "more": "Picture the shopping bag again. Some measuring words are like a scale: Kilo, Gramm, Liter, Stück. A number in front does not change them: zwei Kilo, drei Liter, zwei Stück. English adds -s: two kilos, three litres. German does not. The containers are different: you can count bottles and packets, so they take a plural: zwei Flaschen, drei Packungen. Step 1: say the number. Step 2: unit or container? Step 3: only the container gets -n. Extra example: zwei Packungen Reis.",
      "lead": "You know the accusative for quantities. On this card: how numbers change the quantity words, with an -n for some of them, so you can buy two or three of something.",
      "deeper": {
-      "text": "After a number, Kilo and Liter stay singular, a bit like English two kilo. Feminine words add -n or -en: Flasche becomes Flaschen, Packung becomes Packungen. Gender knowledge helps here: die words that end in -e or -ung almost always add -n or -en in the plural.",
+      "text": "After a number, Kilo and Liter stay singular, unlike English two kilos. Feminine words add -n or -en: Flasche becomes Flaschen, Packung becomes Packungen. Gender knowledge helps here: die words that end in -e or -ung almost always add -n or -en in the plural.",
       "example": {
        "de": "Wir kaufen drei Liter Saft.",
        "en": "We buy three litres of juice.",
@@ -9369,8 +9369,8 @@
        "en": "A kilo of apples. Anything else?"
       },
       {
-       "de": "Ja, ich möchte ein Brötchen.",
-       "en": "Yes, I would like a roll."
+       "de": "Sonst noch etwas? – Ja, ich möchte ein Brötchen.",
+       "en": "Anything else? – Yes, I would like a roll."
       }
      ]
     },
@@ -12819,7 +12819,9 @@
       "type": "type",
       "prompt": "Write in German: The coffee costs 3,50 €.",
       "answers": [
-       "Der Kaffee kostet drei Euro fünfzig."
+       "Der Kaffee kostet drei Euro fünfzig.",
+       "Der Kaffee kostet 3,50 €.",
+       "Der Kaffee kostet 3,50 Euro."
       ],
       "hint": "Euro first, then the cents.",
       "explanation": "Der Kaffee kostet drei Euro fünfzig."
