@@ -78,23 +78,21 @@
   const icon=k=>`<svg class="px" viewBox="0 0 12 12" fill="currentColor" shape-rendering="crispEdges" aria-hidden="true"><path d="${I[k]}"/></svg>`;
   const NAV=[['home','Home'],['chapters','Chapters'],['grammar','Grammar'],['words','Words'],['progress','Progress'],['settings','Settings']];
 
-  appEl.innerHTML=`<aside class="side" aria-label="Sidebar">
-      <a class="brand" href="#/home"><span class="brand-mark" aria-hidden="true">DE</span><span>German<small>one step at a time</small></span></a>
-      <nav class="side-nav" aria-label="Main">${NAV.map(([k,l])=>`<a href="#/${k}" data-nav="${k}">${icon(k)}<span>${l}</span></a>`).join('')}</nav>
-      <div class="side-now" id="sidenow"></div>
-      <p class="side-foot">Credits · Atish</p>
-    </aside>
+  appEl.innerHTML=`<nav class="dock" aria-label="Main">${NAV.map(([k,l])=>`<a href="#/${k}" data-nav="${k}">${icon(k)}<span>${l}</span></a>`).join('')}</nav>
     <div class="stage">
       <nav class="crumbs" id="crumbs" aria-label="Where you are"></nav>
       <main id="main" tabindex="-1"></main>
+      <p class="foot">Credits · Atish</p>
     </div>`;
   const mainEl=document.getElementById('main'), crumbsEl=document.getElementById('crumbs');
 
   function paintStreak(){paintTop();}
   function paintTop(){
     const d=dayAt(state.position.day)||days()[days().length-1];
-    document.getElementById('sidenow').innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
+    const sn=document.getElementById('sidenow');if(sn)sn.innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
   }
+  const phaseByHour=()=>{const h=new Date().getHours();return h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night';};
+  function applyPhase(){const p=state.settings.phase;document.documentElement.dataset.phase=p&&p!=='auto'?p:phaseByHour();}
   function applyReduced(){document.documentElement.classList.toggle('reduced',!!state.settings.reduced);}
 
   // ---------- Shared bits ----------
@@ -516,6 +514,8 @@
       const seg=(k,l,vals,fmt)=>`<div class="set"><span class="lbl" id="l-${k}">${l}</span><div class="seg" role="group" aria-labelledby="l-${k}">${vals.map(x=>`<button type="button" data-seg="${k}" data-v="${x}" aria-pressed="${s[k]===x}">${fmt(x)}</button>`).join('')}</div></div>`;
       const canAsk='Notification' in window&&Notification.permission==='default';
       v.innerHTML=`<h1>Settings</h1>
+        <section class="section"><h2>Look</h2><p class="muted">The photo and colours follow the time of day, or pick one to keep.</p>
+          <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Pink lake'],['day','Day','Blue mountains'],['dusk','Dusk','Sunset peak'],['night','Night','Star trails']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/${k}.jpg)"`}>${k==='auto'?['dawn','day','dusk','night'].map(p=>`<i style="background-image:url(img/${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
         <section class="section"><h2>Motivation</h2>
           ${sw('reminders','Gentle reminders','A short encouraging note while you study')}
           ${seg('interval','Reminder every',[3,5,10],x=>x+' min')}
@@ -544,6 +544,7 @@
       });
       v.addEventListener('click',e=>{
         const b=e.target.closest('button');if(!b)return;
+        if(b.dataset.phasePick){s.phase=b.dataset.phasePick;save();applyPhase();v.querySelectorAll('[data-phase-pick]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));return;}
         if(b.dataset.seg){s[b.dataset.seg]=Number(b.dataset.v);save();
           v.querySelectorAll(`[data-seg="${b.dataset.seg}"]`).forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
         else if('test' in b.dataset)speak('Hallo! Ich heiße Mira. Ich lerne Deutsch.');
@@ -672,7 +673,7 @@
     window.scrollTo(0,0);mainEl.focus({preventScroll:true});
   }
 
-  applyReduced();
+  applyReduced();applyPhase();
   window.addEventListener('hashchange',route);
   route();
   window.GERMAN_APP={getState,save,go,route,toast,speak};
