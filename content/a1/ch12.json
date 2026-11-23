@@ -944,7 +944,7 @@
      "more": "Imagine you tell your friend Mira: Du kannst heute faulenzen. That is a tip only for her. Now imagine you tell a visitor about a country: In Deutschland isst man abends oft Brot. That is true for everybody there, so you use man. A simple test: could you say people or one in English? Then use man. Could you say you to one person you know? Then use du.",
      "lead": "You now have two ways to say you. The last card compares them, so you choose the right one for a tip about one person and for a rule about a country.",
      "deeper": {
-      "text": "In English you often say you for both ideas: You can swim here. In German you have to decide. Du talks to a person you know. Man is for signs, rules and customs. Ferien is plural only, like the English holidays, so you say die Ferien and the verb has no singular partner.",
+      "text": "In English you often say you for both ideas: You can swim here. In German you have to decide. Du talks to a person you know. Man is for signs, rules and customs. Ferien is plural only, like the English holidays, so you say die Ferien and the verb is plural: die Ferien sind.",
       "example": {
        "de": "Die Ferien sind schön.",
        "en": "The holidays are nice.",
@@ -1600,7 +1600,7 @@
       }
      ],
      "steps": [
-      "You already know: und, oder and aber join two sentences (chapter 7) and separable verbs like mitnehmen (chapter 6)",
+      "You already know: und, oder and aber join two sentences (chapter 7) and separable verbs like aufstehen (chapter 6)",
       "New today: ten travel things, Warum? and denn with a reason",
       "By the end you can: say what you take on a trip and why, and say what people need for a journey"
      ],
@@ -1883,7 +1883,7 @@
      "more": "The thing that you take is the one who gets taken, so it is the object, and objects use the accusative. You already know this from chapter 4: only der changes. Der Koffer becomes einen Koffer. Die Kamera stays eine Kamera. Das Zelt stays ein Zelt. The little word mit jumps to the end of the sentence, like the end piece of a bracket. Before it, nehmen changes to nimmst and nimmt with du and er.",
      "lead": "You can name the things. Now you say what you take. This is the accusative again, with a separable verb, so look at the end of the sentence for mit.",
      "deeper": {
-      "text": "With du and er, nehmen changes its vowel: du nimmst, er nimmt. This is the same change as in essen and sehen. The prefix mit goes to the end, so the sentence has a bracket: nimmt ... mit. It is just like Ich stehe um sieben auf.",
+      "text": "With du and er, nehmen changes its vowel: du nimmst, er nimmt. It is a vowel change like in essen (du isst) and sehen (du siehst). The prefix mit goes to the end, so the sentence has a bracket: nimmt ... mit. It is just like Ich stehe um sieben auf.",
       "example": {
        "de": "Du nimmst einen Hut mit.",
        "en": "You take a hat with you.",
@@ -5527,7 +5527,7 @@
       ]
      },
      "more": "A route is a story with three scenes: first, then, after that. Each scene starts with a little time word. After that word comes the verb, because the verb always sits in part 2. So you never say Zuerst ich fahre. You say Zuerst fahre ich. When you want to know how long it lasts, ask Wie lange dauert die Fahrt? and listen for a number of hours. Short, ordered, easy to follow.",
-     "lead": "You know zuerst, dann and danach from chapter 10. Now you use them to tell a whole route. After each of these words the verb comes next, so the order you learned stays the same.",
+     "lead": "You know zuerst, dann and danach from chapter 7. Now you use them to tell a whole route. After each of these words the verb comes next, so the order you learned stays the same.",
      "deeper": {
       "text": "These three words are time words in position 1, so the verb is always next and the subject comes after it. That means Zuerst fahre ich, not Zuerst ich fahre. A route needs only these three sentences. You can ask about the trip with the question words from the table: Wie lange dauert die Fahrt? Wie viele Stunden dauert sie? Welcher Zug fährt nach Köln?",
       "example": {
@@ -5700,7 +5700,7 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: Ask a friend where he is going.",
+    "prompt": "Write in German: Ask a friend where they are going.",
     "answers": [
      "Wohin fährst du?",
      "Wohin gehst du?"
@@ -5804,7 +5804,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: The train arrives at 15 Uhr.",
+     "prompt": "Write in German: The train arrives at 3 p.m.",
      "answers": [
       "Der Zug kommt um 15 Uhr an.",
       "Um 15 Uhr kommt der Zug an."
@@ -7117,7 +7117,7 @@
       "bewölkt"
      ],
      "answer": 0,
-     "hint": "Look at the weather card: one adjective is built from a weather noun.",
+     "hint": "Think of the word for sun on the weather card.",
      "explanation": "sonnig = sunny."
     },
     {
@@ -7703,7 +7703,7 @@
       }
      ],
      "steps": [
-      "You already know: Liebe ..., Viele Grüße and the Perfekt from chapter 10.",
+      "You already know: Liebe ... and Viele Grüße (chapter 6) and the Perfekt (chapter 10).",
       "New today: a postcard in four parts and a travel report from five key facts.",
       "By the end you can: write a postcard and see how far you have come in A1."
      ],
@@ -8124,7 +8124,7 @@
       ]
      },
      "more": "Imagine you have a hand with five fingers. Each finger is one key fact: who, where to, when, what, how was it. You can hold the whole story in one hand. To tell it, point to each finger in order and say one short sentence. Use zuerst for the first finger, dann for the next and danach for the one after. Do not copy whole sentences. Use your own words and the words from the text that you already know.",
-     "lead": "A long text is easy to retell when you only keep five facts. You know every question word from lesson 4, and zuerst, dann and danach from chapter 10. This card shows the method with a four-sentence report.",
+     "lead": "A long text is easy to retell when you only keep five facts. You know every question word from lesson 4, and zuerst, dann and danach from chapter 7. This card shows the method with a four-sentence report.",
      "deeper": {
       "text": "A good report ends with how it was, and often with a little thing you bring home: das Souvenir (souvenir). It keeps die Erinnerung (memory) alive. So the last finger of your hand can be: Ich habe ein Souvenir gekauft. Das ist eine schöne Erinnerung. Both sentences use words you know, and they close the story in a warm way.",
       "example": {
@@ -8283,7 +8283,7 @@
        ]
       ]
      },
-     "more": "Imagine a map of Germany with four signs. In the north there is the sea: the Nordsee and the Ostsee. In the south there are mountains: the Alpen. In the middle and the east you find cities such as Berlin, and Hamburg stands in the north. You do not need a new rule to talk about them. You say im Norden or im Süden, and what you can do with man kann. These names are good words for your postcard.",
+     "more": "Imagine a map of Germany with four signs. In the north there is the sea: the Nordsee and the Ostsee. In the south there are mountains: the Alpen. In the east you find Berlin, and Hamburg stands in the north. You do not need a new rule to talk about them. You say im Norden or im Süden, and what you can do with man kann. These names are good words for your postcard.",
      "lead": "Now you know the compass points from lesson 4 and the holiday words from lesson 1. This card puts them together on a small map of Germany. There is no new grammar, only new place names.",
      "deeper": {
       "text": "Place names like Nordsee and Ostsee are proper nouns, and with die they are feminine. The Alpen always appear in the plural. You describe where a place is with im Norden or im Süden, and what you do there with man and a modal. All the pieces come from earlier lessons, so you can build your own sentences without learning new rules.",
@@ -8773,7 +8773,8 @@
     "prompt": "Write in German: We ate pizza on the coast.",
     "answers": [
      "Wir haben an der Küste Pizza gegessen.",
-     "An der Küste haben wir Pizza gegessen."
+     "An der Küste haben wir Pizza gegessen.",
+     "Wir haben Pizza an der Küste gegessen."
     ],
     "hint": "Which helper verb for essen? Where does the participle go?",
     "explanation": "Wir haben an der Küste Pizza gegessen.",
@@ -8981,7 +8982,7 @@
      "examples": [
       {
        "de": "Wir wohnen in einer Ferienwohnung.",
-       "en": "We live in a holiday flat."
+       "en": "We are staying in a holiday flat."
       },
       {
        "de": "Die Ferienwohnung ist schön.",
@@ -9280,7 +9281,7 @@
     ]
    },
    "listening": {
-    "title": "Leon at the tourist information office",
+    "title": "Leon in der Touristeninformation",
     "script": "Leon: Guten Tag. Was kann man hier machen?\nMitarbeiterin: Guten Tag. Man kann eine Stadtrundfahrt machen, oder man kann eine Führung machen.\nLeon: Was kostet die Stadtrundfahrt?\nMitarbeiterin: Sie kostet zehn Euro und dauert eine Stunde.\nLeon: Und wann beginnt die Führung?\nMitarbeiterin: Um elf Uhr.\nLeon: Wer macht die Führung?\nMitarbeiterin: Ein Student macht die Führung. Er kennt die Altstadt gut. Ich habe einen Vorschlag: Wollen Sie die Altstadt besichtigen? Dort kann man den Dom und ein Denkmal sehen.\nLeon: Gute Idee! Braucht man einen Stadtplan?\nMitarbeiterin: Ja, man braucht einen Stadtplan, denn die Altstadt ist groß. Hier, bitte.\nLeon: Danke! Ich nehme die Führung und den Stadtplan.\nMitarbeiterin: Gern geschehen. Schönes Wochenende!",
     "questions": [
      {
@@ -9540,7 +9541,7 @@
     "free": {
      "prompt": "Suggest a city tour to a friend (Wollen wir ...?) and say why (denn ...). Write 2 to 4 sentences.",
      "minWords": 20,
-     "model": "Hallo Mira! Wollen wir eine Stadtrundfahrt machen? Das ist ein guter Vorschlag, denn die Altstadt ist schön. Wir können auch das Schloss besichtigen. Ich nehme einen Stadtplan mit, denn die Stadt ist groß.",
+     "model": "Hallo Mira! Wollen wir eine Stadtrundfahrt machen? Ich möchte die Altstadt sehen, denn sie ist schön. Wir können auch das Schloss besichtigen. Ich nehme einen Stadtplan mit, denn die Stadt ist groß.",
      "checks": [
       {
        "label": "makes a suggestion with Wollen wir",
@@ -9716,7 +9717,7 @@
     ]
    },
    "listening": {
-    "title": "Mira plans the trip to Munich",
+    "title": "Mira fährt nach München",
     "script": "Leon: Hallo Mira! Was machst du am Wochenende?\nMira: Hallo Leon! Ich fahre nach München. Ich treffe Anna dort.\nLeon: Toll! Wann fährt der Zug?\nMira: Um 9 Uhr, auf Gleis 5.\nLeon: Wie lange dauert die Fahrt?\nMira: Sechs Stunden. Ich muss in Hannover umsteigen. Zuerst fahre ich von Hamburg nach Hannover. Dann steige ich um. Danach fahre ich nach München.\nLeon: Wann kommst du an?\nMira: Um 15 Uhr. Wie ist das Wetter in München?\nLeon: München liegt im Süden. Es sind 25 Grad, und die Sonne scheint. Aber ab Donnerstag regnet es.\nMira: Ach so! Dann muss ich einen Regenschirm mitnehmen.\nLeon: Ja, genau. Viel Spaß!",
     "questions": [
      {
@@ -9748,7 +9749,7 @@
       "prompt": "When does the train leave?",
       "options": [
        "at 9 o'clock",
-       "at 15 o'clock",
+       "at 3 p.m.",
        "at 6 o'clock"
       ],
       "answer": 0,
@@ -9796,7 +9797,7 @@
       "prompt": "When does the train arrive?",
       "options": [
        "at 9 o'clock",
-       "at 15 o'clock",
+       "at 3 p.m.",
        "at 10 o'clock"
       ],
       "answer": 1,
