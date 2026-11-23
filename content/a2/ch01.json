@@ -146,8 +146,8 @@
        ]
       },
       {
-       "de": "Ich studiere Musik.",
-       "en": "I study music.",
+       "de": "Ich studiere Informatik.",
+       "en": "I study computer science.",
        "why": "What she does.",
        "parts": [
         [
@@ -159,7 +159,7 @@
          "verb"
         ],
         [
-         "Musik.",
+         "Informatik.",
          "object"
         ]
        ]
@@ -194,9 +194,9 @@
      },
      "steps": [
       "1 Name: Ich heiße Mira.",
-      "2 From: Ich komme aus Deutschland.",
+      "2 From: Ich komme aus Österreich.",
       "3 Lives: Ich wohne in Berlin.",
-      "4 Does: Ich studiere Musik.",
+      "4 Does: Ich studiere Informatik.",
       "5 Likes: Ich spiele gern Gitarre."
      ]
     },
@@ -262,7 +262,7 @@
        ]
       }
      ],
-     "more": "Imagine a form at a language school with four boxes: Name, Origin, Home, Job. Each box has one question and one ready sentence. Name: Wie heißt du? Ich heiße Mira. Origin: Woher kommst du? Ich komme aus Deutschland. Home: Wo wohnst du? Ich wohne in Berlin. Job: Was machst du? Ich arbeite als Lehrerin. Step 1: read the question. Step 2: copy the frame. Step 3: put your own word in the dots. The verb is always part 2, and it changes its ending for the person.",
+     "more": "Imagine a form at a language school with four boxes: Name, Origin, Home, Job. Each box has one question and one ready sentence. Name: Wie heißt du? Ich heiße Mira. Origin: Woher kommst du? Ich komme aus Österreich. Home: Wo wohnst du? Ich wohne in Berlin. Job: Was machst du? Ich arbeite als Lehrerin. Step 1: read the question. Step 2: copy the frame. Step 3: put your own word in the dots. The verb is always part 2, and it changes its ending for the person.",
      "lead": "Now you know Mira's five sentences. On this card: the four facts people give first, name, origin, home and job, and the question that asks for each one.",
      "deeper": {
       "text": "Herkunft means origin and Wohnort means the place where you live. For a job you have two choices: Ich arbeite als Lehrerin or Ich bin Lehrerin. Both mean the same. If you study, use studieren: Ich studiere Informatik. Notice there is no word for a in Ich bin Lehrerin.",
@@ -843,7 +843,7 @@
      },
      "steps": [
       "1 Who I am: Ich heiße Mira. Meine Muttersprache ist Deutsch.",
-      "2 What I do: Ich wohne in Berlin. Berlin ist eine Großstadt. Ich studiere Musik.",
+      "2 What I do: Ich wohne in Berlin. Berlin ist eine Großstadt. Ich studiere Informatik.",
       "3 What I like: In meiner Freizeit spiele ich gern Gitarre. Mein Lieblingsessen ist Pizza."
      ]
     }
@@ -1277,7 +1277,7 @@
      "Ask a new friend two questions and react to the answers."
     ],
     "examples": [
-     "Ich heiße Mira. Ich komme aus Deutschland. Ich wohne in Berlin.",
+     "Ich heiße Mira. Ich komme aus Österreich. Ich wohne in Berlin.",
      "In meiner Freizeit spiele ich Gitarre.",
      "Woher kommst du? – Wirklich? Das finde ich toll! Und was machst du in deiner Freizeit?"
     ]
@@ -1364,8 +1364,8 @@
      "title": "Before we start: what do you like best?",
      "body": "A new friend asks: Was machst du gern? Saying you like something is easy. Saying that you like something more, or best of all, makes you sound much more real. Today you learn gern, lieber and am liebsten, and how to say how often you do things.",
      "steps": [
-      "You already know: gern after the verb, from lesson 3 of chapter 2, and manchmal and nie from lesson 9 of chapter 8.",
-      "New today: lieber (rather), am liebsten (best of all), the how-often scale and learning words in groups.",
+      "You already know: gern after the verb (chapter 2, lesson 3), lieber (chapter 4, lesson 5), and manchmal and nie (chapter 8, lesson 9).",
+      "New today: am liebsten (best of all), lieber next to it, the how-often scale and learning words in groups.",
       "By the end you can: say what you like, what you like more and what you like best, and how often you do it."
      ],
      "examples": [
@@ -2053,7 +2053,7 @@
      "more": "Picture a dial from 100 down to 0. At 100 you do it every time: immer. At 0 you never do it: nie. In between you have meistens (most times), oft (often), manchmal (sometimes) and selten (rarely). Pick the word that fits your life. Step 1: say your sentence. Step 2: choose the point on the dial. Step 3: put the word behind the verb and the subject. Extra example: Ich sehe selten fern.",
      "lead": "You can say what you like. The last grammar step: how often you do it. Six small words make a scale, and they go in the same places as gern.",
      "deeper": {
-      "text": "nie already means not ever, so never add nicht: Mira kocht nie is enough. Meistens is a bit less than immer, and selten is a bit more than nie. They all use the same two places: behind the verb and subject, or in part 1. You can even use two together: Meistens koche ich gern.",
+      "text": "nie already means not ever, so never add nicht: Mira kocht nie is enough. Meistens is a bit less than immer, and selten is a bit more than nie. They all use the same two places: behind the verb and subject, or in part 1. You can even start with one and add a second idea: Meistens koche ich, manchmal kocht Ben.",
       "example": {
        "de": "Mira kocht nie.",
        "en": "Mira never cooks.",
@@ -2925,7 +2925,7 @@
      "more": "A bracket in maths has a left side and a right side, and everything goes in between. The Perfekt is a bracket too. The left side is haben (seat 2). The right side is the participle (the very last word). In between you put time, people and things: Ich habe gestern mit Anna Musik gehört. Step 1: choose the right form of haben. Step 2: put the participle last. Step 3: fill the middle. Extra example: Er hat gemacht, sie hat gemacht, es hat gemacht: only haben changes.",
      "lead": "You just saw the weekend snapshot. First a quick refresher of the two parts of the Perfekt: which one changes with the person and which one never changes.",
      "deeper": {
-      "text": "In everyday speech most verbs use the Perfekt. The exceptions are war and hatte, which you already know: people say Gestern war ich müde, not Gestern bin ich gewesen. So for two small verbs the simple form is the natural one. Everything else uses haben + participle, and you can put any extra information between the two parts.",
+      "text": "In everyday speech most verbs use the Perfekt. The exceptions are war and hatte, which you already know: people say Gestern war ich müde, not Gestern bin ich müde gewesen. So for two small verbs the simple form is the natural one. Everything else uses haben + participle, and you can put any extra information between the two parts.",
       "example": {
        "de": "Gestern hatte ich keine Zeit.",
        "en": "Yesterday I had no time.",
@@ -3339,7 +3339,7 @@
       },
       {
        "de": "Mira hat von Berlin erzählt.",
-       "en": "Mira told about Berlin.",
+       "en": "Mira talked about Berlin.",
        "why": "erzählen: er- means no ge-.",
        "parts": [
         [
@@ -5702,8 +5702,8 @@
      "en": "to think",
      "examples": [
       {
-       "de": "Ich denke nicht gern am Abend.",
-       "en": "I do not like thinking in the evening."
+       "de": "Was denkst du?",
+       "en": "What do you think?"
       },
       {
        "de": "Ich habe das nicht gedacht.",
@@ -5796,8 +5796,8 @@
        "en": "Mira cuts the bread."
       },
       {
-       "de": "Anna hat Kuchen geschnitten.",
-       "en": "Anna cut cake."
+       "de": "Anna hat den Kuchen geschnitten.",
+       "en": "Anna cut the cake."
       }
      ],
      "forms": "schneidet, hat geschnitten"
@@ -6148,8 +6148,8 @@
        "why": "spazieren gehen: a chunk, gehen takes sein."
       },
       {
-       "de": "Herr Ali ist nach Berlin geflogen.",
-       "en": "Herr Ali flew to Berlin.",
+       "de": "Herr Ali ist nach Wien geflogen.",
+       "en": "Herr Ali flew to Vienna.",
        "parts": [
         [
          "Herr",
@@ -6168,7 +6168,7 @@
          "preposition"
         ],
         [
-         "Berlin",
+         "Wien",
          "place"
         ],
         [
@@ -6566,10 +6566,10 @@
      "more": "A separable verb is like a sandwich with a loose top. In the present the top flies to the end: Der Zug fährt um acht ab. In the Perfekt, ge- slides in between like cheese: ab-ge-fahren. Step 1: find the prefix. Step 2: put ge- after it. Step 3: add the rest of the participle. The helper is sein here, because these verbs are about moving or changing place.",
      "lead": "You know where ge- goes in a separable verb from the last lesson. This card shows it with sein verbs of travel and change, which you hear every day at the station.",
      "deeper": {
-      "text": "The pattern stays the same with any prefix. Take the prefix, then ge-, then the participle of the basic verb. Mitfahren becomes mitgefahren, because fahren becomes gefahren. If you know the basic participle, you know the separable one. Only the helper verb changes if the meaning changes.",
+      "text": "The pattern stays the same with any prefix. Take the prefix, then ge-, then the participle of the basic verb. Mitfahren becomes mitgefahren, because fahren becomes gefahren. If you know the basic participle, you know the separable one. The helper stays the same as for the basic verb: ist gefahren, ist mitgefahren.",
       "example": {
-       "de": "Anna ist mit Leon mitgefahren.",
-       "en": "Anna went with Leon.",
+       "de": "Anna ist gestern mitgefahren.",
+       "en": "Anna went along yesterday.",
        "parts": [
         [
          "Anna",
@@ -6580,12 +6580,8 @@
          "verb"
         ],
         [
-         "mit",
-         "preposition"
-        ],
-        [
-         "Leon",
-         "dative"
+         "gestern",
+         "time"
         ],
         [
          "mitgefahren.",
@@ -7423,15 +7419,15 @@
     },
     {
      "de": "vorbeigehen",
-     "en": "to pass by, to drop by",
+     "en": "to pass by, to walk past",
      "examples": [
       {
        "de": "Ich gehe am Bahnhof vorbei.",
        "en": "I pass the station."
       },
       {
-       "de": "Leon ist gestern vorbeigegangen.",
-       "en": "Leon dropped by yesterday."
+       "de": "Leon ist gestern am Bahnhof vorbeigegangen.",
+       "en": "Yesterday Leon walked past the station."
       }
      ],
      "forms": "geht vorbei, ist vorbeigegangen"
@@ -8206,7 +8202,7 @@
       },
       {
        "de": "Das ist die Brille von Lukas.",
-       "en": "This is Lukas's pair of glasses.",
+       "en": "This is Lukas's glasses.",
        "parts": [
         [
          "Das",
@@ -10146,8 +10142,8 @@
      "deeper": {
       "text": "Notice that nicht and keine work as in a normal sentence, but the verb still goes last: weil ich keine Zeit habe. If you say weil ich nicht komme, nicht stands before the verb at the end. Short and simple: nicht just waits before the final verb.",
       "example": {
-       "de": "Wir sind froh, weil wir keine Arbeit haben.",
-       "en": "We are glad because we have no work.",
+       "de": "Wir sind froh, weil wir heute nicht arbeiten.",
+       "en": "We are glad because we are not working today.",
        "parts": [
         [
          "Wir",
@@ -10170,15 +10166,15 @@
          "subject"
         ],
         [
-         "keine",
-         "article"
+         "heute",
+         "time"
         ],
         [
-         "Arbeit",
-         "noun"
+         "nicht",
+         "negation"
         ],
         [
-         "haben.",
+         "arbeiten.",
          "verbend"
         ]
        ]
@@ -10291,7 +10287,7 @@
      "more": "In everyday talk nobody repeats the whole sentence. If a friend asks Wieso kommst du nicht zur Party?, you do not say Ich komme nicht zur Party, weil ich krank bin. You just say Weil ich krank bin. That is a complete answer. Read the dialogue below out loud with a friend or alone, in two voices. The verb at the end of each answer gets a tiny stress.",
      "lead": "Time to put it together in a real talk. Two friends ask and answer reasons in a short dialogue, and you can hear how natural weil is when it sits at the end of a short answer.",
      "deeper": {
-      "text": "A reply with weil alone is fine in a chat, but in writing a weil clause must join a main sentence: write Ich komme nicht, weil ich krank bin in a message, and say only Weil ich krank bin in the corridor. A friendly extra is leider (unfortunately) at the start of the main sentence.",
+      "text": "A reply with weil alone is fine when you speak, but in writing a weil clause must join a main sentence: write Ich komme nicht, weil ich krank bin in an email, and say only Weil ich krank bin in the corridor. A friendly extra is leider (unfortunately) at the start of the main sentence.",
       "example": {
        "de": "Leider komme ich nicht, weil ich krank bin.",
        "en": "Unfortunately I am not coming because I am sick.",
@@ -10616,7 +10612,7 @@
     },
     {
      "type": "type",
-     "prompt": "What is the reason in German? der ___",
+     "prompt": "Write the German word for reason: der ___",
      "answers": [
       "Grund"
      ],
@@ -11093,8 +11089,8 @@
      "deeper": {
       "text": "Compare with the main sentence: Ich muss arbeiten becomes weil ich arbeiten muss. The modal and the infinitive swap places. A trick: the verb that changes with the person is always the very last word. Say weil ich ... muss out loud as one rhythm, and the mistake weil ich muss arbeiten disappears.",
       "example": {
-       "de": "Ben schläft lang, weil er heute nicht arbeiten darf.",
-       "en": "Ben sleeps long because he is not allowed to work today.",
+       "de": "Ben schläft lang, weil er heute nicht arbeiten muss.",
+       "en": "Ben sleeps long because he does not have to work today.",
        "parts": [
         [
          "Ben",
@@ -11129,7 +11125,7 @@
          "verb2"
         ],
         [
-         "darf.",
+         "muss.",
          "verbend"
         ]
        ]
@@ -12012,7 +12008,7 @@
      "more": "Nicht is a little word that likes to stand before the last verb. In a weil clause the last verb is at the end, so nicht is right in front of it: weil ich heute nicht arbeite. With a modal, nicht goes before the infinitive: weil ich nicht kommen kann. Practise short dialogues: Warum kommst du nicht? Weil ich arbeiten muss. Wieso arbeitest du nicht? Weil ich heute frei habe. Keep your answers short and clear.",
      "lead": "You can ask a reason and give one. Now you add a negative reason. This card shows where nicht goes inside a weil clause, and how to answer Warum? in short.",
      "deeper": {
-      "text": "Nicht can also go before an adjective: weil ich nicht müde bin. If you are unsure, put nicht right in front of the last word, or the last two words, of the weil clause. A sharper alternative is kein for nouns: weil ich keine Zeit habe, never weil ich nicht Zeit habe.",
+      "text": "Nicht can also go before an adjective: weil ich nicht müde bin. If you are unsure, put nicht right in front of the last word, or the last two words, of the weil clause. With a noun, use kein instead: weil ich keine Zeit habe, never weil ich nicht Zeit habe.",
       "example": {
        "de": "Weil das Wetter nicht schön ist.",
        "en": "Because the weather is not nice.",
@@ -12516,7 +12512,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Leon is nervous because he has stress.",
+     "prompt": "Write in German: Leon is nervous because he is stressed.",
      "answers": [
       "Leon ist nervös, weil er Stress hat."
      ],
@@ -12866,8 +12862,8 @@
       }
      ],
      "steps": [
-      "You already know: Ich möchte einen Kaffee (chapter 4, lesson 2) and how to order and pay in a café (chapter 6, lesson 6)",
-      "New today: the polite chunk Ich hätte gern ..., restaurant words and a reason with weil",
+      "You already know: Ich möchte einen Kaffee (chapter 4, lesson 4) and how to order and pay in a café (chapter 6, lesson 6)",
+      "New today: the polite chunk Ich hätte gern ... (you only saw it once in chapter 4), restaurant words and a reason with weil",
       "By the end you can: read a restaurant homepage, reserve a table, order and say why"
      ],
      "more": "Imagine you walk into a restaurant. A friendly waiter greets you. You do not just point at the menu. You say a polite little sentence, and when he asks why you pick the soup you give a reason. Today you learn the polite sentence as one block, like a ready-made lego brick. You do not take it apart yet. Then you add the weil reason you already know. The next cards go step by step: homepage, booking, menu, ordering, reasons, the evening afterwards and a little look at how people eat in Germany."
@@ -12900,7 +12896,7 @@
       },
       {
        "de": "Das Restaurant ist am Freitag von elf bis zweiundzwanzig Uhr geöffnet.",
-       "en": "The restaurant is open on Friday from eleven to ten.",
+       "en": "The restaurant is open on Friday from 11 am to 10 pm.",
        "parts": [
         [
          "Das",
@@ -13802,7 +13798,7 @@
      "more": "After the dinner you tell a friend what happened. The story needs the Perfekt: haben or sein in place 2, the participle at the end. Gegessen and bezahlt go with haben, gegangen goes with sein. For the opinion use a very short word, war, the past of ist. Das Essen war lecker. And you can always add a reason with weil, with the verb at the end.",
      "lead": "After a meal you tell friends about it. This card shows how to talk about the evening with the Perfekt and war, so you can say what you ate and how it was.",
      "deeper": {
-      "text": "War is the past of ist, and Germans really say it in speech: Das war gut, Das war lecker, Das war teuer. It is one of only two verbs with this short past; the other is hatte. For the story use the Perfekt, for a quick opinion about the past use war. The pair works well: Wir haben gegessen, und das Essen war lecker.",
+      "text": "War is the past of ist, and Germans really say it in speech: Das war gut, Das war lecker, Das war teuer. You know one more verb that is used like this in speech: hatte. For the story use the Perfekt, for a quick opinion about the past use war. The pair works well: Wir haben gegessen, und das Essen war lecker.",
       "example": {
        "de": "Ben hat die Rechnung bezahlt.",
        "en": "Ben paid the bill.",
@@ -13943,10 +13939,10 @@
        ]
       ]
      },
-     "more": "Imagine a normal day. In the morning a Frühstück, at midday the big warm meal, in the evening something light with bread. That is the traditional plan. Restaurants have cheap lunch dishes, so lunch is the best time to eat out. When you pay, you say the total and add a little tip: Stimmt so! means keep the change. If you are invited to a party at a flat, people often bring something: Wir haben was mitgebracht.",
+     "more": "Imagine a normal day. In the morning a Frühstück, at midday the big warm meal, in the evening something light with bread. That is the traditional plan. Restaurants have cheap lunch dishes, so lunch is the best time to eat out. When you pay, you say an amount a little above the total, and that is the tip. If you hand over a note, Stimmt so! means keep the change. If you are invited to a party at a flat, people often bring something: Wir haben was mitgebracht.",
      "lead": "To end this lesson, a short look at habits. This card tells you when Germans eat, how much they tip and what you do when you are invited, so you know what to expect.",
      "deeper": {
-      "text": "In Germany you normally pay at the table, not at a till. The waiter says the total, for example Das macht vierundzwanzig Euro, and you say the amount you want to pay, tip included. Stimmt so! means keep the change. Do not leave coins on the table. It is polite to add Danke schön when you hand over the money.",
+      "text": "In Germany you normally pay at the table, not at a till. The waiter says the total, for example Das macht vierundzwanzig Euro, and you say the amount you want to pay, tip included. Stimmt so! means keep the change. Leaving coins on the table is less common. It is polite to add Danke schön when you hand over the money.",
       "example": {
        "de": "Stimmt so!",
        "en": "Keep the change!",
@@ -14470,7 +14466,7 @@
    "day": 1,
    "reading": {
     "title": "Das bin ich",
-    "text": "Hallo! Ich heiße Mira und komme aus Hamburg. Ich bin 20 Jahre alt. Jetzt wohne ich in Berlin. Meine WG ist toll: Ben, Leon, Anna und ich wohnen zusammen. Ich studiere Musik, und in meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Ben geht oft mit mir, aber Leon geht nie. Ben ist übrigens sehr nett. Meistens koche ich am Sonntag für die WG. Neulich haben wir einen Ausflug geplant. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht. Das war ein Erlebnis! Und du? Was machst du gern?",
+    "text": "Hallo! Ich heiße Mira und komme aus Wien. Ich bin 20 Jahre alt. Jetzt wohne ich in Berlin. Meine WG ist toll: Ben, Leon, Anna und ich wohnen zusammen. Ich studiere Informatik, und in meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Ben geht oft mit mir, aber Leon geht nie. Ben ist übrigens sehr nett. Meistens koche ich am Sonntag für die WG. Neulich haben wir einen Ausflug geplant. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht. Das war ein Erlebnis! Und du? Was machst du gern?",
     "glossary": [
      {
       "de": "WG",
@@ -14481,8 +14477,8 @@
       "en": "great"
      },
      {
-      "de": "Hamburg",
-      "en": "a big city in the north of Germany"
+      "de": "Wien",
+      "en": "Vienna, the capital of Austria"
      }
     ],
     "questions": [
@@ -14491,11 +14487,11 @@
       "prompt": "Where does Mira come from?",
       "options": [
        "Berlin",
-       "Hamburg"
+       "Wien"
       ],
       "answer": 1,
       "hint": "Look at the first two sentences.",
-      "explanation": "Ich komme aus Hamburg."
+      "explanation": "Ich komme aus Wien."
      },
      {
       "type": "choice",
@@ -14529,9 +14525,9 @@
        "music",
        "German"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for studiere.",
-      "explanation": "Ich studiere Musik."
+      "explanation": "Ich studiere Informatik."
      },
      {
       "type": "choice",
@@ -14692,7 +14688,7 @@
        "They grilled and laughed a lot."
       ],
       "answer": 2,
-      "hint": "Listen to the answer to Und was habt ihr gemacht?",
+      "hint": "Listen to the answer to Was habt ihr dann gemacht?",
       "explanation": "Wir haben gegrillt und viel gelacht."
      },
      {
@@ -14846,7 +14842,7 @@
     "free": {
      "prompt": "Write 6 sentences about yourself: say your name and where you live, say what you like to do and what you like best, and say what you did last weekend.",
      "minWords": 40,
-     "model": "Ich heiße Mira und ich wohne in Berlin. Ich komme aus Hamburg, und meine Muttersprache ist Deutsch. In meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht.",
+     "model": "Ich heiße Mira und ich wohne in Berlin. Ich komme aus Österreich, und meine Muttersprache ist Deutsch. In meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht.",
      "checks": [
       {
        "label": "says where you live",
@@ -15012,11 +15008,11 @@
    },
    "listening": {
     "title": "Und am Wochenende?",
-    "script": "Mira: Hallo, Leon! Was hast du am Wochenende gemacht?\nLeon: Ich bin mit dem Zug nach Hamburg gefahren. Wir haben Fußball gespielt.\nMira: Habt ihr gewonnen?\nLeon: Nein, wir haben leider verloren. Aber Anna hat gut gespielt.\nMira: Und was hast du am Sonntag gemacht?\nLeon: Ich bin zu Hause geblieben und habe lange geschlafen.\nMira: Da ist ein Helm. Wessen Helm ist das?\nLeon: Das ist Annas Helm. Und das ist Bens Ball.\nMira: Ich rufe Anna an.",
+    "script": "Mira: Hallo, Leon! Was hast du am Wochenende gemacht?\nLeon: Ich bin mit dem Zug nach Hamburg gefahren. Wir haben Fußball gespielt.\nMira: Habt ihr gewonnen?\nLeon: Nein, wir haben leider verloren. Aber Anna hat gut gespielt.\nMira: Und was hast du am Sonntag gemacht?\nLeon: Ich bin zu Hause geblieben und habe lange geschlafen.\nMira: Da ist ein Helm. Wessen Helm ist das?\nLeon: Das ist Bens Helm. Und das ist Annas Ball.\nMira: Ich rufe Anna an.",
     "questions": [
      {
       "type": "choice",
-      "prompt": "Where did Leon go on Saturday?",
+      "prompt": "Where did Leon go at the weekend?",
       "options": [
        "to Hamburg",
        "to Berlin",
@@ -15110,25 +15106,25 @@
       "prompt": "Whose helmet is it?",
       "options": [
        "Leon's",
-       "Anna's",
+       "Ben's",
        "Mira's"
       ],
       "answer": 1,
       "hint": "Listen to Leon's answer.",
-      "explanation": "Das ist Annas Helm.",
+      "explanation": "Das ist Bens Helm.",
       "grammar": true
      },
      {
       "type": "choice",
       "prompt": "Whose ball is it?",
       "options": [
-       "Anna's",
+       "Ben's",
        "Leon's",
-       "Ben's"
+       "Anna's"
       ],
       "answer": 2,
       "hint": "The name has an -s.",
-      "explanation": "Das ist Bens Ball.",
+      "explanation": "Das ist Annas Ball.",
       "grammar": true
      },
      {
@@ -15457,7 +15453,7 @@
     ]
    },
    "listening": {
-    "title": "Anna and Ben at Zum Löwen",
+    "title": "Anna und Ben im Restaurant „Zum Löwen“",
     "script": "Herr Ali: Guten Abend! Haben Sie einen Tisch reserviert?\nBen: Ja, am Freitag um 19 Uhr. Mein Name ist Ben.\nHerr Ali: Ah ja, ein Tisch für zwei Personen. Bitte sehr. Hier ist die Speisekarte.\nAnna: Danke. Was empfehlen Sie?\nHerr Ali: Das Tagesgericht ist heute Fisch. Das ist sehr lecker, und es ist günstig.\nAnna: Dann hätte ich gern das Tagesgericht, weil ich gern Fisch esse.\nBen: Für mich bitte die Suppe, weil ich nicht viel Hunger habe.\nHerr Ali: Gern. Und was möchten Sie trinken?\nAnna: Ein Wasser, bitte.\nBen: Und ich hätte gern einen Saft.\nHerr Ali: Sehr gern.\nBen: Zahlen, bitte!\nHerr Ali: Das macht vierundzwanzig Euro.\nBen: Stimmt so!\nHerr Ali: Danke schön! Schönen Abend noch!",
     "questions": [
      {
@@ -15727,7 +15723,7 @@
     "free": {
      "prompt": "Write an e-mail to Herr Ali. Reserve a table (day, time, how many people) and give a reason with weil. Write 4 to 5 sentences.",
      "minWords": 40,
-     "model": "Guten Tag Herr Ali, ich möchte einen Tisch für vier Personen reservieren. Am Freitag um 19 Uhr, bitte. Ich komme mit Ben, Anna und Leon, weil Anna Geburtstag hat. Wir haben Hunger, weil wir viel gearbeitet haben. Wir möchten auch einen Nachtisch bestellen. Danke und bis Freitag!",
+     "model": "Guten Tag, Herr Ali, ich möchte einen Tisch für vier Personen reservieren. Am Freitag um 19 Uhr, bitte. Ich komme mit Ben, Anna und Leon, weil Anna Geburtstag hat. Wir kommen gern zu Ihnen, weil das Essen so lecker ist. Wir möchten auch einen Nachtisch bestellen. Danke und bis Freitag!",
      "checks": [
       {
        "label": "asks to reserve a table",
