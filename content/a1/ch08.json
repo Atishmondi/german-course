@@ -3429,7 +3429,7 @@
     },
     {
      "title": "A personal question? Say no politely",
-     "body": "In Germany, weight and age can feel private. Some questions (die Frage, die Fragen) are zu persönlich (too personal). Refuse politely: Say: Das ist privat. or Das möchte ich nicht sagen. The second one is a modal sentence: möchte is part 2 and sagen goes to the end.",
+     "body": "In Germany, weight and age can feel private. Some questions (die Frage, die Fragen) are zu persönlich (too personal). Refuse politely: Das ist privat. or Das möchte ich nicht sagen. The second one is a modal sentence: möchte is part 2 and sagen goes to the end.",
      "examples": [
       {
        "de": "Das ist privat.",
@@ -10131,7 +10131,7 @@
     "prompts": [
      "Ask the doctor if you may do sport.",
      "Say that smoking is forbidden here.",
-     "Tell a friend that he does not have to work."
+     "Tell a friend that they do not have to work."
     ],
     "examples": [
      "Darf ich Sport machen?",
@@ -13460,7 +13460,7 @@
     ]
    },
    "listening": {
-    "title": "Leon at the doctor",
+    "title": "Leon beim Arzt",
     "script": "Ärztin: Guten Tag, Herr Rossi. Wie alt sind Sie?\nLeon: Ich bin 22 Jahre alt.\nÄrztin: Wie groß sind Sie?\nLeon: Ich bin ein Meter fünfundsiebzig groß.\nÄrztin: Wie viel wiegen Sie?\nLeon: Das möchte ich nicht sagen.\nÄrztin: Gut. Was haben Sie? Haben Sie Fieber?\nLeon: Nein, ich habe kein Fieber. Ich habe Husten.\nÄrztin: Seit wann haben Sie Husten?\nLeon: Seit gestern.\nÄrztin: Wo tut es weh? Haben Sie Bauchschmerzen?\nLeon: Nein. Mein Kopf und meine Ohren tun weh.",
     "questions": [
      {
@@ -13882,7 +13882,7 @@
     ]
    },
    "listening": {
-    "title": "Herr Ali at the pharmacy",
+    "title": "Herr Ali in der Apotheke",
     "script": "Apothekerin: Guten Tag, Herr Ali. Haben Sie ein Rezept?\nHerr Ali: Ja, hier bitte.\nApothekerin: Danke. Das sind Tropfen und eine Salbe. Nehmen Sie zweimal am Tag zehn Tropfen.\nHerr Ali: Und die Salbe?\nApothekerin: Nehmen Sie die Salbe abends. Und trinken Sie viel Wasser.\nHerr Ali: Muss ich im Bett bleiben?\nApothekerin: Ja, bis Montag. Arbeiten Sie nicht.\nHerr Ali: Was kostet das?\nApothekerin: Das macht zwölf Euro.\nHerr Ali: Hier, bitte. Auf Wiedersehen!\nApothekerin: Gute Besserung!",
     "questions": [
      {
@@ -14281,7 +14281,7 @@
     ]
    },
    "listening": {
-    "title": "Mira calls Ben",
+    "title": "Mira ruft Ben an",
     "script": "Mira: Hallo Ben! Wie geht's?\nBen: Nicht gut. Ich habe Fieber.\nMira: Darf ich dich besuchen?\nBen: Ja, bitte! Aber ich soll im Bett bleiben.\nMira: Was soll ich mitbringen?\nBen: Ich soll viel Tee trinken. Ich habe keinen Tee.\nMira: Gut. Ich bringe Tee mit Honig und Hühnersuppe.\nBen: Super, danke! Ich soll dreimal am Tag eine Tablette nehmen.\nMira: Wie lange musst du im Bett bleiben?\nBen: Bis Montag. Ich darf nicht arbeiten.\nMira: Ruf Leon an! Er hat heute Zeit.\nBen: Ja, mache ich. Danke, Mira!\nMira: Gute Besserung, Ben!",
     "questions": [
      {
