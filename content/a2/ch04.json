@@ -484,7 +484,7 @@
     },
     {
      "title": "Ask how somebody feels",
-     "body": "To ask, put the verb first, then the subject, then the pronoun: Wie fühlst du dich? Fühlt ihr euch wohl? With a name, the pronoun comes first: Wie fühlt sich Ben heute? Fühlst du dich wohl? is a fixed block you can use now: it means Do you feel comfortable?",
+     "body": "To ask, put the verb first, then the subject, then the pronoun: Wie fühlst du dich? Fühlt ihr euch wohl? With a name, the pronoun usually comes first: Wie fühlt sich Ben heute? Fühlst du dich wohl? is a fixed block you can use now: it means Do you feel comfortable?",
      "lead": "You can say how everybody feels. Now you learn the same pattern in questions and after a time word, which is how you really talk in the WG.",
      "examples": [
       {
@@ -559,7 +559,7 @@
       }
      ],
      "deeper": {
-      "text": "Notice the order: after a pronoun the reflexive pronoun follows the pronoun (fühle ich mich, fühlst du dich), but before a name it comes first (fühlt sich Ben). It always stays close to the verb. You will not need other positions for a long time, and the same idea works for every subject.",
+      "text": "Notice the order: after a pronoun the reflexive pronoun follows the pronoun (fühle ich mich, fühlst du dich), but before a name it usually comes first (fühlt sich Ben; fühlt Ben sich is also correct). It always stays close to the verb. You will not need other positions for a long time, and the same idea works for every subject.",
       "example": {
        "de": "Wie fühlt sich Ben heute?",
        "en": "How does Ben feel today?",
@@ -1226,8 +1226,8 @@
      "en": "joy",
      "examples": [
       {
-       "de": "Mira hat Freude.",
-       "en": "Mira is full of joy."
+       "de": "Das macht Freude.",
+       "en": "That brings joy."
       },
       {
        "de": "Die Freude ist groß.",
@@ -2104,10 +2104,10 @@
       }
      ],
      "deeper": {
-      "text": "In German you can fall in love with places and things too, and it sounds natural: Ich habe mich in Berlin verliebt. After in comes the accusative, the direction case, and in das usually shrinks to ins: Ben verliebt sich ins Café. For the state of being in love German uses the adjective verliebt with sein, without sich: Anna ist in Leon verliebt.",
+      "text": "In German you can fall in love with places and things too, and it sounds natural: Ich habe mich in Berlin verliebt. After in comes the accusative, the direction case, and in das usually shrinks to ins: Ben verliebt sich ins Café. For the state of being in love German uses the adjective verliebt with sein, without sich: Anna ist in Ben verliebt.",
       "example": {
-       "de": "Anna ist in Leon verliebt.",
-       "en": "Anna is in love with Leon.",
+       "de": "Anna ist in Ben verliebt.",
+       "en": "Anna is in love with Ben.",
        "parts": [
         [
          "Anna",
@@ -2122,7 +2122,7 @@
          "preposition"
         ],
         [
-         "Leon",
+         "Ben",
          "object"
         ],
         [
@@ -3098,7 +3098,7 @@
       }
      ],
      "deeper": {
-      "text": "It does not matter that English says I am dressed or I have sat down. In German the helper is always haben with these verbs: Ich habe mich gesetzt, Ich habe mich hingelegt. Sein is only for verbs of movement or change, and the reflexive verbs do not belong there. If you are not sure about a reflexive verb, use haben, because it is right every time.",
+      "text": "English says I am dressed or I sat down, but in German the helper is always haben with these verbs: Ich habe mich gesetzt, Ich habe mich hingelegt. Sein is only for verbs of movement or change, and the reflexive verbs do not belong there. If you are not sure about a reflexive verb, use haben, because it is right every time.",
       "example": {
        "de": "Ich habe mich hingelegt.",
        "en": "I lay down.",
@@ -3165,7 +3165,7 @@
     },
     {
      "title": "With modals: muss, soll, will, kann",
-     "body": "In a sentence with a modal the modal is in second place and the main verb goes to the end as an infinitive. The reflexive pronoun comes right after the subject: Ich muss mich beeilen. Du sollst dich setzen. Wir wollen uns entspannen. In a question the order is Kannst du dich konzentrieren?",
+     "body": "In a sentence with a modal the modal is in second place and the main verb goes to the end as an infinitive. The reflexive pronoun comes right behind the subject and the modal: Ich muss mich beeilen. Du sollst dich setzen. Wir wollen uns entspannen. In a question the order is Kannst du dich konzentrieren?",
      "lead": "You know the Perfekt. The last sentence type is the modal sentence, for what you must, should or want to do to yourself.",
      "examples": [
       {
@@ -3264,7 +3264,7 @@
        ]
       }
      },
-     "more": "In a modal sentence there are two verbs, and they sit like two bookends: the modal is in position 2, the infinitive is at the end. The little word is not a bookend, it sits right after the subject, next to the modal. Say it out loud: ich muss mich beeilen, du sollst dich setzen, wir wollen uns entspannen. The pronoun never goes behind the infinitive.",
+     "more": "In a modal sentence there are two verbs, and they sit like two bookends: the modal is in position 2, the infinitive is at the end. The little word is not a bookend, it sits right behind the subject and the modal. Say it out loud: ich muss mich beeilen, du sollst dich setzen, wir wollen uns entspannen. The pronoun never goes behind the infinitive.",
      "steps": [
       "Step 1: subject, then the modal in second place.",
       "Step 2: the reflexive pronoun right behind them.",
@@ -3858,12 +3858,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Wir ___ uns. (sich verabschieden)",
+     "prompt": "Complete: Ben ___ sich. (sich verabschieden)",
      "answers": [
-      "verabschieden"
+      "verabschiedet"
      ],
-     "hint": "Wir takes the infinitive form.",
-     "explanation": "Wir verabschieden uns.",
+     "hint": "Er form: the stem ends in d, so add -et, like arbeitet.",
+     "explanation": "Ben verabschiedet sich.",
      "grammar": true
     },
     {
@@ -4364,7 +4364,7 @@
       }
      ],
      "deeper": {
-      "text": "In English, if and when are two words, and German wann is a question word: Wann kommst du? Wenn is never a question. It joins two parts of one sentence, and the part after wenn is a condition or a situation. If you can ask in English “and only then?”, wenn is the right word.",
+      "text": "English when has two German partners. Wann is only a question word: Wann kommst du? Wenn is never a question. It joins two parts of one sentence, and the part after wenn is a condition or a situation, so wenn can mean if or when. If you can ask in English “and only then?”, wenn is the right word.",
       "example": {
        "de": "Wann kommst du? Ich komme, wenn ich Zeit habe.",
        "en": "When are you coming? I am coming when I have time.",
@@ -4832,7 +4832,7 @@
       }
      ],
      "deeper": {
-      "text": "Weinen and lächeln are regular: ich weine, du weinst, er weint; ich lächle, du lächelst, er lächelt. Lächeln drops the e in the ich form, like sammeln: ich sammle. In the Perfekt both take haben: Ich habe geweint, sie hat gelächelt. Lachen is a big laugh, lächeln is a small smile.",
+      "text": "Weinen and lächeln are regular: ich weine, du weinst, er weint; ich lächle, du lächelst, er lächelt. Lächeln drops the e in the ich form: ich lächle. In the Perfekt both take haben: Ich habe geweint, sie hat gelächelt. Lachen is a big laugh, lächeln is a small smile.",
       "example": {
        "de": "Mira hat gelächelt, aber Leon hat gelacht.",
        "en": "Mira smiled, but Leon laughed.",
@@ -5001,7 +5001,7 @@
      "deeper": {
       "text": "A separable reflexive verb follows both rules: the pronoun after the subject, the verb as one word at the end. So: wenn ich mich aufrege. With a modal the infinitive comes before the modal: wenn du dich beeilen musst. In the main clause after the comma the pronoun comes right after the subject: Wenn es regnet, ärgere ich mich.",
       "example": {
-       "de": "Wenn es regnet, ärgert Ben sich.",
+       "de": "Wenn es regnet, ärgert sich Ben.",
        "en": "If it rains, Ben gets annoyed.",
        "parts": [
         [
@@ -5021,12 +5021,12 @@
          "verb"
         ],
         [
-         "Ben",
-         "subject"
+         "sich",
+         "reflexive"
         ],
         [
-         "sich.",
-         "reflexive"
+         "Ben.",
+         "subject"
         ]
        ]
       }
@@ -5717,9 +5717,9 @@
     "point": "Wenn also means whenever. Immer wenn makes this clear. The word order stays the same: verb at the end of the wenn clause, verb first in the main clause. After the comma you can add dann, then the verb: Wenn Mira schlechte Laune hat, dann ist sie still. Sich streiten, sich entschuldigen, sich vertragen and sich schämen are reflexive.",
     "oneLine": "Immer wenn Leon kocht, ist die Küche schmutzig. Wir streiten uns.",
     "mistake": {
-     "wrong": "Wir streiten.",
-     "right": "Wir streiten uns.",
-     "why": "When people argue with each other, streiten is reflexive: wir streiten uns, sie streiten sich. The pronoun shows that both sides are in the quarrel."
+     "wrong": "Wir haben uns gestreitet.",
+     "right": "Wir haben uns gestritten.",
+     "why": "Streiten is irregular: the participle is gestritten. Like every reflexive verb it takes haben: wir haben uns gestritten, sie haben sich gestritten."
     }
    },
    "terms": [
@@ -6231,7 +6231,7 @@
       }
      ],
      "deeper": {
-      "text": "Sich streiten has a strong Perfekt: Wir haben uns gestritten. Like all reflexive verbs, it takes haben. With whom? Mit plus dative: Ich streite mich mit Ben. Without sich the verb sounds wrong when you mean with each other. So learn the whole block: sich streiten, hat sich gestritten.",
+      "text": "Sich streiten has a strong Perfekt: Wir haben uns gestritten. Like all reflexive verbs, it takes haben. With whom? Mit plus dative: Ich streite mich mit Ben. You also hear Wir streiten oft without uns, but sich makes clear that both sides argue with each other. So learn the whole block: sich streiten, hat sich gestritten.",
       "example": {
        "de": "Gestern haben wir uns gestritten.",
        "en": "Yesterday we argued.",
@@ -6829,7 +6829,7 @@
      "prompt": "Which sentence is correct?",
      "options": [
       "Wir streiten uns.",
-      "Wir streiten.",
+      "Wir streitet uns.",
       "Wir uns streiten."
      ],
      "answer": 0,
@@ -7557,7 +7557,7 @@
        ]
       }
      },
-     "more": "Picture your friend with great news, a wedding or a new job. You say three things, one after the other. First the key phrase: Herzlichen Glückwunsch! Then a wish for the future: Alles Gute! Then your own feeling: Ich freue mich für dich. Three short blocks, and it sounds warm and natural. English says congratulations on, so learners often write für. Never write für after Glückwunsch: it is zum or zur, Herzlichen Glückwunsch zur Hochzeit.",
+     "more": "Picture your friend with great news, a wedding or a new job. You say three things, one after the other. First the key phrase: Herzlichen Glückwunsch! Then a wish for the future: Alles Gute! Then your own feeling: Ich freue mich für dich. Three short blocks, and it sounds warm and natural. Many learners write für here. Never write für after Glückwunsch: it is zum or zur, Herzlichen Glückwunsch zur Hochzeit.",
      "table": {
       "headers": [
        "You want to …",
@@ -7680,7 +7680,7 @@
        ]
       }
      },
-     "more": "Here less is more. When someone is sad, a few calm words are kinder than many. Say Es tut mir sehr leid, or write Mein herzliches Beileid on a card when a person has died. For a pet, like Frau Weber’s old cat, the simple Es tut mir so leid sounds warmer. Then offer help: Wenn Sie Hilfe brauchen, rufen Sie mich an. That one sentence shows you care, and it uses the wenn from this chapter.",
+     "more": "Here less is more. When someone is sad, a few calm words are kinder than many. Say Es tut mir sehr leid, or write Mein herzliches Beileid on a card when a person has died. For a pet, like a friend’s old cat, the simple Es tut mir so leid sounds warmer. Then offer help: Wenn Sie Hilfe brauchen, rufen Sie mich an. That one sentence shows you care, and it uses the wenn from this chapter.",
      "steps": [
       "Step 1: the feeling: Es tut mir sehr leid.",
       "Step 2: on a card or for a person: Mein herzliches Beileid.",
@@ -8268,12 +8268,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Frau Webers Katze ist ___. (sterben)",
+     "prompt": "Complete: Die alte Katze von Leons Oma ist ___. (sterben)",
      "answers": [
       "gestorben"
      ],
      "hint": "Perfekt with sein.",
-     "explanation": "Frau Webers Katze ist gestorben.",
+     "explanation": "Die alte Katze von Leons Oma ist gestorben.",
      "grammar": true
     },
     {
@@ -8943,10 +8943,10 @@
       }
      ],
      "deeper": {
-      "text": "Neujahr is the 1st of January, the first day of the new year. It works like the festivals: an Neujahr, with no article. So the night is an Silvester and the next morning is an Neujahr. Many people sleep long an Neujahr, because they celebrate until late an Silvester.",
+      "text": "Neujahr is the 1st of January, the first day of the new year. It works like the festivals: an Neujahr, with no article. So the night is an Silvester and the next morning is an Neujahr. Many people sleep in an Neujahr, because they celebrate until late an Silvester.",
       "example": {
        "de": "An Neujahr schlafen wir lange.",
-       "en": "On New Year’s Day we sleep long.",
+       "en": "On New Year’s Day we sleep in.",
        "parts": [
         [
          "An",
@@ -10038,12 +10038,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Immer wenn wir uns streiten, ___ wir uns schnell wieder. (sich vertragen)",
+     "prompt": "Complete: Immer wenn ich mich mit Ben streite, ___ ich mich schnell wieder mit ihm. (sich vertragen)",
      "answers": [
-      "vertragen"
+      "vertrage"
      ],
-     "hint": "Verb first after the wenn clause.",
-     "explanation": "Immer wenn wir uns streiten, vertragen wir uns schnell wieder.",
+     "hint": "Verb first after the wenn clause; ich form.",
+     "explanation": "Immer wenn ich mich mit Ben streite, vertrage ich mich schnell wieder mit ihm.",
      "grammar": true
     },
     {
@@ -10173,8 +10173,8 @@
        "why": "You know this from lesson 5."
       },
       {
-       "de": "Als ich klein war, war ich oft auf dem Jahrmarkt.",
-       "en": "When I was little, I was often at the fair.",
+       "de": "Als ich klein war, war ich gern auf dem Jahrmarkt.",
+       "en": "When I was little, I loved being at the fair.",
        "parts": [
         [
          "Als",
@@ -10201,8 +10201,8 @@
          "subject"
         ],
         [
-         "oft",
-         "time"
+         "gern",
+         "other"
         ],
         [
          "auf",
@@ -11279,7 +11279,7 @@
       "war"
      ],
      "hint": "Past of sein, at the end.",
-     "explanation": "Als Ben in Kiel war, war das Wetter schön.",
+     "explanation": "Als Ben in Kiel war, hatte er viel Zeit.",
      "grammar": true
     },
     {
@@ -11627,8 +11627,8 @@
      "en": "stall, stand",
      "examples": [
       {
-       "de": "Der Stand verkauft Kuchen.",
-       "en": "The stall sells cake."
+       "de": "Am Stand gibt es Kuchen.",
+       "en": "There is cake at the stall."
       },
       {
        "de": "Am Hafen gibt es viele Stände.",
@@ -13353,7 +13353,7 @@
    },
    "listening": {
     "title": "Wie war dein Tag?",
-    "script": "Anna: Hallo Mira! Wie war dein Tag?\nMira: Super! Ich habe die Prüfung gemacht. Ich bin erleichtert, und ich bin stolz.\nAnna: Das freut mich! Ich habe mich heute geärgert. Der Bus war spät.\nMira: Oh nein! Hast du dich beeilt?\nAnna: Ja, ich habe mich beeilt, aber der Bus ist schon gefahren.\nMira: Und was hast du danach gemacht?\nAnna: Danach habe ich mich im Park entspannt. Jetzt fühle ich mich wieder gut.\nMira: Das ist schön! Wollen wir heute Abend feiern?\nAnna: Ja, ich freue mich auf heute Abend.\nMira: Ich mich auch! Aber ich muss mich jetzt hinlegen. Ich bin müde.",
+    "script": "Anna: Hallo Mira! Wie war dein Tag?\nMira: Super! Ich habe die Prüfung gemacht. Ich bin erleichtert, und ich bin stolz.\nAnna: Das freut mich! Ich habe mich heute geärgert. Ich war zu spät an der Haltestelle.\nMira: Oh nein! Hast du dich beeilt?\nAnna: Ja, ich habe mich beeilt, aber der Bus ist schon gefahren.\nMira: Und was hast du danach gemacht?\nAnna: Danach habe ich mich im Park entspannt. Jetzt fühle ich mich wieder gut.\nMira: Das ist schön! Wollen wir heute Abend feiern?\nAnna: Ja, ich freue mich auf heute Abend.\nMira: Ich mich auch! Aber ich muss mich jetzt hinlegen. Ich bin müde.",
     "questions": [
      {
       "type": "choice",
@@ -13396,12 +13396,12 @@
       "prompt": "Why was Anna annoyed?",
       "options": [
        "She lost her phone.",
-       "The bus was late.",
+       "She was late for the bus.",
        "Mira was late."
       ],
       "answer": 1,
       "hint": "Listen after Anna's second line.",
-      "explanation": "Der Bus war spät."
+      "explanation": "Ich war zu spät an der Haltestelle."
      },
      {
       "type": "choice",
@@ -13589,13 +13589,14 @@
      },
      {
       "type": "build",
-      "prompt": "Build: Anna is annoyed because the bus is late.",
+      "prompt": "Build: Anna is annoyed because the bus is coming late.",
       "tokens": [
        "Bus",
        "der",
        "Anna",
-       "ist.",
+       "kommt.",
        "spät",
+       "zu",
        "weil",
        "sich,",
        "ärgert"
@@ -13607,18 +13608,19 @@
        "weil",
        "der",
        "Bus",
+       "zu",
        "spät",
-       "ist."
+       "kommt."
       ],
       "hint": "After weil the verb is last.",
-      "explanation": "Anna ärgert sich, weil der Bus spät ist.",
+      "explanation": "Anna ärgert sich, weil der Bus zu spät kommt.",
       "grammar": true
      }
     ],
     "free": {
      "prompt": "Meine Woche und meine Gefühle: write 5 or 6 sentences about your week. Use at least three different reflexive verbs, one Perfekt with a reflexive verb and one sentence with sich freuen auf.",
      "minWords": 40,
-     "model": "Am Montag habe ich mich geärgert, weil der Bus spät war. Am Dienstag habe ich mich im Park entspannt. Ich fühle mich heute müde, aber glücklich. Mira und ich freuen uns auf das Wochenende, dann erholen wir uns. Ich freue mich auch auf den Samstag, weil wir ein Fest haben.",
+     "model": "Am Montag habe ich mich geärgert, weil der Bus zu spät gekommen ist. Am Dienstag habe ich mich im Park entspannt. Ich fühle mich heute müde, aber glücklich. Mira und ich freuen uns auf das Wochenende, dann erholen wir uns. Ich freue mich auch auf den Samstag, weil wir ein Fest haben.",
      "checks": [
       {
        "label": "uses at least three reflexive pronouns (mich, dich, sich, uns, euch)",
@@ -13643,7 +13645,7 @@
    "day": 2,
    "reading": {
     "title": "Die Nachricht",
-    "text": "Liebe Mira, lieber Ben, lieber Leon, liebe Anna,\nmein Restaurant „Zum Löwen“ ist jetzt zwanzig Jahre alt! Ich bin sehr dankbar, denn ohne meine Gäste gibt es kein Restaurant. Das Jubiläum feiern wir am Samstag um 19 Uhr. Es gibt Musik und eine Torte. Wenn ihr Zeit habt, kommt bitte! Ich freue mich auf euch.\nViele Grüße Herr Ali\n\nLieber Herr Ali,\nherzlichen Glückwunsch zum Jubiläum! Wir freuen uns sehr für Sie. Vielen Dank für die Einladung! Ben, Anna und ich kommen gern. Schade, dass Leon nicht kommen kann. Er arbeitet am Samstag und ärgert sich sehr. Immer wenn wir bei Ihnen essen, ist die Stimmung super. Wenn Sie Hilfe brauchen, rufen Sie uns an!\nAlles Gute und bis Samstag\nMira",
+    "text": "Liebe Mira, lieber Ben, lieber Leon, liebe Anna,\nmein Restaurant „Zum Löwen“ ist jetzt zwanzig Jahre alt! Ich bin sehr dankbar, denn ohne meine Gäste gibt es kein Restaurant. Das Jubiläum feiern wir am Samstag um 19 Uhr. Es gibt Musik und eine Torte. Wenn ihr Zeit habt, kommt bitte! Ich freue mich auf euch.\nViele Grüße\nHerr Ali\n\nLieber Herr Ali,\nherzlichen Glückwunsch zum Jubiläum! Wir freuen uns sehr für Sie. Vielen Dank für die Einladung! Ben, Anna und ich kommen gern. Schade, dass Leon nicht kommen kann. Er arbeitet am Samstag und ärgert sich sehr. Immer wenn wir bei Ihnen essen, ist die Stimmung super. Wenn Sie Hilfe brauchen, rufen Sie uns an!\nAlles Gute und bis Samstag\nMira",
     "glossary": [
      {
       "de": "Löwe",
@@ -13677,7 +13679,7 @@
       ],
       "answer": 1,
       "hint": "Look at the end of the first message.",
-      "explanation": "Viele Grüße, Herr Ali."
+      "explanation": "The message ends with Herr Ali."
      },
      {
       "type": "choice",
@@ -14237,7 +14239,7 @@
    },
    "listening": {
     "title": "Feste früher und heute",
-    "script": "Anna: Frau Weber, wie war Weihnachten, als Sie klein waren?\nFrau Weber: Ach, das war schön. Als ich klein war, hatten wir nicht viel Geld. Immer wenn Weihnachten war, hat meine Mutter aber einen Kuchen gebacken.\nAnna: Und hatten Sie einen Weihnachtsbaum?\nFrau Weber: Ja, natürlich. Wir haben ihn zusammen geschmückt, mit Kerzen. Die Kerzen waren echt!\nAnna: Wow. Ich feiere lieber Karneval. Immer wenn Karneval ist, fahre ich nach Köln.\nFrau Weber: Karneval? Das ist mir zu laut. Ich ärgere mich immer über die Musik.\nAnna: Aber da fühle ich mich wohl! Im Februar war ich zum ersten Mal da.\nFrau Weber: Und was haben Sie getragen?\nAnna: Ein Kostüm. Ich war eine Katze! Als die Musik gespielt hat, haben wir bis Mitternacht getanzt.\nFrau Weber: Na ja, jeder feiert anders. Ich freue mich auf Weihnachten, und Sie freuen sich auf Karneval.\nAnna: Genau! Frohe Weihnachten, Frau Weber!\nFrau Weber: Danke, Anna. Und einen guten Rutsch!",
+    "script": "Anna: Frau Weber, wie war Weihnachten, als Sie klein waren?\nFrau Weber: Ach, das war schön. Als ich klein war, hatten wir nicht viel Geld. Immer wenn Weihnachten war, hat meine Mutter aber einen Kuchen gebacken.\nAnna: Und hatten Sie einen Weihnachtsbaum?\nFrau Weber: Ja, natürlich. Wir haben ihn zusammen geschmückt, mit Kerzen. Die Kerzen waren echt!\nAnna: Wow. Ich feiere lieber Karneval. Im Februar fahre ich wieder nach Köln.\nFrau Weber: Karneval? Das ist mir zu laut. Ich ärgere mich immer über die Musik.\nAnna: Aber da fühle ich mich wohl! Letztes Jahr war ich zum ersten Mal da.\nFrau Weber: Und was haben Sie getragen?\nAnna: Ein Kostüm. Ich war eine Katze! Als die Musik gespielt hat, haben wir bis Mitternacht getanzt.\nFrau Weber: Na ja, jeder feiert anders. Ich freue mich auf Weihnachten, und Sie freuen sich auf Karneval.\nAnna: Genau! Frohe Weihnachten, Frau Weber!\nFrau Weber: Danke, Anna. Und einen guten Rutsch!",
     "questions": [
      {
       "type": "choice",
@@ -14327,13 +14329,13 @@
       "type": "choice",
       "prompt": "When was Anna there for the first time?",
       "options": [
-       "at Christmas",
-       "in February",
-       "last summer"
+       "two years ago",
+       "last year",
+       "at Easter"
       ],
       "answer": 1,
       "hint": "Zum ersten Mal …",
-      "explanation": "Im Februar war ich zum ersten Mal da."
+      "explanation": "Letztes Jahr war ich zum ersten Mal da."
      },
      {
       "type": "choice",

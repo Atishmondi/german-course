@@ -7545,7 +7545,7 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:8Vmwekr6WN4",
+     "yt:_tHi2rjFKd0",
      "yt:pCw0kXIZ1xI",
      "yt:AOQ5X-ayjWE"
     ],
@@ -15569,7 +15569,7 @@
    "day": 3,
    "reading": {
     "title": "Kino im Park",
-    "text": "Am Samstag gibt es im Park ein Kino. Die Leinwand ist groß, und die Kinokarte kostet nur fünf Euro. Der Film ist ein Krimi. Er handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund in der Stadt. Am Ende findet sie ihn im Park. Wir machen dazu ein Picknick.\nMira: Ich habe den Film schon gesehen. Ich finde, dass er spannender als eine Komödie ist, und ich weiß, dass das Ende schön ist.\nBen: Ich sehe lieber Actionfilme als Krimis. Ich glaube aber, dass dieser Film gut ist. Ich bringe das Popcorn mit.\nHerr Ali: Ich habe auch das Buch gelesen. Ich finde, dass das Buch besser als der Film ist. Im Buch ist die Handlung nicht so langweilig wie im Film.",
+    "text": "Am Samstag gibt es im Park ein Kino. Die Leinwand ist groß, und die Kinokarte kostet nur fünf Euro. Der Film ist ein Krimi. Er handelt von einer Schauspielerin und einem Hund. Am Anfang stiehlt ein Dieb den Hund. Dann sucht sie den Hund in der Stadt. Am Ende findet sie ihn im Park. Wir machen dazu ein Picknick.\nMira: Ich habe den Film schon gesehen. Ich finde, dass er spannender als eine Komödie ist, und ich weiß, dass das Ende schön ist.\nBen: Ich sehe lieber Actionfilme als Krimis. Ich glaube aber, dass dieser Film gut ist. Ich bringe das Popcorn mit.\nHerr Ali: Ich habe auch das Buch gelesen. Ich finde, dass das Buch besser als der Film ist. Im Buch ist die Handlung nicht so langweilig wie im Film.",
     "glossary": [
      {
       "de": "schon",
@@ -15590,6 +15590,14 @@
      {
       "de": "dieser",
       "en": "this"
+     },
+     {
+      "de": "stiehlt (stehlen)",
+      "en": "steals (to steal)"
+     },
+     {
+      "de": "der Dieb",
+      "en": "thief"
      }
     ],
     "questions": [
@@ -15645,13 +15653,13 @@
       "type": "choice",
       "prompt": "What happens at the beginning?",
       "options": [
-       "The actress loses the dog.",
+       "A thief steals the dog.",
        "The actress finds the dog.",
        "The actress buys a dog."
       ],
       "answer": 0,
       "hint": "Look for Am Anfang.",
-      "explanation": "Am Anfang verliert die Schauspielerin den Hund."
+      "explanation": "Am Anfang stiehlt ein Dieb den Hund."
      },
      {
       "type": "choice",
@@ -15717,7 +15725,7 @@
    },
    "listening": {
     "title": "Wie war der Film?",
-    "script": "Herr Ali: Hallo Anna! Wie war der Film?\nAnna: Hallo, Herr Ali. Ich habe gestern Abend einen Krimi gesehen. Ich finde, dass er sehr spannend war.\nHerr Ali: Worum geht es in dem Film?\nAnna: Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund, und am Ende findet sie ihn im Park.\nHerr Ali: Spielt die Schauspielerin die Hauptrolle?\nAnna: Ja, sie spielt die Hauptrolle. Ich weiß, dass sie sehr berühmt ist.\nHerr Ali: Ich habe auch das Buch gelesen. Ich glaube, dass das Buch besser als der Film ist.\nAnna: Na ja ... Ich finde, dass der Film witziger als das Buch war.\nHerr Ali: Vielleicht. Und deine Kritik?\nAnna: Der Film hat vier von fünf Sternen. Ich empfehle ihn, weil er so spannend ist.\nHerr Ali: Danke, Anna. Dann sehe ich den Film am Samstag im Park.\nAnna: Gute Idee! Ich bringe die Getränke mit.",
+    "script": "Herr Ali: Hallo Anna! Wie war der Film?\nAnna: Hallo, Herr Ali. Ich habe gestern Abend einen Krimi gesehen. Ich finde, dass er sehr spannend war.\nHerr Ali: Worum geht es in dem Film?\nAnna: Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang stiehlt ein Dieb den Hund. Dann sucht sie den Hund, und am Ende findet sie ihn im Park.\nHerr Ali: Spielt die Schauspielerin die Hauptrolle?\nAnna: Ja, sie spielt die Hauptrolle. Ich weiß, dass sie sehr berühmt ist.\nHerr Ali: Ich habe auch das Buch gelesen. Ich glaube, dass das Buch besser als der Film ist.\nAnna: Na ja ... Ich finde, dass der Film witziger als das Buch war.\nHerr Ali: Vielleicht. Und deine Kritik?\nAnna: Der Film hat vier von fünf Sternen. Ich empfehle ihn, weil er so spannend ist.\nHerr Ali: Danke, Anna. Dann sehe ich den Film am Samstag im Park.\nAnna: Gute Idee! Ich bringe die Getränke mit.",
     "questions": [
      {
       "type": "choice",
@@ -15993,7 +16001,7 @@
     "free": {
      "prompt": "Write 6 or 7 sentences about \"Mein Kommentar zu einem Film\". Say what kind of film it is and when you saw it, what it is about (handelt von), one comparison with als, two dass clauses and a reason with weil. End with a recommendation.",
      "minWords": 40,
-     "model": "Gestern habe ich einen Krimi gesehen. Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Ich finde, dass der Film spannender als eine Komödie war. Ich glaube auch, dass die Hauptrolle sehr gut war. Der Film hat vier von fünf Sternen. Ich empfehle den Film, weil er sehr spannend ist.",
+     "model": "Gestern habe ich einen Krimi gesehen. Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang stiehlt ein Dieb den Hund. Ich finde, dass der Film spannender als eine Komödie war. Ich glaube auch, dass die Hauptrolle sehr gut war. Der Film hat vier von fünf Sternen. Ich empfehle den Film, weil er sehr spannend ist.",
      "checks": [
       {
        "label": "says what the film is about (handelt von / geht um)",
