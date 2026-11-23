@@ -1318,15 +1318,15 @@
     },
     {
      "type": "choice",
-     "prompt": "Ich würde gern reisen, aber ich würde ___ segeln.",
+     "prompt": "Ich würde ___ segeln als reisen. (more than)",
      "options": [
       "am liebsten",
       "lieber",
       "gern"
      ],
      "answer": 1,
-     "hint": "I would rather: the comparative of gern.",
-     "explanation": "Ich würde lieber segeln.",
+     "hint": "Als compares two things: use the comparative of gern.",
+     "explanation": "Ich würde lieber segeln als reisen. Lieber compares two things: segeln is better than reisen.",
      "grammar": true
     },
     {
@@ -5239,7 +5239,7 @@
       }
      ],
      "deeper": {
-      "text": "die Stelle means place or spot. With polite Sie it becomes An Ihrer Stelle würde ich … . You will hear it from people who say Sie, for example a waiter to a guest. Mira, Ben, Leon and Anna never give advice to Frau Weber or Herr Ali, so for you it is mostly for recognising.",
+      "text": "die Stelle means place or spot. With polite Sie it becomes An Ihrer Stelle würde ich … . You will hear it from people who say Sie, for example a waiter to a guest. Mira, Ben, Leon and Anna rarely give advice to Frau Weber or Herr Ali, so for you it is mostly for recognising.",
       "example": {
        "de": "An Ihrer Stelle würde ich die Suppe nehmen.",
        "en": "If I were you, I would take the soup.",
@@ -11626,7 +11626,7 @@
       }
      ],
      "deeper": {
-      "text": "Es kommt darauf an has a long form: Es kommt darauf an, ob … or Es kommt darauf an, wann … Here the question word after the comma sends the verb to the end. You know that from the indirect questions. In short answers, people just say Kommt darauf an. Hauptsache is always followed by a comma and a normal sentence.",
+      "text": "Es kommt darauf an has a long form: Es kommt darauf an, ob … or Es kommt darauf an, wann … Here the question word after the comma sends the verb to the end. You know that from the indirect questions. In short answers, people just say Kommt darauf an. Hauptsache is usually followed by a comma and a normal sentence: Hauptsache, wir haben Spaß.",
       "example": {
        "de": "Es kommt darauf an, ob ich arbeiten muss.",
        "en": "It depends on whether I have to work.",
@@ -14299,7 +14299,7 @@
       }
      ],
      "deeper": {
-      "text": "Aus with a material has no article: aus Holz, aus Glas, never aus dem Holz. After ist the adjective has no ending: Es ist klein. Only before a noun with ein or der does it take one: ein kleines Ding, ein schweres Regal, der runde Tisch. Leicht has two meanings: light (not heavy) and easy. The situation tells you which one.",
+      "text": "Aus with a material usually has no article: aus Holz, aus Glas. After ist the adjective has no ending: Es ist klein. Only before a noun with ein or der does it take one: ein kleines Ding, ein schweres Regal, der runde Tisch. Leicht has two meanings: light (not heavy) and easy. The situation tells you which one.",
       "example": {
        "de": "Das ist ein schweres Regal aus Holz.",
        "en": "That is a heavy shelf made of wood.",
@@ -18906,7 +18906,7 @@
    "day": 2,
    "reading": {
     "title": "Annas Tag",
-    "text": "Annas Tag\n\nHeute war wieder ein hektischer Tag. Um 6:30 Uhr hat der Wecker geklingelt, aber ich habe verschlafen. Ich hatte es sehr eilig und bin ohne Frühstück ins Büro gefahren. Mein Terminkalender war voll, deshalb hatte ich keine Mittagspause. Seit Montag warte ich auf eine Rückmeldung von meiner Chefin, aber sie hat noch nichts geschrieben. Am Abend war ich im Sprachkurs. Nächste Woche haben wir eine Prüfung und ich habe ein bisschen Angst vor der Prüfung. Am Samstag wollte ich mich mit Mira treffen, aber ich habe die Verabredung abgesagt. Ich bin einfach überfordert. Was würdet ihr an meiner Stelle machen?\n\nKommentar von Mira:\nLiebe Anna, an deiner Stelle würde ich am Samstag nicht lernen. Komm mit mir in den Park! Ein kurzer Spaziergang hilft immer.\n\nKommentar von Frau Weber:\nIch an deiner Stelle würde eine To-do-Liste schreiben und Prioritäten setzen. Du solltest auch früher ins Bett gehen.",
+    "text": "Annas Tag\n\nHeute war wieder ein hektischer Tag. Um 6:30 Uhr hat der Wecker geklingelt, aber ich habe verschlafen. Ich hatte es sehr eilig und bin ohne Frühstück in die Uni gefahren. Mein Terminkalender war voll, deshalb hatte ich keine Mittagspause. Seit Montag warte ich auf eine Rückmeldung von meiner Professorin, aber sie hat noch nichts geschrieben. Am Abend war ich im Sprachkurs. Nächste Woche haben wir eine Prüfung und ich habe ein bisschen Angst vor der Prüfung. Am Samstag wollte ich mich mit Mira treffen, aber ich habe die Verabredung abgesagt. Ich bin einfach überfordert. Was würdet ihr an meiner Stelle machen?\n\nKommentar von Mira:\nLiebe Anna, an deiner Stelle würde ich am Samstag nicht lernen. Komm mit mir in den Park! Ein kurzer Spaziergang hilft immer.\n\nKommentar von Frau Weber:\nIch an deiner Stelle würde eine To-do-Liste schreiben und Prioritäten setzen. Du solltest auch früher ins Bett gehen.",
     "glossary": [
      {
       "de": "hektisch",
@@ -18966,11 +18966,11 @@
       "options": [
        "a delivery",
        "a phone call from Mira",
-       "a reply from her boss"
+       "a reply from her professor"
       ],
       "answer": 2,
       "hint": "Seit Montag warte ich …",
-      "explanation": "Sie wartet auf eine Rückmeldung von ihrer Chefin.",
+      "explanation": "Sie wartet auf eine Rückmeldung von ihrer Professorin.",
       "grammar": false
      },
      {
@@ -18979,7 +18979,7 @@
       "options": [
        "the exam",
        "the dark",
-       "her boss"
+       "her professor"
       ],
       "answer": 0,
       "hint": "Nächste Woche …",

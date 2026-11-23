@@ -577,7 +577,7 @@
     },
     {
      "title": "The object test with six pairs",
-     "body": "Here are three pairs of sentences. In each pair the thing and the place are the same: the left sentence is a state, the right one has a person who moves the thing. Look only at the verb and the object. No object means dative. An object that somebody moves means accusative. The preposition never tells you the case.",
+     "body": "Here are three pairs of sentences. In each pair the thing and the place are the same: the left sentence is a state, the right one has a person who moves the thing. Look only at the verb and the object. No object means dative. An object that somebody moves means accusative. Here the preposition never tells you the case.",
      "lead": "Now you try the test on real furniture. Read each row from left to right: same thing, same place, but a different verb and so a different case.",
      "examples": [
       {
@@ -919,7 +919,7 @@
       }
      ],
      "deeper": {
-      "text": "Wohin damit? is a chunk you know from the first course: it means „Where do I put this?“. The answer is always an imperative with a pronoun: Stell es in die Ecke! Stell sie auf den Tisch! The pronoun replaces the object, so only the Wohin? phrase is left behind it.",
+      "text": "Wohin damit? is a chunk you know from the first course: it means „Where do I put this?“. The answer is usually an imperative with a pronoun: Stell es in die Ecke! Stell sie auf den Tisch! The pronoun replaces the object, so only the Wohin? phrase is left behind it.",
       "example": {
        "de": "Stell die Lampe auf den Schreibtisch!",
        "en": "Put the lamp on the desk!",
@@ -10047,7 +10047,7 @@
      "prompt": "Wer ist ___? Drei Hände sind oben.",
      "options": [
       "dafür",
-      "einverstanden",
+      "Abstimmung",
       "Kompromiss"
      ],
      "answer": 0,
@@ -20548,7 +20548,7 @@
    },
    "listening": {
     "title": "Ein Wagen für den Umzug",
-    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am nächsten Samstag ist bei uns ein WG-Casting, und vorher holen wir noch ein Sofa für das freie Zimmer. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Umzugswagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Dann holen wir das Sofa am Montag.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellt ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
+    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am nächsten Samstag ist bei uns ein WG-Casting, und danach holen wir noch ein Sofa für das freie Zimmer. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Umzugswagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Dann holen wir das Sofa am Montag.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellen Sie ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
     "questions": [
      {
       "type": "choice",
@@ -20565,7 +20565,7 @@
      },
      {
       "type": "choice",
-      "prompt": "How does Anna start?",
+      "prompt": "How does Anna introduce her request?",
       "options": [
        "Ich habe eine Bitte.",
        "Ich möchte mich beschweren.",
@@ -20664,7 +20664,7 @@
       ],
       "answer": 1,
       "hint": "Listen to the last thing Herr Ali asks for.",
-      "explanation": "Bitte stellt ihn am Abend wieder hinter das Restaurant.",
+      "explanation": "Bitte stellen Sie ihn am Abend wieder hinter das Restaurant.",
       "grammar": true
      },
      {
@@ -21381,7 +21381,7 @@
    },
    "listening": {
     "title": "Das Interview im Casting",
-    "script": "Mira: Hallo und herzlich willkommen! Ich bin Mira, und das ist Anna.\nAnna: Hallo! Wir wohnen hier mit Ben und Leon. Wir stellen uns kurz vor: Ich studiere und Mira arbeitet.\nBewerberin: Hallo! Ich stelle mich auch vor. Ich komme aus Kiel und bin Studentin.\nMira: Kannst du uns sagen, wo du jetzt wohnst?\nBewerberin: Ich wohne in einem Vorort. Dorthin fahre ich jeden Tag eine Stunde mit dem Bus.\nAnna: Was ist dir in einer WG wichtig?\nBewerberin: Ich finde es wichtig, dass alle rücksichtsvoll sind. Und ich bin ordentlich.\nMira: Hast du ein Haustier?\nBewerberin: Nein, aber ich habe gelesen, dass hier eine Katze wohnt.\nAnna: Ja, die Katze von Frau Weber. Sie sitzt oft im Treppenhaus auf dem Fensterbrett.\nBewerberin: Echt? Das ist ja toll! Weißt du, ob ihr eine Spülmaschine habt?\nMira: Ja, sie steht in der Küche neben dem Herd.\nBewerberin: Und wohin kann ich meinen Schreibtisch stellen?\nAnna: Ans Fenster. Dort ist es hell.",
+    "script": "Mira: Hallo und herzlich willkommen! Ich bin Mira, und das ist Anna.\nAnna: Hallo! Wir wohnen hier mit Ben und Leon. Wir stellen uns kurz vor: Ich studiere Kunst und Mira studiert Informatik.\nBewerberin: Hallo! Ich stelle mich auch vor. Ich komme aus Kiel und bin Studentin.\nMira: Kannst du uns sagen, wo du jetzt wohnst?\nBewerberin: Ich wohne in einem Vorort. Dorthin fahre ich jeden Tag eine Stunde mit dem Bus.\nAnna: Was ist dir in einer WG wichtig?\nBewerberin: Ich finde es wichtig, dass alle rücksichtsvoll sind. Und ich bin ordentlich.\nMira: Hast du ein Haustier?\nBewerberin: Nein, aber ich habe gelesen, dass hier eine Katze wohnt.\nAnna: Ja, die Katze von Frau Weber. Sie sitzt oft im Treppenhaus auf dem Fensterbrett.\nBewerberin: Echt? Das ist ja toll! Weißt du, ob ihr eine Spülmaschine habt?\nMira: Ja, sie steht in der Küche neben dem Herd.\nBewerberin: Und wohin kann ich meinen Schreibtisch stellen?\nAnna: Ans Fenster. Dort ist es hell.",
     "questions": [
      {
       "type": "choice",

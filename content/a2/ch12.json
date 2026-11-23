@@ -8878,7 +8878,8 @@
      "type": "type",
      "prompt": "Polite: ___ Sie das bitte wiederholen?",
      "answers": [
-      "Können"
+      "Können",
+      "Könnten"
      ],
      "hint": "The Sie-form of the modal verb for can.",
      "explanation": "Können Sie das bitte wiederholen?",
@@ -15217,18 +15218,18 @@
        "Sie",
        "das",
        "bitte",
-       "Können",
+       "Könnten",
        "wiederholen?"
       ],
       "answer": [
-       "Können",
+       "Könnten",
        "Sie",
        "das",
        "bitte",
        "wiederholen?"
       ],
       "hint": "The polite modal comes first, the infinitive last.",
-      "explanation": "Können Sie das bitte wiederholen?",
+      "explanation": "Könnten Sie das bitte wiederholen?",
       "grammar": true
      },
      {
