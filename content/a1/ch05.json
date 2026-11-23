@@ -2628,7 +2628,7 @@
        "en": "It is ten past four."
       },
       {
-       "de": "Fünf nach drei beginnt der Film.",
+       "de": "Um fünf nach drei beginnt der Film.",
        "en": "The film starts at five past three."
       }
      ]
@@ -2642,7 +2642,7 @@
        "en": "It is ten to four."
       },
       {
-       "de": "Fünf vor drei fährt der Bus.",
+       "de": "Um fünf vor drei fährt der Bus.",
        "en": "The bus leaves at five to three."
       }
      ]
@@ -5734,7 +5734,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Das Kind ist drei Jahre alt. ___ heißt Mia.",
+     "prompt": "Das Kind ist drei Jahre alt. ___ spielt gern.",
      "options": [
       "Es",
       "Er",
@@ -5742,7 +5742,7 @@
      ],
      "answer": 0,
      "hint": "Kind is neuter.",
-     "explanation": "es.",
+     "explanation": "Kind is neuter, so the pronoun is es.",
      "grammar": true
     }
    ],
@@ -8645,11 +8645,11 @@
     },
     {
      "type": "type",
-     "prompt": "Leon hat ein Kind. Das ist ___ Kind. (his)",
+     "prompt": "Leon hat ein Auto. Das ist ___ Auto. (his)",
      "answers": [
       "sein"
      ],
-     "hint": "Leon is a he. Kind is neuter.",
+     "hint": "Leon is a he. Auto is neuter.",
      "explanation": "sein.",
      "grammar": true
     },
