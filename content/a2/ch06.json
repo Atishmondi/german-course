@@ -821,11 +821,11 @@
        "why": "Dunkel becomes dunkl-."
       },
       {
-       "de": "Herr Ali hat ein hohes Gehalt.",
-       "en": "Herr Ali has a high salary.",
+       "de": "Frau Weber hat ein hohes Gehalt.",
+       "en": "Frau Weber has a high salary.",
        "parts": [
         [
-         "Herr Ali",
+         "Frau Weber",
          "subject"
         ],
         [
@@ -853,7 +853,7 @@
       }
      ],
      "deeper": {
-      "text": "You already saw these three traps after der in chapter 5: der teure Mantel, der dunkle Flur, das hohe Haus. After ein the spelling trap is the same, only the ending is -er or -es. The reason is sound: teuer and dunkel lose their e so that the word stays easy to say, and hoch drops its c.",
+      "text": "You already saw two of these traps after der in chapter 5: die teure Wohnung, das hohe Haus. Dunkel works the same way: der dunkle Flur. After ein the spelling trap is the same, only the ending is -er or -es. The reason is sound: teuer and dunkel lose their e so that the word stays easy to say, and hoch drops its c.",
       "example": {
        "de": "Das ist ein netter, junger Chef.",
        "en": "That is a nice, young boss.",
@@ -1460,7 +1460,7 @@
     ],
     "examples": [
      "Mira arbeitet in Teilzeit im Büro. Sie hat ein nettes Team.",
-     "Ein Informatiker hat einen interessanten Beruf. Das ist ein moderner Job.",
+     "Informatiker ist ein interessanter Beruf. Das ist ein moderner Job.",
      "Was für ein Job ist das? Ein schwerer Job, aber ein guter Job."
     ]
    },
@@ -1718,7 +1718,7 @@
       "text": "Job ads use the polite Sie for the reader: Sie haben eine Ausbildung. Sie sind pünktlich. The firm calls itself wir: Wir suchen, wir haben. You will read such ads in German almost every time you look for a job, and the grammar in them is very regular: wir suchen + accusative, sie haben + accusative.",
       "example": {
        "de": "Wir haben eine Stelle.",
-       "en": "We have a job.",
+       "en": "We have a vacancy.",
        "parts": [
         [
          "Wir",
@@ -2430,7 +2430,7 @@
       "text": "In the first position of a sentence a preposition group can stand in front of the verb: Für einen guten Lohn arbeite ich gern am Wochenende. The verb is still in position 2, and the subject follows it. The group für einen guten Lohn counts as one part. So it is still the accusative after für, only the order of the sentence changes.",
       "example": {
        "de": "Für einen guten Lohn arbeite ich gern.",
-       "en": "For a good wage I work happily.",
+       "en": "I am happy to work for a good wage.",
        "parts": [
         [
          "Für",
@@ -3041,7 +3041,7 @@
     "examples": [
      "Ich suche einen interessanten Job. Ich möchte in einem Büro arbeiten.",
      "Ich brauche einen netten Chef und ein gutes Team.",
-     "Was für einen Job suchst du? Einen Job in Teilzeit, mit einem guten Lohn."
+     "Was für einen Job suchst du? Einen Job in Teilzeit. Der Lohn muss gut sein."
     ]
    },
    "retrieval": [
@@ -3608,7 +3608,7 @@
       },
       {
        "de": "Die Firma hat keine freien Stellen.",
-       "en": "The firm has no free jobs.",
+       "en": "The firm has no vacancies.",
        "parts": [
         [
          "Die",
@@ -3684,15 +3684,15 @@
      "deeper": {
       "text": "In the dative plural the noun adds -n: mit den kleinen Firmen is fine because Firmen already ends in -n. But plural nouns ending in -s keep it: mit meinen neuen Jobs, in den alten Autos. So after the article and the adjective ending, look at the noun last. The adjective still ends in -en in every case, so the adjective is never the problem.",
       "example": {
-       "de": "Ich bin mit meinen neuen Jobs zufrieden.",
-       "en": "I am happy with my new jobs.",
+       "de": "Ich spreche mit meinen neuen Chefs.",
+       "en": "I am talking to my new bosses.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "bin",
+         "spreche",
          "verb"
         ],
         [
@@ -3712,12 +3712,8 @@
          "ending"
         ],
         [
-         "Jobs",
+         "Chefs.",
          "noun"
-        ],
-        [
-         "zufrieden.",
-         "adjective"
         ]
        ]
       }
@@ -5037,11 +5033,15 @@
      "deeper": {
       "text": "Werden is like an equals sign, the same as sein: both sides are nominative. So the ending after ein is the nominative one from lesson 1: ein guter Koch (-er), eine nette Lehrerin (-e). Never use the accusative einen here. The question Was willst du werden? is the present partner of the chunk Was wolltest du werden?",
       "example": {
-       "de": "Mira wird eine nette Lehrerin.",
-       "en": "Mira is going to be a nice teacher.",
+       "de": "Bens Schwester wird eine nette Lehrerin.",
+       "en": "Ben's sister is going to be a nice teacher.",
        "parts": [
         [
-         "Mira",
+         "Bens",
+         "other"
+        ],
+        [
+         "Schwester",
          "subject"
         ],
         [
@@ -5067,7 +5067,7 @@
        ]
       }
      },
-     "more": "When you say what you become, you put the job on like a name tag: Ich werde Bäcker. No article, exactly like Ich bin Bäcker. Add a describing word like gut and the tag turns into a sentence about quality, so ein comes back: ein guter Bäcker. Werden works like an equals sign, so both sides are in the same case, the nominative: Leon wird ein guter Koch, Mira wird eine nette Lehrerin. Never einen: a person is not an object here.",
+     "more": "When you say what you become, you put the job on like a name tag: Ich werde Bäcker. No article, exactly like Ich bin Bäcker. Add a describing word like gut and the tag turns into a sentence about quality, so ein comes back: ein guter Bäcker. Werden works like an equals sign, so both sides are in the same case, the nominative: Leon wird ein guter Koch, Bens Schwester wird eine nette Lehrerin. Never einen: a person is not an object here.",
      "table": {
       "headers": [
        "sein",
@@ -5766,12 +5766,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Mira wird eine nett___ Lehrerin.",
+     "prompt": "Complete: Bens Schwester wird eine nett___ Lehrerin.",
      "answers": [
       "e"
      ],
      "hint": "Nominative feminine after eine: -e.",
-     "explanation": "Mira wird eine nette Lehrerin.",
+     "explanation": "Bens Schwester wird eine nette Lehrerin.",
      "grammar": true
     },
     {
@@ -6685,7 +6685,7 @@
       "text": "Words like bestimmt, sicher and vielleicht often go with werden, because predictions are not always certain: Es wird vielleicht regnen. Be careful with Das wird bestimmt lustig: there is no infinitive, so it literally means it is becoming fun. Germans use it as a short prediction, like Das wird bestimmt Spaß machen.",
       "example": {
        "de": "Es wird vielleicht regnen.",
-       "en": "It will maybe rain.",
+       "en": "It may rain.",
        "parts": [
         [
          "Es",
@@ -9278,7 +9278,7 @@
     {
      "title": "Fahrzeug, Motor, Bremse: the parts of a vehicle",
      "body": "Das Fahrzeug is any vehicle: a car, a bus, a van. Der Lieferwagen is a delivery van. Der Motor makes it go, die Bremse stops it, with das Lenkrad you steer, and in den Kofferraum you put your bags. You know das Auto, der Reifen and der Sitz already.",
-     "lead": "You start with the words. Before you can describe Herr Alis van, you need the names of the parts and what each part does.",
+     "lead": "You start with the words. Before you can describe Herr Ali's van, you need the names of the parts and what each part does.",
      "examples": [
       {
        "de": "Das ist ein alter Lieferwagen.",
@@ -10183,7 +10183,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: ___ Sie bitte ein! (to rise)",
+     "prompt": "Complete: ___ Sie bitte ein! (einsteigen)",
      "answers": [
       "Steigen"
      ],
@@ -10390,8 +10390,8 @@
        "en": "A delivery van is a big vehicle."
       },
       {
-       "de": "Hier dürfen keine Fahrzeuge stehen.",
-       "en": "No vehicles may stand here."
+       "de": "Hier dürfen keine Fahrzeuge parken.",
+       "en": "No vehicles may park here."
       }
      ],
      "forms": "die Fahrzeuge"
@@ -12553,7 +12553,7 @@
       }
      ],
      "deeper": {
-      "text": "In Germany people answer work calls with their last name, not only Hallo. It saves time: the caller knows at once that the number is right. Hier spricht puts the verb in position 2 after hier. You can also say Mein Name ist Weber. Then the person at the reception asks: Was kann ich für Sie tun?",
+      "text": "In Germany people answer work calls with the firm and their name, not just Hallo. It saves time: the caller knows at once that the number is right. Hier spricht puts the verb in position 2 after hier. You can also say Mein Name ist Weber. Then the person at the reception asks: Was kann ich für Sie tun?",
       "example": {
        "de": "Mein Name ist Weber.",
        "en": "My name is Weber.",
@@ -13015,7 +13015,7 @@
     },
     {
      "title": "Step 5: close the call, and a whole call",
-     "body": "At the end say thank you: Vielen Dank für Ihre Hilfe. On the phone you say Auf Wiederhören! (hören = hear), face to face Auf Wiedersehen! (sehen = see). Now the whole call: Frau Weber calls Herr Alis restaurant, and Mira writes a message about the van.",
+     "body": "At the end say thank you: Vielen Dank für Ihre Hilfe. On the phone you say Auf Wiederhören! (hören = hear), face to face Auf Wiedersehen! (sehen = see). Now the whole call: Frau Weber calls Herr Ali's restaurant, and Mira writes a message about the van.",
      "lead": "You have all five steps. This card closes the call and puts all the steps together in one real call at the reception.",
      "examples": [
       {
@@ -13874,7 +13874,7 @@
       "options": [
        "a meeting room and a tea kitchen",
        "a canteen and a garden",
-       "a reception and a kitchen"
+       "a garage and a kitchen"
       ],
       "answer": 0,
       "hint": "Listen for Wir haben …",
@@ -14839,7 +14839,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete: ___ Sie bitte ein! (to rise)",
+      "prompt": "Complete: ___ Sie bitte ein! (einsteigen)",
       "answers": [
        "Steigen"
       ],
