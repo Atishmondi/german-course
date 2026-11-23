@@ -2,7 +2,7 @@
  {
   "id": "a1-mock-1",
   "level": "a1",
-  "title": "A1 practice mock 1: a week in Hamburg",
+  "title": "A1-Probeprüfung 1: Eine Woche in Hamburg",
   "sections": [
    {
     "skill": "listening",
@@ -31,7 +31,7 @@
       ],
       "answer": 2,
       "hint": "Mira cannot come at the first time. Listen for the second time.",
-      "explanation": "Um halb vier geht nicht; Um Viertel nach vier passt."
+      "explanation": "Um halb vier geht nicht; um Viertel nach vier passt."
      },
      {
       "type": "choice",
@@ -148,7 +148,7 @@
    {
     "skill": "listening",
     "instructions": "Part 3. You will hear a message on a phone. Choose the right answer.",
-    "text": "Nachricht auf der Mailbox.\nAnna: Hallo Mira, hier ist Anna. Ich habe am Samstag Geburtstag, und ich feiere zu Hause. Die Party beginnt um halb acht. Ich wohne in der Blumenstraße zwölf. Kannst du kommen? Bring bitte einen Salat mit. Ben bringt Saft und Wasser mit, und Leon bringt Musik mit. Ich mache eine Torte. Ruf mich bitte heute Abend an. Bis bald!",
+    "text": "Nachricht auf der Mailbox.\nBen: Hallo Mira, hier ist Ben. Ich habe am Samstag Geburtstag, und ich feiere zu Hause. Die Party beginnt um halb acht. Ich wohne in der Blumenstraße zwölf. Kannst du kommen? Bring bitte einen Salat mit. Meine Schwester bringt Saft und Wasser mit, und mein Freund Tom bringt Musik mit. Ich mache eine Torte. Ruf mich bitte heute Abend an. Bis bald!",
     "questions": [
      {
       "type": "choice",
@@ -188,23 +188,23 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Ben bring?",
+      "prompt": "What does Ben's sister bring?",
       "options": [
        "music",
        "juice and water",
        "a cake"
       ],
       "answer": 1,
-      "hint": "Listen for Ben bringt ... mit.",
-      "explanation": "Ben bringt Saft und Wasser mit."
+      "hint": "Listen for Schwester bringt ... mit.",
+      "explanation": "Meine Schwester bringt Saft und Wasser mit."
      },
      {
       "type": "choice",
       "prompt": "What should Mira do this evening?",
       "options": [
        "write an email",
-       "visit Anna",
-       "call Anna"
+       "visit Ben",
+       "call Ben"
       ],
       "answer": 2,
       "hint": "Listen for Ruf mich ... an.",
@@ -452,7 +452,7 @@
      },
      {
       "type": "type",
-      "prompt": "Complete the reply: Liebe Anna, vielen Dank für die Einladung! Ich ___ gern zu deiner Party. (kommen)",
+      "prompt": "Complete the reply: Lieber Ben, vielen Dank für die Einladung! Ich ___ gern zu deiner Party. (kommen)",
       "answers": [
        "komme"
       ],
@@ -480,12 +480,12 @@
      },
      {
       "type": "type",
-      "prompt": "Anna ___ am Samstag Geburtstag. (haben)",
+      "prompt": "Ben ___ am Samstag Geburtstag. (haben)",
       "answers": [
        "hat"
       ],
       "hint": "er/sie/es form of haben.",
-      "explanation": "Anna hat Geburtstag.",
+      "explanation": "Ben hat Geburtstag.",
       "grammar": true
      },
      {
@@ -627,7 +627,7 @@
       "answers": [
        "Kinder"
       ],
-      "hint": "das Kind takes -er in the plural.",
+      "hint": "Kind is neuter. Many neuter nouns add -er in the plural.",
       "explanation": "Zwei Kinder.",
       "grammar": true
      },
@@ -664,7 +664,7 @@
  {
   "id": "a1-mock-2",
   "level": "a1",
-  "title": "Practice exam 2: a new job, a flat and a trip",
+  "title": "A1-Probeprüfung 2: Neuer Job, Wohnung und Reise",
   "sections": [
    {
     "skill": "listening",
@@ -675,9 +675,9 @@
       "type": "choice",
       "prompt": "Where is the new colleague's office?",
       "options": [
-       "im Keller",
-       "im Erdgeschoss",
-       "im ersten Stock"
+       "in the cellar",
+       "on the ground floor",
+       "on the first floor"
       ],
       "answer": 1,
       "hint": "Listen to what the man says about the office.",
@@ -864,7 +864,7 @@
       "type": "choice",
       "prompt": "What does she ask Herr Ali to do this evening?",
       "options": [
-       "Send her the list.",
+       "Visit her in Vienna.",
        "Book a hotel.",
        "Call her."
       ],
@@ -1017,7 +1017,7 @@
    },
    {
     "skill": "writing",
-    "instructions": "Writing. Situation: Ben is 24 years old. He lives in Hamburg and is a Student. He speaks Spanish and German. Fill in his form (5 items), build two sentences, and complete the message.",
+    "instructions": "Writing. Situation: Ben is 24 years old. He lives in Hamburg and is a student. He speaks Spanish and German. Fill in his form (5 items), build two sentences, and complete the message.",
     "questions": [
      {
       "type": "type",
@@ -1306,7 +1306,7 @@
       "answers": [
        "Kinder"
       ],
-      "hint": "The plural of Kind adds -er.",
+      "hint": "Kind is neuter. Many neuter nouns add -er in the plural.",
       "explanation": "das Kind: die Kinder.",
       "grammar": true
      },
