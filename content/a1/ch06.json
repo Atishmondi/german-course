@@ -2607,25 +2607,25 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Mira has her birthday on the third of June.",
+     "prompt": "Build: Mira has her birthday on the seventh of May.",
      "tokens": [
       "am",
       "Geburtstag.",
-      "dritten",
+      "siebten",
       "hat",
-      "Juni",
+      "Mai",
       "Mira"
      ],
      "answer": [
       "Mira",
       "hat",
       "am",
-      "dritten",
-      "Juni",
+      "siebten",
+      "Mai",
       "Geburtstag."
      ],
      "hint": "haben: er/sie form.",
-     "explanation": "Mira hat am dritten Juni Geburtstag.",
+     "explanation": "Mira hat am siebten Mai Geburtstag.",
      "grammar": true
     },
     {
@@ -2737,7 +2737,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Leon has her birthday on the first of May.",
+     "prompt": "Build: Leon has his birthday on the first of May.",
      "tokens": [
       "hat",
       "ersten",
@@ -2989,7 +2989,7 @@
    ],
    "speaking": {
     "prompts": [
-     "Ask a friend when his birthday is.",
+     "Ask a friend when their birthday is.",
      "Say when your birthday is.",
      "Wish a friend a happy birthday."
     ],
@@ -5363,7 +5363,7 @@
      "more": "Think of a sentence as a train with 4 seats: seat 1, seat 2, then the rest, then the end. Part 1 can be anything: ich, a time, a day. Part 2 is always the verb. The prefix always takes the last seat. Step 1: choose part 1. Step 2: the verb. Step 3: the subject, if it is not in part 1. Step 4: the other words. Step 5: the prefix. Extra example: Morgens stehe ich früh auf. = In the morning I get up early.",
      "lead": "You can start a sentence with a time or a thing and still keep the verbs in order. This card shows how, so you can say when you get up or go shopping.",
      "deeper": {
-      "text": "Start with the time when it is the news. Then comes the verb, then the subject, and the prefix is the last word, like a full stop. In long sentences, listen for the end. Here is a new word: früh means early, like in früh aufstehen, to get up early.",
+      "text": "Start with the time when it is the news. Then comes the verb, then the subject, and the prefix is the last word, like a full stop. In long sentences, listen for the end. Remember früh, which means early, like in früh aufstehen, to get up early.",
       "example": {
        "de": "Am Montag stehe ich früh auf.",
        "en": "On Monday I get up early.",
@@ -13685,7 +13685,7 @@
     ]
    },
    "listening": {
-    "title": "Anna and Ben",
+    "title": "Anna und Ben",
     "script": "Anna: Hallo, Ben! Ich habe am zwanzigsten Mai Geburtstag. Möchtest du kommen?\nBen: Wann ist die Party?\nAnna: Am Samstag um 18 Uhr in Wien.\nBen: Leider kann ich am Samstag nicht kommen. Ich habe keine Zeit.\nAnna: Schade! Hast du am Sonntag Zeit? Wir feiern auch am Sonntag um 15 Uhr.\nBen: Ja, am Sonntag habe ich Zeit! Ich komme gern.\nAnna: Super! Wir essen Torte.\nBen: Herzlichen Glückwunsch zum Geburtstag, Anna!\nAnna: Danke, Ben!",
     "questions": [
      {
@@ -14378,7 +14378,7 @@
    "day": 3,
    "reading": {
     "title": "Letztes Wochenende",
-    "text": "Leon schreibt:\nLetztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war auch da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
+    "text": "Leon schreibt:\nLetztes Wochenende war ich in Wien. Am Samstag hatte Anna Geburtstag. Die Party war um 18 Uhr. Wir waren zehn Freunde. Das Essen war lecker, und die Torte war super! Ich hatte Hunger und Durst. Ben war am Sonntag da. Er hatte ein Geschenk für Anna. Frau Weber war leider nicht da. Sie hatte keine Zeit. Das Wetter war schön, und wir waren im Park. Am Sonntag war ich müde. Heute stehe ich um 7 Uhr auf und rufe Anna an: „Danke für die Einladung!“",
     "glossary": [],
     "questions": [
      {
