@@ -2358,7 +2358,7 @@
      "more": "Think of these as little phrases you can use like building blocks. Der Job macht Spaß means the job gives joy. Die Arbeit ist anstrengend means the work is tiring. Gut bezahlt and schlecht bezahlt tell you about the money: well paid or badly paid. You do not need to take bezahlt apart today. Just learn it as a whole. Lesson 3 explains it. To talk about the past: Der Job hat Spaß gemacht.",
      "lead": "You can say what you did at work. On this card: short phrases for how a job is, such as fun, tiring or well paid, so you can answer How is your job?",
      "deeper": {
-      "text": "Chunks are the fastest way to speak. You do not build them, you remember them whole: gut bezahlt, schlecht bezahlt, Spaß machen. In the past, only the helper changes: macht Spaß becomes hat Spaß gemacht. The old Spaß stays in the middle of the bracket.",
+      "text": "Chunks are the fastest way to speak. You do not build them, you remember them whole: gut bezahlt, schlecht bezahlt, Spaß machen. In the past, only the helper changes: macht Spaß becomes hat Spaß gemacht. Spaß stays in the middle of the bracket.",
       "example": {
        "de": "Hat der Job Spaß gemacht?",
        "en": "Was the job fun?",
@@ -9499,7 +9499,7 @@
      "more": "Learn war like a song with six lines. Ich war, du warst, er war, wir waren, ihr wart, sie waren. Step 1: say the song out loud twice. Step 2: notice that ich and er sound the same, just like the modal verbs in chapter 5. Step 3: cover the table and try again. Extra example: Wir waren gestern müde = We were tired yesterday.",
      "lead": "Now the first of the two short words in full. Knowing all six forms lets you say where you, your friends and your boss were, and ask others the same.",
      "deeper": {
-      "text": "Notice the same pattern in the next card: ich and er/sie/es are always the same in the past, du ends in -st, wir and sie in -en, ihr in -t. Once you see this pattern for war, you get hatte almost for free. In spoken German people often shorten words, but at A1 write the full form.",
+      "text": "Two details to watch. Ich war and er war are always identical, and the du form ends in -st: warst. The ihr form wart has only one t at the end. In the next card, hatte follows exactly the same pattern, so you get it almost for free. At A1 always write the full form.",
       "example": {
        "de": "Wir waren am Montag in der Uni.",
        "en": "We were at university on Monday.",
@@ -12859,11 +12859,11 @@
        ],
        [
         "I",
-        "ih"
+        "ee"
        ],
        [
         "R",
-        "er"
+        "err"
        ],
        [
         "A",
@@ -12871,7 +12871,7 @@
        ]
       ]
      },
-     "more": "Spelling on the phone is like giving someone building blocks, one by one. Step 1: ask Können Sie das buchstabieren? Step 2: the other person says each letter slowly. Step 3: repeat the letters back to check. Letters in German sound like this: M = em, I = ih, R = er, A = ah. Extra example: Wie schreibt man Hallo? = How do you write Hallo?",
+     "more": "Spelling on the phone is like giving someone building blocks, one by one. Step 1: ask Können Sie das buchstabieren? Step 2: the other person says each letter slowly. Step 3: repeat the letters back to check. Letters in German sound like this: M = em, I = ee, R = err, A = ah. Extra example: Wie schreibt man Hallo? = How do you write Hallo?",
      "lead": "After asking someone to repeat, the next thing you often need is spelling. This card gives you the two questions and a way to say your own name.",
      "deeper": {
       "text": "Spelling is very common in Germany, because many names and street names are long. People often say a name for each letter, like M wie Mira. At A1 it is enough to say the letters one after the other, slowly. A German likes it when you repeat the letters back: it shows you are careful.",
@@ -14325,7 +14325,7 @@
       },
       {
        "label": "uses a participle at the end",
-       "pattern": "\\b(ge\\w+t|\\w+iert)\\b"
+       "pattern": "\\b(ge[\\wäöüß]+t|[\\wäöüß]+iert|ge[\\wäöüß]+en)\\b"
       },
       {
        "label": "writes at least five sentences",

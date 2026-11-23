@@ -515,7 +515,7 @@
      "more": "A verb can have a little costume change. With tragen the costume change is two dots on the a: du trägst and er trägt wear the dots, but ich trage, wir tragen and sie tragen do not. You have seen exactly this with fahren: ich fahre, du fährst, er fährt. So you do not learn something brand new, you just say: tragen is a fahren-verb. And when you read tragen next to clothes, it means wear, not carry.",
      "lead": "You know the clothes words. On this card: the new verb tragen with all six forms, so you can say what you, Mira or we wear.",
      "deeper": {
-      "text": "Why only du and er/sie? In German, some very common verbs change the vowel in exactly those two forms, and you already know fahren, schlafen and essen. Trägst with the umlaut is also an easy sound to hear. When you listen to Germans, the ä in trägst and trägt tells you the verb is tragen.",
+      "text": "Why only du and er/sie? In German, some very common verbs change their vowel in exactly those two forms, and you already know fahren, schlafen and essen. The umlaut in trägst and trägt is easy to hear. When you listen to a German speaker, an ä in a verb form after du or er tells you it may be one of these vowel-changing verbs: fährt, schläft, trägt. Use the sentence to know which verb it is.",
       "example": {
        "de": "Anna trägt einen Rock.",
        "en": "Anna wears a skirt.",
@@ -2560,7 +2560,7 @@
      "more": "A seller wants to know two things: how big you are, and what colour you like. Both words are die-words, so the question starts with welche. Größe you know from chapter 8, where it meant how tall someone is. In a shop it also means the size of clothes, with a number: Größe 38, Größe 40, Größe 42. The question uses haben, and the answer repeats it: Ich habe Größe 40. For the colour you answer with sein: Sie ist grün.",
      "lead": "You know the small clothes words. On this card: asking and saying size and colour, so you can talk to a seller in a clothes shop.",
      "deeper": {
-      "text": "Sie with a capital S is the polite you, so the verb is haben, like in Wie heißen Sie? from chapter 1. With a friend you say Welche Größe hast du? In the answer, size is just a number after Größe, no article. Sie ist grün answers about a die-word, so you use sie.",
+      "text": "Sie with a capital S is the polite you, and its verb has the same form as wir and sie (they): haben, like heißen in Wie heißen Sie? from chapter 1. With a friend you say Welche Größe hast du? In the answer, size is just a number after Größe, no article. Sie ist grün answers about a die-word, so you use sie.",
       "example": {
        "de": "Welche Größe hast du?",
        "en": "Which size do you have?",
@@ -4639,7 +4639,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Das ist ___ Pullover.",
+     "prompt": "Das ist ___ Pullover. (a sweater)",
      "options": [
       "dieser",
       "ein",
@@ -5831,7 +5831,7 @@
      "more": "These four words are like twins who dress alike. Ask two questions. First: is there a verb with -t right after it, like kommt ihr? Then it is you all, the subject. Second: who is meant? Is it one woman? Then it is ihr. Is it a group of people you talk about? Then ihnen with a small letter. Do you talk to a stranger and say Sie? Then Ihnen with a capital I. The capital letter in the middle of a sentence is the clue.",
      "lead": "The table showed ihr, ihnen and Ihnen, and they look very much alike. This card puts them side by side, so you can tell them apart in a second.",
      "deeper": {
-      "text": "A small trick helps with ihr: if you can put du in its place and the sentence works as a question to one person, it is the you-all subject. If you can put ihm in its place, it is the dative for a woman. The two different meanings come from the place in the sentence.",
+      "text": "A small trick helps with ihr. Change the sentence to du and the verb to -st: if it still works as a question to one person (Kommst du morgen?), then ihr was the you-all subject. Change ihr to ihm for a man: if it still works (Ich zeige ihm die Jacke), then ihr was the dative for a woman. The place in the sentence decides the meaning.",
       "example": {
        "de": "Ben zeigt ihnen den Mantel.",
        "en": "Ben shows them the coat.",
@@ -8123,7 +8123,7 @@
     },
     {
      "title": "Blau steht dir: colours as nouns",
-     "body": "When the colour itself is the subject, it is a noun, and nouns have a capital letter: Blau steht dir. Rot steht ihr sehr gut. After sein the colour stays small: Die Jacke ist blau. There is no article and no ending: the colour works as a name for itself.",
+     "body": "When the colour itself is the subject, it works as a noun: Blau steht dir. A sentence start always has a capital, but a noun keeps it in the middle too: Dir steht Blau gut. After sein the colour stays small: Die Jacke ist blau. There is no article and no ending.",
      "examples": [
       {
        "de": "Blau steht dir.",
@@ -8194,7 +8194,7 @@
      "table": {
       "headers": [
        "after sein (small)",
-       "at the start (capital)"
+       "as the subject (capital)"
       ],
       "rows": [
        [
@@ -8211,7 +8211,7 @@
        ]
       ]
      },
-     "more": "Colours play two roles. After sein the colour describes a thing, and it is a small word: Die Jacke ist blau. At the start of a sentence the colour is a thing itself, the idea blue, and it gets a capital letter: Blau steht dir. Think of a painter who says: blue looks good on you. There is no der, die or das before it. The same rule works for all colours you know: Rot, Blau, Grün, Gelb, Schwarz, Weiß, Braun, Grau.",
+     "more": "Colours play two roles. After sein the colour describes a thing, and it is a small word: Die Jacke ist blau. As the subject the colour is a thing itself, the idea blue. It is a noun, so it keeps its capital letter even in the middle of a sentence: Blau steht dir. Dir steht Blau gut. Think of a painter who says: blue looks good on you. There is no der, die or das before it. The same rule works for all colours you know: Rot, Blau, Grün, Gelb, Schwarz, Weiß, Braun, Grau.",
      "lead": "You know that clothes can suit you. Colours can suit you too, and German writes them in a special way when they start the sentence.",
      "deeper": {
       "text": "The colour is the subject here, so the verb is the third-person form: steht. Even when you talk about a colour you cannot see, the verb is steht, never stehen. If you say two colours, the verb changes: Schwarz und Weiß stehen dir gut. Two colours are more than one thing.",
@@ -14174,7 +14174,7 @@
    "day": 1,
    "reading": {
     "title": "Eine Jacke für die Party",
-    "text": "Mira und Ben sind in Berlin. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet ein Verkäufer. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Der Verkäufer sagt: „Das ist Größe 38.“ Mira nimmt diese Jacke hier. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
+    "text": "Mira und Ben sind in Berlin. Anna und Leon sind auch da. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet ein Verkäufer. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Der Verkäufer sagt: „Das ist Größe 38.“ Mira nimmt diese Jacke hier. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
     "glossary": [
      {
       "de": "Kaufhaus",
@@ -15173,7 +15173,7 @@
    },
    "listening": {
     "title": "In the shop, and a shopping story",
-    "script": "Verkäuferin: Guten Tag! Kann ich Ihnen helfen?\nFrau Weber: Guten Tag. Ja, ich suche eine Jacke.\nVerkäuferin: Welche Größe haben Sie?\nFrau Weber: Größe 38. Haben Sie diese Jacke in Blau?\nVerkäuferin: Ja, hier. Möchten Sie die Jacke anprobieren?\nFrau Weber: Ja, gern. Wo ist die Umkleidekabine?\nVerkäuferin: Dort.\nFrau Weber: Die Jacke passt mir gut. Was kostet sie?\nVerkäuferin: Sie kostet 90 Euro. Sie ist im Angebot, nur 60 Euro.\nFrau Weber: Super! Wo finde ich die Schuhabteilung?\nVerkäuferin: Im zweiten Stock. Fahren Sie mit der Rolltreppe.\nFrau Weber: Danke! Ich zahle mit der Karte.\nMira: Ben, was hast du gestern gekauft?\nBen: Ich habe einen Pullover ausgesucht und anprobiert. Er hat mir gut gefallen.\nMira: Wie viel hast du ausgegeben?\nBen: 40 Euro. Und du?\nMira: Ich habe auf dem Flohmarkt eine Tasche gekauft. Das war ein Schnäppchen!",
+    "script": "Verkäuferin: Guten Tag! Kann ich Ihnen helfen?\nFrau Weber: Guten Tag. Ja, ich suche eine Jacke.\nVerkäuferin: Welche Größe haben Sie?\nFrau Weber: Größe 40. Haben Sie diese Jacke in Blau?\nVerkäuferin: Ja, hier. Möchten Sie die Jacke anprobieren?\nFrau Weber: Ja, gern. Wo ist die Umkleidekabine?\nVerkäuferin: Dort.\nFrau Weber: Die Jacke passt mir gut. Was kostet sie?\nVerkäuferin: Sie kostet 90 Euro. Sie ist im Angebot, nur 60 Euro.\nFrau Weber: Super! Wo finde ich die Schuhabteilung?\nVerkäuferin: Im zweiten Stock. Fahren Sie mit der Rolltreppe.\nFrau Weber: Danke! Ich zahle mit der Karte.\nMira: Ben, was hast du gestern gekauft?\nBen: Ich habe einen Pullover ausgesucht und anprobiert. Er hat mir gut gefallen.\nMira: Wie viel hast du ausgegeben?\nBen: 40 Euro. Und du?\nMira: Ich habe auf dem Flohmarkt eine Tasche gekauft. Das war ein Schnäppchen!",
     "questions": [
      {
       "type": "choice",
@@ -15195,7 +15195,7 @@
        "40",
        "36"
       ],
-      "answer": 0,
+      "answer": 1,
       "hint": "Listen to Welche Größe haben Sie?",
       "explanation": "Größe 38."
      },
