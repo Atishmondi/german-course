@@ -9747,12 +9747,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Leon lives alone.",
+     "prompt": "Write in German: Ben lives alone.",
      "answers": [
-      "Leon wohnt allein."
+      "Ben wohnt allein."
      ],
      "hint": "No ending.",
-     "explanation": "Leon wohnt allein."
+     "explanation": "Ben wohnt allein."
     }
    ]
   },
@@ -15231,7 +15231,7 @@
     ]
    },
    "listening": {
-    "title": "Mira phones the landlady",
+    "title": "Mira ruft die Vermieterin an",
     "script": "Mira: Guten Tag. Hier ist Mira. Ich suche eine Wohnung.\nVermieterin: Guten Tag, Mira. Ich habe eine Wohnung im Zentrum. Sie hat drei Zimmer.\nMira: Wie groß ist die Wohnung?\nVermieterin: Sie ist fünfundsiebzig Quadratmeter groß. Die Miete ist achthundertfünfzig Euro pro Monat.\nMira: Hat die Wohnung einen Garten?\nVermieterin: Nein, aber sie hat einen Balkon. Er ist ziemlich groß.\nMira: Ist die Wohnung hell?\nVermieterin: Ja, sie ist sehr hell und modern.\nMira: Wann kann ich kommen?\nVermieterin: Am Samstag um zehn Uhr?\nMira: Ja, super. Danke. Auf Wiedersehen.",
     "questions": [
      {
@@ -16063,7 +16063,7 @@
     ]
    },
    "listening": {
-    "title": "Mira invites Anna",
+    "title": "Mira lädt Anna ein",
     "script": "Mira: Hallo Anna! Ich habe jetzt eine Wohnung.\nAnna: Super! Wie ist die Wohnung?\nMira: Sie ist klein, aber hell. Ich finde sie gemütlich.\nAnna: Und wie sind die Möbel?\nMira: Das Sofa ist grün, und der Sessel ist grau. Der Sessel steht am Fenster.\nAnna: Toll! Ich will die Wohnung sehen.\nMira: Komm doch am Samstag vorbei!\nAnna: Ja, gern! Wann?\nMira: Um vier Uhr.\nAnna: Wo ist das?\nMira: Im Zentrum, neben dem Park. Die Lage ist zentral.\nAnna: Was soll ich mitbringen?\nMira: Bring bitte Kaffee mit. Die Kaffeemaschine steht im Karton.\nAnna: Gut. Bis Samstag!",
     "questions": [
      {
