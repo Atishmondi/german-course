@@ -1402,7 +1402,7 @@
     },
     {
      "type": "type",
-     "prompt": "Polite question: Was ___ Sie gestern gemacht? (to have)",
+     "prompt": "Polite question: Was ___ Sie gestern gemacht? (polite Sie, Perfekt helper)",
      "answers": [
       "haben"
      ],
@@ -7149,8 +7149,8 @@
        ]
       },
       {
-       "de": "Herr Ali ist letzte Woche mit dem Flugzeug nach Berlin geflogen.",
-       "en": "Herr Ali flew to Berlin by plane last week.",
+       "de": "Herr Ali ist letzte Woche mit dem Flugzeug nach Wien geflogen.",
+       "en": "Herr Ali flew to Vienna by plane last week.",
        "why": "Time, how and where all fit in the middle.",
        "parts": [
         [
@@ -7170,7 +7170,7 @@
          "other"
         ],
         [
-         "nach Berlin",
+         "nach Wien",
          "place"
         ],
         [
@@ -9038,7 +9038,7 @@
        "en": "Mira is tired. What happened?"
       },
       {
-       "de": "Du bist spät. Was ist passiert?",
+       "de": "Du kommst zu spät. Was ist passiert?",
        "en": "You are late. What happened?"
       }
      ]
@@ -11815,7 +11815,7 @@
      "more": "Seasonal work is work that only exists in one time of the year. The farm needs help when the strawberries are ripe. The hotel needs help when guests come in summer. Step 1: ask: when is the Saison? Step 2: apply for a Nebenjob in that time. Step 3: tell your story with the Perfekt: Ich habe im Hotel gearbeitet. Extra example: Ich bin Erntehelfer = I am a harvest helper.",
      "lead": "Now a little culture. What kind of job can a student really get in Germany? This card shows typical Nebenjobs, so your sentences have real content.",
      "deeper": {
-      "text": "Seasonal jobs are popular because they are short and the pay is often fair. The word Saison comes from French and is also used for fashion, sport and tourism. Typical in Germany: Spargel in spring, Erdbeeren in early summer, and a hotel job in the summer holidays.",
+      "text": "Seasonal jobs are popular because they are short and you can often start without experience. The word Saison comes from French and is also used for fashion, sport and tourism. Typical in Germany: Spargel in spring, Erdbeeren in early summer, and a hotel job in the summer holidays.",
       "example": {
        "de": "Ich habe als Erntehelfer gearbeitet.",
        "en": "I worked as a harvest helper.",
@@ -12304,7 +12304,7 @@
    "speaking": {
     "prompts": [
      "Tell a boss where you worked and what you studied.",
-     "Ask a friend if he has eaten already, and answer: not yet.",
+     "Ask a friend if they have eaten already, and answer: not yet.",
      "Say that you did not work yesterday."
     ],
     "examples": [
@@ -12756,7 +12756,7 @@
     },
     {
      "title": "Spell it",
-     "body": "Names and e-mail addresses are hard to hear. Ask: Können Sie das buchstabieren? (Can you spell that?) or Wie schreibt man das? (How do you write that?). Buchstabieren starts with the sound buch- and ends in -ieren, so there is no ge-: you do not need its participle today.",
+     "body": "Names and e-mail addresses are hard to hear. Ask: Können Sie das buchstabieren? (Can you spell that?) or Wie schreibt man das? (How do you write that?). Buchstabieren ends in -ieren, so its participle has no ge-: buchstabiert. You do not need it today.",
      "examples": [
       {
        "de": "Können Sie das buchstabieren?",
@@ -13009,7 +13009,7 @@
       "Say what you did not catch: Sie / das",
       "Say nicht + participle: nicht verstanden"
      ],
-     "more": "This is a small copy of lesson 3 and lesson 8. Verbs that start with ver-, be- or er- have no ge-. So verstehen gives verstanden, like bestehen gave bestanden. Step 1: say Ich habe. Step 2: say what you did not catch: Sie. Step 3: nicht, then the participle: Ich habe Sie nicht verstanden. Extra example: Ich habe das nicht verstanden = I did not understand that.",
+     "more": "This is a small copy of lesson 3 and lesson 7. Verbs that start with ver-, be- or er- have no ge-. So verstehen gives verstanden, like bestehen gave bestanden. Step 1: say Ich habe. Step 2: say what you did not catch: Sie. Step 3: nicht, then the participle: Ich habe Sie nicht verstanden. Extra example: Ich habe das nicht verstanden = I did not understand that.",
      "lead": "Asking again is polite. You can also tell the other person why you ask: I did not understand. This card shows the Perfekt for that, using the bracket you know.",
      "deeper": {
       "text": "Verstehen has a small detail: the stem changes in the participle (verstehen, verstanden), just like bestehen, bestanden. You only need to learn the participle with the verb: versteht, hat verstanden. In everyday speech people say Ich habe das nicht verstanden or short: Das habe ich nicht verstanden.",
@@ -13278,7 +13278,7 @@
     },
     {
      "title": "A whole call",
-     "body": "Here is a whole call. Mira phones Frau Weber about the Nebenjob. She opens the call, says why she calls, asks him to repeat, asks him to spell and closes the call. Read the five steps in order and notice the phrases from this lesson.",
+     "body": "Here is a whole call. Mira phones Frau Weber about the Nebenjob. She opens the call, says why she calls, asks her to repeat, asks her to spell and closes the call. Read the five steps in order and notice the phrases from this lesson.",
      "examples": [
       {
        "de": "Guten Tag, hier spricht Mira.",
@@ -13924,7 +13924,7 @@
    "day": 1,
    "reading": {
     "title": "Miras erste Uni-Woche",
-    "text": "Hallo Leon, wie geht's? Meine erste Woche in der Uni war anstrengend, aber super. Ich habe viel gelernt. In der Vorlesung habe ich gefragt, und die Lehrerin hat geantwortet. Am Mittwoch habe ich für die Prüfung geübt. Dann habe ich mit Anna telefoniert. Sie hat ein Praktikum gemacht und das Projekt organisiert. Das hat Spaß gemacht. Ich habe auch eine Idee: Ich möchte ein Praktikum machen. Der Job ist gut bezahlt und macht Spaß. Und du? Was hast du gemacht? Hast du auch gearbeitet? Hast du im Café gearbeitet? Viele Grüße\nMira",
+    "text": "Hallo Leon, wie geht's? Meine erste Woche in der Uni war anstrengend, aber super. Ich habe viel gelernt. In der Vorlesung habe ich gefragt, und die Dozentin hat geantwortet. Am Mittwoch habe ich für die Prüfung geübt. Dann habe ich mit Anna telefoniert. Sie hat ein Praktikum gemacht und das Projekt organisiert. Das hat Spaß gemacht. Ich habe auch eine Idee: Ich möchte ein Praktikum machen. Der Job ist gut bezahlt und macht Spaß. Und du? Was hast du gemacht? Hast du auch gearbeitet? Hast du im Café gearbeitet? Viele Grüße\nMira",
     "glossary": [
      {
       "de": "erste",
@@ -13933,6 +13933,10 @@
      {
       "de": "meine",
       "en": "my"
+     },
+     {
+      "de": "die Dozentin",
+      "en": "lecturer (woman)"
      }
     ],
     "questions": [
@@ -13977,12 +13981,12 @@
       "prompt": "Who answered Mira?",
       "options": [
        "Anna",
-       "the teacher",
+       "the lecturer",
        "Leon"
       ],
       "answer": 1,
       "hint": "Look after und.",
-      "explanation": "die Lehrerin hat geantwortet."
+      "explanation": "die Dozentin hat geantwortet."
      },
      {
       "type": "type",
@@ -14057,7 +14061,7 @@
     ]
    },
    "listening": {
-    "title": "Ben tells Anna about his Praktikum",
+    "title": "Ben erzählt Anna vom Praktikum",
     "script": "Anna: Hallo Ben! Was hast du gestern gemacht?\nBen: Hallo Anna! Ich habe im Praktikum gearbeitet. Es war anstrengend.\nAnna: Was hast du gemacht?\nBen: Ich habe ein Projekt organisiert. Dann habe ich mit Frau Weber telefoniert. Sie hat viel gefragt, und ich habe geantwortet. Danach habe ich gewartet.\nAnna: Hat der Job Spaß gemacht?\nBen: Ja, der Job hat Spaß gemacht, aber das Gehalt ist schlecht. Ich habe zwei Überstunden gemacht.\nAnna: Das ist anstrengend! Ich habe gestern Fußball gespielt und gekocht.",
     "questions": [
      {
@@ -14354,8 +14358,13 @@
    "day": 2,
    "reading": {
     "title": "Leons langer Tag",
-    "text": "Gestern war Leon sehr müde. Er ist um acht aufgewacht, zu spät! Er hat nicht gefrühstückt und ist schnell zum Bus gelaufen. Der Bus ist im Stau stecken geblieben. Um neun ist Leon in der Uni angekommen. Die Lehrerin hat gefragt: Was ist passiert? Leon hat geantwortet: „Ein Stau!“ Zuerst hat er eine E-Mail gelesen und geschrieben. Dann hat er Hausaufgaben gemacht. Leon hat viel gelernt. Mittags hat er Suppe gegessen und Tee getrunken. Am Abend ist Leon in der Uni geblieben. Danach hat er mit Mira telefoniert. Um sieben ist er nach Hause gegangen.",
-    "glossary": [],
+    "text": "Gestern war Leon sehr müde. Er ist um acht aufgewacht, zu spät! Er hat nicht gefrühstückt und ist schnell zum Bus gelaufen. Der Bus ist im Stau stecken geblieben. Um neun ist Leon in der Uni angekommen. Die Dozentin hat gefragt: Was ist passiert? Leon hat geantwortet: „Ein Stau!“ Zuerst hat er eine E-Mail gelesen und geschrieben. Dann hat er Hausaufgaben gemacht. Leon hat viel gelernt. Mittags hat er Suppe gegessen und Tee getrunken. Am Abend ist Leon in der Uni geblieben. Danach hat er mit Mira telefoniert. Um sieben ist er nach Hause gegangen.",
+    "glossary": [
+     {
+      "de": "die Dozentin",
+      "en": "lecturer (woman)"
+     }
+    ],
     "questions": [
      {
       "type": "choice",
@@ -14418,7 +14427,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did the teacher ask?",
+      "prompt": "What did the lecturer ask?",
       "options": [
        "What happened?",
        "Where is the bus?",
@@ -14426,7 +14435,7 @@
       ],
       "answer": 0,
       "hint": "Look for gefragt.",
-      "explanation": "Die Lehrerin hat gefragt: Was ist passiert?"
+      "explanation": "Die Dozentin hat gefragt: Was ist passiert?"
      },
      {
       "type": "choice",
@@ -14480,7 +14489,7 @@
    },
    "listening": {
     "title": "Was ist passiert?",
-    "script": "Ben: Hallo, Mira! Was ist passiert? Du bist spät.\nMira: Ja, ich bin zu spät aufgewacht. Ich habe den Wecker nicht gehört.\nBen: Und dann? Bist du mit dem Bus gefahren?\nMira: Ja. Aber plötzlich ist ein Unfall passiert, und der Bus ist im Stau stecken geblieben.\nBen: Oh nein! Bist du zu spät angekommen?\nMira: Ja, um neun. Ich habe mit Frau Weber gesprochen.\nBen: Hast du gefrühstückt?\nMira: Nein, ich habe nicht gefrühstückt. Aber ich habe einen Kaffee getrunken.\nBen: Gut! Ich habe Brot mitgebracht.\nMira: Super, danke!",
+    "script": "Ben: Hallo, Mira! Was ist passiert? Du kommst zu spät.\nMira: Ja, ich bin zu spät aufgewacht. Ich habe den Wecker nicht gehört.\nBen: Und dann? Bist du mit dem Bus gefahren?\nMira: Ja. Aber plötzlich ist ein Unfall passiert, und der Bus ist im Stau stecken geblieben.\nBen: Oh nein! Bist du zu spät angekommen?\nMira: Ja, um neun. Ich habe mit Frau Weber gesprochen.\nBen: Hast du gefrühstückt?\nMira: Nein, ich habe nicht gefrühstückt. Aber ich habe einen Kaffee getrunken.\nBen: Gut! Ich habe Brot mitgebracht.\nMira: Super, danke!",
     "questions": [
      {
       "type": "choice",
@@ -14921,7 +14930,7 @@
     ]
    },
    "listening": {
-    "title": "Mira phones Frau Weber",
+    "title": "Mira ruft Frau Weber an",
     "script": "Frau Weber: Sprachschule, guten Tag.\nMira: Guten Tag, hier spricht Mira. Ich habe Ihre Stellenanzeige gelesen.\nFrau Weber: Wie bitte? Ich habe Sie nicht verstanden. Können Sie das buchstabieren?\nMira: M, I, R, A.\nFrau Weber: Danke, Mira. Haben Sie schon Erfahrung?\nMira: Ja. Letztes Jahr hatte ich ein Praktikum. Es war toll.\nFrau Weber: Sehr gut. Möchten Sie am Dienstag zum Bewerbungsgespräch kommen? Um zehn Uhr.\nMira: Wie bitte? Können Sie das bitte wiederholen?\nFrau Weber: Am Dienstag um zehn Uhr.\nMira: Ja, gern. Ich habe Zeit. Vielen Dank, Frau Weber. Auf Wiederhören!\nFrau Weber: Auf Wiederhören, Mira!",
     "questions": [
      {
