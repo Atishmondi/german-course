@@ -632,7 +632,7 @@
       "text": "In English you must change the adjective to an adverb: slow becomes slowly. In German there is no change at all. Schnell is the same word in Das Handy ist schnell and Ben arbeitet schnell. That is one thing fewer to remember, and it works for the comparative too.",
       "example": {
        "de": "Herr Ali kocht schneller als ich.",
-       "en": "Herr Ali cooks faster than I.",
+       "en": "Herr Ali cooks faster than I do.",
        "parts": [
         [
          "Herr",
@@ -1417,8 +1417,8 @@
      "en": "funny, witty",
      "examples": [
       {
-       "de": "Ben ist witziger als Leon.",
-       "en": "Ben is funnier than Leon."
+       "de": "Leon ist witziger als Ben.",
+       "en": "Leon is funnier than Ben."
       },
       {
        "de": "Leon ist nicht witzig.",
@@ -1498,7 +1498,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Miras phone is expensive.",
+     "prompt": "Write in German: Mira's phone is expensive.",
      "answers": [
       "Miras Handy ist teuer."
      ],
@@ -2170,13 +2170,13 @@
       }
      ],
      "deeper": {
-      "text": "English uses tall for people and high for towers. German does too, but it uses groß for people and hoch for towers, mountains and prices. Ben ist größer als Mira says Ben is taller, and Der Turm ist höher als das Haus compares heights of buildings. Mixing them up sounds odd. Also note that hoch has no c in its comparative, so you always write höher, never höcher.",
+      "text": "English uses tall for people and high for towers. German splits them the same way: it uses groß for people and hoch for towers, mountains and prices. Ben ist größer als Mira says Ben is taller, and Der Turm ist höher als das Haus compares heights of buildings. Mixing them up sounds odd. Also note that hoch has no c in its comparative, so you always write höher, never höcher.",
       "example": {
-       "de": "Ben ist größer als Leon.",
-       "en": "Ben is taller than Leon.",
+       "de": "Anna ist größer als Leon.",
+       "en": "Anna is taller than Leon.",
        "parts": [
         [
-         "Ben",
+         "Anna",
          "subject"
         ],
         [
@@ -2700,7 +2700,7 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: Ben has more time than I.",
+    "prompt": "Write in German: Ben has more time than I do.",
     "answers": [
      "Ben hat mehr Zeit als ich."
     ],
@@ -2757,7 +2757,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Leon has more apps than I.",
+     "prompt": "Build: Leon has more apps than I do.",
      "tokens": [
       "mehr",
       "Leon",
@@ -3066,7 +3066,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Ben is not faster than I.",
+     "prompt": "Write in German: Ben is not faster than I am.",
      "answers": [
       "Ben ist nicht schneller als ich."
      ],
@@ -3984,7 +3984,7 @@
       }
      ],
      "deeper": {
-      "text": "Many people in German say wie where they mean als, especially when they speak fast. In school and in writing it counts as a mistake. A trick: if you can say more or -er in English (bigger than), use als. If you say as ... as, use wie.",
+      "text": "Many German speakers say wie where they mean als, especially when they speak fast. In school and in writing it counts as a mistake. A trick: if you can say more or -er in English (bigger than), use als. If you say as ... as, use wie.",
       "example": {
        "de": "Leon ist lustiger als Ben.",
        "en": "Leon is funnier than Ben.",
@@ -4125,7 +4125,7 @@
      "deeper": {
       "text": "Say the pair out loud. Bein with b: lips come together and open. Wein with w: your top teeth touch your lower lip, like the English v. Another useful tip: stress is the louder, longer syllable. In BILDschirm and FERNseher it is the first part. In comPUter and restauRANT it is the last part. When you learn a new word, learn its stress too.",
       "example": {
-       "de": "Wir wohnen weit.",
+       "de": "Wir wohnen weit weg.",
        "en": "We live far away.",
        "parts": [
         [
@@ -4137,8 +4137,12 @@
          "verb"
         ],
         [
-         "weit.",
+         "weit",
          "adjective"
+        ],
+        [
+         "weg.",
+         "other"
         ]
        ]
       }
@@ -4516,8 +4520,8 @@
        "en": "The station is new."
       },
       {
-       "de": "Herr Ali hört einen Sender.",
-       "en": "Herr Ali listens to a station."
+       "de": "Herr Ali hört oft diesen Sender.",
+       "en": "Herr Ali often listens to this station."
       }
      ],
      "article": "der",
@@ -4610,8 +4614,8 @@
        "en": "The season has ten episodes."
       },
       {
-       "de": "Leon guckt die Staffel.",
-       "en": "Leon is watching the season."
+       "de": "Leon guckt die ganze Staffel.",
+       "en": "Leon is watching the whole season."
       }
      ],
      "article": "die",
@@ -5311,7 +5315,7 @@
        ]
       }
      },
-     "more": "You already know how these verbs work in the present: ich finde, du findest, er findet. The only new thing is what comes after. Think of the four verbs as four different voices. Finden says I find it so. Denken says I think. Glauben says I believe, and you are not completely sure. Meinen says I mean, and you want others to hear it. After each voice you open the small train with a comma and dass. Hoffen, to hope, is a fifth voice, and you meet it on the next line.",
+     "more": "You already know how these verbs work in the present: ich finde, du findest, er findet. The only new thing is what comes after. Think of the four verbs as four different voices. Finden says I find it so. Denken says I think. Glauben says I believe, and you are not completely sure. Meinen says I mean, and you want others to hear it. After each voice you open the small train with a comma and dass. Hoffen, to hope, is a fifth voice, and you meet it in A bit deeper below.",
      "table": {
       "headers": [
        "verb",
@@ -6994,7 +6998,7 @@
       }
      ],
      "deeper": {
-      "text": "Which helper do you put last, hat or ist? Most verbs take hat: gepostet hat, gesehen hat. Verbs of movement and change of state take ist: gegangen ist, geblieben ist, gefahren ist. The helper is the verb that changes with the person, so after dass it is the last word: ..., dass wir gegangen sind. A clause that ends on the participle alone is not finished.",
+      "text": "Which helper do you put last, hat or ist? Most verbs take hat: gepostet hat, gesehen hat. Verbs of movement and change of state, and bleiben, take ist: gegangen ist, geblieben ist, gefahren ist. The helper is the verb that changes with the person, so after dass it is the last word: ..., dass wir gegangen sind. A clause that ends on the participle alone is not finished.",
       "example": {
        "de": "Ich weiß, dass Anna zu Hause geblieben ist.",
        "en": "I know that Anna stayed at home.",
@@ -7977,8 +7981,8 @@
        "en": "The password is too short."
       },
       {
-       "de": "Wie ist dein Passwort?",
-       "en": "What is your password?"
+       "de": "Ich vergesse oft mein Passwort.",
+       "en": "I often forget my password."
       }
      ],
      "article": "das",
@@ -8344,7 +8348,7 @@
       "text": "You can also use the with a noun that you have already named: Der Vorteil ist, dass ... But when you list several points, ein is better, because it says: this is one of the advantages. The dass clause always follows the same pattern: subject, other words, verb at the end.",
       "example": {
        "de": "Der Nachteil ist, dass der Akku schnell leer ist.",
-       "en": "The disadvantage is that the battery is quickly empty.",
+       "en": "The disadvantage is that the battery runs down quickly.",
        "parts": [
         [
          "Der",
@@ -9486,7 +9490,7 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: A disadvantage is that the battery is quickly empty.",
+    "prompt": "Write in German: A disadvantage is that the battery runs down quickly.",
     "answers": [
      "Ein Nachteil ist, dass der Akku schnell leer ist."
     ],
@@ -9533,7 +9537,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: A disadvantage is that Ben is always online.",
+     "prompt": "Build: A disadvantage is that Ben is online all the time.",
      "tokens": [
       "ist,",
       "dass",
@@ -9673,7 +9677,7 @@
       },
       {
        "de": "Mein Akku ist schnell leer.",
-       "en": "My battery is empty quickly."
+       "en": "My battery runs down quickly."
       }
      ],
      "article": "der",
@@ -9777,8 +9781,8 @@
        "en": "You are exaggerating!"
       },
       {
-       "de": "Leon übertreibt: Er ist zehn Stunden online.",
-       "en": "Leon is overdoing it: he is online for ten hours."
+       "de": "Leon übertreibt: Er ist zehn Stunden am Tag online.",
+       "en": "Leon is overdoing it: he is online for ten hours a day."
       }
      ],
      "forms": "übertreibt, hat übertrieben"
@@ -10359,7 +10363,7 @@
       }
      ],
      "deeper": {
-      "text": "Which verb do you use for watching: sehen, gucken or schauen? All three work for films. Sehen is neutral. Gucken is informal and very common in the north and in Berlin. Schauen is the same word in the south, in Bavaria, Austria and Switzerland. Natives choose by region, not by rule, so you can pick one and stay with it. The rest of the sentence with gern, lieber or am liebsten stays exactly the same.",
+      "text": "Which verb do you use for watching: sehen, gucken or schauen? All three work for films. Sehen is neutral. Gucken is informal and very common in the north and in Berlin. Schauen is the usual word in the south, in Bavaria, Austria and Switzerland. Natives choose by region, not by rule, so you can pick one and stay with it. The rest of the sentence with gern, lieber or am liebsten stays exactly the same.",
       "example": {
        "de": "Ich schaue lieber Krimis.",
        "en": "I prefer watching crime films.",
@@ -10508,7 +10512,7 @@
       }
      ],
      "deeper": {
-      "text": "Gruselig ends in -ig and gets just -er: gruseliger. Spannend becomes spannender, witzig becomes witziger and traurig becomes trauriger. The adjective never gets an ending before a noun in this lesson; it stands after sein. You can also say genauso witzig wie when two things are equal.",
+      "text": "Gruselig ends in -ig and gets just -er: gruseliger. Spannend becomes spannender, witzig becomes witziger and traurig becomes trauriger. In this lesson the adjective always stands after sein, so it never gets an ending. You can also say genauso witzig wie when two things are equal.",
       "example": {
        "de": "Der Krimi ist genauso spannend wie der Actionfilm.",
        "en": "The crime film is just as exciting as the action film.",
@@ -11144,7 +11148,7 @@
     },
     {
      "type": "build",
-     "prompt": "Build: I like Science-Fiction films more than comedies.",
+     "prompt": "Build: I prefer watching science fiction films to comedies.",
      "tokens": [
       "lieber",
       "Science-Fiction-Filme",
@@ -11304,8 +11308,8 @@
        "en": "Crime film and comedy are genres."
       },
       {
-       "de": "Mein Genre ist die Komödie.",
-       "en": "My genre is the comedy."
+       "de": "Mein Lieblingsgenre ist die Komödie.",
+       "en": "My favourite genre is comedy."
       }
      ],
      "article": "das",
@@ -11785,7 +11789,7 @@
       }
      ],
      "deeper": {
-      "text": "For a mixed group the traditional plural is the male form: die Schauspieler can mean actors of all genders. Today many people write Schauspieler:innen or say Schauspielerinnen und Schauspieler to include everybody. You will see all three in the media. The -in rule works for many jobs, not only for film: der Lehrer, die Lehrerin; der Kollege, die Kollegin. Be careful: der Held is the only one here that is not regular.",
+      "text": "For a mixed group the traditional plural is the male form: die Schauspieler can mean actors of all genders. Today many people write Schauspieler:innen or say Schauspielerinnen und Schauspieler to include everybody. You will see all three in the media. The -in rule works for many jobs, not only for film: der Lehrer, die Lehrerin; der Kollege, die Kollegin. Der Held follows the rule too: die Heldin.",
       "example": {
        "de": "Die Heldin ist stark.",
        "en": "The heroine is strong.",
@@ -11809,7 +11813,7 @@
        ]
       }
      },
-     "more": "German has a simple way to make female words for people: add -in. Lehrer becomes Lehrerin, Schauspieler becomes Schauspielerin, Regisseur becomes Regisseurin. In the plural you add -nen to the -in word: die Schauspielerinnen. The hero is one of the few exceptions: der Held and die Heldin. For now you only need them as the subject of a sentence, for example Der Held ist stark. The leading role, die Hauptrolle, is the biggest part in the film.",
+     "more": "German has a simple way to make female words for people: add -in. Lehrer becomes Lehrerin, Schauspieler becomes Schauspielerin, Regisseur becomes Regisseurin. In the plural you add -nen to the -in word: die Schauspielerinnen. The hero follows the same rule: der Held, die Heldin. For now you only need them as the subject of a sentence, for example Der Held ist stark. The leading role, die Hauptrolle, is the biggest part in the film.",
      "table": {
       "headers": [
        "man",
@@ -12263,7 +12267,7 @@
      "examples": [
       {
        "de": "Die Schauspielerin hat in Berlin gedreht.",
-       "en": "The actress has shot in Berlin.",
+       "en": "The actress was filming in Berlin.",
        "parts": [
         [
          "Die",
@@ -13564,7 +13568,7 @@
       }
      ],
      "deeper": {
-      "text": "In Germany most foreign films are dubbed: the actors speak German, and you hear it as synchronisiert. If you want the original voices, look for OmU in the programme. It means Original mit Untertiteln, the original language with subtitles. Many cinemas also have a cheaper day, often Tuesday, called Kinotag. So before you buy a Kinokarte, check whether the film is synchronisiert or OmU. It changes how much you can learn.",
+      "text": "In Germany most foreign films are dubbed: the actors speak German, and the film is synchronisiert (dubbed). If you want the original voices, look for OmU in the programme. It means Original mit Untertiteln, the original language with subtitles. Many cinemas also have a cheaper day, often early in the week, called Kinotag. So before you buy a Kinokarte, check whether the film is synchronisiert or OmU. It changes how much you can learn.",
       "example": {
        "de": "Ich sehe den Film lieber im Original.",
        "en": "I prefer to watch the film in the original.",
@@ -13677,7 +13681,7 @@
       },
       {
        "de": "In Berlin hat man viele Filme gedreht.",
-       "en": "One has shot many films in Berlin.",
+       "en": "Many films have been shot in Berlin.",
        "parts": [
         [
          "In",
@@ -13711,7 +13715,7 @@
       },
       {
        "de": "Man hat auch in Wien und in Zürich gedreht.",
-       "en": "One has also shot in Vienna and in Zurich.",
+       "en": "Films have also been shot in Vienna and Zurich.",
        "parts": [
         [
          "Man",
@@ -14831,7 +14835,7 @@
    },
    "listening": {
     "title": "Serie oder Film?",
-    "script": "Ben: Leon, was guckst du heute Abend? Eine Serie oder einen Film?\nLeon: Ich weiß nicht. Die Serie ist länger als der Film, aber die Serie ist auch spannender.\nBen: Ist der Film nicht so spannend wie die Serie?\nLeon: Nein, der Film ist nicht so spannend. Aber er ist lustiger als die Serie.\nBen: Ich finde die Serie besser. Sie ist so witzig wie der Film.\nLeon: Ach so! Wer hat mehr Zeit? Ich habe nicht so viel Zeit wie du.\nBen: Ich habe mehr Zeit als du. Aber morgen arbeite ich.\nLeon: Dann gucken wir den Film. Er ist kürzer.\nBen: Gut. Und gestern? Welche Folge war am besten?\nLeon: Gestern war die Serie am lustigsten.",
+    "script": "Ben: Leon, was guckst du heute Abend? Eine Serie oder einen Film?\nLeon: Ich weiß nicht. Die Serie ist länger als der Film, aber die Serie ist auch spannender.\nBen: Ist der Film nicht so spannend wie die Serie?\nLeon: Nein, der Film ist nicht so spannend. Aber er ist lustiger als die Serie.\nBen: Ich finde die Serie besser. Sie ist so witzig wie der Film.\nLeon: Ach so! Wer hat mehr Zeit? Ich habe nicht so viel Zeit wie du.\nBen: Ich habe mehr Zeit als du. Aber morgen arbeite ich.\nLeon: Dann gucken wir den Film. Er ist kürzer.\nBen: Gut. Und gestern? Welche Folge war am lustigsten?\nLeon: Die Folge mit dem Hund war am lustigsten.",
     "questions": [
      {
       "type": "choice",
@@ -14943,15 +14947,15 @@
      },
      {
       "type": "choice",
-      "prompt": "What was the funniest yesterday?",
+      "prompt": "Which episode was the funniest yesterday?",
       "options": [
-       "the series",
+       "the episode with the dog",
        "the film",
        "the news"
       ],
       "answer": 0,
       "hint": "Listen for am lustigsten.",
-      "explanation": "Gestern war die Serie am lustigsten."
+      "explanation": "Die Folge mit dem Hund war am lustigsten."
      }
     ]
    },
@@ -15565,7 +15569,7 @@
    "day": 3,
    "reading": {
     "title": "Kino im Park",
-    "text": "Am Samstag gibt es im Park ein Kino. Die Leinwand ist groß, und die Kinokarte kostet nur fünf Euro. Der Film ist ein Krimi. Er handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund in der Stadt. Am Ende findet sie ihn im Park. Wir machen dazu ein Picknick.\nMira: Ich habe den Film schon gesehen. Ich finde, dass er spannender als eine Komödie ist, aber ich weiß, dass das Ende traurig ist.\nBen: Ich sehe lieber Actionfilme als Krimis. Ich glaube aber, dass dieser Film gut ist. Ich bringe das Popcorn mit.\nHerr Ali: Ich habe auch das Buch gelesen. Ich finde, dass das Buch besser als der Film ist. Im Buch ist die Handlung nicht so langweilig wie im Film.",
+    "text": "Am Samstag gibt es im Park ein Kino. Die Leinwand ist groß, und die Kinokarte kostet nur fünf Euro. Der Film ist ein Krimi. Er handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund in der Stadt. Am Ende findet sie ihn im Park. Wir machen dazu ein Picknick.\nMira: Ich habe den Film schon gesehen. Ich finde, dass er spannender als eine Komödie ist, und ich weiß, dass das Ende schön ist.\nBen: Ich sehe lieber Actionfilme als Krimis. Ich glaube aber, dass dieser Film gut ist. Ich bringe das Popcorn mit.\nHerr Ali: Ich habe auch das Buch gelesen. Ich finde, dass das Buch besser als der Film ist. Im Buch ist die Handlung nicht so langweilig wie im Film.",
     "glossary": [
      {
       "de": "schon",
@@ -15666,12 +15670,12 @@
       "prompt": "What does Mira know about the end?",
       "options": [
        "It is funny.",
-       "It is sad.",
+       "It is lovely.",
        "It is long."
       ],
       "answer": 1,
-      "hint": "Look for traurig.",
-      "explanation": "Ich weiß, dass das Ende traurig ist."
+      "hint": "Look for Ende.",
+      "explanation": "Ich weiß, dass das Ende schön ist."
      },
      {
       "type": "choice",
@@ -15713,7 +15717,7 @@
    },
    "listening": {
     "title": "Wie war der Film?",
-    "script": "Herr Ali: Hallo Anna! Wie war der Film?\nAnna: Hallo, Herr Ali. Ich habe gestern Abend einen Krimi gesehen. Ich finde, dass er sehr spannend war.\nHerr Ali: Worum geht es in dem Film?\nAnna: Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund, und am Ende findet sie ihn im Park.\nHerr Ali: Spielt die Schauspielerin die Hauptrolle?\nAnna: Ja, sie spielt die Hauptrolle. Ich weiß, dass sie sehr berühmt ist.\nHerr Ali: Ich habe auch das Buch gelesen. Ich glaube, dass das Buch besser als der Film ist.\nAnna: Na ja ... Ich finde, dass der Film witziger als das Buch war.\nHerr Ali: Vielleicht. Und deine Kritik?\nAnna: Der Film hat vier von fünf Sternen. Ich empfehle ihn, weil er so spannend ist.\nHerr Ali: Danke, Anna. Dann sehe ich den Film am Samstag im Park.\nAnna: Gute Idee! Ich bringe das Popcorn mit.",
+    "script": "Herr Ali: Hallo Anna! Wie war der Film?\nAnna: Hallo, Herr Ali. Ich habe gestern Abend einen Krimi gesehen. Ich finde, dass er sehr spannend war.\nHerr Ali: Worum geht es in dem Film?\nAnna: Der Film handelt von einer Schauspielerin und einem Hund. Am Anfang verliert die Schauspielerin den Hund. Dann sucht sie den Hund, und am Ende findet sie ihn im Park.\nHerr Ali: Spielt die Schauspielerin die Hauptrolle?\nAnna: Ja, sie spielt die Hauptrolle. Ich weiß, dass sie sehr berühmt ist.\nHerr Ali: Ich habe auch das Buch gelesen. Ich glaube, dass das Buch besser als der Film ist.\nAnna: Na ja ... Ich finde, dass der Film witziger als das Buch war.\nHerr Ali: Vielleicht. Und deine Kritik?\nAnna: Der Film hat vier von fünf Sternen. Ich empfehle ihn, weil er so spannend ist.\nHerr Ali: Danke, Anna. Dann sehe ich den Film am Samstag im Park.\nAnna: Gute Idee! Ich bringe die Getränke mit.",
     "questions": [
      {
       "type": "choice",
@@ -15736,7 +15740,7 @@
        "This morning"
       ],
       "answer": 0,
-      "hint": "Look for gestern.",
+      "hint": "Listen for gestern.",
       "explanation": "Gestern Abend."
      },
      {
@@ -15827,13 +15831,13 @@
       "type": "choice",
       "prompt": "What does Anna bring on Saturday?",
       "options": [
-       "The popcorn",
+       "The drinks",
        "The tickets",
        "The book"
       ],
       "answer": 0,
-      "hint": "Listen for mitbringen.",
-      "explanation": "Ich bringe das Popcorn mit."
+      "hint": "Listen to Anna's last line.",
+      "explanation": "Ich bringe die Getränke mit."
      }
     ]
    },

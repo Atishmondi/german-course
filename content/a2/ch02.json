@@ -13812,11 +13812,11 @@
     },
     {
      "title": "Past and present with man",
-     "body": "To compare old and new, use man with a modal: Früher musste man eine Schuluniform tragen. Heute muss man keine Schuluniform tragen. The past modals (musste, durfte, konnte) and the present modals (muss, darf, kann) both keep the second verb at the end.",
+     "body": "To compare old and new, use man with a modal: Früher musste man auch am Samstag in die Schule gehen. Heute muss man am Samstag nicht in die Schule gehen. The past modals (musste, durfte, konnte) and the present modals (muss, darf, kann) both keep the second verb at the end.",
      "examples": [
       {
-       "de": "Früher musste man eine Schuluniform tragen.",
-       "en": "Back then you had to wear a school uniform.",
+       "de": "Früher musste man auch am Samstag in die Schule gehen.",
+       "en": "Back then you also had to go to school on Saturday.",
        "parts": [
         [
          "Früher",
@@ -13831,15 +13831,31 @@
          "subject"
         ],
         [
-         "eine",
+         "auch",
+         "other"
+        ],
+        [
+         "am",
+         "preposition"
+        ],
+        [
+         "Samstag",
+         "time"
+        ],
+        [
+         "in",
+         "preposition"
+        ],
+        [
+         "die",
          "article"
         ],
         [
-         "Schuluniform",
+         "Schule",
          "noun"
         ],
         [
-         "tragen.",
+         "gehen.",
          "verb2"
         ]
        ],
@@ -13958,8 +13974,8 @@
       ],
       "rows": [
        [
-        "Früher musste man eine Schuluniform tragen.",
-        "Heute muss man keine Schuluniform tragen."
+        "Früher musste man auch am Samstag in die Schule gehen.",
+        "Heute muss man am Samstag nicht in die Schule gehen."
        ],
        [
         "Früher durfte man kein Handy mitbringen.",
@@ -14534,13 +14550,13 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Früher musste man eine Schuluniform tragen.",
-      "Früher muss man eine Schuluniform tragen.",
-      "Früher musste man eine Schuluniform getragen."
+      "Früher musste man auch am Samstag in die Schule gehen.",
+      "Früher muss man auch am Samstag in die Schule gehen.",
+      "Früher musste man auch am Samstag in die Schule gegangen."
      ],
      "answer": 0,
      "hint": "Früher needs the past modal.",
-     "explanation": "Früher musste man eine Schuluniform tragen.",
+     "explanation": "Früher musste man auch am Samstag in die Schule gehen.",
      "grammar": true
     },
     {
@@ -14624,13 +14640,13 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: Back then you had to wear a school uniform. (with man)",
+    "prompt": "Write in German: Back then you also had to go to school on Saturday. (with man)",
     "answers": [
-     "Früher musste man eine Schuluniform tragen.",
-     "Man musste früher eine Schuluniform tragen."
+     "Früher musste man auch am Samstag in die Schule gehen.",
+     "Man musste früher auch am Samstag in die Schule gehen."
     ],
     "hint": "Früher + past modal + man + infinitive at the end.",
-    "explanation": "Früher musste man eine Schuluniform tragen.",
+    "explanation": "Früher musste man auch am Samstag in die Schule gehen.",
     "grammar": true
    },
    "check": [
@@ -14938,7 +14954,7 @@
     ],
     "examples": [
      "Ich war in der Grundschule und dann auf dem Gymnasium.",
-     "Früher musste man eine Schuluniform tragen. Heute darf man ein Handy mitbringen.",
+     "Früher musste man auch am Samstag in die Schule gehen. Heute darf man ein Handy mitbringen.",
      "Ich möchte über die Schule in Österreich sprechen. In Österreich gibt es die Matura. Meiner Meinung nach ist das gut. Vielen Dank!"
     ]
    },
@@ -15833,7 +15849,7 @@
    "day": 3,
    "reading": {
     "title": "Das Schulprojekt",
-    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Lena schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man eine Schuluniform tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man keine Schuluniform tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße\nLena",
+    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Lena schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man an unserer Schule ein Schul-T-Shirt tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man kein Schul-T-Shirt tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße\nLena",
     "glossary": [
      {
       "de": "Zettel",
@@ -15970,7 +15986,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Why are they against school uniforms?",
+      "prompt": "Why were they against the school T-shirt?",
       "options": [
        "Everyone looks the same.",
        "They like their clothes.",
