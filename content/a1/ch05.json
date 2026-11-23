@@ -8668,7 +8668,7 @@
      "prompt": "Ihr habt eine Katze. Das ist ___ Katze. (your, you all)",
      "options": [
       "eure",
-      "euere",
+      "euren",
       "euer"
      ],
      "answer": 0,
@@ -8791,7 +8791,7 @@
      "type": "choice",
      "prompt": "Which is correct? (your mother, you all)",
      "options": [
-      "euere Mutter",
+      "euren Mutter",
       "euer Mutter",
       "eure Mutter"
      ],
