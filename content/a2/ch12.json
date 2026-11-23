@@ -1694,7 +1694,7 @@
       }
      ],
      "deeper": {
-      "text": "alles lives in many fixed phrases: Alles klar! (all right), Das ist alles (that is all), Alles Gute! (all the best). And a surprise from the north and east of Germany: alle can also mean all gone. Das Wasser ist alle means the water is finished. You may hear this at a festival, but in careful German say: Das Wasser ist leer.",
+      "text": "alles lives in many fixed phrases: Alles klar! (all right), Das ist alles (that is all), Alles Gute! (all the best). And a surprise from the north and east of Germany: alle can also mean all gone. Das Wasser ist alle means the water is finished. You may hear this at a festival, but in careful German say: Wir haben kein Wasser mehr.",
       "example": {
        "de": "Das Wasser ist alle.",
        "en": "The water is all gone.",
@@ -2092,7 +2092,7 @@
       }
      ],
      "deeper": {
-      "text": "Mückenspray is a compound: Mücke plus das Spray, and the last word gives the article, so das Mückenspray. In the same way die Regenjacke is Regen plus die Jacke. When dabeihaben stands at the end of a clause, its two parts join again: weil ich nichts dabeihabe. You already know this from separable verbs after weil and in relative clauses.",
+      "text": "Mückenspray is a compound: Mücke plus das Spray, and the last word gives the article, so das Mückenspray. In the same way die Regenjacke is Regen plus die Jacke. When dabeihaben stands at the end of a clause, its two parts join again: weil ich nichts dabeihabe. You already know this from separable verbs after weil and dass.",
       "example": {
        "de": "Ich weiß nicht, ob Ben ein Pflaster dabeihat.",
        "en": "I don't know if Ben has a plaster with him.",
@@ -5589,18 +5589,22 @@
       }
      ],
      "deeper": {
-      "text": "Gute Unterhaltung! means Enjoy the show! You hear it before a concert, a film or a show on TV. die Unterhaltung is entertainment, but also a conversation. With friends Germans more often say Viel Spaß!. Gute Unterhaltung! sounds a bit more like a host talking to the audience, so Mira says it with a smile.",
+      "text": "Two small words from the dialogue are everywhere in music talk. Laufen means to be playing: Was läuft gerade? asks which song is on. Gerade, right now, stands after the verb: Das läuft gerade überall. In a relative clause the verb moves behind it: ein Song, der gerade überall läuft. To praise a song, the pronoun alone is enough: Der ist super!",
       "example": {
-       "de": "Viel Spaß beim Konzert!",
-       "en": "Have fun at the concert!",
+       "de": "Was läuft gerade?",
+       "en": "What's playing right now?",
        "parts": [
         [
-         "Viel Spaß",
-         "object"
+         "Was",
+         "question"
         ],
         [
-         "beim Konzert!",
-         "other"
+         "läuft",
+         "verb"
+        ],
+        [
+         "gerade?",
+         "time"
         ]
        ]
       }
@@ -6318,33 +6322,45 @@
       }
      ],
      "deeper": {
-      "text": "Look at the first example: Die Nachteulen sind (plural), but eine Band, die … kommt (singular). The pronoun points to the noun right before the comma, eine Band, not to the name at the start. So the verb at the end is singular. Band names are often plural in German, like Die Nachteulen, but die Band stays feminine singular.",
+      "text": "The relative clause usually stands right after its noun. But if only a participle or an infinitive would follow, Germans put the clause behind it: Ich habe eine Band gesehen, die aus Hamburg kommt. Not: Ich habe eine Band, die aus Hamburg kommt, gesehen. That would leave gesehen alone at the very end. The pronoun still points back to eine Band.",
       "example": {
-       "de": "Die Nachteulen sind Musiker, die aus Hamburg kommen.",
-       "en": "Die Nachteulen are musicians who come from Hamburg.",
+       "de": "Ich habe eine Band gesehen, die aus Hamburg kommt.",
+       "en": "I saw a band that comes from Hamburg.",
        "parts": [
         [
-         "Die Nachteulen",
+         "Ich",
          "subject"
         ],
         [
-         "sind",
+         "habe",
          "verb"
         ],
         [
-         "Musiker,",
-         "other"
+         "eine",
+         "article"
+        ],
+        [
+         "Band",
+         "noun"
+        ],
+        [
+         "gesehen,",
+         "verb2"
         ],
         [
          "die",
          "relative"
         ],
         [
-         "aus Hamburg",
-         "place"
+         "aus",
+         "preposition"
         ],
         [
-         "kommen.",
+         "Hamburg",
+         "noun"
+        ],
+        [
+         "kommt.",
          "verbend"
         ]
        ]
@@ -11447,26 +11463,42 @@
       }
      ],
      "deeper": {
-      "text": "The verb darstellen is separable: Das Bild stellt die WG dar. It is more exact than zeigen and you find it in every exam. Step 1 gives the big topic in one sentence, never details. Many learners start with tiny things and the listener gets lost. Start big, then go small. In step 5 use weil: the opinion needs a reason.",
+      "text": "The verb darstellen is separable: Das Bild stellt die WG dar. It is more exact than zeigen, and you often read it in exam tasks. Step 1 gives the big topic in one sentence, never details. Many learners start with tiny things and the listener gets lost. Start big, then go small. In step 5 use weil: the opinion needs a reason.",
       "example": {
-       "de": "Das Bild zeigt eine Landschaft bei Kiel.",
+       "de": "Das Bild stellt eine Landschaft bei Kiel dar.",
        "en": "The picture shows a landscape near Kiel.",
        "parts": [
         [
-         "Das Bild",
-         "subject"
+         "Das",
+         "article"
         ],
         [
-         "zeigt",
+         "Bild",
+         "noun"
+        ],
+        [
+         "stellt",
          "verb"
         ],
         [
-         "eine Landschaft",
-         "object"
+         "eine",
+         "article"
         ],
         [
-         "bei Kiel.",
-         "place"
+         "Landschaft",
+         "noun"
+        ],
+        [
+         "bei",
+         "preposition"
+        ],
+        [
+         "Kiel",
+         "noun"
+        ],
+        [
+         "dar.",
+         "verb2"
         ]
        ]
       }
@@ -12115,7 +12147,7 @@
       }
      ],
      "deeper": {
-      "text": "A description sounds natural when the sentence starts change. Mira uses Im Vordergrund, In der Mitte and Im Hintergrund, so Leon always knows where he is. In the exam, a picture description is often a speaking task: one minute, no notes. If you know the five steps by heart, you never have to think about what comes next. You only fill in the words.",
+      "text": "A description sounds natural when the sentence starts change. Mira uses Im Vordergrund, In der Mitte and Im Hintergrund, so Leon always knows where he is. In a speaking test you may have to describe a photo for a minute, without notes. If you know the five steps by heart, you never have to think about what comes next. You only fill in the words.",
       "example": {
        "de": "Rechts sieht man Leon, den Anna nur klein gemalt hat.",
        "en": "On the right you can see Leon, whom Anna painted only small.",
@@ -12814,24 +12846,28 @@
     },
     {
      "title": "Albrecht Dürer: the hare",
-     "body": "Albrecht Dürer kommt aus Nürnberg. Der „Feldhase“ ist ein Bild, das Albrecht Dürer 1502 gemalt hat. der Feldhase is a field hare, der Hase means hare. The original is in Wien, in the Albertina, a famous museum. The hare looks so real that you want to touch it.",
+     "body": "Albrecht Dürer hat in Nürnberg gelebt. Der „Feldhase“ ist ein Bild, das Albrecht Dürer 1502 gemalt hat. der Feldhase is a field hare, der Hase means hare. The original is in Wien, in the Albertina, a famous museum. The hare looks so real that you want to touch it.",
      "lead": "The intro opened the museum tour. The first room is the oldest: a picture of an animal that Dürer painted more than five hundred years ago.",
      "examples": [
       {
-       "de": "Albrecht Dürer kommt aus Nürnberg.",
-       "en": "Albrecht Dürer comes from Nuremberg.",
+       "de": "Albrecht Dürer hat in Nürnberg gelebt.",
+       "en": "Albrecht Dürer lived in Nuremberg.",
        "parts": [
         [
          "Albrecht Dürer",
          "subject"
         ],
         [
-         "kommt",
+         "hat",
          "verb"
         ],
         [
-         "aus Nürnberg.",
+         "in Nürnberg",
          "place"
+        ],
+        [
+         "gelebt.",
+         "verb2"
         ]
        ]
       },
@@ -13588,7 +13624,7 @@
       }
      ],
      "deeper": {
-      "text": "Lieblings- can stand in front of many nouns: das Lieblingslied, die Lieblingsband, das Lieblingsessen. The last word gives the article, so Lieblingsband is feminine. Atelier comes from French: the end sounds like yeh, with a soft t (ah-te-LYEH). The plural of Original just adds -e: die Originale, but die Kopie adds -n: die Kopien.",
+      "text": "Lieblings- can stand in front of many nouns: das Lieblingslied, die Lieblingsband, das Lieblingsessen. The last word gives the article, so Lieblingsband is feminine. Atelier comes from French: say a-te-LJEH, with the stress on the end and no r sound. The plural of Original just adds -e: die Originale, but die Kopie adds -n: die Kopien.",
       "example": {
        "de": "Mein Lieblingslied läuft gerade im Radio.",
        "en": "My favourite song is playing on the radio right now.",

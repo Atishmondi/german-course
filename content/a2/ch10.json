@@ -213,26 +213,30 @@
       }
      ],
      "deeper": {
-      "text": "Both verbs are regular in the present: er steht, er stellt. Stehen belongs to the thing: the cupboard stands there for days. Stellen belongs to a person: Ben does something. If you can ask „Who did it?“ and a person answers, take stellen. If nobody does anything, take stehen.",
+      "text": "Both verbs are regular in the present: er steht, er stellt. Stehen also has two everyday meanings without a place: Was steht in der Zeitung? asks what is written in the paper, and Das Hemd steht dir means the shirt suits you. Stellen has a fixed chunk too: eine Frage stellen, to ask a question. The object test still works: eine Frage is the object.",
       "example": {
-       "de": "Der Hocker steht vor der Tür.",
-       "en": "The stool stands in front of the door.",
+       "de": "Darf ich eine Frage stellen?",
+       "en": "May I ask a question?",
        "parts": [
         [
-         "Der Hocker",
-         "subject"
-        ],
-        [
-         "steht",
+         "Darf",
          "verb"
         ],
         [
-         "vor",
-         "preposition"
+         "ich",
+         "subject"
         ],
         [
-         "der Tür.",
-         "dative"
+         "eine",
+         "article"
+        ],
+        [
+         "Frage",
+         "noun"
+        ],
+        [
+         "stellen?",
+         "verb2"
         ]
        ]
       }
@@ -1835,30 +1839,26 @@
       }
      ],
      "deeper": {
-      "text": "Both verbs are regular in the present: er liegt, er legt. Only the Perfekt of liegen is special: hat gelegen. Watch out for the spelling: liegt (with ie) is the state, legt (with e) is the action. The vowel change from ie to e shows you the verb with the object.",
+      "text": "Liegen also tells you where a place is on the map: Salzburg liegt in Österreich. Das Dorf liegt am See. Here it means is situated, and the place stays dative. Its Perfekt is hat gelegen; in the south, in Austria and in Switzerland you also hear ist gelegen, like ist gestanden. For a person who lies down, legen becomes reflexive: Ich lege mich hin.",
       "example": {
-       "de": "Ich lege das Handtuch auf das Bett.",
-       "en": "I put the towel on the bed.",
+       "de": "Salzburg liegt in Österreich.",
+       "en": "Salzburg is in Austria.",
        "parts": [
         [
-         "Ich",
+         "Salzburg",
          "subject"
         ],
         [
-         "lege",
+         "liegt",
          "verb"
         ],
         [
-         "das Handtuch",
-         "object"
-        ],
-        [
-         "auf",
+         "in",
          "preposition"
         ],
         [
-         "das Bett.",
-         "object"
+         "Österreich.",
+         "noun"
         ]
        ]
       }
@@ -1978,30 +1978,34 @@
       }
      ],
      "deeper": {
-      "text": "English has the same trouble: „the picture hangs“ and „Mira hangs the picture“ use the same word. In German the object makes the difference in the case. If you can turn the sentence into „Somebody hangs it up“, there is an object and you take the accusative.",
+      "text": "In the present the two jobs look the same, but in the simple past they split. The state is irregular: Das Bild hing an der Wand. The action is regular: Mira hängte das Bild an die Wand. You will meet hing in stories and books. One more everyday use: an etwas hängen means to be attached to something: Ich hänge an meinem alten Sofa.",
       "example": {
-       "de": "Leon hängt den Vorhang ans Fenster.",
-       "en": "Leon hangs the curtain at the window.",
+       "de": "Ich hänge an meinem alten Sofa.",
+       "en": "I am attached to my old sofa.",
        "parts": [
         [
-         "Leon",
+         "Ich",
          "subject"
         ],
         [
-         "hängt",
+         "hänge",
          "verb"
         ],
         [
-         "den Vorhang",
-         "object"
-        ],
-        [
-         "ans",
+         "an",
          "preposition"
         ],
         [
-         "Fenster.",
-         "object"
+         "meinem",
+         "article"
+        ],
+        [
+         "alten",
+         "adjective"
+        ],
+        [
+         "Sofa.",
+         "noun"
         ]
        ]
       }
@@ -2130,7 +2134,7 @@
       }
      ],
      "deeper": {
-      "text": "There is a simple rule behind the forms: the verbs without an object keep their old irregular pattern (stehen, gestanden), the verbs with an object are regular (stellen, gestellt). Gelegen and gelegt look alike: gelegen has -en and belongs to liegen, gelegt has -t and belongs to legen.",
+      "text": "The pairs are old relatives: the busy verb was built from the quiet one, so stellen means make something stand and legen means make something lie. English has a few such pairs too: to lie and to lay, to sit and to set, to fall and to fell a tree. That is why the quiet verbs keep their old irregular forms (gestanden, gelegen, gehangen) and the busy ones are regular.",
       "example": {
        "de": "Leon hat den Teppich auf den Boden gelegt.",
        "en": "Leon laid the carpet on the floor.",
@@ -3464,30 +3468,26 @@
       }
      ],
      "deeper": {
-      "text": "English often uses one phrase for both ideas, German keeps them apart. Sitzen is like a photo: she is sitting. Sich setzen is like a short film: she goes from standing to sitting. In the short film something moves, and the person herself is the thing that moves.",
+      "text": "Sitzen hides in a few fixed chunks. Die Hose sitzt gut means the trousers fit well. At school sitzen bleiben means to repeat a school year: Er ist in der achten Klasse sitzen geblieben. Sich setzen has a formal partner for guests: Platz nehmen, as in Nehmen Sie Platz! The state and action idea stays the same: sitzen is where you are, sich setzen is how you get there.",
       "example": {
-       "de": "Mira setzt sich an den Tisch.",
-       "en": "Mira sits down at the table.",
+       "de": "Die Hose sitzt gut.",
+       "en": "The trousers fit well.",
        "parts": [
         [
-         "Mira",
-         "subject"
+         "Die",
+         "article"
         ],
         [
-         "setzt",
+         "Hose",
+         "noun"
+        ],
+        [
+         "sitzt",
          "verb"
         ],
         [
-         "sich",
-         "reflexive"
-        ],
-        [
-         "an",
-         "preposition"
-        ],
-        [
-         "den Tisch.",
-         "object"
+         "gut.",
+         "adjective"
         ]
        ]
       }
@@ -3896,13 +3896,13 @@
       }
      ],
      "deeper": {
-      "text": "In the Perfekt the verb changes its helper: sein, because the person or the animal gets to a new place. Die Katze ist auf den Tisch gesprungen. A moment later the picture changes to a state: Jetzt sitzt sie auf dem Tisch. The movement has the accusative, the new place has the dative.",
+      "text": "Rennen is a mixed verb: the vowel changes as in an irregular verb, but the participle ends in -t like a regular one: ist gerannt. You know other mixed verbs: bringen, gebracht; denken, gedacht; kennen, gekannt. Springen is fully irregular: ist gesprungen, like trinken, getrunken. Klettern is regular, and its ich-form keeps the e of -ern: ich klettere, ist geklettert.",
       "example": {
-       "de": "Die Katze ist auf den Tisch gesprungen.",
-       "en": "The cat has jumped onto the table.",
+       "de": "Ben ist zum Bus gerannt.",
+       "en": "Ben ran to the bus.",
        "parts": [
         [
-         "Die Katze",
+         "Ben",
          "subject"
         ],
         [
@@ -3910,15 +3910,15 @@
          "verb"
         ],
         [
-         "auf",
+         "zum",
          "preposition"
         ],
         [
-         "den Tisch",
-         "object"
+         "Bus",
+         "noun"
         ],
         [
-         "gesprungen.",
+         "gerannt.",
          "verb2"
         ]
        ]
@@ -4181,16 +4181,36 @@
      "deeper": {
       "text": "Woher? is the same question as „from where?“. The answer begins with aus (out of a room or a house) or with von (from a person or a point), always with the dative. For the cat the stairwell is a place she was in, so you say aus dem Treppenhaus. Short answers need no verb: Aus dem Treppenhaus.",
       "example": {
-       "de": "Auf dem Sofa.",
-       "en": "On the sofa.",
+       "de": "Woher kommt die Katze? Aus dem Treppenhaus.",
+       "en": "Where is the cat coming from? From the stairwell.",
        "parts": [
         [
-         "Auf",
+         "Woher",
+         "question"
+        ],
+        [
+         "kommt",
+         "verb"
+        ],
+        [
+         "die",
+         "article"
+        ],
+        [
+         "Katze?",
+         "noun"
+        ],
+        [
+         "Aus",
          "preposition"
         ],
         [
-         "dem Sofa.",
-         "dative"
+         "dem",
+         "article"
+        ],
+        [
+         "Treppenhaus.",
+         "noun"
         ]
        ]
       }
@@ -5525,30 +5545,22 @@
       }
      ],
      "deeper": {
-      "text": "With ihr, for two or more friends, the imperative ends in -t: Packt die Kisten ein! Helft mit! With mithelfen the vowel changes only for du: Hilf mit! The prefix still goes to the end. Verschieben is not separable: ver- always stays on the verb, so you say Verschieb den Schrank!",
+      "text": "In written instructions, like the leaflet for a flat-pack shelf, German often uses the bare infinitive instead of the imperative: Alle Teile auspacken. Die Schrauben eindrehen. Das Regal an die Wand stellen. It sounds neutral and speaks to nobody in particular. A separable verb stays in one piece at the end. You see the same style in recipes and on signs: Bitte nicht rauchen.",
       "example": {
-       "de": "Leon, Ben, helft bitte mit!",
-       "en": "Leon, Ben, please help out!",
+       "de": "Alle Teile auspacken.",
+       "en": "Unpack all the parts.",
        "parts": [
         [
-         "Leon,",
-         "other"
+         "Alle",
+         "article"
         ],
         [
-         "Ben,",
-         "other"
+         "Teile",
+         "noun"
         ],
         [
-         "helft",
-         "verb"
-        ],
-        [
-         "bitte",
-         "other"
-        ],
-        [
-         "mit!",
-         "verb2"
+         "auspacken.",
+         "verbend"
         ]
        ]
       }
@@ -5657,7 +5669,7 @@
       }
      ],
      "deeper": {
-      "text": "Add -in to name a woman: der Helfer, die Helferin; der Nachbar, die Nachbarin. The plural of -in words is -innen: die Helferinnen. Words for men in -er keep the same plural: die Helfer. Die Hilfe is uncountable and has no plural: you say viel Hilfe or keine Hilfe, never Hilfen.",
+      "text": "Add -in to name a woman: der Helfer, die Helferin; der Nachbar, die Nachbarin. The plural of -in words is -innen: die Helferinnen. Words for men in -er keep the same plural: die Helfer. Die Hilfe is normally used without a plural: you say viel Hilfe or keine Hilfe.",
       "example": {
        "de": "Eine Helferin trägt die Kisten.",
        "en": "A helper carries the boxes.",
@@ -7476,7 +7488,7 @@
       "text": "Ruhezeiten: many German houses have a Hausordnung, the house rules, with quiet times. Die Mittagsruhe is often from 13 to 15 Uhr, and at night it should be quiet from 22 Uhr. If the Lautstärke is a problem, people first knock and talk. Only later do they write a note or speak to the owner.",
       "example": {
        "de": "Nach 22 Uhr ist Nachtruhe. Das steht in der Hausordnung.",
-       "en": "After 10 p.m. it is night-time quiet. That is in the house rules.",
+       "en": "After 10 p.m. there are quiet hours. That is in the house rules.",
        "parts": [
         [
          "Nach",
@@ -7615,7 +7627,7 @@
       }
      ],
      "deeper": {
-      "text": "Der Müll is uncountable: you say der Müll, never Mülls. Many words for rubbish are compounds with Müll: der Mülleimer is the bin, and die Mülltrennung is sorting rubbish into several bins. Germans take that seriously, so the Müll topic often appears in house rules. Der Krach has no plural either.",
+      "text": "Der Müll has no plural: one bag or ten bags, it is always der Müll. Many words for rubbish are compounds with Müll: der Mülleimer is the bin, and die Mülltrennung is sorting rubbish into several bins. Germans take that seriously, so the Müll topic often appears in house rules. Der Krach (noise) has no plural either, and Krach haben means to have a row: Leon hat Krach mit Ben.",
       "example": {
        "de": "Der Müll muss in den Mülleimer.",
        "en": "The rubbish has to go in the bin.",
@@ -10727,38 +10739,46 @@
       }
      ],
      "deeper": {
-      "text": "With war or hatte the als-clause is short: Als wir eingezogen sind, war die Wohnung leer. The main clause can use war, hatte or the Perfekt. Both clauses together form a verb, comma, verb pattern in the middle: sind, hat. That middle is a good check: if you see two verbs next to the comma, the order is right.",
+      "text": "Als also works for a longer period that happened once and is over: Als ich ein Kind war, hatte ich einen Hund. The period is closed, so it is als, not wenn. In books and newspapers you often find the Präteritum in both halves: Als wir einzogen, regnete es. In speech the Perfekt is normal, but with sein and haben people prefer war and hatte.",
       "example": {
-       "de": "Als wir eingezogen sind, war die Wohnung leer.",
-       "en": "When we moved in, the flat was empty.",
+       "de": "Als ich ein Kind war, hatte ich einen Hund.",
+       "en": "When I was a child, I had a dog.",
        "parts": [
         [
          "Als",
          "conjunction"
         ],
         [
-         "wir",
+         "ich",
          "subject"
         ],
         [
-         "eingezogen",
-         "verb2"
+         "ein",
+         "article"
         ],
         [
-         "sind,",
+         "Kind",
+         "noun"
+        ],
+        [
+         "war,",
          "verbend"
         ],
         [
-         "war",
+         "hatte",
          "verb"
         ],
         [
-         "die Wohnung",
+         "ich",
          "subject"
         ],
         [
-         "leer.",
-         "adjective"
+         "einen",
+         "article"
+        ],
+        [
+         "Hund.",
+         "noun"
         ]
        ]
       }
@@ -10773,7 +10793,7 @@
     },
     {
      "title": "Position verbs in the story: hat gestanden, hat gelegen",
-     "body": "In a story you often say where things were. Use the Perfekt of the position verbs: hat gestanden, hat gelegen, hat gehangen, hat gesessen. They describe, they have no object, so the place is dative (Wo?). Never use stand, lag or hing here.",
+     "body": "In a story you often say where things were. Use the Perfekt of the position verbs: hat gestanden, hat gelegen, hat gehangen, hat gesessen. They describe, they have no object, so the place is dative (Wo?). For now use the Perfekt, not stand, lag or hing.",
      "lead": "The als-clause sets the moment. Now the main clause describes the room at that moment, with the position verbs you learned in lessons 1 to 3, in the Perfekt.",
      "examples": [
       {
@@ -10920,50 +10940,38 @@
       }
      ],
      "deeper": {
-      "text": "Look at ins Zimmer gekommen: kommen is movement, so ins (in das) is accusative, Wohin?. The thing that just lies or stands is dative, Wo?. One sentence can have both. Two-way rule: Wo? → dative: Der Schrank steht in der Ecke. Wohin? → accusative: Ben stellt den Schrank in die Ecke.",
+      "text": "In stories people often use the short past forms of these verbs, just like war and hatte: Da stand nur ein Bett im Zimmer. Der Teppich lag im Flur. Learn stand, lag, hing and saß so that you recognise them; in your own speaking the Perfekt is always correct. One sentence can also mix a movement with a state: Ben ist ins Zimmer gekommen, und der Teppich hat im Flur gelegen.",
       "example": {
-       "de": "Als Ben den Schrank in die Ecke gestellt hat, hat der Teppich im Flur gelegen.",
-       "en": "When Ben put the wardrobe in the corner, the carpet was lying in the hall.",
+       "de": "Da stand nur ein Bett im Zimmer.",
+       "en": "There was only a bed in the room.",
        "parts": [
         [
-         "Als",
-         "conjunction"
+         "Da",
+         "place"
         ],
         [
-         "Ben",
-         "subject"
-        ],
-        [
-         "den Schrank",
-         "object"
-        ],
-        [
-         "in die Ecke",
-         "object"
-        ],
-        [
-         "gestellt",
-         "verb2"
-        ],
-        [
-         "hat,",
-         "verbend"
-        ],
-        [
-         "hat",
+         "stand",
          "verb"
         ],
         [
-         "der Teppich",
-         "subject"
+         "nur",
+         "other"
         ],
         [
-         "im Flur",
-         "dative"
+         "ein",
+         "article"
         ],
         [
-         "gelegen.",
-         "verb2"
+         "Bett",
+         "noun"
+        ],
+        [
+         "im",
+         "preposition"
+        ],
+        [
+         "Zimmer.",
+         "noun"
         ]
        ]
       }
@@ -11116,38 +11124,42 @@
       }
      ],
      "deeper": {
-      "text": "English uses when for both once and every time, so English speakers often choose wenn by mistake. A trick: if you can add 'every time' in English, use wenn. If not, and it is the past, use als. Wenn also works for the future: Wenn ich Zeit habe, helfe ich. Dass never means when.",
+      "text": "Wenn has a second meaning: if. Wenn es regnet, bleiben wir zu Hause can mean every time it rains or if it rains; the context decides. For something that happened many times in the past you also need wenn, often with immer: Immer wenn wir umgezogen sind, hat es geregnet. Dass is different: it never means when, it only opens a statement.",
       "example": {
-       "de": "Wenn ich Zeit habe, helfe ich dir.",
-       "en": "When I have time, I'll help you.",
+       "de": "Immer wenn wir umgezogen sind, hat es geregnet.",
+       "en": "Every time we moved, it rained.",
        "parts": [
         [
-         "Wenn",
+         "Immer",
+         "time"
+        ],
+        [
+         "wenn",
          "conjunction"
         ],
         [
-         "ich",
+         "wir",
          "subject"
         ],
         [
-         "Zeit",
-         "noun"
+         "umgezogen",
+         "verb2"
         ],
         [
-         "habe,",
+         "sind,",
          "verbend"
         ],
         [
-         "helfe",
+         "hat",
          "verb"
         ],
         [
-         "ich",
+         "es",
          "subject"
         ],
         [
-         "dir.",
-         "dative"
+         "geregnet.",
+         "verb2"
         ]
        ]
       }
@@ -12561,7 +12573,7 @@
       }
      ],
      "deeper": {
-      "text": "German does not need a future form for a plan: the present plus a time word is normal. Am Samstag bringt Herr Ali den Kuchen. Um acht baut Leon die Lautsprecher auf. The time word at position 1 pushes the subject behind the verb. Two-way rule: Wo? → dative: Der Schrank steht in der Ecke. Wohin? → accusative: Ben stellt den Schrank in die Ecke.",
+      "text": "German also has a future with werden, which you will meet later, but for a plan with a time word the present is what people really say. Order the plan with time words in position 1: Am Freitag kauft Anna die Getränke. Um acht baut Leon die Lautsprecher auf. The time word pushes the subject behind the verb, and the prefix of a separable verb like aufbauen still goes to the end.",
       "example": {
        "de": "Um acht baut Leon die Lautsprecher auf.",
        "en": "At eight Leon sets up the speakers.",
@@ -14104,7 +14116,7 @@
       }
      ],
      "deeper": {
-      "text": "Weggeräumt and kaputtgegangen are separable verbs: the ge sits between the prefix and the verb (weg-ge-räumt, kaputt-ge-gangen). Kaputtgehen takes sein because the glass changes its state and nobody does it on purpose. If someone breaks it, German often says: Ben hat ein Glas kaputt gemacht.",
+      "text": "Weggeräumt and kaputtgegangen are separable verbs: the ge sits between the prefix and the verb (weg-ge-räumt, kaputt-ge-gangen). Kaputtgehen takes sein because the glass changes its state and nobody does it on purpose. If someone breaks it, German often says: Ben hat ein Glas kaputtgemacht.",
       "example": {
        "de": "Ben hat sich bei Frau Weber entschuldigt.",
        "en": "Ben apologised to Frau Weber.",
@@ -14596,37 +14608,25 @@
       }
      ],
      "deeper": {
-      "text": "Weil and deshalb say the same thing from two sides. Weil: reason in the side sentence. Deshalb: reason first, then the result as a new main sentence. Trotzdem means: the reason is there, but the result is the opposite. Note: liegen takes haben in the Perfekt here (hat gelegen), as you learned in lesson 2.",
+      "text": "Deshalb and trotzdem do not have to stand first. They can also come after the verb: Frau Weber hat deshalb geklingelt. Wir haben trotzdem getanzt. Then the sentence starts normally with the subject. Both orders are correct; position 1 gives the word more weight. In speech trotzdem can even stand alone as a stubborn answer: Es ist schon spät! – Trotzdem!",
       "example": {
-       "de": "Die Musik war laut. Deshalb hat Frau Weber geklingelt.",
-       "en": "The music was loud. That's why Frau Weber rang the bell.",
+       "de": "Wir haben trotzdem getanzt.",
+       "en": "We danced anyway.",
        "parts": [
         [
-         "Die Musik",
+         "Wir",
          "subject"
         ],
         [
-         "war",
+         "haben",
          "verb"
         ],
         [
-         "laut.",
-         "adjective"
-        ],
-        [
-         "Deshalb",
+         "trotzdem",
          "conjunction"
         ],
         [
-         "hat",
-         "verb"
-        ],
-        [
-         "Frau Weber",
-         "subject"
-        ],
-        [
-         "geklingelt.",
+         "getanzt.",
          "verb2"
         ]
        ]
@@ -17167,26 +17167,30 @@
       }
      ],
      "deeper": {
-      "text": "Füttern and streicheln take an accusative object, like most verbs: Frau Weber füttert die Katze. Leon streichelt den Hund. And the Wo?/Wohin? rule works for animals too: the bird sits in the cage (Wo?, im Käfig), but Anna puts the cage on the balcony (Wohin?, auf den Balkon). Wo? → dative: Der Schrank steht in der Ecke. Wohin? → accusative: Ben stellt den Schrank in die Ecke.",
+      "text": "Füttern and streicheln are regular: hat gefüttert, hat gestreichelt. Animals also have their own verb for eating: people essen, animals fressen (er frisst, hat gefressen). If you say that a person frisst, it is rude: it means they eat like an animal. Animal sounds are verbs too: der Hund bellt, die Katze miaut, der Vogel singt.",
       "example": {
-       "de": "Frau Weber füttert die Katze am Morgen.",
-       "en": "Frau Weber feeds the cat in the morning.",
+       "de": "Die Katze frisst ihr Futter.",
+       "en": "The cat eats its food.",
        "parts": [
         [
-         "Frau Weber",
-         "subject"
+         "Die",
+         "article"
         ],
         [
-         "füttert",
+         "Katze",
+         "noun"
+        ],
+        [
+         "frisst",
          "verb"
         ],
         [
-         "die Katze",
-         "object"
+         "ihr",
+         "article"
         ],
         [
-         "am Morgen.",
-         "time"
+         "Futter.",
+         "noun"
         ]
        ]
       }
@@ -17470,13 +17474,13 @@
       }
      ],
      "deeper": {
-      "text": "Dass and ob look alike but do different jobs. Dass carries a fact: you know it is true and you pass it on. Ob carries an open yes/no question: you do not know the answer. Weißt du, dass Frau Weber eine Katze hat? = I know it, do you? Weißt du, ob Frau Weber eine Katze hat? = I don't know, do you? In both, the verb goes to the end.",
+      "text": "To share a fun fact, Germans very often use the past of wissen: Wusstest du, dass Frau Weber eine Katze hat? Wusstest du means did you know. Like war and hatte, this past form is common in speech. To pass on news you are not sure about, add angeblich, supposedly: Angeblich ist der Vermieter einverstanden. Then nobody thinks you promised it.",
       "example": {
-       "de": "Weißt du, ob Frau Weber eine Katze hat?",
-       "en": "Do you know whether Frau Weber has a cat?",
+       "de": "Wusstest du, dass Frau Weber eine Katze hat?",
+       "en": "Did you know that Frau Weber has a cat?",
        "parts": [
         [
-         "Weißt",
+         "Wusstest",
          "verb"
         ],
         [
@@ -17484,16 +17488,24 @@
          "subject"
         ],
         [
-         "ob",
+         "dass",
          "conjunction"
         ],
         [
-         "Frau Weber",
-         "subject"
+         "Frau",
+         "noun"
         ],
         [
-         "eine Katze",
-         "object"
+         "Weber",
+         "noun"
+        ],
+        [
+         "eine",
+         "article"
+        ],
+        [
+         "Katze",
+         "noun"
         ],
         [
          "hat?",
@@ -18800,30 +18812,34 @@
       }
      ],
      "deeper": {
-      "text": "Sich vorstellen is reflexive and separable at the same time: stelle … vor, with mich in the middle. In a Vorstellungsrunde (round of introductions) everybody takes a turn: Wir stellen uns vor. Careful: Ich stelle mich vor (accusative mich) is the one you need here. A WG is a small Gemeinschaft (community), so your Eigenschaften matter.",
+      "text": "Sich vorstellen is reflexive and separable at once: Ich stelle mich vor, with mich in the middle. Careful with one small word: with the dative mir it means to imagine: Ich stelle mir das Zimmer hell vor. So mich vorstellen is to introduce yourself, mir vorstellen is to picture something in your head. In a Vorstellungsrunde everybody takes a turn: Wir stellen uns vor.",
       "example": {
-       "de": "In der Vorstellungsrunde stellen wir uns vor.",
-       "en": "In the round of introductions we introduce ourselves.",
+       "de": "Ich stelle mir das Zimmer hell vor.",
+       "en": "I imagine the room as bright.",
        "parts": [
         [
-         "In",
-         "preposition"
-        ],
-        [
-         "der Vorstellungsrunde",
-         "dative"
-        ],
-        [
-         "stellen",
-         "verb"
-        ],
-        [
-         "wir",
+         "Ich",
          "subject"
         ],
         [
-         "uns",
+         "stelle",
+         "verb"
+        ],
+        [
+         "mir",
          "reflexive"
+        ],
+        [
+         "das",
+         "article"
+        ],
+        [
+         "Zimmer",
+         "noun"
+        ],
+        [
+         "hell",
+         "adjective"
         ],
         [
          "vor.",
@@ -18959,7 +18975,7 @@
       }
      ],
      "deeper": {
-      "text": "In the story you need the Perfekt of the pairs: Der Schrank hat an der Wand gestanden (Wo?), Ben hat das Bett ans Fenster gestellt (Wohin?). In the als-clause the helper verb goes last: Als ich das Zimmer gesehen habe, … Then the main clause starts with its verb: habe ich mich sofort gefreut. Wo? → dative: Der Schrank steht in der Ecke. Wohin? → accusative: Ben stellt den Schrank in die Ecke.",
+      "text": "In the story you need the Perfekt of the pairs: Der Schrank hat an der Wand gestanden (Wo?), Ben hat das Bett ans Fenster gestellt (Wohin?). In the als-clause the helper verb goes last, and the main clause starts with its verb: Als ich das Zimmer gesehen habe, habe ich mich gefreut. Zeigen has two objects: Anna hat ihr das Zimmer gezeigt, the person in the dative, the thing in the accusative.",
       "example": {
        "de": "Als ich das Zimmer gesehen habe, habe ich mich sofort gefreut.",
        "en": "When I saw the room, I was happy straight away.",
@@ -19267,7 +19283,7 @@
       }
      ],
      "deeper": {
-      "text": "The Höhepunkt is the moment your reader remembers. An als-clause turns it into a scene: Als die Bewerberin ins Zimmer gekommen ist, … For Frau Weber's cat German says die Katze von Frau Weber. It jumped onto the bed: Sie ist aufs Bett gesprungen. Springen moves, so it takes Wohin? + accusative, and sein in the Perfekt.",
+      "text": "The Höhepunkt is the moment your reader remembers. An als-clause turns it into a scene: Als die Bewerberin ins Zimmer gekommen ist, … For Frau Weber's cat German says die Katze von Frau Weber or, with the genitive -s from chapter 1, Frau Webers Katze. It jumped onto the bed: Sie ist aufs Bett gesprungen. Springen moves, so it takes Wohin? + accusative, and sein in the Perfekt.",
       "example": {
        "de": "Die Katze von Frau Weber ist aufs Bett gesprungen.",
        "en": "Frau Weber's cat jumped onto the bed.",

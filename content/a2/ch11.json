@@ -228,23 +228,11 @@
       }
      ],
      "deeper": {
-      "text": "Real and not real often stand side by side: first the true sentence, then the dream. Ich wohne in Berlin. Ich würde gern am Meer wohnen. The first sentence is a fact; the second shows what you wish. German does not need a new tense for this, only the little verb würde. In English you say would or would like to; German says würde gern.",
+      "text": "Würde is not only for dreams. People use it to soften an opinion or a piece of advice: Ich würde sagen, das ist zu teuer means I would say. Ich würde das nicht machen gives careful advice: I would not do that. The idea is the same as with a dream: you talk about a world in your head, so it sounds less hard than Das ist zu teuer or Mach das nicht!",
       "example": {
-       "de": "Ich wohne in Berlin. Ich würde gern am Meer wohnen.",
-       "en": "I live in Berlin. I would like to live by the sea.",
+       "de": "Ich würde das nicht machen.",
+       "en": "I would not do that.",
        "parts": [
-        [
-         "Ich",
-         "subject"
-        ],
-        [
-         "wohne",
-         "verb"
-        ],
-        [
-         "in Berlin.",
-         "place"
-        ],
         [
          "Ich",
          "subject"
@@ -254,15 +242,15 @@
          "konj2"
         ],
         [
-         "gern",
-         "other"
+         "das",
+         "object"
         ],
         [
-         "am Meer",
-         "place"
+         "nicht",
+         "negation"
         ],
         [
-         "wohnen.",
+         "machen.",
          "verb2"
         ]
        ]
@@ -657,30 +645,26 @@
       }
      ],
      "deeper": {
-      "text": "Put the three together and you can compare dreams: Ich würde gern reisen, aber ich würde lieber zu Hause bleiben. Am liebsten würde ich einfach ausschlafen. lieber always compares with something else; am liebsten is number one of all. Because am liebsten is a whole part in position 1, the verb würde stays in position 2, so ich moves behind it.",
+      "text": "In speech you often hear gerne with an -e: Ich würde gerne reisen. Both forms are correct. Lieber has a second job: it gives friendly advice. Bleib lieber zu Hause! means you had better stay at home. And Lieber nicht! is a short answer that means better not. In all these uses lieber still compares two choices: this one is the better one.",
       "example": {
-       "de": "Ben würde lieber zu Hause bleiben.",
-       "en": "Ben would rather stay at home.",
+       "de": "Bleib lieber zu Hause!",
+       "en": "You had better stay at home!",
        "parts": [
         [
-         "Ben",
-         "subject"
-        ],
-        [
-         "würde",
-         "konj2"
+         "Bleib",
+         "verb"
         ],
         [
          "lieber",
          "other"
         ],
         [
-         "zu Hause",
-         "place"
+         "zu",
+         "preposition"
         ],
         [
-         "bleiben.",
-         "verb2"
+         "Hause!",
+         "noun"
         ]
        ]
       }
@@ -1811,46 +1795,38 @@
       }
      ],
      "deeper": {
-      "text": "Look at the vowels: hatte → hätte, war → wäre. The dream forms come from the past forms hatte and war that you know, plus an umlaut. That is a good memory trick: ich hatte (I had, it was true), ich hätte (I would have, it is not true). The umlaut is small, but it changes a fact into a dream.",
+      "text": "A few other verbs also have short dream forms that you meet in books and polite speech: wissen becomes wüsste, kommen becomes käme, gehen becomes ginge. Only wüsste is common in daily talk: Ich wüsste gern, wann der Zug fährt. For all of them würde + infinitive is safe and correct. Only haben and sein really need their short forms: hätte and wäre.",
       "example": {
-       "de": "Gestern hatte ich Zeit. Heute hätte ich gern Zeit.",
-       "en": "Yesterday I had time. Today I would like to have time.",
+       "de": "Ich wüsste gern, wann der Zug fährt.",
+       "en": "I would like to know when the train leaves.",
        "parts": [
         [
-         "Gestern",
-         "time"
-        ],
-        [
-         "hatte",
-         "verb"
-        ],
-        [
-         "ich",
+         "Ich",
          "subject"
         ],
         [
-         "Zeit.",
-         "object"
-        ],
-        [
-         "Heute",
-         "time"
-        ],
-        [
-         "hätte",
+         "wüsste",
          "konj2"
         ],
         [
-         "ich",
-         "subject"
-        ],
-        [
-         "gern",
+         "gern,",
          "other"
         ],
         [
-         "Zeit.",
-         "object"
+         "wann",
+         "question"
+        ],
+        [
+         "der",
+         "article"
+        ],
+        [
+         "Zug",
+         "noun"
+        ],
+        [
+         "fährt.",
+         "verbend"
         ]
        ]
       }
@@ -3379,32 +3355,36 @@
      "deeper": {
       "text": "The choice changes the meaning, not only the grammar. Wenn ich Zeit habe, komme ich: you really do not know yet, perhaps you will be free. Wenn ich Zeit hätte, würde ich kommen: you know you will not be free, so this is a polite way to say no. Listen to the vowel: habe or hätte. That one sound tells your friend the answer.",
       "example": {
-       "de": "Wenn das Wetter schön ist, grillen wir.",
-       "en": "If the weather is nice, we will have a barbecue.",
+       "de": "Wenn ich Zeit hätte, würde ich kommen.",
+       "en": "If I had time, I would come.",
        "parts": [
         [
          "Wenn",
          "conjunction"
         ],
         [
-         "das Wetter",
+         "ich",
          "subject"
         ],
         [
-         "schön",
-         "adjective"
+         "Zeit",
+         "object"
         ],
         [
-         "ist,",
-         "verbend"
+         "hätte,",
+         "konj2"
         ],
         [
-         "grillen",
-         "verb"
+         "würde",
+         "konj2"
         ],
         [
-         "wir.",
+         "ich",
          "subject"
+        ],
+        [
+         "kommen.",
+         "verb2"
         ]
        ]
       }
@@ -3520,26 +3500,26 @@
       }
      ],
      "deeper": {
-      "text": "könnte works like a modal at the end of a wenn-part: the infinitive comes first, then könnte. You know this from Ich weiß, dass ich das machen kann. Only kann has become könnte. So: Wenn ich segeln könnte, würde ich nach Kiel fahren. The order at the end is always: infinitive, then the modal.",
+      "text": "In written German and careful speech you can drop wenn and start with the dream verb: Hätte ich mehr Zeit, würde ich segeln. It means exactly the same as Wenn ich mehr Zeit hätte. Without wenn the verb jumps to the front, as in a yes/no question, but there is no question mark. You only need to recognise this form; with wenn you are always right.",
       "example": {
-       "de": "Wenn ich segeln könnte, würde ich nach Kiel fahren.",
-       "en": "If I could sail, I would go to Kiel.",
+       "de": "Hätte ich mehr Zeit, würde ich segeln.",
+       "en": "If I had more time, I would sail.",
        "parts": [
         [
-         "Wenn",
-         "conjunction"
+         "Hätte",
+         "konj2"
         ],
         [
          "ich",
          "subject"
         ],
         [
-         "segeln",
-         "verb2"
+         "mehr",
+         "adjective"
         ],
         [
-         "könnte,",
-         "konj2"
+         "Zeit,",
+         "object"
         ],
         [
          "würde",
@@ -3550,11 +3530,7 @@
          "subject"
         ],
         [
-         "nach Kiel",
-         "place"
-        ],
-        [
-         "fahren.",
+         "segeln.",
          "verb2"
         ]
        ]
@@ -4381,14 +4357,18 @@
       }
      ],
      "deeper": {
-      "text": "Mira: Was würdest du machen, wenn du einen freien Tag hättest? Anna: Ich würde ausschlafen und dann töpfern. Mira: Und wenn du mehr Geld hättest? Anna: Dann würde ich einen Tanzkurs machen. Mira: Das wäre schön! Anna: Ja, aber leider habe ich keine Zeit. The last line is real again: habe, not hätte.",
+      "text": "A popular party question is Was wäre, wenn …? (What if …?): Was wäre, wenn du im Lotto gewinnen würdest? Here the wenn-part has würde + infinitive, because gewinnen has no common short dream form. That is normal spoken German. In answers people often start with Dann: Dann würde ich sofort ein Ferienhaus kaufen. Dann takes position 1, so würde comes next.",
       "example": {
-       "de": "Und wenn du mehr Geld hättest?",
-       "en": "And if you had more money?",
+       "de": "Was wäre, wenn du im Lotto gewinnen würdest?",
+       "en": "What would happen if you won the lottery?",
        "parts": [
         [
-         "Und",
-         "conjunction"
+         "Was",
+         "question"
+        ],
+        [
+         "wäre,",
+         "konj2"
         ],
         [
          "wenn",
@@ -4399,15 +4379,19 @@
          "subject"
         ],
         [
-         "mehr",
-         "other"
+         "im",
+         "preposition"
         ],
         [
-         "Geld",
-         "object"
+         "Lotto",
+         "noun"
         ],
         [
-         "hättest?",
+         "gewinnen",
+         "verb2"
+        ],
+        [
+         "würdest?",
          "konj2"
         ]
        ]
@@ -5239,7 +5223,7 @@
       }
      ],
      "deeper": {
-      "text": "die Stelle means place or spot. With polite Sie it becomes An Ihrer Stelle würde ich … . You will hear it from people who say Sie, for example a waiter to a guest. Mira, Ben, Leon and Anna rarely give advice to Frau Weber or Herr Ali, so for you it is mostly for recognising.",
+      "text": "die Stelle means place or spot. With polite Sie it becomes An Ihrer Stelle würde ich … . You will hear it from people who say Sie, for example a waiter to a guest. The phrase can also sit in the middle: Ich würde an deiner Stelle eine Pause machen. That is just as common.",
       "example": {
        "de": "An Ihrer Stelle würde ich die Suppe nehmen.",
        "en": "If I were you, I would take the soup.",
@@ -6826,30 +6810,26 @@
       }
      ],
      "deeper": {
-      "text": "The order is always the same: verb, pronoun, then preposition and its noun. In a question the subject jumps before the pronoun: Interessierst du dich für Musik? The pronoun changes with the person (mich, dich, sich, uns, euch, sich), the preposition and its case never change.",
+      "text": "Many reflexive pairs have a twin without sich, where the thing is the subject. Ich ärgere mich über den Lärm (I am annoyed) becomes Der Lärm ärgert mich (the noise annoys me). Ich interessiere mich für Fotografie becomes Fotografie interessiert mich. Both say the same; the second puts the thing first. Then there is no preposition at all, only an accusative person.",
       "example": {
-       "de": "Interessierst du dich für Musik?",
-       "en": "Are you interested in music?",
+       "de": "Fotografie interessiert mich sehr.",
+       "en": "Photography interests me a lot.",
        "parts": [
         [
-         "Interessierst",
-         "verb"
-        ],
-        [
-         "du",
+         "Fotografie",
          "subject"
         ],
         [
-         "dich",
-         "reflexive"
+         "interessiert",
+         "verb"
         ],
         [
-         "für",
-         "preposition"
-        ],
-        [
-         "Musik?",
+         "mich",
          "object"
+        ],
+        [
+         "sehr.",
+         "other"
         ]
        ]
       }
@@ -6944,25 +6924,29 @@
       }
      ],
      "deeper": {
-      "text": "Watch er and sie. Ben is er, so you wait auf ihn. Anna is sie, so you wait auf sie, and for several people also auf sie. Of the er/sie/es forms only er changes in the accusative (ihn); sie and es stay the same. The others are the accusative pronouns you know: mich, dich, uns, euch.",
+      "text": "At the end of a message to a friend Germans often write Ich freue mich auf dich! It means I am looking forward to seeing you, but literally I look forward to you. When friends are late you can write Wir warten auf euch! With Sie it is Ich freue mich auf Sie. Only er changes its form after the preposition: auf ihn.",
       "example": {
-       "de": "Mira wartet auf sie.",
-       "en": "Mira is waiting for her.",
+       "de": "Ich freue mich auf dich!",
+       "en": "I am looking forward to seeing you!",
        "parts": [
         [
-         "Mira",
+         "Ich",
          "subject"
         ],
         [
-         "wartet",
+         "freue",
          "verb"
+        ],
+        [
+         "mich",
+         "reflexive"
         ],
         [
          "auf",
          "preposition"
         ],
         [
-         "sie.",
+         "dich!",
          "object"
         ]
        ]
@@ -8609,7 +8593,7 @@
       }
      ],
      "deeper": {
-      "text": "In the last sentence both boxes meet: mit Herrn Ali is dative (mit is always dative), über den Samstag is accusative (über in this pair, like sprechen über). Herr becomes Herrn after a preposition, so you write mit Herrn Ali. Hätten Sie … ? is a polite way to ask about free time.",
+      "text": "In the last example both boxes meet: mit Herrn Ali is dative (mit is always dative), über den Samstag is accusative (über in this pair, like sprechen über). Herr becomes Herrn after a preposition, so you write mit Herrn Ali. Hätten Sie … ? is a polite way to ask about free time.",
       "example": {
        "de": "Ich spreche mit Anna über den Plan.",
        "en": "I am talking with Anna about the plan.",
@@ -8641,7 +8625,7 @@
        ]
       }
      },
-     "more": "Anna uses Sie and Herr Ali uses du: that is the real balance in the WG. Hätten Sie Zeit? is the polite question, and Erzähl mir von eurem Plan! is the friendly answer. Look at the dative box in action: von der Arbeit, von eurem Plan, mit Herrn Ali. And the accusative box in the last line: über den Samstag. In one short call you meet two boxes and a polite question.",
+     "more": "Anna uses Sie and Herr Ali uses du: that is the real balance in the WG. Hätten Sie Zeit? is the polite question, and Erzähl mir von eurem Plan! is the friendly answer. Look at the dative box in action: von der Arbeit, von eurem Plan, mit Herrn Ali. And the accusative box in the last example: über den Samstag. In one short call you meet two boxes and a polite question.",
      "steps": [
       "Anna: Herr Ali, ich habe eine Frage: Hätten Sie am Samstag Zeit?",
       "Herr Ali: Das hängt von der Arbeit ab. Erzähl mir von eurem Plan!",
@@ -9439,22 +9423,42 @@
       }
      ],
      "deeper": {
-      "text": "The r is only there to make the word easy to say: nobody wants to say woauf with two vowels bumping into each other. That is why worauf, woran, worüber and worum all have an r. The same thing happens in the da-words next lesson. The nine wo-words are all you need for the pairs from lessons 5 and 6.",
+      "text": "Some wo-words live in very common chunks. Worum geht es? means What is it about? and you hear it in every meeting: Es geht um den Putzplan. Womit fährst du? asks which means of transport someone takes. Wofür ist das? asks what something is for. The r rule stays: worum with r, womit and wofür without.",
       "example": {
-       "de": "Wonach fragt Ben?",
-       "en": "What does Ben ask for?",
+       "de": "Worum geht es? Es geht um den Putzplan.",
+       "en": "What is it about? It is about the cleaning rota.",
        "parts": [
         [
-         "Wonach",
+         "Worum",
          "question"
         ],
         [
-         "fragt",
+         "geht",
          "verb"
         ],
         [
-         "Ben?",
+         "es?",
          "subject"
+        ],
+        [
+         "Es",
+         "subject"
+        ],
+        [
+         "geht",
+         "verb"
+        ],
+        [
+         "um",
+         "preposition"
+        ],
+        [
+         "den",
+         "article"
+        ],
+        [
+         "Putzplan.",
+         "noun"
         ]
        ]
       }
@@ -10861,10 +10865,10 @@
       }
      ],
      "deeper": {
-      "text": "The da-word stands for the thing that you named before. Question: Woran denkst du? Answer: An die Prüfung. Next sentence: Ich denke oft daran. So wo- in the question, da- in the answer. Both words contain the same little word (an, auf, für). That makes them easy to match, and you do not need to learn a second list of pairs.",
+      "text": "A da-word can also point forward to a whole idea that comes after a comma: Ich freue mich darauf, dass du kommst. Ich denke daran, dass morgen Montag ist. Here darauf and daran announce the dass-part, like a sign that says: the thing comes next. The verb in the dass-part goes to the end, as always.",
       "example": {
-       "de": "Ich freue mich darauf.",
-       "en": "I am looking forward to it.",
+       "de": "Ich freue mich darauf, dass du kommst.",
+       "en": "I am looking forward to you coming.",
        "parts": [
         [
          "Ich",
@@ -10879,8 +10883,20 @@
          "reflexive"
         ],
         [
-         "darauf.",
-         "preposition"
+         "darauf,",
+         "other"
+        ],
+        [
+         "dass",
+         "conjunction"
+        ],
+        [
+         "du",
+         "subject"
+        ],
+        [
+         "kommst.",
+         "verbend"
         ]
        ]
       }
@@ -10980,22 +10996,18 @@
       }
      ],
      "deeper": {
-      "text": "The da-words have a second life, which you have already met. Dafür and dagegen also mean 'in favour' and 'against' when you talk about opinions: Ich bin dafür. Here dafür is just the da-word of für, and 'it' is the idea you have been talking about. With verb pairs the da-word always replaces the preposition and the thing together.",
+      "text": "In everyday speech the da-words with r often lose their first syllable: darauf becomes drauf, daran becomes dran, darüber becomes drüber. Ich freue mich drauf! Denk dran! You will hear this all the time, and in chats people write it too. In letters, exams and careful speech use the full forms: darauf, daran, darüber.",
       "example": {
-       "de": "Ben fragt danach.",
-       "en": "Ben asks about it.",
+       "de": "Denk dran!",
+       "en": "Remember it!",
        "parts": [
         [
-         "Ben",
-         "subject"
-        ],
-        [
-         "fragt",
+         "Denk",
          "verb"
         ],
         [
-         "danach.",
-         "preposition"
+         "dran!",
+         "other"
         ]
        ]
       }
@@ -11137,20 +11149,24 @@
      "deeper": {
       "text": "Notice aufhören: it is a separable verb, so the prefix auf goes to the end: Ich höre damit auf. The mit is the fixed partner, and the da-word damit sits in the middle. In a sentence with überzeugt, the da-word comes before the adjective: Ich bin davon überzeugt. Ben is convinced of it, because he sleeps better without his phone.",
       "example": {
-       "de": "Mira hilft ihm.",
-       "en": "Mira helps him.",
+       "de": "Ich bin davon überzeugt.",
+       "en": "I am convinced of it.",
        "parts": [
         [
-         "Mira",
+         "Ich",
          "subject"
         ],
         [
-         "hilft",
+         "bin",
          "verb"
         ],
         [
-         "ihm.",
-         "dative"
+         "davon",
+         "other"
+        ],
+        [
+         "überzeugt.",
+         "adjective"
         ]
        ]
       }
@@ -11241,7 +11257,7 @@
       }
      ],
      "deeper": {
-      "text": "Putting the da-word first is like pointing a finger at it: Davon träume ich schon lange! Daran habe ich nicht gedacht. With the Perfekt the participle stays at the end. With a modal verb it works too: Darüber müssen wir sprechen. The sentence has the same meaning, but the first word gets the spotlight.",
+      "text": "In casual speech, especially in the north, the da-word is often split in two: Da freue ich mich drauf. Da habe ich nicht dran gedacht. The da takes position 1 for emphasis, and the rest of the word comes later. This is very common when people talk, but write the full word: Darauf freue ich mich. With a modal it works the same: Darüber müssen wir sprechen.",
       "example": {
        "de": "Davon träume ich schon lange.",
        "en": "I have dreamt of that for a long time.",
@@ -11372,26 +11388,26 @@
       }
      ],
      "deeper": {
-      "text": "Mistake of the day: Ich freue mich auf es is wrong, and Ich warte darauf is wrong if you mean a person. Use Ich freue mich darauf for the party and Ich freue mich auf sie for Mira. Never put a da-word for a person. If you cannot decide, ask yourself whether you could ask Auf wen? or Worauf? That question decides the answer.",
+      "text": "Animals sit in the middle. A pet with a name is treated like a person: Ich kümmere mich um Bello, ich kümmere mich um ihn. For animals in general you can use the da-word: Ich habe Angst vor Spinnen, ich habe Angst davor. For a group of people use the plural pronoun: Wir warten auf sie. And auf es is always wrong; say darauf.",
       "example": {
-       "de": "Ich warte auf ihn.",
-       "en": "I am waiting for him.",
+       "de": "Ich habe Angst davor.",
+       "en": "I am afraid of it.",
        "parts": [
         [
          "Ich",
          "subject"
         ],
         [
-         "warte",
+         "habe",
          "verb"
         ],
         [
-         "auf",
-         "preposition"
+         "Angst",
+         "object"
         ],
         [
-         "ihn.",
-         "object"
+         "davor.",
+         "other"
         ]
        ]
       }
@@ -12336,7 +12352,7 @@
       }
      ],
      "deeper": {
-      "text": "To several friends say Hättet ihr Zeit? To a person you say Sie to, say Hätten Sie Zeit? That is also the form the young four use with Frau Weber and Herr Ali. Hättest du Lust auf? always takes auf + accusative: Lust auf ein Picknick, Lust auf einen Ausflug. Do not add a second verb after Lust: use Wie wäre es mit …? or a second sentence.",
+      "text": "To several friends say Hättet ihr Zeit? To a person you say Sie to, say Hätten Sie Zeit? That is also the form the young four use with Frau Weber and Herr Ali. Hättest du Lust auf … always takes auf + accusative: Lust auf ein Picknick, Lust auf einen Ausflug. Lust with a second verb needs zu, which comes in B1; until then use Wie wäre es mit …? or a second sentence.",
       "example": {
        "de": "Hätten Sie am Samstag Zeit?",
        "en": "Would you have time on Saturday? (formal)",
@@ -12749,7 +12765,7 @@
       }
      ],
      "deeper": {
-      "text": "A Sprachnachricht is perfect when typing takes too long: you just speak. Use an Emoji for the mood, but not for grammar. LG and VG are only for friends and colleagues. HDL is slang for something very personal, so you only need to recognise it. A message to Herr Ali or Frau Weber should be a bit longer and not only LG.",
+      "text": "A Sprachnachricht is perfect when typing takes too long: you just speak. Use an Emoji for the mood, not instead of words. LG and VG are for friends and colleagues; HDL (hab dich lieb, love you) is only for family and very close friends. In a Gruppenchat a short Passt! or a thumbs-up is enough, but a direct question to one person deserves a real answer.",
       "example": {
        "de": "Viele Grüße Mira",
        "en": "Best wishes, Mira",
@@ -16179,7 +16195,7 @@
       }
      ],
      "deeper": {
-      "text": "vergehen is irregular: er/sie/es vergeht, but the Perfekt is ist vergangen, with sein, because time moves on and nothing happens to it. This is the same pattern as vergehen's cousin gehen. Das hat keinen Sinn is a fixed chunk with keinen, the negative form of einen. You can also ask: Was ist der Sinn davon? using a da-word.",
+      "text": "Vergehen comes from gehen and is irregular in the same way: die Zeit vergeht, die Zeit ist vergangen, with sein as for gehen. The participle vergangen also gives the noun die Vergangenheit, the past, which you meet in the next lesson. Das hat keinen Sinn is a fixed chunk with keinen, the negative of einen. You can also ask: Was ist der Sinn davon?",
       "example": {
        "de": "Die Woche ist schnell vergangen.",
        "en": "The week passed quickly.",
@@ -17224,7 +17240,7 @@
       }
      ],
      "deeper": {
-      "text": "The Konjunktiv II rule stays the same: is it true now? If yes, use the normal verb. If no, use hätte, wäre or würde + infinitive. Two würde in one sentence are fine in spoken German: Wenn wir in der Zukunft leben würden, würden wir … . Never say würde sein or würde haben: they have their own short forms, wäre and hätte.",
+      "text": "Two würde in one sentence are fine in spoken German: Wenn wir in der Zukunft leben würden, würden wir … . There is also a past version for things that never happened: Wenn ich 1900 gelebt hätte, hätte ich keinen Strom gehabt. It uses hätte or wäre with a participle. You will learn it in B1; for now just recognise it.",
       "example": {
        "de": "Wenn ich auf einer Burg wohnen würde, wäre ich sehr glücklich.",
        "en": "If I lived in a castle, I would be very happy.",
@@ -17554,7 +17570,7 @@
       }
      ],
      "deeper": {
-      "text": "Verb + preposition = one unit. Learn them together: warten auf + accusative, träumen von + dative. With würde the preposition part stays in the middle and the infinitive goes to the end: Ich würde auf den Zug warten. The wo-word and the da-word work the same way: Worauf würdest du dich freuen? Ich würde mich darauf freuen.",
+      "text": "With würde the preposition phrase stays in the middle and the infinitive goes to the end: Ich würde auf den Zug warten. The wo-word and the da-word work the same way in a dream: Worauf würdest du dich freuen? Ich würde mich darauf freuen. Older texts often use a more formal partner of Angst haben vor: sich fürchten vor + dative. Die Leute fürchteten sich vor der Nacht.",
       "example": {
        "de": "Worauf würdest du dich freuen?",
        "en": "What would you look forward to?",

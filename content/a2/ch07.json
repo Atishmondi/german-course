@@ -779,31 +779,31 @@
      "deeper": {
       "text": "The word welcher shows the gender of the noun, just like der, die and das. For the masculine accusative you will hear welchen: welchen Zug nimmt Mira? Welchen is like den. Today the noun is the subject, so you use the nominative forms. Pronouns are short: when the subject is er, sie, es, wir or ich, it stands right after the question word: wann er kommt, wo sie wohnt, wann wir fahren.",
       "example": {
-       "de": "Ich weiß nicht, wann er kommt.",
-       "en": "I do not know when he is coming.",
+       "de": "Weißt du, welchen Zug Mira nimmt?",
+       "en": "Do you know which train Mira is taking?",
        "parts": [
         [
-         "Ich",
-         "subject"
-        ],
-        [
-         "weiß",
+         "Weißt",
          "verb"
         ],
         [
-         "nicht,",
-         "negation"
-        ],
-        [
-         "wann",
-         "question"
-        ],
-        [
-         "er",
+         "du,",
          "subject"
         ],
         [
-         "kommt.",
+         "welchen",
+         "question"
+        ],
+        [
+         "Zug",
+         "noun"
+        ],
+        [
+         "Mira",
+         "subject"
+        ],
+        [
+         "nimmt?",
          "verbend"
         ]
        ]
@@ -936,29 +936,33 @@
       }
      ],
      "deeper": {
-      "text": "The mark at the end belongs to the whole sentence. If the first part is a question (Weißt du, …?), the whole sentence gets a question mark. If it is a statement (Ich weiß nicht, …), it gets a full stop, even though a question sits inside. One new word: wem is the dative of wer, it asks about the person who gets something.",
+      "text": "In German the comma before the side sentence is never optional, unlike in English. If the main sentence goes on after the side sentence, a second comma closes it: Ich weiß nicht, wann der Zug kommt, aber ich warte. One more question word opens a side sentence: wem, the dative of wer, asks about the person who gets or owns something.",
       "example": {
-       "de": "Wissen Sie, wann der Zug kommt?",
-       "en": "Do you know when the train is coming?",
+       "de": "Weißt du, wem das Gepäck gehört?",
+       "en": "Do you know who the luggage belongs to?",
        "parts": [
         [
-         "Wissen",
+         "Weißt",
          "verb"
         ],
         [
-         "Sie,",
+         "du,",
          "subject"
         ],
         [
-         "wann",
+         "wem",
          "question"
         ],
         [
-         "der Zug",
-         "subject"
+         "das",
+         "article"
         ],
         [
-         "kommt?",
+         "Gepäck",
+         "noun"
+        ],
+        [
+         "gehört?",
          "verbend"
         ]
        ]
@@ -2427,7 +2431,7 @@
        ]
       }
      },
-     "more": "Dass is a statement, ob is a question. If someone says to you the sentence part after the comma, would they get a ja or a nein as an answer? Then it is ob. If it is just a fact, it is dass. Mira sagt, dass der Bahnsteig frei ist is a fact Mira tells us. Ben fragt, ob der Bahnsteig frei ist is a question Ben asks. The same sentence, but it says two different things. Choose the word that matches what the person does: tells or asks.",
+     "more": "Dass is a statement, ob is a question. Read the part after the comma as a question: could someone answer it with ja or nein? Then it is ob. If it is just a fact, it is dass. Mira sagt, dass der Bahnsteig frei ist is a fact Mira tells us. Ben fragt, ob der Bahnsteig frei ist is a question Ben asks. The same sentence, but it says two different things. Choose the word that matches what the person does: tells or asks.",
      "table": {
       "headers": [
        "dass (a statement)",
@@ -2560,13 +2564,13 @@
       }
      ],
      "deeper": {
-      "text": "At the desk the polite starters are Wissen Sie, ob …? and Ich möchte wissen, ob …. Wissen Sie takes a question mark at the end of the whole sentence, Ich möchte wissen takes a full stop. The answer is usually short and in a normal sentence with the verb in second place. If the person does not know, they say Das weiß ich nicht or Ich glaube, ja, which means I think so.",
+      "text": "Natives often add zufällig, by any chance, to sound less demanding: Wissen Sie zufällig, ob der Zug hier hält? It tells the person that it is fine if they do not know. When people are not sure, they answer Ich glaube schon (I think so) or Ich glaube nicht (I do not think so). That is softer and safer than a hard ja or nein.",
       "example": {
-       "de": "Können Sie mir sagen, ob der Zug Verspätung hat?",
-       "en": "Can you tell me whether the train is late?",
+       "de": "Wissen Sie zufällig, ob der Zug hier hält?",
+       "en": "Do you happen to know whether the train stops here?",
        "parts": [
         [
-         "Können",
+         "Wissen",
          "verb"
         ],
         [
@@ -2574,27 +2578,27 @@
          "subject"
         ],
         [
-         "mir",
-         "dative"
-        ],
-        [
-         "sagen,",
-         "verb2"
+         "zufällig,",
+         "other"
         ],
         [
          "ob",
          "conjunction"
         ],
         [
-         "der Zug",
-         "subject"
+         "der",
+         "article"
         ],
         [
-         "Verspätung",
-         "object"
+         "Zug",
+         "noun"
         ],
         [
-         "hat?",
+         "hier",
+         "place"
+        ],
+        [
+         "hält?",
          "verbend"
         ]
        ]
@@ -2941,7 +2945,7 @@
       "text": "Look at how the two friends talk. Ben asks questions with Weißt du, ob …? and Mira answers either with the information or with Das weiß ich nicht. When she does not know, she says what she will do: Ich frage am Schalter, ob … The answer does not have to be long. It only has to be clear. Notice that the dass sentence in line 2 is a statement, and the ob sentences are questions.",
       "example": {
        "de": "Ich habe gesehen, dass er um 9.15 Uhr fährt.",
-       "en": "I have seen that it leaves at 9.15.",
+       "en": "I saw that it leaves at 9.15.",
        "parts": [
         [
          "Ich",
@@ -4662,7 +4666,7 @@
       }
      ],
      "deeper": {
-      "text": "In German you tell what happened in the Perfekt, not in the simple past: Mira hat gefragt, not Mira fragte. The question inside has its own side sentence with the verb at the end. The tense of the side sentence does not change: Mira asks Wann fährt der Zug? and you report Mira hat gefragt, wann der Zug fährt. Gesagt works with dass: Ben hat gesagt, dass der Bahnsteig frei ist.",
+      "text": "In spoken German you tell what happened in the Perfekt, not in the simple past: Mira hat gefragt, not Mira fragte. The question inside has its own side sentence with the verb at the end. The tense of the side sentence does not change: Mira asks Wann fährt der Zug? and you report Mira hat gefragt, wann der Zug fährt. Gesagt works with dass: Ben hat gesagt, dass der Bahnsteig frei ist.",
       "example": {
        "de": "Leon hat gefragt, wo der Fahrplan ist.",
        "en": "Leon asked where the timetable is.",
@@ -5779,8 +5783,8 @@
      "deeper": {
       "text": "The table works in pairs. The wohin preposition and the woher preposition are mirrors: zu and von, in and aus, nach and aus. If you know where somebody went, you also know where they come back from. Ben fährt nach Wien. Später kommt er aus Wien zurück. The wo column is the station in the middle.",
       "example": {
-       "de": "Ben fährt zu Anna. Dann kommt er von Anna.",
-       "en": "Ben goes to Anna's. Then he comes from Anna's.",
+       "de": "Ben fährt zu Anna. Später kommt er von Anna zurück.",
+       "en": "Ben goes to Anna's. Later he comes back from Anna's.",
        "parts": [
         [
          "Ben",
@@ -5799,7 +5803,7 @@
          "noun"
         ],
         [
-         "Dann",
+         "Später",
          "time"
         ],
         [
@@ -5815,8 +5819,12 @@
          "preposition"
         ],
         [
-         "Anna.",
+         "Anna",
          "noun"
+        ],
+        [
+         "zurück.",
+         "verb2"
         ]
        ]
       }
@@ -7535,7 +7543,7 @@
       }
      ],
      "deeper": {
-      "text": "In speech many people drop von after gegenüber and use the dative directly: gegenüber dem Hotel. Both are correct. Gegenüber vom Hotel is the easy one to learn, because it works like links vom and rechts vom. Never use der, das or den straight after it without von: gegenüber das Café is wrong. Say gegenüber vom Café.",
+      "text": "Gegenüber can also stand without von and take the dative directly: gegenüber dem Hotel, gegenüber der Post. This is the form you read in texts and hear in careful speech; gegenüber vom Hotel is more everyday. Both are correct. With a name or a pronoun gegenüber can even follow: mir gegenüber, opposite me. Never use the nominative or accusative: gegenüber das Café is wrong.",
       "example": {
        "de": "Wir wohnen gegenüber dem Park.",
        "en": "We live opposite the park.",
@@ -10658,30 +10666,30 @@
       }
      ],
      "deeper": {
-      "text": "Most of these nouns are compounds, and the last part gives the article: der Park + das Haus = das Parkhaus. The last part decides, always. So when you meet a new long word, look at its last part first. It tells you the article, and often the main meaning too.",
+      "text": "Many compounds glue their parts with an extra -s-: der Verkehr + das Schild = das Verkehrsschild, die Geschwindigkeit + die Kontrolle = die Geschwindigkeitskontrolle. After -ung, -heit, -keit and -ion the -s- is almost always there. Some words use -n- or -en- instead: die Straße + die Bahn = die Straßenbahn. The glue changes nothing in the meaning; it only makes the word easier to say.",
       "example": {
-       "de": "Das Parkhaus ist am Bahnhof.",
-       "en": "The multi-storey car park is at the station.",
+       "de": "Das Verkehrsschild zeigt Tempo 30.",
+       "en": "The traffic sign shows a 30 limit.",
        "parts": [
         [
          "Das",
          "article"
         ],
         [
-         "Parkhaus",
+         "Verkehrsschild",
          "noun"
         ],
         [
-         "ist",
+         "zeigt",
          "verb"
         ],
         [
-         "am",
-         "preposition"
+         "Tempo",
+         "noun"
         ],
         [
-         "Bahnhof.",
-         "noun"
+         "30.",
+         "other"
         ]
        ]
       }
@@ -10875,7 +10883,7 @@
       "text": "You can also put the dass-clause first, as you did with other side sentences. Then the main clause starts with its verb: Dass es ein Tempolimit gibt, finde ich gut. The comma still separates the two parts, and gibt is still at the end of its own clause.",
       "example": {
        "de": "Dass es ein Tempolimit gibt, finde ich gut.",
-       "en": "That there is a speed limit, I find good.",
+       "en": "I think it is good that there is a speed limit.",
        "parts": [
         [
          "Dass",
@@ -14390,7 +14398,7 @@
       "text": "Leave out boring details. A short story has one problem and one solution. Keep the tenses simple: events in the Perfekt, and only war, hatte or a modal verb for how things were or what people wanted: Sie wollten zu Frau Weber fahren. This is the reason a story sounds smooth: the same tense all the way.",
       "example": {
        "de": "Sie wollten zu Frau Weber fahren.",
-       "en": "They wanted to go to Frau Weber.",
+       "en": "They wanted to go to Frau Weber's.",
        "parts": [
         [
          "Sie",
