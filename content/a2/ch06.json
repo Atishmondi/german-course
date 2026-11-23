@@ -3925,7 +3925,7 @@
     },
     {
      "title": "Pronunciation: m or n? einem and einen",
-     "body": "Two endings sound almost alike but mean different things: einem (dative, masculine and neuter) and einen (accusative, masculine). For m, close your lips. For n, touch the tongue tip behind your upper teeth. The same difference separates dem and den, meinem and meinen, Mann and man, Name and nein. In fast speech, listen to the very end of the word.",
+     "body": "Two endings sound almost alike but mean different things: einem (dative, masculine and neuter) and einen (accusative, masculine). For m, close your lips. For n, touch the tongue tip behind your upper teeth. The same difference separates dem and den, meinem and meinen, wem and wen, Kamm and kann. In fast speech, listen to the very end of the word.",
      "lead": "The ending decides the case, so you must hear it. This card trains your ears and your mouth on the difference between m and n.",
      "examples": [
       {
@@ -4039,7 +4039,7 @@
        ]
       }
      },
-     "more": "Put two fingers on your lips. For m your lips close and the sound hums through your nose. For n your lips stay open and the tip of your tongue taps behind your upper teeth. Say einem, einen slowly, then dem, den, then Mann, man. If your lips shut at the end of the word, it is m, and m means dative: mit einem Chef. If your tongue taps, it is n, and in this lesson that is the accusative: einen Chef.",
+     "more": "Put two fingers on your lips. For m your lips close and the sound hums through your nose. For n your lips stay open and the tip of your tongue taps behind your upper teeth. Say einem, einen slowly, then dem, den, then wem, wen. If your lips shut at the end of the word, it is m, and m means dative: mit einem Chef. If your tongue taps, it is n, and in this lesson that is the accusative: einen Chef.",
      "table": {
       "headers": [
        "m (lips closed)",
@@ -4059,12 +4059,12 @@
         "meinen Job"
        ],
        [
-        "Mann",
-        "man"
+        "wem",
+        "wen"
        ],
        [
-        "Name",
-        "nein"
+        "Kamm",
+        "kann"
        ]
       ]
      },
@@ -4728,8 +4728,8 @@
    ],
    "grammar": {
     "topic": "werden = become; Perfekt ist … geworden",
-    "point": "Werden means to become and shows a change: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. A job after werden has no article (Ich werde Tierärztin). With ein + adjective the group is nominative (Leon wird ein guter Koch). Werden + adjective: Es wird dunkel. The Perfekt uses sein: Anna ist Tierärztin geworden.",
-    "oneLine": "Anna wird Tierärztin. Anna ist Tierärztin geworden.",
+    "point": "Werden means to become and shows a change: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden. A job after werden has no article (Ich werde Tierärztin). With ein + adjective the group is nominative (Leon wird ein guter Koch). Werden + adjective: Es wird dunkel. The Perfekt uses sein: Frau Webers Tochter ist Tierärztin geworden.",
+    "oneLine": "Anna wird Tierärztin. Frau Webers Tochter ist Tierärztin geworden.",
     "mistake": {
      "wrong": "Ich werde ein Tierärztin.",
      "right": "Ich werde Tierärztin.",
@@ -5210,16 +5210,20 @@
      ]
     },
     {
-     "title": "Anna ist Tierärztin geworden: the Perfekt",
-     "body": "The Perfekt of werden uses sein, not haben: Anna ist Tierärztin geworden. The participle geworden goes to the end, like every participle. Es ist kalt geworden. Ben ist müde geworden. You know geworden from Was wolltest du werden?",
+     "title": "Frau Webers Tochter ist Tierärztin geworden: the Perfekt",
+     "body": "The Perfekt of werden uses sein, not haben: Frau Webers Tochter ist Tierärztin geworden. The participle geworden goes to the end, like every participle. Es ist kalt geworden. Ben ist müde geworden. You already know werden from Was wolltest du werden?",
      "lead": "You can say what someone is becoming. Now you look back: the Perfekt says what somebody has become, and it uses sein, which surprises many learners.",
      "examples": [
       {
-       "de": "Anna ist Tierärztin geworden.",
-       "en": "Anna has become a vet.",
+       "de": "Frau Webers Tochter ist Tierärztin geworden.",
+       "en": "Frau Weber's daughter has become a vet.",
        "parts": [
         [
-         "Anna",
+         "Frau Webers",
+         "subject"
+        ],
+        [
+         "Tochter",
          "subject"
         ],
         [
@@ -5310,7 +5314,7 @@
        ]
       }
      },
-     "more": "Werden is a change, and a change is a journey from one state to another. Journeys take sein in the Perfekt: Ich bin nach Köln gefahren. So werden takes sein too: Ich bin müde geworden, I got tired. Say it as a short film: it was light, it is now dark, Es ist dunkel geworden. A common slip is Anna hat Tierärztin geworden. That is wrong. Right: Anna ist Tierärztin geworden. The participle geworden waits at the end.",
+     "more": "Werden is a change, and a change is a journey from one state to another. Journeys take sein in the Perfekt: Ich bin nach Köln gefahren. So werden takes sein too: Ich bin müde geworden, I got tired. Say it as a short film: it was light, it is now dark, Es ist dunkel geworden. A common slip is Frau Webers Tochter hat Tierärztin geworden. That is wrong. Right: Frau Webers Tochter ist Tierärztin geworden. The participle geworden waits at the end.",
      "table": {
       "headers": [
        "present",
@@ -5477,7 +5481,7 @@
     },
     {
      "title": "Was möchtest du werden? Asking about jobs",
-     "body": "Now ask and answer. Was möchtest du werden? Ich möchte Koch werden. Was ist Anna geworden? Sie ist Tierärztin geworden. Wer wird Koch? Leon. With möchte or will, werden is the infinitive at the end.",
+     "body": "Now ask and answer. Was möchtest du werden? Ich möchte Koch werden. Was ist Frau Webers Tochter geworden? Sie ist Tierärztin geworden. Wer wird Koch? Leon. With möchte or will, werden is the infinitive at the end.",
      "lead": "You have the forms, the patterns and the jobs. This last card puts them into questions and a short dialogue between Mira and Leon in the kitchen.",
      "examples": [
       {
@@ -5525,8 +5529,8 @@
        ]
       },
       {
-       "de": "Was ist Anna geworden?",
-       "en": "What has Anna become?",
+       "de": "Was ist Frau Webers Tochter geworden?",
+       "en": "What has Frau Weber's daughter become?",
        "parts": [
         [
          "Was",
@@ -5537,7 +5541,11 @@
          "verb"
         ],
         [
-         "Anna",
+         "Frau Webers",
+         "subject"
+        ],
+        [
+         "Tochter",
          "subject"
         ],
         [
@@ -5568,9 +5576,9 @@
        ]
       }
      },
-     "more": "Treat each answer as an echo of the question. Mira asks: Was möchtest du werden, Leon? Leon echoes the frame: Ich möchte Koch werden. Mira asks: Was ist dein Bruder geworden? Leon echoes again: Er ist Busfahrer geworden. The small verb keeps its place, werden or geworden waits at the end, and only the job is new. Copy the frame, change the job, and you can answer any career question without thinking about the grammar.",
+     "more": "Treat each answer as an echo of the question. Mira asks: Was möchtest du werden, Leon? Leon echoes the frame: Ich möchte Koch werden. Mira asks: Was ist deine Schwester geworden? Leon echoes again: Sie ist Busfahrerin geworden. The small verb keeps its place, werden or geworden waits at the end, and only the job is new. Copy the frame, change the job, and you can answer any career question without thinking about the grammar.",
      "steps": [
-      "W-question: Was wirst du? / Was ist Anna geworden?",
+      "W-question: Was wirst du? / Was ist Frau Webers Tochter geworden?",
       "Yes/no question: Wirst du Bäcker?",
       "With a modal: Was möchtest du werden? – Ich möchte Koch werden."
      ]
@@ -5648,7 +5656,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Anna ___ Tierärztin geworden.",
+     "prompt": "Frau Webers Tochter ___ Tierärztin geworden.",
      "options": [
       "ist",
       "hat",
@@ -5656,7 +5664,7 @@
      ],
      "answer": 0,
      "hint": "werden takes sein in the Perfekt.",
-     "explanation": "Anna ist Tierärztin geworden.",
+     "explanation": "Frau Webers Tochter ist Tierärztin geworden.",
      "grammar": true
     },
     {
@@ -5714,13 +5722,13 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Anna ist Tierärztin geworden.",
-      "Anna hat Tierärztin geworden.",
-      "Anna ist Tierärztin werden."
+      "Frau Webers Tochter ist Tierärztin geworden.",
+      "Frau Webers Tochter hat Tierärztin geworden.",
+      "Frau Webers Tochter ist Tierärztin werden."
      ],
      "answer": 0,
      "hint": "Perfekt with sein + geworden.",
-     "explanation": "Anna ist Tierärztin geworden.",
+     "explanation": "Frau Webers Tochter ist Tierärztin geworden.",
      "grammar": true
     },
     {
@@ -7535,12 +7543,12 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Complete: Anna ist Tierärztin ___. (werden, Perfekt)",
+     "prompt": "Complete: Frau Webers Tochter ist Tierärztin ___. (werden, Perfekt)",
      "answers": [
       "geworden"
      ],
      "hint": "ist … geworden.",
-     "explanation": "Anna ist Tierärztin geworden.",
+     "explanation": "Frau Webers Tochter ist Tierärztin geworden.",
      "grammar": true
     },
     {
@@ -8272,7 +8280,7 @@
       }
      ],
      "deeper": {
-      "text": "Learn träumen von as one block: von etwas träumen. You can also dream of a job title with no article: Leon träumt von einer Karriere als Koch. In the dative every adjective after ein takes -en, so you only need one ending: von einem großen Haus, von einer langen Reise, von einem neuen Auto.",
+      "text": "Learn träumen von as one block: von etwas träumen. You can also name the job with als and no article: Leon träumt von einer Karriere als Koch. In the dative every adjective after ein takes -en, so you only need one ending: von einem großen Haus, von einer langen Reise, von einem neuen Auto.",
       "example": {
        "de": "Ben träumt von einem neuen Auto.",
        "en": "Ben dreams of a new car.",
@@ -9957,7 +9965,7 @@
     },
     {
      "title": "Der Schnupperkurs: a first driving lesson",
-     "body": "Many driving schools offer a Schnupperkurs: a short trial lesson before you start the real course. Ben wants to den Führerschein machen. In his first Fahrstunde der Fahrlehrer says: Steigen Sie ein. Halten Sie hier bitte. Ben asks: Wann fahren wir? In zehn Minuten.",
+     "body": "Many driving schools offer a Schnupperkurs: a short trial lesson before you start the real course. Ben wants to get his Führerschein (driving licence). In his first Fahrstunde the Fahrlehrer (driving instructor) says: Steigen Sie ein. Halten Sie hier bitte. Ben asks: Wann fahren wir? In zehn Minuten.",
      "lead": "You know the commands and the plans. Now you hear them in a real situation: Ben sits in a car with a driving instructor for the first time.",
      "examples": [
       {
@@ -12223,7 +12231,7 @@
     {
      "intro": true,
      "title": "Before we start: Mira at the reception phone",
-     "body": "In A1 chapter 10 you made short phone calls: Hallo, hier ist Ben. In chapter 5 you asked politely: Könnten Sie mir helfen? Today Mira works at the reception and takes calls at work. You learn a strategy in five steps: open the call, ask for the person, leave a message, spell and repeat, and close.",
+     "body": "In A1 chapter 10 you made short phone calls: Hallo, hier ist Ben. In chapter 5 you asked politely: Könnten Sie mir helfen? Today Mira helps out at the reception of „Zum Löwen“ and takes the calls. You learn a strategy in five steps: open the call, ask for the person, leave a message, spell and repeat, and close.",
      "steps": [
       "You already know: phone chunks from A1, polite könnte, Ich hätte gern …, dative pronouns like ihm, and werden + infinitive.",
       "New today: phone words for work, a five-step strategy for calls, the alphabet for spelling, and Auf Wiederhören!",
@@ -14082,7 +14090,7 @@
    "day": 2,
    "reading": {
     "title": "Leons Plan",
-    "text": "Hallo, ich bin Leon. Ich arbeite als Kellner im Restaurant „Zum Löwen“. Die Arbeit ist anstrengend, aber ich habe ein nettes Team. Mein Traumjob ist aber Koch.\nGestern habe ich mit Herrn Ali gesprochen. Er hat gesagt: „Du wirst bestimmt ein guter Koch!“ Nächsten Monat werde ich einen Kochkurs machen. Der Kurs dauert ein halbes Jahr. Danach werde ich am Wochenende in der Küche helfen. Mein Bruder ist Busfahrer geworden, und er findet seinen Beruf sehr interessant.\nIn zehn Jahren werde ich ein eigenes Restaurant haben. Es wird ein kleines Restaurant mit einer großen Küche sein. Ich träume von einer kreativen Speisekarte mit Gerichten aus vielen Ländern. Mira sagt: „Das wird bestimmt lecker!“ Ich bin schon jetzt sehr gespannt auf die Zukunft.",
+    "text": "Hallo, ich bin Leon. Ich arbeite als Kellner im Restaurant „Zum Löwen“. Die Arbeit ist anstrengend, aber ich habe ein nettes Team. Mein Traumjob ist aber Koch.\nGestern habe ich mit Herrn Ali gesprochen. Er hat gesagt: „Du wirst bestimmt ein guter Koch!“ Nächsten Monat werde ich einen Kochkurs machen. Der Kurs dauert ein halbes Jahr. Danach werde ich am Wochenende in der Küche helfen. Meine Schwester ist Busfahrerin geworden, und sie findet ihren Beruf sehr interessant.\nIn zehn Jahren werde ich ein eigenes Restaurant haben. Es wird ein kleines Restaurant mit einer großen Küche sein. Ich träume von einer kreativen Speisekarte mit Gerichten aus vielen Ländern. Mira sagt: „Das wird bestimmt lecker!“ Ich bin schon jetzt sehr gespannt auf die Zukunft.",
     "glossary": [
      {
       "de": "der Kochkurs",
@@ -14180,7 +14188,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What has Leon's brother become?",
+      "prompt": "What has Leon's sister become?",
       "options": [
        "a waiter",
        "a bus driver",
@@ -14188,7 +14196,7 @@
       ],
       "answer": 1,
       "hint": "Look for geworden.",
-      "explanation": "Mein Bruder ist Busfahrer geworden."
+      "explanation": "Meine Schwester ist Busfahrerin geworden."
      },
      {
       "type": "choice",

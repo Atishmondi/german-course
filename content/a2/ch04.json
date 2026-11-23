@@ -2732,12 +2732,12 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: Ben is the youngest.",
+     "prompt": "Write in German: Mira is the youngest.",
      "answers": [
-      "Ben ist am jüngsten."
+      "Mira ist am jüngsten."
      ],
      "hint": "Am + adjective + -sten.",
-     "explanation": "Ben ist am jüngsten.",
+     "explanation": "Mira ist am jüngsten.",
      "grammar": true
     },
     {
@@ -4087,12 +4087,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Mira is as old as Ben.",
+     "prompt": "Write in German: The tea is as expensive as the coffee.",
      "answers": [
-      "Mira ist so alt wie Ben."
+      "Der Tee ist so teuer wie der Kaffee."
      ],
      "hint": "So + adjective + wie.",
-     "explanation": "Mira ist so alt wie Ben.",
+     "explanation": "Der Tee ist so teuer wie der Kaffee.",
      "grammar": true
     }
    ]
@@ -4832,7 +4832,7 @@
       }
      ],
      "deeper": {
-      "text": "Weinen and lächeln are regular: ich weine, du weinst, er weint; ich lächle, du lächelst, er lächelt. Lächeln drops the e in the ich form, like sammeln: ich sammle. In the Perfekt both take haben: Ich habe geweint, Sie hat gelächelt. Lachen is a big laugh, lächeln is a small smile.",
+      "text": "Weinen and lächeln are regular: ich weine, du weinst, er weint; ich lächle, du lächelst, er lächelt. Lächeln drops the e in the ich form, like sammeln: ich sammle. In the Perfekt both take haben: Ich habe geweint, sie hat gelächelt. Lachen is a big laugh, lächeln is a small smile.",
       "example": {
        "de": "Mira hat gelächelt, aber Leon hat gelacht.",
        "en": "Mira smiled, but Leon laughed.",
@@ -12946,7 +12946,7 @@
      "prompt": "Where do you read what the text is about?",
      "options": [
       "in der Überschrift und in der Einleitung",
-      "in der Einleitung",
+      "im Hauptteil",
       "im Schluss"
      ],
      "answer": 0,
