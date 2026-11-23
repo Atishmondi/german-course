@@ -12792,7 +12792,7 @@
     {
      "intro": true,
      "title": "Before we start: from a text to a talk",
-     "body": "Anna will present „Viertel hilft“ to her German course. Two or three minutes, people looking at her: that is exciting and a bit scary. You already plan a text with Einleitung, Hauptteil and Schluss and connect ideas with zuerst, dann and zum Schluss. Today you turn that plan into a spoken presentation.",
+     "body": "Anna will present „Viertel hilft“ in her presentation course at the Volkshochschule. Two or three minutes, people looking at her: that is exciting and a bit scary. You already plan a text with Einleitung, Hauptteil and Schluss and connect ideas with zuerst, dann and zum Schluss. Today you turn that plan into a spoken presentation.",
      "steps": [
       "You already know: Einleitung – Hauptteil – Schluss from chapter 4, and zuerst, dann, zum Schluss with the verb in position 2.",
       "New today: five steps to prepare a talk, and ready-made sentences for the start, the middle and the end.",
@@ -15402,7 +15402,7 @@
       "type": "choice",
       "prompt": "What does Anna present?",
       "options": [
-       "her German course",
+       "her Volkshochschule course",
        "„Zum Löwen“",
        "„Viertel hilft“"
       ],
