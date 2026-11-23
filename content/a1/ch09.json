@@ -4725,8 +4725,7 @@
      "type": "type",
      "prompt": "Write in German: The books are on the shelf.",
      "answers": [
-      "Die Bücher sind im Regal.",
-      "Die Bücher sind auf dem Regal."
+      "Die Bücher sind im Regal."
      ],
      "hint": "in dem = im.",
      "explanation": "Die Bücher sind im Regal."

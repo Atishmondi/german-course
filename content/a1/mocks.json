@@ -243,9 +243,9 @@
       "type": "choice",
       "prompt": "Why does Mira study on Saturday afternoon?",
       "options": [
-       "He has an exam on Monday.",
-       "He has a course on Sunday.",
-       "He has a visitor."
+       "She has an exam on Monday.",
+       "She has a course on Sunday.",
+       "She has a visitor."
       ],
       "answer": 0,
       "hint": "Look for denn.",
