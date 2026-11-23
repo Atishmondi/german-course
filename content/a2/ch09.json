@@ -1552,7 +1552,7 @@
       },
       {
        "de": "Es regnet. Deshalb bleiben wir zu Hause.",
-       "en": "It rains. That is why we stay at home."
+       "en": "It is raining. That is why we stay at home."
       }
      ]
     },
@@ -1799,7 +1799,7 @@
      "examples": [
       {
        "de": "Es regnet. Deshalb bleiben wir zu Hause.",
-       "en": "It rains. That is why we stay at home.",
+       "en": "It is raining. That is why we stay at home.",
        "parts": [
         [
          "Es",
@@ -1869,7 +1869,7 @@
       },
       {
        "de": "Es regnet. Trotzdem spielen wir.",
-       "en": "It rains. Even so, we play.",
+       "en": "It is raining. Even so, we play.",
        "parts": [
         [
          "Es",
@@ -2043,7 +2043,7 @@
      "examples": [
       {
        "de": "Es regnet. Trotzdem spielen wir.",
-       "en": "It rains. Even so, we play.",
+       "en": "It is raining. Even so, we play.",
        "parts": [
         [
          "Es",
@@ -2189,7 +2189,7 @@
        ]
       }
      },
-     "more": "Trotzdem is the word of surprise. First you say a problem: It rains. Then you say what happens against all hope: Even so, we play. Put trotzdem first, then the verb, then the person. It is the same train as deshalb, only the passengers are different. A good test: say But still! in English after the first sentence. If But still! fits, you need trotzdem. Use it whenever the second sentence is a surprise.",
+     "more": "Trotzdem is the word of surprise. First you say a problem: It is raining. Then you say what happens against all hope: Even so, we play. Put trotzdem first, then the verb, then the person. It is the same train as deshalb, only the passengers are different. A good test: say But still! in English after the first sentence. If But still! fits, you need trotzdem. Use it whenever the second sentence is a surprise.",
      "table": {
       "headers": [
        "Problem",
@@ -2421,7 +2421,7 @@
      "examples": [
       {
        "de": "Es regnet, aber wir spielen.",
-       "en": "It rains, but we play.",
+       "en": "It is raining, but we play.",
        "parts": [
         [
          "Es",
@@ -2447,7 +2447,7 @@
       },
       {
        "de": "Es regnet, trotzdem spielen wir.",
-       "en": "It rains, even so we play.",
+       "en": "It is raining, even so we play.",
        "parts": [
         [
          "Es",
@@ -3172,7 +3172,7 @@
      "examples": [
       {
        "de": "Es regnet. Trotzdem spielen wir.",
-       "en": "It rains. Even so, we play."
+       "en": "It is raining. Even so, we play."
       },
       {
        "de": "Wir haben trotzdem gewonnen.",
@@ -10721,7 +10721,7 @@
      ],
      "answer": 2,
      "hint": "Surprising result.",
-     "explanation": "Es regnet. Trotzdem spielen wir. It rains, but we still play.",
+     "explanation": "Es regnet. Trotzdem spielen wir. It is raining, but we still play.",
      "grammar": true
     },
     {
@@ -14465,7 +14465,7 @@
       "type": "choice",
       "prompt": "What is the weather tomorrow?",
       "options": [
-       "It rains.",
+       "It is raining.",
        "It is sunny.",
        "It snows."
       ],

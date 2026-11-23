@@ -63,16 +63,19 @@
   if(window.speechSynthesis)speechSynthesis.getVoices(); // warms the voice list in Chrome
 
   // ---------- Shell: fixed left sidebar + breadcrumb bar (laptop layout) ----------
-  const I={
-    home:'<path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M10 20v-5h4v5"/>',
-    chapters:'<path d="M4 4h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2H4z"/><path d="M20 4h-6a2 2 0 0 0-2 2v14a2 2 0 0 1 2-2h6z"/>',
-    grammar:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5M9 8h6"/>',
-    words:'<rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',
-    progress:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
-    settings:'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/>',
-    back:'<path d="M15 18l-6-6 6-6"/>'
+  // Pixel icons: 12x12 grids, one pixel = one square, drawn crisp (no stroke icons, no emoji).
+  const G={
+    home:['............','.....##.....','....#..#....','...#....#...','..#......#..','.#........#.','..#......#..','..#..##..#..','..#..##..#..','..#..##..#..','..########..','............'],
+    chapters:['............','.####..####.','#....##....#','#.##.##.##.#','#....##....#','#.##.##.##.#','#....##....#','#.##.##.##.#','#....##....#','.####..####.','............','............'],
+    grammar:['............','.##########.','.#...#....#.','.##########.','.#...#....#.','.#...#....#.','.##########.','.#...#....#.','.#...#....#.','.##########.','............','............'],
+    words:['............','.##########.','#..........#','#.######...#','#..........#','#.####.###.#','#..........#','.####.#####.','....#.#.....','....##......','....#.......','............'],
+    progress:['............','.........##.','.........##.','.....##..##.','.....##..##.','.##..##..##.','.##..##..##.','.##..##..##.','............','############','............','............'],
+    settings:['............','.....##.....','..#.####.#..','...######...','..###..###..','.###....###.','.###....###.','..###..###..','...######...','..#.####.#..','.....##.....','............'],
+    back:['............','......##....','.....##.....','....##......','...##.......','....##......','.....##.....','......##....','............','............','............','............'],
+    sound:['............','.....#......','....##...#..','..####.#..#.','######..#.#.','######..#.#.','######..#.#.','..####.#..#.','....##...#..','.....#......','............','............']
   };
-  const icon=k=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${I[k]}</svg>`;
+  const I=Object.fromEntries(Object.entries(G).map(([k,rows])=>[k,rows.flatMap((r,y)=>[...r].map((c,x)=>c==='#'?`M${x} ${y}h1v1h-1z`:'')).join('')]));
+  const icon=k=>`<svg class="px" viewBox="0 0 12 12" fill="currentColor" shape-rendering="crispEdges" aria-hidden="true"><path d="${I[k]}"/></svg>`;
   const NAV=[['home','Home'],['chapters','Chapters'],['grammar','Grammar'],['words','Words'],['progress','Progress'],['settings','Settings']];
 
   appEl.innerHTML=`<aside class="side" aria-label="Sidebar">
@@ -230,29 +233,80 @@
       if(!d)return days().length?endOfCourse(v):notice(v,'✍️','Course content is being written','Please check back soon.');
       const lvDays=days().filter(x=>x.level===d.level), lvDone=lvDays.filter(x=>dayDoneAt(x.n)).length;
       const parts=PL.dayParts(plan,state,n), pdone=parts.filter(p=>p.done).length, s=nextStep(d);
-      let chMeter='';
-      if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);
-        chMeter=meter(chName(d.level,d.chapter),ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length,ids.length,'lessons');}
       const where=d.kind==='learn'?`${chName(d.level,d.chapter)} · ${dayLabel(d)}`:dayLabel(d);
       let sec=0;try{const k=new Date();sec=(JSON.parse(localStorage.getItem('german-study-time'))||{})[`${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`]||0;}catch{}
-      const m=Math.floor(sec/60), C=2*Math.PI*26, f=Math.min(1,m/120);
-      const ring=`<svg class="h-ring" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="26"/><circle class="on" cx="32" cy="32" r="26" stroke-dasharray="${C}" stroke-dashoffset="${C*(1-f)}"/></svg>`;
-      const stat=(a,b,l)=>`<li><b>${a}</b><span>of ${b} ${l}</span></li>`;
-      let chStat='';
-      if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);chStat=stat(ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length,ids.length,`lessons in Ch ${d.chapter}`);}
-      v.innerHTML=`<section class="h-next">
-          <p class="h-eyebrow"><span class="badge">${esc(levelTitle(d.level))}</span>${esc(where)}${s&&s.pos?` · ${esc(s.pos)}`:''}</p>
-          <h1 class="h-title">${s?esc(s.title||s.label):'Coming soon'}</h1>
-          ${s?`${s.why?`<p class="h-why">${esc(s.why)}</p>`:''}
-            ${s.finish?`<button class="btn primary h-go" type="button" data-finish="${s.finish}">${esc(s.label)} →</button>`:`<a class="btn primary h-go" href="${s.href}">${esc(s.verb||'Go')} →</a>`}`
-            :`<p class="h-why">The lessons for this day are still being written. Your progress is safe.</p><a class="btn" href="#/chapters/${d.level}">Open Chapters →</a>`}
+      const m=Math.floor(sec/60), hr=new Date().getHours();
+      const hello=hr>=5&&hr<11?'Guten Morgen':hr>=11&&hr<18?'Guten Tag':hr>=18&&hr<23?'Guten Abend':'Gute Nacht';
+      const helloEn={'Guten Morgen':'good morning','Guten Tag':'good day','Guten Abend':'good evening','Gute Nacht':'good night'}[hello];
+      // 24 blocks of 5 minutes = the 2-hour day
+      const blocks=Array.from({length:24},(_,i)=>`<i class="${(i+1)*5<=m?'on':''}"></i>`).join('');
+      let chLine='';
+      if(d.kind==='learn'){const ids=chapterDays(d.level,d.chapter).flatMap(x=>x.lessonIds);chLine=` · ${ids.filter(id=>state.lessons[id]&&state.lessons[id].completedAt).length} of ${ids.length} lessons in Ch ${d.chapter}`;}
+      // Word of the day: only words from finished lessons, same word all day
+      const known=[];for(const l of DATA.lessons||[])if(state.lessons[l.id]&&state.lessons[l.id].completedAt)(l.vocabulary||[]).forEach(w=>known.push(w));
+      const today=new Date(),seed=today.getFullYear()*400+today.getMonth()*32+today.getDate(),w=known.length?known[(seed*7919)%known.length]:null;
+      const wDe=w?(w.article?w.article+' ':'')+w.de:'';
+      const word=w?`<p class="hw-de" lang="de">${esc(wDe)}</p><p class="hw-en">${esc(w.en)}${w.plural?` · <span lang="de">${esc(w.plural)}</span>`:''}</p>
+          <button class="hw-say" type="button" data-say="${esc(wDe)}">${icon('sound')}<span>Hear it</span></button>`
+        :`<p class="hw-en">Your first word shows up here once you finish a lesson.</p>`;
+      // This week's six days
+      const wk=days().filter(x=>x.level===d.level&&x.week===d.week);
+      const week=wk.map(x=>{const st=dayDoneAt(x.n)?'done':x.n===n?'now':'later';const lab=x.kind==='learn'?`Day ${x.dayInWeek}`:dayLabel(x);
+        return `<li class="${st}"><span class="hk-sq" aria-hidden="true"></span><b>${esc(lab)}</b><small>${st==='done'?'Done':st==='now'?'Today':'Ahead'}</small></li>`;}).join('');
+      // The whole path: one column per week, one square per day, flags on checkpoint days
+      const LV=LEVELS?LEVELS.levels:[];
+      const path=LV.map(lv=>{const ds=days().filter(x=>x.level===lv.id),wks=[...new Set(ds.map(x=>x.week))];
+        return `<div class="hp-lv${lv.id===d.level?' cur':''}" style="--w:${wks.length}"><p class="hp-name">${esc(levelTitle(lv.id))}<span>${ds.filter(x=>dayDoneAt(x.n)).length}/${ds.length}</span></p><div class="hp-weeks">${wks.map(k=>{const col=ds.filter(x=>x.week===k);
+          return `<div class="hp-wk${col.some(x=>x.checkpointOf&&x.checkpointOf.length)?' flag':''}">${col.map(x=>{const st=dayDoneAt(x.n)?'done':x.n===n?'now':isLocked(x.n)||x.available===false?'lock':'open';
+            const t=`${levelTitle(lv.id)} · Week ${k} · ${dayLabel(x)}`;return st==='lock'?`<span class="hp-d ${st}" title="${esc(t)}"></span>`:`<a class="hp-d ${st}" href="#/day/${x.n}" title="${esc(t)}" aria-label="${esc(t)}"></a>`;}).join('')}</div>`;}).join('')}</div></div>`;}).join('');
+      v.innerHTML=`<section class="hh" aria-label="Today's lesson">
+          <div class="hh-photo" aria-hidden="true"><img src="img/${document.documentElement.dataset.phase||'night'}.jpg" alt="" decoding="async"></div>
+          <div class="hh-top"><span class="hh-brand">German</span><span class="hh-clock"><span>Berlin</span> <b id="hclock"></b></span></div>
+          <div class="hh-copy">
+            <p class="hh-hello" lang="de"><span>${hello}</span><small>${helloEn}</small></p>
+            <p class="hh-where"><span class="badge">${esc(levelTitle(d.level))}</span>${esc(where)}${s&&s.pos?` · ${esc(s.pos)}`:''}</p>
+            <h1 class="hh-title">${s?esc(s.title||s.label):'Coming soon'}</h1>
+            ${s?`${s.why?`<p class="hh-why">${esc(s.why)}</p>`:''}
+              ${s.finish?`<button class="hh-go" type="button" data-finish="${s.finish}"><span>${esc(s.label)}</span></button>`:`<a class="hh-go" href="${s.href}"><span>${esc(s.verb||'Go')}</span></a>`}`
+              :`<p class="hh-why">The lessons for this day are still being written. Your progress is safe.</p><a class="hh-go ghost" href="#/chapters/${d.level}"><span>Open Chapters</span></a>`}
+          </div>
+          <p class="hh-scroll" aria-hidden="true">Scroll</p>
         </section>
-        <section class="h-glance" aria-label="Today at a glance">
-          <div class="h-time">${ring}<p><b>${m} min</b><span>of 120 today${m>=120?' ✓':''}</span></p></div>
-          <ul class="h-stats">${stat(pdone,parts.length,'parts today')}${chStat}${stat(lvDone,lvDays.length,`days in ${esc(levelTitle(d.level))}`)}</ul>
-        </section>
-        ${d.available===false?'':`<section class="h-plan"><h2>Today</h2>${partList(d)}</section>`}`;
+        <div class="hb">
+          ${d.available===false?'':`<section class="ht" data-reveal aria-labelledby="ht-h">
+            <div class="ht-head"><h2 id="ht-h">Today</h2><p class="ht-min"><b>${m}</b> / 120 min${m>=120?' · goal reached':''}</p></div>
+            <div class="ht-blocks" role="progressbar" aria-label="Study time today" aria-valuemin="0" aria-valuemax="120" aria-valuenow="${Math.min(m,120)}">${blocks}</div>
+            <p class="ht-sub">${pdone} of ${parts.length} parts done${chLine}</p>
+            ${partList(d)}
+          </section>`}
+          <div class="hm" data-reveal>
+            <section class="hw" aria-labelledby="hw-h"><h2 id="hw-h">Word of the day</h2>${word}</section>
+            <section class="hk" aria-labelledby="hk-h"><h2 id="hk-h">This week</h2><ol class="hk-days">${week}</ol></section>
+          </div>
+          <section class="hp" data-reveal aria-labelledby="hp-h">
+            <div class="ht-head"><h2 id="hp-h">Your path</h2><p class="ht-min">${lvDone} of ${lvDays.length} days in ${esc(levelTitle(d.level))}</p></div>
+            <div class="hp-map">${path}</div>
+            <p class="hp-key"><span><i class="hp-d done"></i>Done</span><span><i class="hp-d now"></i>Today</span><span><i class="hp-d open"></i>Open</span><span><i class="hp-flag"></i>Checkpoint week</span></p>
+          </section>
+        </div>`;
       bindDayActions(v);
+      v.querySelector('[data-say]')?.addEventListener('click',e=>speak(e.currentTarget.dataset.say));
+      const reduce=!!state.settings.reduced||matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if(!reduce){ // photo drifts gently against the pointer: smooth, eased, paused off-screen
+        const img=v.querySelector('.hh-photo img');let mx=0,my=0,x=0,y=0,raf=0;
+        const tick=()=>{x+=(mx-x)*.05;y+=(my-y)*.05;img.style.transform=`scale(1.08) translate3d(${x.toFixed(2)}px,${(y+scrollY*.12).toFixed(2)}px,0)`;raf=Math.abs(mx-x)+Math.abs(my-y)>.05?requestAnimationFrame(tick):0;};
+        const kick=()=>{if(!raf)raf=requestAnimationFrame(tick);};
+        const mv=e=>{mx=(e.clientX/innerWidth-.5)*-18;my=(e.clientY/innerHeight-.5)*-10;kick();};
+        addEventListener('pointermove',mv,{passive:true});addEventListener('scroll',kick,{passive:true});
+        homeStops.push(()=>{removeEventListener('pointermove',mv);removeEventListener('scroll',kick);cancelAnimationFrame(raf);});
+      }
+      const clock=()=>{const el=document.getElementById('hclock');if(!el)return false;el.textContent=new Date().toLocaleTimeString('de-DE',{timeZone:'Europe/Berlin',hour:'2-digit',minute:'2-digit'});return true;};
+      clock();const ci=setInterval(()=>{if(!clock())clearInterval(ci);},10000);homeStops.push(()=>clearInterval(ci));
+      if(!reduce){
+        const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.15});
+        v.querySelectorAll('[data-reveal]').forEach(el=>{if(el.getBoundingClientRect().top<innerHeight)return;el.classList.add('pre');io.observe(el);});homeStops.push(()=>io.disconnect());
+        const fb=setTimeout(()=>v.querySelectorAll('[data-reveal].pre').forEach(el=>el.classList.add('in')),2500);homeStops.push(()=>clearTimeout(fb));
+      }
     },
     day(v,arg){if(!needPlan(v))return;renderDay(v,parseInt(arg,10)||0);},
 
@@ -470,7 +524,6 @@
           ${sw('sound','Sound','A tiny chime with celebrations')}
           ${sw('reduced','Reduce motion','No confetti or moving effects')}</section>
         <section class="section"><h2>Checking</h2>
-          ${(()=>{const TH={"gold": ["Black and gold", "#000000", "#14213d", "#fca311", "#e5e5e5"], "fiery": ["Fiery ocean", "#780000", "#c1121f", "#fdf0d5", "#003049", "#669bbc"], "deepsea": ["Deep sea", "#00171f", "#003459", "#007ea7", "#00a8e8", "#ffffff"], "classic": ["Black and amber", "#000000", "#16161a", "#f2b866", "#eef1f6"], "lapis": ["Lapis and plum", "#0e1222", "#242b46", "#c3a0e0", "#ece6dc"]};return `<div class="set-block"><p class="set-h">Theme</p><div class="theme-picks" role="group" aria-label="Theme">${Object.entries(TH).map(([k,[n,...c]])=>`<button type="button" class="theme-pick" data-theme-pick="${k}" aria-pressed="${(s.theme||'gold')===k}"><span class="sw">${c.map(x=>`<i style="background:${x}"></i>`).join('')}</span>${n}</button>`).join('')}</div></div>`;})()}
           ${sw('openAll','Open every day','For checking new chapters. Your progress stays as it is.')}</section>
         <section class="section"><h2>Listening</h2>
           ${seg('speed','Speech speed',[0.7,0.85,1],x=>x===1?'1×':x+'×')}
@@ -491,7 +544,6 @@
       });
       v.addEventListener('click',e=>{
         const b=e.target.closest('button');if(!b)return;
-        if(b.dataset.themePick){s.theme=b.dataset.themePick;save();document.documentElement.dataset.theme=s.theme;v.querySelectorAll('[data-theme-pick]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));return;}
         if(b.dataset.seg){s[b.dataset.seg]=Number(b.dataset.v);save();
           v.querySelectorAll(`[data-seg="${b.dataset.seg}"]`).forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
         else if('test' in b.dataset)speak('Hallo! Ich heiße Mira. Ich lerne Deutsch.');
@@ -595,15 +647,18 @@
   }
 
   // ---------- Router ----------
+  const homeStops=[];
   function go(hash){if(location.hash===hash)route();else location.hash=hash;}
   function route(){
     if(MOT)MOT.stop();
+    while(homeStops.length)homeStops.pop()();
     if(window.speechSynthesis)speechSynthesis.cancel();
     let [name,...rest]=(location.hash.replace(/^#\/?/,'')||'home').split('/');
     if(name==='today')name='home';if(name==='plan')name='chapters';   // old links keep working
     const arg=decodeURIComponent(rest.join('/'));
     const isPlayer=['lesson','skills','recall','review','mock','checkpoint'].includes(name);
     document.body.classList.toggle('playing',isPlayer);
+    document.body.classList.toggle('at-home',name==='home');
     const navKey=isPlayer||name==='day'?'chapters':name;
     document.querySelectorAll('[data-nav]').forEach(a=>a.dataset.nav===navKey?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));
     const v=document.createElement('div');mainEl.replaceChildren(v); // fresh node: players bind delegated events to it
