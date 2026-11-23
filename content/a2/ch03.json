@@ -116,7 +116,7 @@
     },
     {
      "title": "lieber is already a comparative",
-     "body": "You know gern (gladly) and lieber (more gladly). Lieber is the comparative of gern: the form that says more. It looks different, but it does the same job as the -er in kleiner. Klein becomes kleiner, schnell becomes schneller. In German, -er on a basic word always means more.",
+     "body": "You know gern (gladly) and lieber (more gladly). Lieber is the comparative of gern: the form that says more. It looks different, but it does the same job as the -er in kleiner. Klein becomes kleiner, schnell becomes schneller.",
      "lead": "The introduction showed kleiner next to klein. First, a small surprise: you already used a comparative, the word lieber, when you said what you prefer.",
      "examples": [
       {
@@ -546,7 +546,7 @@
     },
     {
      "title": "The comparative after other verbs",
-     "body": "The comparative is not only for ist. It also goes after an action verb and tells how someone does it: Ben arbeitet schneller als Leon. The form is the same as after ist: the adjective with -er, then als. The comparative sits right after the verb.",
+     "body": "The comparative is not only for ist. It also goes after an action verb and tells how someone does it: Ben arbeitet schneller als Leon. The form is the same as after ist: the adjective with -er, then als. The comparative stands before als.",
      "lead": "So far every comparison used ist. Now you meet the same -er after normal verbs, so you can compare how people do things.",
      "examples": [
       {
@@ -1890,7 +1890,7 @@
       }
      ],
      "deeper": {
-      "text": "English splits its comparatives: more for things you can count (more apps) and less or fewer for the rest. German keeps it simpler. Mehr and weniger work for both: mehr Zeit, mehr Fotos, weniger Zeit, weniger Apps. The word before it can change, though: viel Zeit for something uncountable, but viele Fotos for plural things. In the comparative both just become mehr, with no ending.",
+      "text": "English splits its words for less: fewer for things you can count (fewer apps) and less for the rest (less time). German keeps it simpler. Mehr and weniger work for both: mehr Zeit, mehr Fotos, weniger Zeit, weniger Apps. The word before it can change, though: viel Zeit for something uncountable, but viele Fotos for plural things. In the comparative both just become mehr, with no ending.",
       "example": {
        "de": "Ben hat mehr Apps als ich.",
        "en": "Ben has more apps than I do.",
@@ -3535,8 +3535,8 @@
        ]
       },
       {
-       "de": "Ben ist alt, Herr Ali ist älter, Frau Weber ist am ältesten.",
-       "en": "Ben is old, Herr Ali is older, Frau Weber is the oldest.",
+       "de": "Ben ist alt, Frau Weber ist älter, Herr Ali ist am ältesten.",
+       "en": "Ben is old, Frau Weber is older, Herr Ali is the oldest.",
        "parts": [
         [
          "Ben",
@@ -3551,11 +3551,11 @@
          "adjective"
         ],
         [
-         "Herr",
+         "Frau",
          "article"
         ],
         [
-         "Ali",
+         "Weber",
          "noun"
         ],
         [
@@ -3567,11 +3567,11 @@
          "adjective"
         ],
         [
-         "Frau",
+         "Herr",
          "article"
         ],
         [
-         "Weber",
+         "Ali",
          "noun"
         ],
         [
@@ -3729,8 +3729,8 @@
        ]
       },
       {
-       "de": "Ben ist genauso alt wie Mira.",
-       "en": "Ben is just as old as Mira.",
+       "de": "Ben ist genauso groß wie Leon.",
+       "en": "Ben is just as tall as Leon.",
        "parts": [
         [
          "Ben",
@@ -3741,7 +3741,7 @@
          "verb"
         ],
         [
-         "genauso alt",
+         "genauso groß",
          "adjective"
         ],
         [
@@ -3749,7 +3749,7 @@
          "conjunction"
         ],
         [
-         "Mira.",
+         "Leon.",
          "subject"
         ]
        ]
@@ -4028,19 +4028,19 @@
        [
         "so or genauso",
         "wie",
-        "Ben ist so groß wie Mira."
+        "Ben ist so groß wie Leon."
        ],
        [
         "nicht so",
         "wie",
-        "Ben ist nicht so groß wie Mira."
+        "Ben ist nicht so groß wie Anna."
        ]
       ]
      }
     },
     {
      "title": "Sounds: b and w, and word stress",
-     "body": "B sounds like English b: Bildschirm, besser, beliebt. W sounds like English v: wie, witzig, wir. So Bein (leg) and Wein (wine) sound different. Word stress: most German words stress the first syllable, but words from other languages are often stressed at the end: comPUter, stuDENT.",
+     "body": "B sounds like English b: Bildschirm, besser, beliebt. W sounds like English v: wie, witzig, wir. So Bein (leg) and Wein (wine) sound different. Word stress: most German words stress the first syllable, but words from other languages are often stressed on a later syllable: comPUter, stuDENT.",
      "lead": "The chapter is full of words with b and w, and these two letters are easy to mix up. This last card is about sounds, not grammar, and it helps you speak clearly.",
      "examples": [
       {
@@ -4264,12 +4264,12 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Ben ist genauso alt ___ Mira.",
+     "prompt": "Complete: Ben ist genauso groß ___ Leon.",
      "answers": [
       "wie"
      ],
      "hint": "After genauso use the word for as.",
-     "explanation": "Genauso alt wie Mira.",
+     "explanation": "Genauso groß wie Leon.",
      "grammar": true
     },
     {
@@ -4361,25 +4361,25 @@
     },
     {
      "type": "build",
-     "prompt": "Build: Ben is just as old as Mira.",
+     "prompt": "Build: Ben is just as tall as Leon.",
      "tokens": [
       "wie",
       "Ben",
-      "alt",
+      "groß",
       "ist",
       "genauso",
-      "Mira."
+      "Leon."
      ],
      "answer": [
       "Ben",
       "ist",
       "genauso",
-      "alt",
+      "groß",
       "wie",
-      "Mira."
+      "Leon."
      ],
      "hint": "Genauso + adjective + wie.",
-     "explanation": "Ben + ist + genauso alt + wie + Mira.",
+     "explanation": "Ben + ist + genauso groß + wie + Leon.",
      "grammar": true
     },
     {
@@ -4397,7 +4397,7 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Leon ist am ___. (jung)",
+     "prompt": "Complete: Mira ist am ___. (jung)",
      "answers": [
       "jüngsten"
      ],
@@ -4429,15 +4429,15 @@
     },
     {
      "type": "choice",
-     "prompt": "Which word is stressed on the last part?",
+     "prompt": "Which word is not stressed on the first syllable?",
      "options": [
       "Computer",
       "Handy",
       "Fernseher"
      ],
      "answer": 0,
-     "hint": "Words from other languages often have the stress at the end.",
-     "explanation": "comPUter has the stress at the end."
+     "hint": "Words from other languages often have the stress on a later syllable.",
+     "explanation": "comPUter has the stress on the second syllable."
     },
     {
      "type": "build",
@@ -4643,12 +4643,12 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Leon is older than Anna.",
+     "prompt": "Write in German: Anna is older than Leon.",
      "answers": [
-      "Leon ist älter als Anna."
+      "Anna ist älter als Leon."
      ],
      "hint": "Alt gets dots.",
-     "explanation": "Leon ist älter als Anna.",
+     "explanation": "Anna ist älter als Leon.",
      "grammar": true
     },
     {
@@ -6363,12 +6363,12 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: Mira is older than Ben.",
+     "prompt": "Write in German: Ben is older than Mira.",
      "answers": [
-      "Mira ist älter als Ben."
+      "Ben ist älter als Mira."
      ],
      "hint": "Alt gets dots and -er, then als.",
-     "explanation": "Mira ist älter als Ben.",
+     "explanation": "Ben ist älter als Mira.",
      "grammar": true
     },
     {
@@ -12728,8 +12728,8 @@
        "en": "The actor is famous."
       },
       {
-       "de": "Ben ist Schauspieler.",
-       "en": "Ben is an actor."
+       "de": "Mein Onkel ist Schauspieler.",
+       "en": "My uncle is an actor."
       }
      ],
      "article": "der",
@@ -12744,8 +12744,8 @@
        "en": "The actress plays the leading role."
       },
       {
-       "de": "Anna ist eine Schauspielerin.",
-       "en": "Anna is an actress."
+       "de": "Meine Tante ist Schauspielerin.",
+       "en": "My aunt is an actress."
       }
      ],
      "article": "die",
@@ -15039,21 +15039,21 @@
      },
      {
       "type": "build",
-      "prompt": "Build: Leon is the youngest.",
+      "prompt": "Build: Mira is the youngest.",
       "tokens": [
        "jüngsten.",
        "am",
        "ist",
-       "Leon"
+       "Mira"
       ],
       "answer": [
-       "Leon",
+       "Mira",
        "ist",
        "am",
        "jüngsten."
       ],
       "hint": "Verb in part 2, then am + adjective.",
-      "explanation": "Leon ist am jüngsten.",
+      "explanation": "Mira ist am jüngsten.",
       "grammar": true
      },
      {
@@ -15097,7 +15097,7 @@
       },
       {
        "label": "uses am ...-sten (the winner)",
-       "pattern": "(^|\\s)am\\s+[a-zäöüß]+sten\\b"
+       "pattern": "(^|\\s)am\\s+[a-zäöüß]+[sß]ten\\b"
       },
       {
        "label": "uses so ... wie or genauso ... wie",

@@ -1456,11 +1456,11 @@
      "en": "pupil (male / female)",
      "examples": [
       {
-       "de": "Ben war Schüler in Hamburg.",
+       "de": "Ben war Schüler in Madrid.",
        "en": "Ben was a pupil in Hamburg."
       },
       {
-       "de": "Mira war Schülerin in Berlin.",
+       "de": "Mira war Schülerin in Hamburg.",
        "en": "Mira was a pupil in Berlin."
       }
      ],
@@ -2910,7 +2910,7 @@
       "konnten",
       "konntest"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Mira is er/sie/es: the same as ich.",
      "explanation": "Mira konnte gut rechnen.",
      "grammar": true
@@ -2964,7 +2964,7 @@
       "Wir durften im Unterricht nicht essen.",
       "Wir im Unterricht durften nicht essen."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Modal in part 2, infinitive last.",
      "explanation": "Wir + durften + im Unterricht + nicht + essen.",
      "grammar": true
@@ -2987,7 +2987,7 @@
       "Ich konnte nicht essen.",
       "Ich musste nicht essen."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Which modal means allowed to?",
      "explanation": "Ich durfte nicht essen = it was forbidden.",
      "grammar": true
@@ -3032,7 +3032,7 @@
       "biology",
       "history"
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Erde = earth.",
      "explanation": "Erdkunde is geography."
     }
@@ -4641,7 +4641,7 @@
       "mochte",
       "mochten"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Mira is er/sie/es: the same as ich.",
      "explanation": "Mira mochte Kunst.",
      "grammar": true
@@ -4699,7 +4699,7 @@
       "Wir waren müde, weil wir lernen mussten.",
       "Wir waren müde, weil wir mussten lernen."
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "After weil the modal is last.",
      "explanation": "weil + wir + lernen + mussten.",
      "grammar": true
@@ -4747,7 +4747,7 @@
       "a prank",
       "a test"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "Think of a joke you play on someone.",
      "explanation": "Der Streich is a prank."
     },
@@ -4769,7 +4769,7 @@
       "strict",
       "funny"
      ],
-     "answer": 2,
+     "answer": 1,
      "hint": "A strict teacher gives many rules.",
      "explanation": "Streng means strict."
     }
@@ -9258,7 +9258,7 @@
     },
     {
      "title": "Three steps: who gets it?",
-     "body": "When you are unsure, ask three questions. Who gets it? That is the dative person. What is it? That is the accusative thing. Then say it: person first, then the thing. In Germany, the Ranzen is the school bag of a primary school child. Later you carry a Schultasche.",
+     "body": "When you are unsure, ask three questions. Who gets it? That is the dative person. What is it? That is the accusative thing. Then say it: person first, then the thing.",
      "examples": [
       {
        "de": "Ich leihe meiner Freundin mein Lineal.",
@@ -11187,7 +11187,7 @@
     },
     {
      "type": "type",
-     "prompt": "Wir warten in ___ Aula. (Wohin? article)",
+     "prompt": "Wir warten in ___ Aula. (Wo? article)",
      "answers": [
       "der"
      ],
@@ -14533,7 +14533,7 @@
       "Früher muss man eine Schuluniform tragen.",
       "Früher musste man eine Schuluniform getragen."
      ],
-     "answer": 1,
+     "answer": 0,
      "hint": "Früher needs the past modal.",
      "explanation": "Früher musste man eine Schuluniform tragen.",
      "grammar": true
@@ -15048,7 +15048,7 @@
        "do homework",
        "eat"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for wollte.",
       "explanation": "Ich wollte immer auf dem Schulhof spielen."
      },
@@ -15060,7 +15060,7 @@
        "calculate",
        "paint"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for In Mathe.",
       "explanation": "In Mathe konnte ich gut rechnen."
      },
@@ -15084,7 +15084,7 @@
        "funny",
        "small"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for Unsere Lehrerin war.",
       "explanation": "Unsere Lehrerin war streng."
      },
@@ -15096,7 +15096,7 @@
        "talk",
        "write"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Look for durften nicht.",
       "explanation": "Wir durften im Unterricht nicht essen."
      },
@@ -15108,7 +15108,7 @@
        "history",
        "art"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Look for Lieblingsfach.",
       "explanation": "Mein Lieblingsfach war Geschichte."
      },
@@ -15138,7 +15138,7 @@
        "maths",
        "art"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for Ich mochte.",
       "explanation": "Ich mochte Sport."
      },
@@ -15162,7 +15162,7 @@
        "strict",
        "funny"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for Unser Lehrer war.",
       "explanation": "Unser Lehrer war sehr streng."
      },
@@ -15186,7 +15186,7 @@
        "history",
        "art"
       ],
-      "answer": 1,
+      "answer": 0,
       "hint": "Listen for Lieblingsfach.",
       "explanation": "Erdkunde!"
      },
@@ -15210,7 +15210,7 @@
        "chemistry",
        "biology"
       ],
-      "answer": 2,
+      "answer": 1,
       "hint": "Listen for Klassenarbeit.",
       "explanation": "Wir hatten eine Klassenarbeit in Chemie."
      },
@@ -15400,7 +15400,7 @@
    "day": 2,
    "reading": {
     "title": "Von der Schule in die Lehre",
-    "text": "Ich heiße Ben. In der Grundschule war ich gern in der Klasse. Ich habe das Abitur gemacht, und ich bin nie sitzengeblieben. Nach der Schule wollte ich nicht studieren. In den Ferien habe ich einen Ferienjob im Restaurant gemacht. Der Chef war Herr Ali. Das war toll! Mein Bruder hat auch einen Ferienjob gemacht, und wir haben oft zusammen gearbeitet. Ich habe mit meinem Chef gesprochen, und er hat mir viel gezeigt. Danach habe ich bei meiner Tante in Wien gewohnt und eine Lehre als Koch gemacht. Vor einem Jahr habe ich die Lehre abgeschlossen. Ich musste viel lernen, aber das war gut, weil ich gern kochen wollte.",
+    "text": "Ich heiße Ben. In der Grundschule war ich gern in der Klasse. Ich habe das Abitur gemacht, und ich bin nie sitzengeblieben. Nach der Schule wollte ich nicht studieren. In den Ferien habe ich einen Ferienjob im Restaurant gemacht. Der Chef war Herr Ali. Das war toll! Meine Schwester hat auch einen Ferienjob gemacht, und wir haben oft zusammen gearbeitet. Ich habe mit meinem Chef gesprochen, und er hat mir viel gezeigt. Danach habe ich bei meiner Tante in Wien gewohnt und eine Lehre als Koch gemacht. Vor einem Jahr habe ich die Lehre abgeschlossen. Ich musste viel lernen, aber das war gut, weil ich gern kochen wollte.",
     "glossary": [
      {
       "de": "Wien",
@@ -15828,7 +15828,7 @@
    "day": 3,
    "reading": {
     "title": "Das Schulprojekt",
-    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Anna schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man eine Schuluniform tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man keine Schuluniform tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße\nAnna",
+    "text": "Hallo! Wir sind die Klasse 8b, und das ist unser Schulprojekt. Lena schreibt den Text, und Frau Weber ist unsere Lehrerin. Unsere Schule hat einen Computerraum, eine Aula, eine Schwimmhalle und einen Sportplatz. Am Schwarzen Brett steht ein Zettel: Heute um vier Uhr ist ein Treffen in der Aula. Früher durften wir nicht auf den Sportplatz gehen. Jetzt dürfen wir dort spielen. Früher musste man eine Schuluniform tragen. Wir waren dagegen, weil wir unsere Kleidung mögen. Heute muss man keine Schuluniform tragen. Der Schulbus fährt um sieben Uhr. Der Fahrradständer ist neben dem Eingang. Wir haben auch ein Labor. Wie findest du unsere Schule? Viele Grüße\nLena",
     "glossary": [
      {
       "de": "Zettel",
@@ -15872,10 +15872,10 @@
       "type": "type",
       "prompt": "Who writes the text? (a name)",
       "answers": [
-       "Anna"
+       "Lena"
       ],
       "hint": "Look at the second sentence.",
-      "explanation": "Anna schreibt den Text."
+      "explanation": "Lena schreibt den Text."
      },
      {
       "type": "choice",
@@ -16198,7 +16198,7 @@
      },
      {
       "type": "type",
-      "prompt": "Ich gehe auf ___ Gymnasium. (this)",
+      "prompt": "Ich gehe auf ___ Gymnasium. (the)",
       "answers": [
        "das"
       ],

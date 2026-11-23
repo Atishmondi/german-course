@@ -205,8 +205,8 @@
      "body": "Most introductions answer four questions: name, origin, home and work. Each one has a sentence frame from chapter 1. Fill in the dots and you can introduce anyone, yourself included.",
      "examples": [
       {
-       "de": "Ben kommt aus Österreich.",
-       "en": "Ben comes from Austria.",
+       "de": "Ben kommt aus Spanien.",
+       "en": "Ben comes from Spain.",
        "why": "Origin: komme aus becomes kommt for Ben.",
        "parts": [
         [
@@ -218,18 +218,18 @@
          "verb"
         ],
         [
-         "aus Österreich.",
+         "aus Spanien.",
          "place"
         ]
        ]
       },
       {
-       "de": "Anna arbeitet als Lehrerin.",
-       "en": "Anna works as a teacher.",
+       "de": "Frau Weber arbeitet als Lehrerin.",
+       "en": "Frau Weber works as a teacher.",
        "why": "Job: arbeiten als.",
        "parts": [
         [
-         "Anna",
+         "Frau Weber",
          "subject"
         ],
         [
@@ -1025,7 +1025,7 @@
     },
     {
      "type": "choice",
-     "prompt": "In In meiner Freizeit spiele ich Gitarre., which word is the verb?",
+     "prompt": "In the sentence \"In meiner Freizeit spiele ich Gitarre.\", which word is the verb?",
      "options": [
       "ich",
       "spiele",
@@ -5000,7 +5000,7 @@
     },
     {
      "title": "Mixed verbs: gedacht, gewusst, gebracht, gekannt",
-     "body": "Mixed verbs change the stem and end in -t: denken - gedacht, wissen - gewusst, bringen - gebracht, kennen - gekannt. A separable prefix goes in front of ge: mitbringen - mitgebracht. Only these few verbs are mixed, so you can learn them quickly.",
+     "body": "Mixed verbs change the stem and end in -t: denken - gedacht, wissen - gewusst, bringen - gebracht, kennen - gekannt. A separable prefix goes in front of ge: mitbringen - mitgebracht. Only a few verbs are mixed, so you can learn them quickly.",
      "examples": [
       {
        "de": "Ich habe das nicht gewusst.",
@@ -5053,8 +5053,8 @@
        "why": "mitbringen - mitgebracht: ge goes in the middle."
       },
       {
-       "de": "Wir haben Frau Weber nicht gekannt.",
-       "en": "We did not know Frau Weber.",
+       "de": "Wir haben das Restaurant nicht gekannt.",
+       "en": "We did not know the restaurant.",
        "parts": [
         [
          "Wir",
@@ -5065,11 +5065,11 @@
          "verb"
         ],
         [
-         "Frau",
+         "das",
          "object"
         ],
         [
-         "Weber",
+         "Restaurant",
          "object"
         ],
         [
@@ -8206,7 +8206,7 @@
       },
       {
        "de": "Das ist die Brille von Lukas.",
-       "en": "These are Lukas's glasses.",
+       "en": "This is Lukas's pair of glasses.",
        "parts": [
         [
          "Das",
@@ -8676,7 +8676,7 @@
      ],
      "answer": 1,
      "hint": "The -s goes on the family name, the last word of the owner.",
-     "explanation": "Herr stays, Ali becomes Alis.",
+     "explanation": "Herr becomes Herrn, and Ali becomes Alis.",
      "grammar": true
     },
     {
@@ -13946,30 +13946,18 @@
      "more": "Imagine a normal day. In the morning a Frühstück, at midday the big warm meal, in the evening something light with bread. That is the traditional plan. Restaurants have cheap lunch dishes, so lunch is the best time to eat out. When you pay, you say the total and add a little tip: Stimmt so! means keep the change. If you are invited to a party at a flat, people often bring something: Wir haben was mitgebracht.",
      "lead": "To end this lesson, a short look at habits. This card tells you when Germans eat, how much they tip and what you do when you are invited, so you know what to expect.",
      "deeper": {
-      "text": "At a party in a flat people often bring a dish or a drink. Mira says Wir haben Salat mitgebracht, because bringing something is polite. Mitbringen is a separable verb: Ich bringe einen Salat mit. Nobody expects something expensive: flowers or a bottle are typical for a first visit, and you take your shoes off at the door.",
+      "text": "In Germany you normally pay at the table, not at a till. The waiter says the total, for example Das macht vierundzwanzig Euro, and you say the amount you want to pay, tip included. Stimmt so! means keep the change. Do not leave coins on the table. It is polite to add Danke schön when you hand over the money.",
       "example": {
-       "de": "Ich bringe einen Salat mit.",
-       "en": "I bring a salad.",
+       "de": "Stimmt so!",
+       "en": "Keep the change!",
        "parts": [
         [
-         "Ich",
-         "subject"
-        ],
-        [
-         "bringe",
+         "Stimmt",
          "verb"
         ],
         [
-         "einen",
-         "article"
-        ],
-        [
-         "Salat",
-         "noun"
-        ],
-        [
-         "mit.",
-         "verb2"
+         "so!",
+         "other"
         ]
        ]
       }
@@ -14191,7 +14179,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Complete: Das ist Herr ___ Restaurant.",
+     "prompt": "Complete: Das ist Herrn ___ Restaurant.",
      "options": [
       "Ali",
       "Ali's",
@@ -14482,7 +14470,7 @@
    "day": 1,
    "reading": {
     "title": "Das bin ich",
-    "text": "Hallo! Ich heiße Mira und komme aus Hamburg. Ich bin 24 Jahre alt. Jetzt wohne ich in Berlin. Meine WG ist toll: Ben, Leon, Anna und ich wohnen zusammen. Ich studiere Musik, und in meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Ben geht oft mit mir, aber Leon geht nie. Ben ist übrigens sehr nett. Meistens koche ich am Sonntag für die WG. Neulich haben wir einen Ausflug geplant. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht. Das war ein Erlebnis! Und du? Was machst du gern?",
+    "text": "Hallo! Ich heiße Mira und komme aus Hamburg. Ich bin 20 Jahre alt. Jetzt wohne ich in Berlin. Meine WG ist toll: Ben, Leon, Anna und ich wohnen zusammen. Ich studiere Musik, und in meiner Freizeit spiele ich gern Gitarre. Ich koche gern, aber ich backe lieber. Am liebsten gehe ich ins Schwimmbad. Ben geht oft mit mir, aber Leon geht nie. Ben ist übrigens sehr nett. Meistens koche ich am Sonntag für die WG. Neulich haben wir einen Ausflug geplant. Am Samstag habe ich mit Anna gegrillt, und wir haben viel gelacht. Das war ein Erlebnis! Und du? Was machst du gern?",
     "glossary": [
      {
       "de": "WG",
@@ -14621,7 +14609,7 @@
    },
    "listening": {
     "title": "Nach der Party",
-    "script": "Anna: Hallo, Leon! Wie war die Party gestern?\nLeon: Super! Ich habe einen neuen Nachbarn kennengelernt.\nAnna: Echt? Wie heißt er?\nLeon: Er heißt Herr Ali. Er kommt aus Österreich. Er hat ein Restaurant.\nAnna: Wirklich? Das finde ich toll! Was macht er gern?\nLeon: Er kocht gern, aber am liebsten fährt er Rad.\nAnna: Was habt ihr dann gemacht?\nLeon: Wir haben gegrillt und viel gelacht. Er hat auch gefragt: „Und du?“\nAnna: Und was hast du geantwortet?\nLeon: Ich habe geantwortet: Ich studiere Informatik und ich spiele gern Tennis.",
+    "script": "Anna: Hallo, Leon! Wie war die Party gestern?\nLeon: Super! Ich habe einen neuen Nachbarn kennengelernt.\nAnna: Echt? Wie heißt er?\nLeon: Er heißt Tom. Er kommt aus Österreich. Er hat ein Restaurant.\nAnna: Wirklich? Das finde ich toll! Was macht er gern?\nLeon: Er kocht gern, aber am liebsten fährt er Rad.\nAnna: Was habt ihr dann gemacht?\nLeon: Wir haben gegrillt und viel gelacht. Er hat auch gefragt: „Und du?“\nAnna: Und was hast du geantwortet?\nLeon: Ich habe geantwortet: Ich studiere Informatik und ich spiele gern Tennis.",
     "questions": [
      {
       "type": "choice",
@@ -14649,7 +14637,7 @@
      },
      {
       "type": "choice",
-      "prompt": "Where does Herr Ali come from?",
+      "prompt": "Where does Tom come from?",
       "options": [
        "Austria",
        "Italy",
@@ -14661,7 +14649,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali have?",
+      "prompt": "What does Tom have?",
       "options": [
        "a gym",
        "a restaurant",
@@ -14673,7 +14661,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What does Herr Ali like to do?",
+      "prompt": "What does Tom like to do?",
       "options": [
        "bake",
        "swim",
@@ -14697,7 +14685,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Leon and Herr Ali do together?",
+      "prompt": "What did Leon and Tom do together?",
       "options": [
        "They played tennis.",
        "They went to the cinema.",
@@ -14709,7 +14697,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Herr Ali ask Leon?",
+      "prompt": "What did Tom ask Leon?",
       "options": [
        "Wie heißt du?",
        "Wo wohnst du?",
@@ -15325,7 +15313,7 @@
    "day": 3,
    "reading": {
     "title": "Zum Löwen: die Homepage und Miras Abend",
-    "text": "Herrn Alis Restaurant heißt „Zum Löwen“. Wir sind von Dienstag bis Sonntag von 11 bis 22 Uhr geöffnet. Das Tagesgericht kostet mittags nur sieben Euro. Alle Gerichte gibt es auch vegetarisch. Am Freitag und am Samstag bitte reservieren, weil wir viele Gäste haben. Mira schreibt: Ich war am Freitag mit Ben und Anna im Löwen. Ich habe einen Tisch für drei Personen reserviert. Wir haben Suppe und Fisch gegessen. Anna hat den Fisch genommen, weil sie gern Fisch isst. Die Bedienung war freundlich. Das Essen war lecker, und ich war zufrieden, weil der Preis gut war. Ben hat das Tagesgericht genommen, weil das günstig ist. Um 22 Uhr sind wir nach Hause gegangen.",
+    "text": "Herrn Alis Restaurant heißt „Zum Löwen“. Wir sind von Dienstag bis Sonntag von 11 bis 22 Uhr geöffnet. Das Tagesgericht kostet mittags nur sieben Euro. Alle Gerichte gibt es auch vegetarisch. Am Freitag und am Samstag bitte reservieren, weil wir viele Gäste haben. Mira schreibt: Ich war am Freitag mit Ben und Anna im Restaurant „Zum Löwen“. Ich habe einen Tisch für drei Personen reserviert. Wir haben Suppe und Fisch gegessen. Anna hat den Fisch genommen, weil sie gern Fisch isst. Die Bedienung war freundlich. Das Essen war lecker, und ich war zufrieden, weil der Preis gut war. Ben hat das Tagesgericht genommen, weil das günstig ist. Um 22 Uhr sind wir nach Hause gegangen.",
     "glossary": [
      {
       "de": "Löwen",
