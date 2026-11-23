@@ -2963,7 +2963,7 @@
     },
     {
      "type": "choice",
-     "prompt": "What do you call a score of 1:3?",
+     "prompt": "Your team scores 1 goal, the other team scores 3. What is that?",
      "options": [
       "ein Sieg",
       "ein Unentschieden",
@@ -3609,11 +3609,11 @@
      "deeper": {
       "text": "Hoffentlich replaces the whole beginning Ich hoffe, dass, so the verb comes right after it, like after deshalb. You can also answer a question with it alone: Gewinnt Mira? – Hoffentlich! And the opposite is Hoffentlich nicht! The chunk Ich drücke dir die Daumen is literal: I press the thumbs for you. Dir is the person who gets the good wish.",
       "example": {
-       "de": "Gewinnt Mira? – Hoffentlich nicht!",
-       "en": "Does Mira win? – Hopefully not!",
+       "de": "Verliert Mira? – Hoffentlich nicht!",
+       "en": "Does Mira lose? – Hopefully not!",
        "parts": [
         [
-         "Gewinnt",
+         "Verliert",
          "verb"
         ],
         [
@@ -4241,7 +4241,7 @@
        ]
       }
      },
-     "more": "A story is a line of events, like beads on a string. Each sentence starts with a signal word: zuerst, dann, plötzlich, trotzdem, am Ende. After the signal comes the verb, then the person. Say the story out loud with your own sport and change the person: Mira, Leon, Anna. Keep the order of the signal words, because they are the string. Notice that trotzdem and aber live in the same sentence: erschöpft, aber stolz.",
+     "more": "A story is a line of events, like beads on a string. Each sentence starts with a signal word: zuerst, dann, plötzlich, trotzdem, am Ende. After the signal comes the verb, then the person. Say the story out loud with your own sport and change the person: Mira, Leon, Anna. Keep the order of the signal words, because they are the string. Notice the aber in the last sentence: erschöpft, aber stolz.",
      "steps": [
       "Zuerst: how it started",
       "Dann / Plötzlich: what changed",
@@ -8462,7 +8462,7 @@
       }
      ],
      "deeper": {
-      "text": "Chunks have a tone. Ich bin ganz deiner Meinung is a polite agreement, and Das sehe ich anders is a polite disagreement: Germans are direct, but they stay friendly. You can soften it: Das sehe ich ein bisschen anders. And for a quick agreement natives say Genau! or Finde ich auch. After Schade, dass the verb goes to the end, as in lesson 3.",
+      "text": "Chunks have a tone. Ich bin ganz deiner Meinung is a polite agreement, and Das sehe ich anders is a polite disagreement: Germans are often direct, but they stay friendly. You can soften it: Das sehe ich ein bisschen anders. And for a quick agreement natives say Genau! or Finde ich auch. After Schade, dass the verb goes to the end, as in lesson 3.",
       "example": {
        "de": "Das sehe ich ein bisschen anders.",
        "en": "I see that a bit differently.",
@@ -8623,7 +8623,7 @@
       }
      ],
      "deeper": {
-      "text": "Jemand means somebody and takes a singular verb: Hat jemand, not Haben jemand. The opposite is niemand, nobody: Niemand hat noch eine Karte. Answers in a thread stay short and often use pronouns, because everybody knows what the thing is: Ja, ich leihe ihn dir. You do not repeat the noun, and the order stays thing first, person second.",
+      "text": "Jemand means somebody and takes a singular verb: Hat jemand, not Haben jemand. The opposite is niemand, nobody: Niemand hat noch eine Karte. Answers in a thread stay short and often use pronouns, because everybody knows what the thing is: Ja, ich gebe sie dir. You do not repeat the noun, and the order stays thing first, person second.",
       "example": {
        "de": "Niemand hat noch eine Karte.",
        "en": "Nobody has a ticket left.",
@@ -8647,7 +8647,7 @@
        ]
       }
      },
-     "more": "A thread is like a conversation across a big table. One person asks, another answers. The easiest answer begins with Ja and then repeats the verb of the question. Add a small word for the thing and a small word for the person. Take Hat jemand noch eine Karte? and answer: Ja, ich kann sie dir geben. The question has a noun, the answer has two pronouns. Practise with three different things from the bag.",
+     "more": "A thread is like a conversation across a big table. One person asks, another answers. The easiest answer begins with Ja and then answers the question directly. Add a small word for the thing and a small word for the person. Take Hat jemand noch eine Karte? and answer: Ja, ich kann sie dir geben. The question has a noun, the answer has two pronouns. Practise with three different things from the bag.",
      "table": {
       "headers": [
        "Question",
@@ -8757,7 +8757,7 @@
       }
      ],
      "deeper": {
-      "text": "In a forum, everybody uses du and ihr, even strangers. That is normal. But stay polite: no insults, no angry words, and only one idea per sentence. A good comment is short and friendly. You can end with a wish to the whole team: Ihr seid super! Wir schaffen das! The word euch is the pronoun for the team.",
+      "text": "In most fan forums people use du and ihr, even with strangers. That is normal. But stay polite: no insults, no angry words, and only one idea per sentence. A good comment is short and friendly. You can end with a wish to the whole team: Ihr seid super! Wir schaffen das! The word euch is the pronoun for the team.",
       "example": {
        "de": "Ihr seid super!",
        "en": "You are great!",
@@ -11240,7 +11240,7 @@
       }
      ],
      "deeper": {
-      "text": "Skimming is not slow reading. Your eyes run over the text and look for names, numbers, places and times. In German this is easier than in English, because every noun starts with a capital letter, so people and things jump out of the line. The first paragraph often answers most W-questions. Do not translate: ask Wer? Was? Wann? Wo? in your head.",
+      "text": "Skimming is not slow reading. Your eyes run over the text and look for names, numbers, places and times. German helps here, because every noun starts with a capital letter, so people and things jump out of the line. The first paragraph often answers most W-questions. Do not translate: ask Wer? Was? Wann? Wo? in your head.",
       "example": {
        "de": "Wo ist der Lauf? In Hamburg.",
        "en": "Where is the run? In Hamburg.",
@@ -12182,7 +12182,7 @@
       "Siegerin"
      ],
      "hint": "Sieger → Sieger…",
-     "explanation": "Die Stadtlaufsiegerin hat gewonnen.",
+     "explanation": "Die Siegerin hat gewonnen.",
      "grammar": true
     },
     {
@@ -12998,7 +12998,7 @@
       }
      ],
      "deeper": {
-      "text": "Sein or haben? Use sein when someone moves from one place to another or changes: ist gefahren, ist gelaufen, ist angekommen. Three verbs are special and always take sein: sein, bleiben and werden (ist geblieben). For all other verbs use haben: hat geschlafen, hat geregnet, hat gewonnen. You know this from the Perfekt. Check it again when you write.",
+      "text": "Sein or haben? Use sein when someone moves from one place to another or changes: ist gefahren, ist gelaufen, ist angekommen. Three more verbs also take sein: sein, bleiben and werden (ist geblieben). Most other verbs take haben: hat geschlafen, hat geregnet, hat gewonnen. You know this from the Perfekt. Check it again when you write.",
       "example": {
        "de": "Am Ende sind wir glücklich angekommen.",
        "en": "In the end we arrived happily.",
@@ -13280,7 +13280,7 @@
     },
     {
      "title": "Culture: die Halle am Kanal",
-     "body": "The Halle am Kanal is a place made up for this course. It is an old factory (die Fabrik) by the canal (der Kanal). Today it has die Kletterhalle, die Sporthalle for the club „SV Kanalufer“ and the boats of a rowing club. Frau Weber was a good Ruderin when she was young.",
+     "body": "The Halle am Kanal is a place made up for this course. It is an old factory (die Fabrik) by the canal (der Kanal). Today it has die Kletterhalle, die Sporthalle for der Verein „SV Kanalufer“ and the boats of a rowing club. Frau Weber was a good Ruderin when she was young.",
      "lead": "A trip to a race often ends at a place of its own. Here is a place for sport that fits this chapter. You read about it in simple sentences.",
      "examples": [
       {
@@ -13383,7 +13383,7 @@
       }
      ],
      "deeper": {
-      "text": "In die Kletterhalle you find die Kletterwand and das Seil. On the canal there are Boote, and people can rudern. Früher means in the past and goes with war: Die Halle war früher eine Fabrik. Old factory halls are often reused today, because they have a lot of space, high ceilings and a good location by the water.",
+      "text": "In der Kletterhalle you find die Kletterwand and das Seil. On the canal there are Boote, and people can rudern. Früher means in the past and goes with war: Die Halle war früher eine Fabrik. Old factory halls are often reused today, because they have a lot of space, high ceilings and a good location by the water.",
       "example": {
        "de": "Man kann auf dem Kanal rudern.",
        "en": "You can row on the canal.",
@@ -13424,11 +13424,11 @@
        ],
        [
         "die Sporthalle",
-        "the club „SV Kanalufer“"
+        "der Verein „SV Kanalufer“"
        ],
        [
         "der Kanal",
-        "Boote, the Ruderverein"
+        "die Boote, der Ruderverein (rowing club)"
        ]
       ]
      },
@@ -14400,12 +14400,12 @@
        "trotzdem"
       ],
       "hint": "She was hurt, but she kept playing.",
-      "explanation": "Trotzdem habe ich nach der Halbzeit weitergemacht.",
+      "explanation": "Trotzdem habe ich nach der Pause weitergemacht.",
       "grammar": true
      },
      {
       "type": "choice",
-      "prompt": "What does Anna do for the final?",
+      "prompt": "What does Anna do for the next game?",
       "options": [
        "She buys a cup.",
        "She plays.",
@@ -15269,7 +15269,7 @@
    },
    "listening": {
     "title": "Hallo? … Was ist los?",
-    "script": "Frau Weber: Hallo? Anna, sind Sie das? Was ist los? Sie klingen so traurig.\nAnna: Hallo, Frau Weber. Ja, ich bin ein bisschen enttäuscht. Meine Zeit war nicht gut.\nFrau Weber: Aber Sie haben doch am Stadtlauf teilgenommen! Das ist schon eine tolle Leistung.\nAnna: Ich war so nervös, und ich habe schlecht geschlafen.\nFrau Weber: Kopf hoch, Anna! Trotzdem sind Sie ins Ziel gekommen. Nächstes Mal klappt es bestimmt.\nAnna: Vielen Dank, Frau Weber. Das ist nett.\nFrau Weber: Wissen Sie, ich war früher eine gute Ruderin. Auch ich hatte einmal Pech bei einem Wettkampf. Trotzdem habe ich weitergemacht.\nAnna: Ja, Sie haben recht.\nFrau Weber: Kommen Sie heute Abend ins Restaurant „Zum Löwen“! Herr Ali gibt den Läufern ein Getränk. Es ist gratis.\nAnna: Wirklich? Das ist eine schöne Überraschung. Ich komme gern!\nFrau Weber: Super! Bis später, Anna.\nAnna: Bis später, Frau Weber.",
+    "script": "Frau Weber: Hallo? Anna, sind Sie das? Was ist los? Sie klingen so traurig.\nAnna: Hallo, Frau Weber. Ja, ich bin ein bisschen enttäuscht. Meine Zeit war nicht gut.\nFrau Weber: Aber Sie haben doch am Stadtlauf teilgenommen! Das ist schon eine tolle Leistung.\nAnna: Ich war so nervös, und ich habe schlecht geschlafen.\nFrau Weber: Kopf hoch, Anna! Trotzdem sind Sie ins Ziel gekommen. Nächstes Mal klappt es bestimmt.\nAnna: Vielen Dank, Frau Weber. Das ist nett.\nFrau Weber: Wissen Sie, ich war früher eine gute Ruderin. Auch ich hatte einmal Pech bei einem Wettkampf. Trotzdem habe ich weitergemacht.\nAnna: Ja, Sie haben recht.\nFrau Weber: Kommen Sie morgen Abend ins Restaurant „Zum Löwen“! Herr Ali gibt den Läufern ein Getränk. Es ist gratis.\nAnna: Wirklich? Das ist eine schöne Überraschung. Ich komme gern!\nFrau Weber: Super! Bis morgen, Anna.\nAnna: Bis morgen, Frau Weber.",
     "questions": [
      {
       "type": "choice",
@@ -15377,7 +15377,7 @@
       ],
       "answer": 1,
       "hint": "heute Abend",
-      "explanation": "Kommen Sie heute Abend ins Restaurant „Zum Löwen“!"
+      "explanation": "Kommen Sie morgen Abend ins Restaurant „Zum Löwen“!"
      },
      {
       "type": "choice",

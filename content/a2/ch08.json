@@ -54,7 +54,7 @@
      "body": "Ben has an exam in two weeks. He cannot concentrate, he forgets words and he starts too late. In the WG Mira and Anna want to help him. You already give small tips with kannst and könntest. Today you learn the friendliest word for advice: sollte. This whole chapter is about learning: problems, advice, courses and exams.",
      "steps": [
       "You already know: Könntest du …? (from chapter 5), Du kannst den Bus nehmen (an idea for a friend), and modal verbs with the infinitive at the end.",
-      "New today: sollte for advice (Du solltest mehr schlafen), ten words for learning problems, and how it differs from soll.",
+      "New today: sollte for advice (Du solltest mehr schlafen), words for learning problems, and how it differs from soll.",
       "By the end you can: name a learning problem and give a friend one friendly piece of advice."
      ],
      "examples": [
@@ -135,9 +135,9 @@
      "more": "Picture two friends on a sofa. Ben says: I am so tired, I cannot learn. Friend one says Du musst schlafen! That sounds like a parent giving an order. Friend two says Du solltest mehr schlafen. That sounds like a kind tip with a smile. Today you learn to be friend two. Good news: the sentence is built like Du kannst den Bus nehmen. You only swap kannst for solltest, and the second verb still waits at the end."
     },
     {
-     "title": "Ben has a Lernproblem: ten words for learning",
+     "title": "Ben has a Lernproblem: words for learning",
      "body": "Ben studies a lot but nothing sticks. His Konzentration is bad, his Gedächtnis forgets words and he has little Motivation. He puts things off (aufschieben) and has too little Lernzeit. Mira says: look the word up (nachschlagen) and write it in your Vokabelheft. Ask Anna for a Lerntipp, and give Ben a good Ratschlag.",
-     "lead": "Before you can advise someone, you need the problem. This card gives the ten words of the lesson in simple present-tense sentences about Ben's week.",
+     "lead": "Before you can advise someone, you need the problem. This card gives the words of the lesson in simple present-tense sentences about Ben's week.",
      "examples": [
       {
        "de": "Ben kann sich nicht konzentrieren.",
@@ -357,7 +357,7 @@
       }
      ],
      "deeper": {
-      "text": "Careful with English: we say you ought to sleep, with to. German never puts zu after sollte. Du solltest zu schlafen is wrong; the infinitive stands alone at the end, just like after kannst or musst. You can also make the tip softer with vielleicht (maybe) right after the verb. Germans do this a lot when they give advice to someone they do not know well.",
+      "text": "Careful with English: we say you ought to sleep, with to. German never puts zu after sollte. Du solltest zu schlafen is wrong; the infinitive stands alone at the end, just like after kannst or musst. You can also make the tip softer with vielleicht (maybe) right after the verb. This is a common way to soften a tip.",
       "example": {
        "de": "Du solltest vielleicht mehr Wasser trinken.",
        "en": "Maybe you should drink more water.",
@@ -543,7 +543,7 @@
        ]
       }
      },
-     "more": "Sollte is built like a past tense: stem soll + te, then the normal past endings. Ich sollte, du solltest, er sollte. Ich and er look the same, just like ich konnte and er konnte. Now the spelling trap. Könnte gets dots because its past konnte gets an umlaut in the Konjunktiv II. Sollen never gets dots, in no form at all, the same as wollen (wollte). So söllte does not exist. If you see dots on soll-, it is always a mistake.",
+     "more": "Sollte is built like a past tense: stem soll + te, then the normal past endings. Ich sollte, du solltest, er sollte. Ich and er look the same, just like ich konnte and er konnte. Now the spelling trap. Könnte gets dots because können is one of the verbs that take an umlaut in the Konjunktiv II (also dürfte, müsste). Sollen never gets dots, in no form at all, and neither does wollen (wollte). So söllte does not exist. If you see dots on soll-, it is always a mistake.",
      "table": {
       "headers": [
        "",
@@ -673,7 +673,7 @@
       }
      ],
      "deeper": {
-      "text": "The trap is biggest with ich: Ich sollte can be past or advice. Ask two questions. Is there a past time word like gestern? Then it is the past. Am I giving someone a tip for today or the future? Then it is advice. Context decides. In the past the colour is the normal verb colour, not the Konjunktiv II colour.",
+      "text": "The trap is biggest with ich: Ich sollte can be past or advice. Ask two questions. Is there a past time word like gestern? Then it is the past. Am I giving someone a tip for today or the future? Then it is advice. Context decides.",
       "example": {
        "de": "Gestern sollte ich früh schlafen.",
        "en": "Yesterday I was supposed to sleep early.",
@@ -1041,7 +1041,7 @@
       }
      ],
      "deeper": {
-      "text": "Look at Mira's question: Wann lernst du denn? The little word denn adds no new meaning. It makes a question sound interested and friendly, not like a test. Germans use it all the time when they ask about a problem. Without denn, Wann lernst du? can sound a bit cold. Use denn only in questions, never in advice sentences.",
+      "text": "Look at Mira's question: Wann lernst du denn? The little word denn adds no new meaning. It makes a question sound interested and friendly, not like a test. Germans often use it when they ask about a problem. Without denn, Wann lernst du? can sound a bit cold. This little denn belongs to questions, not to advice sentences.",
       "example": {
        "de": "Was ist denn los, Ben?",
        "en": "What's the matter, Ben?",
@@ -1680,7 +1680,7 @@
     },
     {
      "title": "Die Klausur: words for exam time",
-     "body": "Ben has a Klausur in two weeks. He needs a Lernplan and a Zeitplan. Anna suggests a Lerngruppe and Karteikarten. Before the exam he has Prüfungsangst: his Aufregung is big, and Mira has Lampenfieber before every talk. Wiederholung is important, and a Notiz helps. Learn these ten words with their articles.",
+     "body": "Ben has a Klausur in two weeks. He needs a Lernplan and a Zeitplan. Anna suggests a Lerngruppe and Karteikarten. Before the exam he has Prüfungsangst: his Aufregung is big, and Mira has Lampenfieber before every talk. Wiederholung is important, and a Notiz helps. Learn these nine words with their articles.",
      "lead": "Ben's exam is the topic of this chapter. First you need the vocabulary around it, in short present-tense sentences you can already read.",
      "examples": [
       {
@@ -2504,7 +2504,7 @@
       },
       {
        "de": "Du solltest lieber früh schlafen.",
-       "en": "You had better go to bed early.",
+       "en": "You should rather go to bed early.",
        "parts": [
         [
          "Du",
@@ -4354,7 +4354,7 @@
       }
      ],
      "deeper": {
-      "text": "Am besten is the top step of gut, besser, am besten. So Am besten lernst du morgens literally says: you learn best in the morning. Germans use it all the time instead of sollte, because it sounds like shared experience, not a lecture. Am besten takes position 1, so the verb comes next and the subject follows it.",
+      "text": "Am besten is the top step of gut, besser, am besten. So Am besten lernst du morgens literally says: you learn best in the morning. People often use it instead of sollte, because it sounds like shared experience, not a lecture. Am besten takes position 1, so the verb comes next and the subject follows it.",
       "example": {
        "de": "Am besten fragst du Frau Weber.",
        "en": "It's best to ask Frau Weber.",
@@ -5277,7 +5277,7 @@
       }
      ],
      "deeper": {
-      "text": "In writing, Was für ein stays together. In speech, Germans very often split it: Was ist das für ein Kurs? Was für moves to the front, the verb comes second, and für ein + noun goes behind das. Both versions mean the same and both are correct. You will hear the split one in every course office, so learn to recognise it now.",
+      "text": "Was für ein usually stays together. Especially in speech, Germans also split it: Was ist das für ein Kurs? Was für moves to the front, the verb comes second, and für ein + noun goes behind das. Both versions mean the same and both are correct. You will hear the split one in every course office, so learn to recognise it now.",
       "example": {
        "de": "Was ist das für ein Kurs?",
        "en": "What kind of course is that?",
@@ -5889,7 +5889,7 @@
      ],
      "answer": 2,
      "hint": "The verb is ist: is Kurs the subject?",
-     "explanation": "After ist the noun is nominative: Was für ein Kurs ist das?",
+     "explanation": "With ist the noun is nominative: Was für ein Kurs ist das?",
      "grammar": true
     },
     {
@@ -6938,7 +6938,7 @@
     },
     {
      "title": "The whole Was-für table",
-     "body": "Here is everything in one table. In the nominative and accusative only the der-word changes: ein Kurs, einen Kurs. In the dative all three words differ: einem, einer, einem. Plural nouns never take ein. The dative row almost always comes with a preposition, such as in, bei or mit.",
+     "body": "Here is everything in one table. In the nominative and accusative only the der-word changes: ein Kurs, einen Kurs. In the dative the die-word gets einer, while der-words and das-words both get einem. Plural nouns never take ein. The dative row almost always comes with a preposition, such as in, bei or mit.",
      "lead": "You now know three cases of Was für. This card is a summary: it puts nominative, accusative and dative into one table so you can see the pattern and check yourself.",
      "examples": [
       {
@@ -7016,7 +7016,7 @@
       }
      ],
      "deeper": {
-      "text": "In the plural there is no ein, so the question is just was für + noun: Mit was für Kollegen arbeitest du? The dative plural still leaves a trace: the noun gets an extra -n if it does not already end in -n, as in mit Kindern, mit Freunden. Kollegen already ends in -n, so nothing changes there. Answer the same way: Mit netten Kollegen.",
+      "text": "In the plural there is no ein, so the question is just was für + noun: Mit was für Kollegen arbeitest du? The dative plural still leaves a trace: the noun usually gets an extra -n if it does not already end in -n, as in mit Kindern, mit Freunden. Kollegen already ends in -n, so nothing changes there. (Plurals in -s, like mit Autos, stay as they are.) Answer the same way: Mit netten Kollegen.",
       "example": {
        "de": "Mit was für Kollegen arbeitest du?",
        "en": "What kind of colleagues do you work with?",
@@ -8599,7 +8599,7 @@
       }
      ],
      "deeper": {
-      "text": "English and German differ here. English says I have had a restaurant since 2010, with a past form. German simply uses the present: Seit 2010 habe ich ein Restaurant. The thing is still true, so German stays in the present. A very common mistake is Seit 2010 habe ich ein Restaurant gehabt; that would sound as if it were over. Same with learning: Ich lerne seit zwei Jahren Deutsch.",
+      "text": "English and German differ here. English says I have had a restaurant since 2010, with a past form. German simply uses the present: Seit 2010 habe ich ein Restaurant. The thing is still true, so German stays in the present. Learners sometimes say Seit 2010 habe ich ein Restaurant gehabt, but that is not natural: the Perfekt would sound as if it were over. Same with learning: Ich lerne seit zwei Jahren Deutsch.",
       "example": {
        "de": "Ich lerne seit zwei Jahren Deutsch.",
        "en": "I have been learning German for two years.",
@@ -9666,8 +9666,8 @@
        "why": "New today: a neighbourhood help club."
       },
       {
-       "de": "Der Hund von Frau Weber ist lieb.",
-       "en": "Frau Weber's dog is sweet.",
+       "de": "Der Hund von der Nachbarin ist lieb.",
+       "en": "The neighbour's dog is sweet.",
        "parts": [
         [
          "Der",
@@ -9682,7 +9682,11 @@
          "preposition"
         ],
         [
-         "Frau Weber",
+         "der",
+         "article"
+        ],
+        [
+         "Nachbarin",
          "noun"
         ],
         [
@@ -10082,11 +10086,11 @@
        ]
       },
       {
-       "de": "Herr Ali gibt dem Hund Wasser.",
-       "en": "Herr Ali gives the dog water. (gibt: p, Hund: t)",
+       "de": "Leon gibt dem Hund Wasser.",
+       "en": "Leon gives the dog water. (gibt: p, Hund: t)",
        "parts": [
         [
-         "Herr Ali",
+         "Leon",
          "subject"
         ],
         [
@@ -10402,8 +10406,8 @@
        ]
       },
       {
-       "de": "Am Abend geht Frau Weber mit dem Hund den Weg zum Treffpunkt.",
-       "en": "In the evening Frau Weber walks the dog along the way to the meeting point.",
+       "de": "Am Abend geht Anna mit dem Hund den Weg zum Treffpunkt.",
+       "en": "In the evening Anna walks the dog along the way to the meeting point.",
        "parts": [
         [
          "Am Abend",
@@ -10414,7 +10418,7 @@
          "verb"
         ],
         [
-         "Frau Weber",
+         "Anna",
          "subject"
         ],
         [
@@ -10449,10 +10453,10 @@
       }
      ],
      "deeper": {
-      "text": "For walking a dog, Germans rarely say den Hund ausführen. In everyday speech they say mit dem Hund Gassi gehen or mit dem Hund rausgehen. Gassi gehen is a fixed phrase only for dogs, and Gassi never changes. On the club notice you might read: Gassi gehen für Rentner, and that is a very typical Hilfsangebot. Listen again for the hard d in Hund.",
+      "text": "For walking a dog, den Hund ausführen is correct, but in everyday speech people more often say mit dem Hund Gassi gehen or mit dem Hund rausgehen. Gassi gehen is a fixed phrase only for dogs, and Gassi never changes. On the club notice you might read: Gassi gehen für Rentner, and that is a very typical Hilfsangebot. Listen again for the hard d in Hund.",
       "example": {
-       "de": "Anna geht mit dem Hund von Frau Weber Gassi.",
-       "en": "Anna takes Frau Weber's dog for a walk.",
+       "de": "Anna geht mit dem Hund von einer Nachbarin Gassi.",
+       "en": "Anna takes a neighbour's dog for a walk.",
        "parts": [
         [
          "Anna",
@@ -10479,12 +10483,12 @@
          "preposition"
         ],
         [
-         "Frau",
-         "other"
+         "einer",
+         "article"
         ],
         [
-         "Weber",
-         "other"
+         "Nachbarin",
+         "noun"
         ],
         [
          "Gassi.",
@@ -10612,7 +10616,7 @@
       }
      ],
      "deeper": {
-      "text": "In many German clubs members say du to each other from the first meeting, even across ages. Frau Weber still says Sie to Anna, because they already know each other as neighbours with Sie, and changing needs an offer: Wollen wir uns duzen? Usually the older person offers it. Until then, both stay with Sie, even in a friendly club.",
+      "text": "In many clubs members say du to each other quickly, even across ages. Frau Weber still says Sie to Anna, because they already know each other as neighbours with Sie, and changing needs an offer: Wollen wir uns duzen? Usually the older person offers it. Until then, both stay with Sie, even in a friendly club.",
       "example": {
        "de": "Wollen wir uns duzen?",
        "en": "Shall we say du to each other?",
@@ -10923,25 +10927,23 @@
     },
     {
      "type": "build",
-     "prompt": "Build: In the evening Frau Weber goes to the meeting point with the dog.",
+     "prompt": "Build: In the evening Anna goes to the meeting point with the dog.",
      "tokens": [
       "Am",
       "dem",
       "mit",
       "zum",
-      "Frau",
+      "Anna",
       "Hund",
       "geht",
       "Abend",
-      "Weber",
       "Treffpunkt."
      ],
      "answer": [
       "Am",
       "Abend",
       "geht",
-      "Frau",
-      "Weber",
+      "Anna",
       "mit",
       "dem",
       "Hund",
@@ -10949,7 +10951,7 @@
       "Treffpunkt."
      ],
      "hint": "Time first, then the verb.",
-     "explanation": "Am Abend geht Frau Weber mit dem Hund zum Treffpunkt.",
+     "explanation": "Am Abend geht Anna mit dem Hund zum Treffpunkt.",
      "grammar": true
     },
     {
@@ -11116,12 +11118,12 @@
    ],
    "speaking": {
     "prompts": [
-     "Read aloud slowly, then fast: Am Abend geht Frau Weber mit dem Hund den Weg zum Treffpunkt.",
+     "Read aloud slowly, then fast: Am Abend geht Anna mit dem Hund den Weg zum Treffpunkt.",
      "Say the pairs and feel the change: Hund – Hunde, Tag – Tage, gelb – gelbe.",
      "Give a new helper two tips with Sie sollten …"
     ],
     "examples": [
-     "Am A-bend [t] geht Frau Weber mit dem Hund [t] den Weg [k] zum Treffpunkt.",
+     "Am A-bend [t] geht Anna mit dem Hund [t] den Weg [k] zum Treffpunkt.",
      "Hund [t] – Hunde [d], Tag [k] – Tage [g], gelb [p] – gelbe [b].",
      "Sie sollten den Aushang lesen. Sie sollten am Montag zum Treffpunkt kommen."
     ]
@@ -11880,7 +11882,7 @@
       }
      ],
      "deeper": {
-      "text": "Why ten minutes a day? Memory works best with many short meetings, spread over days. Two hours on Sunday feel like hard work, but most words are gone by Wednesday. Ten minutes daily keeps the words warm. That is why many adults learn on the bus or with a cup of coffee in the morning. Man sollte jeden Tag ein bisschen üben is the best tip of all.",
+      "text": "Why ten minutes a day? Memory works best with many short meetings, spread over days. Two hours on Sunday feel like hard work, but many words fade by Wednesday. Ten minutes daily keeps the words warm. That is why many adults learn on the bus or with a cup of coffee in the morning. Man sollte jeden Tag ein bisschen üben is the best tip of all.",
       "example": {
        "de": "Mein Tipp: Man sollte Geduld haben.",
        "en": "My tip: one should be patient.",
@@ -13703,7 +13705,7 @@
        ]
       }
      },
-     "more": "The end of a talk is like saying goodbye at the door. One last important sentence: Zum Schluss möchte ich sagen, dass … Then you open the door for questions: Habt ihr Fragen? And you say thank you: Vielen Dank für eure Aufmerksamkeit. If a question comes that you cannot answer, do not panic. Gute Frage! buys you a second, and Das weiß ich leider nicht genau is honest and polite. Germans respect a clear I don't know.",
+     "more": "The end of a talk is like saying goodbye at the door. One last important sentence: Zum Schluss möchte ich sagen, dass … Then you open the door for questions: Habt ihr Fragen? And you say thank you: Vielen Dank für eure Aufmerksamkeit. If a question comes that you cannot answer, do not panic. Gute Frage! buys you a second, and Das weiß ich leider nicht genau is honest and polite. A clear I don't know is fine in a talk.",
      "table": {
       "headers": [
        "Moment",
@@ -15526,12 +15528,12 @@
     "items": [
      {
       "type": "type",
-      "prompt": "Complete: Am Abend geht Frau Weber mit dem ___ spazieren. (dog; you hear a t)",
+      "prompt": "Complete: Am Abend geht Anna mit dem ___ spazieren. (dog; you hear a t)",
       "answers": [
        "Hund"
       ],
       "hint": "The plural is Hunde.",
-      "explanation": "Am Abend geht Frau Weber mit dem Hund spazieren.",
+      "explanation": "Am Abend geht Anna mit dem Hund spazieren.",
       "grammar": true
      },
      {
