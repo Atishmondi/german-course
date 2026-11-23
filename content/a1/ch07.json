@@ -7776,7 +7776,7 @@
       },
       {
        "de": "Das Amt öffnet um acht.",
-       "en": "The office is open at eight."
+       "en": "The office opens at eight."
       }
      ]
     },
@@ -13322,7 +13322,7 @@
      "more": "Small talk is the oil in the office machine: a minute of chat makes the day smoother. Step 1: pick an easy topic: weekend, weather, food. Step 2: ask a short question: Wie war dein Wochenende? Step 3: answer short and friendly and ask back: Und du? Mahlzeit is a funny word: it means meal, and colleagues say it to each other around lunchtime. Extra example: Wie war der Urlaub? – Super, danke! = How was the holiday? – Great, thanks!",
      "lead": "Next: small talk topics in the office kitchen, so you can chat with colleagues about weekends, food and lunch.",
      "deeper": {
-      "text": "A small step into the past: war is the past of ist. So Wie war dein Wochenende? asks how your weekend was, and Das Wetter war schön says the weather was nice. You do not need the whole past tense yet. Just learn war as the was of sein.",
+      "text": "You know war from chapter 6, and Monday small talk is full of it: Wie war dein Wochenende? Das Wetter war schön. Wie war der Urlaub? Answer short and friendly, then ask back with Und du? A chat at the coffee machine rarely lasts more than a minute, and that is completely normal.",
       "example": {
        "de": "Das Wetter war schön.",
        "en": "The weather was nice.",
@@ -15402,7 +15402,7 @@
       },
       {
        "label": "makes a polite request",
-       "pattern": "\\b(kannst du|können sie|koennen sie|könnt ihr) (bitte )?.*\\?"
+       "pattern": "\\b(kannst du|können sie|koennen sie|könnt ihr|koennt ihr) (bitte )?.*\\?"
       },
       {
        "label": "uses bitte",
