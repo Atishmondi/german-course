@@ -3242,7 +3242,8 @@
      "type": "type",
      "prompt": "Write in German: Which scarf do you take?",
      "answers": [
-      "Welchen Schal nimmst du?"
+      "Welchen Schal nimmst du?",
+      "Welchen Schal nehmen Sie?"
      ],
      "hint": "Schal is a der-word and the object.",
      "explanation": "Welchen Schal nimmst du?"
@@ -3251,7 +3252,8 @@
      "type": "type",
      "prompt": "Write in German: I take that one there. (a coat)",
      "answers": [
-      "Ich nehme den da."
+      "Ich nehme den da.",
+      "Ich nehme den dort."
      ],
      "hint": "den da for a der-word.",
      "explanation": "Ich nehme den da."
@@ -4216,7 +4218,7 @@
      "more": "This is the step of shopping where you decide and say which one you take. The verb is nehmen, and you know it from chapter 4: it has the e to i change, like essen. Ich nehme, du nimmst, er nimmt. The thing you take is the object, so diesen is the form for a der-word. If you do not want it, you say nicht, and nicht goes to the end of the sentence, after the object.",
      "lead": "You can describe clothes now. On this card: nehmen with dies- and nicht, so you can say which clothes you take and which you leave in the shop.",
      "deeper": {
-      "text": "Nicht goes at the end when it says no to the whole sentence: Ich nehme dieses Hemd nicht. If you say no to one thing, you can use kein: Ich nehme keinen Gürtel. You know both from chapter 3. A yes/no question puts the verb first: Nimmst du diesen Mantel? You can answer ja or nein.",
+      "text": "Nicht goes at the end when it says no to the whole sentence: Ich nehme dieses Hemd nicht. If you say no to one thing, you can use kein: Ich nehme keinen Gürtel. You know nicht from chapter 3 and keinen from chapter 4. A yes/no question puts the verb first: Nimmst du diesen Mantel? You can answer ja or nein.",
       "example": {
        "de": "Mira nimmt diese Schuhe.",
        "en": "Mira takes these shoes.",
@@ -4844,7 +4846,9 @@
      "type": "type",
      "prompt": "Write in German: Which shirt do you take? This one.",
      "answers": [
-      "Welches Hemd nimmst du? Dieses."
+      "Welches Hemd nimmst du? Dieses.",
+      "Welches Hemd nimmst du? Dieses hier.",
+      "Welches Hemd nehmen Sie? Dieses."
      ],
      "hint": "welches, then dieses.",
      "explanation": "Welches Hemd nimmst du? Dieses."
@@ -5123,7 +5127,7 @@
      "examples": [
       {
        "de": "Kommst du mit mir?",
-       "en": "Do you come with me?",
+       "en": "Are you coming with me?",
        "why": "ich → mir (the accusative would be mich).",
        "parts": [
         [
@@ -6405,9 +6409,10 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Do you come with me?",
+     "prompt": "Write in German: Are you coming with me?",
      "answers": [
-      "Kommst du mit mir?"
+      "Kommst du mit mir?",
+      "Kommen Sie mit mir?"
      ],
      "hint": "mit + dative.",
      "explanation": "Kommst du mit mir?",
@@ -7540,7 +7545,8 @@
     "type": "type",
     "prompt": "Write in German: The skirt pleases her very much.",
     "answers": [
-     "Der Rock gefällt ihr sehr gut."
+     "Der Rock gefällt ihr sehr gut.",
+     "Ihr gefällt der Rock sehr gut."
     ],
     "hint": "Skirt is a der-word.",
     "explanation": "Der Rock gefällt ihr sehr gut.",
@@ -7605,7 +7611,8 @@
      "type": "type",
      "prompt": "Write in German: The shirt pleases him.",
      "answers": [
-      "Das Hemd gefällt ihm."
+      "Das Hemd gefällt ihm.",
+      "Ihm gefällt das Hemd."
      ],
      "hint": "das Hemd + gefällt + the dative.",
      "explanation": "Das Hemd gefällt ihm.",
@@ -7853,7 +7860,8 @@
      "type": "type",
      "prompt": "Write in German: The shoes do not please me.",
      "answers": [
-      "Die Schuhe gefallen mir nicht."
+      "Die Schuhe gefallen mir nicht.",
+      "Mir gefallen die Schuhe nicht."
      ],
      "hint": "Several things.",
      "explanation": "Die Schuhe gefallen mir nicht.",
@@ -7863,7 +7871,8 @@
      "type": "type",
      "prompt": "Write in German: How do you like the sweater, Frau Weber?",
      "answers": [
-      "Wie gefällt Ihnen der Pullover?"
+      "Wie gefällt Ihnen der Pullover?",
+      "Wie gefällt Ihnen der Pullover, Frau Weber?"
      ],
      "hint": "Polite: Ihnen.",
      "explanation": "Wie gefällt Ihnen der Pullover?",
@@ -7873,7 +7882,8 @@
      "type": "type",
      "prompt": "Write in German: This pattern pleases me.",
      "answers": [
-      "Dieses Muster gefällt mir."
+      "Dieses Muster gefällt mir.",
+      "Mir gefällt dieses Muster."
      ],
      "hint": "das Muster → dieses.",
      "explanation": "Dieses Muster gefällt mir.",
@@ -8047,7 +8057,7 @@
       },
       {
        "de": "Der Rock steht ihr sehr gut.",
-       "en": "The skirt suits her very much.",
+       "en": "The skirt suits her really well.",
        "why": "ihr: she, in the dative.",
        "parts": [
         [
@@ -8146,7 +8156,7 @@
       },
       {
        "de": "Rot steht ihr sehr gut.",
-       "en": "Red suits her very much.",
+       "en": "Red suits her really well.",
        "why": "sehr gut at the end, as in lesson 5.",
        "parts": [
         [
@@ -8217,7 +8227,7 @@
       "text": "The colour is the subject here, so the verb is the third-person form: steht. Even when you talk about a colour you cannot see, the verb is steht, never stehen. If you say two colours, the verb changes: Schwarz und Weiß stehen dir gut. Two colours are more than one thing.",
       "example": {
        "de": "Schwarz steht dir sehr gut.",
-       "en": "Black suits you very much.",
+       "en": "Black suits you really well.",
        "parts": [
         [
          "Schwarz",
@@ -8354,10 +8364,10 @@
        ]
       ]
      },
-     "more": "Passen is like gefallen in size: the clothes are the subject, the person is the dative. It answers the question: is it the right size? A bad fit has a reason, and you give it with a second short sentence: zu groß, zu klein, zu eng, sie ist zu lang. A good fit is genau richtig, exactly right. The word locker means loose and is the opposite of eng, tight. Plural things need passen, like gefallen: Die Schuhe passen mir.",
+     "more": "Passen is built like gefallen: the clothes are the subject, the person is the dative. It answers the question: is it the right size? A bad fit has a reason, and you give it with a second short sentence: zu groß, zu klein, zu eng, sie ist zu lang. A good fit is genau richtig, exactly right. The word locker means loose and is the opposite of eng, tight. Plural things need passen, like gefallen: Die Schuhe passen mir.",
      "lead": "You can say that something suits you. Now you say whether it fits. This card shows passen with the person in the dative, and the words for too big and too small.",
      "deeper": {
-      "text": "The little word zu in zu klein is the same word you know from chapter 3: too. It stands in front of the adjective. zu klein means too small, and zu eng means too tight. But zu is also a preposition (zu mir): the meaning comes from the place in the sentence.",
+      "text": "The little word zu in zu klein is the same word you met in lesson 1 (zu warm): too. It stands in front of the adjective. zu klein means too small, and zu eng means too tight. But zu is also a preposition (zu mir): the meaning comes from the place in the sentence.",
       "example": {
        "de": "Die Jacke passt dir genau richtig.",
        "en": "The jacket fits you just right.",
@@ -9184,7 +9194,7 @@
       },
       {
        "de": "Blau steht ihr sehr gut.",
-       "en": "Blue suits her very much."
+       "en": "Blue suits her really well."
       }
      ],
      "forms": "steht, hat gestanden"
@@ -9322,7 +9332,7 @@
    ],
    "speaking": {
     "prompts": [
-     "Tell a friend that the dress suits him or her.",
+     "Tell a friend that the dress suits them.",
      "Say that the trousers do not fit you.",
      "Say that the shoes go with the dress."
     ],
@@ -10129,7 +10139,7 @@
      "more": "Think of a shop dialogue as a small play with fixed lines. The salesperson says: Welche Größe haben Sie? You answer with a number: Ich habe Größe 40. You ask for a colour: Haben Sie das in Blau? If something does not fit you say: zu klein or zu groß. With möchten, anprobieren stays in one piece at the end. Without möchten, the prefix goes to the end: Ich probiere die Hose an.",
      "lead": "You know how to ask for help. On this card you learn the pieces you need inside the shop: sizes, colours, too big or too small, and the changing room.",
      "deeper": {
-      "text": "German sizes are not English sizes. Women often wear 36, 38 or 40, men 48, 50 or 52, and shoes go from about 36 to 46. In the shop people also say Nummer instead of Größe: Ich habe Nummer 40. And many people just say die Kabine for the long word Umkleidekabine.",
+      "text": "German sizes are not English sizes. Women often wear 36, 38 or 40, men 48, 50 or 52, and shoes go from about 36 to 46. For shoes people also say Schuhgröße: Ich habe Schuhgröße 40. And many people just say die Kabine for the long word Umkleidekabine.",
       "example": {
        "de": "Wo ist die Kabine?",
        "en": "Where is the changing room?",
@@ -12501,7 +12511,8 @@
      "type": "type",
      "prompt": "Write in German: Excuse me, where do I find the information desk?",
      "answers": [
-      "Entschuldigung, wo finde ich die Information?"
+      "Entschuldigung, wo finde ich die Information?",
+      "Entschuldigen Sie, wo finde ich die Information?"
      ],
      "hint": "The verb is in part 2, right after wo.",
      "explanation": "Entschuldigung, wo finde ich die Information?",
@@ -12765,7 +12776,7 @@
        [
         "mitbringen",
         "mitgebracht",
-        "chapter 10"
+        "chapter 10, lesson 6"
        ],
        [
         "geben",
@@ -14113,7 +14124,7 @@
    "speaking": {
     "prompts": [
      "Say that you chose and tried on a jacket.",
-     "Ask a friend if the trousers fit.",
+     "Ask a friend if the trousers fitted.",
      "Say that Herr Ali helped you."
     ],
     "examples": [
@@ -14137,7 +14148,8 @@
      "type": "type",
      "prompt": "Write in German: The jacket pleased me.",
      "answers": [
-      "Die Jacke hat mir gefallen."
+      "Die Jacke hat mir gefallen.",
+      "Mir hat die Jacke gefallen."
      ],
      "hint": "mir before the participle.",
      "explanation": "Die Jacke hat mir gefallen.",
@@ -14174,7 +14186,7 @@
    "day": 1,
    "reading": {
     "title": "Eine Jacke für die Party",
-    "text": "Mira und Ben sind in Berlin. Anna und Leon sind auch da. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet ein Verkäufer. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Der Verkäufer sagt: „Das ist Größe 38.“ Mira nimmt diese Jacke hier. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
+    "text": "Mira und Ben sind in Berlin. Anna und Leon sind auch da. Am Samstag hat Anna Geburtstag, und Mira braucht eine Jacke für die Party. Sie gehen ins Kaufhaus. Dort arbeitet ein Verkäufer. Er fragt: „Welche Jacke brauchen Sie?“ Mira sagt: „Diese Jacke ist rot, und diese Jacke ist grün. Welche Größe ist das?“ Der Verkäufer sagt: „Das ist Größe 38.“ Mira nimmt die Jacke in Grün. Sie ist grün und günstig.\nBen trägt immer einen Pullover und eine Hose. Sie sind schwarz. Er sagt: „Ich brauche keinen Mantel, aber ich nehme diesen Schal.“ Der Schal ist auch schwarz. Mira lacht: „Ben, welche Farbe ist das? Schwarz!“",
     "glossary": [
      {
       "de": "Kaufhaus",
@@ -14307,8 +14319,8 @@
     ]
    },
    "listening": {
-    "title": "Mira and Ben choose clothes for Saturday",
-    "script": "Mira: Ben, am Samstag hat Anna Geburtstag. Was trägst du?\nBen: Ich trage einen Pullover und eine Hose. Sie sind schwarz.\nMira: Immer schwarz! Welchen Pullover nimmst du? Diesen hier oder diesen da?\nBen: Ich nehme diesen hier. Er ist sehr bequem.\nMira: Und welche Hose nimmst du? Diese Hose ist zu eng.\nBen: Ja, diese Hose ist zu eng. Ich nehme die da. Sie ist günstig.\nMira: Welche Größe hast du?\nBen: Ich habe Größe 42. Brauchst du auch eine Jacke?\nMira: Ja, ich brauche eine Jacke. Welche Jacke ist günstig?\nBen: Diese Jacke ist günstig, aber diese ist elegant.\nMira: Ich nehme diese Jacke. Sie ist grün.",
+    "title": "Was trägst du am Samstag?",
+    "script": "Mira: Ben, am Samstag hat Anna Geburtstag. Was trägst du?\nBen: Ich trage einen Pullover und eine Hose. Sie sind schwarz.\nMira: Immer schwarz! Welchen Pullover nimmst du? Diesen hier oder diesen da?\nBen: Ich nehme diesen hier. Er ist sehr bequem.\nMira: Und welche Hose nimmst du? Diese Hose ist zu eng.\nBen: Ja, diese Hose ist zu eng. Ich nehme die da. Sie ist günstig.\nMira: Welche Größe hast du?\nBen: Ich habe Größe 50. Brauchst du auch eine Jacke?\nMira: Ja, ich brauche eine Jacke. Welche Jacke ist günstig?\nBen: Diese Jacke ist günstig, aber diese ist elegant.\nMira: Ich nehme diese Jacke. Sie ist grün.",
     "questions": [
      {
       "type": "choice",
@@ -14399,10 +14411,10 @@
       "prompt": "What size does Ben have? (a number)",
       "answers": [
        "42",
-       "Größe 42"
+       "Größe 50"
       ],
       "hint": "Ich habe Größe ...",
-      "explanation": "Ich habe Größe 42."
+      "explanation": "Ich habe Größe 50."
      },
      {
       "type": "choice",
@@ -14980,7 +14992,7 @@
     "free": {
      "prompt": "Write a short message to a friend: say thank you for a present, say what you like about it, and give a compliment (Das ... steht dir gut).",
      "minWords": 20,
-     "model": "Hallo Anna, vielen Dank für den Schal! Er gefällt mir sehr gut, und das Muster ist cool. Ich gratuliere dir zum Geburtstag. Das Kleid steht dir gut! Du siehst toll aus.",
+     "model": "Hallo Leon, vielen Dank für den Schal! Er gefällt mir sehr gut, und das Muster ist cool. Und dein Hemd auf der Party: Das steht dir gut! Du siehst toll aus.",
      "checks": [
       {
        "label": "says thank you (danke, Dank)",
@@ -15003,7 +15015,7 @@
    },
    "speaking": {
     "prompts": [
-     "Tell a friend that the jacket suits him or her.",
+     "Tell a friend that the jacket suits them.",
      "Say that the shoes please you.",
      "Thank a friend for a present."
     ],
@@ -15172,7 +15184,7 @@
     ]
    },
    "listening": {
-    "title": "In the shop, and a shopping story",
+    "title": "Im Kaufhaus und ein Schnäppchen",
     "script": "Verkäuferin: Guten Tag! Kann ich Ihnen helfen?\nFrau Weber: Guten Tag. Ja, ich suche eine Jacke.\nVerkäuferin: Welche Größe haben Sie?\nFrau Weber: Größe 40. Haben Sie diese Jacke in Blau?\nVerkäuferin: Ja, hier. Möchten Sie die Jacke anprobieren?\nFrau Weber: Ja, gern. Wo ist die Umkleidekabine?\nVerkäuferin: Dort.\nFrau Weber: Die Jacke passt mir gut. Was kostet sie?\nVerkäuferin: Sie kostet 90 Euro. Sie ist im Angebot, nur 60 Euro.\nFrau Weber: Super! Wo finde ich die Schuhabteilung?\nVerkäuferin: Im zweiten Stock. Fahren Sie mit der Rolltreppe.\nFrau Weber: Danke! Ich zahle mit der Karte.\nMira: Ben, was hast du gestern gekauft?\nBen: Ich habe einen Pullover ausgesucht und anprobiert. Er hat mir gut gefallen.\nMira: Wie viel hast du ausgegeben?\nBen: 40 Euro. Und du?\nMira: Ich habe auf dem Flohmarkt eine Tasche gekauft. Das war ein Schnäppchen!",
     "questions": [
      {
