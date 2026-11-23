@@ -544,25 +544,33 @@
       "sehr groß: very big",
       "zu groß: too big (a problem)"
      ],
-     "more": "Think of English: my foot hurts, but my feet hurt. English also changes the verb, from hurts to hurt. German does the same with tut and tun. The trick is to look at the noun first. Does it show more than one, with an ending like -e or -en, or an umlaut? Füße, Beine, Augen and Ohren all do. Then the verb takes -n: tun. Step 1: find the noun. Step 2: one or many? Step 3: tut or tun, and weh at the end. Extra example: Meine Ohren tun weh. = My ears hurt.",
+     "more": "Picture a volume knob with four marks. At nicht the room does not have that quality. At ziemlich the knob is in the middle, at sehr it is high. Zu is past the last mark: too much, and that is a problem. Step 1: say the room and ist. Step 2: pick the mark: nicht, ziemlich, sehr or zu. Step 3: say the adjective with no ending. Extra example: Der Garten ist sehr schön. = The garden is very nice.",
      "lead": "You can now say a room is big or small. This card adds four small words that put the adjective on a scale, so you can say how big and whether that is good or bad.",
      "deeper": {
-      "text": "One surprise: alles (everything) counts as one thing, even though it means many body parts. So you say Alles tut weh, with tut, not tun. You hear this after a long day or with the flu. The same goes for das: Das tut weh! (That hurts!) is what people shout when they bump into something. Both words take the singular verb.",
+      "text": "One small word changes the mood. Das Zimmer ist klein only describes the room. Das Zimmer ist zu klein is a complaint: it is smaller than you want. Sehr is strong too, but it is only strong, not a problem. So sehr klein is a fact, and zu klein is something you may want to change.",
       "example": {
-       "de": "Alles tut weh.",
-       "en": "Everything hurts.",
+       "de": "Das Zimmer ist zu klein.",
+       "en": "The room is too small.",
        "parts": [
         [
-         "Alles",
-         "subject"
+         "Das",
+         "article"
         ],
         [
-         "tut",
+         "Zimmer",
+         "noun"
+        ],
+        [
+         "ist",
          "verb"
         ],
         [
-         "weh.",
-         "verb2"
+         "zu",
+         "other"
+        ],
+        [
+         "klein.",
+         "adjective"
         ]
        ]
       }
@@ -678,7 +686,7 @@
        ]
       ]
      },
-     "more": "Imagine a form at the doctor's. There is no space for a long sentence, so one word must do the job: Kopfschmerzen. That is why German loves glued words. English has a few too: headache, toothache, backache. German simply uses Schmerzen for all of them and puts the body part in front. Step 1: name the body part. Step 2: glue Schmerzen onto it. Step 3: put it after ich habe or er hat, with no ein. Extra example: Leon hat Rückenschmerzen. = Leon has back pain.",
+     "more": "Count the rooms first. One room needs ist, two or more need sind, and the adjective stays bare in both cases. Step 1: count the rooms. Step 2: choose ist or sind. Step 3: add the ladder word and the adjective, with no ending. Step 4: check the meaning: nicht schön and sehr schön say opposite things. Extra example: Die Zimmer sind ziemlich ruhig. = The rooms are quite quiet.",
      "lead": "Now you can say how a room is. This card adds the plural: with more than one room the verb becomes sind, and the ladder words work exactly as before.",
      "deeper": {
       "text": "When you describe two things with the same adjective, join them with und and use sind: Das Bad und die Küche sind klein. Two things together always count as many, even if each one is singular. English works the same way: the bathroom and the kitchen are small, never is small.",
@@ -1686,7 +1694,7 @@
      "more": "An ad is like a text message in code. Instead of Die Wohnung hat drei Zimmer, it says 3 Zi. Instead of fünfundsiebzig Quadratmeter, it says 75 m². You do not need to write the code, only to read it. Go from left to right and ask a small question for each piece: how many rooms, how big, how much, what extras, from when, where? The ad is then a full little description of the flat.",
      "lead": "Lesson 1 gave you the rooms. This card shows how an ad packs rooms, size, rent and place into a few signs, so you can decode a real ad from left to right.",
      "deeper": {
-      "text": "In an ad, 3 Zi. counts the living rooms only. The kitchen, the bathroom and the hall are usually not counted. So a 3-Zimmer flat has, for example, a living room and two bedrooms, plus a kitchen and a bath. A 1-Zimmer flat is one room with a small kitchen: perfect for a student.",
+      "text": "In an ad, 3 Zi. counts only the main rooms: living and sleeping rooms. The kitchen, the bathroom and the hall are usually not counted. So a 3-Zimmer flat has, for example, a living room and two bedrooms, plus a kitchen and a bath. A 1-Zimmer flat is one room with a small kitchen: perfect for a student.",
       "example": {
        "de": "Die Wohnung hat ein Wohnzimmer und zwei Schlafzimmer.",
        "en": "The flat has a living room and two bedrooms.",
@@ -5982,7 +5990,7 @@
        [
         "short e",
         "two consonants after it, or a double letter",
-        "Teppich, Sessel, Bett, Fernseher, Mikrowelle"
+        "Teppich, Sessel, Bett, Mikrowelle"
        ],
        [
         "exception",
@@ -11578,7 +11586,7 @@
     },
     {
      "de": "Platz",
-     "en": "place, the space",
+     "en": "space, room (also: square)",
      "examples": [
       {
        "de": "Im Wohnzimmer ist viel Platz.",
@@ -11672,7 +11680,8 @@
      "type": "type",
      "prompt": "Write in German: I put the book on the table.",
      "answers": [
-      "Ich lege das Buch auf den Tisch."
+      "Ich lege das Buch auf den Tisch.",
+      "Ich stelle das Buch auf den Tisch."
      ],
      "hint": "legen + Wohin? = accusative.",
      "explanation": "Ich lege das Buch auf den Tisch."
@@ -11688,7 +11697,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Put the plant at the window!",
+     "prompt": "Write in German: Put the plant at the window! (du)",
      "answers": [
       "Stell die Pflanze ans Fenster!",
       "Stell die Pflanze an das Fenster!"
@@ -12579,7 +12588,7 @@
      ],
      "more": "An invitation has three tiny moves. Step 1: ask when: Kommst du am Samstag? Step 2: invite: Komm doch vorbei! Step 3: wait for the answer. It is built like the separable verbs from chapter 6: vorbeikommen, so vorbei jumps to the end. It is the German way to say Come by, you are welcome. Extra example: Hast du am Sonntag Zeit?",
      "deeper": {
-      "text": "Doch is a small friendly word. It softens the command, like please or why not in English. You could say Komm vorbei! but Komm doch vorbei! sounds warmer. It works with every separable verb from chapter 6: Komm doch mit! Ruf mich doch an! doch always stands right after the verb.",
+      "text": "Doch is a small friendly word. It softens the command, like please or why not in English. You could say Komm vorbei! but Komm doch vorbei! sounds warmer. It works with every separable verb from chapter 6: Komm doch mit! Ruf mich doch an! doch stands right after the verb, or after a short word like mich.",
       "example": {
        "de": "Komm doch mit!",
        "en": "Do come along!",
@@ -13870,7 +13879,7 @@
     {
      "title": "Chain sentences: und, aber, zuerst, dann",
      "lead": "You can describe the place. On this card you link your sentences with words from chapter 7, so your text flows from one idea to the next instead of being a list.",
-     "body": "Link ideas with und (adds), aber (contrasts), zuerst and dann (order). The verb stays in second place in every part. If a place starts the sentence, the verb is still second: Im Wohnzimmer steht ein Sofa. Put a comma before und or aber when a new sentence follows.",
+     "body": "Link ideas with und (adds), aber (contrasts), zuerst and dann (order). The verb stays in second place in every part. If a place starts the sentence, the verb is still second: Im Wohnzimmer steht ein Sofa. Put a comma before aber. Before und a comma is optional when a whole new sentence follows.",
      "table": {
       "headers": [
        "word",
@@ -14626,9 +14635,9 @@
      "type": "choice",
      "prompt": "Which order is right for a text about your home?",
      "options": [
-      "opinion, place, invitation",
-      "invitation, opinion, rooms",
-      "place, rooms, furniture, opinion, invitation"
+      "opinion, place, furniture, rooms",
+      "invitation, rooms, place, opinion",
+      "place, rooms, furniture, opinion"
      ],
      "answer": 2,
      "hint": "Start outside, walk in, then sit down and talk.",

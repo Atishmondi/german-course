@@ -3793,9 +3793,7 @@
     "prompt": "Write in German, with the number in words: I am 1.80 m tall.",
     "answers": [
      "Ich bin ein Meter achtzig groß.",
-     "Ich bin einen Meter achtzig groß.",
-     "Ich bin 1,80 m groß.",
-     "Ich bin 1,80 Meter groß."
+     "Ich bin einen Meter achtzig groß."
     ],
     "hint": "ein Meter + the centimetres + groß.",
     "explanation": "Ich bin ein Meter achtzig groß.",
@@ -4316,7 +4314,7 @@
       {
        "de": "Bleiben Sie im Bett.",
        "en": "Stay in bed.",
-       "why": "im Bett is a chunk (chapter 7).",
+       "why": "im Bett: in + dem = im, like im Kino (chapter 7).",
        "parts": [
         [
          "Bleiben",
@@ -5102,7 +5100,7 @@
      "more": "A no-command is a command with a no word. Step 1: do you say no to an action? Use nicht: Arbeiten Sie nicht. Step 2: do you say no to a thing? Use kein: keinen Kaffee, keine Tabletten. Masculine things change to keinen, as you learned for the object. Extra example: Essen Sie keine Wurst. = Do not eat sausage.",
      "lead": "You can say what to take. Next: saying do not with nicht and kein, so you can warn someone what to avoid.",
      "deeper": {
-      "text": "nicht goes right before the part you want to deny. If you deny the whole action, it goes near the end. If you deny just the place, it goes before the place. Gehen Sie nicht zum Arzt means do not go to the doctor, so maybe go somewhere else. Where nicht sits changes the meaning.",
+      "text": "In a command, nicht usually stands near the end. It comes before a place or direction chunk like zum Arzt or zur Arbeit, and before the verb prefix if there is one: Gehen Sie nicht zum Arzt. Arbeiten Sie nicht. Stehen Sie nicht auf. A time word like heute comes before nicht: Gehen Sie heute nicht zur Arbeit.",
       "example": {
        "de": "Gehen Sie nicht zum Arzt.",
        "en": "Do not go to the doctor.",
@@ -5366,7 +5364,7 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: Please call Ben.",
+    "prompt": "Write in German: Please call Ben. (Sie)",
     "answers": [
      "Rufen Sie bitte Ben an.",
      "Bitte rufen Sie Ben an.",
@@ -5705,7 +5703,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: Drink a lot of water.",
+     "prompt": "Write in German: Drink a lot of water. (Sie)",
      "answers": [
       "Trinken Sie viel Wasser."
      ],
@@ -5714,7 +5712,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Please be on time.",
+     "prompt": "Write in German: Please be on time. (Sie)",
      "answers": [
       "Seien Sie bitte pünktlich.",
       "Bitte seien Sie pünktlich.",
@@ -5725,7 +5723,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Get up.",
+     "prompt": "Write in German: Get up. (Sie)",
      "answers": [
       "Stehen Sie auf."
      ],
@@ -5734,7 +5732,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Take ten drops.",
+     "prompt": "Write in German: Take ten drops. (Sie)",
      "answers": [
       "Nehmen Sie zehn Tropfen."
      ],
@@ -6621,7 +6619,7 @@
      "more": "Tips from a friend are just short commands. Step 1: pick the verb and make the du command. Step 2: add your words. Step 3: do you want to say do not? For an action use nicht (Arbeite nicht). For a thing use kein (Trink keinen Kaffee). Masculine things change to keinen. Extra example: Iss keine Wurst. = Do not eat sausage.",
      "lead": "Last card of this lesson: friendly tips with du, so you can give advice like Eat vegetables and also say what not to do.",
      "deeper": {
-      "text": "Compare im Bett and ins Bett. You know this from lesson 7. Bleib im Bett means stay in bed, where you already are. Geh ins Bett means go to bed, with movement into it. The command verb tells you which one to use: bleiben stays, gehen moves.",
+      "text": "Compare im Bett and ins Bett. You know this from chapter 7. Bleib im Bett means stay in bed, where you already are. Geh ins Bett means go to bed, with movement into it. The command verb tells you which one to use: bleiben stays, gehen moves.",
       "example": {
        "de": "Bleib im Bett.",
        "en": "Stay in bed.",
@@ -6762,7 +6760,7 @@
    ],
    "blind": {
     "type": "type",
-    "prompt": "Write in German: Read the book.",
+    "prompt": "Write in German: Read the book. (du)",
     "answers": [
      "Lies das Buch."
     ],
@@ -7083,7 +7081,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: Be nice.",
+     "prompt": "Write in German: Be nice. (du)",
      "answers": [
       "Sei nett."
      ],
@@ -7092,7 +7090,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Drive slowly.",
+     "prompt": "Write in German: Drive slowly. (du)",
      "answers": [
       "Fahr langsam."
      ],
@@ -7101,7 +7099,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Call Mira.",
+     "prompt": "Write in German: Call Mira. (du)",
      "answers": [
       "Ruf Mira an."
      ],
@@ -7110,7 +7108,7 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Sleep a lot.",
+     "prompt": "Write in German: Sleep a lot. (du)",
      "answers": [
       "Schlaf viel."
      ],
@@ -13487,7 +13485,7 @@
       ],
       "answer": 2,
       "hint": "Listen to the first question.",
-      "explanation": "Wie alt bist du?"
+      "explanation": "Wie alt sind Sie?"
      },
      {
       "type": "choice",
@@ -14142,7 +14140,7 @@
       },
       {
        "label": "says take a tablet three times a day",
-       "pattern": "nimm dreimal am tag eine tablette"
+       "pattern": "nimm (dreimal am tag eine tablette|eine tablette dreimal am tag)"
       },
       {
        "label": "wishes him well",
