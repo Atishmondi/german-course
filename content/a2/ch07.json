@@ -174,7 +174,7 @@
       },
       {
        "de": "Mira sieht den Fahrplan.",
-       "en": "Mira looks at the timetable.",
+       "en": "Mira sees the timetable.",
        "parts": [
         [
          "Mira",
@@ -1451,7 +1451,7 @@
       },
       {
        "de": "Mira sieht den Fahrplan.",
-       "en": "Mira looks at the timetable."
+       "en": "Mira sees the timetable."
       }
      ],
      "forms": "die Fahrpläne"
@@ -1536,8 +1536,8 @@
      "en": "connection (the next train)",
      "examples": [
       {
-       "de": "Wir haben den Anschluss in Salzburg.",
-       "en": "We have the connection in Salzburg."
+       "de": "Wir erreichen den Anschluss in Salzburg.",
+       "en": "We make the connection in Salzburg."
       },
       {
        "de": "Wann fährt der Anschluss?",
@@ -1609,7 +1609,8 @@
      "type": "type",
      "prompt": "Write in German: When does the train leave?",
      "answers": [
-      "Wann fährt der Zug ab?"
+      "Wann fährt der Zug ab?",
+      "Wann fährt der Zug?"
      ],
      "hint": "Abfahren is separable: the particle goes to the end of a normal question.",
      "explanation": "Wann fährt der Zug ab?",
@@ -2866,7 +2867,7 @@
       },
       {
        "de": "Ich frage am Schalter, ob er Verspätung hat.",
-       "en": "I ask at the desk whether he is late.",
+       "en": "I ask at the desk whether it is late.",
        "parts": [
         [
          "Ich",
@@ -3093,7 +3094,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Ich weiß nicht, ___ es morgen regnet. (whether it rains)",
+     "prompt": "Ich weiß nicht, ___ es morgen regnet.",
      "options": [
       "wenn",
       "dass",
@@ -3213,7 +3214,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Wir warten, ___ der Zug Verspätung hat. (whenever the train is late)",
+     "prompt": "Wir warten, ___ der Zug Verspätung hat.",
      "options": [
       "ob",
       "wenn",
@@ -3511,8 +3512,7 @@
      "prompt": "Write in German: Could you help me, please?",
      "answers": [
       "Könnten Sie mir bitte helfen?",
-      "Könnten Sie mir helfen, bitte?",
-      "Könnten Sie bitte mir helfen?"
+      "Könnten Sie mir helfen, bitte?"
      ],
      "hint": "A chunk from chapter 5: Könnten Sie …?",
      "explanation": "Könnten Sie mir bitte helfen?",
@@ -5565,8 +5565,8 @@
        ]
       },
       {
-       "de": "Die Fahrt nach Salzburg dauert zwei Stunden.",
-       "en": "The journey to Salzburg takes two hours.",
+       "de": "Die Fahrt nach Salzburg dauert acht Stunden.",
+       "en": "The journey to Salzburg takes eight hours.",
        "parts": [
         [
          "Die",
@@ -5589,14 +5589,14 @@
          "verb"
         ],
         [
-         "zwei Stunden.",
+         "acht Stunden.",
          "time"
         ]
        ]
       },
       {
-       "de": "Unser Ziel ist das Haus von Frau Weber.",
-       "en": "Our destination is Frau Weber's house.",
+       "de": "Unser Ziel ist das Fest von Frau Weber.",
+       "en": "Our destination is Frau Weber's party.",
        "parts": [
         [
          "Unser",
@@ -5615,7 +5615,7 @@
          "article"
         ],
         [
-         "Haus",
+         "Fest",
          "noun"
         ],
         [
@@ -6732,7 +6732,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Die ___ nach Salzburg ist 90 Kilometer.",
+     "prompt": "Die ___ von Berlin nach Salzburg ist 700 Kilometer.",
      "options": [
       "Umgebung",
       "Fahrt",
@@ -6740,7 +6740,7 @@
      ],
      "answer": 2,
      "hint": "How far is it?",
-     "explanation": "Die Entfernung nach Salzburg ist 90 Kilometer.",
+     "explanation": "Die Entfernung von Berlin nach Salzburg ist 700 Kilometer.",
      "grammar": false
     },
     {
@@ -6853,8 +6853,8 @@
      "en": "distance",
      "examples": [
       {
-       "de": "Die Entfernung ist ungefähr 90 Kilometer.",
-       "en": "The distance is about 90 kilometres."
+       "de": "Die Entfernung nach Salzburg ist ungefähr 700 Kilometer.",
+       "en": "The distance to Salzburg is about 700 kilometres."
       },
       {
        "de": "Wie groß ist die Entfernung nach Salzburg?",
@@ -6947,7 +6947,6 @@
      "prompt": "Write in German: I think that the train is late.",
      "answers": [
       "Ich glaube, dass der Zug Verspätung hat.",
-      "Ich glaube, dass der Zug spät ist.",
       "Ich denke, dass der Zug Verspätung hat."
      ],
      "hint": "dass, verb at the end.",
@@ -7690,7 +7689,7 @@
       }
      ],
      "deeper": {
-      "text": "In chapter 1 you learned the genitive with names: Herrn Alis Laden. That is a different thing. Here you always say von + dative, and that is perfectly normal German. Written texts sometimes use the genitive (in der Nähe des Bahnhofs); you only need to recognise it. For speaking, the von form is all you need.",
+      "text": "In chapter 1 you learned the genitive with names: Herrn Alis Restaurant. That is a different thing. Here you always say von + dative, and that is perfectly normal German. Written texts sometimes use the genitive (in der Nähe des Bahnhofs); you only need to recognise it. For speaking, the von form is all you need.",
       "example": {
        "de": "Der Parkplatz ist in der Nähe von der Post.",
        "en": "The car park is near the post office.",
@@ -8483,8 +8482,7 @@
      "prompt": "Write in German: Do you know if the train is late?",
      "answers": [
       "Weißt du, ob der Zug Verspätung hat?",
-      "Wissen Sie, ob der Zug Verspätung hat?",
-      "Weißt du, ob der Zug spät ist?"
+      "Wissen Sie, ob der Zug Verspätung hat?"
      ],
      "hint": "ob, verb at the end.",
      "explanation": "Weißt du, ob der Zug Verspätung hat?",
@@ -10250,8 +10248,8 @@
        "en": "Many commuters travel by train."
       },
       {
-       "de": "Mira ist Pendlerin.",
-       "en": "Mira is a commuter."
+       "de": "Meine Kollegin ist Pendlerin.",
+       "en": "My colleague is a commuter."
       }
      ],
      "forms": "die Pendler"
@@ -11327,7 +11325,7 @@
      "lead": "You can now argue, but long words can stop you in the middle of a sentence. This card gives you one method to say them and eight words to practise it on.",
      "examples": [
       {
-       "de": "Der Straßenbahnfahrer fährt vor dem Bahnhof vorbei.",
+       "de": "Der Straßenbahnfahrer fährt am Bahnhof vorbei.",
        "en": "The tram driver drives past the station.",
        "parts": [
         [
@@ -11343,12 +11341,8 @@
          "verb"
         ],
         [
-         "vor",
+         "am",
          "preposition"
-        ],
-        [
-         "dem",
-         "article"
         ],
         [
          "Bahnhof",
@@ -11721,7 +11715,7 @@
      "steps": [
       "Leon: Ich bin dafür, dass es vor dem Restaurant ein Tempolimit gibt.",
       "Herr Ali: Das sehe ich anders. Ich bin dagegen, weil mein Lieferwagen dann länger braucht.",
-      "Leon: Und wie findest du ein neues Parkhaus am Bahnhof?",
+      "Leon: Und wie finden Sie ein neues Parkhaus am Bahnhof?",
       "Herr Ali: Ich finde es gut, dass es ein neues Parkhaus gibt.",
       "Leon: Dann fahre ich jetzt. Bis später!",
       "Herr Ali: Gute Fahrt!"
@@ -12282,8 +12276,8 @@
      ],
      "examples": [
       {
-       "de": "Eine Studie zeigt, dass 40 % im Homeoffice arbeiten.",
-       "en": "A study shows that 40 % work from home.",
+       "de": "Eine Studie zeigt, dass 25 % im Homeoffice arbeiten.",
+       "en": "A study shows that 25 % work from home.",
        "parts": [
         [
          "Eine",
@@ -12302,7 +12296,7 @@
          "conjunction"
         ],
         [
-         "40 %",
+         "25 %",
          "subject"
         ],
         [
@@ -15876,7 +15870,7 @@
    },
    "listening": {
     "title": "Auskunft",
-    "script": "Mira: Guten Tag! Können Sie mir sagen, welches Gleis der Zug nach Salzburg hat?\nFrau am Schalter: Guten Tag! Der Zug fährt von Gleis 4.\nMira: Wissen Sie, ob der Zug Verspätung hat?\nFrau am Schalter: Ja, er verspätet sich um 15 Minuten.\nMira: Dann weiß ich nicht, ob wir den Anschluss in Salzburg haben. Können Sie mir sagen, wann der Anschluss fährt?\nFrau am Schalter: Der Anschluss fährt um 11.30 Uhr. Sie haben viel Zeit.\nMira: Gut. Ist meine Monatskarte im Zug gültig?\nFrau am Schalter: Nein, die Monatskarte ist nur für den Bus und die Straßenbahn gültig. Sie brauchen eine Fahrkarte.\nMira: Wie viel kostet die Fahrkarte nach Salzburg?\nFrau am Schalter: Sie kostet 25 Euro. Es gibt keinen Zuschlag.\nMira: Vielen Dank!\nFrau am Schalter: Gern geschehen. Gute Fahrt!",
+    "script": "Mira: Guten Tag! Können Sie mir sagen, welches Gleis der Zug nach Salzburg hat?\nFrau am Schalter: Guten Tag! Der Zug fährt von Gleis 4.\nMira: Wissen Sie, ob der Zug Verspätung hat?\nFrau am Schalter: Ja, er verspätet sich um 15 Minuten.\nMira: Dann weiß ich nicht, ob wir den Anschluss in Salzburg haben. Können Sie mir sagen, wann der Anschluss fährt?\nFrau am Schalter: Der Anschluss fährt um 17.30 Uhr. Sie haben viel Zeit.\nMira: Gut. Ist meine Monatskarte im Zug gültig?\nFrau am Schalter: Nein, die Monatskarte ist nur für den Bus und die Straßenbahn gültig. Sie brauchen eine Fahrkarte.\nMira: Wie viel kostet die Fahrkarte nach Salzburg?\nFrau am Schalter: Sie kostet 25 Euro. Es gibt keinen Zuschlag.\nMira: Vielen Dank!\nFrau am Schalter: Gern geschehen. Gute Fahrt!",
     "questions": [
      {
       "type": "choice",
@@ -15936,11 +15930,11 @@
       "options": [
        "at 12.00",
        "at 9.15",
-       "at 11.30"
+       "at 17.30"
       ],
       "answer": 2,
       "hint": "Listen for Uhr.",
-      "explanation": "Der Anschluss fährt um 11.30 Uhr.",
+      "explanation": "Der Anschluss fährt um 17.30 Uhr.",
       "grammar": false
      },
      {
@@ -16193,7 +16187,7 @@
    "day": 2,
    "reading": {
     "title": "Mit dem Rad oder mit dem Bus?",
-    "text": "Hallo, hier ist Ben aus der WG! In unserer WG fährt jeder anders zur Uni oder zur Arbeit.\nIch fahre jeden Tag mit dem Rad. Mein Radweg beginnt im Hof hinter unserem Haus und geht am Fluss entlang. Einerseits ist das Rad billiger als der Bus, andererseits ist es bei Regen nicht bequem. Aber ich stehe nie im Stau!\nMira hat eine Monatskarte. Sie geht zur Haltestelle links vom Bahnhof und fährt mit dem Bus zur Arbeit. Sie sagt: „Der Bus ist bequemer, und ich kann lesen.“\nAnna nimmt die Straßenbahn. Die Haltestelle ist gegenüber von der Bäckerei, in der Nähe von der Uni. Am Abend kommt sie von der Uni und kauft dort noch Brot.\nUnd Leon? Er wohnt mitten in der Stadt und arbeitet im Restaurant „Zum Löwen“. Er geht einfach zu Fuß. Das ist am billigsten!",
+    "text": "Hallo, hier ist Ben aus der WG! In unserer WG fährt jeder anders zur Uni oder zur Arbeit.\nIch fahre jeden Tag mit dem Rad. Mein Radweg beginnt im Hof hinter unserem Haus und geht am Fluss entlang. Einerseits ist das Rad billiger als der Bus, andererseits ist es bei Regen nicht bequem. Aber ich stehe nie im Stau!\nMira hat eine Monatskarte. Sie geht zur Haltestelle links vom Bahnhof und fährt mit dem Bus zur Uni. Sie sagt: „Der Bus ist bequemer, und ich kann lesen.“\nAnna nimmt die Straßenbahn. Die Haltestelle ist gegenüber von der Bäckerei, in der Nähe von der Uni. Am Abend kommt sie von der Uni und kauft dort noch Brot.\nUnd Leon? Er wohnt mitten in der Stadt und arbeitet im Restaurant „Zum Löwen“. Er geht einfach zu Fuß. Das ist am billigsten!",
     "glossary": [
      {
       "de": "jeder",

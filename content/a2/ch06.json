@@ -10601,7 +10601,7 @@
    ],
    "grammar": {
     "topic": "werden + comparative; ein + adjective in a text; reporting results with dass",
-    "point": "Werden + comparative says that something changes step by step: Die Arbeit wird flexibler. Die Büros werden kleiner. The comparative after werden has no ending. Results are reported with a dass-clause: Eine Studie zeigt, dass 40 % im Homeoffice arbeiten.",
+    "point": "Werden + comparative says that something changes step by step: Die Arbeit wird flexibler. Die Büros werden kleiner. The comparative after werden has no ending. Results are reported with a dass-clause: Eine Studie zeigt, dass 25 % im Homeoffice arbeiten.",
     "oneLine": "Die Arbeit wird flexibler. Eine Studie zeigt, dass viele im Homeoffice arbeiten.",
     "mistake": {
      "wrong": "Die Arbeit wird flexible.",
@@ -11017,7 +11017,7 @@
     },
     {
      "title": "Reading an information text: four steps",
-     "body": "An information text gives facts and numbers. Read it in four steps: first the title and the numbers, then find who, what and where, then mark the key words, and at the end say it in your own words: Der Text sagt, dass … You can read 40 % as vierzig Prozent.",
+     "body": "An information text gives facts and numbers. Read it in four steps: first the title and the numbers, then find who, what and where, then mark the key words, and at the end say it in your own words: Der Text sagt, dass … You can read 25 % as fünfundzwanzig Prozent.",
      "lead": "You can talk about change now. This card shows you how to read a short text about the working world and find its facts quickly.",
      "examples": [
       {
@@ -11047,11 +11047,11 @@
        ]
       },
       {
-       "de": "40 % arbeiten von zu Hause.",
-       "en": "40 % work from home.",
+       "de": "25 % arbeiten von zu Hause.",
+       "en": "25 % work from home.",
        "parts": [
         [
-         "40 %",
+         "25 %",
          "subject"
         ],
         [
@@ -11108,7 +11108,7 @@
       }
      ],
      "deeper": {
-      "text": "Numbers are the easiest facts, so start with them. In the table look for 40 %, 70 % and 20 %, and ask what each number belongs to. In a dass-clause werden goes to the end: Die Büros werden kleiner becomes …, dass die Büros kleiner werden. Immer mehr means more and more: immer mehr Arbeitnehmer. A word like nur (only) often shows the small number.",
+      "text": "Numbers are the easiest facts, so start with them. In the table look for 25 %, 70 % and 20 %, and ask what each number belongs to. In a dass-clause werden goes to the end: Die Büros werden kleiner becomes …, dass die Büros kleiner werden. Immer mehr means more and more: immer mehr Arbeitnehmer. A word like nur (only) often shows the small number.",
       "example": {
        "de": "Der Text sagt, dass die Arbeit flexibler wird.",
        "en": "The text says that work is getting more flexible.",
@@ -11150,7 +11150,7 @@
      },
      "more": "Imagine you are a detective with a magnifying glass. First you look at the clues that jump out: the title and the numbers. Then you find the people and the places: Arbeitnehmer, Homeoffice, Gleitzeit. Then you underline the key words. At the end you tell the case in your own words: Der Text sagt, dass … You never have to understand every word, just enough to answer who, what, how many.",
      "steps": [
-      "Read the title and the numbers: Arbeiten heute, 40 %, 70 %, 20 %.",
+      "Read the title and the numbers: Arbeiten heute, 25 %, 70 %, 20 %.",
       "Find who, what and where: Arbeitnehmer, Homeoffice, Gleitzeit.",
       "Mark the key words.",
       "Say it in your own words: Der Text sagt, dass …"
@@ -11166,7 +11166,7 @@
         "the title: the topic"
        ],
        [
-        "Eine Studie zeigt, dass 40 % von zu Hause arbeiten.",
+        "Eine Studie zeigt, dass 25 % von zu Hause arbeiten.",
         "a number and who it belongs to"
        ],
        [
@@ -11190,7 +11190,7 @@
     },
     {
      "title": "Eine Studie zeigt, dass …: surveys and results",
-     "body": "In eine Umfrage people answer questions. A bigger piece of research is eine Studie. The answer is das Ergebnis. You report it with a dass-clause: Eine Studie zeigt, dass 40 % im Homeoffice arbeiten. Viele Arbeitnehmer finden, dass ein flexibler Arbeitstag wichtig ist.",
+     "body": "In eine Umfrage people answer questions. A bigger piece of research is eine Studie. The answer is das Ergebnis. You report it with a dass-clause: Eine Studie zeigt, dass 25 % im Homeoffice arbeiten. Viele Arbeitnehmer finden, dass ein flexibler Arbeitstag wichtig ist.",
      "lead": "Information texts often report numbers from research. This card gives you the words for that and the sentence pattern to report a result.",
      "examples": [
       {
@@ -11329,7 +11329,7 @@
        ]
       }
      },
-     "more": "An Umfrage asks many people the same question: Wo arbeiten Sie am liebsten? The answers come back as numbers: im Büro 20 %, im Homeoffice 40 %, in the office and at home 40 %. That pile of numbers is the Ergebnis. When you report it, use zeigt or sagt and then dass, and the verb of the dass-clause goes to the very end: Eine Studie zeigt, dass viele von zu Hause arbeiten. Eine Studie is a bigger piece of research than eine Umfrage.",
+     "more": "An Umfrage asks many people the same question: Wo arbeiten Sie am liebsten? The answers come back as numbers: im Büro 20 %, im Homeoffice 25 %, in the office and at home 55 %. That pile of numbers is the Ergebnis. When you report it, use zeigt or sagt and then dass, and the verb of the dass-clause goes to the very end: Eine Studie zeigt, dass viele von zu Hause arbeiten. Eine Studie is a bigger piece of research than eine Umfrage.",
      "table": {
       "headers": [
        "Question in the survey",
@@ -11340,7 +11340,7 @@
        [
         "Wo arbeiten Sie am liebsten?",
         "im Homeoffice",
-        "40 %"
+        "25 %"
        ],
        [
         "Wo arbeiten Sie am liebsten?",
@@ -11357,7 +11357,7 @@
     },
     {
      "title": "Der Text sagt … / Ich finde …: facts and opinion",
-     "body": "A fact comes from the text: Der Text sagt, dass 40 % im Homeoffice arbeiten. An opinion is yours: Ich finde, dass Gleitzeit gut ist. With für and gegen you say what you want: Ich bin für ein flexibles Büro. Für takes the accusative, so neuter stays ein flexibles.",
+     "body": "A fact comes from the text: Der Text sagt, dass 25 % im Homeoffice arbeiten. An opinion is yours: Ich finde, dass Gleitzeit gut ist. With für and gegen you say what you want: Ich bin für ein flexibles Büro. Für takes the accusative, so neuter stays ein flexibles.",
      "lead": "You can find the facts now. This card helps you keep the facts from the text apart from your own opinion about them.",
      "examples": [
       {
@@ -11508,7 +11508,7 @@
       ],
       "rows": [
        [
-        "Der Text sagt, dass 40 % im Homeoffice arbeiten.",
+        "Der Text sagt, dass 25 % im Homeoffice arbeiten.",
         "Ich finde, dass das gut ist."
        ],
        [
@@ -11803,7 +11803,7 @@
      "type": "choice",
      "prompt": "Which one is an opinion?",
      "options": [
-      "Der Text sagt, dass 40 % zu Hause arbeiten.",
+      "Der Text sagt, dass 25 % zu Hause arbeiten.",
       "Die Studie zeigt, dass die Büros kleiner werden.",
       "Ich finde, dass Gleitzeit gut ist."
      ],
@@ -11922,15 +11922,15 @@
     },
     {
      "type": "choice",
-     "prompt": "In the text: 40 % arbeiten von zu Hause. How do you say 40 %?",
+     "prompt": "In the text: 25 % arbeiten von zu Hause. How do you say 25 %?",
      "options": [
-      "vierzehn Prozent",
-      "vier Prozent",
-      "vierzig Prozent"
+      "fünfzehn Prozent",
+      "fünf Prozent",
+      "fünfundzwanzig Prozent"
      ],
      "answer": 2,
-     "hint": "Vierzig = 40.",
-     "explanation": "Vierzig Prozent.",
+     "hint": "Fünfundzwanzig = 25.",
+     "explanation": "Fünfundzwanzig Prozent.",
      "grammar": false
     },
     {
@@ -12141,7 +12141,7 @@
     ],
     "examples": [
      "Die Arbeit wird flexibler. Die Büros werden kleiner. Die Videokonferenzen werden länger.",
-     "Eine Studie zeigt, dass 40 % im Homeoffice arbeiten.",
+     "Eine Studie zeigt, dass 25 % im Homeoffice arbeiten.",
      "Ein Vorteil ist, dass man keine lange Fahrt hat. Ein Nachteil ist, dass man allein arbeitet. Ich finde, dass das Homeoffice gut ist."
     ]
    },
