@@ -576,7 +576,7 @@
     {
      "title": "The trap: soll, sollte (past), sollte (advice)",
      "body": "Sollte has two meanings. In the past it means was supposed to (früher, gestern, als Kind). Today, for advice, it is Konjunktiv II. Soll is different: someone else wants something now. Look at the time word: früher or gestern means past. No past time word, and you are giving a tip: advice.",
-     "lead": "You now know sollte, but it looks like a form you met in chapter 1. This card shows how to tell the two meanings apart.",
+     "lead": "You now know sollte, but it looks like a form you met in chapter 2. This card shows how to tell the two meanings apart.",
      "examples": [
       {
        "de": "Der Lehrer sagt, ich soll mehr lesen.",
@@ -1084,8 +1084,7 @@
      "yt:dP27rNxH0H4"
     ],
     "nicosWeg": [
-     "nw:b1-16",
-     "nw:a2-11"
+     "nw:a2-04"
     ],
     "practice": []
    },
@@ -2504,7 +2503,7 @@
       },
       {
        "de": "Du solltest lieber früh schlafen.",
-       "en": "You should rather go to bed early.",
+       "en": "You had better go to bed early.",
        "parts": [
         [
          "Du",
@@ -2581,7 +2580,7 @@
       },
       {
        "de": "Keine Angst! Viel Erfolg!",
-       "en": "No fear! Good luck!",
+       "en": "Don't worry! Good luck!",
        "parts": [
         [
          "Keine",
@@ -2652,8 +2651,7 @@
      "yt:uMlagwZP9dw"
     ],
     "nicosWeg": [
-     "nw:b1-15",
-     "nw:a2-04"
+     "nw:a2-63"
     ],
     "practice": []
    },
@@ -4124,7 +4122,7 @@
     },
     {
      "title": "Mein Tipp: other ways to give advice, and a dialogue",
-     "body": "You can also start advice with a frame: Mein Tipp: Mach einen Lernplan! Or: Es ist wichtig, dass du jeden Tag lernst. Or: Am besten lernst du morgens. Read the dialogue: Ben, Mira and Anna help Ben, and he finally makes a Lernplan. Look for the frames, the sollte sentence and Ben's reactions.",
+     "body": "You can also start advice with a frame: Mein Tipp: Mach einen Lernplan! Or: Es ist wichtig, dass du jeden Tag lernst. Or: Am besten lernst du morgens. Read the dialogue: Mira, Anna and Leon help Ben, and he finally makes a Lernplan. Look for the frames, the sollte sentence and Ben's reactions.",
      "lead": "You know sollte and its reactions. This last card adds three more advice frames and puts everything together in a short chat.",
      "examples": [
       {
@@ -4401,8 +4399,7 @@
      "yt:sZQT-qtiueQ"
     ],
     "nicosWeg": [
-     "nw:b1-35",
-     "nw:a2-03"
+     "nw:a2-23"
     ],
     "practice": []
    },
@@ -4707,7 +4704,7 @@
       },
       {
        "de": "Anna lernt am besten mit Musik. Das ist ihr Lerntyp.",
-       "en": "Anna learns best with music. That is her learning type."
+       "en": "Anna learns best with music. That is her learner type."
       }
      ],
      "forms": "die Lerntypen"
@@ -4767,7 +4764,7 @@
       },
       {
        "de": "Ein Lernplan bringt Lernerfolg.",
-       "en": "A study plan helps learning success."
+       "en": "A study plan brings success in learning."
       }
      ],
      "forms": "die Lernerfolge"
@@ -5874,7 +5871,7 @@
     ],
     "nicosWeg": [
      "nw:a2-62",
-     "nw:a2-57"
+     "nw:a2-04"
     ],
     "practice": []
    },
@@ -7337,7 +7334,7 @@
       "rows": [
        [
         "Leon",
-        "Ich möchte mehr Verantwortung im Restaurant."
+        "Ich möchte im Restaurant mehr Verantwortung haben."
        ],
        [
         "Mira",
@@ -7349,7 +7346,7 @@
        ],
        [
         "Mira",
-        "Du solltest eine Weiterbildung machen. Das ist eine gute Idee."
+        "Du solltest eine Weiterbildung machen."
        ],
        [
         "Leon",
@@ -7369,8 +7366,8 @@
      "yt:dFYZJQs68JA"
     ],
     "nicosWeg": [
-     "nw:b1-36",
-     "nw:a2-49"
+     "nw:a2-49",
+     "nw:a2-51"
     ],
     "practice": []
    },
@@ -7882,7 +7879,7 @@
      "title": "Before we start: an interview for the club newsletter",
      "body": "Leon writes for the newsletter of the club „Viertel hilft“. This week he interviews Herr Ali about his life as a cook. A good interview needs polite openings, different kinds of questions and answers about the past. You already know the pieces. Today they work together.",
      "steps": [
-      "You already know: Seit wann …? and vor + dative from A2 chapter 1, indirect questions with Können Sie mir sagen, … from chapter 7, and Was für ein … from lessons 4 and 5.",
+      "You already know: Seit wann …? from A1 chapter 8, vor + dative from A2 chapter 2, indirect questions with Können Sie mir sagen, … from chapter 7, and Was für ein … from lessons 4 and 5.",
       "New today: a whole interview: opening it, mixing four kinds of questions, answering about the past and reporting what was said.",
       "By the end you can: ask and answer interview questions about a working life, and tell someone what was said."
      ],
@@ -9078,8 +9075,8 @@
      "yt:iyoptTjDtz0"
     ],
     "nicosWeg": [
-     "nw:b1-02",
-     "nw:a2-52"
+     "nw:a2-52",
+     "nw:a2-36"
     ],
     "practice": []
    },
@@ -9447,7 +9444,7 @@
      "examples": [
       {
        "de": "Meine Schwäche ist, dass ich wenig Zeit habe.",
-       "en": "My weakness is: I have little time."
+       "en": "My weakness is that I have little time."
       },
       {
        "de": "Eine Schwäche ist nicht schlimm.",
@@ -9600,7 +9597,7 @@
     {
      "intro": true,
      "title": "Before we start: a club where neighbours help",
-     "body": "Frau Weber has a new idea: a club where neighbours help each other. She calls it „Viertel hilft“. You already know Verein, Mitglied and how to give advice with sollte. Today you read the club notice, and you learn why Hund ends with a t-sound, Tag with a k-sound and wichtig with ich.",
+     "body": "Frau Weber runs a club where neighbours help each other: „Viertel hilft“. You already know Verein, Mitglied and how to give advice with sollte. Today you read the club notice, and you learn why Hund ends with a t-sound, Tag with a k-sound and wichtig with ich.",
      "steps": [
       "You already know: Ich bin Mitglied in einem Verein from chapter 6, and advice with du solltest … from this chapter.",
       "New today: the club „Viertel hilft“, its words, and how b, d and g sound at the end of a word.",
@@ -10407,7 +10404,7 @@
       },
       {
        "de": "Am Abend geht Anna mit dem Hund den Weg zum Treffpunkt.",
-       "en": "In the evening Anna walks the dog along the way to the meeting point.",
+       "en": "In the evening Anna walks a neighbour's dog along the way to the meeting point.",
        "parts": [
         [
          "Am Abend",
@@ -11216,9 +11213,9 @@
     {
      "intro": true,
      "title": "Before we start: never too old to learn",
-     "body": "Herr Ali is 52, and he has started to learn Italian. Like you, he learns as an adult: with little time, a hard pronunciation and some fear of mistakes. You already tell the past with musste and wollte, and you give tips with sollte. Today you hear his story and learn when sollte means then and when it means now.",
+     "body": "Herr Ali is over 50 and has started to learn Italian. Like you, he learns as an adult: with little time, a hard pronunciation and some fear of mistakes. You already tell the past with musste and wollte, and you give tips with sollte. Today you hear his story and learn when sollte means then and when it means now.",
      "steps": [
-      "You already know: Als Kind musste ich viel lernen (modals in the past, chapter 1) and Du solltest mehr üben (tips, this chapter).",
+      "You already know: Als Kind musste ich viel lernen (modals in the past, chapter 2) and Du solltest mehr üben (tips, this chapter).",
       "New today: Herr Ali's learning story, words for language learning, and how to tell past sollte from advice sollte.",
       "By the end you can: tell your own learning story and give tips to an adult learner."
      ],
@@ -11274,8 +11271,8 @@
        "why": "You know this already: a tip."
       },
       {
-       "de": "Herr Ali lernt mit 52 Italienisch.",
-       "en": "Herr Ali is learning Italian at 52.",
+       "de": "Herr Ali lernt mit über 50 Italienisch.",
+       "en": "Herr Ali is learning Italian at over 50.",
        "parts": [
         [
          "Herr Ali",
@@ -11286,7 +11283,7 @@
          "verb"
         ],
         [
-         "mit 52",
+         "mit über 50",
          "time"
         ],
         [
@@ -11395,11 +11392,11 @@
        ]
       },
       {
-       "de": "Mira ist zweisprachig.",
-       "en": "Mira is bilingual.",
+       "de": "Das Kind ist zweisprachig.",
+       "en": "The child is bilingual.",
        "parts": [
         [
-         "Mira",
+         "Das Kind",
          "subject"
         ],
         [
@@ -11491,7 +11488,7 @@
     {
      "title": "Herr Ali's story",
      "body": "Herr Ali tells his story. For the past he uses war, hatte and the modals (wollte, musste) in the Präteritum, and the Perfekt for everything else. Read the eight sentences and find the time words: als Kind, später, vor einem Jahr, am Anfang, jetzt.",
-     "lead": "You have the words. Now read how Herr Ali uses them in his own story, from his childhood to today, with the past forms you learned in chapter 1.",
+     "lead": "You have the words. Now read how Herr Ali uses them in his own story, from his childhood to today, with the past forms you learned in chapter 2.",
      "examples": [
       {
        "de": "Als Kind wollte er Sprachen lernen.",
@@ -12279,7 +12276,7 @@
      "yt:_C1A-x10a80"
     ],
     "nicosWeg": [
-     "nw:b1-34"
+     "nw:a2-01"
     ],
     "practice": []
    },
@@ -12601,7 +12598,7 @@
       },
       {
        "de": "Mit dem Tandem wächst mein Wortschatz.",
-       "en": "A tandem helps with vocabulary."
+       "en": "With the tandem my vocabulary grows."
       }
      ],
      "forms": "die Wortschätze"
@@ -13887,7 +13884,6 @@
      "yt:NDaYbhrmLNk"
     ],
     "nicosWeg": [
-     "nw:b1-35",
      "nw:a2-76"
     ],
     "practice": []
@@ -14929,7 +14925,7 @@
        "the course for advanced learners"
       ],
       "answer": 2,
-      "hint": "Look for für dich.",
+      "hint": "Look for gut für Sie.",
       "explanation": "Der Kurs für Fortgeschrittene ist gut für Sie.",
       "grammar": true
      },
@@ -14938,7 +14934,7 @@
       "prompt": "Why is it good for Herr Ali?",
       "options": [
        "On Wednesday he has time.",
-       "The teacher comes from Rom.",
+       "The teacher comes from Rome.",
        "It is online."
       ],
       "answer": 0,
