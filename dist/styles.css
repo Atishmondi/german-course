@@ -363,7 +363,7 @@ a:hover{color:var(--accent-2)}
   --line:color-mix(in srgb,var(--bg),#fff 10%);--line-strong:color-mix(in srgb,var(--bg),#fff 20%);
   --ink:#eeeae2;--sub:color-mix(in srgb,var(--ink) 74%,var(--bg));--muted:color-mix(in srgb,var(--ink) 52%,var(--bg));
   --accent-soft:color-mix(in srgb,var(--accent) 14%,transparent);--accent-3:color-mix(in srgb,var(--accent-2) 22%,var(--bg));--chart-1:var(--accent);--glass-tint:color-mix(in srgb,var(--surface) 62%,transparent);
-  --pixel:"Pixelify Sans","Figtree",system-ui,sans-serif;--mono:"JetBrains Mono",ui-monospace,Menlo,monospace}
+  --pixel:"Jersey 15","Figtree",system-ui,sans-serif;--mono:"JetBrains Mono",ui-monospace,Menlo,monospace}
 /* each time of day takes its colours from its photo (img/<phase>.jpg) */
 :root[data-phase="dawn"]{--bg:#141022;--accent:#f4a882;--accent-hover:#f8bd9d;--accent-2:#c8acdc;--accent-ink:#221018}
 :root[data-phase="day"]{--bg:#081527;--accent:#86c8ff;--accent-hover:#a6d7ff;--accent-2:#b9d3ee;--accent-ink:#06182c}
@@ -499,3 +499,43 @@ html.reduced .dock{animation:none}
 .look-img{display:block;aspect-ratio:16/10;background:center/cover;margin-bottom:6px}
 .look-img.auto{display:flex}.look-img.auto i{flex:1;background:center/cover}
 .look b{padding:0 12px;font:600 1rem var(--pixel)}.look small{padding:0 12px;color:var(--muted);font:400 .72rem var(--mono)}
+
+/* ===== Inner pages restyle (2026-11-24, softened): same content and markup. Pixel face only for big page titles
+   and chapter names; everything else stays in the reading font, rounded and calm. Grammar colours untouched. ===== */
+body:not(.at-home)::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:center/cover no-repeat;opacity:.18;filter:saturate(1.1);
+  -webkit-mask-image:linear-gradient(#000,transparent 75%);mask-image:linear-gradient(#000,transparent 75%)}
+html[data-phase="dawn"] body::before{background-image:url(img/dawn.jpg)}html[data-phase="day"] body::before{background-image:url(img/day.jpg)}
+html[data-phase="dusk"] body::before{background-image:url(img/dusk.jpg)}html[data-phase="night"] body::before{background-image:url(img/night.jpg)}
+body{background:var(--bg)}
+main h1{font-family:var(--pixel);font-weight:600;letter-spacing:0;font-size:clamp(2.4rem,3.6vw,3.1rem);line-height:1.05}
+.crumbs{background:color-mix(in srgb,var(--bg) 70%,transparent)!important;border-bottom-color:color-mix(in srgb,var(--ink) 8%,transparent)}
+.btn{transition:transform .15s cubic-bezier(.16,1,.3,1),background .2s,box-shadow .2s}
+.btn.primary:hover{transform:translateY(-1px);box-shadow:0 6px 18px color-mix(in srgb,var(--accent) 22%,transparent)}
+.btn:active{transform:translateY(1px)}
+.badge{background:var(--accent);color:var(--accent-ink)}
+.pill.now{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.seg a[aria-current="page"],.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.switch:checked{background:var(--accent);border-color:var(--accent)}.switch:checked::after{background:var(--accent-ink)}
+.chap{border-color:color-mix(in srgb,var(--ink) 9%,transparent);background:color-mix(in srgb,var(--surface) 70%,transparent)}
+.chap[open]{background:color-mix(in srgb,var(--surface) 88%,transparent)}
+.chap>summary .t b{font-family:var(--pixel);font-weight:600;font-size:1.3rem;letter-spacing:0}
+.chap.done .chn{background:var(--accent-2);color:var(--bg)}
+.item.done .tick{background:var(--accent-2);border-color:var(--accent-2);color:var(--bg)}
+.item.next .tick{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.card{background:color-mix(in srgb,var(--surface) 85%,transparent)}
+main h2{font-family:var(--pixel);font-weight:600;letter-spacing:0}
+.bar{border-radius:0;background:var(--surface-3);-webkit-mask-image:repeating-linear-gradient(90deg,#000 0 10px,transparent 10px 13px);mask-image:repeating-linear-gradient(90deg,#000 0 10px,transparent 10px 13px)}
+.bar>i{border-radius:0}
+/* DotGothic16 has one weight; never fake-bold it */
+html{font-synthesis-weight:none}
+
+/* Settings > Heading font */
+:root[data-font="jersey15"]{--pixel:"Jersey 15","Figtree",system-ui,sans-serif}
+:root[data-font="pixelifysans"]{--pixel:"Pixelify Sans","Figtree",system-ui,sans-serif}
+:root[data-font="dotgothic16"]{--pixel:"DotGothic16","Figtree",system-ui,sans-serif}
+:root[data-font="vt323"]{--pixel:"VT323","Figtree",system-ui,sans-serif}
+:root[data-font="handjet"]{--pixel:"Handjet","Figtree",system-ui,sans-serif}
+.fonts{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:14px}
+.fontpick{display:flex;flex-direction:column;gap:6px;padding:16px 14px 12px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink);text-align:left;cursor:pointer;transition:border-color .2s,transform .3s cubic-bezier(.16,1,.3,1)}
+.fontpick:hover{transform:translateY(-2px);border-color:var(--line-strong)}.fontpick[aria-pressed="true"]{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.fontpick span{font-size:1.35rem;line-height:1.1;white-space:nowrap}.fontpick small{color:var(--muted);font:400 .72rem var(--mono)}

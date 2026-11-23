@@ -92,6 +92,8 @@
     const sn=document.getElementById('sidenow');if(sn)sn.innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
   }
   const phaseByHour=()=>{const h=new Date().getHours();return h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night';};
+  const FONTS=[["jersey15", "Jersey 15"], ["pixelifysans", "Pixelify Sans"], ["dotgothic16", "DotGothic16"], ["handjet", "Handjet"], ["vt323", "VT323"]];
+  function applyFont(){document.documentElement.dataset.font=state.settings.font||'jersey15';}
   function applyPhase(){const p=state.settings.phase;document.documentElement.dataset.phase=p&&p!=='auto'?p:phaseByHour();}
   function applyReduced(){document.documentElement.classList.toggle('reduced',!!state.settings.reduced);}
 
@@ -516,6 +518,8 @@
       v.innerHTML=`<h1>Settings</h1>
         <section class="section"><h2>Look</h2><p class="muted">The photo and colours follow the time of day, or pick one to keep.</p>
           <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Pink lake'],['day','Day','Blue mountains'],['dusk','Dusk','Sunset peak'],['night','Night','Star trails']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/${k}.jpg)"`}>${k==='auto'?['dawn','day','dusk','night'].map(p=>`<i style="background-image:url(img/${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
+        <section class="section"><h2>Heading font</h2><p class="muted">The pixel font for titles, step buttons and the dock.</p>
+          <div class="fonts" role="group" aria-label="Heading font">${FONTS.map(([k,n])=>`<button type="button" class="fontpick" data-font-pick="${k}" aria-pressed="${(s.font||'jersey15')===k}"><span style="font-family:'${n}'">Gute Nacht</span><small>${n}</small></button>`).join('')}</div></section>
         <section class="section"><h2>Motivation</h2>
           ${sw('reminders','Gentle reminders','A short encouraging note while you study')}
           ${seg('interval','Reminder every',[3,5,10],x=>x+' min')}
@@ -544,6 +548,7 @@
       });
       v.addEventListener('click',e=>{
         const b=e.target.closest('button');if(!b)return;
+        if(b.dataset.fontPick){s.font=b.dataset.fontPick;save();applyFont();v.querySelectorAll('[data-font-pick]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));return;}
         if(b.dataset.phasePick){s.phase=b.dataset.phasePick;save();applyPhase();v.querySelectorAll('[data-phase-pick]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));return;}
         if(b.dataset.seg){s[b.dataset.seg]=Number(b.dataset.v);save();
           v.querySelectorAll(`[data-seg="${b.dataset.seg}"]`).forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
@@ -673,7 +678,7 @@
     window.scrollTo(0,0);mainEl.focus({preventScroll:true});
   }
 
-  applyReduced();applyPhase();
+  applyReduced();applyPhase();applyFont();
   window.addEventListener('hashchange',route);
   route();
   window.GERMAN_APP={getState,save,go,route,toast,speak};

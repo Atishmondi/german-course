@@ -5,23 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#0b0d1a">
   <meta name="color-scheme" content="dark">
-  <script>/* time-of-day look: dawn 5-8, day 8-17, dusk 17-20, night */{let p;try{p=(JSON.parse(localStorage.getItem('klein-german-v1'))||{}).settings?.phase}catch{}const h=new Date().getHours();document.documentElement.dataset.phase=p&&p!=='auto'?p:h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night'}</script>
-  <meta name="build" content="ce602d92">
+  <script>/* time-of-day look: dawn 5-8, day 8-17, dusk 17-20, night */{let p,f;try{const st=(JSON.parse(localStorage.getItem('klein-german-v1'))||{}).settings||{};p=st.phase;f=st.font}catch{}if(f)document.documentElement.dataset.font=f;const h=new Date().getHours();document.documentElement.dataset.phase=p&&p!=='auto'?p:h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night'}</script>
+  <meta name="build" content="2a145c52">
   <script>/* self-update: if the server has a newer build than this cached page, reload once */fetch(location.pathname,{cache:'no-store'}).then(r=>r.text()).then(t=>{const m=t.match(/name="build" content="(\w+)"/),k='german-build-reload';if(m&&m[1]!==document.querySelector('meta[name=build]').content){if(sessionStorage.getItem(k)!==m[1]){sessionStorage.setItem(k,m[1]);location.replace(location.pathname+'?v='+m[1]+location.hash);}}}).catch(()=>{})</script>
   <meta name="description" content="A calm six-month German course, A1 to B1, one small step at a time.">
   <title>German, one step at a time</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%230a0d14'/%3E%3Ctext x='32' y='41' text-anchor='middle' fill='%23f2b866' font-family='system-ui,sans-serif' font-size='26' font-weight='700'%3EDE%3C/text%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Figtree:wght@400..800&family=Pixelify+Sans:wght@400..700&family=JetBrains+Mono:wght@400;600&display=swap">
-  <link rel="stylesheet" href="styles.css?v=f2ee87fc">
-  <link rel="stylesheet" href="lesson.css?v=1b3877d7">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Figtree:wght@400..800&family=Jersey+15&family=Pixelify+Sans&family=DotGothic16&family=VT323&family=Handjet&family=JetBrains+Mono:wght@400;600&display=swap">
+  <link rel="stylesheet" href="styles.css?v=a68578fb">
+  <link rel="stylesheet" href="lesson.css?v=887b5f06">
   <script defer src="full-content.js?v=b3db115f"></script>
-  <script defer src="core.js?v=2d62b6a9"></script>
+  <script defer src="core.js?v=d7492159"></script>
   <script defer src="plan.js?v=9f19f746"></script>
   <script defer src="motivation.js?v=44e64206"></script>
   <script defer src="lesson.js?v=f5607f4b"></script>
-  <script defer src="app.js?v=1d28892d"></script>
+  <script defer src="app.js?v=092e10da"></script>
   <script>/* Chromium shows backdrop displacement; Safari/Firefox keep plain frosted glass */if(/Chrome\//.test(navigator.userAgent))document.documentElement.classList.add('lg')</script>
 </head>
 <body>

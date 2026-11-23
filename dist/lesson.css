@@ -281,3 +281,32 @@
 .lp-gcore{margin:14px 0 0;padding:12px 18px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;background:var(--surface)}
 .lp-gcore summary{cursor:pointer;font-weight:600}
 .lp-gnotes{margin:10px 0;padding-left:1.2em;color:var(--sub)}
+
+/* ===== Lesson player restyle (2026-11-24, softened): visual layer only. Chips/role colours untouched. ===== */
+.lp-top{background:color-mix(in srgb,var(--bg) 84%,transparent)!important;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+/* phase tabs + tools on one line */
+.lp-meta{flex-wrap:nowrap;gap:12px}
+.lp-phases{flex-wrap:nowrap;gap:4px;min-width:0}
+.lp-phase,.lp-phases li>span{padding:0 11px;white-space:nowrap}
+.lp-phases li{height:34px;font-size:.84rem;white-space:nowrap}
+.lp-phases li.is-now{background:var(--accent)!important;color:var(--accent-ink)!important;border-color:var(--accent)!important}
+.lp-phases li.is-now .lp-phase{color:var(--accent-ink)}
+.lp-tools{flex:none;gap:6px;white-space:nowrap}
+.lp-tools .lp-btn{min-height:38px;padding:0 14px;font-size:.88rem}
+.lp-timer{font-size:.84rem;color:var(--muted);white-space:nowrap}
+.lp-label{text-transform:uppercase;font-size:.72rem;letter-spacing:.08em;font-weight:600}
+.lp-bar{height:6px;border-radius:99px;background:var(--surface-2)}
+.lp-bar i{border-radius:99px}
+.lp-card,.lp-oneline,.lp-mistake,.lp-extra,.lp-terms,.lp-lead,.lp-visual,.lp-deeper,.lp-moretext,.lp-examples li,.lp-vocab li,.lp-confirm,.lp-notice,.lp-gsum>li{border-radius:16px}
+.lp-btn{transition:transform .15s cubic-bezier(.16,1,.3,1),background .2s,border-color .2s,box-shadow .2s}
+.lp-btn:hover:not([disabled]){transform:translateY(-1px);box-shadow:0 6px 18px color-mix(in srgb,var(--accent) 22%,transparent)}
+.lp-btn:active:not([disabled]){transform:translateY(1px);box-shadow:none}
+.lp-btn.lp-ghost:hover:not([disabled]){box-shadow:none}
+.lp-opt{transition:border-color .2s,background .2s,transform .2s cubic-bezier(.16,1,.3,1)}
+.lp-opt:hover:not([disabled]){transform:translateY(-1px)}
+.lp-nav{background:color-mix(in srgb,var(--bg) 80%,transparent)!important;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+/* pixel accents, kept to three places: headings, the next/back step buttons, the progress bar */
+.lp-h,.lp-main h2,.lp-main h3{font-family:var(--pixel);font-weight:600;letter-spacing:0}
+.lp-nav .lp-btn{font-family:var(--pixel);font-weight:600;letter-spacing:.02em}
+.lp-bar{height:8px;border-radius:0;background:transparent;-webkit-mask-image:repeating-linear-gradient(90deg,#000 0 10px,transparent 10px 13px);mask-image:repeating-linear-gradient(90deg,#000 0 10px,transparent 10px 13px);background:var(--surface-3)}
+.lp-bar i{border-radius:0}
