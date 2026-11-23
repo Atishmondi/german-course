@@ -162,7 +162,7 @@
       },
       {
        "de": "Wir waren oft auf dem Schulhof.",
-       "en": "We were often on the school yard.",
+       "en": "We were often in the school yard.",
        "parts": [
         [
          "Wir",
@@ -424,7 +424,7 @@
       },
       {
        "de": "Wir wollten auf dem Schulhof spielen.",
-       "en": "We wanted to play on the school yard.",
+       "en": "We wanted to play in the school yard.",
        "parts": [
         [
          "Wir",
@@ -1006,8 +1006,8 @@
        "why": "The second verb is at the end."
       },
       {
-       "de": "In der Klasse wollte ich immer mit Anna lernen.",
-       "en": "In class I always wanted to study with Anna.",
+       "de": "In der Klasse wollte ich immer mit meiner Freundin lernen.",
+       "en": "In class I always wanted to study with my friend.",
        "parts": [
         [
          "In der Klasse",
@@ -1030,8 +1030,12 @@
          "preposition"
         ],
         [
-         "Anna",
-         "object"
+         "meiner",
+         "dative"
+        ],
+        [
+         "Freundin",
+         "noun"
         ],
         [
          "lernen.",
@@ -1073,7 +1077,7 @@
       "Ich wollte nicht aufstehen, aber ich musste.",
       "Ich musste mein Pausenbrot mitbringen.",
       "Der Schulweg war lang, aber ich hatte immer Zeit.",
-      "In der Klasse wollte ich immer mit Anna lernen."
+      "In der Klasse wollte ich immer mit meiner Freundin lernen."
      ]
     }
    ],
@@ -1317,7 +1321,7 @@
      "answers": [
       "Ben und Leon mussten früh aufstehen."
      ],
-     "hint": "Two people: use the wir form of the past.",
+     "hint": "Two people: sie (they) has the same form as wir.",
      "explanation": "Ben und Leon mussten früh aufstehen.",
      "grammar": true
     },
@@ -1425,7 +1429,7 @@
      "examples": [
       {
        "de": "Wir wollten auf dem Schulhof spielen.",
-       "en": "We wanted to play on the school yard."
+       "en": "We wanted to play in the school yard."
       },
       {
        "de": "Der Schulhof war groß.",
@@ -1457,11 +1461,11 @@
      "examples": [
       {
        "de": "Ben war Schüler in Madrid.",
-       "en": "Ben was a pupil in Hamburg."
+       "en": "Ben was a pupil in Madrid."
       },
       {
-       "de": "Mira war Schülerin in Hamburg.",
-       "en": "Mira was a pupil in Berlin."
+       "de": "Mira war Schülerin in Wien.",
+       "en": "Mira was a pupil in Vienna."
       }
      ],
      "article": "der",
@@ -1996,7 +2000,7 @@
       },
       {
        "de": "Wir durften auf dem Schulhof Fußball spielen.",
-       "en": "We were allowed to play football on the school yard.",
+       "en": "We were allowed to play football in the school yard.",
        "parts": [
         [
          "Wir",
@@ -2051,7 +2055,7 @@
      ],
      "lead": "You can now say what you were able to do. This card does the same for what you were allowed to do, because rules are a big part of every school memory.",
      "deeper": {
-      "text": "In the present, dürfen with nicht means not allowed: Ich darf nicht rauchen. The past works the same way: Ich durfte nicht rauchen. Do not translate dürfen word for word with may or must not. Think allowed to. Notice also that durfte has a u, just like dürfen.",
+      "text": "In the present, dürfen with nicht means not allowed: Ich darf nicht rauchen. The past works the same way: Ich durfte nicht rauchen. May and must not do not work well in the past. Think allowed to: durfte nicht is was not allowed to. Notice also that durfte has a u, just like dürfen.",
       "example": {
        "de": "Wir durften nicht spät kommen.",
        "en": "We were not allowed to come late.",
@@ -2398,7 +2402,7 @@
       },
       {
        "de": "Auf dem Schulhof durften wir laut sein.",
-       "en": "On the school yard we were allowed to be loud.",
+       "en": "In the school yard we were allowed to be loud.",
        "parts": [
         [
          "Auf dem Schulhof",
@@ -2450,7 +2454,7 @@
        ]
       }
      },
-     "more": "Picture a traffic light. Red means stop: Ich durfte nicht. That is a rule against doing it. Blue means go, if you want: Ich musste nicht. Nobody forced me. And a bridge that is too high for you is a skill problem: Ich konnte nicht. Step 1: ask yourself who decides. Step 2: pick the modal. Step 3: add nicht. Extra example: Wir durften nicht rennen.",
+     "more": "Picture a traffic light. Red means stop: Ich durfte nicht. That is a rule against doing it. Green means go, if you want: Ich musste nicht. Nobody forced me. And a bridge that is too high for you is a skill problem: Ich konnte nicht. Step 1: ask yourself who decides. Step 2: pick the modal. Step 3: add nicht. Extra example: Wir durften nicht rennen.",
      "table": {
       "headers": [
        "German",
@@ -4097,7 +4101,7 @@
       },
       {
        "de": "Früher hatte ich oft Hunger.",
-       "en": "Earlier I often had hunger.",
+       "en": "Earlier I was often hungry.",
        "parts": [
         [
          "Früher",
@@ -4829,8 +4833,8 @@
        "en": "I wanted to copy, but I was not allowed."
       },
       {
-       "de": "Ben hat bei Mira abgeschrieben.",
-       "en": "Ben copied from Mira."
+       "de": "Ich habe bei meinem Freund abgeschrieben.",
+       "en": "I copied from my friend."
       }
      ],
      "forms": "schreibt ... ab, hat ... abgeschrieben"
@@ -4840,8 +4844,8 @@
      "en": "punishment",
      "examples": [
       {
-       "de": "Die Strafe war lang.",
-       "en": "The punishment was long."
+       "de": "Die Strafe war hart.",
+       "en": "The punishment was harsh."
       },
       {
        "de": "Das war keine Strafe.",
@@ -4856,7 +4860,7 @@
      "en": "prank",
      "examples": [
       {
-       "de": "Ben und Leon wollten einen Streich machen.",
+       "de": "Ben und Leon wollten einen Streich spielen.",
        "en": "Ben and Leon wanted to play a prank."
       },
       {
@@ -6847,7 +6851,7 @@
        ]
       }
      },
-     "more": "Here is a little trick. Whatever the article is in the dative, the possessive copies it. Der Lehrer becomes dem Lehrer, so mein Lehrer becomes meinem Lehrer. Die Freundin becomes der Freundin, so meiner Freundin. And the plural? Den, so meinen, and the noun gets an n. Culture note: in German schools you say Frau or Herr and the surname, for example Frau Weber. From the Gymnasium on, students usually say Sie to teachers.",
+     "more": "Here is a little trick. Whatever the article is in the dative, the possessive copies it. Der Lehrer becomes dem Lehrer, so mein Lehrer becomes meinem Lehrer. Die Freundin becomes der Freundin, so meiner Freundin. And the plural? Den, so meinen, and the noun gets an n. Culture note: in German schools you say Frau or Herr and the surname, for example Frau Weber. Pupils usually say Sie to their teachers.",
      "table": {
       "headers": [
        "Noun",
@@ -7375,11 +7379,11 @@
     },
     {
      "title": "Sein or ihr? The noun decides the ending",
-     "body": "Sein means his, ihr means her or their. That choice depends on the owner. But the ending depends on the noun that follows. Ben spricht mit seinem Bruder. Mira spricht mit ihrem Bruder. Both brothers are masculine, so both end in -em.",
+     "body": "Sein means his, ihr means her or their. That choice depends on the owner. But the ending depends on the noun that follows. Ben spricht mit seinem Vater. Mira spricht mit ihrem Bruder. Vater and Bruder are both masculine, so both end in -em.",
      "examples": [
       {
-       "de": "Ben spricht mit seinem Bruder.",
-       "en": "Ben speaks with his brother.",
+       "de": "Ben spricht mit seinem Vater.",
+       "en": "Ben speaks with his father.",
        "parts": [
         [
          "Ben",
@@ -7398,7 +7402,7 @@
          "dative"
         ],
         [
-         "Bruder.",
+         "Vater.",
          "noun"
         ]
        ]
@@ -7430,15 +7434,15 @@
        ]
       },
       {
-       "de": "Mira spielt mit ihrer Schwester.",
-       "en": "Mira plays with her sister.",
+       "de": "Mira spricht mit ihrer Mutter.",
+       "en": "Mira speaks with her mother.",
        "parts": [
         [
          "Mira",
          "subject"
         ],
         [
-         "spielt",
+         "spricht",
          "verb"
         ],
         [
@@ -7450,7 +7454,7 @@
          "dative"
         ],
         [
-         "Schwester.",
+         "Mutter.",
          "noun"
         ]
        ]
@@ -7460,19 +7464,19 @@
      "deeper": {
       "text": "Do two steps in this order: first choose the word, sein for he or it, ihr for she or they. Then choose the ending by looking at the noun, not at the owner. A woman with a brother says ihrem Bruder, because Bruder is masculine. A man with a sister says seiner Schwester, because Schwester is feminine.",
       "example": {
-       "de": "Ben wohnt bei seiner Tante.",
-       "en": "Ben lives with his aunt.",
+       "de": "Ben telefoniert mit seiner Schwester.",
+       "en": "Ben is on the phone with his sister.",
        "parts": [
         [
          "Ben",
          "subject"
         ],
         [
-         "wohnt",
+         "telefoniert",
          "verb"
         ],
         [
-         "bei",
+         "mit",
          "preposition"
         ],
         [
@@ -7480,7 +7484,7 @@
          "dative"
         ],
         [
-         "Tante.",
+         "Schwester.",
          "noun"
         ]
        ]
@@ -7496,8 +7500,8 @@
       "rows": [
        [
         "Ben (he)",
-        "der Bruder",
-        "mit seinem Bruder"
+        "der Vater",
+        "mit seinem Vater"
        ],
        [
         "Mira (she)",
@@ -7511,8 +7515,8 @@
        ],
        [
         "Mira (she)",
-        "die Schwester",
-        "mit ihrer Schwester"
+        "die Mutter",
+        "mit ihrer Mutter"
        ],
        [
         "Mira (she)",
@@ -7606,7 +7610,7 @@
       "text": "Wem is the dative of wer. You know it from A1: Wem gehört das? After a preposition you put the preposition first. In German the question starts with the preposition, not with the word wem alone. The answer can be short, because the question already contains the verb: Mit meinem Bruder.",
       "example": {
        "de": "Zu wem gehst du?",
-       "en": "Whom are you going to?",
+       "en": "Who are you going to see?",
        "parts": [
         [
          "Zu",
@@ -7902,15 +7906,15 @@
     },
     {
      "type": "choice",
-     "prompt": "Mira wohnt bei ___ Schwester. (her)",
+     "prompt": "Mira ist heute bei ___ Tante. (her)",
      "options": [
       "ihr",
       "seiner",
       "ihrer"
      ],
      "answer": 2,
-     "hint": "Mira is a woman: ihr. Schwester is feminine: -er.",
-     "explanation": "Bei ihrer Schwester.",
+     "hint": "Mira is a woman: ihr. Tante is feminine: -er.",
+     "explanation": "Bei ihrer Tante.",
      "grammar": true
     },
     {
@@ -8060,12 +8064,13 @@
     },
     {
      "type": "type",
-     "prompt": "Write in German: Anna lives with her aunt.",
+     "prompt": "Write in German: Today Anna is at her aunt's.",
      "answers": [
-      "Anna wohnt bei ihrer Tante."
+      "Heute ist Anna bei ihrer Tante.",
+      "Anna ist heute bei ihrer Tante."
      ],
      "hint": "Anna is a woman: ihr. Tante is feminine.",
-     "explanation": "Anna wohnt bei ihrer Tante.",
+     "explanation": "Heute ist Anna bei ihrer Tante.",
      "grammar": true
     },
     {
@@ -8158,8 +8163,8 @@
        "en": "I speak with our caretaker."
       },
       {
-       "de": "Ben geht zu seiner Hausmeisterin.",
-       "en": "Ben goes to his caretaker (woman)."
+       "de": "Ben spricht mit der Hausmeisterin.",
+       "en": "Ben speaks with the caretaker (woman)."
       }
      ],
      "article": "der / die",
@@ -8174,8 +8179,8 @@
        "en": "I play with my school friend."
       },
       {
-       "de": "Mira wohnt bei ihrer Schulfreundin.",
-       "en": "Mira lives with her school friend (girl)."
+       "de": "Mira telefoniert mit ihrer Schulfreundin.",
+       "en": "Mira is on the phone with her school friend (girl)."
       }
      ],
      "article": "der / die",
@@ -8795,7 +8800,7 @@
        ]
       }
      },
-     "more": "Look at the little word before the noun. Does it end in -em, -er or -en with the noun Bruder, Lehrerin, Kind? Then it is dative, the person who gets something. Does it end in -en, -e or nothing? Then it is accusative, the thing. Meinem Bruder: dative. Meinen Bruder: accusative. A good habit is to say the dative first, the person, and then the thing: Ich zeige meinem Bruder meinen Taschenrechner. Person first, thing second. And one more caution: the verbs helfen, gehören, antworten, gefallen only ever have the dative.",
+     "more": "Look at the little word before the noun. With a singular noun like Bruder, Lehrerin or Kind, -em or -er means dative: the person who gets something. -en, -e or no ending means accusative: the thing. Meinem Bruder: dative. Meinen Bruder: accusative. A good habit is to say the dative first, the person, and then the thing: Ich zeige meinem Bruder meinen Taschenrechner. Person first, thing second. And one more caution: the verbs helfen, gehören, antworten, gefallen only ever have the dative.",
      "table": {
       "headers": [
        "Role",
@@ -9051,7 +9056,7 @@
      ],
      "lead": "You can now ask and answer with the dative. This card shows the shortest possible answer, a bare dative group, because in real talk nobody repeats the whole sentence.",
      "deeper": {
-      "text": "A short answer repeats only the new information, and the new information is the person. So it stands in the dative: Meinem Bruder. If the thing is a pronoun or a name, the order changes, but that comes later. For now: noun person first, noun thing second, and no pronoun for the thing.",
+      "text": "A short answer keeps only the new information, and here that is the person, so it is dative: Meinem Bruder. In the full sentence das Heft comes first, because it is already known from the question, and the new person goes last, where the stress is. With two nouns both orders are correct. When nothing is known yet, the safe order is person first.",
       "example": {
        "de": "Wem hilfst du?",
        "en": "Who do you help?",
@@ -10249,9 +10254,9 @@
      ],
      "lead": "You just saw the grid for der, die, das. On this card: the same grid for ein, kein and mein, so you can say a, no and my in every job.",
      "deeper": {
-      "text": "Ein-words are easy to remember: they have no ending exactly where der-words have a different word, in the masculine and neuter nominative. Ein Lehrer, ein Heft, but der Lehrer, das Heft. Everywhere else ein-words copy the der-word endings: -en, -e, -em, -er. Say it aloud: ein, einen, einem.",
+      "text": "Ein-words are easy to remember: they have no ending exactly where der-words have a different word: in the masculine nominative and in the neuter nominative and accusative. Ein Lehrer, ein Heft, but der Lehrer, das Heft. Everywhere else ein-words copy the der-word endings: -en, -e, -em, -er. Say it aloud: ein, einen, einem.",
       "example": {
-       "de": "Wir haben keine Hausaufgabe.",
+       "de": "Wir haben keine Hausaufgaben.",
        "en": "We have no homework.",
        "parts": [
         [
@@ -10267,13 +10272,13 @@
          "negation"
         ],
         [
-         "Hausaufgabe.",
+         "Hausaufgaben.",
          "noun"
         ]
        ]
       }
      },
-     "more": "Imagine ein-words as der-words with their last letters cut off in two spots. Der Lehrer becomes ein Lehrer, das Heft becomes ein Heft. In all other spots they wear the same ending as der-words. Step 1: pick the case. Step 2: pick the gender. Step 3: add the ending: nothing, -en, -e, -em, -er. Kein and mein are twins of ein and use the very same endings. Only the plural is special: keine, meine.",
+     "more": "Imagine ein-words as der-words with their last letters cut off in three spots. Der Lehrer becomes ein Lehrer, das Heft becomes ein Heft. In all other spots they wear the same ending as der-words. Step 1: pick the case. Step 2: pick the gender. Step 3: add the ending: nothing, -en, -e, -em, -er. Kein and mein are twins of ein and use the very same endings. Only the plural is special: keine, meine.",
      "table": {
       "headers": [
        "Case",
@@ -10709,15 +10714,15 @@
      "deeper": {
       "text": "Only the feminine and masculine places show the difference clearly: der Aula against die Aula, dem Sportplatz against den Sportplatz. Neuter places use short forms: im Schulgebäude, but ins Schulgebäude. Look at the verb. Sein, bleiben, warten and spielen describe a place where you stay. Gehen, fahren and laufen describe a way.",
       "example": {
-       "de": "Mira fährt in den Computerraum.",
-       "en": "Mira goes to the computer room.",
+       "de": "Mira läuft in den Computerraum.",
+       "en": "Mira runs into the computer room.",
        "parts": [
         [
          "Mira",
          "subject"
         ],
         [
-         "fährt",
+         "läuft",
          "verb"
         ],
         [
@@ -10953,7 +10958,7 @@
       },
       {
        "de": "Mira geht in die Schwimmhalle.",
-       "en": "Mira goes into the swimming hall.",
+       "en": "Mira goes into the indoor pool.",
        "parts": [
         [
          "Mira",
@@ -10980,7 +10985,7 @@
       },
       {
        "de": "Leon wartet auf dem Schulhof.",
-       "en": "Leon waits on the school yard.",
+       "en": "Leon waits in the school yard.",
        "parts": [
         [
          "Leon",
@@ -11032,7 +11037,7 @@
        ]
       }
      },
-     "more": "A recipe has three steps and you do them in order. Step 1: gender. Is it der, die, das or plural? Step 2: question. Wer, wen, wem, wo or wohin? Step 3: pick the form. Ask yourself the question, find the row in the grid, find the column of the gender, and read the word. Done. Two solved examples above show the whole recipe in action: read them again slowly.",
+     "more": "A recipe has three steps and you do them in order. Step 1: gender. Is it der, die, das or plural? Step 2: question. Wer, wen, wem, wo or wohin? Step 3: pick the form. Ask yourself the question, find the row in the grid, find the column of the gender, and read the word. Done. The examples above show the whole recipe in action: read them again slowly.",
      "steps": [
       "1 Find the gender: der, die, das or plural.",
       "2 Ask the question: wer, wen, wem, wo or wohin?",
@@ -11379,15 +11384,15 @@
     },
     {
      "de": "Schwimmhalle",
-     "en": "swimming hall",
+     "en": "indoor pool",
      "examples": [
       {
        "de": "Anna ist in der Schwimmhalle.",
-       "en": "Anna is in the swimming hall."
+       "en": "Anna is in the indoor pool."
       },
       {
        "de": "Mira geht in die Schwimmhalle.",
-       "en": "Mira goes into the swimming hall."
+       "en": "Mira goes into the indoor pool."
       }
      ],
      "article": "die",
@@ -12230,7 +12235,7 @@
     },
     {
      "title": "Reasons with weil, advantage and disadvantage",
-     "body": "Give a reason with weil: the verb goes to the end. Ich bin dafür, weil alle gleich aussehen. Use Vorteil (advantage) and Nachteil (disadvantage) to weigh both sides: Ein Vorteil ist: Alle sind gleich. After the colon you write a normal sentence. In many places in Germany there are almost no school uniforms.",
+     "body": "Give a reason with weil: the verb goes to the end. Ich bin dafür, weil alle gleich aussehen. Use Vorteil (advantage) and Nachteil (disadvantage) to weigh both sides: Ein Vorteil ist: Alle sind gleich. After the colon you write a normal sentence. Most schools in Germany have no school uniform.",
      "examples": [
       {
        "de": "Ich bin dafür, weil alle gleich aussehen.",
@@ -13145,7 +13150,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Write in German: I go into the swimming hall.",
+     "prompt": "Write in German: I go into the indoor pool.",
      "answers": [
       "Ich gehe in die Schwimmhalle."
      ],
@@ -13373,11 +13378,11 @@
        "why": "After mit and nach: the dative."
       },
       {
-       "de": "Ben möchte in die Berufsschule gehen.",
-       "en": "Ben wants to go to the vocational school.",
+       "de": "Mein Bruder möchte in die Berufsschule gehen.",
+       "en": "My brother wants to go to the vocational school.",
        "parts": [
         [
-         "Ben",
+         "Mein Bruder",
          "subject"
         ],
         [
@@ -13758,7 +13763,7 @@
       "text": "These facts are general: they change from state to state or canton to canton. In Switzerland the cantons decide, in Germany the states do. Ask a person from the country, and listen for the words. In every country the Schulpflicht means the same: children must go to school for a number of years.",
       "example": {
        "de": "Die Schulpflicht beginnt mit sechs Jahren.",
-       "en": "Compulsory schooling begins at six years old.",
+       "en": "Compulsory schooling begins at the age of six.",
        "parts": [
         [
          "Die",
@@ -14073,10 +14078,10 @@
      ],
      "lead": "You can compare past and present. On this card: a four-step model for a short online comment, so you know what to write and in which order.",
      "deeper": {
-      "text": "A good comment is short and clear. One opinion, one reason, a friendly start and end. In a forum people write Hallo! at the start, and they close with Viele Grüße or Liebe Grüße. Viele Grüße is a little more neutral, Liebe Grüße is warmer. Do not forget the comma after the closing chunk and write your name on the next line.",
+      "text": "A good comment is short and clear. One opinion, one reason, a friendly start and end. In a forum people write Hallo! at the start, and they close with Viele Grüße or Liebe Grüße. Viele Grüße is a little more neutral, Liebe Grüße is warmer. Put no comma after the closing chunk, and write your name on the next line.",
       "example": {
        "de": "Liebe Grüße von Ben",
-       "en": "Kind regards from Ben",
+       "en": "Warm wishes from Ben",
        "parts": [
         [
          "Liebe",
@@ -14563,7 +14568,7 @@
     },
     {
      "type": "type",
-     "prompt": "Ben geht in ___ Berufsschule. (Wohin? article)",
+     "prompt": "Mein Bruder geht in ___ Berufsschule. (Wohin? article)",
      "answers": [
       "die"
      ],
@@ -14838,8 +14843,8 @@
        "en": "With an Ausbildung you go to the vocational school."
       },
       {
-       "de": "Ben möchte in die Berufsschule gehen.",
-       "en": "Ben wants to go to the vocational school."
+       "de": "Mein Bruder möchte in die Berufsschule gehen.",
+       "en": "My brother wants to go to the vocational school."
       }
      ],
      "article": "die",
@@ -14883,7 +14888,7 @@
      "examples": [
       {
        "de": "Die Schulpflicht beginnt mit sechs Jahren.",
-       "en": "Compulsory schooling begins at six years."
+       "en": "Compulsory schooling begins at the age of six."
       },
       {
        "de": "In Deutschland gibt es die Schulpflicht.",
@@ -14917,8 +14922,8 @@
        "en": "The all-day school also has lessons in the afternoon."
       },
       {
-       "de": "Leon möchte in die Ganztagsschule gehen.",
-       "en": "Leon wants to go to the all-day school."
+       "de": "Meine Schwester möchte in die Ganztagsschule gehen.",
+       "en": "My sister wants to go to the all-day school."
       }
      ],
      "article": "die",
@@ -14988,7 +14993,7 @@
    "day": 1,
    "reading": {
     "title": "Mira erzählt: Meine Schulzeit",
-    "text": "Ich war Schülerin in Hamburg. Früher musste ich um sechs Uhr aufstehen, weil mein Schulweg lang war. Ich wollte immer auf dem Schulhof spielen, aber ich musste zuerst die Hausaufgaben machen. In Mathe konnte ich gut rechnen, und ich mochte Kunst. Aber ich konnte nicht malen! Unsere Lehrerin war streng. Wir durften im Unterricht nicht essen, und wir sollten immer leise sein. Nachmittags wollte ich spielen, aber ich sollte lernen. Ich konnte schon früh Gitarre spielen, und das war toll. Unsere Lehrerin hat mich oft gelobt. Mein Lieblingsfach war Geschichte. In der Pause hatte ich oft Hunger, weil ich morgens nicht essen konnte.",
+    "text": "Ich war Schülerin in Wien. Früher musste ich um sechs Uhr aufstehen, weil mein Schulweg lang war. Ich wollte immer auf dem Schulhof spielen, aber ich musste zuerst die Hausaufgaben machen. In Mathe konnte ich gut rechnen, und ich mochte Kunst. Aber ich konnte nicht malen! Unsere Lehrerin war streng. Wir durften im Unterricht nicht essen, und wir sollten immer leise sein. Nachmittags wollte ich spielen, aber ich sollte lernen. Ich konnte schon früh Gitarre spielen, und das war toll. Unsere Lehrerin hat mich oft gelobt. Mein Lieblingsfach war Geschichte. In der Pause hatte ich oft Hunger, weil ich morgens nicht essen konnte.",
     "glossary": [
      {
       "de": "zuerst",
@@ -14999,8 +15004,8 @@
       "en": "in the morning"
      },
      {
-      "de": "Hamburg",
-      "en": "a big city in the north of Germany"
+      "de": "Wien",
+      "en": "Vienna, the capital of Austria"
      }
     ],
     "questions": [
@@ -15012,9 +15017,9 @@
        "in Hamburg",
        "in Wien"
       ],
-      "answer": 1,
+      "answer": 2,
       "hint": "Look at the first sentence.",
-      "explanation": "Ich war Schülerin in Hamburg."
+      "explanation": "Ich war Schülerin in Wien."
      },
      {
       "type": "choice",
@@ -15400,11 +15405,11 @@
    "day": 2,
    "reading": {
     "title": "Von der Schule in die Lehre",
-    "text": "Ich heiße Ben. In der Grundschule war ich gern in der Klasse. Ich habe das Abitur gemacht, und ich bin nie sitzengeblieben. Nach der Schule wollte ich nicht studieren. In den Ferien habe ich einen Ferienjob im Restaurant gemacht. Der Chef war Herr Ali. Das war toll! Meine Schwester hat auch einen Ferienjob gemacht, und wir haben oft zusammen gearbeitet. Ich habe mit meinem Chef gesprochen, und er hat mir viel gezeigt. Danach habe ich bei meiner Tante in Wien gewohnt und eine Lehre als Koch gemacht. Vor einem Jahr habe ich die Lehre abgeschlossen. Ich musste viel lernen, aber das war gut, weil ich gern kochen wollte.",
+    "text": "Ich heiße Ben. In der Grundschule war ich gern in der Klasse. In Madrid habe ich die Schule abgeschlossen, und ich bin nie sitzengeblieben. Nach der Schule wollte ich zuerst nicht studieren. In den Ferien habe ich einen Ferienjob im Restaurant gemacht. Der Chef war mein Onkel. Das war toll! Meine Schwester hat auch einen Ferienjob gemacht, und wir haben oft zusammen gearbeitet. Ich habe mit meinem Chef gesprochen, und er hat mir viel gezeigt. Danach habe ich bei meiner Tante in Hamburg gewohnt und eine Lehre als Koch gemacht. Vor drei Jahren habe ich die Lehre abgeschlossen. Ich musste viel lernen, aber das war gut, weil ich gern kochen wollte. Jetzt studiere ich in Berlin, und ich koche oft für meine WG.",
     "glossary": [
      {
-      "de": "Wien",
-      "en": "Vienna, the capital of Austria"
+      "de": "zuerst",
+      "en": "at first"
      },
      {
       "de": "Koch",
@@ -15430,7 +15435,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Ben not want to do after school?",
+      "prompt": "What did Ben not want to do at first after school?",
       "options": [
        "work",
        "study",
@@ -15438,7 +15443,7 @@
       ],
       "answer": 1,
       "hint": "Look for nach der Schule.",
-      "explanation": "Nach der Schule wollte ich nicht studieren."
+      "explanation": "Nach der Schule wollte ich zuerst nicht studieren."
      },
      {
       "type": "choice",
@@ -15457,12 +15462,12 @@
       "prompt": "Who was the boss at the holiday job?",
       "options": [
        "Leon",
-       "Frau Weber",
-       "Herr Ali"
+       "Herr Ali",
+       "his uncle"
       ],
       "answer": 2,
       "hint": "Look for Chef.",
-      "explanation": "Der Chef war Herr Ali."
+      "explanation": "Der Chef war mein Onkel."
      },
      {
       "type": "choice",
@@ -15517,12 +15522,12 @@
       "prompt": "When did Ben finish the apprenticeship?",
       "options": [
        "ten years ago",
-       "a year ago",
+       "three years ago",
        "next year"
       ],
       "answer": 1,
       "hint": "Look for Vor einem Jahr.",
-      "explanation": "Vor einem Jahr."
+      "explanation": "Vor drei Jahren."
      },
      {
       "type": "choice",
@@ -15540,7 +15545,7 @@
    },
    "listening": {
     "title": "Wem gehört das?",
-    "script": "Anna: Leon, ich habe meine Schultasche gefunden!\nLeon: Echt? Was ist in der Tasche?\nAnna: Ein Taschenrechner, ein Federmäppchen und ein Wörterbuch.\nLeon: Wem gehört das Wörterbuch?\nAnna: Das gehört meinem Bruder. Ich habe es von ihm geborgt.\nLeon: Und der Taschenrechner?\nAnna: Ich habe ihn von meiner Freundin geborgt. Sie hat mir den Taschenrechner geliehen.\nLeon: Und das Federmäppchen?\nAnna: Das ist mein Federmäppchen. In der Grundschule musste ich es immer mitbringen.\nLeon: Früher musste ich meinem Bruder immer mein Lineal leihen. Er hatte nie ein Lineal.\nAnna: Und was wolltest du in der Schule am liebsten machen?\nLeon: Ich wollte mit meinen Freunden Fußball spielen! Wir haben oft auf dem Schulhof gespielt.\nAnna: Ich war gern bei meiner Lehrerin. Sie hat mir oft geholfen.",
+    "script": "Anna: Leon, ich habe meine Schultasche gefunden!\nLeon: Echt? Was ist in der Tasche?\nAnna: Ein Taschenrechner, ein Federmäppchen und ein Wörterbuch.\nLeon: Wem gehört das Wörterbuch?\nAnna: Das gehört meinem Bruder. Ich habe es von ihm geborgt.\nLeon: Und der Taschenrechner?\nAnna: Ich habe ihn von meiner Freundin geborgt. Sie hat mir den Taschenrechner geliehen.\nLeon: Und das Federmäppchen?\nAnna: Das ist mein Federmäppchen. In der Grundschule musste ich es immer mitbringen.\nLeon: Früher musste ich meiner Schwester immer mein Lineal leihen. Sie hatte nie ein Lineal.\nAnna: Und was wolltest du in der Schule am liebsten machen?\nLeon: Ich wollte mit meinen Freunden Fußball spielen! Wir haben oft auf dem Schulhof gespielt.\nAnna: Ich habe gern mit meiner Lehrerin gesprochen. Sie hat mir oft geholfen.",
     "questions": [
      {
       "type": "choice",
@@ -15616,7 +15621,7 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Leon have to lend his brother?",
+      "prompt": "What did Leon have to lend his sister?",
       "options": [
        "his ruler",
        "his calculator",
@@ -15624,19 +15629,19 @@
       ],
       "answer": 0,
       "hint": "Listen for leihen.",
-      "explanation": "Er musste ihm sein Lineal leihen."
+      "explanation": "Er musste ihr sein Lineal leihen."
      },
      {
       "type": "choice",
       "prompt": "Why did Leon have to lend it?",
       "options": [
-       "His brother broke it.",
-       "His brother never had a ruler.",
-       "His brother was in a hurry."
+       "His sister broke it.",
+       "His sister never had a ruler.",
+       "His sister was in a hurry."
       ],
       "answer": 1,
       "hint": "Listen for nie.",
-      "explanation": "Er hatte nie ein Lineal."
+      "explanation": "Sie hatte nie ein Lineal."
      },
      {
       "type": "choice",
@@ -15973,7 +15978,7 @@
       ],
       "answer": 1,
       "hint": "Look for weil.",
-      "explanation": "Wir sind dafür, weil wir unsere Kleidung mögen."
+      "explanation": "Wir waren dagegen, weil wir unsere Kleidung mögen."
      }
     ]
    },
