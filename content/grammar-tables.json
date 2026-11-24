@@ -581,7 +581,8 @@
    "a1-c05-06",
    "a1-c07-04",
    "a2-c02-05",
-   "a2-c02-06"
+   "a2-c02-06",
+   "b1-c02-08"
   ]
  },
  {
@@ -2977,6 +2978,11 @@
     "sonst",
     "otherwise",
     "Beeil dich, sonst kommen wir zu spät."
+   ],
+   [
+    "daher",
+    "that's why (formal)",
+    "Das Gerät ist defekt. Daher schicke ich es zurück."
    ]
   ],
   "notes": [
@@ -3006,7 +3012,9 @@
    "a2-c09-08",
    "a2-c09-09",
    "a2-c10-06",
-   "a2-c10-09"
+   "a2-c10-09",
+   "b1-c02-04",
+   "b1-c02-11"
   ]
  },
  {
@@ -3060,6 +3068,11 @@
     "da",
     "because, since (known reason, usually first)",
     "Da es regnet, bleiben wir hier."
+   ],
+   [
+    "sodass",
+    "so that (result)",
+    "Robbi ist laut, sodass niemand schlafen kann."
    ]
   ],
   "notes": [
@@ -3134,7 +3147,9 @@
    "b1-c01-07",
    "b1-c01-08",
    "b1-c01-09",
-   "b1-c01-12"
+   "b1-c01-12",
+   "b1-c02-03",
+   "b1-c02-05"
   ]
  },
  {
@@ -4005,12 +4020,33 @@
      "t": "meiner Kinder",
      "g": "pl"
     }
+   ],
+   [
+    "kein",
+    {
+     "t": "keines Mannes",
+     "g": "m"
+    },
+    {
+     "t": "keiner Frau",
+     "g": "f"
+    },
+    {
+     "t": "keines Kindes",
+     "g": "n"
+    },
+    {
+     "t": "keiner Kinder",
+     "g": "pl"
+    }
    ]
   ],
   "notes": [
    "Masculine and neuter nouns add -s or -es: des Vaters, des Hauses (-es after short words and s, ß, z).",
    "Names just add -s, with no apostrophe: Annas Fahrrad.",
-   "In speech people often use von + dative instead: das Auto von dem Mann."
+   "In speech people often use von + dative instead: das Auto von dem Mann.",
+   "Question word: wessen? Wessen Fahrrad ist das? – Das Fahrrad meines Bruders.",
+   "The genitive comes AFTER the noun: die Farbe des Autos (the colour of the car); names come BEFORE: Annas Auto."
   ],
   "examples": [
    {
@@ -4028,7 +4064,13 @@
   ],
   "chapter": "A2 ch 1; B1 ch 2",
   "lessons": [
-   "a2-c01-06"
+   "a2-c01-06",
+   "b1-c02-07",
+   "b1-c02-08",
+   "b1-c02-09",
+   "b1-c02-10",
+   "b1-c02-13",
+   "b1-c02-15"
   ]
  },
  {
@@ -4062,10 +4104,17 @@
     "statt / anstatt",
     "instead of",
     "statt eines Autos"
+   ],
+   [
+    "trotzdem (review)",
+    "anyway (adverb, NOT a preposition)",
+    "Es regnet. Trotzdem gehen wir."
    ]
   ],
   "notes": [
-   "In everyday speech many people use the dative here (wegen dem Regen). Use the genitive in writing."
+   "In everyday speech many people use the dative here (wegen dem Regen). Use the genitive in writing.",
+   "weil + clause = wegen + noun: weil es regnet → wegen des Regens. obwohl + clause = trotz + noun: obwohl es regnet → trotz des Regens.",
+   "während and statt come later (B1 ch3)."
   ],
   "examples": [
    {
@@ -4077,8 +4126,158 @@
     "en": "Despite the cold we go swimming."
    }
   ],
-  "videos": [],
-  "chapter": "B1 ch 2, 3"
+  "videos": [
+   "yt:8VowGvnRU_s"
+  ],
+  "chapter": "B1 ch 2, 3",
+  "lessons": [
+   "b1-c02-10",
+   "b1-c02-11",
+   "b1-c02-12",
+   "b1-c02-14",
+   "b1-c02-15"
+  ]
+ },
+ {
+  "id": "b1-lassen",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "lassen: have something done, let, leave",
+  "why": "lassen + infinitive says that someone else does the job for you, or that you allow something.",
+  "headers": [
+   "Person",
+   "lassen",
+   "Example"
+  ],
+  "rows": [
+   [
+    "ich",
+    "lasse",
+    "Ich lasse mein Fahrrad reparieren."
+   ],
+   [
+    "du",
+    "lässt",
+    "Lässt du deine Haare schneiden?"
+   ],
+   [
+    "er / sie / es",
+    "lässt",
+    "Herr Ali lässt Leon in der Küche helfen."
+   ],
+   [
+    "wir",
+    "lassen",
+    "Wir lassen die Pizza liefern."
+   ],
+   [
+    "ihr",
+    "lasst",
+    "Lasst ihr den Saugroboter reparieren?"
+   ],
+   [
+    "sie / Sie",
+    "lassen",
+    "Sie lassen die Katze nicht in die Küche."
+   ]
+  ],
+  "notes": [
+   "lassen is verb 2, the infinitive goes to the END: Ich lasse das Rad reparieren.",
+   "du lässt, er lässt: a with Umlaut, like fahren → fährt.",
+   "Three meanings: have done (Ich lasse das Auto waschen.), let/allow (Sie lässt mich fahren.), leave (Ich lasse das Handy zu Hause.).",
+   "In a subordinate clause lassen goes to the very end: …, weil ich das Rad reparieren lasse.",
+   "Imperative: Lass mich helfen! / Lassen Sie mich das machen!"
+  ],
+  "examples": [
+   {
+    "de": "Ich lasse meine Bilder rahmen.",
+    "en": "I'm having my pictures framed."
+   },
+   {
+    "de": "Frau Weber lässt die Katze nicht in die Küche.",
+    "en": "Frau Weber doesn't let the cat into the kitchen."
+   }
+  ],
+  "videos": [
+   "yt:Ree_YclSVTE"
+  ],
+  "chapter": "B1 ch 2",
+  "lessons": [
+   "b1-c02-01",
+   "b1-c02-02",
+   "b1-c02-03",
+   "b1-c02-06",
+   "b1-c02-14",
+   "b1-c02-15"
+  ]
+ },
+ {
+  "id": "b1-consequence",
+  "level": "b1",
+  "group": "Connectors",
+  "title": "Consequences: deshalb, darum, sodass",
+  "why": "Two ways to say what happens as a result: a word in position 1 (verb next) or sodass (verb at the end).",
+  "headers": [
+   "Connector",
+   "Word order",
+   "Example"
+  ],
+  "rows": [
+   [
+    "deshalb / deswegen / darum",
+    "position 1, verb next",
+    "Der Akku ist leer. Deshalb funktioniert Robbi nicht."
+   ],
+   [
+    "daher",
+    "position 1, verb next (more formal, written)",
+    "Das Gerät ist defekt. Daher möchte ich es zurückschicken."
+   ],
+   [
+    "… , sodass …",
+    "verb at the END",
+    "Robbi ist laut, sodass niemand schlafen kann."
+   ],
+   [
+    "so + adjective, dass …",
+    "verb at the END",
+    "Robbi ist so laut, dass niemand schlafen kann."
+   ],
+   [
+    "weil / da (reason, review)",
+    "verb at the END",
+    "Niemand kann schlafen, weil Robbi so laut ist."
+   ]
+  ],
+  "notes": [
+   "deshalb, deswegen, darum and daher mean the same; they can also stand after the verb: Ich schicke es deshalb zurück.",
+   "Comma before sodass and before dass.",
+   "so stresses the adjective: so laut, so teuer, so praktisch.",
+   "weil/da give the reason, deshalb/sodass give the result.",
+   "darum is also a da-word (sich kümmern um → darum): Ich kümmere mich darum."
+  ],
+  "examples": [
+   {
+    "de": "Der Preis ist hoch. Darum kaufe ich das Handy nicht.",
+    "en": "The price is high. That's why I'm not buying the phone."
+   },
+   {
+    "de": "Das Paket war so schwer, dass Ben es nicht tragen konnte.",
+    "en": "The parcel was so heavy that Ben couldn't carry it."
+   }
+  ],
+  "videos": [
+   "yt:SYG_i7rKl_4"
+  ],
+  "chapter": "B1 ch 2",
+  "lessons": [
+   "b1-c02-04",
+   "b1-c02-05",
+   "b1-c02-06",
+   "b1-c02-12",
+   "b1-c02-13",
+   "b1-c02-15"
+  ]
  },
  {
   "id": "b1-passive",

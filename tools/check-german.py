@@ -130,7 +130,8 @@ def articles(items):
             start = not re.search(r'[^.!?:\s]', t[:m.start()].rsplit('.', 1)[-1].split('?')[-1].split('!')[-1].split(':')[-1])
             g = gender.get(noun)
             if not g or g == art or noun in plurals: continue
-            if re.search(r',\s*$', t[:m.start()]): continue  # ", das Frau Weber mag": relative pronoun, not the noun's article
+            if re.search(r',\s*$', t[:m.start()]): continue
+            if art == 'der' and g == 'die' and t.strip(' .') == m.group(0): continue  # bare answer "der Lampe": a genitive/dative fill-in  # ", das Frau Weber mag": relative pronoun, not the noun's article
             # das never fits m/f; der fits f only as dative/genitive (not sentence-initial); die fits m/n only in plural
             if art == 'das' or art == 'die' or (art == 'der' and (g == 'das' or start)):
                 flags.append((p, t, f'article: "{m.group(1)} {noun}" but {noun} is {g}'))
