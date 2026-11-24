@@ -63,19 +63,17 @@
   if(window.speechSynthesis)speechSynthesis.getVoices(); // warms the voice list in Chrome
 
   // ---------- Shell: fixed left sidebar + breadcrumb bar (laptop layout) ----------
-  // Pixel icons: 12x12 grids, one pixel = one square, drawn crisp (no stroke icons, no emoji).
-  const G={
-    home:['............','.....##.....','....#..#....','...#....#...','..#......#..','.#........#.','..#......#..','..#..##..#..','..#..##..#..','..#..##..#..','..########..','............'],
-    chapters:['............','.####..####.','#....##....#','#.##.##.##.#','#....##....#','#.##.##.##.#','#....##....#','#.##.##.##.#','#....##....#','.####..####.','............','............'],
-    grammar:['............','.##########.','.#...#....#.','.##########.','.#...#....#.','.#...#....#.','.##########.','.#...#....#.','.#...#....#.','.##########.','............','............'],
-    words:['............','.##########.','#..........#','#.######...#','#..........#','#.####.###.#','#..........#','.####.#####.','....#.#.....','....##......','....#.......','............'],
-    progress:['............','.........##.','.........##.','.....##..##.','.....##..##.','.##..##..##.','.##..##..##.','.##..##..##.','............','############','............','............'],
-    settings:['............','.....##.....','..#.####.#..','...######...','..###..###..','.###....###.','.###....###.','..###..###..','...######...','..#.####.#..','.....##.....','............'],
-    back:['............','......##....','.....##.....','....##......','...##.......','....##......','.....##.....','......##....','............','............','............','............'],
-    sound:['............','.....#......','....##...#..','..####.#..#.','######..#.#.','######..#.#.','######..#.#.','..####.#..#.','....##...#..','.....#......','............','............']
+  const I={
+    home:'<path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M10 20v-5h4v5"/>',
+    chapters:'<path d="M4 4h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2H4z"/><path d="M20 4h-6a2 2 0 0 0-2 2v14a2 2 0 0 1 2-2h6z"/>',
+    grammar:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5M9 8h6"/>',
+    words:'<rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',
+    progress:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+    settings:'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/>',
+    back:'<path d="M15 18l-6-6 6-6"/>',
+    sound:'<path d="M4 9.5h3.5L12 5.5v13l-4.5-4H4z"/><path d="M15.5 9a4 4 0 0 1 0 6M18 6.5a7.5 7.5 0 0 1 0 11"/>'
   };
-  const I=Object.fromEntries(Object.entries(G).map(([k,rows])=>[k,rows.flatMap((r,y)=>[...r].map((c,x)=>c==='#'?`M${x} ${y}h1v1h-1z`:'')).join('')]));
-  const icon=k=>`<svg class="px" viewBox="0 0 12 12" fill="currentColor" shape-rendering="crispEdges" aria-hidden="true"><path d="${I[k]}"/></svg>`;
+  const icon=k=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${I[k]}</svg>`;
   const NAV=[['home','Home'],['chapters','Chapters'],['grammar','Grammar'],['words','Words'],['progress','Progress'],['settings','Settings']];
 
   appEl.innerHTML=`<nav class="dock" aria-label="Main">${NAV.map(([k,l])=>`<a href="#/${k}" data-nav="${k}">${icon(k)}<span>${l}</span></a>`).join('')}</nav>
@@ -92,8 +90,8 @@
     const sn=document.getElementById('sidenow');if(sn)sn.innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
   }
   const phaseByHour=()=>{const h=new Date().getHours();return h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night';};
-  const FONTS=[["jersey15", "Jersey 15"], ["pixelifysans", "Pixelify Sans"], ["dotgothic16", "DotGothic16"], ["handjet", "Handjet"], ["vt323", "VT323"]];
-  function applyFont(){document.documentElement.dataset.font=state.settings.font||'jersey15';}
+  const FONTS=[["cormorant", "Cormorant Garamond"], ["playfair", "Playfair Display"], ["jersey15", "Jersey 15"], ["dotgothic16", "DotGothic16"], ["handjet", "Handjet"]];
+  function applyFont(){document.documentElement.dataset.font=state.settings.font||'cormorant';}
   function applyPhase(){const p=state.settings.phase;document.documentElement.dataset.phase=p&&p!=='auto'?p:phaseByHour();}
   function applyReduced(){document.documentElement.classList.toggle('reduced',!!state.settings.reduced);}
 
@@ -259,31 +257,39 @@
         return `<div class="hp-lv${lv.id===d.level?' cur':''}" style="--w:${wks.length}"><p class="hp-name">${esc(levelTitle(lv.id))}<span>${ds.filter(x=>dayDoneAt(x.n)).length}/${ds.length}</span></p><div class="hp-weeks">${wks.map(k=>{const col=ds.filter(x=>x.week===k);
           return `<div class="hp-wk${col.some(x=>x.checkpointOf&&x.checkpointOf.length)?' flag':''}">${col.map(x=>{const st=dayDoneAt(x.n)?'done':x.n===n?'now':isLocked(x.n)||x.available===false?'lock':'open';
             const t=`${levelTitle(lv.id)} · Week ${k} · ${dayLabel(x)}`;return st==='lock'?`<span class="hp-d ${st}" title="${esc(t)}"></span>`:`<a class="hp-d ${st}" href="#/day/${x.n}" title="${esc(t)}" aria-label="${esc(t)}"></a>`;}).join('')}</div>`;}).join('')}</div></div>`;}).join('');
-      v.innerHTML=`<section class="hh" aria-label="Today's lesson">
-          <div class="hh-photo" aria-hidden="true"><img src="img/${document.documentElement.dataset.phase||'night'}.jpg" alt="" decoding="async"></div>
+      const PH=document.documentElement.dataset.phase||'night';
+      v.innerHTML=`<section class="hh eh" aria-label="Today's lesson">
+          <div class="eh-stage" aria-hidden="true">
+            <img class="eh-bg" src="img/e-${PH}.jpg" alt="" decoding="async">
+            <img class="eh-ghost" src="img/e-${PH}.jpg" alt="" decoding="async">
+            <div class="eh-mist"></div>
+            <p class="eh-word">${hello}</p>
+            <div class="eh-subject" style="-webkit-mask-image:url(img/e-${PH}-m.png);mask-image:url(img/e-${PH}-m.png)"><img src="img/e-${PH}.jpg" alt="" decoding="async"></div>
+          </div>
           <div class="hh-top"><span class="hh-brand">German</span><span class="hh-clock"><span>Berlin</span> <b id="hclock"></b></span></div>
-          <div class="hh-copy">
-            <p class="hh-hello" lang="de"><span>${hello}</span><small>${helloEn}</small></p>
+          <div class="eh-copy">
+            <p class="eh-hello" lang="de"><span class="sr-only">${hello}, </span><i>${helloEn}</i></p>
             <p class="hh-where"><span class="badge">${esc(levelTitle(d.level))}</span>${esc(where)}${s&&s.pos?` · ${esc(s.pos)}`:''}</p>
             <h1 class="hh-title">${s?esc(s.title||s.label):'Coming soon'}</h1>
             ${s?`${s.why?`<p class="hh-why">${esc(s.why)}</p>`:''}
-              ${s.finish?`<button class="hh-go" type="button" data-finish="${s.finish}"><span>${esc(s.label)}</span></button>`:`<a class="hh-go" href="${s.href}"><span>${esc(s.verb||'Go')}</span></a>`}`
-              :`<p class="hh-why">The lessons for this day are still being written. Your progress is safe.</p><a class="hh-go ghost" href="#/chapters/${d.level}"><span>Open Chapters</span></a>`}
+              ${s.finish?`<button class="eh-go" type="button" data-finish="${s.finish}"><span>${esc(s.label)}</span><i aria-hidden="true">→</i></button>`:`<a class="eh-go" href="${s.href}"><span>${esc(s.verb||'Go')}</span><i aria-hidden="true">→</i></a>`}`
+              :`<p class="hh-why">The lessons for this day are still being written. Your progress is safe.</p><a class="eh-go ghost" href="#/chapters/${d.level}"><span>Open Chapters</span><i aria-hidden="true">→</i></a>`}
           </div>
-          <p class="hh-scroll" aria-hidden="true">Scroll</p>
         </section>
-        <div class="hb">
-          ${d.available===false?'':`<section class="ht" data-reveal aria-labelledby="ht-h">
-            <div class="ht-head"><h2 id="ht-h">Today</h2><p class="ht-min"><b>${m}</b> / 120 min${m>=120?' · goal reached':''}</p></div>
-            <div class="ht-blocks" role="progressbar" aria-label="Study time today" aria-valuemin="0" aria-valuemax="120" aria-valuenow="${Math.min(m,120)}">${blocks}</div>
-            <p class="ht-sub">${pdone} of ${parts.length} parts done${chLine}</p>
+        <div class="hb bento">
+          ${d.available===false?'':`<section class="tile t-today" data-reveal aria-labelledby="ht-h">
+            <div class="ht-head"><h2 id="ht-h">Today</h2><p class="ht-min">${pdone} of ${parts.length} parts done${chLine}</p></div>
             ${partList(d)}
+          </section>
+          <section class="tile t-time" data-reveal aria-labelledby="htm-h">
+            <h2 id="htm-h">Study time</h2>
+            <p class="t-big"><b>${m}</b><span>/ 120 min</span></p>
+            <div class="ht-blocks" role="progressbar" aria-label="Study time today" aria-valuemin="0" aria-valuemax="120" aria-valuenow="${Math.min(m,120)}">${blocks}</div>
+            ${m>=120?'<p class="ht-sub">Goal reached</p>':''}
           </section>`}
-          <div class="hm" data-reveal>
-            <section class="hw" aria-labelledby="hw-h"><h2 id="hw-h">Word of the day</h2>${word}</section>
-            <section class="hk" aria-labelledby="hk-h"><h2 id="hk-h">This week</h2><ol class="hk-days">${week}</ol></section>
-          </div>
-          <section class="hp" data-reveal aria-labelledby="hp-h">
+          <section class="tile t-word hw" data-reveal aria-labelledby="hw-h"><h2 id="hw-h">Word of the day</h2>${word}</section>
+          <section class="tile t-week hk" data-reveal aria-labelledby="hk-h"><h2 id="hk-h">This week</h2><ol class="hk-days">${week}</ol></section>
+          <section class="tile t-path hp" data-reveal aria-labelledby="hp-h">
             <div class="ht-head"><h2 id="hp-h">Your path</h2><p class="ht-min">${lvDone} of ${lvDays.length} days in ${esc(levelTitle(d.level))}</p></div>
             <div class="hp-map">${path}</div>
             <p class="hp-key"><span><i class="hp-d done"></i>Done</span><span><i class="hp-d now"></i>Today</span><span><i class="hp-d open"></i>Open</span><span><i class="hp-flag"></i>Checkpoint week</span></p>
@@ -293,10 +299,13 @@
       v.querySelector('[data-say]')?.addEventListener('click',e=>speak(e.currentTarget.dataset.say));
       const reduce=!!state.settings.reduced||matchMedia('(prefers-reduced-motion: reduce)').matches;
       if(!reduce){ // photo drifts gently against the pointer: smooth, eased, paused off-screen
-        const img=v.querySelector('.hh-photo img');let mx=0,my=0,x=0,y=0,raf=0;
-        const tick=()=>{x+=(mx-x)*.05;y+=(my-y)*.05;img.style.transform=`scale(1.08) translate3d(${x.toFixed(2)}px,${(y+scrollY*.12).toFixed(2)}px,0)`;raf=Math.abs(mx-x)+Math.abs(my-y)>.05?requestAnimationFrame(tick):0;};
+        const st=v.querySelector('.eh-stage'),word=v.querySelector('.eh-word');let mx=0,my=0,x=0,y=0,raf=0;
+        const tick=()=>{x+=(mx-x)*.04;y+=(my-y)*.04;const sy=scrollY;
+          st.style.setProperty('--px',`${x.toFixed(2)}px`);st.style.setProperty('--py',`${(y+sy*.12).toFixed(2)}px`);
+          word.style.transform=`translate3d(${(x*-.5).toFixed(2)}px,${(y*-.35+sy*.12).toFixed(2)}px,0)`;
+          raf=Math.abs(mx-x)+Math.abs(my-y)>.05?requestAnimationFrame(tick):0;};
         const kick=()=>{if(!raf)raf=requestAnimationFrame(tick);};
-        const mv=e=>{mx=(e.clientX/innerWidth-.5)*-18;my=(e.clientY/innerHeight-.5)*-10;kick();};
+        const mv=e=>{mx=(e.clientX/innerWidth-.5)*-46;my=(e.clientY/innerHeight-.5)*-28;kick();};
         addEventListener('pointermove',mv,{passive:true});addEventListener('scroll',kick,{passive:true});
         homeStops.push(()=>{removeEventListener('pointermove',mv);removeEventListener('scroll',kick);cancelAnimationFrame(raf);});
       }
@@ -517,9 +526,9 @@
       const canAsk='Notification' in window&&Notification.permission==='default';
       v.innerHTML=`<h1>Settings</h1>
         <section class="section"><h2>Look</h2><p class="muted">The photo and colours follow the time of day, or pick one to keep.</p>
-          <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Pink lake'],['day','Day','Blue mountains'],['dusk','Dusk','Sunset peak'],['night','Night','Star trails']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/${k}.jpg)"`}>${k==='auto'?['dawn','day','dusk','night'].map(p=>`<i style="background-image:url(img/${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
-        <section class="section"><h2>Heading font</h2><p class="muted">The pixel font for titles, step buttons and the dock.</p>
-          <div class="fonts" role="group" aria-label="Heading font">${FONTS.map(([k,n])=>`<button type="button" class="fontpick" data-font-pick="${k}" aria-pressed="${(s.font||'jersey15')===k}"><span style="font-family:'${n}'">Gute Nacht</span><small>${n}</small></button>`).join('')}</div></section>
+          <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Lone pine'],['day','Day','Above the clouds'],['dusk','Dusk','Ember peak'],['night','Night','Star trails'],['lake','Lake','Forest lake'],['plain','Plain','Golden plain'],['alpen','Alpen','Alpenglow']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/e-${k}.jpg)"`}>${k==='auto'?['dawn','day','dusk','night'].map(p=>`<i style="background-image:url(img/e-${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
+        <section class="section"><h2>Heading font</h2><p class="muted">The font for titles, step buttons and the dock.</p>
+          <div class="fonts" role="group" aria-label="Heading font">${FONTS.map(([k,n])=>`<button type="button" class="fontpick" data-font-pick="${k}" aria-pressed="${(s.font||'cormorant')===k}"><span style="font-family:'${n}'">Gute Nacht</span><small>${n}</small></button>`).join('')}</div></section>
         <section class="section"><h2>Motivation</h2>
           ${sw('reminders','Gentle reminders','A short encouraging note while you study')}
           ${seg('interval','Reminder every',[3,5,10],x=>x+' min')}
