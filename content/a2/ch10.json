@@ -580,7 +580,7 @@
      }
     },
     {
-     "title": "The object test with six pairs",
+     "title": "The object test with three pairs",
      "body": "Here are three pairs of sentences. In each pair the thing and the place are the same: the left sentence is a state, the right one has a person who moves the thing. Look only at the verb and the object. No object means dative. An object that somebody moves means accusative. Here the preposition never tells you the case.",
      "lead": "Now you try the test on real furniture. Read each row from left to right: same thing, same place, but a different verb and so a different case.",
      "examples": [
@@ -1620,8 +1620,7 @@
      "type": "type",
      "prompt": "Write in German: Could you help me, please? (Sie)",
      "answers": [
-      "Könnten Sie mir bitte helfen?",
-      "Könnten Sie bitte mir helfen?"
+      "Könnten Sie mir bitte helfen?"
      ],
      "hint": "Könnten first, helfen at the end.",
      "explanation": "Könnten Sie mir bitte helfen?",
@@ -1645,8 +1644,8 @@
     "point": "Liegen and legen work like stehen and stellen: no object means Wo? and the dative, an object that somebody moves means Wohin? and the accusative. Hängen is the same word in the present for both jobs. Perfekt: hat gelegen / hat gelegt, hat gehangen (it hangs) / hat gehängt (somebody hangs it); aufhängen is separable.",
     "oneLine": "Das Bild hängt an der Wand. Mira hängt das Bild an die Wand.",
     "mistake": {
-     "wrong": "Ich hänge das Poster an der Wand auf.",
-     "right": "Ich hänge das Poster an die Wand auf.",
+     "wrong": "Ich hänge das Poster an der Wand.",
+     "right": "Ich hänge das Poster an die Wand.",
      "why": "Hängen with an object (das Poster) answers Wohin?, so the preposition takes the accusative."
     },
     "tables": [
@@ -2198,8 +2197,8 @@
     },
     {
      "title": "Separable: aufhängen, aufstellen, hinlegen",
-     "body": "Aufhängen (to hang up) is separable like aufstellen. In the present the small part goes to the end: Mira hängt das Bild auf. The goal stays in the middle: Mira hängt das Bild an die Wand auf. In the Perfekt the ge sits in the middle: sie hat das Bild aufgehängt. Hinlegen works in the same way.",
-     "lead": "You know separable verbs from the earlier chapters. This card shows how they work with a Wohin? phrase: the goal stands in the middle and the small part waits at the end.",
+     "body": "Aufhängen (to hang up) is separable like aufstellen. In the present the small part goes to the end: Mira hängt das Bild auf. With a goal you mostly use plain hängen: Mira hängt das Bild an die Wand. In the Perfekt the ge sits in the middle: sie hat das Bild aufgehängt. Hinlegen works in the same way.",
+     "lead": "You know separable verbs from the earlier chapters. This card shows how they work with a Wohin? phrase: the object stands in the middle and the small part waits at the end.",
      "examples": [
       {
        "de": "Mira hängt das Bild auf.",
@@ -2224,7 +2223,7 @@
        ]
       },
       {
-       "de": "Mira hängt das Bild an die Wand auf.",
+       "de": "Mira hängt das Bild an die Wand.",
        "en": "Mira hangs the picture on the wall.",
        "parts": [
         [
@@ -2244,15 +2243,11 @@
          "preposition"
         ],
         [
-         "die Wand",
+         "die Wand.",
          "object"
-        ],
-        [
-         "auf.",
-         "verb2"
         ]
        ],
-       "why": "The goal stays in the middle."
+       "why": "With a goal, plain hängen is the usual verb."
       },
       {
        "de": "Sie hat das Bild aufgehängt.",
@@ -2278,7 +2273,7 @@
       }
      ],
      "deeper": {
-      "text": "Aufhängen and aufstellen always need an object: somebody hangs or sets up something, so the goal is accusative. Hinlegen works the same with a thing (Leon legt den Hammer hin). With a person it becomes reflexive: Ich lege mich hin, as in chapter 4. You can order all of them too: Häng das Poster bitte auf!",
+      "text": "Aufhängen and aufstellen always need an object: somebody hangs or sets up something. When you add a goal, German mostly uses the plain verb: Mira hängt das Bild an die Wand. Hinlegen works the same with a thing (Leon legt den Hammer hin). With a person it becomes reflexive: Ich lege mich hin, as in chapter 4. You can order all of them too: Häng das Poster bitte auf!",
       "example": {
        "de": "Leon legt den Hammer hin.",
        "en": "Leon puts the hammer down.",
@@ -2302,7 +2297,7 @@
        ]
       }
      },
-     "more": "Think of a sandwich. The top bread is hängt, the bottom bread is auf, and the goal an die Wand is the filling in the middle. That is the present: Mira hängt das Bild an die Wand auf. In the Perfekt the bread closes into one word, aufgehängt, and the filling sits between hat and the participle. English works in a similar way: 'hang the picture up'. The small part moves away from its verb, and German sends it to the end.",
+     "more": "Think of a sandwich. The top bread is hängt, the bottom bread is auf, and the object das Bild is the filling in the middle. That is the present: Mira hängt das Bild auf. In the Perfekt the bread closes into one word, aufgehängt, and the filling sits between hat and the participle. English works in a similar way: 'hang the picture up'. The small part moves away from its verb, and German sends it to the end.",
      "table": {
       "headers": [
        "Infinitive",
@@ -2975,13 +2970,13 @@
      "type": "choice",
      "prompt": "Which sentence is correct?",
      "options": [
-      "Mira hängt das Bild an der Wand auf.",
-      "Mira hängt das Bild an die Wand auf.",
-      "Mira hängt das Bild an die Wand aufgehängt."
+      "Mira hängt das Bild an der Wand.",
+      "Mira hängt das Bild an die Wand.",
+      "Mira hängt das Bild an die Wand gehängt."
      ],
      "answer": 1,
-     "hint": "Object: accusative; the prefix goes to the end.",
-     "explanation": "Mira hängt das Bild an die Wand auf.",
+     "hint": "Object: Wohin? and the accusative.",
+     "explanation": "Mira hängt das Bild an die Wand.",
      "grammar": true
     },
     {
@@ -3109,7 +3104,7 @@
      "examples": [
       {
        "de": "Die Schraube liegt im Regal.",
-       "en": "The screw is in the shelf."
+       "en": "The screw is on the shelf."
       },
       {
        "de": "Ich brauche drei Schrauben.",
@@ -3310,7 +3305,7 @@
     {
      "intro": true,
      "title": "Before we start: people and animals move themselves",
-     "body": "The free room is almost ready, and now the people use it. Anna tries der Hocker, Ben prefers der Boden, and the Katze of Frau Weber visits from the Treppenhaus. People and animals can put themselves somewhere: sich setzen, sich legen, sich stellen. The test stays the same.",
+     "body": "The free room is almost ready, and now the people use it. Anna tries der Hocker, Ben prefers der Boden, and Frau Weber's Katze visits from the Treppenhaus. People and animals can put themselves somewhere: sich setzen, sich legen, sich stellen. The test stays the same.",
      "steps": [
       "You already know: sich setzen and sich hinlegen as reflexive verbs, and the pairs stehen / stellen and liegen / legen.",
       "New today: sitzen and sich setzen with a place, the same for sich legen and sich stellen, the Perfekt, and movement verbs like springen with a goal.",
@@ -4380,7 +4375,7 @@
        ],
        [
         "Mira",
-        "Dann leg dich auf das Bett."
+        "Dann leg dich auf das Bett!"
        ],
        [
         "Ben",
@@ -5313,7 +5308,7 @@
     },
     {
      "title": "Könnten Sie bitte …? to a neighbour",
-     "body": "To a neighbour you say Könnten Sie bitte …? Only könnten, nothing else. Könnten Sie mir bitte beim Tragen helfen? (beim = bei dem). The Sie imperative is also fine: Stellen Sie das Fahrrad bitte in den Keller. Good answers: Natürlich! or Gern, wohin soll ich es stellen?",
+     "body": "To a neighbour you say Könnten Sie bitte …? Use könnten, not könntest. Könnten Sie mir bitte beim Tragen helfen? (beim = bei dem). The Sie imperative is also fine: Stellen Sie das Fahrrad bitte in den Keller. Good answers: Natürlich! or Gern, wohin soll ich es stellen?",
      "lead": "You asked a friend with könntest. Now Mira asks neighbours, so she needs Sie: könnten Sie, the polite Sie imperative, and the answers a neighbour gives back.",
      "examples": [
       {
@@ -5947,8 +5942,8 @@
      "lead": "You now have every piece: the opener, the polite question, the instruction and the answer. On this card they come together in one short conversation about the Schrank.",
      "examples": [
       {
-       "de": "Leon, ich habe eine Bitte. Könntest du mir beim Umzug helfen?",
-       "en": "Leon, I have a request. Could you help me with the move?",
+       "de": "Leon, ich habe eine Bitte. Könntest du mir beim Tragen helfen?",
+       "en": "Leon, I have a request. Could you help me carry it?",
        "parts": [
         [
          "Leon,",
@@ -5979,7 +5974,7 @@
          "dative"
         ],
         [
-         "beim Umzug",
+         "beim Tragen",
          "dative"
         ],
         [
@@ -6129,7 +6124,7 @@
      "more": "Read the dialogue like a small play. First Mira asks nicely, then Leon says yes and asks where the box goes, Mira points, Leon pushes it and reports what he did. Mira says thanks. Read it twice, once as Mira and once as Leon. The second time, change the thing: not Schrank, but Regal or Fahrrad. Wohin soll ich es stellen? works for every thing, and only the article changes: den Schrank becomes das Regal.",
      "steps": [
       "Open: Ich habe eine Bitte.",
-      "Ask: Könntest du mir beim Umzug helfen?",
+      "Ask: Könntest du mir beim Tragen helfen?",
       "Answer and ask back: Gern. Wohin soll ich …?",
       "Instruct: Verschieb ihn bitte …",
       "Report in the Perfekt: Ich habe … gestellt.",
@@ -8102,8 +8097,8 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:HsqV5qmpOQs",
-     "yt:DNMQCPywIKk"
+     "yt:_tHi2rjFKd0",
+     "yt:ZB_rSuv5OPM"
     ],
     "nicosWeg": [
      "nw:a2-70"
@@ -8520,8 +8515,8 @@
        "en": "The volume is too high."
       },
       {
-       "de": "Mach die Lautstärke bitte leiser.",
-       "en": "Turn the volume down, please."
+       "de": "Die Lautstärke ist mir zu hoch.",
+       "en": "The volume is too high for me."
       }
      ],
      "forms": "no plural"
@@ -11090,7 +11085,7 @@
       },
       {
        "de": "Ich habe gesehen, dass die Kiste im Flur steht.",
-       "en": "I saw that the box is in the hall.",
+       "en": "I saw that the box was in the hall.",
        "parts": [
         [
          "Ich",
@@ -12366,7 +12361,8 @@
      "type": "type",
      "prompt": "Write in German: Could you help me? (du, very polite)",
      "answers": [
-      "Könntest du mir helfen?"
+      "Könntest du mir helfen?",
+      "Könntest du mir bitte helfen?"
      ],
      "hint": "Very polite du-request: the modal first, helfen at the end.",
      "explanation": "Könntest du mir helfen?",
@@ -12546,11 +12542,11 @@
        ]
       },
       {
-       "de": "Am Samstag lädt Anna die Gäste ein.",
-       "en": "On Saturday Anna invites the guests.",
+       "de": "Heute lädt Anna die Gäste ein.",
+       "en": "Today Anna invites the guests.",
        "parts": [
         [
-         "Am Samstag",
+         "Heute",
          "time"
         ],
         [
@@ -12573,13 +12569,13 @@
       }
      ],
      "deeper": {
-      "text": "German also has a future with werden, which you will meet later, but for a plan with a time word the present is what people really say. Order the plan with time words in position 1: Am Freitag kauft Anna die Getränke. Um acht baut Leon die Lautsprecher auf. The time word pushes the subject behind the verb, and the prefix of a separable verb like aufbauen still goes to the end.",
+      "text": "German also has a future with werden, which you will meet later, but for a plan with a time word the present is what people really say. Order the plan with time words in position 1: Am Freitag kauft Anna die Getränke. Um sechs baut Leon die Lautsprecher auf. The time word pushes the subject behind the verb, and the prefix of a separable verb like aufbauen still goes to the end.",
       "example": {
-       "de": "Um acht baut Leon die Lautsprecher auf.",
-       "en": "At eight Leon sets up the speakers.",
+       "de": "Um sechs baut Leon die Lautsprecher auf.",
+       "en": "At six Leon sets up the speakers.",
        "parts": [
         [
-         "Um acht",
+         "Um sechs",
          "time"
         ],
         [
@@ -12626,13 +12622,13 @@
         "Leon",
         "die Lautsprecher",
         "in die Ecke",
-        "um acht"
+        "am Samstag um sechs"
        ],
        [
         "Anna",
         "die Gäste",
         "(einladen)",
-        "schon morgen"
+        "heute"
        ],
        [
         "Herr Ali",
@@ -13419,7 +13415,7 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:ELLKtyQVnaQ",
+     "yt:jlZjNcgItlY",
      "yt:7OhFb-G75HE",
      "yt:U2Sc2UQmyq0"
     ],
@@ -13509,29 +13505,27 @@
     },
     {
      "type": "type",
-     "prompt": "Complete: Um acht baut Leon die Lautsprecher ___. (aufbauen)",
+     "prompt": "Complete: Um sechs baut Leon die Lautsprecher ___. (aufbauen)",
      "answers": [
       "auf"
      ],
      "hint": "Separable prefix at the end.",
-     "explanation": "Um acht baut Leon die Lautsprecher auf.",
+     "explanation": "Um sechs baut Leon die Lautsprecher auf.",
      "grammar": true
     },
     {
      "type": "build",
-     "prompt": "Build: On Saturday Anna invites the guests.",
+     "prompt": "Build: Today Anna invites the guests.",
      "tokens": [
-      "Am",
+      "Heute",
       "die",
       "Anna",
       "ein.",
       "lädt",
-      "Gäste",
-      "Samstag"
+      "Gäste"
      ],
      "answer": [
-      "Am",
-      "Samstag",
+      "Heute",
       "lädt",
       "Anna",
       "die",
@@ -13539,7 +13533,7 @@
       "ein."
      ],
      "hint": "Time word first, then the verb.",
-     "explanation": "Am Samstag lädt Anna die Gäste ein.",
+     "explanation": "Heute lädt Anna die Gäste ein.",
      "grammar": true
     }
    ],
@@ -13635,7 +13629,7 @@
     },
     {
      "type": "choice",
-     "prompt": "Nicht Ben, ___ macht den Salat. Which word gets the stress?",
+     "prompt": "Nicht Ben, Leon macht den Salat. Which word gets the stress?",
      "options": [
       "macht",
       "Leon",
@@ -15029,15 +15023,23 @@
        ]
       },
       {
-       "de": "Wir alle. Trotzdem liegt noch Müll im Flur.",
-       "en": "Mira: All of us. Still, there's rubbish lying in the hall.",
+       "de": "Leon, Anna und ich. Trotzdem liegt noch Müll im Flur.",
+       "en": "Mira: Leon, Anna and I. Still, there's rubbish lying in the hall.",
        "parts": [
         [
-         "Wir",
+         "Leon,",
          "subject"
         ],
         [
-         "alle.",
+         "Anna",
+         "subject"
+        ],
+        [
+         "und",
+         "conjunction"
+        ],
+        [
+         "ich.",
          "subject"
         ],
         [
@@ -15064,7 +15066,7 @@
       }
      ],
      "deeper": {
-      "text": "The talk goes on. Ben: Und wer hat aufgeräumt? Mira: Wir alle. Trotzdem liegt noch Müll im Flur. Ben: Kein Problem, ich bringe die Müllsäcke runter. Mira: Danke! Und es gibt noch Reste vom Kuchen. Look: the report is Perfekt, but what you see now is present: liegt noch, gibt noch.",
+      "text": "The talk goes on. Ben: Und wer hat aufgeräumt? Mira: Leon, Anna und ich. Trotzdem liegt noch Müll im Flur. Ben: Kein Problem, ich bringe die Müllsäcke runter. Mira: Danke! Und es gibt noch Reste vom Kuchen. Look: the report is Perfekt, but what you see now is present: liegt noch, gibt noch.",
       "example": {
        "de": "Es gibt noch Reste vom Kuchen.",
        "en": "There are still leftovers of the cake.",
@@ -15113,7 +15115,7 @@
        ],
        [
         "Mira",
-        "Wir alle. Trotzdem liegt noch Müll im Flur."
+        "Leon, Anna und ich. Trotzdem liegt noch Müll im Flur."
        ],
        [
         "Ben",
@@ -16499,7 +16501,7 @@
    "media": {
     "grammarVideos": [
      "yt:qSGUD9WYRwE",
-     "yt:2awKEgIZq_I"
+     "yt:Md0LHGVgFIY"
     ],
     "nicosWeg": [
      "nw:a2-41"
@@ -17986,7 +17988,8 @@
    "media": {
     "grammarVideos": [
      "yt:6m0hX0eLc8M",
-     "yt:Yh_KEW6P-d8"
+     "yt:Yh_KEW6P-d8",
+     "yt:sZQT-qtiueQ"
     ],
     "nicosWeg": [
      "nw:a2-69"
@@ -18513,7 +18516,7 @@
     {
      "intro": true,
      "title": "Before we start: the last room",
-     "body": "The WG has decided: the free room gets a new flatmate, and the four hold a WG-Casting. Three applicants come, ask questions, look at the room and talk about themselves. Today there is no new grammar. You use everything from this chapter in one real situation, and at the end you tell the story of the day.",
+     "body": "The WG has decided: the free room gets a new flatmate, and the four hold a WG-Casting. Three applicants come, ask questions, look at the room and talk about themselves. Today there is almost no new grammar. You use everything from this chapter in one real situation, and at the end you tell the story of the day.",
      "steps": [
       "You already know: Wo? and Wohin? with stehen and stellen, als with the Perfekt (lesson 7), dass after entscheiden and hören (lessons 6 and 11), questions with ob and W-words inside a sentence.",
       "New today: words for a Casting, sich vorstellen (Ich stelle mich vor), auswählen, and entscheiden with a W-question.",
@@ -18848,7 +18851,7 @@
        ]
       }
      },
-     "more": "Think of a business card with three lines. Line 1, who: Ich stelle mich vor. Ich komme aus Köln und bin Studentin. Line 2, what you are like: Ich bin ordentlich, rücksichtsvoll und hilfsbereit. Line 3, what matters to you: Ich finde es wichtig, dass man den Müll wegräumt. Three lines, and the WG knows you. Ordentlich = your room is tidy. Rücksichtsvoll = you are quiet at night and think of the others. Hilfsbereit = you carry the Schrank when someone asks.",
+     "more": "Think of a business card with three lines. Line 1, who: Ich stelle mich vor. Ich komme aus Kiel und bin Studentin. Line 2, what you are like: Ich bin ordentlich, rücksichtsvoll und hilfsbereit. Line 3, what matters to you: Ich finde es wichtig, dass man den Müll wegräumt. Three lines, and the WG knows you. Ordentlich = your room is tidy. Rücksichtsvoll = you are quiet at night and think of the others. Hilfsbereit = you carry the Schrank when someone asks.",
      "table": {
       "headers": [
        "Eigenschaft",
@@ -19120,7 +19123,7 @@
       },
       {
        "de": "Wir haben entschieden, wer einzieht.",
-       "en": "We have chosen who moves in.",
+       "en": "We have decided who moves in.",
        "parts": [
         [
          "Wir",
@@ -19474,12 +19477,12 @@
      "more": "Think of a first date with a flat. Everybody is a bit nervous, so the WG starts with a Vorstellungsrunde: Wir stellen uns kurz vor. The applicant does the same: Ich stelle mich auch vor. Then come the real questions: Hast du ein Haustier? Was ist dir wichtig? And the practical one: Wohin stellst du dein Bett? Ans Fenster. If the date goes well, there is a second meeting, or straight away: Willkommen in der WG!",
      "steps": [
       "Mira: Herzlich willkommen! Wir stellen uns kurz vor. Ich bin Mira.",
-      "Bewerberin: Hallo! Ich stelle mich auch vor: Ich komme aus Köln und bin Studentin.",
+      "Bewerberin: Hallo! Ich stelle mich auch vor: Ich komme aus Kiel und bin Studentin.",
       "Leon: Was ist dir in einer WG wichtig?",
       "Bewerberin: Ich finde es wichtig, dass man rücksichtsvoll ist.",
       "Ben: Sag mal, hast du ein Haustier?",
       "Bewerberin: Nein. Aber ich möchte wissen, ob hier Tiere wohnen.",
-      "Anna: Ja, Frau Weber hat eine Katze!",
+      "Anna: Ja, unser Kaninchen, und Frau Weber hat eine Katze!",
       "Bewerberin: Echt? Ich finde es schön, dass Frau Weber eine Katze hat.",
       "Anna: Und wohin stellst du dein Bett?",
       "Bewerberin: Ans Fenster."
@@ -19489,7 +19492,7 @@
    "media": {
     "grammarVideos": [
      "yt:vY7WCRyG-n8",
-     "yt:Klbzp6TyKqM"
+     "yt:3KZnAVWL5IQ"
     ],
     "nicosWeg": [
      "nw:a2-13",
@@ -20128,7 +20131,7 @@
       "options": [
        "for Herr Ali",
        "for Mira",
-       "for the cat of Frau Weber"
+       "for Frau Weber's cat"
       ],
       "answer": 2,
       "hint": "Look at Ben's second message.",
@@ -20223,7 +20226,7 @@
       "type": "choice",
       "prompt": "Who has jumped onto the windowsill?",
       "options": [
-       "the cat of Frau Weber",
+       "Frau Weber's cat",
        "Ben",
        "Mira"
       ],
@@ -20406,7 +20409,7 @@
    "day": 2,
    "reading": {
     "title": "Das WG-Treffen",
-    "text": "Das WG-Treffen\nProtokoll von Mira, Sonntag, 19 Uhr\nWer war da? Mira, Ben, Leon und Anna.\n1. Der Schrank: Leon hat mir am Samstag beim Umzug geholfen. Wir haben den Schrank ins freie Zimmer getragen und an die Wand gestellt. Danke, Leon!\n2. Die Beschwerde: Frau Weber hat sich beschwert. Es stört sie, dass unsere Schuhe im Hausflur stehen. Sie hat recht. Ben hat vorgeschlagen, dass wir einen kleinen Schrank für die Schuhe in den Flur stellen. Alle sind einverstanden.\n3. Der Putzplan: Wir haben abgestimmt. Die Mehrheit ist für einen Putzplan. Leon macht diese Woche den Küchendienst, Anna bringt den Müll weg, und Ben putzt das Bad. Nächste Woche tauschen wir.\n4. Das freie Zimmer: Wir haben entschieden, dass wir am Samstag ein WG-Casting machen. Leon war zuerst dagegen, denn das dauert lange. Am Ende haben wir uns geeinigt: Jeder darf zwei Fragen stellen.\nViele Grüße\nMira",
+    "text": "Das WG-Treffen\nProtokoll von Mira, Sonntag, 19 Uhr\nWer war da? Mira, Ben, Leon und Anna.\n1. Der Schrank: Leon hat mir am Samstag beim Tragen geholfen. Wir haben den Schrank ins freie Zimmer getragen und an die Wand gestellt. Danke, Leon!\n2. Die Beschwerde: Frau Weber hat sich beschwert. Es stört sie, dass unsere Schuhe im Hausflur stehen. Sie hat recht. Ben hat vorgeschlagen, dass wir einen kleinen Schrank für die Schuhe in den Flur stellen. Alle sind einverstanden.\n3. Der Putzplan: Wir haben abgestimmt. Die Mehrheit ist für einen Putzplan. Leon macht diese Woche den Küchendienst, Anna bringt den Müll weg, und Ben putzt das Bad. Nächste Woche tauschen wir.\n4. Das freie Zimmer: Wir haben entschieden, dass wir am Samstag ein WG-Casting machen. Leon war zuerst dagegen, denn das dauert lange. Am Ende haben wir uns geeinigt: Jeder darf zwei Fragen stellen.\nViele Grüße\nMira",
     "glossary": [
      {
       "de": "das Protokoll",
@@ -20440,7 +20443,7 @@
       ],
       "answer": 1,
       "hint": "Point 1.",
-      "explanation": "Leon hat mir am Samstag beim Umzug geholfen.",
+      "explanation": "Leon hat mir am Samstag beim Tragen geholfen.",
       "grammar": true
      },
      {
@@ -20563,8 +20566,8 @@
     ]
    },
    "listening": {
-    "title": "Ein Wagen für den Umzug",
-    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am nächsten Samstag ist bei uns ein WG-Casting, und danach holen wir noch ein Sofa für das freie Zimmer. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Umzugswagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Dann holen wir das Sofa am Montag.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellen Sie ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
+    "title": "Ein Wagen für das Sofa",
+    "script": "Anna: Guten Tag, Herr Ali! Haben Sie kurz Zeit?\nHerr Ali: Hallo Anna! Ja, natürlich. Was gibt's?\nAnna: Ich habe eine Bitte. Am nächsten Samstag ist bei uns ein WG-Casting, und danach holen wir noch ein Sofa für das freie Zimmer. Könnten Sie uns Ihren Wagen leihen?\nHerr Ali: Den Lieferwagen vom Restaurant? Gern, aber nur am Montag. Am Samstag brauche ich ihn selbst.\nAnna: Montag ist auch gut. Dann holen wir das Sofa am Montag.\nHerr Ali: Gut. Wer fährt?\nAnna: Ben fährt. Er hat einen Führerschein.\nHerr Ali: Prima. Der Wagen steht hinter dem Restaurant „Zum Löwen“. Der Schlüssel liegt an der Kasse.\nAnna: Vielen Dank, das ist sehr nett von Ihnen!\nHerr Ali: Kein Problem. Aber bitte stellen Sie ihn am Abend wieder hinter das Restaurant.\nAnna: Natürlich. Und es stört Sie nicht, dass wir ihn den ganzen Tag haben?\nHerr Ali: Nein, am Montag ist das Restaurant zu.",
     "questions": [
      {
       "type": "choice",
@@ -20805,7 +20808,7 @@
     "free": {
      "prompt": "Eine Bitte und eine Beschwerde: write a short note (5 to 6 sentences) to a neighbour, with Sie. Ask politely for one thing (Könnten Sie bitte …?), complain about one thing (Es stört mich, dass …), and suggest one solution (Ich schlage vor, dass …). End with Viele Grüße and your name on a new line, no comma.",
      "minWords": 40,
-     "model": "Liebe Frau Weber,\nich habe eine Bitte. Könnten Sie mir am Samstag beim Umzug helfen? Ich trage die Kisten, und Sie zeigen mir, wohin ich sie stellen soll. Leider habe ich auch eine Beschwerde. Es stört mich, dass das Fahrrad im Hausflur steht. Ich schlage vor, dass wir es zusammen in den Keller stellen.\nViele Grüße\nAnna",
+     "model": "Liebe Frau Weber,\nich habe eine Bitte. Könnten Sie mir am Samstag beim Tragen helfen? Ich trage die Kisten, und Sie zeigen mir, wohin ich sie stellen soll. Leider habe ich auch eine Beschwerde. Es stört mich, dass das Fahrrad im Hausflur steht. Ich schlage vor, dass wir es zusammen in den Keller stellen.\nViele Grüße\nAnna",
      "checks": [
       {
        "label": "asks politely with könnte",
@@ -20978,7 +20981,7 @@
    },
    "listening": {
     "title": "Der Morgen nach der Party",
-    "script": "Ben: Guten Morgen, Mira! Wie war die Party?\nMira: Super! Schade, dass du so früh ins Bett gegangen bist. Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht.\nBen: Und um wie viel Uhr ist der letzte Gast gegangen?\nMira: Um zwei Uhr. Wir haben lange getanzt.\nBen: Und wer hat aufgeräumt?\nMira: Wir alle. Leon hat das Geschirr gespült, und Anna hat die Girlande abgebaut.\nBen: Ist etwas kaputtgegangen?\nMira: Ja, ein Glas. Deshalb haben Scherben auf dem Boden gelegen. Leon hat sie weggeräumt.\nBen: Und der Fleck da auf dem Teppich?\nMira: Der ist vom Rotwein. Trotzdem war das ein schöner Abend.\nBen: Ist noch etwas übrig?\nMira: Ja, noch ein Rest Kuchen und viele Chips. Und im Flur stehen noch zwei Müllsäcke.\nBen: Kein Problem, ich bringe die Müllsäcke runter.",
+    "script": "Ben: Guten Morgen, Mira! Wie war die Party?\nMira: Super! Schade, dass du so früh ins Bett gegangen bist. Als Herr Ali mit dem Kuchen gekommen ist, haben alle gelacht.\nBen: Und um wie viel Uhr ist der letzte Gast gegangen?\nMira: Um zwei Uhr. Wir haben lange getanzt.\nBen: Und wer hat aufgeräumt?\nMira: Leon, Anna und ich. Leon hat das Geschirr gespült, und Anna hat die Girlande abgebaut.\nBen: Ist etwas kaputtgegangen?\nMira: Ja, ein Glas. Deshalb haben Scherben auf dem Boden gelegen. Leon hat sie weggeräumt.\nBen: Und der Fleck da auf dem Teppich?\nMira: Der ist vom Rotwein. Trotzdem war das ein schöner Abend.\nBen: Ist noch etwas übrig?\nMira: Ja, noch ein Rest Kuchen und viele Chips. Und im Flur stehen noch zwei Müllsäcke.\nBen: Kein Problem, ich bringe die Müllsäcke runter.",
     "questions": [
      {
       "type": "choice",
@@ -21238,7 +21241,7 @@
     "examples": [
      "Als ich eingezogen bin, hat es geregnet. Zuerst habe ich die Kisten getragen. Am Abend war ich sehr müde.",
      "Ich habe das Bett an die Wand gestellt. Den Teppich habe ich auf den Boden gelegt, und die Lampe steht jetzt in der Ecke.",
-     "Meine letzte Party war super. Als die Gäste gekommen sind, haben wir getanzt. Trotzdem war ich um elf Uhr müde."
+     "Meine letzte Party war super. Als die Gäste gekommen sind, haben wir getanzt. Deshalb war ich um elf Uhr müde."
     ]
    }
   },
@@ -21397,7 +21400,7 @@
    },
    "listening": {
     "title": "Das Interview im Casting",
-    "script": "Mira: Hallo und herzlich willkommen! Ich bin Mira, und das ist Anna.\nAnna: Hallo! Wir wohnen hier mit Ben und Leon. Wir stellen uns kurz vor: Ich studiere Kunst und Mira studiert Informatik.\nBewerberin: Hallo! Ich stelle mich auch vor. Ich komme aus Kiel und bin Studentin.\nMira: Kannst du uns sagen, wo du jetzt wohnst?\nBewerberin: Ich wohne in einem Vorort. Dorthin fahre ich jeden Tag eine Stunde mit dem Bus.\nAnna: Was ist dir in einer WG wichtig?\nBewerberin: Ich finde es wichtig, dass alle rücksichtsvoll sind. Und ich bin ordentlich.\nMira: Hast du ein Haustier?\nBewerberin: Nein, aber ich habe gelesen, dass hier eine Katze wohnt.\nAnna: Ja, die Katze von Frau Weber. Sie sitzt oft im Treppenhaus auf dem Fensterbrett.\nBewerberin: Echt? Das ist ja toll! Weißt du, ob ihr eine Spülmaschine habt?\nMira: Ja, sie steht in der Küche neben dem Herd.\nBewerberin: Und wohin kann ich meinen Schreibtisch stellen?\nAnna: Ans Fenster. Dort ist es hell.",
+    "script": "Mira: Hallo und herzlich willkommen! Ich bin Mira, und das ist Anna.\nAnna: Hallo! Wir wohnen hier mit Ben und Leon. Wir stellen uns kurz vor: Ich male gern, und Mira studiert Informatik.\nBewerberin: Hallo! Ich stelle mich auch vor. Ich komme aus Kiel und bin Studentin.\nMira: Kannst du uns sagen, wo du jetzt wohnst?\nBewerberin: Ich wohne in einem Vorort. Dorthin fahre ich jeden Tag eine Stunde mit dem Bus.\nAnna: Was ist dir in einer WG wichtig?\nBewerberin: Ich finde es wichtig, dass alle rücksichtsvoll sind. Und ich bin ordentlich.\nMira: Hast du ein Haustier?\nBewerberin: Nein, aber ich habe gelesen, dass hier eine Katze wohnt.\nAnna: Ja, die Katze von Frau Weber. Sie sitzt oft im Treppenhaus auf dem Fensterbrett.\nBewerberin: Echt? Das ist ja toll! Weißt du, ob ihr eine Spülmaschine habt?\nMira: Ja, sie steht in der Küche neben dem Herd.\nBewerberin: Und wohin kann ich meinen Schreibtisch stellen?\nAnna: Ans Fenster. Dort ist es hell.",
     "questions": [
      {
       "type": "choice",
