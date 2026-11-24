@@ -3055,6 +3055,11 @@
     "bevor",
     "before",
     "Ich dusche, bevor ich frühstücke."
+   ],
+   [
+    "da",
+    "because, since (known reason, usually first)",
+    "Da es regnet, bleiben wir hier."
    ]
   ],
   "notes": [
@@ -3065,7 +3070,9 @@
    "als = one event in the past; wenn = every time (Immer wenn Anna geklingelt hat, …) or now/future.",
    "A dass-clause can stand first: Dass du hilfst, finde ich toll.",
    "Unreal wenn: the Konjunktiv II form goes to the end of the wenn-part: Wenn ich mehr Zeit hätte, … / Wenn Anna nicht so müde wäre, …",
-   "Relative clauses work the same way: comma, relative pronoun, verb at the end: …, die aus Hamburg kommt."
+   "Relative clauses work the same way: comma, relative pronoun, verb at the end: …, die aus Hamburg kommt.",
+   "da or weil? weil answers Warum?; da gives a known reason and usually stands first (more written).",
+   "obwohl = although: Wir wandern, obwohl es regnet. = Es regnet, trotzdem wandern wir."
   ],
   "examples": [
    {
@@ -3120,7 +3127,14 @@
    "a2-c11-10",
    "a2-c11-11",
    "a2-c12-04",
-   "a2-c12-05"
+   "a2-c12-05",
+   "b1-c01-04",
+   "b1-c01-05",
+   "b1-c01-06",
+   "b1-c01-07",
+   "b1-c01-08",
+   "b1-c01-09",
+   "b1-c01-12"
   ]
  },
  {
@@ -3189,7 +3203,8 @@
    "a2-c07-03",
    "a2-c08-03",
    "a2-c08-06",
-   "a2-c10-12"
+   "a2-c10-12",
+   "b1-c01-06"
   ]
  },
  {
@@ -4412,6 +4427,11 @@
     "Ich habe vergessen, dich anzurufen."
    ],
    [
+    "adjective + sein / finden",
+    "Es ist …, … zu …",
+    "Es ist toll, im Zelt zu schlafen."
+   ],
+   [
     "um … zu",
     "purpose, same person in both parts",
     "Ich lerne Deutsch, um in Berlin zu arbeiten."
@@ -4430,7 +4450,11 @@
   "notes": [
    "Infinitive = the dictionary form. zu goes right before it, at the end.",
    "Not with modal verbs: Ich kann schwimmen (no zu).",
-   "um … zu and damit both mean 'so that / in order to'."
+   "um … zu and damit both mean 'so that / in order to'.",
+   "Nouns with zu: Lust/Zeit/Spaß/die Möglichkeit/die Gelegenheit/den Mut haben.",
+   "Verbs with zu: versuchen, vergessen, anfangen, aufhören, vorhaben, beschließen, sich vornehmen.",
+   "Adjectives with zu: Es ist wichtig/schön/schwer, … zu … / Ich finde es …, … zu …",
+   "Perfekt: the zu-part comes after the participle: Ich habe vergessen, dich anzurufen."
   ],
   "examples": [
    {
@@ -4445,7 +4469,93 @@
   "videos": [
    "yt:xttZMYQ4HFE"
   ],
-  "chapter": "B1 ch 1, 5"
+  "chapter": "B1 ch 1, 5",
+  "lessons": [
+   "b1-c01-01",
+   "b1-c01-02",
+   "b1-c01-03",
+   "b1-c01-11",
+   "b1-c01-12"
+  ]
+ },
+ {
+  "id": "b1-reason-contrast",
+  "level": "b1",
+  "group": "Connectors",
+  "title": "Reason or contrast: weil, da, denn, obwohl, deshalb, trotzdem",
+  "why": "Two jobs: give a reason, or say something happens against the reason. Each word has its own verb position.",
+  "headers": [
+   "Word",
+   "Job",
+   "Verb position",
+   "Example"
+  ],
+  "rows": [
+   [
+    "weil",
+    "reason (answers Warum?)",
+    "verb at the end",
+    "Wir fahren im Juni, weil es billiger ist."
+   ],
+   [
+    "da",
+    "known reason, usually first",
+    "verb at the end",
+    "Da der Zug voll ist, nehmen wir den nächsten."
+   ],
+   [
+    "denn",
+    "reason",
+    "normal order (position 0)",
+    "Wir bleiben hier, denn es regnet."
+   ],
+   [
+    "deshalb",
+    "result",
+    "verb right after it",
+    "Es regnet, deshalb bleiben wir hier."
+   ],
+   [
+    "obwohl",
+    "contrast (against expectation)",
+    "verb at the end",
+    "Wir wandern, obwohl es regnet."
+   ],
+   [
+    "trotzdem",
+    "contrast (against expectation)",
+    "verb right after it",
+    "Es regnet, trotzdem wandern wir."
+   ]
+  ],
+  "notes": [
+   "obwohl and trotzdem never together in one sentence part.",
+   "da can also mean there/then: Da ist der Bahnhof. (verb second)"
+  ],
+  "examples": [
+   {
+    "de": "Obwohl der Weg steil war, sind wir bis zum Gipfel gegangen.",
+    "en": "Although the path was steep, we went up to the summit."
+   },
+   {
+    "de": "Da es im August überfüllt ist, fahren wir im Juni.",
+    "en": "Since it is overcrowded in August, we're going in June."
+   }
+  ],
+  "videos": [
+   "yt:8Vmwekr6WN4",
+   "yt:SYG_i7rKl_4"
+  ],
+  "chapter": "B1 ch 1",
+  "lessons": [
+   "b1-c01-05",
+   "b1-c01-07",
+   "b1-c01-08",
+   "b1-c01-09",
+   "b1-c01-10",
+   "b1-c01-11",
+   "b1-c01-12"
+  ]
  },
  {
   "id": "b1-relative",
