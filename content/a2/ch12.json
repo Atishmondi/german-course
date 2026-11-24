@@ -693,7 +693,7 @@
     },
     {
      "title": "In the WG kitchen: Wer kommt mit?",
-     "body": "Now the whole WG plans together. Leon asks, Mira answers for everyone, and Ben has the tent question. Read the six lines and look at the verbs: alle with plural, jemand and niemand with singular. Leon needs a big tent: ein großes Zelt, with the ending you know.",
+     "body": "Now the whole WG plans together. Leon asks, Mira answers for everyone, and Ben has the tent question. Read the six lines and look at the verbs: alle with plural, jemand and niemand with singular. The WG needs a big tent: ein großes Zelt, with the ending you know.",
      "lead": "You have all the words now. In this mini dialogue the WG uses them together, the way you will use them when you plan with friends.",
      "examples": [
       {
@@ -1587,7 +1587,7 @@
        ]
       }
      },
-     "more": "Imagine your pockets. You put your hand in and feel something: Ich habe etwas. You put your hand in and they are empty: Ich habe nichts. That is all. etwas and nichts are like the words Hunger and Durst: one form, always the same, no der or die, no ending. And remember: nichts is already the no. Ich habe nicht nichts is wrong; say Ich habe nichts. One no is enough.",
+     "more": "Imagine your pockets. You put your hand in and feel something: Ich habe etwas. You put your hand in and they are empty: Ich habe nichts. That is all. etwas and nichts are like the words hier and heute: one form, always the same, with no article and no ending. And remember: nichts is already the no. Ich habe nicht nichts is wrong; say Ich habe nichts. One no is enough.",
      "table": {
       "headers": [
        "word",
@@ -2273,10 +2273,10 @@
    "media": {
     "grammarVideos": [
      "yt:iFIOL1rssNc",
-     "yt:ELLKtyQVnaQ"
+     "yt:vY7WCRyG-n8"
     ],
     "nicosWeg": [
-     "nw:a2-56",
+     "nw:a2-51",
      "nw:a1-51"
     ],
     "practice": []
@@ -3276,7 +3276,7 @@
     },
     {
      "title": "The no forms: keiner, keine, keins",
-     "body": "For no, add k: keiner, keine, keins; plural keine. In the accusative only the masculine changes again: keinen. Hast du einen Kugelschreiber? – Nein, ich habe keinen. Ist hier ein Klappstuhl? – Nein, hier ist keiner. The plural of welche is keine.",
+     "body": "For no, add k: keiner, keine, keins; plural keine. In the accusative only the masculine changes again: keinen. Hast du einen Kugelschreiber? – Nein, ich habe keinen. Ist hier ein Klappstuhl? – Nein, hier ist keiner. The no-form of welche is keine.",
      "lead": "You can say yes, I have one. Now we learn to say no, I have none, with the same endings and one extra letter at the start.",
      "examples": [
       {
@@ -3395,7 +3395,7 @@
       }
      ],
      "deeper": {
-      "text": "keiner alone, without a noun in the question, often means no one: Keiner hat Zeit is the same as Niemand hat Zeit. In everyday German, keiner is even more common than niemand. Then the verb is singular too. So keiner has two jobs: none of the things, or no person at all. The question before it tells you which one.",
+      "text": "keiner alone, without a noun in the question, often means no one: Keiner hat Zeit is the same as Niemand hat Zeit. In everyday German, keiner is just as common as niemand. Then the verb is singular too. So keiner has two jobs: none of the things, or no person at all. The question before it tells you which one.",
       "example": {
        "de": "Keiner kommt mit.",
        "en": "No one is coming along.",
@@ -3964,7 +3964,7 @@
      "yt:FuXxNSj_y5w"
     ],
     "nicosWeg": [
-     "nw:a2-32",
+     "nw:a2-26",
      "nw:a1-23"
     ],
     "practice": []
@@ -5616,15 +5616,14 @@
       "Leon: Eine Sängerin, die aus Wien kommt.",
       "Mira: Die Stimme ist toll! (die Stimme = the voice)",
       "Leon: Und das ist die Band, die nächsten Monat in Kiel spielt.",
-      "Mira: Gute Unterhaltung!"
+      "Mira: Mach bitte lauter!"
      ]
     }
    ],
    "media": {
     "grammarVideos": [
      "yt:XchW3E0kTPk",
-     "yt:_tHi2rjFKd0",
-     "yt:loJO4wLCZIQ"
+     "yt:_tHi2rjFKd0"
     ],
     "nicosWeg": [
      "nw:a2-33",
@@ -5666,7 +5665,7 @@
       "das"
      ],
      "hint": "Lied is neuter.",
-     "explanation": "Das ist ein Lied, das gerade überall läuft.",
+     "explanation": "Hier ist ein Lied, das gerade überall läuft.",
      "grammar": true
     },
     {
@@ -5935,8 +5934,8 @@
      "en": "drums",
      "examples": [
       {
-       "de": "Ben spielt Schlagzeug.",
-       "en": "Ben plays the drums."
+       "de": "Ein Freund spielt Schlagzeug.",
+       "en": "A friend plays the drums."
       },
       {
        "de": "Das Schlagzeug ist zu laut.",
@@ -6322,7 +6321,7 @@
       }
      ],
      "deeper": {
-      "text": "The relative clause usually stands right after its noun. But if only a participle or an infinitive would follow, Germans put the clause behind it: Ich habe eine Band gesehen, die aus Hamburg kommt. Not: Ich habe eine Band, die aus Hamburg kommt, gesehen. That would leave gesehen alone at the very end. The pronoun still points back to eine Band.",
+      "text": "The relative clause usually stands right after its noun. But if only a participle or an infinitive would follow, Germans put the clause behind it: Ich habe eine Band gesehen, die aus Hamburg kommt. The other order, Ich habe eine Band, die aus Hamburg kommt, gesehen, is correct but heavy, because gesehen is left alone at the very end. The pronoun still points back to eine Band.",
       "example": {
        "de": "Ich habe eine Band gesehen, die aus Hamburg kommt.",
        "en": "I saw a band that comes from Hamburg.",
@@ -6788,7 +6787,7 @@
       }
      ],
      "deeper": {
-      "text": "The same happens with every separable verb you know: anfangen, mitkommen, aufladen. Der Auftritt, der um acht anfängt. Ein Freund, der mitkommt. Only with a modal do they stay as one word before the modal: …, die heute auftreten will. In the Perfekt the ge sits inside: aufgetreten. So listen for the small word at the end; it tells you which verb it is.",
+      "text": "The same happens with every separable verb you know: anfangen, mitkommen, aufladen. Der Auftritt, der um acht anfängt. Ein Freund, der mitkommt. Only with a modal do they stay as one word before the modal: …, die heute auftreten will. In the Perfekt the ge sits inside: aufgetreten. So listen to the small word at the start of the last word: it tells you which verb it is.",
       "example": {
        "de": "Das ist der Auftritt, der um acht anfängt.",
        "en": "That's the gig that starts at eight.",
@@ -7332,7 +7331,7 @@
       "ist"
      ],
      "hint": "A verb of movement: which helper verb does it take?",
-     "explanation": "Das ist der Musiker, der aus Köln gekommen ist.",
+     "explanation": "Kennst du den Musiker, der aus Köln gekommen ist?",
      "grammar": true
     },
     {
@@ -8048,11 +8047,11 @@
        ]
       },
       {
-       "de": "Leon kommt aus Kiel. – Woher?",
-       "en": "Leon comes from Kiel. – Where from? (↗ stress HER)",
+       "de": "Anna kommt aus München. – Woher?",
+       "en": "Anna comes from Munich. – Where from? (↗ stress HER)",
        "parts": [
         [
-         "Leon",
+         "Anna",
          "subject"
         ],
         [
@@ -8060,7 +8059,7 @@
          "verb"
         ],
         [
-         "aus Kiel.",
+         "aus München.",
          "place"
         ],
         [
@@ -8107,7 +8106,7 @@
      "steps": [
       "Normal W-question: Wann spielt die Band? ↘ (voice down)",
       "Echo question: Wann? ↗ (stress WANN, voice up)",
-      "Echo question: Wo genau? ↗ (stress GE in genau)",
+      "Echo question: Wo genau? ↗ (stress NAU in genau)",
       "Surprise: Wie viel? ↗↗ (very high)"
      ]
     },
@@ -8648,8 +8647,8 @@
      "deeper": {
       "text": "A Meldung is only a few lines, an Artikel is longer, and a Bericht tells a whole event in detail. Note that der Artikel has a second meaning from school: the little word der, die, das. The plural is die Artikel for both. Words for people in -er, like der Leser and der Veranstalter, add -in for women: die Leserin. The plural of the men's form does not change.",
       "example": {
-       "de": "Eine Leserin hat den Artikel geschrieben.",
-       "en": "A reader wrote the article.",
+       "de": "Eine Leserin hat den Artikel gelesen.",
+       "en": "A reader has read the article.",
        "parts": [
         [
          "Eine Leserin",
@@ -8664,7 +8663,7 @@
          "object"
         ],
         [
-         "geschrieben.",
+         "gelesen.",
          "verb2"
         ]
        ]
@@ -8802,12 +8801,12 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:g6D79cvf8AM",
-     "yt:1WT_cuee12Y"
+     "yt:1WT_cuee12Y",
+     "yt:vY7WCRyG-n8"
     ],
     "nicosWeg": [
-     "nw:b1-50",
-     "nw:b1-49"
+     "nw:a2-24",
+     "nw:a2-04"
     ],
     "practice": []
    },
@@ -9261,7 +9260,7 @@
       "das"
      ],
      "hint": "Lied: neuter.",
-     "explanation": "Das ist ein Lied, das gerade läuft.",
+     "explanation": "Hier ist ein Lied, das gerade läuft.",
      "grammar": true
     },
     {
@@ -9474,7 +9473,7 @@
       }
      ],
      "deeper": {
-      "text": "das Bild is the everyday word: on a wall, in a book, on the Handy. das Gemälde is only a painted picture, usually with oil or acrylic paint, and sounds a bit more serious, like in a museum. A der Künstler or die Künstlerin is any artist: painter, singer or actor. So every Malerin is a Künstlerin, but not every Künstlerin is a Malerin.",
+      "text": "das Bild is the everyday word: on a wall, in a book, on the Handy. das Gemälde is only a painted picture, usually with oil or acrylic paint, and sounds a bit more serious, like in a museum. Der Künstler or die Künstlerin is any artist: painter, singer or actor. So every Malerin is a Künstlerin, but not every Künstlerin is a Malerin.",
       "example": {
        "de": "Das ist kein Foto, das ist ein Gemälde.",
        "en": "That's not a photo, that's a painting.",
@@ -10230,7 +10229,7 @@
     },
     {
      "title": "In Anna's Atelier",
-     "body": "Ben visits Anna in her Atelier. Read the dialogue and find four relative clauses. Two are nominative: the pronoun does the action. Two are accusative: Ben or Anna does the action, and the pronoun is the object. Look at the masculine nouns: der Pinsel, der … and der Maler, den ….",
+     "body": "Ben visits Anna in her Atelier. Read the dialogue and find the five relative clauses. Two are nominative: the pronoun does the action. Three are accusative: du or ich does the action, and the pronoun is the object. Look at the masculine nouns: der Pinsel, der … and der Maler, den ….",
      "lead": "All the parts are ready: painting words, der or den, and long verbs at the end. Now Anna and Ben use them together in a real talk.",
      "examples": [
       {
@@ -10534,8 +10533,7 @@
    "media": {
     "grammarVideos": [
      "yt:XchW3E0kTPk",
-     "yt:FuXxNSj_y5w",
-     "yt:0otjfbqcjNE"
+     "yt:FuXxNSj_y5w"
     ],
     "nicosWeg": [
      "nw:a2-35"
@@ -11515,7 +11513,7 @@
     {
      "title": "Details with relative clauses",
      "body": "Step 3 adds details, and relative clauses are perfect for them. Start with a place, name a person or thing, then add a comma and a relative clause: Links sieht man einen Mann, der Gitarre spielt. Choose der for a subject and den for an object, as in the last lesson.",
-     "lead": "Step 3 of the plan was details. Here you join the place sentences with the relative clauses from the last two lessons.",
+     "lead": "Step 3 of the plan was details. Here you join the place sentences with the relative clauses you know from earlier lessons.",
      "examples": [
       {
        "de": "Links sieht man einen Mann, der Gitarre spielt.",
@@ -13207,7 +13205,7 @@
       }
      ],
      "deeper": {
-      "text": "The title has no article: „Blaues Pferd I“. So the adjective takes the ending -es, like in a strong neuter phrase. That is just the title; learn it as one name. The I is a Roman one: Marc painted more blue horses later. Compare Friedrich: his colours show nature as it looks. Marc's colours show a mood. Das Bild wirkt fröhlich und stark.",
+      "text": "The title has no article: „Blaues Pferd I“. So the adjective takes the ending -es, like in a strong neuter phrase. That is just the title; learn it as one name. The I is a Roman one: Marc painted more blue horses. Compare Friedrich: his colours show nature as it looks. Marc's colours show a mood. Das Bild wirkt fröhlich und stark.",
       "example": {
        "de": "Das Bild wirkt fröhlich, weil die Farben so stark sind.",
        "en": "The picture looks cheerful because the colours are so strong.",
@@ -14835,7 +14833,7 @@
     "free": {
      "prompt": "Kommst du mit?: write a message to Anna about the festival (5 to 6 sentences). Say when and where it is and what everyone must bring. Use one sentence with jemand or niemand, one with etwas, nichts or alles, and one short answer with einer, keiner or welche. Start with „Hallo Anna,“ and end with „Viele Grüße“ and your name on the next line.",
      "minWords": 40,
-     "model": "Hallo Anna,\n\nam Freitag fahren wir zum Sommerfestival bei Kiel. Es ist von Freitag bis Sonntag, und wir schlafen auf dem Campingplatz. Alle müssen einen Schlafsack und eine Isomatte mitbringen. Hat jemand eine Taschenlampe? Ich habe keine. Becher habe ich, ich habe noch welche. Wasser kaufen wir dort. Sonst brauchst du nichts. Kommst du mit?\n\nViele Grüße\nMira",
+     "model": "Hallo Anna,\n\nam Freitag fahren wir zum Sommerfestival bei Kiel. Es ist von Freitag bis Sonntag, und wir schlafen auf dem Campingplatz. Alle müssen einen Schlafsack und eine Isomatte mitbringen. Hat jemand eine Taschenlampe? Ich habe keine. Becher? Ich habe welche. Wasser kaufen wir dort. Sonst brauchst du nichts. Kommst du mit?\n\nViele Grüße\nMira",
      "checks": [
       {
        "label": "uses jemand or niemand",
@@ -15173,7 +15171,7 @@
        "der"
       ],
       "hint": "Sänger: masculine.",
-      "explanation": "Das ist der Sänger, der aus Hamburg kommt.",
+      "explanation": "Kennst du den Sänger, der aus Hamburg kommt?",
       "grammar": true
      },
      {
@@ -15193,7 +15191,7 @@
        "das"
       ],
       "hint": "Album: neuter.",
-      "explanation": "Das ist ein Album, das sehr erfolgreich ist.",
+      "explanation": "Hier ist ein Album, das sehr erfolgreich ist.",
       "grammar": true
      },
      {
@@ -15332,7 +15330,7 @@
    "day": 3,
    "reading": {
     "title": "Kleine Ausstellung im Restaurant „Zum Löwen“",
-    "text": "Kleine Ausstellung im Restaurant „Zum Löwen“\n\nLiebe Gäste,\nab Freitag hängen bei uns drei Bilder von Anna. Anna ist eine junge Künstlerin, die oft bei uns isst. Kommen Sie am Freitag um 19 Uhr! Es gibt Musik und einen kleinen Snack. Der Eintritt ist frei.\nHerzliche Grüße\nIhr Herr Ali\n\n1. „Unser Festival“\nDas ist das Bild, das Anna auf dem Festival gemalt hat. Im Vordergrund sieht man ein Zelt, im Hintergrund eine bunte Bühne. Das Bild wirkt fröhlich.\n\n2. „Frau Weber“\nDas ist ein Porträt, das Anna im Winter gemalt hat. Frau Weber ist eine Nachbarin, die gern Klavier spielt.\n\n3. „Am Meer bei Kiel“\nEine Landschaft mit Wiese, Himmel und Nebel. Das Original kann man kaufen.",
+    "text": "Kleine Ausstellung im Restaurant „Zum Löwen“\n\nLiebe Gäste,\nab Freitag hängen bei uns drei Bilder von Anna. Anna ist eine junge Künstlerin, die oft bei uns isst. Kommen Sie am Freitag um 19 Uhr! Es gibt Musik und einen kleinen Snack. Der Eintritt ist frei.\nHerzliche Grüße\nIhr Ali\n\n1. „Unser Festival“\nDas ist das Bild, das Anna auf dem Festival gemalt hat. Im Vordergrund sieht man ein Zelt, im Hintergrund eine bunte Bühne. Das Bild wirkt fröhlich.\n\n2. „Frau Weber“\nDas ist ein Porträt, das Anna im Winter gemalt hat. Frau Weber ist eine Nachbarin, die gern Klavier spielt.\n\n3. „Am Meer bei Kiel“\nEine Landschaft mit Wiese, Himmel und Nebel. Das Original kann man kaufen.",
     "glossary": [
      {
       "de": "Liebe Gäste",
@@ -15351,8 +15349,8 @@
       "en": "neighbour (f)"
      },
      {
-      "de": "Ihr Herr Ali",
-      "en": "yours, Herr Ali"
+      "de": "Ihr Ali",
+      "en": "yours, Ali"
      },
      {
       "de": "Herzliche Grüße",
