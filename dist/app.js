@@ -89,7 +89,7 @@
     const d=dayAt(state.position.day)||days()[days().length-1];
     const sn=document.getElementById('sidenow');if(sn)sn.innerHTML=(d?`<span class="badge">${esc(levelTitle(d.level))}</span><span>${esc(d.kind==='learn'?chName(d.level,d.chapter):dayLabel(d))}</span>`:'');
   }
-  const phaseByHour=()=>{const h=new Date().getHours();return h>=5&&h<8?'dawn':h>=8&&h<17?'day':h>=17&&h<20?'dusk':'night';};
+  const phaseByHour=()=>{const h=new Date().getHours();return h>=5&&h<7?'dawn':h>=7&&h<10?'lake':h>=10&&h<14?'day':h>=14&&h<17?'plain':h>=17&&h<19?'alpen':h>=19&&h<21?'dusk':'night';};
   const FONTS=[["cormorant", "Cormorant Garamond"], ["playfair", "Playfair Display"], ["jersey15", "Jersey 15"], ["dotgothic16", "DotGothic16"], ["handjet", "Handjet"]];
   function applyFont(){document.documentElement.dataset.font=state.settings.font||'cormorant';}
   function applyPhase(){const p=state.settings.phase;document.documentElement.dataset.phase=p&&p!=='auto'?p:phaseByHour();}
@@ -526,7 +526,7 @@
       const canAsk='Notification' in window&&Notification.permission==='default';
       v.innerHTML=`<h1>Settings</h1>
         <section class="section"><h2>Look</h2><p class="muted">The photo and colours follow the time of day, or pick one to keep.</p>
-          <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Lone pine'],['day','Day','Above the clouds'],['dusk','Dusk','Ember peak'],['night','Night','Star trails'],['lake','Lake','Forest lake'],['plain','Plain','Golden plain'],['alpen','Alpen','Alpenglow']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/e-${k}.jpg)"`}>${k==='auto'?['dawn','day','dusk','night'].map(p=>`<i style="background-image:url(img/e-${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
+          <div class="looks" role="group" aria-label="Look">${[['auto','Auto','Follows your clock'],['dawn','Dawn','Lone pine'],['day','Day','Above the clouds'],['dusk','Dusk','Ember peak'],['night','Night','Star trails'],['lake','Lake','Forest lake'],['plain','Plain','Golden plain'],['alpen','Alpen','Alpenglow']].map(([k,l,sub])=>`<button type="button" class="look" data-phase-pick="${k}" aria-pressed="${(s.phase||'auto')===k}"><span class="look-img${k==='auto'?' auto':''}" ${k==='auto'?'':`style="background-image:url(img/e-${k}.jpg)"`}>${k==='auto'?['dawn','lake','day','plain','alpen','dusk','night'].map(p=>`<i style="background-image:url(img/e-${p}.jpg)"></i>`).join(''):''}</span><b>${l}</b><small>${sub}</small></button>`).join('')}</div></section>
         <section class="section"><h2>Heading font</h2><p class="muted">The font for titles, step buttons and the dock.</p>
           <div class="fonts" role="group" aria-label="Heading font">${FONTS.map(([k,n])=>`<button type="button" class="fontpick" data-font-pick="${k}" aria-pressed="${(s.font||'cormorant')===k}"><span style="font-family:'${n}'">Gute Nacht</span><small>${n}</small></button>`).join('')}</div></section>
         <section class="section"><h2>Motivation</h2>
