@@ -2756,7 +2756,8 @@
    "For most other verbs use würde + infinitive at the end: Ich würde gern reisen.",
    "würde or werde? Ich werde morgen kommen. (future: it will happen) / Ich würde gern kommen. (a wish: maybe it will not happen)",
    "With haben and sein use hätte and wäre, not würde haben / würde sein: Ich hätte gern mehr Zeit. Ich wäre gern am Meer.",
-   "The infinitive goes to the END: Ich würde gern eine Weltreise machen."
+   "The infinitive goes to the END: Ich würde gern eine Weltreise machen.",
+   "B1: müssen → müsste, dürfen → dürfte (umlaut like könnte); wollen → wollte, sollen → sollte (no umlaut); möchte is the Konjunktiv II of mögen."
   ],
   "examples": [
    {
@@ -2781,7 +2782,12 @@
    "a2-c11-02",
    "a2-c11-03",
    "a2-c11-04",
-   "a2-c11-12"
+   "a2-c11-12",
+   "b1-c04-01",
+   "b1-c04-02",
+   "b1-c04-04",
+   "b1-c04-13",
+   "b1-c04-15"
   ]
  },
  {
@@ -2835,13 +2841,24 @@
     "unreal condition",
     "wenn … hätte/wäre, würde …",
     "Wenn ich Zeit hätte, würde ich kommen."
+   ],
+   [
+    "permission (very polite)",
+    "dürfte",
+    "Dürfte ich das Fenster aufmachen?"
+   ],
+   [
+    "soft advice",
+    "Es wäre besser, wenn …",
+    "Es wäre besser, wenn du dich früh bewirbst."
    ]
   ],
   "notes": [
    "The infinitive (or participle) goes to the end, like with modal verbs.",
    "In a wenn-sentence the verb goes to the end of the wenn-part.",
    "Real or not real? Wenn ich Zeit habe, komme ich. (real: maybe I have time) / Wenn ich Zeit hätte, würde ich kommen. (not real: I have no time)",
-   "The wenn-part can come second: Ich würde kommen, wenn ich Zeit hätte."
+   "The wenn-part can come second: Ich würde kommen, wenn ich Zeit hätte.",
+   "B1: real vs unreal: Wenn ich Zeit habe, komme ich. (possible) / Wenn ich Zeit hätte, würde ich kommen. (not real now). The wenn-part can also come second: Ich würde kommen, wenn ich Zeit hätte."
   ],
   "examples": [
    {
@@ -2875,7 +2892,14 @@
    "a2-c11-04",
    "a2-c11-09",
    "a2-c11-11",
-   "a2-c11-12"
+   "a2-c11-12",
+   "b1-c04-02",
+   "b1-c04-03",
+   "b1-c04-04",
+   "b1-c04-05",
+   "b1-c04-06",
+   "b1-c04-10",
+   "b1-c04-14"
   ]
  },
  {
@@ -3197,6 +3221,11 @@
     "Kann ich hier umsteigen?",
     "Weißt du, ob ich hier umsteigen kann?",
     "ob + modal: kann at the end"
+   ],
+   [
+    "Soll ich zusagen?",
+    "Ich bin mir nicht sicher, ob ich zusagen soll.",
+    "ob + modal at the end (decisions)"
    ]
   ],
   "notes": [
@@ -3215,7 +3244,7 @@
     "en": "I don't know whether the bus runs today."
    }
   ],
-  "chapter": "A2 ch 7",
+  "chapter": "A2 ch 7, B1 ch 4",
   "lessons": [
    "a2-c07-01",
    "a2-c07-02",
@@ -3223,7 +3252,9 @@
    "a2-c08-03",
    "a2-c08-06",
    "a2-c10-12",
-   "b1-c01-06"
+   "b1-c01-06",
+   "b1-c04-05",
+   "b1-c04-10"
   ]
  },
  {
@@ -3835,12 +3866,38 @@
     "aufhören",
     "mit + dat.",
     "Ich höre mit dem Handy auf."
+   ],
+   [
+    "sich verlassen",
+    "auf + acc.",
+    "Ich verlasse mich auf dich."
+   ],
+   [
+    "sich bemühen",
+    "um + acc.",
+    "Sie bemüht sich um die Stelle."
+   ],
+   [
+    "rechnen",
+    "mit + dat.",
+    "Ich rechne mit einer Antwort."
+   ],
+   [
+    "achten",
+    "auf + acc.",
+    "Achte auf die Zeit!"
+   ],
+   [
+    "sorgen",
+    "für + acc.",
+    "Wer sorgt für das Essen?"
    ]
   ],
   "notes": [
    "The preposition often doesn't match English: warten auf = wait for.",
    "auf and über with these verbs almost always take the accusative.",
-   "Ask with the same preposition: warten auf → Worauf wartest du? (thing) / Auf wen wartest du? (person). See 'da- and wo- words'."
+   "Ask with the same preposition: warten auf → Worauf wartest du? (thing) / Auf wen wartest du? (person). See 'da- and wo- words'.",
+   "B1: before a whole clause the preposition becomes a da-word: Ich freue mich darauf, dass ich im Team arbeite. / … darauf, im Team zu arbeiten."
   ],
   "examples": [
    {
@@ -3862,7 +3919,11 @@
    "a2-c11-06",
    "a2-c11-07",
    "a2-c11-08",
-   "a2-c11-12"
+   "a2-c11-12",
+   "b1-c04-08",
+   "b1-c04-09",
+   "b1-c04-10",
+   "b1-c04-14"
   ]
  },
  {
@@ -3933,7 +3994,8 @@
    "Only for things and ideas. For people use preposition + pronoun: Auf wen wartest du? – Auf ihn.",
    "You already know some of these words with another meaning: Ich bin dafür (= I am for it), Wohin damit?, darum (= that is why). Here damit = with it, darum = about it.",
    "Answer a wo-question with a da-word: Woran denkst du? – An die Prüfung. Ich denke oft daran.",
-   "Fixed chunk: Es kommt darauf an. (= It depends.)"
+   "Fixed chunk: Es kommt darauf an. (= It depends.)",
+   "B1: da-word + dass/zu clause: Ich achte darauf, pünktlich zu sein. Questions about people: Mit wem? An wen? Über wen?"
   ],
   "examples": [
    {
@@ -3954,7 +4016,12 @@
    "a2-c11-07",
    "a2-c11-08",
    "a2-c11-09",
-   "a2-c11-10"
+   "a2-c11-10",
+   "b1-c04-07",
+   "b1-c04-08",
+   "b1-c04-09",
+   "b1-c04-10",
+   "b1-c04-15"
   ]
  },
  {
@@ -5148,7 +5215,8 @@
    "Nouns with zu: Lust/Zeit/Spaß/die Möglichkeit/die Gelegenheit/den Mut haben.",
    "Verbs with zu: versuchen, vergessen, anfangen, aufhören, vorhaben, beschließen, sich vornehmen.",
    "Adjectives with zu: Es ist wichtig/schön/schwer, … zu … / Ich finde es …, … zu …",
-   "Perfekt: the zu-part comes after the participle: Ich habe vergessen, dich anzurufen."
+   "Perfekt: the zu-part comes after the participle: Ich habe vergessen, dich anzurufen.",
+   "B1 ch4: da-word + zu: Ich freue mich darauf, dich zu sehen. Ich habe mich dafür entschieden, das Angebot anzunehmen."
   ],
   "examples": [
    {
@@ -5163,13 +5231,17 @@
   "videos": [
    "yt:xttZMYQ4HFE"
   ],
-  "chapter": "B1 ch 1, 5",
+  "chapter": "B1 ch 1, 5, B1 ch 4",
   "lessons": [
    "b1-c01-01",
    "b1-c01-02",
    "b1-c01-03",
    "b1-c01-11",
-   "b1-c01-12"
+   "b1-c01-12",
+   "b1-c04-08",
+   "b1-c04-10",
+   "b1-c04-14",
+   "b1-c04-15"
   ]
  },
  {
@@ -5419,5 +5491,198 @@
    "yt:ZTXJBFFhkyM"
   ],
   "chapter": "B1 ch 12"
+ },
+ {
+  "id": "b1-konj2",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "Konjunktiv II: the whole set",
+  "why": "All the 'would' forms in one place: own forms for sein, haben and the modals, würde + infinitive for everything else.",
+  "headers": [
+   "Person",
+   "wäre",
+   "hätte",
+   "würde",
+   "könnte",
+   "müsste",
+   "dürfte",
+   "sollte",
+   "wollte",
+   "möchte"
+  ],
+  "rows": [
+   [
+    "ich",
+    "wäre",
+    "hätte",
+    "würde",
+    "könnte",
+    "müsste",
+    "dürfte",
+    "sollte",
+    "wollte",
+    "möchte"
+   ],
+   [
+    "du",
+    "wärst",
+    "hättest",
+    "würdest",
+    "könntest",
+    "müsstest",
+    "dürftest",
+    "solltest",
+    "wolltest",
+    "möchtest"
+   ],
+   [
+    "er / sie / es",
+    "wäre",
+    "hätte",
+    "würde",
+    "könnte",
+    "müsste",
+    "dürfte",
+    "sollte",
+    "wollte",
+    "möchte"
+   ],
+   [
+    "wir",
+    "wären",
+    "hätten",
+    "würden",
+    "könnten",
+    "müssten",
+    "dürften",
+    "sollten",
+    "wollten",
+    "möchten"
+   ],
+   [
+    "ihr",
+    "wärt",
+    "hättet",
+    "würdet",
+    "könntet",
+    "müsstet",
+    "dürftet",
+    "solltet",
+    "wolltet",
+    "möchtet"
+   ],
+   [
+    "sie / Sie",
+    "wären",
+    "hätten",
+    "würden",
+    "könnten",
+    "müssten",
+    "dürften",
+    "sollten",
+    "wollten",
+    "möchten"
+   ]
+  ],
+  "notes": [
+   "Rule: Präteritum (war, hatte, konnte, musste, durfte) + umlaut on a/o/u.",
+   "sollte and wollte have no umlaut: they look like the Präteritum, the context decides.",
+   "All other verbs: würde + infinitive at the end (Ich würde kochen, not Ich kochte).",
+   "sein/haben use their own forms: Ich wäre Koch und hätte mehr Zeit.",
+   "Das dürfte reichen. = That should probably be enough (recognise only)."
+  ],
+  "examples": [
+   {
+    "de": "Wenn ich Koch wäre, würde ich jeden Tag kochen.",
+    "en": "If I were a cook, I would cook every day."
+   },
+   {
+    "de": "Wir müssten die Bewerbung bis Freitag schicken.",
+    "en": "We would have to send the application by Friday."
+   }
+  ],
+  "videos": [
+   "yt:uMlagwZP9dw",
+   "yt:onP9fcDi7FQ"
+  ],
+  "chapter": "B1 ch 4",
+  "lessons": [
+   "b1-c04-01",
+   "b1-c04-02",
+   "b1-c04-04",
+   "b1-c04-13",
+   "b1-c04-15"
+  ]
+ },
+ {
+  "id": "b1-da-wo",
+  "level": "b1",
+  "group": "Prepositions",
+  "title": "da-/wo-words: things vs people, + clause",
+  "why": "When to use darauf/worauf and when auf ihn/auf wen, and how a da-word opens a dass- or zu-clause.",
+  "headers": [
+   "Use",
+   "Thing / idea",
+   "Person"
+  ],
+  "rows": [
+   [
+    "question",
+    "Worauf wartest du? – Auf die Antwort.",
+    "Auf wen wartest du? – Auf Ben."
+   ],
+   [
+    "answer",
+    "Ich warte darauf.",
+    "Ich warte auf ihn."
+   ],
+   [
+    "question",
+    "Worüber sprecht ihr?",
+    "Über wen sprecht ihr?"
+   ],
+   [
+    "answer",
+    "Wir sprechen darüber.",
+    "Wir sprechen über sie."
+   ],
+   [
+    "+ dass-clause",
+    "Ich freue mich darauf, dass ich im Team arbeite.",
+    "–"
+   ],
+   [
+    "+ zu-clause",
+    "Ich achte darauf, pünktlich zu sein.",
+    "–"
+   ]
+  ],
+  "notes": [
+   "da-/wo- only for things and ideas; for people: preposition + pronoun / wen, wem.",
+   "The da-word in the main clause points forward to the dass- or zu-clause.",
+   "zu-clause only when both parts have the same subject."
+  ],
+  "examples": [
+   {
+    "de": "Worüber sprecht ihr? Über die Stelle.",
+    "en": "What are you talking about? About the job."
+   },
+   {
+    "de": "Ich freue mich darauf, dass ich im Team arbeiten kann.",
+    "en": "I am looking forward to being able to work in the team."
+   }
+  ],
+  "videos": [
+   "yt:XhE3bMIiq6g",
+   "yt:uTtzEyKCGlo"
+  ],
+  "chapter": "B1 ch 4",
+  "lessons": [
+   "b1-c04-07",
+   "b1-c04-08",
+   "b1-c04-09",
+   "b1-c04-10",
+   "b1-c04-15"
+  ]
  }
 ]
