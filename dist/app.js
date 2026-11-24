@@ -264,7 +264,7 @@
             <img class="eh-ghost" src="img/e-${PH}.jpg" alt="" decoding="async">
             <div class="eh-mist"></div>
             <p class="eh-word">${hello}</p>
-            <div class="eh-subject" style="-webkit-mask-image:url(img/e-${PH}-m.png);mask-image:url(img/e-${PH}-m.png)"><img src="img/e-${PH}.jpg" alt="" decoding="async"></div>
+            <div class="eh-subject" style="-webkit-mask-image:url(img/e-${PH}-m.png?v=2);mask-image:url(img/e-${PH}-m.png?v=2)"><img src="img/e-${PH}.jpg" alt="" decoding="async"></div>
           </div>
           <div class="hh-top"><span class="hh-brand">German</span><span class="hh-clock"><span>Berlin</span> <b id="hclock"></b></span></div>
           <div class="eh-copy">

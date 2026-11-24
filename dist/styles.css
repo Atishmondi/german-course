@@ -652,7 +652,7 @@ html.reduced .eh-stage{animation:none}
 :root[data-phase="day"] .eh-ghost{opacity:.35}
 :root[data-phase="day"] .eh-word{color:#fff6ea;opacity:1;text-shadow:0 2px 40px rgba(70,35,25,.55),0 0 2px rgba(70,35,25,.25)}
 :root[data-phase="dusk"] .eh-word{top:24vh}
-:root[data-phase="night"] .eh-word{top:12vh}
+:root[data-phase="night"] .eh-word{top:4vh}
 /* more looks: Auto cycles dawn/day/dusk/night; lake, plain, alpen are pick-only */
 :root[data-phase="day"]{--bg:#130d10;--accent:#f3a476;--accent-hover:#f7b993;--accent-2:#f4d2bd;--accent-ink:#2a120a;--mist-1:#9a5a5a;--mist-2:#f0a070}
 :root[data-phase="day"] .eh-bg,:root[data-phase="day"] .eh-subject img{filter:saturate(1.1) brightness(.95)}
