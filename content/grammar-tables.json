@@ -1399,7 +1399,8 @@
    "a2-c07-05",
    "a2-c08-05",
    "a2-c11-06",
-   "a2-c12-08"
+   "a2-c12-08",
+   "b1-c03-08"
   ]
  },
  {
@@ -2572,7 +2573,8 @@
   ],
   "notes": [
    "Präteritum (simple past) = the one-word past: war = was, hatte = had.",
-   "ich and er/sie/es look the same: ich war, sie war."
+   "ich and er/sie/es look the same: ich war, sie war.",
+   "Also when speaking, use war/hatte, not ist gewesen/hat gehabt (B1 ch3)."
   ],
   "examples": [
    {
@@ -2593,7 +2595,8 @@
    "a2-c01-05",
    "a2-c02-04",
    "a2-c03-09",
-   "a2-c04-08"
+   "a2-c04-08",
+   "b1-c03-04"
   ]
  },
  {
@@ -2679,7 +2682,8 @@
    "a2-c02-04",
    "a2-c04-08",
    "a2-c08-02",
-   "a2-c08-08"
+   "a2-c08-08",
+   "b1-c03-04"
   ]
  },
  {
@@ -4106,6 +4110,16 @@
     "statt eines Autos"
    ],
    [
+    "innerhalb",
+    "within",
+    "innerhalb eines Jahres"
+   ],
+   [
+    "außerhalb",
+    "outside (of)",
+    "außerhalb der Stadt"
+   ],
+   [
     "trotzdem (review)",
     "anyway (adverb, NOT a preposition)",
     "Es regnet. Trotzdem gehen wir."
@@ -4114,7 +4128,7 @@
   "notes": [
    "In everyday speech many people use the dative here (wegen dem Regen). Use the genitive in writing.",
    "weil + clause = wegen + noun: weil es regnet → wegen des Regens. obwohl + clause = trotz + noun: obwohl es regnet → trotz des Regens.",
-   "während and statt come later (B1 ch3)."
+   "während = during (time): während des Interviews. statt = instead of: statt eines Interviews eine Umfrage."
   ],
   "examples": [
    {
@@ -4135,7 +4149,488 @@
    "b1-c02-11",
    "b1-c02-12",
    "b1-c02-14",
-   "b1-c02-15"
+   "b1-c02-15",
+   "b1-c03-07",
+   "b1-c03-08"
+  ]
+ },
+ {
+  "id": "b1-time-prep",
+  "level": "b1",
+  "group": "Prepositions",
+  "title": "Time prepositions: dative and genitive",
+  "why": "When did it happen, how long, during what? Each word has its case.",
+  "headers": [
+   "Preposition",
+   "Case",
+   "Meaning",
+   "Example"
+  ],
+  "rows": [
+   [
+    "seit",
+    "dative",
+    "since / for (until now)",
+    "seit dem Umzug"
+   ],
+   [
+    "vor",
+    "dative",
+    "ago / before",
+    "vor einem Jahr"
+   ],
+   [
+    "nach",
+    "dative",
+    "after",
+    "nach der Schule"
+   ],
+   [
+    "ab",
+    "dative",
+    "from … on",
+    "ab nächster Woche"
+   ],
+   [
+    "von … an",
+    "dative",
+    "from … on",
+    "vom ersten Tag an"
+   ],
+   [
+    "bei",
+    "dative",
+    "during, while",
+    "beim Essen"
+   ],
+   [
+    "zwischen",
+    "dative",
+    "between",
+    "zwischen dem 1. und 5. Mai"
+   ],
+   [
+    "bis zu",
+    "dative",
+    "until, up to",
+    "bis zur Rente"
+   ],
+   [
+    "während",
+    "genitive",
+    "during",
+    "während der Sendung"
+   ],
+   [
+    "innerhalb",
+    "genitive",
+    "within",
+    "innerhalb einer Woche"
+   ],
+   [
+    "außerhalb",
+    "genitive",
+    "outside",
+    "außerhalb der Arbeitszeit"
+   ]
+  ],
+  "notes": [
+   "innerhalb von + dative without article: innerhalb von zwei Tagen.",
+   "In speech often während + dative: write the genitive.",
+   "beim = bei dem, vom = von dem, zum = zu dem, zur = zu der."
+  ],
+  "examples": [
+   {
+    "de": "Seit dem Umzug wohne ich in Berlin.",
+    "en": "Since the move I have lived in Berlin."
+   },
+   {
+    "de": "Während der Sendung klingelte das Telefon.",
+    "en": "During the show the phone rang."
+   }
+  ],
+  "videos": [
+   "yt:-nrXMp8ECZI",
+   "yt:LLCfuUaeM6U"
+  ],
+  "chapter": "B1 ch 3",
+  "lessons": [
+   "b1-c03-07",
+   "b1-c03-08",
+   "b1-c03-09",
+   "b1-c03-12"
+  ]
+ },
+ {
+  "id": "b1-perfekt-praet",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "Perfekt or Präteritum?",
+  "why": "Same meaning, different situation: speaking or writing.",
+  "headers": [
+   "Situation",
+   "Use",
+   "Example"
+  ],
+  "rows": [
+   [
+    "speaking, chat, voice message",
+    "Perfekt",
+    "Ich habe gestern lange gearbeitet."
+   ],
+   [
+    "story, newspaper, biography, Märchen",
+    "Präteritum",
+    "Er arbeitete lange in Basel."
+   ],
+   [
+    "sein, haben, werden (also when speaking)",
+    "Präteritum",
+    "Ich war müde und hatte Hunger."
+   ],
+   [
+    "modal verbs (also when speaking)",
+    "Präteritum",
+    "Ich musste früh los."
+   ],
+   [
+    "wissen, es gab (also when speaking)",
+    "Präteritum",
+    "Das wusste ich nicht."
+   ],
+   [
+    "South Germany, Austria, Switzerland, speaking",
+    "nearly only Perfekt",
+    "Ich bin gestern gegangen."
+   ]
+  ],
+  "notes": [
+   "No difference in time, unlike English has done / did.",
+   "Schweizerdeutsch has practically no Präteritum."
+  ],
+  "examples": [
+   {
+    "de": "Wie war der Urlaub?",
+    "en": "How was the holiday?"
+   },
+   {
+    "de": "Wir hatten Glück und sind viel gewandert.",
+    "en": "We were lucky and hiked a lot."
+   }
+  ],
+  "videos": [
+   "yt:kFu5ZTL_jzA",
+   "yt:fB12-T5jC30"
+  ],
+  "chapter": "B1 ch 3",
+  "lessons": [
+   "b1-c03-04",
+   "b1-c03-06",
+   "b1-c03-09",
+   "b1-c03-12"
+  ]
+ },
+ {
+  "id": "b1-praet-irregular",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "Irregular verbs: Präteritum and Perfekt",
+  "why": "The verbs you need most in stories, in one list.",
+  "headers": [
+   "Infinitive",
+   "Präteritum",
+   "Perfekt",
+   "English"
+  ],
+  "rows": [
+   [
+    "gehen",
+    "ging",
+    "ist gegangen",
+    "go"
+   ],
+   [
+    "kommen",
+    "kam",
+    "ist gekommen",
+    "come"
+   ],
+   [
+    "fahren",
+    "fuhr",
+    "ist gefahren",
+    "drive, go"
+   ],
+   [
+    "bleiben",
+    "blieb",
+    "ist geblieben",
+    "stay"
+   ],
+   [
+    "schreiben",
+    "schrieb",
+    "hat geschrieben",
+    "write"
+   ],
+   [
+    "lesen",
+    "las",
+    "hat gelesen",
+    "read"
+   ],
+   [
+    "sprechen",
+    "sprach",
+    "hat gesprochen",
+    "speak"
+   ],
+   [
+    "treffen",
+    "traf",
+    "hat getroffen",
+    "meet"
+   ],
+   [
+    "finden",
+    "fand",
+    "hat gefunden",
+    "find"
+   ],
+   [
+    "sehen",
+    "sah",
+    "hat gesehen",
+    "see"
+   ],
+   [
+    "geben",
+    "gab",
+    "hat gegeben",
+    "give"
+   ],
+   [
+    "nehmen",
+    "nahm",
+    "hat genommen",
+    "take"
+   ],
+   [
+    "beginnen",
+    "begann",
+    "hat begonnen",
+    "begin"
+   ],
+   [
+    "anfangen",
+    "fing an",
+    "hat angefangen",
+    "start"
+   ],
+   [
+    "aufwachsen",
+    "wuchs auf",
+    "ist aufgewachsen",
+    "grow up"
+   ],
+   [
+    "verlassen",
+    "verließ",
+    "hat verlassen",
+    "leave"
+   ],
+   [
+    "verstehen",
+    "verstand",
+    "hat verstanden",
+    "understand"
+   ],
+   [
+    "stehen",
+    "stand",
+    "hat gestanden",
+    "stand"
+   ],
+   [
+    "sitzen",
+    "saß",
+    "hat gesessen",
+    "sit"
+   ],
+   [
+    "laufen",
+    "lief",
+    "ist gelaufen",
+    "run, walk"
+   ],
+   [
+    "ziehen",
+    "zog",
+    "ist / hat gezogen",
+    "move, pull"
+   ],
+   [
+    "essen",
+    "aß",
+    "hat gegessen",
+    "eat"
+   ],
+   [
+    "trinken",
+    "trank",
+    "hat getrunken",
+    "drink"
+   ],
+   [
+    "schlagen",
+    "schlug",
+    "hat geschlagen",
+    "hit"
+   ],
+   [
+    "gewinnen",
+    "gewann",
+    "hat gewonnen",
+    "win"
+   ],
+   [
+    "verlieren",
+    "verlor",
+    "hat verloren",
+    "lose"
+   ],
+   [
+    "stattfinden",
+    "fand statt",
+    "hat stattgefunden",
+    "take place"
+   ]
+  ],
+  "notes": [
+   "Vowel families help: ei → ie (blieb), i → a (fand), e → a (sprach), a → u / ie (fuhr, fing).",
+   "ich and er/sie/es have no ending: ich kam, er kam."
+  ],
+  "examples": [
+   {
+    "de": "Er verließ mit 25 die Schweiz.",
+    "en": "He left Switzerland at 25."
+   },
+   {
+    "de": "Am Samstag fand das Fest statt.",
+    "en": "The party took place on Saturday."
+   }
+  ],
+  "videos": [
+   "yt:G61p5tiLow4",
+   "yt:4gl3-i0KXqY"
+  ],
+  "chapter": "B1 ch 3",
+  "lessons": [
+   "b1-c03-02",
+   "b1-c03-03",
+   "b1-c03-10",
+   "b1-c03-12"
+  ]
+ },
+ {
+  "id": "b1-praeteritum",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "Präteritum: the written past (lebte, kam, dachte)",
+  "why": "Stories, reports and biographies use this one-word past. Three kinds of verbs build it differently.",
+  "headers": [
+   "Kind",
+   "Infinitive",
+   "ich / er / sie / es",
+   "du",
+   "wir / sie / Sie",
+   "ihr"
+  ],
+  "rows": [
+   [
+    "regular",
+    "leben",
+    "lebte",
+    "lebtest",
+    "lebten",
+    "lebtet"
+   ],
+   [
+    "regular, -ete",
+    "arbeiten",
+    "arbeitete",
+    "arbeitetest",
+    "arbeiteten",
+    "arbeitetet"
+   ],
+   [
+    "irregular",
+    "kommen",
+    "kam",
+    "kamst",
+    "kamen",
+    "kamt"
+   ],
+   [
+    "irregular",
+    "fahren",
+    "fuhr",
+    "fuhrst",
+    "fuhren",
+    "fuhrt"
+   ],
+   [
+    "irregular, separable",
+    "anfangen",
+    "fing … an",
+    "fingst … an",
+    "fingen … an",
+    "fingt … an"
+   ],
+   [
+    "mixed",
+    "denken",
+    "dachte",
+    "dachtest",
+    "dachten",
+    "dachtet"
+   ],
+   [
+    "mixed",
+    "wissen",
+    "wusste",
+    "wusstest",
+    "wussten",
+    "wusstet"
+   ]
+  ],
+  "notes": [
+   "Regular: stem + -te + ending; after -t/-d add -ete.",
+   "Irregular: new stem, ich and er/sie/es have no ending.",
+   "Mixed (denken, wissen, bringen, nennen, kennen): new vowel AND -te.",
+   "Separable verbs split like in the present: Er kam um 8 Uhr an."
+  ],
+  "examples": [
+   {
+    "de": "Herr Ali wuchs in Zürich auf.",
+    "en": "Herr Ali grew up in Zurich."
+   },
+   {
+    "de": "Wir wussten nichts davon.",
+    "en": "We knew nothing about it."
+   }
+  ],
+  "videos": [
+   "yt:4gl3-i0KXqY",
+   "yt:XAudwCE6VE0"
+  ],
+  "chapter": "B1 ch 3",
+  "lessons": [
+   "b1-c03-01",
+   "b1-c03-02",
+   "b1-c03-03",
+   "b1-c03-10",
+   "b1-c03-12"
   ]
  },
  {
