@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0b0d1a">
   <meta name="color-scheme" content="dark">
   <script>/* time-of-day look: dawn 5-7, lake 7-10, day 10-14, plain 14-17, alpen 17-19, dusk 19-21, night (keep in sync with app.js phaseByHour) */{let p,f;try{const st=(JSON.parse(localStorage.getItem('klein-german-v1'))||{}).settings||{};p=st.phase;f=st.font}catch{}if(f)document.documentElement.dataset.font=f;const h=new Date().getHours();document.documentElement.dataset.phase=p&&p!=='auto'?p:h>=5&&h<7?'dawn':h>=7&&h<10?'lake':h>=10&&h<14?'day':h>=14&&h<17?'plain':h>=17&&h<19?'alpen':h>=19&&h<21?'dusk':'night'}</script>
-  <meta name="build" content="cca4b9ef">
+  <meta name="build" content="f8217bb6">
   <script>/* self-update: if the server has a newer build than this cached page, reload once */fetch(location.pathname,{cache:'no-store'}).then(r=>r.text()).then(t=>{const m=t.match(/name="build" content="(\w+)"/),k='german-build-reload';if(m&&m[1]!==document.querySelector('meta[name=build]').content){if(sessionStorage.getItem(k)!==m[1]){sessionStorage.setItem(k,m[1]);location.replace(location.pathname+'?v='+m[1]+location.hash);}}}).catch(()=>{})</script>
   <meta name="description" content="A calm six-month German course, A1 to B1, one small step at a time.">
   <title>German, one step at a time</title>
@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Figtree:wght@400..800&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Playfair+Display:wght@400;500&family=Jersey+15&family=DotGothic16&family=Handjet&family=JetBrains+Mono:wght@400;600&display=swap">
-  <link rel="stylesheet" href="styles.css?v=949c6c6b">
+  <link rel="stylesheet" href="styles.css?v=35fd5298">
   <link rel="stylesheet" href="lesson.css?v=887b5f06">
   <script defer src="full-content.js?v=b3db115f"></script>
   <script defer src="core.js?v=523abe30"></script>

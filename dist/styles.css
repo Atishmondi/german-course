@@ -546,7 +546,7 @@ html{font-synthesis-weight:none}
 :root[data-phase="dawn"]{--bg:#0e1613;--accent:#f2a08a;--accent-hover:#f7b6a3;--accent-2:#a8d8c2;--accent-ink:#2a110b;--mist-1:#3f8f74;--mist-2:#f2a08a}
 :root[data-phase="day"]{--bg:#16130e;--accent:#ead3a2;--accent-hover:#f3e1bb;--accent-2:#f3e8d4;--accent-ink:#2a2012;--mist-1:#cdb88f;--mist-2:#f6ecd9}
 :root[data-phase="dusk"]{--bg:#150a06;--accent:#ff7d45;--accent-hover:#ff9766;--accent-2:#ffbd94;--accent-ink:#2a0d02;--mist-1:#c4361c;--mist-2:#ff9a52}
-:root[data-phase="night"]{--bg:#0c0907;--accent:#ffc274;--accent-hover:#ffd296;--accent-2:#f0d2a6;--accent-ink:#271605;--mist-1:#7a3e12;--mist-2:#ffb35c}
+:root[data-phase="night"]{--bg:#08090a;--accent:#ebe6d6;--accent-hover:#f7f3e8;--accent-2:#d6d6cd;--accent-ink:#141412}
 :root{--serif:"Cormorant Garamond","Times New Roman",serif}
 html[data-phase="dawn"] body::before{background-image:url(img/e-dawn.jpg)}html[data-phase="day"] body::before{background-image:url(img/e-day.jpg)}
 html[data-phase="dusk"] body::before{background-image:url(img/e-dusk.jpg)}html[data-phase="night"] body::before{background-image:url(img/e-night.jpg)}
@@ -640,8 +640,9 @@ html.reduced .eh-ghost,html.reduced .eh-mist,html.reduced .eh-word,html.reduced 
 @keyframes eh-breathe{to{transform:scale(1.04)}}
 /* day + night: greeting sits above the subject so only its tail dips behind */
 :root[data-phase="day"] .eh-word,:root[data-phase="night"] .eh-word{top:5vh}
-:root[data-phase="night"]{--mist-1:#8a4a1c;--mist-2:#ffb35c}
-:root[data-phase="night"] .eh-bg,:root[data-phase="night"] .eh-subject img{filter:saturate(1.05) brightness(.9) sepia(.25)}
+/* night: photo stays as shot, only the text and buttons take the pearl palette */
+:root[data-phase="night"] .eh-mist,:root[data-phase="night"] .eh-ghost{display:none}
+:root[data-phase="night"] .eh-word{color:#eeebe2;text-shadow:0 0 70px rgba(230,228,218,.35),0 0 2px rgba(255,255,255,.2)}
 @media (prefers-reduced-motion:reduce){.eh-stage{animation:none}}
 html.reduced .eh-stage{animation:none}
 /* glow + mist sit above the cut-out subject so it gets the same light (no darker patch on the subject) */
