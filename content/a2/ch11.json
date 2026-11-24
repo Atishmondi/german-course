@@ -1225,7 +1225,9 @@
     "prompt": "Write in German: I would like to travel around the world, but I have no money.",
     "answers": [
      "Ich würde gern eine Weltreise machen, aber ich habe kein Geld.",
-     "Ich würde gerne eine Weltreise machen, aber ich habe kein Geld."
+     "Ich würde gerne eine Weltreise machen, aber ich habe kein Geld.",
+     "Ich würde gern um die Welt reisen, aber ich habe kein Geld.",
+     "Ich würde gerne um die Welt reisen, aber ich habe kein Geld."
     ],
     "hint": "würde in position 2, machen at the end; aber + normal sentence.",
     "explanation": "Ich würde gern eine Weltreise machen, aber ich habe kein Geld.",
@@ -4438,7 +4440,7 @@
      "yt:onP9fcDi7FQ"
     ],
     "nicosWeg": [
-     "nw:a2-21"
+     "nw:a2-59"
     ],
     "practice": []
    },
@@ -4555,7 +4557,9 @@
     "prompt": "Write in German: If I were rich, I would travel around the world.",
     "answers": [
      "Wenn ich reich wäre, würde ich eine Weltreise machen.",
-     "Ich würde eine Weltreise machen, wenn ich reich wäre."
+     "Ich würde eine Weltreise machen, wenn ich reich wäre.",
+     "Wenn ich reich wäre, würde ich um die Welt reisen.",
+     "Ich würde um die Welt reisen, wenn ich reich wäre."
     ],
     "hint": "wenn … wäre, then verb, verb: würde ich … machen.",
     "explanation": "Wenn ich reich wäre, würde ich eine Weltreise machen.",
@@ -5026,7 +5030,7 @@
     },
     {
      "title": "Annas Tag: words for a stressful day",
-     "body": "Anna is always in a hurry. Her day: 6:30 the Wecker rings, but she has verschlafen. At work she has no Mittagspause. In the evening she has her Sprachkurs, and at 22 Uhr she still reads E-Mails. Her Terminkalender is full, and the whole day is hektisch: she feels Zeitdruck and Hektik.",
+     "body": "Anna is always in a hurry. Her day: 6:30 the Wecker rings, but she has verschlafen. At university she has no Mittagspause. In the evening she has her Sprachkurs, and at 22 Uhr she still reads E-Mails. Her Terminkalender is full, and the whole day is hektisch: she feels Zeitdruck and Hektik.",
      "lead": "Before we give advice, we need a problem. Here is Anna's busy day, told in the present and the Perfekt you know, with the new words for time trouble.",
      "examples": [
       {
@@ -5354,7 +5358,7 @@
       }
      ],
      "deeper": {
-      "text": "Germans often soften advice with small words: vielleicht, mal, doch. Du könntest vielleicht mal früher gehen sounds very gentle. Du solltest doch mal Pause machen sounds a bit impatient, like a friend who has said it before. With a stranger or at work, stay with könnten or the an-Ihrer-Stelle frame.",
+      "text": "Germans often soften advice with small words: vielleicht, mal, doch. Du könntest vielleicht mal früher gehen sounds very gentle. Du solltest doch mal eine Pause machen sounds a bit impatient, like a friend who has said it before. With a stranger or at work, stay with könnten or the an-Ihrer-Stelle frame.",
       "example": {
        "de": "Du könntest vielleicht mal früher gehen.",
        "en": "You could maybe leave earlier some time.",
@@ -5972,7 +5976,8 @@
     "prompt": "Write in German: If I were you, I would go to bed earlier.",
     "answers": [
      "Ich an deiner Stelle würde früher ins Bett gehen.",
-     "An deiner Stelle würde ich früher ins Bett gehen."
+     "An deiner Stelle würde ich früher ins Bett gehen.",
+     "Ich würde an deiner Stelle früher ins Bett gehen."
     ],
     "hint": "an deiner Stelle + würde … gehen at the end.",
     "explanation": "An deiner Stelle würde ich früher ins Bett gehen.",
@@ -7280,7 +7285,7 @@
       "auf"
      ],
      "answer": 1,
-     "hint": "Think of someone: the partner often means at or to elsewhere.",
+     "hint": "Think of someone: the same partner as sich gewöhnen (am Fenster uses it too).",
      "explanation": "Ich denke oft an meine Familie.",
      "grammar": true
     },
@@ -7290,7 +7295,7 @@
      "answers": [
       "um"
      ],
-     "hint": "Taking care of something: the partner often means around elsewhere.",
+     "hint": "Taking care of something: the partner that also means around (die Ecke …).",
      "explanation": "Mira kümmert sich um die Pflanzen.",
      "grammar": true
     },
@@ -8625,7 +8630,7 @@
        ]
       }
      },
-     "more": "Anna uses Sie and Herr Ali uses du: that is the real balance in the WG. Hätten Sie Zeit? is the polite question, and Erzähl mir von eurem Plan! is the friendly answer. Look at the dative box in action: von der Arbeit, von eurem Plan, mit Herrn Ali. And the accusative box in the last example: über den Samstag. In one short call you meet two boxes and a polite question.",
+     "more": "Anna uses Sie and Herr Ali uses du: that is the real balance between Herr Ali and the young people. Hätten Sie Zeit? is the polite question, and Erzähl mir von eurem Plan! is the friendly answer. Look at the dative box in action: von der Arbeit, von eurem Plan, mit Herrn Ali. And the accusative box in the last example: über den Samstag. In one short call you meet two boxes and a polite question.",
      "steps": [
       "Anna: Herr Ali, ich habe eine Frage: Hätten Sie am Samstag Zeit?",
       "Herr Ali: Das hängt von der Arbeit ab. Erzähl mir von eurem Plan!",
@@ -8636,11 +8641,11 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:Hjiy_ogekcw",
+     "yt:CDgG2K7Kbbs",
      "yt:7GH7AFxA3gY"
     ],
     "nicosWeg": [
-     "nw:a2-26"
+     "nw:a2-37"
     ],
     "practice": []
    },
@@ -8794,7 +8799,7 @@
      ],
      "answer": 1,
      "hint": "erzählen von = dative box.",
-     "explanation": "Ich erzähle von dem Urlaub.",
+     "explanation": "Ich erzähle von dem Urlaub. In speech: vom Urlaub.",
      "grammar": true
     },
     {
@@ -9660,7 +9665,7 @@
        [
         "dative",
         "Von wem träumt Leon?",
-        "Von Mira."
+        "Von einem berühmten Koch."
        ],
        [
         "dative",
@@ -10215,7 +10220,7 @@
       "Mira: Leon, worüber habt ihr gestern gesprochen?",
       "Leon: Über das Grillfest am Samstag. Ben kümmert sich um die Getränke.",
       "Mira: Gut! Und um wen kümmert sich Anna?",
-      "Leon: Um Frau Weber. Sie fragt, ob sie Hilfe braucht.",
+      "Leon: Um Frau Weber. Anna fragt sie, ob sie Hilfe braucht.",
       "Leon: Und ich bitte dich um eine Kleinigkeit: Kannst du den Salat machen?",
       "Mira: Klar, gern! Ich mache den Salat."
      ]
@@ -10227,7 +10232,7 @@
      "yt:cCEnhEDLmIk"
     ],
     "nicosWeg": [
-     "nw:a2-38"
+     "nw:a2-57"
     ],
     "practice": []
    },
@@ -10482,7 +10487,7 @@
      "answers": [
       "das Grillfest"
      ],
-     "hint": "das Grill…",
+     "hint": "grillen + das Fest",
      "explanation": "das Grillfest",
      "grammar": false
     }
@@ -10587,8 +10592,8 @@
        "en": "On Saturday we have a barbecue party."
       },
       {
-       "de": "Das Grillfest ist im Garten.",
-       "en": "The barbecue party is in the garden."
+       "de": "Das Grillfest ist im Park.",
+       "en": "The barbecue party is in the park."
       }
      ],
      "forms": "die Grillfeste"
@@ -10786,7 +10791,7 @@
        "why": "New today: darauf = auf das Paket."
       }
      ],
-     "more": "Imagine you talk about the parcel for the third time. You do not say auf das Paket every time. You say darauf, like English for it, but with the little word first. The word da means it, and the preposition stays glued to it: da + auf = darauf. For people it is different: you say auf ihn, never daran. This is how people sound natural in German: short, with no repeated nouns."
+     "more": "Imagine you talk about the parcel for the third time. You do not say auf das Paket every time. You say darauf, like English for it, but with the little word first. The word da means it, and the preposition stays glued to it: da + auf = darauf. For people it is different: you say auf ihn, never darauf. This is how people sound natural in German: short, with no repeated nouns."
     },
     {
      "title": "Question to answer: the answer rule",
@@ -13218,9 +13223,9 @@
      "steps": [
       "Mira: Wir machen das Grillfest am Samstag.",
       "Leon: Nein, nicht am Samstag, sondern am Sonntag! Am Samstag regnet es.",
-      "Mira: Stimmt! Kommt Ben auch?",
-      "Leon: Ben würde gern kommen, aber er kann am Sonntag nicht.",
-      "Mira: Schade! Dann fragen wir Anna."
+      "Mira: Stimmt! Kommt Frau Weber auch?",
+      "Leon: Sie würde gern kommen, aber sie kann am Sonntag nicht.",
+      "Mira: Schade! Dann feiern wir ohne sie."
      ]
     }
    ],
@@ -13616,12 +13621,12 @@
      "en": "at short notice",
      "examples": [
       {
-       "de": "Das Treffen ist kurzfristig.",
-       "en": "The meeting is at short notice."
+       "de": "Leon sagt kurzfristig ab.",
+       "en": "Leon cancels at short notice."
       },
       {
-       "de": "Kurzfristig habe ich keine Zeit.",
-       "en": "At short notice I have no time."
+       "de": "Das Treffen war sehr kurzfristig.",
+       "en": "The meeting was at very short notice."
       }
      ]
     },
@@ -14767,7 +14772,11 @@
        ],
        [
         "Ben",
-        "Man braucht es, wenn es dunkel ist. — Mira: Ich weiß, was du meinst: die Lampe!"
+        "Man braucht es, wenn es dunkel ist."
+       ],
+       [
+        "Mira",
+        "Ich weiß, was du meinst: die Lampe!"
        ]
       ]
      }
@@ -14775,7 +14784,7 @@
    ],
    "media": {
     "grammarVideos": [
-     "yt:qDUSrKq6_vg",
+     "yt:fivibJ7IaMA",
      "yt:_zxq6dkt_xE"
     ],
     "nicosWeg": [
@@ -15215,7 +15224,7 @@
    "retrieval": [
     {
      "type": "type",
-     "prompt": "Worauf wartest du? — Ich warte ___. (on it)",
+     "prompt": "Worauf wartest du? — Ich warte ___. (for it)",
      "answers": [
       "darauf"
      ],
@@ -19776,7 +19785,7 @@
    "day": 4,
    "reading": {
     "title": "Zeitreise-Abend in der WG",
-    "text": "Zeitreise-Abend in der WG\n\nAm Freitag machen Mira, Ben, Leon und Anna einen Zeitreise-Abend in der WG. Zuerst spielen sie ein Ratespiel. Leon beschreibt ein Ding aus der Vergangenheit: „Es ist aus Holz und ziemlich groß. Man fährt damit, und Pferde ziehen es.“ Anna weiß es sofort: „Meinst du die Kutsche?“ Genau!\n\nDann sagt jeder, wohin er reisen würde. Leon würde ins Mittelalter reisen, weil er Ritter und Burgen liebt. Anna würde ins Jahr 1900 reisen. „Wenn ich dort leben würde, würde ich viele Briefe schreiben“, sagt sie. Ben würde in die Zukunft reisen: „Vielleicht hätten wir dort keine Autos mehr!“ Mira würde lieber in der Gegenwart bleiben. „Ohne Handy und Strom wäre das Leben schwer für mich“, sagt sie.\n\nAm Ende kommt Frau Weber vorbei. Sie hört die vielen Ideen, lacht und sagt: „Ihr wisst noch nicht, wohin? Kommt Zeit, kommt Rat!“",
+    "text": "Zeitreise-Abend in der WG\n\nAm Freitag machen Mira, Ben, Leon und Anna einen Zeitreise-Abend in der WG. Zuerst spielen sie ein Ratespiel. Leon beschreibt ein Ding aus der Vergangenheit: „Es ist aus Holz und ziemlich groß. Man fährt damit, und Pferde ziehen es.“ Anna weiß es sofort: „Meinst du die Kutsche?“ Genau!\n\nDann sagt jeder, wohin er reisen würde. Leon würde ins Mittelalter reisen, weil er Ritter und Burgen liebt. Anna würde ins Jahr 1900 reisen. „Wenn ich dort leben würde, würde ich viele Briefe schreiben“, sagt sie. Ben würde in die Zukunft reisen: „Vielleicht hätten wir dort keine Autos mehr!“ Mira würde lieber in der Gegenwart bleiben. „Ohne Handy und Strom wäre das Leben schwer für mich“, sagt sie.\n\nAm Ende kommt Frau Weber vorbei. Sie hört die vielen Ideen, lacht und sagt: „So viele Träume! Wer weiß, wie die Zukunft wird? Kommt Zeit, kommt Rat!“",
     "glossary": [
      {
       "de": "die Zeitreise",
@@ -19924,7 +19933,7 @@
    },
    "listening": {
     "title": "Anna und Frau Weber: früher und heute",
-    "script": "Anna: Frau Weber, wie war Ihr Leben, als Sie jung waren?\nFrau Weber: Oh, das war ganz anders. Wir hatten kein Handy und keinen Computer.\nAnna: Und wie haben Sie mit Ihren Freunden gesprochen?\nFrau Weber: Wir haben Briefe geschrieben. Oder wir haben uns im Park getroffen.\nAnna: Hatten Sie einen Fernseher?\nFrau Weber: Nein, am Anfang nicht. Am Abend haben wir oft Radio gehört.\nAnna: Mussten Sie als Kind viel helfen?\nFrau Weber: Ja, ich musste jeden Tag in der Küche helfen. Aber wir waren glücklich.\nAnna: Ich habe einen Traum: Ich würde gern ein Jahr in Italien leben.\nFrau Weber: Das ist ein schöner Traum! Kannst du schon Italienisch?\nAnna: Nur ein bisschen. Wenn ich mehr Zeit hätte, würde ich jeden Tag üben.\nFrau Weber: Dann übst du eben jeden Tag zehn Minuten. Übung macht den Meister!\nAnna: Das ist ein guter Rat. Danke, Frau Weber!",
+    "script": "Anna: Frau Weber, Ihre Oma ist schon neunzig, oder? Wie war ihr Leben, als sie jung war?\nFrau Weber: Oh, das war ganz anders. Sie hatte kein Handy und keinen Computer.\nAnna: Und wie hat sie mit ihren Freunden gesprochen?\nFrau Weber: Sie hat Briefe geschrieben. Oder sie hat ihre Freunde im Park getroffen.\nAnna: Hatte sie einen Fernseher?\nFrau Weber: Nein, am Anfang nicht. Am Abend hat die Familie oft Radio gehört.\nAnna: Musste sie als Kind viel helfen?\nFrau Weber: Ja, sie musste jeden Tag in der Küche helfen. Aber sie sagt: Wir waren glücklich.\nAnna: Ich habe einen Traum: Ich würde gern ein Jahr in Italien leben.\nFrau Weber: Das ist ein schöner Traum! Kannst du schon Italienisch?\nAnna: Nur ein bisschen. Wenn ich mehr Zeit hätte, würde ich jeden Tag üben.\nFrau Weber: Dann übst du eben jeden Tag zehn Minuten. Übung macht den Meister!\nAnna: Das ist ein guter Rat. Danke, Frau Weber!",
     "questions": [
      {
       "type": "choice",
@@ -19940,26 +19949,26 @@
      },
      {
       "type": "choice",
-      "prompt": "What did Frau Weber not have when she was young?",
+      "prompt": "What did Frau Weber's grandmother not have when she was young?",
       "options": [
        "a radio",
        "a phone and a computer",
        "friends"
       ],
       "answer": 1,
-      "hint": "Wir hatten kein …",
-      "explanation": "Wir hatten kein Handy und keinen Computer."
+      "hint": "Sie hatte kein …",
+      "explanation": "Sie hatte kein Handy und keinen Computer."
      },
      {
       "type": "choice",
-      "prompt": "How did she talk with her friends?",
+      "prompt": "How did the grandmother talk with her friends?",
       "options": [
        "by phone",
        "on the computer",
        "with letters or in the park"
       ],
       "answer": 2,
-      "hint": "Wir haben Briefe geschrieben …",
+      "hint": "Sie hat Briefe geschrieben …",
       "explanation": "Briefe or im Park getroffen."
      },
      {
@@ -19984,7 +19993,7 @@
       ],
       "answer": 1,
       "hint": "Am Abend …",
-      "explanation": "Am Abend haben wir oft Radio gehört."
+      "explanation": "Am Abend hat die Familie oft Radio gehört."
      },
      {
       "type": "choice",
@@ -19995,7 +20004,7 @@
        "in the kitchen"
       ],
       "answer": 2,
-      "hint": "ich musste jeden Tag …",
+      "hint": "sie musste jeden Tag …",
       "explanation": "in der Küche."
      },
      {
