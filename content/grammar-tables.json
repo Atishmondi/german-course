@@ -2123,7 +2123,8 @@
   "notes": [
    "Adjective = a describing word (new, big). Only before a noun does it get an ending.",
    "Only two endings here: -e or -en.",
-   "-e in five spots: nominative m, f, n and accusative f, n. Everywhere else -en."
+   "-e in five spots: nominative m, f, n and accusative f, n. Everywhere else -en.",
+   "B1 ch5: comparatives and superlatives take the same endings: der bessere Plan, mit der besten Idee."
   ],
   "examples": [
    {
@@ -2139,7 +2140,7 @@
    "yt:t2jLvRrDThM",
    "yt:plJWxJxbvmM"
   ],
-  "chapter": "A2 ch 5",
+  "chapter": "A2 ch 5; B1 ch 5",
   "lessons": [
    "a2-c05-01",
    "a2-c05-02",
@@ -2147,7 +2148,9 @@
    "a2-c05-07",
    "a2-c05-08",
    "a2-c06-01",
-   "a2-c10-10"
+   "a2-c10-10",
+   "b1-c05-01",
+   "b1-c05-02"
   ]
  },
  {
@@ -2225,7 +2228,8 @@
   "notes": [
    "Where ein has no ending (ein Tisch, ein Bett), the adjective shows the gender: neuer (m), neues (n).",
    "Otherwise it is the same as after der: -e or -en.",
-   "Plural has no ein, so the plural column uses meine / keine."
+   "Plural has no ein, so the plural column uses meine / keine.",
+   "B1 ch5: with a comparative the ending comes after -er: ein billig-er-er Becher, eine billigere Tasche, ein billigeres Konzept."
   ],
   "examples": [
    {
@@ -2240,7 +2244,7 @@
   "videos": [
    "yt:plJWxJxbvmM"
   ],
-  "chapter": "A2 ch 6",
+  "chapter": "A2 ch 6; B1 ch 5",
   "lessons": [
    "a2-c06-01",
    "a2-c06-02",
@@ -2249,7 +2253,9 @@
    "a2-c06-07",
    "a2-c06-08",
    "a2-c08-04",
-   "a2-c08-05"
+   "a2-c08-05",
+   "b1-c05-01",
+   "b1-c05-02"
   ]
  },
  {
@@ -2418,7 +2424,8 @@
    "Comparative = adjective + -er. Superlative = am + adjective + -sten.",
    "Many short words with a, o, u get an umlaut: alt → älter, groß → größer, jung → jünger.",
    "Ends in -t, -d, -s, -ß, -z: add -esten: am ältesten, am kürzesten (but am größten).",
-   "as … as = so … wie; more … than = …er als: Ben ist größer als Leon."
+   "as … as = so … wie; more … than = …er als: Ben ist größer als Leon.",
+   "B1 ch5: before a noun the comparative/superlative takes the normal adjective ending: ein billigerer Becher, die beste Idee, mit dem größeren Problem."
   ],
   "examples": [
    {
@@ -2444,7 +2451,128 @@
    "a2-c03-09",
    "a2-c06-08",
    "a2-c07-06",
-   "a2-c07-08"
+   "a2-c07-08",
+   "b1-c05-01",
+   "b1-c05-02",
+   "b1-c05-03",
+   "b1-c05-09",
+   "b1-c05-10",
+   "b1-c05-12"
+  ]
+ },
+ {
+  "id": "b1-compare-noun",
+  "level": "b1",
+  "group": "Adjectives",
+  "title": "Comparative and superlative before a noun",
+  "why": "How 'better', 'cheaper', 'the best' get an ending when they stand before a noun.",
+  "headers": [
+   "Form",
+   "after der/die/das",
+   "after ein/kein/mein"
+  ],
+  "rows": [
+   [
+    "Comparative, nom. m",
+    {
+     "t": "der billigere Becher",
+     "g": "m"
+    },
+    {
+     "t": "ein billigerer Becher",
+     "g": "m"
+    }
+   ],
+   [
+    "Comparative, nom. f",
+    {
+     "t": "die bessere Idee",
+     "g": "f"
+    },
+    {
+     "t": "eine bessere Idee",
+     "g": "f"
+    }
+   ],
+   [
+    "Comparative, nom. n",
+    {
+     "t": "das größere Problem",
+     "g": "n"
+    },
+    {
+     "t": "ein größeres Problem",
+     "g": "n"
+    }
+   ],
+   [
+    "Comparative, acc. m",
+    {
+     "t": "den höheren Preis",
+     "g": "m"
+    },
+    {
+     "t": "einen höheren Preis",
+     "g": "m"
+    }
+   ],
+   [
+    "Comparative, dat. f",
+    {
+     "t": "mit der grüneren Lösung",
+     "g": "f"
+    },
+    {
+     "t": "mit einer grüneren Lösung",
+     "g": "f"
+    }
+   ],
+   [
+    "Superlative, nom.",
+    {
+     "t": "der heißeste Tag",
+     "g": "m"
+    },
+    "(no ein: always der/die/das)"
+   ],
+   [
+    "Superlative, dat. pl.",
+    {
+     "t": "mit den besten Ideen",
+     "g": "pl"
+    },
+    "(no ein)"
+   ]
+  ],
+  "notes": [
+   "Step 1: comparative -er / superlative -(e)st. Step 2: add the normal adjective ending from a2-adj-der / a2-adj-ein.",
+   "After sein without a noun: no ending (Der Becher ist billiger.) or am …-sten (Er ist am billigsten.).",
+   "mehr and weniger never take an ending: mehr Müll, weniger Plastik.",
+   "hoch → der höhere Preis (c drops); teuer → der teurere Becher; dunkel → die dunklere Farbe.",
+   "-este after t, d, s, ß, z, sch: der älteste, die frischeste, der heißeste Tag (but die größte)."
+  ],
+  "examples": [
+   {
+    "de": "Das ist ein billigerer Becher als im Café.",
+    "en": "That is a cheaper cup than in the café."
+   },
+   {
+    "de": "Der Stadtgarten ist die beste Idee.",
+    "en": "The city garden is the best idea."
+   }
+  ],
+  "videos": [
+   "yt:dp2HrUCylDo",
+   "yt:8QTb4is_fKw"
+  ],
+  "chapter": "B1 ch 5",
+  "lessons": [
+   "b1-c05-01",
+   "b1-c05-02",
+   "b1-c05-03",
+   "b1-c05-09",
+   "b1-c05-10",
+   "b1-c05-12"
   ]
  },
  {
@@ -2858,7 +2986,8 @@
    "In a wenn-sentence the verb goes to the end of the wenn-part.",
    "Real or not real? Wenn ich Zeit habe, komme ich. (real: maybe I have time) / Wenn ich Zeit hätte, würde ich kommen. (not real: I have no time)",
    "The wenn-part can come second: Ich würde kommen, wenn ich Zeit hätte.",
-   "B1: real vs unreal: Wenn ich Zeit habe, komme ich. (possible) / Wenn ich Zeit hätte, würde ich kommen. (not real now). The wenn-part can also come second: Ich würde kommen, wenn ich Zeit hätte."
+   "B1: real vs unreal: Wenn ich Zeit habe, komme ich. (possible) / Wenn ich Zeit hätte, würde ich kommen. (not real now). The wenn-part can also come second: Ich würde kommen, wenn ich Zeit hätte.",
+   "B1 ch5: suggestions in a discussion: Man könnte … / Es wäre sinnvoll, wenn … / Ich würde das vielleicht anders sehen."
   ],
   "examples": [
    {
@@ -2873,7 +3002,7 @@
   "videos": [
    "yt:uMlagwZP9dw"
   ],
-  "chapter": "A2 ch 5, 8, 11; B1 ch 4",
+  "chapter": "A2 ch 5, 8, 11; B1 ch 4; B1 ch 5",
   "lessons": [
    "a2-c05-04",
    "a2-c05-05",
@@ -2899,7 +3028,8 @@
    "b1-c04-05",
    "b1-c04-06",
    "b1-c04-10",
-   "b1-c04-14"
+   "b1-c04-14",
+   "b1-c05-08"
   ]
  },
  {
@@ -3995,7 +4125,8 @@
    "You already know some of these words with another meaning: Ich bin dafür (= I am for it), Wohin damit?, darum (= that is why). Here damit = with it, darum = about it.",
    "Answer a wo-question with a da-word: Woran denkst du? – An die Prüfung. Ich denke oft daran.",
    "Fixed chunk: Es kommt darauf an. (= It depends.)",
-   "B1: da-word + dass/zu clause: Ich achte darauf, pünktlich zu sein. Questions about people: Mit wem? An wen? Über wen?"
+   "B1: da-word + dass/zu clause: Ich achte darauf, pünktlich zu sein. Questions about people: Mit wem? An wen? Über wen?",
+   "B1 ch5: damit has two jobs: da-word \"with it\" (Was machst du damit?) and connector \"so that\" with the verb at the end (…, damit nichts im Müll landet)."
   ],
   "examples": [
    {
@@ -4011,7 +4142,7 @@
    "yt:Rd5W-HwArvM",
    "yt:XhE3bMIiq6g"
   ],
-  "chapter": "A2 ch 11; B1 ch 4",
+  "chapter": "A2 ch 11; B1 ch 4; B1 ch 5",
   "lessons": [
    "a2-c11-07",
    "a2-c11-08",
@@ -4021,7 +4152,8 @@
    "b1-c04-08",
    "b1-c04-09",
    "b1-c04-10",
-   "b1-c04-15"
+   "b1-c04-15",
+   "b1-c05-05"
   ]
  },
  {
@@ -5216,7 +5348,8 @@
    "Verbs with zu: versuchen, vergessen, anfangen, aufhören, vorhaben, beschließen, sich vornehmen.",
    "Adjectives with zu: Es ist wichtig/schön/schwer, … zu … / Ich finde es …, … zu …",
    "Perfekt: the zu-part comes after the participle: Ich habe vergessen, dich anzurufen.",
-   "B1 ch4: da-word + zu: Ich freue mich darauf, dich zu sehen. Ich habe mich dafür entschieden, das Angebot anzunehmen."
+   "B1 ch4: da-word + zu: Ich freue mich darauf, dich zu sehen. Ich habe mich dafür entschieden, das Angebot anzunehmen.",
+   "B1 ch5: Wozu? → um … zu (same subject) or damit (new subject, verb at the end). Full overview: table b1-purpose."
   ],
   "examples": [
    {
@@ -5241,7 +5374,86 @@
    "b1-c04-08",
    "b1-c04-10",
    "b1-c04-14",
-   "b1-c04-15"
+   "b1-c04-15",
+   "b1-c05-04",
+   "b1-c05-05",
+   "b1-c05-06",
+   "b1-c05-08",
+   "b1-c05-11",
+   "b1-c05-12"
+  ]
+ },
+ {
+  "id": "b1-purpose",
+  "level": "b1",
+  "group": "Connectors",
+  "title": "Purpose: um … zu and damit",
+  "why": "How to answer Wozu? (what for?) and say the goal of an action.",
+  "headers": [
+   "Pattern",
+   "When",
+   "Example"
+  ],
+  "rows": [
+   [
+    "um … zu + infinitive",
+    "same subject in both parts",
+    "Ich nehme eine Stofftasche mit, um Plastik zu vermeiden."
+   ],
+   [
+    "um … zu, separable verb",
+    "zu goes inside",
+    "Ich gehe zum Glascontainer, um die Flaschen wegzubringen."
+   ],
+   [
+    "damit … verb at the end",
+    "a different subject in the second part",
+    "Herr Ali kocht Suppe, damit die Gäste satt werden."
+   ],
+   [
+    "damit, same subject",
+    "also possible, but um … zu sounds better",
+    "Ich friere das Brot ein, damit es nicht verdirbt."
+   ],
+   [
+    "damit = with it (da-word)",
+    "no verb at the end, it is not a connector",
+    "Was machst du damit?"
+   ],
+   [
+    "Wozu?",
+    "question for the purpose",
+    "Wozu brauchst du die Dose? – Um Reste mitzunehmen."
+   ]
+  ],
+  "notes": [
+   "Comma before um and before damit.",
+   "um … zu has no own subject: the person is the same as in the main clause.",
+   "Test: do two different people (or things) act? Then damit.",
+   "Not purpose: weil gives a reason (why?), um … zu / damit give a goal (what for?)."
+  ],
+  "examples": [
+   {
+    "de": "Ich bringe die Flaschen zurück, um das Pfand zu bekommen.",
+    "en": "I take the bottles back to get the deposit."
+   },
+   {
+    "de": "Wir trennen den Müll, damit man ihn recyceln kann.",
+    "en": "We separate the rubbish so that it can be recycled."
+   }
+  ],
+  "videos": [
+   "yt:xttZMYQ4HFE",
+   "yt:uTtzEyKCGlo"
+  ],
+  "chapter": "B1 ch 5",
+  "lessons": [
+   "b1-c05-04",
+   "b1-c05-05",
+   "b1-c05-06",
+   "b1-c05-08",
+   "b1-c05-11",
+   "b1-c05-12"
   ]
  },
  {
