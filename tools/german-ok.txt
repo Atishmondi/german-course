@@ -125,3 +125,13 @@ lich
 Trenn
 Akk
 ugs
+# B1 ch06: correct compounds, names, Austrian word, quoted old spelling
+Ratgeberkolumne
+Meteosat
+EUMETSAT
+Juniorentwicklerin
+Bachelorarbeit
+Grätzl
+Karaoke
+Mehrgenerationenhaus
+daß

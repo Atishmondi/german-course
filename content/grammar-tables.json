@@ -117,7 +117,9 @@
    "a1-c04-02",
    "a1-c07-03",
    "a2-c02-07",
-   "a2-c03-07"
+   "a2-c03-07",
+   "b1-c06-04",
+   "b1-c06-05"
   ]
  },
  {
@@ -1400,7 +1402,8 @@
    "a2-c08-05",
    "a2-c11-06",
    "a2-c12-08",
-   "b1-c03-08"
+   "b1-c03-08",
+   "b1-c06-08"
   ]
  },
  {
@@ -2915,7 +2918,8 @@
    "b1-c04-02",
    "b1-c04-04",
    "b1-c04-13",
-   "b1-c04-15"
+   "b1-c04-15",
+   "b1-c06-01"
   ]
  },
  {
@@ -3029,7 +3033,9 @@
    "b1-c04-06",
    "b1-c04-10",
    "b1-c04-14",
-   "b1-c05-08"
+   "b1-c05-08",
+   "b1-c06-03",
+   "b1-c06-09"
   ]
  },
  {
@@ -3683,7 +3689,10 @@
    "a2-c12-06",
    "a2-c12-07",
    "a2-c12-08",
-   "a2-c12-09"
+   "a2-c12-09",
+   "b1-c06-07",
+   "b1-c06-08",
+   "b1-c06-09"
   ]
  },
  {
@@ -4053,7 +4062,8 @@
    "b1-c04-08",
    "b1-c04-09",
    "b1-c04-10",
-   "b1-c04-14"
+   "b1-c04-14",
+   "b1-c06-10"
   ]
  },
  {
@@ -4273,7 +4283,9 @@
    "b1-c02-09",
    "b1-c02-10",
    "b1-c02-13",
-   "b1-c02-15"
+   "b1-c02-15",
+   "b1-c06-04",
+   "b1-c06-05"
   ]
  },
  {
@@ -5166,7 +5178,13 @@
   "videos": [
    "yt:MGn56Qj9h2w"
   ],
-  "chapter": "B1 ch 6"
+  "chapter": "B1 ch 6",
+  "lessons": [
+   "b1-c06-04",
+   "b1-c06-05",
+   "b1-c06-06",
+   "b1-c06-12"
+  ]
  },
  {
   "id": "b1-two-part",
@@ -5294,7 +5312,15 @@
   ],
   "chapter": "A2 ch 6; B1 ch 6",
   "lessons": [
-   "a2-c06-05"
+   "a2-c06-05",
+   "b1-c06-01",
+   "b1-c06-02",
+   "b1-c06-03",
+   "b1-c06-06",
+   "b1-c06-09",
+   "b1-c06-10",
+   "b1-c06-11",
+   "b1-c06-12"
   ]
  },
  {
@@ -5380,7 +5406,10 @@
    "b1-c05-06",
    "b1-c05-08",
    "b1-c05-11",
-   "b1-c05-12"
+   "b1-c05-12",
+   "b1-c06-02",
+   "b1-c06-03",
+   "b1-c06-11"
   ]
  },
  {
@@ -5644,7 +5673,127 @@
   "videos": [
    "yt:XchW3E0kTPk"
   ],
-  "chapter": "B1 ch 6, 11"
+  "chapter": "B1 ch 6, 11",
+  "lessons": [
+   "b1-c06-07"
+  ]
+ },
+ {
+  "id": "b1-relative-prep",
+  "level": "b1",
+  "group": "Pronouns",
+  "title": "Relative clauses with a preposition: mit dem, in der, von denen",
+  "why": "When the verb or phrase needs a preposition, it goes in front of the relative pronoun. The preposition decides the case.",
+  "headers": [
+   "Preposition + case",
+   "masc.",
+   "fem.",
+   "neuter",
+   "plural"
+  ],
+  "rows": [
+   [
+    "mit (+ Dat)",
+    {
+     "t": "mit dem",
+     "g": "m"
+    },
+    {
+     "t": "mit der",
+     "g": "f"
+    },
+    {
+     "t": "mit dem",
+     "g": "n"
+    },
+    {
+     "t": "mit denen",
+     "g": "pl"
+    }
+   ],
+   [
+    "für (+ Akk)",
+    {
+     "t": "für den",
+     "g": "m"
+    },
+    {
+     "t": "für die",
+     "g": "f"
+    },
+    {
+     "t": "für das",
+     "g": "n"
+    },
+    {
+     "t": "für die",
+     "g": "pl"
+    }
+   ],
+   [
+    "in (where? + Dat)",
+    {
+     "t": "in dem",
+     "g": "m"
+    },
+    {
+     "t": "in der",
+     "g": "f"
+    },
+    {
+     "t": "in dem",
+     "g": "n"
+    },
+    {
+     "t": "in denen",
+     "g": "pl"
+    }
+   ],
+   [
+    "von (+ Dat)",
+    {
+     "t": "von dem",
+     "g": "m"
+    },
+    {
+     "t": "von der",
+     "g": "f"
+    },
+    {
+     "t": "von dem",
+     "g": "n"
+    },
+    {
+     "t": "von denen",
+     "g": "pl"
+    }
+   ]
+  ],
+  "notes": [
+   "Gender and number come from the noun before the comma; the case comes from the preposition or verb in the relative clause.",
+   "The preposition never goes to the end: das Atelier, für das du arbeiten wirst.",
+   "For places you can also use wo: die Stadt, wo (= in der) Anna wohnen wird."
+  ],
+  "examples": [
+   {
+    "de": "Das ist der Kollege, mit dem ich jeden Tag arbeite.",
+    "en": "That's the colleague I work with every day."
+   },
+   {
+    "de": "Wien ist eine Stadt, in der viele Künstler leben.",
+    "en": "Vienna is a city in which many artists live."
+   }
+  ],
+  "videos": [
+   "yt:XchW3E0kTPk"
+  ],
+  "chapter": "B1 ch 6",
+  "lessons": [
+   "b1-c06-07",
+   "b1-c06-08",
+   "b1-c06-09",
+   "b1-c06-12"
+  ]
  },
  {
   "id": "b1-participles",
