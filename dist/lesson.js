@@ -11,6 +11,13 @@
   let textCollapsed=false;   // reading text / listening panel folded away
   let keyHandler=null;       // one document keydown handler, replaced on every mount
 
+  // Book PDFs are local-only (dist/books symlink, never published): link only if a HEAD request finds the file.
+  const bookOk={};
+  const bookLink=(lvl,p,txt)=>{if(!lvl?.pdf||!Array.isArray(p)||!p.length)return esc(txt);
+    const f=lvl.pdf.split('/').pop();
+    if(!(f in bookOk)){bookOk[f]=false;try{fetch('books/'+f,{method:'HEAD'}).then(r=>{bookOk[f]=r.ok}).catch(()=>{});}catch(e){}}
+    return bookOk[f]?`<a href="books/${encodeURIComponent(f)}#page=${p[0]+(lvl.pdfPageOffset||0)}" target="_blank" rel="noopener">${esc(txt)}</a>`:esc(txt);};
+  ['A1','A2','B1'].forEach(l=>bookLink({pdf:`Netzwerk_neu_${l}.pdf`},[1],'')); // start the HEAD checks at load
   const pages=p=>Array.isArray(p)&&p.length?(p[0]===p[p.length-1]?String(p[0]):`${p[0]}–${p[p.length-1]}`):'';
   const answerText=q=>q.type==='choice'?q.options[q.answer]:q.type==='build'?q.answer.join(' '):(q.answers||[])[0];
   const SPK='<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"/></svg>';
@@ -269,7 +276,7 @@
       {phase:'Start',title:lesson.title,html:()=>`<p class="lp-goal">${esc(lesson.goal)}</p>
         <div class="lp-oneline"><span class="lp-label">Today's idea</span><p>${esc(g.oneLine||g.point)}</p></div>
         ${gtabs}
-        <p class="lp-muted">${lesson.minutes?`About ${lesson.minutes} minutes. `:''}${lesson.printedPages?`Your book: ${esc(lvl?.book||String(lesson.level||'').toUpperCase())}, page ${pages(lesson.printedPages)}. `:''}You can pause any time.</p>`,
+        <p class="lp-muted">${lesson.minutes?`About ${lesson.minutes} minutes. `:''}${lesson.printedPages?`Your book: ${esc(lvl?.book||String(lesson.level||'').toUpperCase())}, page ${bookLink(lvl,lesson.printedPages,pages(lesson.printedPages))}. `:''}You can pause any time.</p>`,
         nextLabel:cards.length?'Start learning':'Next: Drills'},
       ...cards.map((c,n)=>{const sk=`${id}#${n}`, steps=Array.isArray(c.steps)?c.steps.length:0, off=cards[0]&&cards[0].intro?1:0;
         return {phase:'Learn',card:n,title:c.title||`Idea ${n+1}`,wide:true,sub:()=>c.intro?'Introduction':`Card ${n+1-off} of ${cards.length-off}`,
