@@ -135,3 +135,7 @@ Grätzl
 Karaoke
 Mehrgenerationenhaus
 daß
+# B1 ch08: music genre, Barfuß path, info box (correct words)
+Metal
+Barfußpfad
+Infokasten

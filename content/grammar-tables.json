@@ -1697,7 +1697,9 @@
    "a2-c05-09",
    "a2-c06-07",
    "a2-c08-07",
-   "a2-c10-04"
+   "a2-c10-04",
+   "b1-c08-02",
+   "b1-c08-05"
   ]
  },
  {
@@ -2625,7 +2627,8 @@
   "notes": [
    "Reflexive verb = a verb where the action goes back to the subject: Ich wasche mich (I wash myself).",
    "Use the dative form when the sentence already has an accusative object: Ich wasche mir die Hände.",
-   "Only ich and du are different in accusative and dative."
+   "Only ich and du are different in accusative and dative.",
+   "More verbs with mir/dir (sich etwas ansehen, merken, gönnen …): table b1-reflexive-dative."
   ],
   "examples": [
    {
@@ -2650,7 +2653,11 @@
    "a2-c04-06",
    "a2-c04-09",
    "a2-c10-03",
-   "a2-c11-05"
+   "a2-c11-05",
+   "b1-c08-01",
+   "b1-c08-02",
+   "b1-c08-03",
+   "b1-c08-09"
   ]
  },
  {
@@ -2920,7 +2927,8 @@
    "b1-c04-04",
    "b1-c04-13",
    "b1-c04-15",
-   "b1-c06-01"
+   "b1-c06-01",
+   "b1-c08-02"
   ]
  },
  {
@@ -4033,6 +4041,16 @@
     "sorgen",
     "für + acc.",
     "Wer sorgt für das Essen?"
+   ],
+   [
+    "warnen",
+    "vor + dat.",
+    "Ich warne dich vor der heißen Pfanne."
+   ],
+   [
+    "sich erinnern",
+    "an + acc.",
+    "Ich erinnere mich an das Lied."
    ]
   ],
   "notes": [
@@ -4066,7 +4084,8 @@
    "b1-c04-09",
    "b1-c04-10",
    "b1-c04-14",
-   "b1-c06-10"
+   "b1-c06-10",
+   "b1-c08-05"
   ]
  },
  {
@@ -5199,7 +5218,94 @@
    "b1-c06-04",
    "b1-c06-05",
    "b1-c06-06",
-   "b1-c06-12"
+   "b1-c06-12",
+   "b1-c08-02",
+   "b1-c08-08"
+  ]
+ },
+ {
+  "id": "b1-reflexive-dative",
+  "level": "b1",
+  "group": "Pronouns",
+  "title": "Reflexive verbs with a dative pronoun (mir, dir)",
+  "why": "When the sentence already has an accusative object (a body part, a thing, a zu-clause), the reflexive pronoun is dative: Ich putze mir die Zähne.",
+  "headers": [
+   "Verb",
+   "Meaning",
+   "Example"
+  ],
+  "rows": [
+   [
+    "sich (Dat) die Zähne putzen / die Hände waschen / die Haare kämmen",
+    "to brush one's teeth / wash one's hands / comb one's hair",
+    "Ich putze mir die Zähne."
+   ],
+   [
+    "sich (Dat) das Bein brechen / den Finger verletzen",
+    "to break one's leg / hurt one's finger",
+    "Frau Weber hat sich den Knöchel gebrochen."
+   ],
+   [
+    "sich (Dat) wehtun",
+    "to hurt oneself",
+    "Pass auf, dass du dir nicht wehtust."
+   ],
+   [
+    "sich (Dat) etwas ansehen / anhören",
+    "to watch / listen to something",
+    "Ich sehe mir den Film an."
+   ],
+   [
+    "sich (Dat) etwas merken / einprägen / aufschreiben",
+    "to remember / memorise / write down something",
+    "Ich merke mir die Nummer."
+   ],
+   [
+    "sich (Dat) etwas wünschen / leisten / gönnen / holen",
+    "to wish for / afford / treat oneself to / get something",
+    "Heute gönnt sich Frau Weber eine Pause."
+   ],
+   [
+    "sich (Dat) etwas vorstellen / überlegen / vornehmen",
+    "to imagine / think over / plan something",
+    "Stell dir vor!"
+   ],
+   [
+    "sich (Dat) etwas angewöhnen / abgewöhnen",
+    "to get into / out of a habit",
+    "Ich habe mir angewöhnt, früh aufzustehen."
+   ]
+  ],
+  "notes": [
+   "Only ich and du change: mir, dir. er/sie/es, wir, ihr, sie/Sie stay sich, uns, euch.",
+   "Separable verbs: pronoun after the verb, prefix at the end: Ich sehe mir den Film an.",
+   "Body parts take the pronoun instead of mein: Ich wasche mir die Hände (not meine Hände).",
+   "No accusative object, only a preposition phrase: the pronoun stays accusative: Ich erinnere mich an das Lied."
+  ],
+  "examples": [
+   {
+    "de": "Ich putze mir die Zähne.",
+    "en": "I brush my teeth."
+   },
+   {
+    "de": "Ich habe mir angewöhnt, früh aufzustehen.",
+    "en": "I have got into the habit of getting up early."
+   }
+  ],
+  "videos": [
+   "yt:yu9irqGBvn8",
+   "yt:Ad1kcT4gm38"
+  ],
+  "chapter": "B1 ch 8",
+  "lessons": [
+   "b1-c08-01",
+   "b1-c08-02",
+   "b1-c08-03",
+   "b1-c08-05",
+   "b1-c08-06",
+   "b1-c08-09",
+   "b1-c08-10",
+   "b1-c08-12"
   ]
  },
  {
@@ -5247,7 +5353,10 @@
   ],
   "notes": [
    "je + comparative starts a side sentence: its verb goes to the end. desto + comparative is followed straight away by the verb.",
-   "weder … noch is already negative: don't add nicht or kein."
+   "weder … noch is already negative: don't add nicht or kein.",
+   "sowohl … als auch with two singular subjects: plural verb: Sowohl Mira als auch Ben lernen.",
+   "entweder … oder: each part keeps its normal word order; entweder can also be followed directly by the verb (recognise it).",
+   "Comma before sondern in nicht nur …, sondern auch."
   ],
   "examples": [
    {
@@ -5263,7 +5372,14 @@
    "yt:UEYP6GCxr0k",
    "yt:841N2loTCNw"
   ],
-  "chapter": "B1 ch 8, 12"
+  "chapter": "B1 ch 8, 12",
+  "lessons": [
+   "b1-c08-07",
+   "b1-c08-08",
+   "b1-c08-09",
+   "b1-c08-11",
+   "b1-c08-12"
+  ]
  },
  {
   "id": "b1-futur",
@@ -5425,7 +5541,83 @@
    "b1-c05-12",
    "b1-c06-02",
    "b1-c06-03",
-   "b1-c06-11"
+   "b1-c06-11",
+   "b1-c08-04",
+   "b1-c08-05",
+   "b1-c08-06",
+   "b1-c08-10"
+  ]
+ },
+ {
+  "id": "b1-brauchen-zu",
+  "level": "b1",
+  "group": "Verbs",
+  "title": "brauchen + zu: do not have to, only have to",
+  "why": "nicht/kein/nur + brauchen + zu + infinitive says that something is not necessary, or is the only thing necessary.",
+  "headers": [
+   "Pattern",
+   "Meaning",
+   "Example"
+  ],
+  "rows": [
+   [
+    "nicht brauchen + zu",
+    "= nicht müssen (not have to)",
+    "Du brauchst nicht zu warten."
+   ],
+   [
+    "kein + noun + brauchen + zu",
+    "no … necessary",
+    "Du brauchst keinen Termin zu machen."
+   ],
+   [
+    "nur brauchen + zu",
+    "= nur müssen (only have to)",
+    "Du brauchst nur anzurufen."
+   ],
+   [
+    "separable verbs",
+    "zu goes inside",
+    "Ihr braucht nichts mitzubringen."
+   ],
+   [
+    "reflexive verbs",
+    "pronoun before nicht",
+    "Du brauchst dich nicht zu beeilen."
+   ],
+   [
+    "side clause",
+    "zu + infinitive, then brauchen last",
+    "…, dass du nicht zu kommen brauchst."
+   ]
+  ],
+  "notes": [
+   "Never use brauchen + zu for 'must' without nicht, kein or nur: use müssen.",
+   "nicht brauchen zu (not necessary) is not nicht dürfen (not allowed).",
+   "Spoken German often drops zu (Du brauchst nicht kommen); write it with zu.",
+   "brauchen as a normal verb (Ich brauche Hilfe) has no zu."
+  ],
+  "examples": [
+   {
+    "de": "Ihr braucht nicht jeden Tag zu kommen.",
+    "en": "You don't have to come every day."
+   },
+   {
+    "de": "Du brauchst nur Hunger mitzubringen.",
+    "en": "You only need to bring an appetite."
+   }
+  ],
+  "videos": [
+   "yt:vC_7XBaqsc4",
+   "yt:QBBlMrj0lTw"
+  ],
+  "chapter": "B1 ch 8",
+  "lessons": [
+   "b1-c08-04",
+   "b1-c08-05",
+   "b1-c08-06",
+   "b1-c08-10",
+   "b1-c08-12"
   ]
  },
  {
