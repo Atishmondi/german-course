@@ -1857,7 +1857,8 @@
    "a2-c07-09",
    "a2-c08-06",
    "a2-c09-09",
-   "a2-c10-07"
+   "a2-c10-07",
+   "b1-c07-02"
   ]
  },
  {
@@ -3313,7 +3314,9 @@
    "b1-c01-09",
    "b1-c01-12",
    "b1-c02-03",
-   "b1-c02-05"
+   "b1-c02-05",
+   "b1-c07-05",
+   "b1-c07-06"
   ]
  },
  {
@@ -4469,7 +4472,8 @@
    "b1-c03-07",
    "b1-c03-08",
    "b1-c03-09",
-   "b1-c03-12"
+   "b1-c03-12",
+   "b1-c07-06"
   ]
  },
  {
@@ -4538,7 +4542,9 @@
    "b1-c03-04",
    "b1-c03-06",
    "b1-c03-09",
-   "b1-c03-12"
+   "b1-c03-12",
+   "b1-c07-01",
+   "b1-c07-04"
   ]
  },
  {
@@ -5101,8 +5107,18 @@
     "en": "She had never eaten sushi before."
    }
   ],
-  "videos": [],
-  "chapter": "B1 ch 7"
+  "videos": [
+   "yt:DO0N4ZPkUus",
+   "yt:JtGT8F9brXs"
+  ],
+  "chapter": "B1 ch 7",
+  "lessons": [
+   "b1-c07-01",
+   "b1-c07-02",
+   "b1-c07-03",
+   "b1-c07-04",
+   "b1-c07-12"
+  ]
  },
  {
   "id": "b1-n-decl",
@@ -6044,6 +6060,164 @@
    "b1-c04-09",
    "b1-c04-10",
    "b1-c04-15"
+  ]
+ },
+ {
+  "id": "b1-temporal",
+  "level": "b1",
+  "group": "Connectors",
+  "title": "Time clauses: nachdem, bevor, bis, seitdem, während, als, wenn",
+  "why": "When did it happen, in what order? These words open a side sentence: the verb goes to the end.",
+  "headers": [
+   "Word",
+   "Meaning",
+   "Tense / use",
+   "Example"
+  ],
+  "rows": [
+   [
+    "nachdem",
+    "after",
+    "earlier event: Plusquamperfekt (story) or Perfekt (now); main clause: Präteritum/Perfekt or Präsens",
+    "Nachdem ich gegessen hatte, ging ich spazieren."
+   ],
+   [
+    "bevor",
+    "before",
+    "same tense in both clauses",
+    "Ich dusche, bevor ich frühstücke."
+   ],
+   [
+    "bis",
+    "until",
+    "same tense; no nicht needed",
+    "Ben bleibt in Berlin, bis er fertig ist."
+   ],
+   [
+    "seit / seitdem",
+    "since (until now)",
+    "Präsens for something that still goes on",
+    "Seitdem du hilfst, ist die Küche lauter."
+   ],
+   [
+    "während",
+    "while (at the same time)",
+    "same tense in both clauses",
+    "Während ich koche, hört Leon Musik."
+   ],
+   [
+    "als",
+    "when (one time in the past)",
+    "Präteritum or Perfekt",
+    "Als Ben kam, hatte Anna schon gepackt."
+   ],
+   [
+    "wenn",
+    "whenever / if / when (present, future)",
+    "every time, or not yet happened",
+    "Immer wenn Leon kocht, ist es laut."
+   ]
+  ],
+  "notes": [
+   "Side sentence = comma, verb at the very end.",
+   "nach dem Umzug (preposition + dative) or nachdem ich umgezogen war (conjunction + clause).",
+   "seitdem can also be an adverb on its own: Seitdem ist es laut. (verb in position 2)",
+   "If the clause comes first, the main verb comes right after the comma."
+  ],
+  "examples": [
+   {
+    "de": "Nachdem Anna gepackt hatte, fuhr sie nach Wien.",
+    "en": "After Anna had packed, she went to Vienna."
+   },
+   {
+    "de": "Bevor sie fuhr, packte sie ihre Pflanzen ein.",
+    "en": "Before she left, she packed her plants."
+   }
+  ],
+  "videos": [
+   "yt:vQXxjNb7pHA",
+   "yt:Rj2_eX1bFcM"
+  ],
+  "chapter": "B1 ch 7",
+  "lessons": [
+   "b1-c07-04",
+   "b1-c07-05",
+   "b1-c07-06",
+   "b1-c07-10",
+   "b1-c07-12"
+  ]
+ },
+ {
+  "id": "b1-particles",
+  "level": "b1",
+  "group": "Sentence",
+  "title": "Modal particles: doch, ja, mal, denn, eigentlich, halt, eben",
+  "why": "Small words that change the feeling of a sentence, not its meaning. Very common in speech.",
+  "headers": [
+   "Particle",
+   "Job",
+   "Example"
+  ],
+  "rows": [
+   [
+    "doch",
+    "friendly reminder or push",
+    "Das weißt du doch! Setz dich doch!"
+   ],
+   [
+    "ja",
+    "shared knowledge, surprise",
+    "Du weißt ja, … Das ist ja toll!"
+   ],
+   [
+    "mal",
+    "softens a request",
+    "Kannst du mal helfen? Hör mal zu!"
+   ],
+   [
+    "denn",
+    "interest in a question",
+    "Was ist denn los?"
+   ],
+   [
+    "eigentlich",
+    "by the way, actually",
+    "Wie heißt du eigentlich?"
+   ],
+   [
+    "halt",
+    "that is how it is (South, Austria)",
+    "Das ist halt so."
+   ],
+   [
+    "eben",
+    "that is how it is (North)",
+    "Dann eben nicht."
+   ]
+  ],
+  "notes": [
+   "Particles stand in the middle of the sentence, usually after the verb and subject.",
+   "They are not stressed (except stressed DOCH: Er ist DOCH gekommen).",
+   "Do not translate them word for word: learn the feeling."
+  ],
+  "examples": [
+   {
+    "de": "Das ist doch nicht so schlimm.",
+    "en": "It is not that bad, after all."
+   },
+   {
+    "de": "Wo warst du denn?",
+    "en": "Where were you, then?"
+   }
+  ],
+  "videos": [
+   "yt:vcM2HdKEfaY",
+   "yt:PLAHA02nF1Q"
+  ],
+  "chapter": "B1 ch 7",
+  "lessons": [
+   "b1-c07-09",
+   "b1-c07-12"
   ]
  }
 ]
